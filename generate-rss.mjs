@@ -1,6 +1,6 @@
 /**
  * generate-rss.mjs
- * Bluesky「創作百合」フィード → RSS 2.0 XML 生成スクリプト
+ * Bluesky フィード → RSS 2.0 XML 生成スクリプト
  *
  * 環境変数:
  *   BSKY_IDENTIFIER  : Blueskyのhandle (例: yourname.bsky.social)
@@ -13,13 +13,26 @@ import { fileURLToPath } from 'url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-const FEED_AT_URI =
-  'at://did:plc:hvh4jnvd2j5fgczxabdme4nu/app.bsky.feed.generator/aaaddbrcslzj4'
-const FEED_NAME = '創作百合'
-const FEED_URL = 'https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4'
 const BSKY_API = 'https://bsky.social/xrpc'
 const LIMIT = 50
-const OUTPUT_PATH = join(__dirname, 'rss', 'sosaku-yuri.xml')
+
+// 生成するフィードの定義
+const FEEDS = [
+  {
+    atUri: 'at://did:plc:hvh4jnvd2j5fgczxabdme4nu/app.bsky.feed.generator/aaaddbrcslzj4',
+    name: '創作百合',
+    description: '#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード',
+    url: 'https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4',
+    outputFile: 'rss/sosaku-yuri.xml',
+  },
+  {
+    atUri: 'at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot',
+    name: 'Discover',
+    description: 'Trending content from your personal network',
+    url: 'https://bsky.app/profile/bsky.app/feed/whats-hot',
+    outputFile: 'rss/discover.xml',
+  },
+]
 
 // --- 認証 ---
 async function createSession(identifier, password) {
@@ -34,9 +47,9 @@ async function createSession(identifier, password) {
 }
 
 // --- フィード取得 ---
-async function getFeed(token) {
+async function getFeed(token, atUri) {
   const url = new URL(`${BSKY_API}/app.bsky.feed.getFeed`)
-  url.searchParams.set('feed', FEED_AT_URI)
+  url.searchParams.set('feed', atUri)
   url.searchParams.set('limit', String(LIMIT))
 
   const res = await fetch(url.toString(), {
@@ -86,7 +99,7 @@ function extractImages(post) {
   return images
 }
 
-function buildRss(feedItems) {
+function buildRss(feedDef, feedItems) {
   const items = feedItems
     .map((item) => {
       const post = item.post
@@ -129,9 +142,9 @@ function buildRss(feedItems) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>${FEED_NAME} - Bluesky Feed</title>
-    <link>${FEED_URL}</link>
-    <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
+    <title>${feedDef.name} - Bluesky Feed</title>
+    <link>${feedDef.url}</link>
+    <description>${escapeXml(feedDef.description)}</description>
     <language>ja</language>
     <lastBuildDate>${now}</lastBuildDate>
     <ttl>60</ttl>
@@ -153,15 +166,18 @@ async function main() {
   console.log('🔑 Bluesky認証中...')
   const token = await createSession(identifier, password)
 
-  console.log('📡 フィード取得中...')
-  const feedItems = await getFeed(token)
-  console.log(`✅ ${feedItems.length}件取得`)
-
-  const xml = buildRss(feedItems)
-
   mkdirSync(join(__dirname, 'rss'), { recursive: true })
-  writeFileSync(OUTPUT_PATH, xml, 'utf-8')
-  console.log(`📄 RSS生成完了: ${OUTPUT_PATH}`)
+
+  for (const feed of FEEDS) {
+    console.log(`📡 フィード取得中: ${feed.name}`)
+    const feedItems = await getFeed(token, feed.atUri)
+    console.log(`✅ ${feedItems.length}件取得`)
+
+    const xml = buildRss(feed, feedItems)
+    const outputPath = join(__dirname, feed.outputFile)
+    writeFileSync(outputPath, xml, 'utf-8')
+    console.log(`📄 RSS生成完了: ${outputPath}`)
+  }
 }
 
 main().catch((err) => {
