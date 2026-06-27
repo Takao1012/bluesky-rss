@@ -118,7 +118,8 @@ function buildRss(feedItems) {
       <guid isPermaLink="true">${escapeXml(postUrl)}</guid>
       <pubDate>${pubDate}</pubDate>
       <author>${escapeXml(displayName)} (@${escapeXml(author.handle)})</author>
-      <description><![CDATA[${descHtml}]]></description>${enclosure}
+      <description><![CDATA[${descHtml}]]></description>
+      <content:encoded><![CDATA[${descHtml}]]></content:encoded>${enclosure}
     </item>`
     })
     .join('\n')
@@ -126,7 +127,7 @@ function buildRss(feedItems) {
   const now = new Date().toUTCString()
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>${FEED_NAME} - Bluesky Feed</title>
     <link>${FEED_URL}</link>
