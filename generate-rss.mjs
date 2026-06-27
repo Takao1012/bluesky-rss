@@ -57,6 +57,35 @@ function escapeXml(str) {
     .replace(/'/g, '&apos;')
 }
 
+// --- 画像URL抽出 ---
+function extractImages(post) {
+  const embed = post.embed
+  if (!embed) return []
+
+  const images = []
+
+  // app.bsky.embed.images#view
+  if (embed.$type === 'app.bsky.embed.images#view' && Array.isArray(embed.images)) {
+    for (const img of embed.images) {
+      if (img.fullsize) images.push({ url: img.fullsize, alt: img.alt ?? '' })
+      else if (img.thumb) images.push({ url: img.thumb, alt: img.alt ?? '' })
+    }
+  }
+
+  // app.bsky.embed.recordWithMedia#view (引用ポスト+画像)
+  if (embed.$type === 'app.bsky.embed.recordWithMedia#view' && embed.media) {
+    const media = embed.media
+    if (media.$type === 'app.bsky.embed.images#view' && Array.isArray(media.images)) {
+      for (const img of media.images) {
+        if (img.fullsize) images.push({ url: img.fullsize, alt: img.alt ?? '' })
+        else if (img.thumb) images.push({ url: img.thumb, alt: img.alt ?? '' })
+      }
+    }
+  }
+
+  return images
+}
+
 function buildRss(feedItems) {
   const items = feedItems
     .map((item) => {
@@ -64,7 +93,6 @@ function buildRss(feedItems) {
       const author = post.author
       const record = post.record
       const text = record?.text ?? ''
-      const cid = post.cid
       const did = author.did
       const rkey = post.uri.split('/').pop()
       const postUrl = `https://bsky.app/profile/${did}/post/${rkey}`
@@ -72,13 +100,25 @@ function buildRss(feedItems) {
       const displayName = author.displayName || author.handle
       const title = text.slice(0, 60).replace(/\n/g, ' ') + (text.length > 60 ? '…' : '')
 
+      // 画像をdescriptionに埋め込む
+      const images = extractImages(post)
+      const imgHtml = images
+        .map((img) => `<img src="${img.url}" alt="${img.alt}" style="max-width:100%;margin-top:8px;">`)
+        .join('\n')
+      const descHtml = `${text.replace(/\n/g, '<br>')}${imgHtml ? '\n' + imgHtml : ''}`
+
+      // 最初の画像をenclosureとして追加
+      const enclosure = images.length > 0
+        ? `\n      <enclosure url="${escapeXml(images[0].url)}" type="image/jpeg" length="0"/>`
+        : ''
+
       return `    <item>
       <title>${escapeXml(title)}</title>
       <link>${escapeXml(postUrl)}</link>
       <guid isPermaLink="true">${escapeXml(postUrl)}</guid>
       <pubDate>${pubDate}</pubDate>
       <author>${escapeXml(displayName)} (@${escapeXml(author.handle)})</author>
-      <description><![CDATA[${text.replace(/\n/g, '<br>')}]]></description>
+      <description><![CDATA[${descHtml}]]></description>${enclosure}
     </item>`
     })
     .join('\n')
