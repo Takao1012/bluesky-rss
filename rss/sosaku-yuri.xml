@@ -5,8 +5,22 @@
     <link>https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4</link>
     <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 02:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:00:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>#創作百合 29×44</title>
+      <link>https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mpkte5kc4s2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mpkte5kc4s2v</guid>
+      <pubDate>Wed, 01 Jul 2026 05:54:47 GMT</pubDate>
+      <author>noda (@eeedeco.bsky.social)</author>
+      <description><![CDATA[#創作百合<br>29×44
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiagrrsi6unmkjoblw7wbluaaju4mitrmxldihoytgvb7ftihkxfvi" alt="" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiei6fu4jkocaovsp22kxqy4vclqdk2kc4vty6c6ldmcra72ctnwni" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[#創作百合<br>29×44
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiagrrsi6unmkjoblw7wbluaaju4mitrmxldihoytgvb7ftihkxfvi" alt="" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiei6fu4jkocaovsp22kxqy4vclqdk2kc4vty6c6ldmcra72ctnwni" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiagrrsi6unmkjoblw7wbluaaju4mitrmxldihoytgvb7ftihkxfvi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>跡がたくさんついた創作百合の話 #創作百合 #きらりま</title>
       <link>https://bsky.app/profile/did:plc:jzcmeem47mtkz2h6pmmz4mwy/post/3mpjx237kvs2u</link>
@@ -672,18 +686,6 @@
       <content:encoded><![CDATA[お互いを温め合う女の子達の話<br>#創作百合<br>#きらりま
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jzcmeem47mtkz2h6pmmz4mwy/bafkreihbdtgwafelmdix66ilh6aphtfg6wcwyzu4cqssjwcvugyrdwblpe" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jzcmeem47mtkz2h6pmmz4mwy/bafkreihbdtgwafelmdix66ilh6aphtfg6wcwyzu4cqssjwcvugyrdwblpe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>【創作百合】爪のお手入れ  #創作百合</title>
-      <link>https://bsky.app/profile/did:plc:yuovtlhhpvubye6yjdiiiswo/post/3mosgv6ltks2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yuovtlhhpvubye6yjdiiiswo/post/3mosgv6ltks2k</guid>
-      <pubDate>Sun, 21 Jun 2026 13:07:46 GMT</pubDate>
-      <author>流砂 (@pryusaq.bsky.social)</author>
-      <description><![CDATA[【創作百合】爪のお手入れ<br><br>#創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yuovtlhhpvubye6yjdiiiswo/bafkreiflbxpraf46b772ka6nlctq6663ta45negyrekxawnt5zzwsknuwe" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[【創作百合】爪のお手入れ<br><br>#創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yuovtlhhpvubye6yjdiiiswo/bafkreiflbxpraf46b772ka6nlctq6663ta45negyrekxawnt5zzwsknuwe" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yuovtlhhpvubye6yjdiiiswo/bafkreiflbxpraf46b772ka6nlctq6663ta45negyrekxawnt5zzwsknuwe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
