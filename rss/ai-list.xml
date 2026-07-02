@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AIリスト - Bluesky Feed</title>
+    <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
+    <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
+    <language>ja</language>
+    <lastBuildDate>Thu, 02 Jul 2026 10:44:54 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntka5p2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntka5p2w</guid>
+      <pubDate>Thu, 02 Jul 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)]]></description>
+      <content:encoded><![CDATA[今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Android 8以上を実行している端末には、隠れたウイルス「Android Develop…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntga7x2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntga7x2w</guid>
+      <pubDate>Thu, 02 Jul 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Android 8以上を実行している端末には、隠れたウイルス「Android Developer Verifier（ADV）」がインストールされ、Googleが一元登録を推進する仕組みを利用して正規外のアプリの実行をブロックする恐れがある。ADVはPlay Protectを介して拡散・インストールされ、削除も阻止されるほか、開発者の登録を強制することで Android エコシステムを中心管理体制へと転換し、オープンなソフトウェア開発の18年間の伝統を覆す懸念が指摘されている。多くの団体や個人が反対しているが、2027年以降の展開が懸念され、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Android 8以上を実行している端末には、隠れたウイルス「Android Developer Verifier（ADV）」がインストールされ、Googleが一元登録を推進する仕組みを利用して正規外のアプリの実行をブロックする恐れがある。ADVはPlay Protectを介して拡散・インストールされ、削除も阻止されるほか、開発者の登録を強制することで Android エコシステムを中心管理体制へと転換し、オープンなソフトウェア開発の18年間の伝統を覆す懸念が指摘されている。多くの団体や個人が反対しているが、2027年以降の展開が懸念され、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Google発の新しいAndroidマルウェア A new Android malware from Google  �…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqnnacmf2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqnnacmf2w</guid>
+      <pubDate>Thu, 02 Jul 2026 09:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Google発の新しいAndroidマルウェア<br>A new Android malware from Google<br><br>🔺 430<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Google発の新しいAndroidマルウェア<br>A new Android malware from Google<br><br>🔺 430<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjxfbut32p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjxfbut32p</guid>
+      <pubDate>Thu, 02 Jul 2026 07:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツールで、Lite/Pro/High-volumeの3つの料金プランを提供。機能はGLM-5.2統合、複数ツール対応、長時間タスク管理、WeChat/Feishu/Telegram連携などを含み、月額料金は約16–160ドルの階層構造で、最新モデルへの優先アクセスや専用リソースなどが特徴。全プラットフォーム用のダウンロードも用意されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツールで、Lite/Pro/High-volumeの3つの料金プランを提供。機能はGLM-5.2統合、複数ツール対応、長時間タスク管理、WeChat/Feishu/Telegram連携などを含み、月額料金は約16–160ドルの階層構造で、最新モデルへの優先アクセスや専用リソースなどが特徴。全プラットフォーム用のダウンロードも用意されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ZCode – GLM-5.2用ハーネス ZCode – Harness for GLM-5.2  🔺 361 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjx6o6ol2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjx6o6ol2j</guid>
+      <pubDate>Thu, 02 Jul 2026 07:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ZCode – GLM-5.2用ハーネス<br>ZCode – Harness for GLM-5.2<br><br>🔺 361<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ZCode – GLM-5.2用ハーネス<br>ZCode – Harness for GLM-5.2<br><br>🔺 361<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Xでは人々が最初に最新情報を知ることができます。</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpndb27nkc2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpndb27nkc2y</guid>
+      <pubDate>Thu, 02 Jul 2026 05:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Xでは人々が最初に最新情報を知ることができます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Xでは人々が最初に最新情報を知ることができます。]]></content:encoded>
+    </item>
+    <item>
+      <title>フェイブル5が戻ってきた Fable 5 is Back  🔺 361 💬 67 🔗 HN Post | Arti…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpndarfcm52w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpndarfcm52w</guid>
+      <pubDate>Thu, 02 Jul 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[フェイブル5が戻ってきた<br>Fable 5 is Back<br><br>🔺 361<br>💬 67<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[フェイブル5が戻ってきた<br>Fable 5 is Back<br><br>🔺 361<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Getting started with loops | Claude by Anthropic  🔖 150 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpnc7yadgg2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpnc7yadgg2v</guid>
+      <pubDate>Thu, 02 Jul 2026 05:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Getting started with loops | Claude by Anthropic<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Getting started with loops | Claude by Anthropic<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Kind of crazy that Sam&apos;s full time job is making Trump feel …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpncek27nz2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpncek27nz2n</guid>
+      <pubDate>Thu, 02 Jul 2026 04:49:35 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Kind of crazy that Sam's full time job is making Trump feel important enough to not destroy the entire economy
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedsu4a432qeyvfsvnu34llq3seclbpwhapnxkox7tb3okfitnpfu" alt="Quote Tweet: https://twitter.com/i/status/2072533453611139332" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Kind of crazy that Sam's full time job is making Trump feel important enough to not destroy the entire economy
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedsu4a432qeyvfsvnu34llq3seclbpwhapnxkox7tb3okfitnpfu" alt="Quote Tweet: https://twitter.com/i/status/2072533453611139332" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedsu4a432qeyvfsvnu34llq3seclbpwhapnxkox7tb3okfitnpfu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📝 浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」  🔖 187…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpn6uobjis2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpn6uobjis2e</guid>
+      <pubDate>Thu, 02 Jul 2026 04:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」<br><br>🔖 187 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 浅田真央さんの旧ドメイン、GMOが「アフィサイトに」と販売で批判殺到、さくら田中社長「申し訳ない」<br><br>🔖 187 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Box3Dはオープンソースの3D物理エンジンで、Box2Dを核に3D向け機能を追加したフォー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpn4k6he422w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpn4k6he422w</guid>
+      <pubDate>Thu, 02 Jul 2026 03:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Box3Dはオープンソースの3D物理エンジンで、Box2Dを核に3D向け機能を追加したフォークです。主な新機能として三角形メッシュ衝突、地形衝突、焼き込み済み複合衝突などを備え、C17ベースのAPIと高性能な並列処理・広範なワールド対応などを特徴とします。現在はアルファ段階で、今後も機能追加や最適化を続けつつ、Box2Dと共に長期的にサポートされる予定です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Box3Dはオープンソースの3D物理エンジンで、Box2Dを核に3D向け機能を追加したフォークです。主な新機能として三角形メッシュ衝突、地形衝突、焼き込み済み複合衝突などを備え、C17ベースのAPIと高性能な並列処理・広範なワールド対応などを特徴とします。現在はアルファ段階で、今後も機能追加や最適化を続けつつ、Box2Dと共に長期的にサポートされる予定です。]]></content:encoded>
+    </item>
+    <item>
+      <title>Box3Dは、オープンソースの3D物理エンジンです。 Box3D, an open source 3D physics …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpn4jxgopi2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpn4jxgopi2g</guid>
+      <pubDate>Thu, 02 Jul 2026 03:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Box3Dは、オープンソースの3D物理エンジンです。<br>Box3D, an open source 3D physics engine<br><br>🔺 438<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Box3Dは、オープンソースの3D物理エンジンです。<br>Box3D, an open source 3D physics engine<br><br>🔺 438<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Kinda want to do a meet &amp; greet at AIE tomorrow. Who wants t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpn2rpgebm2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpn2rpgebm2c</guid>
+      <pubDate>Thu, 02 Jul 2026 02:57:41 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Kinda want to do a meet & greet at AIE tomorrow. Who wants to host me at their booth? 👀]]></description>
+      <content:encoded><![CDATA[Kinda want to do a meet & greet at AIE tomorrow. Who wants to host me at their booth? 👀]]></content:encoded>
+    </item>
+    <item>
+      <title>店舗の表示が変わっても実際の権利は大幅に制限されつつある。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtq2jji26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtq2jji26</guid>
+      <pubDate>Thu, 02 Jul 2026 01:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[店舗の表示が変わっても実際の権利は大幅に制限されつつある。 (2/2)]]></description>
+      <content:encoded><![CDATA[店舗の表示が変わっても実際の権利は大幅に制限されつつある。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtpwtfc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtpwtfc2w</guid>
+      <pubDate>Thu, 02 Jul 2026 01:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと契約に依存する形へと移行しており、ソニーはStudioCanalとのライセンス問題により551タイトルを9月1日に削除する予定だが、返金については未対応のまま。<br>- 同様の傾向はゲーム業界にも及び、GTA6の物理版はコード付きのダウンロード版で提供され、ディスクを持つ従来の所有権は実質的に消え、二次流通や貸与も困難になる設計となっている。<br>- こうして「購入」という行為の意味が薄まり、所有権が複数の企業のサーバーと契約に囲われ、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと契約に依存する形へと移行しており、ソニーはStudioCanalとのライセンス問題により551タイトルを9月1日に削除する予定だが、返金については未対応のまま。<br>- 同様の傾向はゲーム業界にも及び、GTA6の物理版はコード付きのダウンロード版で提供され、ディスクを持つ従来の所有権は実質的に消え、二次流通や貸与も困難になる設計となっている。<br>- こうして「購入」という行為の意味が薄まり、所有権が複数の企業のサーバーと契約に囲われ、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>ソニー、プレイステーション購入済みの551本の映画を削除 Sony Deletes 551 Movies PlaySta…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtbsbvy26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtbsbvy26</guid>
+      <pubDate>Thu, 02 Jul 2026 01:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ソニー、プレイステーション購入済みの551本の映画を削除<br>Sony Deletes 551 Movies PlayStation Owners Paid For<br><br>🔺 518<br>💬 54<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ソニー、プレイステーション購入済みの551本の映画を削除<br>Sony Deletes 551 Movies PlayStation Owners Paid For<br><br>🔺 518<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった  🔖 158 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmusxsnkd2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmusxsnkd2f</guid>
+      <pubDate>Thu, 02 Jul 2026 01:26:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve landed a dozen PRs and have more cooking now. Still hav…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmwmmbtoe2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmwmmbtoe2b</guid>
+      <pubDate>Thu, 02 Jul 2026 01:23:24 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I've landed a dozen PRs and have more cooking now. Still haven't managed to hit rate limits on the $200 plan
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaamlkxnzlk7dp5iiwpldduhzui3tzjujanc4gngbscyrcdmo7cuq" alt="Quote Tweet: https://twitter.com/i/status/2072481845363822914" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I've landed a dozen PRs and have more cooking now. Still haven't managed to hit rate limits on the $200 plan
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaamlkxnzlk7dp5iiwpldduhzui3tzjujanc4gngbscyrcdmo7cuq" alt="Quote Tweet: https://twitter.com/i/status/2072481845363822914" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I was throwing away ~50% of my end-to-end agent-driven PRs b…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu55qzrf2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu55qzrf2b</guid>
+      <pubDate>Thu, 02 Jul 2026 00:48:20 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I was throwing away ~50% of my end-to-end agent-driven PRs before building this workflow. I haven't had to close a single one today :) (3/3)]]></description>
+      <content:encoded><![CDATA[I was throwing away ~50% of my end-to-end agent-driven PRs before building this workflow. I haven't had to close a single one today :) (3/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>I still find Codex to be WAY better at computer use, verific…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu52q4wy2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu52q4wy2l</guid>
+      <pubDate>Thu, 02 Jul 2026 00:48:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I still find Codex to be WAY better at computer use, verification of UI/UX work, and generally more efficient at execution on well spec'd work<br><br>Minmaxing this has genuinely been really fun for me and I'm loving the outputs I've been getting. (2/3)]]></description>
+      <content:encoded><![CDATA[I still find Codex to be WAY better at computer use, verification of UI/UX work, and generally more efficient at execution on well spec'd work<br><br>Minmaxing this has genuinely been really fun for me and I'm loving the outputs I've been getting. (2/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>This is the relevant section of my CLAUDE.md  I&apos;ll be real -…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4x5b7a2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4x5b7a2w</guid>
+      <pubDate>Thu, 02 Jul 2026 00:48:18 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This is the relevant section of my CLAUDE.md<br><br>I'll be real - I haven't read it much. Just vibed out what I was looking for with Fable, and had it confirm it can use Codex for the things I care about (1/3)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidskqs7keqzyghzpadumgw5sutrmes5bivxtpytnod7esdoudo3di" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This is the relevant section of my CLAUDE.md<br><br>I'll be real - I haven't read it much. Just vibed out what I was looking for with Fable, and had it confirm it can use Codex for the things I care about (1/3)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidskqs7keqzyghzpadumgw5sutrmes5bivxtpytnod7esdoudo3di" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidskqs7keqzyghzpadumgw5sutrmes5bivxtpytnod7esdoudo3di" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>3. I wrote up a big section in my CLAUDE[.]md on how to prio…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4kct7a23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4kct7a23</guid>
+      <pubDate>Thu, 02 Jul 2026 00:45:53 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[3. I wrote up a big section in my CLAUDE[.]md on how to prioritize different models for different work when orchestrating workflows and subagents<br><br>4. Things that are unnecessarily token hungry (computer use, codebase analysis, etc), I do with other models and report results back to Fable (3/3)]]></description>
+      <content:encoded><![CDATA[3. I wrote up a big section in my CLAUDE[.]md on how to prioritize different models for different work when orchestrating workflows and subagents<br><br>4. Things that are unnecessarily token hungry (computer use, codebase analysis, etc), I do with other models and report results back to Fable (3/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>2. I taught Claude Code how to use Codex as a fallback for l…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4hbxon26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4hbxon26</guid>
+      <pubDate>Thu, 02 Jul 2026 00:45:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[2. I taught Claude Code how to use Codex as a fallback for lots of implementation tasks. GPT-5.5 is incredibly steerable, and Fable can learn how to steer it (2/3)]]></description>
+      <content:encoded><![CDATA[2. I taught Claude Code how to use Codex as a fallback for lots of implementation tasks. GPT-5.5 is incredibly steerable, and Fable can learn how to steer it (2/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve been getting a TON done with Fable today and I&apos;m not hi…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4eaypg2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu4eaypg2x</guid>
+      <pubDate>Thu, 02 Jul 2026 00:45:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I've been getting a TON done with Fable today and I'm not hitting rate limits. Wanted to share some tips on how I'm doing that<br><br>1. I only use Fable on "high" effort for now. xhigh is token hungry. max/extra is a furnace with worse outputs than lower options imo (1/3)]]></description>
+      <content:encoded><![CDATA[I've been getting a TON done with Fable today and I'm not hitting rate limits. Wanted to share some tips on how I'm doing that<br><br>1. I only use Fable on "high" effort for now. xhigh is token hungry. max/extra is a furnace with worse outputs than lower options imo (1/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>I cannot emphasize enough how good it feels to have access t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu3umyif2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu3umyif2b</guid>
+      <pubDate>Thu, 02 Jul 2026 00:39:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I cannot emphasize enough how good it feels to have access to a next generation model again.]]></description>
+      <content:encoded><![CDATA[I cannot emphasize enough how good it feels to have access to a next generation model again.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由  �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmrhjndkg2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmrhjndkg2t</guid>
+      <pubDate>Thu, 02 Jul 2026 00:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由<br><br>🔖 191 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由<br><br>🔖 191 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve landed like 12 PRs today this is fucking awesome</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmpxjq7ub26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmpxjq7ub26</guid>
+      <pubDate>Wed, 01 Jul 2026 23:56:49 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I've landed like 12 PRs today this is fucking awesome]]></description>
+      <content:encoded><![CDATA[I've landed like 12 PRs today this is fucking awesome]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   2028年1月以降、PlayStation向け新作ゲームのディスク生産が終了し、以降はデジタ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmp4ynxtl2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmp4ynxtl2b</guid>
+      <pubDate>Wed, 01 Jul 2026 23:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>2028年1月以降、PlayStation向け新作ゲームのディスク生産が終了し、以降はデジタル形式のみでの提供となります。これにはPS Storeと小売店でのデジタル配信が含まれ、既存・以降のディスク版には影響しません。ソニーはデジタル優位の消費者動向に合わせ、購入先の選択肢を拡大しつつ、革新と世界クラスのゲーム体験提供を続けます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>2028年1月以降、PlayStation向け新作ゲームのディスク生産が終了し、以降はデジタル形式のみでの提供となります。これにはPS Storeと小売店でのデジタル配信が含まれ、既存・以降のディスク版には影響しません。ソニーはデジタル優位の消費者動向に合わせ、購入先の選択肢を拡大しつつ、革新と世界クラスのゲーム体験提供を続けます。]]></content:encoded>
+    </item>
+    <item>
+      <title>PlayStationの新作ゲームの物理ディスク生産は、2028年1月をもって終了します。 Physical disc …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmp4sdmnq26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmp4sdmnq26</guid>
+      <pubDate>Wed, 01 Jul 2026 23:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[PlayStationの新作ゲームの物理ディスク生産は、2028年1月をもって終了します。<br>Physical disc production ending in Jan 2028 for new games on PlayStation<br><br>🔺 557<br>💬 124<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[PlayStationの新作ゲームの物理ディスク生産は、2028年1月をもって終了します。<br>Physical disc production ending in Jan 2028 for new games on PlayStation<br><br>🔺 557<br>💬 124<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のQiitaトレンド  Slackだけでタスク管理を完結！かんばんTODOリスト Slackの有料プランにあるリスト…</title>
+      <link>https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnu6ycad2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnu6ycad2r</guid>
+      <pubDate>Wed, 01 Jul 2026 23:21:42 GMT</pubDate>
+      <author>デイリーQiitaトレンド (@dailyqiitatrends.bsky.social)</author>
+      <description><![CDATA[今日のQiitaトレンド<br><br>Slackだけでタスク管理を完結！かんばんTODOリスト<br>Slackの有料プランにあるリスト機能を用い、外部ツールを使わずにかんばん方式でタスク管理する方法を解説した記事です。<br>ボード形式への変更やグループ設定などの基本手順に加え、ワークフロー機能を活用してタスク移動時に自動で完了チェックを入れる設定方法を紹介しています。<br>これにより、アプリ間の移動の手間を省き、Slack内で完結して効率的なタスク管理と進捗共有を実現できます。<br>]]></description>
+      <content:encoded><![CDATA[今日のQiitaトレンド<br><br>Slackだけでタスク管理を完結！かんばんTODOリスト<br>Slackの有料プランにあるリスト機能を用い、外部ツールを使わずにかんばん方式でタスク管理する方法を解説した記事です。<br>ボード形式への変更やグループ設定などの基本手順に加え、ワークフロー機能を活用してタスク移動時に自動で完了チェックを入れる設定方法を紹介しています。<br>これにより、アプリ間の移動の手間を省き、Slack内で完結して効率的なタスク管理と進捗共有を実現できます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のQiitaトレンド  動的グローバルIPでもセルフホストを守る ― JenkinsでCloudflare WAFの…</title>
+      <link>https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmntobmru2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmntobmru2a</guid>
+      <pubDate>Wed, 01 Jul 2026 23:21:25 GMT</pubDate>
+      <author>デイリーQiitaトレンド (@dailyqiitatrends.bsky.social)</author>
+      <description><![CDATA[今日のQiitaトレンド<br><br>動的グローバルIPでもセルフホストを守る ― JenkinsでCloudflare WAFの許可リストを自動追従させる<br>動的IP環境において、Cloudflare WAFの許可リストを自動更新するJenkinsパイプラインの構築事例です。<br>使い捨てPodでの状態管理をCloudflare側で行う方法や、誤通知の防止、切り替え時の瞬断対策、IPv6の例外処理など、運用を堅牢にするための実装上の工夫と注意点が解説されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のQiitaトレンド<br><br>動的グローバルIPでもセルフホストを守る ― JenkinsでCloudflare WAFの許可リストを自動追従させる<br>動的IP環境において、Cloudflare WAFの許可リストを自動更新するJenkinsパイプラインの構築事例です。<br>使い捨てPodでの状態管理をCloudflare側で行う方法や、誤通知の防止、切り替え時の瞬断対策、IPv6の例外処理など、運用を堅牢にするための実装上の工夫と注意点が解説されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のQiitaトレンド  Railsで学ぶ レースコンディション 〜二重登録の罠〜 レースコンディションとは、複数の処…</title>
+      <link>https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnraj3wf2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnraj3wf2o</guid>
+      <pubDate>Wed, 01 Jul 2026 23:20:03 GMT</pubDate>
+      <author>デイリーQiitaトレンド (@dailyqiitatrends.bsky.social)</author>
+      <description><![CDATA[今日のQiitaトレンド<br><br>Railsで学ぶ レースコンディション 〜二重登録の罠〜<br>レースコンディションとは、複数の処理が同時に実行された際にタイミング次第で結果が不整合になるバグです。<br>原因は確認から実行までの隙間に別の処理が割り込むことにあります。<br>対策にはDBのユニーク制約、悲観・楽観ロック、Redisによる分散ロック、冪等性の設計などがあります。<br>アプリ側のバリデーションだけでは不十分なため、最終的な整合性はDB制約やロックで担保することが重要であり、まずはアプリケーション側の設計を見直すことが推奨されます。<br>]]></description>
+      <content:encoded><![CDATA[今日のQiitaトレンド<br><br>Railsで学ぶ レースコンディション 〜二重登録の罠〜<br>レースコンディションとは、複数の処理が同時に実行された際にタイミング次第で結果が不整合になるバグです。<br>原因は確認から実行までの隙間に別の処理が割り込むことにあります。<br>対策にはDBのユニーク制約、悲観・楽観ロック、Redisによる分散ロック、冪等性の設計などがあります。<br>アプリ側のバリデーションだけでは不十分なため、最終的な整合性はDB制約やロックで担保することが重要であり、まずはアプリケーション側の設計を見直すことが推奨されます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のQiitaトレンド  エンジニアがいつのまにか知っている知識・常識・文化 12本 エンジニアが研修などで教わらずと…</title>
+      <link>https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnqkj2mv2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnqkj2mv2o</guid>
+      <pubDate>Wed, 01 Jul 2026 23:19:40 GMT</pubDate>
+      <author>デイリーQiitaトレンド (@dailyqiitatrends.bsky.social)</author>
+      <description><![CDATA[今日のQiitaトレンド<br><br>エンジニアがいつのまにか知っている知識・常識・文化 12本<br>エンジニアが研修などで教わらずとも自然と身につける、暗黙の知識や文化についてまとめた記事です。<br>GitHubやMarkdownなどのツール、LGTMといった略語、技術書や勉強会の習慣、界隈特有のスラングなど、業界内で共通認識となっている多様な文化を紹介しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のQiitaトレンド<br><br>エンジニアがいつのまにか知っている知識・常識・文化 12本<br>エンジニアが研修などで教わらずとも自然と身につける、暗黙の知識や文化についてまとめた記事です。<br>GitHubやMarkdownなどのツール、LGTMといった略語、技術書や勉強会の習慣、界隈特有のスラングなど、業界内で共通認識となっている多様な文化を紹介しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のQiitaトレンド  「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた W…</title>
+      <link>https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnpsx7pn2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mqhmywzv7frwcmnuunhn4sy5/post/3mpmnpsx7pn2w</guid>
+      <pubDate>Wed, 01 Jul 2026 23:19:15 GMT</pubDate>
+      <author>デイリーQiitaトレンド (@dailyqiitatrends.bsky.social)</author>
+      <description><![CDATA[今日のQiitaトレンド<br><br>「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた<br>Web開発の主要5言語（Ruby, PHP, Python, JS/TS, Go）の特徴を解説し、作りたいものから逆算して選ぶことを推奨しています。<br>同時に、言語習得以上にGitやLinuxなどの共通基盤を学ぶ重要性と、複数の言語を浅く触るより一つの言語を深く理解して実際に物を作ることが大切であると伝えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のQiitaトレンド<br><br>「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた<br>Web開発の主要5言語（Ruby, PHP, Python, JS/TS, Go）の特徴を解説し、作りたいものから逆算して選ぶことを推奨しています。<br>同時に、言語習得以上にGitやLinuxなどの共通基盤を学ぶ重要性と、複数の言語を浅く触るより一つの言語を深く理解して実際に物を作ることが大切であると伝えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話 組織内で「なぜ…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkln23z226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkln23z226</guid>
+      <pubDate>Wed, 01 Jul 2026 22:23:14 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話<br>組織内で「なぜ、何を、どこへ」という方向性の認識がズレたまま積み上がる状態を「認識負債」と定義しています。<br>技術負債と異なり不可視で気づきにくく、複利的に膨らむため非常に厄介です。<br>特にAI時代は開発や意思決定の速度が上がる分、認識がズレたまま突き進むリスクが高まり、負債が蓄積しやすくなります。<br>これを解消するには、合宿やOKRなどの仕組みを通じて継続的に方向性を同期し、認識負債を返済し続けることが重要であると伝えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話<br>組織内で「なぜ、何を、どこへ」という方向性の認識がズレたまま積み上がる状態を「認識負債」と定義しています。<br>技術負債と異なり不可視で気づきにくく、複利的に膨らむため非常に厄介です。<br>特にAI時代は開発や意思決定の速度が上がる分、認識がズレたまま突き進むリスクが高まり、負債が蓄積しやすくなります。<br>これを解消するには、合宿やOKRなどの仕組みを通じて継続的に方向性を同期し、認識負債を返済し続けることが重要であると伝えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  遅いのは SQL だと思ったら、別のところにあった 集計処理の遅延原因を切り分けた事例の紹介で…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkkvazjl2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkkvazjl2s</guid>
+      <pubDate>Wed, 01 Jul 2026 22:22:49 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>遅いのは SQL だと思ったら、別のところにあった<br>集計処理の遅延原因を切り分けた事例の紹介です。<br>まず、アプリ側での全件取得をSQL集計へ変更し、直列のクエリ実行を並列化したことで高速化しました。<br>さらにDB内部を分析し、サブクエリの統計情報不足によりプランナが行数を過小評価し、不適切な結合方式を選択していたことを突き止めました。<br>SQL自体のチューニングに走る前に、クエリの呼び出し方やプランナの誤推定といった多角的な視点からボトルネックを探る重要性を伝えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>遅いのは SQL だと思ったら、別のところにあった<br>集計処理の遅延原因を切り分けた事例の紹介です。<br>まず、アプリ側での全件取得をSQL集計へ変更し、直列のクエリ実行を並列化したことで高速化しました。<br>さらにDB内部を分析し、サブクエリの統計情報不足によりプランナが行数を過小評価し、不適切な結合方式を選択していたことを突き止めました。<br>SQL自体のチューニングに走る前に、クエリの呼び出し方やプランナの誤推定といった多角的な視点からボトルネックを探る重要性を伝えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  Preview環境でPRごとに専用DBを使えるようにした話 estieは、PRごとに専用URL…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkjwjmra23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkjwjmra23</guid>
+      <pubDate>Wed, 01 Jul 2026 22:22:16 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>Preview環境でPRごとに専用DBを使えるようにした話<br>estieは、PRごとに専用URLを発行するPreview環境に、専用DBを付与する仕組みを導入しました。<br>Auroraのcopy-on-write機能を利用することで、高速かつ低コストにDBクローンを作成し、スキーマ変更の検証や書き込みテストを独立して行えるようにしています。<br>この仕組みをGitHub ActionsのReusable Workflowに組み込み、ラベル操作だけで構築から削除まで完結させることで、開発効率と検証の精度を向上させました。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>Preview環境でPRごとに専用DBを使えるようにした話<br>estieは、PRごとに専用URLを発行するPreview環境に、専用DBを付与する仕組みを導入しました。<br>Auroraのcopy-on-write機能を利用することで、高速かつ低コストにDBクローンを作成し、スキーマ変更の検証や書き込みテストを独立して行えるようにしています。<br>この仕組みをGitHub ActionsのReusable Workflowに組み込み、ラベル操作だけで構築から削除まで完結させることで、開発効率と検証の精度を向上させました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark） LLM推論の…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkjbos252t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkjbos252t</guid>
+      <pubDate>Wed, 01 Jul 2026 22:21:55 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）<br>LLM推論のボトルネックであるメモリ帯域を解消し、品質を維持したまま高速化する投機的デコーディングについて解説しています。<br>軽量な提案モデルが予測したトークンを巨大な検証モデルで一括検証することで効率化し、数学的な補正により出力品質を担保します。<br>基本原理のほか、EAGLE-3、DFlash、DSparkといった発展的な手法についても紹介しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）<br>LLM推論のボトルネックであるメモリ帯域を解消し、品質を維持したまま高速化する投機的デコーディングについて解説しています。<br>軽量な提案モデルが予測したトークンを巨大な検証モデルで一括検証することで効率化し、数学的な補正により出力品質を担保します。<br>基本原理のほか、EAGLE-3、DFlash、DSparkといった発展的な手法についても紹介しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkgewhlg2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpmkgewhlg2g</guid>
+      <pubDate>Wed, 01 Jul 2026 22:20:17 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由<br>10か月間CLIで利用してきたClaude CodeをDesktopアプリへ移行した理由を述べています。<br>移行の決め手はUIによる効率化です。<br>複数セッションの並行管理やピン留め、diff・planペインでの詳細指示、内蔵ブラウザでのUI要素指定、PR作成からCI監視・マージまでの自動化などが可能になり、開発ワークフローが1つのアプリ内で完結し、作業の手間が大幅に軽減されました。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由<br>10か月間CLIで利用してきたClaude CodeをDesktopアプリへ移行した理由を述べています。<br>移行の決め手はUIによる効率化です。<br>複数セッションの並行管理やピン留め、diff・planペインでの詳細指示、内蔵ブラウザでのUI要素指定、PR作成からCI監視・マージまでの自動化などが可能になり、開発ワークフローが1つのアプリ内で完結し、作業の手間が大幅に軽減されました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>Will likely follow up with more later. Hope this is helpful …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk46vdk42z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk46vdk42z</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Will likely follow up with more later. Hope this is helpful to y'all @ClaudeDevs @trq212]]></description>
+      <content:encoded><![CDATA[Will likely follow up with more later. Hope this is helpful to y'all @ClaudeDevs @trq212]]></content:encoded>
+    </item>
+    <item>
+      <title>PLEASE fix the line wrapping on the auth URL. I can&apos;t click …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3xxwok2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3xxwok2c</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[PLEASE fix the line wrapping on the auth URL. I can't click it when authing over SSH because the url is SO LONG and it wraps to like 5 lines, and only the top line is clickable.<br><br>See how only the top line is underlined? Fix pls (or just do sane URLs tbh)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih3jzjsfyrsscshnyf6xbl7qwhm3lvtw7btssz7s4lpjif4f4czd4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[PLEASE fix the line wrapping on the auth URL. I can't click it when authing over SSH because the url is SO LONG and it wraps to like 5 lines, and only the top line is clickable.<br><br>See how only the top line is underlined? Fix pls (or just do sane URLs tbh)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih3jzjsfyrsscshnyf6xbl7qwhm3lvtw7btssz7s4lpjif4f4czd4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih3jzjsfyrsscshnyf6xbl7qwhm3lvtw7btssz7s4lpjif4f4czd4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>At the VERY least, I&apos;d love a /trust-directory command (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3eqqdw22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3eqqdw22</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[At the VERY least, I'd love a /trust-directory command (2/2)]]></description>
+      <content:encoded><![CDATA[At the VERY least, I'd love a /trust-directory command (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>When you use bypass permissions by default, a few things bre…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3bpusy2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk3bpusy2o</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[When you use bypass permissions by default, a few things break around directory permissions.<br><br>I have bypass perms on by default when I call Claude. If I use it in a directory I haven't trusted, it works fine...until I try to "/remote-control", "--worktree" etc. (1/2)]]></description>
+      <content:encoded><![CDATA[When you use bypass permissions by default, a few things break around directory permissions.<br><br>I have bypass perms on by default when I call Claude. If I use it in a directory I haven't trusted, it works fine...until I try to "/remote-control", "--worktree" etc. (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>The &quot;IS_DEMO=1&quot; flag to hide email is not reliable.  I often…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2tqtr42z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2tqtr42z</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[The "IS_DEMO=1" flag to hide email is not reliable.<br><br>I often have Claude Code flash a screen for 1-2 frames that includes my email.<br><br>I should be able to reliably hide email in ALL cases with a flag, even during login. "HIDE_EMAIL_ALWAYS=1" please 🫡]]></description>
+      <content:encoded><![CDATA[The "IS_DEMO=1" flag to hide email is not reliable.<br><br>I often have Claude Code flash a screen for 1-2 frames that includes my email.<br><br>I should be able to reliably hide email in ALL cases with a flag, even during login. "HIDE_EMAIL_ALWAYS=1" please 🫡]]></content:encoded>
+    </item>
+    <item>
+      <title>I don&apos;t think workflows are recoverable so this is SUPER exp…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2esng22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2esng22g</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I don't think workflows are recoverable so this is SUPER expensive.<br><br>At the VERY least, a confirmation when cancelling workflows would be great. (2/2)]]></description>
+      <content:encoded><![CDATA[I don't think workflows are recoverable so this is SUPER expensive.<br><br>At the VERY least, a confirmation when cancelling workflows would be great. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;escape&quot; key is overloaded, and I cancel work constantly as …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2brs2q2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmk2brs2q2w</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA["escape" key is overloaded, and I cancel work constantly as a result.<br><br>For example, I have to press esc to get out of the workflow view, and if I hit it twice accidentally (or I think I'm deeper than I am), I cancel my work. (1/2)]]></description>
+      <content:encoded><![CDATA["escape" key is overloaded, and I cancel work constantly as a result.<br><br>For example, I have to press esc to get out of the workflow view, and if I hit it twice accidentally (or I think I'm deeper than I am), I cancel my work. (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>The layout for workflows is a bit rough. Title column is too…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjztupmk2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjztupmk2g</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:32 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[The layout for workflows is a bit rough. Title column is too small, model column is too long, right column is super inconsistent<br><br>Recommendations:<br>1. Longer titles<br>2. Don't show tool calls (I don't care)<br>3. Dedicated column for time
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictd3vuzaxeql7mwkyotmtdoyj2ssheddrv2okrvqdj5v44vqpwoe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The layout for workflows is a bit rough. Title column is too small, model column is too long, right column is super inconsistent<br><br>Recommendations:<br>1. Longer titles<br>2. Don't show tool calls (I don't care)<br>3. Dedicated column for time
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictd3vuzaxeql7mwkyotmtdoyj2ssheddrv2okrvqdj5v44vqpwoe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictd3vuzaxeql7mwkyotmtdoyj2ssheddrv2okrvqdj5v44vqpwoe" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gonna do a thread of Claude Code feedback for the team in ho…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjzl6vmd2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjzl6vmd2x</guid>
+      <pubDate>Wed, 01 Jul 2026 22:12:32 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Gonna do a thread of Claude Code feedback for the team in hopes they fix some of my small annoyances]]></description>
+      <content:encoded><![CDATA[Gonna do a thread of Claude Code feedback for the team in hopes they fix some of my small annoyances]]></content:encoded>
+    </item>
+    <item>
+      <title>Fable 5 has yet to reroute me for any real code work. The co…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjzbgnna2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmjzbgnna2j</guid>
+      <pubDate>Wed, 01 Jul 2026 21:59:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Fable 5 has yet to reroute me for any real code work. The concerns were massively overblown.]]></description>
+      <content:encoded><![CDATA[Fable 5 has yet to reroute me for any real code work. The concerns were massively overblown.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   任天堂の古川俊太郎会長は、優秀な人材を確保するため、従業員の基本給を10%引き上げたと株主へ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmigonvny2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmigonvny2c</guid>
+      <pubDate>Wed, 01 Jul 2026 21:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>任天堂の古川俊太郎会長は、優秀な人材を確保するため、従業員の基本給を10%引き上げたと株主へ発表しました。彼は給与水準を適切に維持することが重要だと述べ、基礎給の引上げを例として挙げました。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>任天堂の古川俊太郎会長は、優秀な人材を確保するため、従業員の基本給を10%引き上げたと株主へ発表しました。彼は給与水準を適切に維持することが重要だと述べ、基礎給の引上げを例として挙げました。]]></content:encoded>
+    </item>
+  </channel>
+</rss>
