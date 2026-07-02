@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:04:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>What&apos;s the most ambitious project you have Fable working on …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpopb6qtnc2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpopb6qtnc2p</guid>
+      <pubDate>Thu, 02 Jul 2026 18:52:11 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[What's the most ambitious project you have Fable working on right now?]]></description>
+      <content:encoded><![CDATA[What's the most ambitious project you have Fable working on right now?]]></content:encoded>
+    </item>
+    <item>
+      <title>Doing a little T3 Community meet and greet today at 2pm at A…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpooqo6cnh2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpooqo6cnh2g</guid>
+      <pubDate>Thu, 02 Jul 2026 18:38:29 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Doing a little T3 Community meet and greet today at 2pm at AI Engineer<br><br>We’ll be at the OpenAI booth 🫡]]></description>
+      <content:encoded><![CDATA[Doing a little T3 Community meet and greet today at 2pm at AI Engineer<br><br>We’ll be at the OpenAI booth 🫡]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 harvard-edge / cs249r_book ⭐ 25,166 (+33) 🗒 Python  Mach…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mponaw6s7g2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mponaw6s7g2t</guid>
+      <pubDate>Thu, 02 Jul 2026 18:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 harvard-edge / cs249r_book<br>⭐ 25,166 (+33)<br>🗒 Python<br><br>Machine Learning Systems]]></description>
+      <content:encoded><![CDATA[📦 harvard-edge / cs249r_book<br>⭐ 25,166 (+33)<br>🗒 Python<br><br>Machine Learning Systems]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   グラフィックスプログラマーとしての就職力を高めるには、CPU側（DirectX12/Vulk…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpoliau2ee2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpoliau2ee2x</guid>
+      <pubDate>Thu, 02 Jul 2026 17:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>グラフィックスプログラマーとしての就職力を高めるには、CPU側（DirectX12/Vulkan/Metalなどの実装とエンジン開発）とGPU側（現代のライティング・シェーダ・PBR・パストレーシングなどの理解と最適化）の両方を学ぶ必要がある。両分野を同時に深く学ぶのは難しく、まずは自分の重点を決めて基礎を固め、最終的には実務で使えるエンジン風プロジェクトとパストレーサーの両方を作成するのが理想的。数学は基本的な線形代数・三角法・微積分程度で十分で、C++がCPU側の主流言語、HLSL/GLSLがシェーダ言語として主流である。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>グラフィックスプログラマーとしての就職力を高めるには、CPU側（DirectX12/Vulkan/Metalなどの実装とエンジン開発）とGPU側（現代のライティング・シェーダ・PBR・パストレーシングなどの理解と最適化）の両方を学ぶ必要がある。両分野を同時に深く学ぶのは難しく、まずは自分の重点を決めて基礎を固め、最終的には実務で使えるエンジン風プロジェクトとパストレーサーの両方を作成するのが理想的。数学は基本的な線形代数・三角法・微積分程度で十分で、C++がCPU側の主流言語、HLSL/GLSLがシェーダ言語として主流である。]]></content:encoded>
+    </item>
+    <item>
+      <title>グラフィックスプログラマーになるために学ぶべきこと What to learn to be a graphics pro…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpolhzliwn2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpolhzliwn2i</guid>
+      <pubDate>Thu, 02 Jul 2026 17:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[グラフィックスプログラマーになるために学ぶべきこと<br>What to learn to be a graphics programmer<br><br>🔺 407<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[グラフィックスプログラマーになるために学ぶべきこと<br>What to learn to be a graphics programmer<br><br>🔺 407<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>savings across 30+ agents. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpojvooh2d2f</link>
@@ -417,56 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[店舗の表示が変わっても実際の権利は大幅に制限されつつある。 (2/2)]]></description>
       <content:encoded><![CDATA[店舗の表示が変わっても実際の権利は大幅に制限されつつある。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtpwtfc2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtpwtfc2w</guid>
-      <pubDate>Thu, 02 Jul 2026 01:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと契約に依存する形へと移行しており、ソニーはStudioCanalとのライセンス問題により551タイトルを9月1日に削除する予定だが、返金については未対応のまま。<br>- 同様の傾向はゲーム業界にも及び、GTA6の物理版はコード付きのダウンロード版で提供され、ディスクを持つ従来の所有権は実質的に消え、二次流通や貸与も困難になる設計となっている。<br>- こうして「購入」という行為の意味が薄まり、所有権が複数の企業のサーバーと契約に囲われ、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- 主要なデジタル配信は、購入者のライブラリを実体の物理物ではなく、企業が管理するサーバーと契約に依存する形へと移行しており、ソニーはStudioCanalとのライセンス問題により551タイトルを9月1日に削除する予定だが、返金については未対応のまま。<br>- 同様の傾向はゲーム業界にも及び、GTA6の物理版はコード付きのダウンロード版で提供され、ディスクを持つ従来の所有権は実質的に消え、二次流通や貸与も困難になる設計となっている。<br>- こうして「購入」という行為の意味が薄まり、所有権が複数の企業のサーバーと契約に囲われ、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>ソニー、プレイステーション購入済みの551本の映画を削除 Sony Deletes 551 Movies PlaySta…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtbsbvy26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpmvtbsbvy26</guid>
-      <pubDate>Thu, 02 Jul 2026 01:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ソニー、プレイステーション購入済みの551本の映画を削除<br>Sony Deletes 551 Movies PlayStation Owners Paid For<br><br>🔺 518<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ソニー、プレイステーション購入済みの551本の映画を削除<br>Sony Deletes 551 Movies PlayStation Owners Paid For<br><br>🔺 518<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった  🔖 158 ブックマーク 💬 コメント …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmusxsnkd2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpmusxsnkd2f</guid>
-      <pubDate>Thu, 02 Jul 2026 01:26:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve landed a dozen PRs and have more cooking now. Still hav…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmwmmbtoe2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmwmmbtoe2b</guid>
-      <pubDate>Thu, 02 Jul 2026 01:23:24 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I've landed a dozen PRs and have more cooking now. Still haven't managed to hit rate limits on the $200 plan
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaamlkxnzlk7dp5iiwpldduhzui3tzjujanc4gngbscyrcdmo7cuq" alt="Quote Tweet: https://twitter.com/i/status/2072481845363822914" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I've landed a dozen PRs and have more cooking now. Still haven't managed to hit rate limits on the $200 plan
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaamlkxnzlk7dp5iiwpldduhzui3tzjujanc4gngbscyrcdmo7cuq" alt="Quote Tweet: https://twitter.com/i/status/2072481845363822914" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifvhxq4c5tkusmjrr63pmkcfxmvzgomllggsuhdbofrgazrbfzene" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I was throwing away ~50% of my end-to-end agent-driven PRs b…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu55qzrf2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpmu55qzrf2b</guid>
-      <pubDate>Thu, 02 Jul 2026 00:48:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I was throwing away ~50% of my end-to-end agent-driven PRs before building this workflow. I haven't had to close a single one today :) (3/3)]]></description>
-      <content:encoded><![CDATA[I was throwing away ~50% of my end-to-end agent-driven PRs before building this workflow. I haven't had to close a single one today :) (3/3)]]></content:encoded>
     </item>
   </channel>
 </rss>
