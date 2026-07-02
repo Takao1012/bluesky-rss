@@ -19,6 +19,7 @@ const LIMIT = 50
 // 生成するフィードの定義
 const FEEDS = [
   {
+    type: 'feed',
     atUri: 'at://did:plc:hvh4jnvd2j5fgczxabdme4nu/app.bsky.feed.generator/aaaddbrcslzj4',
     name: '創作百合',
     description: '#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード',
@@ -26,11 +27,20 @@ const FEEDS = [
     outputFile: 'rss/sosaku-yuri.xml',
   },
   {
+    type: 'feed',
     atUri: 'at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot',
     name: 'Discover',
     description: 'Trending content from your personal network',
     url: 'https://bsky.app/profile/bsky.app/feed/whats-hot',
     outputFile: 'rss/discover.xml',
+  },
+  {
+    type: 'list',
+    atUri: 'at://did:plc:auhve2r7l3yqh3zpnkmmmorc/app.bsky.graph.list/3mpnicpopcy25',
+    name: '百合マンガ作家リスト',
+    description: '追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです',
+    url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25',
+    outputFile: 'rss/yuri-mangaka.xml',
   },
 ]
 
@@ -46,7 +56,7 @@ async function createSession(identifier, password) {
   return data.accessJwt
 }
 
-// --- フィード取得 ---
+// --- フィード取得(Feed Generator用) ---
 async function getFeed(token, atUri) {
   const url = new URL(`${BSKY_API}/app.bsky.feed.getFeed`)
   url.searchParams.set('feed', atUri)
@@ -56,6 +66,20 @@ async function getFeed(token, atUri) {
     headers: { Authorization: `Bearer ${token}` },
   })
   if (!res.ok) throw new Error(`フィード取得失敗: ${res.status} ${await res.text()}`)
+  const data = await res.json()
+  return data.feed // FeedViewPost[]
+}
+
+// --- フィード取得(List用) ---
+async function getListFeed(token, atUri) {
+  const url = new URL(`${BSKY_API}/app.bsky.feed.getListFeed`)
+  url.searchParams.set('list', atUri)
+  url.searchParams.set('limit', String(LIMIT))
+
+  const res = await fetch(url.toString(), {
+    headers: { Authorization: `Bearer ${token}` },
+  })
+  if (!res.ok) throw new Error(`リストフィード取得失敗: ${res.status} ${await res.text()}`)
   const data = await res.json()
   return data.feed // FeedViewPost[]
 }
@@ -170,7 +194,9 @@ async function main() {
 
   for (const feed of FEEDS) {
     console.log(`📡 フィード取得中: ${feed.name}`)
-    const feedItems = await getFeed(token, feed.atUri)
+    const feedItems = feed.type === 'list'
+      ? await getListFeed(token, feed.atUri)
+      : await getFeed(token, feed.atUri)
     console.log(`✅ ${feedItems.length}件取得`)
 
     const xml = buildRss(feed, feedItems)
