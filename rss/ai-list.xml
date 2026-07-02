@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 21:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:54:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I&apos;ve been blogging a few of my Fable experiments today, most…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpp3o75nck2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpp3o75nck2q</guid>
+      <pubDate>Thu, 02 Jul 2026 22:34:13 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I've been blogging a few of my Fable experiments today, most recently I had it more-or-less one-shot a CLI coding agent on top of my LLM Python library simonwillison.net/2026/Jul/2/l...]]></description>
+      <content:encoded><![CDATA[I've been blogging a few of my Fable experiments today, most recently I had it more-or-less one-shot a CLI coding agent on top of my LLM Python library simonwillison.net/2026/Jul/2/l...]]></content:encoded>
+    </item>
+    <item>
+      <title>We heard you. We agree.  In light of recent developments in …</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mpp2t6k4yq2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mpp2t6k4yq2j</guid>
+      <pubDate>Thu, 02 Jul 2026 22:19:06 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[We heard you. We agree.<br><br>In light of recent developments in physical media, GitHub is proud to announce that you can now obtain your public repo on CD-ROM.<br><br>Keep it. Lend it to friends. Pass it on to your children.<br><br>Your code is physically yours, forever. Until you lose it, let's be real.<br>gh.io/cd]]></description>
+      <content:encoded><![CDATA[We heard you. We agree.<br><br>In light of recent developments in physical media, GitHub is proud to announce that you can now obtain your public repo on CD-ROM.<br><br>Keep it. Lend it to friends. Pass it on to your children.<br><br>Your code is physically yours, forever. Until you lose it, let's be real.<br>gh.io/cd]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 openai / codex-plugin-cc ⭐ 22,296 (+72) 🗒 JavaScript  Us…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpp2nz3wkq22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpp2nz3wkq22</guid>
+      <pubDate>Thu, 02 Jul 2026 22:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 openai / codex-plugin-cc<br>⭐ 22,296 (+72)<br>🗒 JavaScript<br><br>Use Codex from Claude Code to review code or delegate tasks.]]></description>
+      <content:encoded><![CDATA[📦 openai / codex-plugin-cc<br>⭐ 22,296 (+72)<br>🗒 JavaScript<br><br>Use Codex from Claude Code to review code or delegate tasks.]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  （2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話 中学生が開発す…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2fjai5e2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2fjai5e2s</guid>
+      <pubDate>Thu, 02 Jul 2026 22:11:28 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話<br>中学生が開発する自作OS「mochiOS」の設計刷新とセキュリティ実装について述べています。<br>カーネルとユーザーランドの分離を徹底するためリポジトリを分割し、基盤を再構築したことでメモリ管理などの機能が向上しました。<br>また、バイナリ署名とCapabilityを組み合わせ、アプリに必要最小限の権限のみを付与して被害範囲を限定する「署名起点型Capabilityセキュリティ」という独自の設計思想を導入しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話<br>中学生が開発する自作OS「mochiOS」の設計刷新とセキュリティ実装について述べています。<br>カーネルとユーザーランドの分離を徹底するためリポジトリを分割し、基盤を再構築したことでメモリ管理などの機能が向上しました。<br>また、バイナリ署名とCapabilityを組み合わせ、アプリに必要最小限の権限のみを付与して被害範囲を限定する「署名起点型Capabilityセキュリティ」という独自の設計思想を導入しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  Web 標準動向 2026年6月版 サイボウズはW3C加入に伴い、標準化プロセスへの関与を目的…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2eo5d6u2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2eo5d6u2f</guid>
+      <pubDate>Thu, 02 Jul 2026 22:10:59 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>Web 標準動向 2026年6月版<br>サイボウズはW3C加入に伴い、標準化プロセスへの関与を目的としてフロントエンドエンジニアがWeb標準の動向を毎月まとめる活動を開始した。<br>2026年6月版の記事では、HTMLのルビ仕様の更新やShadow DOMの参照機能、JS不要な日時ローカライズなどのHTML提案、およびCSSの相対アルファ値指定やChrome 150の新機能、WebKitの最新動向といった最新の技術トレンドを報告している。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>Web 標準動向 2026年6月版<br>サイボウズはW3C加入に伴い、標準化プロセスへの関与を目的としてフロントエンドエンジニアがWeb標準の動向を毎月まとめる活動を開始した。<br>2026年6月版の記事では、HTMLのルビ仕様の更新やShadow DOMの参照機能、JS不要な日時ローカライズなどのHTML提案、およびCSSの相対アルファ値指定やChrome 150の新機能、WebKitの最新動向といった最新の技術トレンドを報告している。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した Cir…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2dvkjhx2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2dvkjhx2u</guid>
+      <pubDate>Thu, 02 Jul 2026 22:10:33 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した<br>CircleCIのコスト削減のため、モノレポ構成におけるVRTの実行方法を改善した事例です。<br>従来は変更内容に関わらず全アプリでVRTを実行していましたが、Turborepoを用いて影響範囲を判定し、必要なアプリのみでVRTを完結させる構成に変更しました。<br>これにより、開発ブランチの1実行あたりの消費クレジットを約17.8%削減し、実行時間の短縮と効率化を実現しました。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した<br>CircleCIのコスト削減のため、モノレポ構成におけるVRTの実行方法を改善した事例です。<br>従来は変更内容に関わらず全アプリでVRTを実行していましたが、Turborepoを用いて影響範囲を判定し、必要なアプリのみでVRTを完結させる構成に変更しました。<br>これにより、開発ブランチの1実行あたりの消費クレジットを約17.8%削減し、実行時間の短縮と効率化を実現しました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  プログラマーのためのブックマーク整理術 プログラマーが目的のページに最短でアクセスするためのブ…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2d6xloj2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2d6xloj2k</guid>
+      <pubDate>Thu, 02 Jul 2026 22:10:10 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>プログラマーのためのブックマーク整理術<br>プログラマーが目的のページに最短でアクセスするためのブックマーク整理術を解説しています。<br>サービス別ではなく案件やプロジェクト単位で階層化し、実際の作業フローに沿って大分類から小分類へ整理することを推奨しています。<br>具体的には、共通・個別フォルダの使い分け、課題ごとのページ集約、フォルダへの連番付与、完了したもののoldフォルダへの移動などが有効です。<br>見た目の綺麗さよりも、実用的なアクセス速度を優先することが重要だと伝えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>プログラマーのためのブックマーク整理術<br>プログラマーが目的のページに最短でアクセスするためのブックマーク整理術を解説しています。<br>サービス別ではなく案件やプロジェクト単位で階層化し、実際の作業フローに沿って大分類から小分類へ整理することを推奨しています。<br>具体的には、共通・個別フォルダの使い分け、課題ごとのページ集約、フォルダへの連番付与、完了したもののoldフォルダへの移動などが有効です。<br>見た目の綺麗さよりも、実用的なアクセス速度を優先することが重要だと伝えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のZennトレンド  AWS Summit Japan 2026 に行ってきた——「実務未経験の私」が、現地で受け取…</title>
+      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2clrjcb2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpp2clrjcb2x</guid>
+      <pubDate>Thu, 02 Jul 2026 22:09:50 GMT</pubDate>
+      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
+      <description><![CDATA[今日のZennトレンド<br><br>AWS Summit Japan 2026 に行ってきた——「実務未経験の私」が、現地で受け取ったもの<br>実務未経験でAWS資格と個人開発のみの著者が、AWS Summit Japan 2026に参加して得た体験記です。<br>現地での交流やセッションを通じて、独学では得られない他者の視点や実務的な思考プロセスに触れたことで、経験不足への不安が自信と学習意欲に変わりました。<br>カンファレンスを単なる情報収集ではなく、人との繋がりから刺激を得る場として捉え、同様に不安を抱える人の後押しをしたいと伝えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のZennトレンド<br><br>AWS Summit Japan 2026 に行ってきた——「実務未経験の私」が、現地で受け取ったもの<br>実務未経験でAWS資格と個人開発のみの著者が、AWS Summit Japan 2026に参加して得た体験記です。<br>現地での交流やセッションを通じて、独学では得られない他者の視点や実務的な思考プロセスに触れたことで、経験不足への不安が自信と学習意欲に変わりました。<br>カンファレンスを単なる情報収集ではなく、人との繋がりから刺激を得る場として捉え、同様に不安を抱える人の後押しをしたいと伝えています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   スペイン政府は、国防情報の機密性を巡る懸念から、国家系企業に対して米データ分析企業 Pala…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpoyvjuz542k</link>
@@ -390,81 +462,6 @@
       <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
       <description><![CDATA[今日のZennトレンド<br><br>AI時代のチーム開発フローは「小さく安全に流し続ける」こと<br>AIで実装速度が上がると差分が増え、大規模なリリースのリスクが高まります。<br>そのため、トランクベース開発に寄せ、小さく頻繁に本番へ統合するフローを推奨しています。<br>具体的には、PRの小規模化、ローカルでの統合確認、フィーチャーフラグの活用、AIによるテスト自動化などが有効です。<br>AI時代には、速く作り、速く統合し、速く確認できる仕組みを整えることが、開発の安定と価値向上に不可欠であると伝えています。<br>]]></description>
       <content:encoded><![CDATA[今日のZennトレンド<br><br>AI時代のチーム開発フローは「小さく安全に流し続ける」こと<br>AIで実装速度が上がると差分が増え、大規模なリリースのリスクが高まります。<br>そのため、トランクベース開発に寄せ、小さく頻繁に本番へ統合するフローを推奨しています。<br>具体的には、PRの小規模化、ローカルでの統合確認、フィーチャーフラグの活用、AIによるテスト自動化などが有効です。<br>AI時代には、速く作り、速く統合し、速く確認できる仕組みを整えることが、開発の安定と価値向上に不可欠であると伝えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のZennトレンド  Syncthingでサーバー上のフォルダをローカルPCと同期する サーバー上でAIアシスタント…</title>
-      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwhtvf522l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwhtvf522l</guid>
-      <pubDate>Thu, 02 Jul 2026 11:28:31 GMT</pubDate>
-      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
-      <description><![CDATA[今日のZennトレンド<br><br>Syncthingでサーバー上のフォルダをローカルPCと同期する<br>サーバー上でAIアシスタントを運用する際、生成されたファイルにローカルPCから手軽にアクセスするための手段として、同期ツールSyncthingを紹介しています。<br>クラウドを介さずデバイス間で直接フォルダを同期できるため、VS CodeやObsidianなどでサーバー上のファイルを快適に編集・閲覧することが可能です。<br>記事ではLinuxサーバーとmacOSを例に、インストールからデバイス連携、同期設定、除外ファイルの指定までの具体的な手順を解説しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のZennトレンド<br><br>Syncthingでサーバー上のフォルダをローカルPCと同期する<br>サーバー上でAIアシスタントを運用する際、生成されたファイルにローカルPCから手軽にアクセスするための手段として、同期ツールSyncthingを紹介しています。<br>クラウドを介さずデバイス間で直接フォルダを同期できるため、VS CodeやObsidianなどでサーバー上のファイルを快適に編集・閲覧することが可能です。<br>記事ではLinuxサーバーとmacOSを例に、インストールからデバイス連携、同期設定、除外ファイルの指定までの具体的な手順を解説しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のZennトレンド  「命名品質特性」 ── 名前の良し悪しを16の性質と8つの効果で評価する コードの命名品質を体…</title>
-      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwh4mqyg2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwh4mqyg2x</guid>
-      <pubDate>Thu, 02 Jul 2026 11:28:07 GMT</pubDate>
-      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
-      <description><![CDATA[今日のZennトレンド<br><br>「命名品質特性」 ── 名前の良し悪しを16の性質と8つの効果で評価する<br>コードの命名品質を体系的に評価する「命名品質特性」を提案する記事です。<br>命名の観点を、名前そのものが持つ16の品質（自立、内部相対、外部相対）と、利用時に得られる8つの効果に分類して整理しています。<br>適切な命名はコードの可読性と保守性を高め、人間だけでなくAIにとっても意図が伝わりやすくなるため、現代の開発において重要であると伝えています。<br>]]></description>
-      <content:encoded><![CDATA[今日のZennトレンド<br><br>「命名品質特性」 ── 名前の良し悪しを16の性質と8つの効果で評価する<br>コードの命名品質を体系的に評価する「命名品質特性」を提案する記事です。<br>命名の観点を、名前そのものが持つ16の品質（自立、内部相対、外部相対）と、利用時に得られる8つの効果に分類して整理しています。<br>適切な命名はコードの可読性と保守性を高め、人間だけでなくAIにとっても意図が伝わりやすくなるため、現代の開発において重要であると伝えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のZennトレンド  Claude Fable 5が帰ってきたので情報を整理した Claude Fable 5が7月…</title>
-      <link>https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwgbb3jc2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ebyfabnb2wmfszonu3burco/post/3mpnwgbb3jc2k</guid>
-      <pubDate>Thu, 02 Jul 2026 11:27:38 GMT</pubDate>
-      <author>デイリーZennトレンド (@dailyzenntrends.bsky.social)</author>
-      <description><![CDATA[今日のZennトレンド<br><br>Claude Fable 5が帰ってきたので情報を整理した<br>Claude Fable 5が7月1日に復活しました。<br>7月7日（太平洋時間）までPro以上のプランは週間枠の50%まで無料で利用できますが、これは既存枠の内数であり消費が激しいため注意が必要です。<br>7月8日以降は従量課金のみとなり、料金は全モデル中で最高額となります。<br>また、セーフガード強化により誤検知が増える可能性があるため、日常作業ではなく最難関タスクへの限定的な活用が推奨されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のZennトレンド<br><br>Claude Fable 5が帰ってきたので情報を整理した<br>Claude Fable 5が7月1日に復活しました。<br>7月7日（太平洋時間）までPro以上のプランは週間枠の50%まで無料で利用できますが、これは既存枠の内数であり消費が激しいため注意が必要です。<br>7月8日以降は従量課金のみとなり、料金は全モデル中で最高額となります。<br>また、セーフガード強化により誤検知が増える可能性があるため、日常作業ではなく最難関タスクへの限定的な活用が推奨されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>This is happening tomorrow for sure. Aiming for 2pm. Will sh…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpnvnr326f2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpnvnr326f2w</guid>
-      <pubDate>Thu, 02 Jul 2026 11:13:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This is happening tomorrow for sure. Aiming for 2pm. Will share location soon :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidoip5bkc7lajyq6skpxczvcz5wfg5cb4ykn3q7pcd3ttgqieqoo4" alt="Quote Tweet: https://twitter.com/i/status/2072515021679272166" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is happening tomorrow for sure. Aiming for 2pm. Will share location soon :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidoip5bkc7lajyq6skpxczvcz5wfg5cb4ykn3q7pcd3ttgqieqoo4" alt="Quote Tweet: https://twitter.com/i/status/2072515021679272166" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidoip5bkc7lajyq6skpxczvcz5wfg5cb4ykn3q7pcd3ttgqieqoo4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntka5p2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntka5p2w</guid>
-      <pubDate>Thu, 02 Jul 2026 09:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)]]></description>
-      <content:encoded><![CDATA[今後の具体的な影響や対応策について情報が公開されていく予定。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Android 8以上を実行している端末には、隠れたウイルス「Android Develop…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntga7x2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqntga7x2w</guid>
-      <pubDate>Thu, 02 Jul 2026 09:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Android 8以上を実行している端末には、隠れたウイルス「Android Developer Verifier（ADV）」がインストールされ、Googleが一元登録を推進する仕組みを利用して正規外のアプリの実行をブロックする恐れがある。ADVはPlay Protectを介して拡散・インストールされ、削除も阻止されるほか、開発者の登録を強制することで Android エコシステムを中心管理体制へと転換し、オープンなソフトウェア開発の18年間の伝統を覆す懸念が指摘されている。多くの団体や個人が反対しているが、2027年以降の展開が懸念され、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Android 8以上を実行している端末には、隠れたウイルス「Android Developer Verifier（ADV）」がインストールされ、Googleが一元登録を推進する仕組みを利用して正規外のアプリの実行をブロックする恐れがある。ADVはPlay Protectを介して拡散・インストールされ、削除も阻止されるほか、開発者の登録を強制することで Android エコシステムを中心管理体制へと転換し、オープンなソフトウェア開発の18年間の伝統を覆す懸念が指摘されている。多くの団体や個人が反対しているが、2027年以降の展開が懸念され、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Google発の新しいAndroidマルウェア A new Android malware from Google  �…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqnnacmf2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnqnnacmf2w</guid>
-      <pubDate>Thu, 02 Jul 2026 09:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Google発の新しいAndroidマルウェア<br>A new Android malware from Google<br><br>🔺 430<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Google発の新しいAndroidマルウェア<br>A new Android malware from Google<br><br>🔺 430<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjxfbut32p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpnjxfbut32p</guid>
-      <pubDate>Thu, 02 Jul 2026 07:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツールで、Lite/Pro/High-volumeの3つの料金プランを提供。機能はGLM-5.2統合、複数ツール対応、長時間タスク管理、WeChat/Feishu/Telegram連携などを含み、月額料金は約16–160ドルの階層構造で、最新モデルへの優先アクセスや専用リソースなどが特徴。全プラットフォーム用のダウンロードも用意されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GLM Coding Planは、ZCode向けに最適化されたエージェント型コーディングツールで、Lite/Pro/High-volumeの3つの料金プランを提供。機能はGLM-5.2統合、複数ツール対応、長時間タスク管理、WeChat/Feishu/Telegram連携などを含み、月額料金は約16–160ドルの階層構造で、最新モデルへの優先アクセスや専用リソースなどが特徴。全プラットフォーム用のダウンロードも用意されている。]]></content:encoded>
     </item>
   </channel>
 </rss>
