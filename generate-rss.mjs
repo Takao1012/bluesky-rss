@@ -42,6 +42,14 @@ const FEEDS = [
     url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25',
     outputFile: 'rss/yuri-mangaka.xml',
   },
+  {
+    type: 'list',
+    atUri: 'at://did:plc:auhve2r7l3yqh3zpnkmmmorc/app.bsky.graph.list/3mpnqngyjsl2e',
+    name: 'AIリスト',
+    description: 'ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト',
+    url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e',
+    outputFile: 'rss/ai-list.xml',
+  },
 ]
 
 // --- 認証 ---
