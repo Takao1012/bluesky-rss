@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 15:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:22:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>意味もなく帰省したくなってきた いや、帰省に意味なんていらないんだ…</title>
+      <link>https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mpocwcqias2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mpocwcqias2k</guid>
+      <pubDate>Thu, 02 Jul 2026 15:11:21 GMT</pubDate>
+      <author>はづき (@haduki456.bsky.social)</author>
+      <description><![CDATA[意味もなく帰省したくなってきた<br>いや、帰省に意味なんていらないんだ…]]></description>
+      <content:encoded><![CDATA[意味もなく帰省したくなってきた<br>いや、帰省に意味なんていらないんだ…]]></content:encoded>
+    </item>
     <item>
       <title>LINEの着せ替えで黒背景のに変更したらすんごい見にくくなってしまった、絵柄は可愛いんだけどなー SNSやアプリとかダー…</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mpo3ol4zak2q</link>
@@ -483,18 +492,6 @@
       <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
       <description><![CDATA[久しぶりに使いましょう！]]></description>
       <content:encoded><![CDATA[久しぶりに使いましょう！]]></content:encoded>
-    </item>
-    <item>
-      <title>描いてるー</title>
-      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mpiznugfrc24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mpiznugfrc24</guid>
-      <pubDate>Tue, 30 Jun 2026 12:42:16 GMT</pubDate>
-      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
-      <description><![CDATA[描いてるー
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreibzp2ehzxoz2nj4bx4pd5ciigxjanbb4pg7pw2zj3cjm7fwu5ibx4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[描いてるー
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreibzp2ehzxoz2nj4bx4pd5ciigxjanbb4pg7pw2zj3cjm7fwu5ibx4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreibzp2ehzxoz2nj4bx4pd5ciigxjanbb4pg7pw2zj3cjm7fwu5ibx4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
