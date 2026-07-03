@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4</link>
     <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 08:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:22:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>#創作百合 今こんな感じの漫画を描いてる</title>
+      <link>https://bsky.app/profile/did:plc:cux6aoyr34mkeceb4l6revlc/post/3mpqe2fc5as2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cux6aoyr34mkeceb4l6revlc/post/3mpqe2fc5as2j</guid>
+      <pubDate>Fri, 03 Jul 2026 10:36:52 GMT</pubDate>
+      <author>道下 (@mitisita1.bsky.social)</author>
+      <description><![CDATA[#創作百合<br>今こんな感じの漫画を描いてる
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cux6aoyr34mkeceb4l6revlc/bafkreigotbljfbvjmavoz7bz5fidkov4g4upwgqgindwej7obraemfjibi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[#創作百合<br>今こんな感じの漫画を描いてる
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cux6aoyr34mkeceb4l6revlc/bafkreigotbljfbvjmavoz7bz5fidkov4g4upwgqgindwej7obraemfjibi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cux6aoyr34mkeceb4l6revlc/bafkreigotbljfbvjmavoz7bz5fidkov4g4upwgqgindwej7obraemfjibi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>夏コミで「ゆらりゆるりと」シリーズの新刊が出ますよ〜♪ #百合 #創作百合</title>
       <link>https://bsky.app/profile/did:plc:qq22vl433rxrv4mcbcq5mxb6/post/3mpq5jqvfg22q</link>
@@ -664,18 +676,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hiffcaophtvqcryva4gvimwj/bafkreibortlsjfovu5aqfliaewotqerb7wz2rafjn4wdq3l5hlgocjfvfu" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hiffcaophtvqcryva4gvimwj/bafkreibnpkrlh5it3sxrveqxnmnfnziwa3ayffptoihsmrhivvo6tvygum" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hiffcaophtvqcryva4gvimwj/bafkreibortlsjfovu5aqfliaewotqerb7wz2rafjn4wdq3l5hlgocjfvfu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>甘くて酸っぱいキスの創作百合 #創作百合 #きらりま</title>
-      <link>https://bsky.app/profile/did:plc:jzcmeem47mtkz2h6pmmz4mwy/post/3mp42ltqqac2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jzcmeem47mtkz2h6pmmz4mwy/post/3mp42ltqqac2m</guid>
-      <pubDate>Thu, 25 Jun 2026 08:54:25 GMT</pubDate>
-      <author>うやゆう　同人作家 (@uya-yuu.bsky.social)</author>
-      <description><![CDATA[甘くて酸っぱいキスの創作百合<br>#創作百合<br>#きらりま
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jzcmeem47mtkz2h6pmmz4mwy/bafkreifpexympyljfzaceue2t6utb3gumlzk5ernogj54ot5inmsdw7oge" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[甘くて酸っぱいキスの創作百合<br>#創作百合<br>#きらりま
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jzcmeem47mtkz2h6pmmz4mwy/bafkreifpexympyljfzaceue2t6utb3gumlzk5ernogj54ot5inmsdw7oge" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jzcmeem47mtkz2h6pmmz4mwy/bafkreifpexympyljfzaceue2t6utb3gumlzk5ernogj54ot5inmsdw7oge" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
