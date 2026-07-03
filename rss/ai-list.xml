@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 22:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 23:52:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2v7gwl2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2v7gwl2x</guid>
+      <pubDate>Fri, 03 Jul 2026 23:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェイトモデルとして初めて選択可能になりました。 Azure上でホストされ、使用量ベースの料金で提供され、Copilot Pro系など多くのプランや各種開発ツールで順次利用可能になります。Copilot Business/Enterprise向けには事前にポリシーを管理者が有効にする必要があり、セキュリティやデータガバナンス要件を確認した上で導入を検討します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェイトモデルとして初めて選択可能になりました。 Azure上でホストされ、使用量ベースの料金で提供され、Copilot Pro系など多くのプランや各種開発ツールで順次利用可能になります。Copilot Business/Enterprise向けには事前にポリシーを管理者が有効にする必要があり、セキュリティやデータガバナンス要件を確認した上で導入を検討します。]]></content:encoded>
+    </item>
+    <item>
+      <title>Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。 Kimi K2.7 Code…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2or5eh2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2or5eh2i</guid>
+      <pubDate>Fri, 03 Jul 2026 23:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。<br>Kimi K2.7 Code is generally available in GitHub Copilot<br><br>🔺 415<br>💬 29<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。<br>Kimi K2.7 Code is generally available in GitHub Copilot<br><br>🔺 415<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I think they&apos;ve broken a whole bunch of other stuff about ho…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprnaqwfxs2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprnaqwfxs2a</guid>
+      <pubDate>Fri, 03 Jul 2026 22:54:09 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I think they've broken a whole bunch of other stuff about how software engineering works as well - all of my intuitions about tradeoffs with respect to time to build things are wildly inaccurate now]]></description>
+      <content:encoded><![CDATA[I think they've broken a whole bunch of other stuff about how software engineering works as well - all of my intuitions about tradeoffs with respect to time to build things are wildly inaccurate now]]></content:encoded>
+    </item>
+    <item>
+      <title>Fable doesn&apos;t, I guess I need to &quot;trust it&quot; to verify that t…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprn7awwa22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprn7awwa22a</guid>
+      <pubDate>Fri, 03 Jul 2026 22:53:18 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Fable doesn't, I guess I need to "trust it" to verify that those weaker models it farms works out to aren't doing that though!]]></description>
+      <content:encoded><![CDATA[Fable doesn't, I guess I need to "trust it" to verify that those weaker models it farms works out to aren't doing that though!]]></content:encoded>
+    </item>
     <item>
       <title>I have officially moved the majority of my dev work over to …</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mprmbvdo3u2z</link>
@@ -429,42 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[なぜスイスには25ギガビット毎秒のインターネットがあり、アメリカにはないのか？<br>Why Switzerland has 25 gbit internet and America doesn't<br><br>🔺 483<br>💬 64<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[なぜスイスには25ギガビット毎秒のインターネットがあり、アメリカにはないのか？<br>Why Switzerland has 25 gbit internet and America doesn't<br><br>🔺 483<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう  🔖 156 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpq4r3orcf2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpq4r3orcf2y</guid>
-      <pubDate>Fri, 03 Jul 2026 08:26:23 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Podman v6.0.0がリリースされ、ネットワークの近代化、Podman Machine…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpq2g6c6pf2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpq2g6c6pf2u</guid>
-      <pubDate>Fri, 03 Jul 2026 07:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Podman v6.0.0がリリースされ、ネットワークの近代化、Podman Machineのマルチプロバイダ対応強化、Quadletの大幅改良、設定ファイルの取り扱い改善、Docker互換性の向上など、多数の新機能と改善が追加されました。正式リリースノートを参照の上、各機能を試してフィードバックを歓迎します。コミュニティの貢献に深く感謝します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Podman v6.0.0がリリースされ、ネットワークの近代化、Podman Machineのマルチプロバイダ対応強化、Quadletの大幅改良、設定ファイルの取り扱い改善、Docker互換性の向上など、多数の新機能と改善が追加されました。正式リリースノートを参照の上、各機能を試してフィードバックを歓迎します。コミュニティの貢献に深く感謝します。]]></content:encoded>
-    </item>
-    <item>
-      <title>Podman バージョン6.0.0 Podman v6.0.0  🔺 494 💬 25 🔗 HN Post | A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpq2fymtoe2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpq2fymtoe2r</guid>
-      <pubDate>Fri, 03 Jul 2026 07:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Podman バージョン6.0.0<br>Podman v6.0.0<br><br>🔺 494<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Podman バージョン6.0.0<br>Podman v6.0.0<br><br>🔺 494<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   他者に助けを求める技術は生まれつきの資質ではなく、相手の立場から考える「相手の心を想像する」…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpptpnivfu2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpptpnivfu2y</guid>
-      <pubDate>Fri, 03 Jul 2026 05:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>他者に助けを求める技術は生まれつきの資質ではなく、相手の立場から考える「相手の心を想像する」ことが原則だと説く。助けを得やすくするための具体的なヒューリスティックとして、自己をプロジェクトより「人として価値があると示すこと」、文脈を短く端的に伝えること、負担を低く明確に頼むこと、そして断られた場合も負担を減らす対応をすることが挙げられる。最終的には相手の見返りを期待せず、誠実に関係を築くことが重要だ、という要約です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>他者に助けを求める技術は生まれつきの資質ではなく、相手の立場から考える「相手の心を想像する」ことが原則だと説く。助けを得やすくするための具体的なヒューリスティックとして、自己をプロジェクトより「人として価値があると示すこと」、文脈を短く端的に伝えること、負担を低く明確に頼むこと、そして断られた場合も負担を減らす対応をすることが挙げられる。最終的には相手の見返りを期待せず、誠実に関係を築くことが重要だ、という要約です。]]></content:encoded>
     </item>
   </channel>
 </rss>
