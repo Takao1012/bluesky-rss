@@ -50,6 +50,22 @@ const FEEDS = [
     url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e',
     outputFile: 'rss/ai-list.xml',
   },
+  {
+    type: 'list',
+    atUri: 'at://did:plc:auhve2r7l3yqh3zpnkmmmorc/app.bsky.graph.list/3mprwpuajr22x',
+    name: '一般ニュースリスト',
+    description: '一般ニュースサイトの発信をまとめて確認するためのリスト',
+    url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprwpuajr22x',
+    outputFile: 'rss/general-news.xml',
+  },
+  {
+    type: 'list',
+    atUri: 'at://did:plc:auhve2r7l3yqh3zpnkmmmorc/app.bsky.graph.list/3mprx4pbzjr2u',
+    name: '音楽ニュースリスト',
+    description: '音楽ニュースサイトの発信をまとめて確認するためのリスト',
+    url: 'https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u',
+    outputFile: 'rss/music-news.xml',
+  },
 ]
 
 // --- 認証 ---
