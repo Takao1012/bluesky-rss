@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 14:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 15:52:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>P2P通信の最適化と安定動作のためのハード/ソフト設定の手順とトラブルシューティングの詳細です。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfphjw6526</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfphjw6526</guid>
+      <pubDate>Sat, 04 Jul 2026 15:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[P2P通信の最適化と安定動作のためのハード/ソフト設定の手順とトラブルシューティングの詳細です。 (2/2)]]></description>
+      <content:encoded><![CDATA[P2P通信の最適化と安定動作のためのハード/ソフト設定の手順とトラブルシューティングの詳細です。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   JamesobのローカルでSOTA LLMを動かすための実践ガイドで、4枚のRTX Pro …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfphghy324</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfphghy324</guid>
+      <pubDate>Sat, 04 Jul 2026 15:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>JamesobのローカルでSOTA LLMを動かすための実践ガイドで、4枚のRTX Pro 6000など高性能GPUとPCIe Gen4スイッチを活用し、費用感や構成、BIOS設定、IOMMU/ACS無効化、電力制限など具体的な調整手順を詳述しています。実機構成は約2千ドル〜4万ドル規模での選択肢を提示し、モデルの保存・起動をDocker/VMベースで運用する方法と、STT（whisper-large-v3）を含むReady-to-run設定も紹介しています。要点は、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>JamesobのローカルでSOTA LLMを動かすための実践ガイドで、4枚のRTX Pro 6000など高性能GPUとPCIe Gen4スイッチを活用し、費用感や構成、BIOS設定、IOMMU/ACS無効化、電力制限など具体的な調整手順を詳述しています。実機構成は約2千ドル〜4万ドル規模での選択肢を提示し、モデルの保存・起動をDocker/VMベースで運用する方法と、STT（whisper-large-v3）を含むReady-to-run設定も紹介しています。要点は、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Jamesobのローカル環境で最先端のLLMを動かすガイド Jamesob&apos;s guide to running SOT…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfp7bp3i2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mptfp7bp3i2s</guid>
+      <pubDate>Sat, 04 Jul 2026 15:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Jamesobのローカル環境で最先端のLLMを動かすガイド<br>Jamesob's guide to running SOTA LLMs locally<br><br>🔺 378<br>💬 46<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Jamesobのローカル環境で最先端のLLMを動かすガイド<br>Jamesob's guide to running SOTA LLMs locally<br><br>🔺 378<br>💬 46<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Here’s a concise summary: The page catalogs an…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpte4ybb3522</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpte4ybb3522</guid>
+      <pubDate>Sat, 04 Jul 2026 15:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Here’s a concise summary: The page catalogs and links to system prompts for major AI models (Anthropic, OpenAI, Google, Microsoft, etc.), detailing current and historical prompts, tools, and integrations, with updates and organization by vendor and model.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Here’s a concise summary: The page catalogs and links to system prompts for major AI models (Anthropic, OpenAI, Google, Microsoft, etc.), detailing current and historical prompts, tools, and integrations, with updates and organization by vendor and model.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 asgeirtj / system_p…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpte4vmgda26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpte4vmgda26</guid>
+      <pubDate>Sat, 04 Jul 2026 15:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 48,420 (+432)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro,...]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 48,420 (+432)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro,...]]></content:encoded>
+    </item>
     <item>
       <title>📦 CoplayDev / unity-mcp ⭐ 11,376 (+49) 🗒 C#  Unity MCP act…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mptarl3zsf2i</link>
@@ -439,51 +484,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwfnujwnsrfyhbsuefyrrgbidt6posoizcjxrfy6aqk7zpbek7ci" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifgav6dnom7ggg72kksbld4glps5mt3allufws4nqa5hlomynwnxq" alt="Quote Tweet: https://twitter.com/i/status/2073191698541531510" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwfnujwnsrfyhbsuefyrrgbidt6posoizcjxrfy6aqk7zpbek7ci" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ  🔖 167 ブックマーク 💬 コメ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mprsfcapi22q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mprsfcapi22q</guid>
-      <pubDate>Sat, 04 Jul 2026 00:26:10 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2v7gwl2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2v7gwl2x</guid>
-      <pubDate>Fri, 03 Jul 2026 23:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェイトモデルとして初めて選択可能になりました。 Azure上でホストされ、使用量ベースの料金で提供され、Copilot Pro系など多くのプランや各種開発ツールで順次利用可能になります。Copilot Business/Enterprise向けには事前にポリシーを管理者が有効にする必要があり、セキュリティやデータガバナンス要件を確認した上で導入を検討します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェイトモデルとして初めて選択可能になりました。 Azure上でホストされ、使用量ベースの料金で提供され、Copilot Pro系など多くのプランや各種開発ツールで順次利用可能になります。Copilot Business/Enterprise向けには事前にポリシーを管理者が有効にする必要があり、セキュリティやデータガバナンス要件を確認した上で導入を検討します。]]></content:encoded>
-    </item>
-    <item>
-      <title>Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。 Kimi K2.7 Code…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2or5eh2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2or5eh2i</guid>
-      <pubDate>Fri, 03 Jul 2026 23:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。<br>Kimi K2.7 Code is generally available in GitHub Copilot<br><br>🔺 415<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Kimi K2.7 Code は GitHub Copilot 上で一般公開されています。<br>Kimi K2.7 Code is generally available in GitHub Copilot<br><br>🔺 415<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I think they&apos;ve broken a whole bunch of other stuff about ho…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprnaqwfxs2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprnaqwfxs2a</guid>
-      <pubDate>Fri, 03 Jul 2026 22:54:09 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I think they've broken a whole bunch of other stuff about how software engineering works as well - all of my intuitions about tradeoffs with respect to time to build things are wildly inaccurate now]]></description>
-      <content:encoded><![CDATA[I think they've broken a whole bunch of other stuff about how software engineering works as well - all of my intuitions about tradeoffs with respect to time to build things are wildly inaccurate now]]></content:encoded>
-    </item>
-    <item>
-      <title>Fable doesn&apos;t, I guess I need to &quot;trust it&quot; to verify that t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprn7awwa22a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mprn7awwa22a</guid>
-      <pubDate>Fri, 03 Jul 2026 22:53:18 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Fable doesn't, I guess I need to "trust it" to verify that those weaker models it farms works out to aren't doing that though!]]></description>
-      <content:encoded><![CDATA[Fable doesn't, I guess I need to "trust it" to verify that those weaker models it farms works out to aren't doing that though!]]></content:encoded>
     </item>
   </channel>
 </rss>
