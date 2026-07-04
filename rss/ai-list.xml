@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 10:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 11:59:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だとい…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyccp4i32m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyccp4i32m</guid>
+      <pubDate>Sat, 04 Jul 2026 11:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だという考えを、対比として説明している。前者は成功が不確実で完遂基準が曖昧だが、後者は「理解できない点をノートに書く」ことで成功がほぼ保証され、完了の判断も明確になる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だという考えを、対比として説明している。前者は成功が不確実で完遂基準が曖昧だが、後者は「理解できない点をノートに書く」ことで成功がほぼ保証され、完了の判断も明確になる。]]></content:encoded>
+    </item>
+    <item>
+      <title>コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。 The primary purpose…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyc26j5y2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyc26j5y2l</guid>
+      <pubDate>Sat, 04 Jul 2026 11:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。<br>The primary purpose of code review is to find code that will be hard to maintain<br><br>🔺 375<br>💬 70<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。<br>The primary purpose of code review is to find code that will be hard to maintain<br><br>🔺 375<br>💬 70<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  InternScience/Agents-A1 InternScienceが開発…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxtj6b7s2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxtj6b7s2i</guid>
+      <pubDate>Sat, 04 Jul 2026 11:36:15 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>InternScienceが開発したAgents-A1は、35BのMoEエージェントモデルです。<br>本リポジトリは、ロングホライゾン検索や科学研究などの多様な領域で、1兆パラメータ級の性能を実現することを目的としています。<br>長期間の軌跡のスケールアップと3段階のトレーニング手法を用いて汎用的なエージェント能力を拡張しており、Hugging Face Transformers形式のモデルウェイトと設定ファイルを提供しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>InternScienceが開発したAgents-A1は、35BのMoEエージェントモデルです。<br>本リポジトリは、ロングホライゾン検索や科学研究などの多様な領域で、1兆パラメータ級の性能を実現することを目的としています。<br>長期間の軌跡のスケールアップと3段階のトレーニング手法を用いて汎用的なエージェント能力を拡張しており、Hugging Face Transformers形式のモデルウェイトと設定ファイルを提供しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepreinforce-ai/Ornith-1.0-9B-GGUF エージェ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxspa5do2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxspa5do2p</guid>
+      <pubDate>Sat, 04 Jul 2026 11:35:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepreinforce-ai/Ornith-1.0-9B-GGUF<br>エージェント的なコーディング向けの自己改善型オープンソースモデルOrnith-1.0-9Bを提供します。<br>単一GPUで効率的に動作する軽量なモデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepreinforce-ai/Ornith-1.0-9B-GGUF<br>エージェント的なコーディング向けの自己改善型オープンソースモデルOrnith-1.0-9Bを提供します。<br>単一GPUで効率的に動作する軽量なモデルです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  nvidia/Qwen3.6-27B-NVFP4 AlibabaのQwen3.6…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxixpblx2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxixpblx2v</guid>
+      <pubDate>Sat, 04 Jul 2026 11:30:21 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Qwen3.6-27B-NVFP4<br>AlibabaのQwen3.6-27BをNVIDIA Model Optimizerで量子化したNVFP4モデルを提供することが目的です。<br>AIエージェント、チャットボット、RAGシステムなどのAIアプリケーションへの導入を検討している開発者向けに、事前量子化済みモデルを提供し、NVIDIA GPU環境での効率的な運用を可能にします。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Qwen3.6-27B-NVFP4<br>AlibabaのQwen3.6-27BをNVIDIA Model Optimizerで量子化したNVFP4モデルを提供することが目的です。<br>AIエージェント、チャットボット、RAGシステムなどのAIアプリケーションへの導入を検討している開発者向けに、事前量子化済みモデルを提供し、NVIDIA GPU環境での効率的な運用を可能にします。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  yuxinlu1/gemma-4-12B-agentic-fable5-comp…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxhyfwj72m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsxhyfwj72m</guid>
+      <pubDate>Sat, 04 Jul 2026 11:29:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF<br>低リソースなローカル環境で動作し、コーディングやツール利用などの多段階の技術的タスクに特化したエージェント向けモデルGemma4-12B v2を提供すること。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF<br>低リソースなローカル環境で動作し、コーディングやツール利用などの多段階の技術的タスクに特化したエージェント向けモデルGemma4-12B v2を提供すること。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsx6a4f3g2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpsx6a4f3g2p</guid>
+      <pubDate>Sat, 04 Jul 2026 11:24:21 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MのGGUF量子化モデルを配布するリポジトリです。<br>llama.cppやOllamaなどのGGUF対応ランタイムでの利用を目的としています。<br>ベースモデルは高度な推論能力を持ち、最大100万トークンのコンテキストウィンドウをサポートしています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MのGGUF量子化モデルを配布するリポジトリです。<br>llama.cppやOllamaなどのGGUF対応ランタイムでの利用を目的としています。<br>ベースモデルは高度な推論能力を持ち、最大100万トークンのコンテキストウィンドウをサポートしています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>📝 消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 1000…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpstwbzaqs27</link>
@@ -430,69 +493,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 ansible / ansible<br>⭐ 69,088 (+50)<br>🗒 Python<br><br>Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches p...]]></description>
       <content:encoded><![CDATA[📦 ansible / ansible<br>⭐ 69,088 (+50)<br>🗒 Python<br><br>Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches p...]]></content:encoded>
-    </item>
-    <item>
-      <title>The most interesting Fable tip I&apos;ve heard so far is to let t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpr7ruh3ms2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpr7ruh3ms2v</guid>
-      <pubDate>Fri, 03 Jul 2026 18:53:10 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The most interesting Fable tip I've heard so far is to let the model use its own judgement as much as possible<br><br>I told it "For all coding tasks use your judgement to decide an appropriate lower power model and run that in a subagent" and it seems to be saving tokens simonwillison.net/2026/Jul/3/j...]]></description>
-      <content:encoded><![CDATA[The most interesting Fable tip I've heard so far is to let the model use its own judgement as much as possible<br><br>I told it "For all coding tasks use your judgement to decide an appropriate lower power model and run that in a subagent" and it seems to be saving tokens simonwillison.net/2026/Jul/3/j...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 apache / maven ⭐ 5,182 (+53) 🗒 Java  Apache Maven core</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr5pr6qzm2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr5pr6qzm2t</guid>
-      <pubDate>Fri, 03 Jul 2026 18:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 apache / maven<br>⭐ 5,182 (+53)<br>🗒 Java<br><br>Apache Maven core]]></description>
-      <content:encoded><![CDATA[📦 apache / maven<br>⭐ 5,182 (+53)<br>🗒 Java<br><br>Apache Maven core]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   RivianのWassym Bensaidへのインタビューを通じて、CarPlayを搭載する…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpr3x2kln42x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpr3x2kln42x</guid>
-      <pubDate>Fri, 03 Jul 2026 17:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>RivianのWassym Bensaidへのインタビューを通じて、CarPlayを搭載するかどうかが大きな論点となっている。筆者はCarPlayが車載画面を全面占有する必要はなく、選択肢として提供されるだけで十分だと主張し、RivianにはCarPlayを実装して市場拡大を図るべきだと強く訴えている。結局、CarPlayは追加機能であり、無くても良い車は買わないという筆者の個人的な購買基準が述べられている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>RivianのWassym Bensaidへのインタビューを通じて、CarPlayを搭載するかどうかが大きな論点となっている。筆者はCarPlayが車載画面を全面占有する必要はなく、選択肢として提供されるだけで十分だと主張し、RivianにはCarPlayを実装して市場拡大を図るべきだと強く訴えている。結局、CarPlayは追加機能であり、無くても良い車は買わないという筆者の個人的な購買基準が述べられている。]]></content:encoded>
-    </item>
-    <item>
-      <title>CarPlayは付加機能だ。 CarPlay Is Additive  🔺 496 💬 111 🔗 HN Post…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpr3wu7h672s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpr3wu7h672s</guid>
-      <pubDate>Fri, 03 Jul 2026 17:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[CarPlayは付加機能だ。<br>CarPlay Is Additive<br><br>🔺 496<br>💬 111<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[CarPlayは付加機能だ。<br>CarPlay Is Additive<br><br>🔺 496<br>💬 111<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Sent out my sponsors-only monthly newsletter for June, which…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpr2jnpkq222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpr2jnpkq222</guid>
-      <pubDate>Fri, 03 Jul 2026 17:19:06 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Sent out my sponsors-only monthly newsletter for June, which means the May newsletter is now available here github.com/simonw/month... - you can sponsor me through GitHub to stay a month ahead of the free copy!]]></description>
-      <content:encoded><![CDATA[Sent out my sponsors-only monthly newsletter for June, which means the May newsletter is now available here github.com/simonw/month... - you can sponsor me through GitHub to stay a month ahead of the free copy!]]></content:encoded>
-    </item>
-    <item>
-      <title>and a desktop/mobile preview, with optional community and co…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr2eko4r624</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr2eko4r624</guid>
-      <pubDate>Fri, 03 Jul 2026 17:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[and a desktop/mobile preview, with optional community and contributing guides. (2/2)]]></description>
-      <content:encoded><![CDATA[and a desktop/mobile preview, with optional community and contributing guides. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   RomM is a self-hosted ROM manager and player t…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr2ekltjk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpr2ekltjk2h</guid>
-      <pubDate>Fri, 03 Jul 2026 17:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>RomM is a self-hosted ROM manager and player that scans, enriches, and browses a multi-platform game library, offers metadata, artwork, and browser-based gameplay with EmulatorJS and RuffleRS, plus sharing and multi-app ecosystem. It supports extensive metadata providers, tags, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>RomM is a self-hosted ROM manager and player that scans, enriches, and browses a multi-platform game library, offers metadata, artwork, and browser-based gameplay with EmulatorJS and RuffleRS, plus sharing and multi-app ecosystem. It supports extensive metadata providers, tags, (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
