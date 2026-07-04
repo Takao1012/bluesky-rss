@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:55:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>初色鉛筆習作🍌</title>
+      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mptbm5klxc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mptbm5klxc2d</guid>
+      <pubDate>Sat, 04 Jul 2026 14:31:05 GMT</pubDate>
+      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
+      <description><![CDATA[初色鉛筆習作🍌
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiaxgkmbicdsdkenxutdya2gts3erckf3hcm2u2h3iyptkc6y3jmju" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[初色鉛筆習作🍌
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiaxgkmbicdsdkenxutdya2gts3erckf3hcm2u2h3iyptkc6y3jmju" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiaxgkmbicdsdkenxutdya2gts3erckf3hcm2u2h3iyptkc6y3jmju" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>激しく戦った後、一緒にくつろぐ</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mpt5n7mwuk2x</link>
@@ -517,15 +529,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[スーツケースに雨カバー必要だった……中濡れてないといいけど……]]></description>
       <content:encoded><![CDATA[スーツケースに雨カバー必要だった……中濡れてないといいけど……]]></content:encoded>
-    </item>
-    <item>
-      <title>雨ざーざーすぎてびしょぬれだよお</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mpmdgpdcpc2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mpmdgpdcpc2s</guid>
-      <pubDate>Wed, 01 Jul 2026 20:15:12 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[雨ざーざーすぎてびしょぬれだよお]]></description>
-      <content:encoded><![CDATA[雨ざーざーすぎてびしょぬれだよお]]></content:encoded>
     </item>
   </channel>
 </rss>
