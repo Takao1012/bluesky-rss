@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 22:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:49:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   htopの各項目の意味を詳しく解説したメモで、 uptimeや /proc 由来の情報、ロー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuajtxxox2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuajtxxox2i</guid>
+      <pubDate>Sat, 04 Jul 2026 23:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>htopの各項目の意味を詳しく解説したメモで、 uptimeや /proc 由来の情報、ロードアベレージの計算方法、プロセスIDや /proc/<pid>/ の利用法、プロセスツリーとユーザー、権限の仕組み、そしてプロセスの状態（R, S, D, Z, T など）の意味と例を順に解説しています。ロードアベレージは実際には実行可能/待機中のプロセス数の移動平均で、コア数によってCPU利用率の解釈が変わる点にも触れています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>htopの各項目の意味を詳しく解説したメモで、 uptimeや /proc 由来の情報、ロードアベレージの計算方法、プロセスIDや /proc/<pid>/ の利用法、プロセスツリーとユーザー、権限の仕組み、そしてプロセスの状態（R, S, D, Z, T など）の意味と例を順に解説しています。ロードアベレージは実際には実行可能/待機中のプロセス数の移動平均で、コア数によってCPU利用率の解釈が変わる点にも触れています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Linuxのhtopとtopで表示されるすべての項目の解説（2019年） Explanation of everythi…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuajnbbl72i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuajnbbl72i</guid>
+      <pubDate>Sat, 04 Jul 2026 23:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Linuxのhtopとtopで表示されるすべての項目の解説（2019年）<br>Explanation of everything you can see in htop/top on Linux (2019)<br><br>🔺 367<br>💬 17<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Linuxのhtopとtopで表示されるすべての項目の解説（2019年）<br>Explanation of everything you can see in htop/top on Linux (2019)<br><br>🔺 367<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Happy America Day nerds</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpu6tq4t622i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpu6tq4t622i</guid>
+      <pubDate>Sat, 04 Jul 2026 23:09:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Happy America Day nerds]]></description>
+      <content:encoded><![CDATA[Happy America Day nerds]]></content:encoded>
+    </item>
     <item>
       <title>📝 個人用メモアプリをつくっている  🔖 156 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpu45tgq6727</link>
@@ -435,33 +462,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/page-agent<br>ウェブページ上で動作するGUIエージェントを提供し、自然言語を用いてウェブインターフェースを操作することを目的としたリポジトリです。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/page-agent<br>ウェブページ上で動作するGUIエージェントを提供し、自然言語を用いてウェブインターフェースを操作することを目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  JuliusBrussee/caveman AIコーディングエージェントの出力を極限まで簡…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszjbfaqv2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszjbfaqv2r</guid>
-      <pubDate>Sat, 04 Jul 2026 12:06:19 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>JuliusBrussee/caveman<br>AIコーディングエージェントの出力を極限まで簡素化し、出力トークン数を削減するためのプラグインです。<br>技術的な正確性は維持したまま、冗長な表現を排除して簡潔な回答をさせることで、コスト削減と効率化を実現します。<br>Claude CodeやCursorなど、多くのエージェントに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>JuliusBrussee/caveman<br>AIコーディングエージェントの出力を極限まで簡素化し、出力トークン数を削減するためのプラグインです。<br>技術的な正確性は維持したまま、冗長な表現を排除して簡潔な回答をさせることで、コスト削減と効率化を実現します。<br>Claude CodeやCursorなど、多くのエージェントに対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だとい…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyccp4i32m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyccp4i32m</guid>
-      <pubDate>Sat, 04 Jul 2026 11:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だという考えを、対比として説明している。前者は成功が不確実で完遂基準が曖昧だが、後者は「理解できない点をノートに書く」ことで成功がほぼ保証され、完了の判断も明確になる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>コードレビューを「バグ探し」形式で行う難しさと、「理解して報告」形式の方が現実的で有効だという考えを、対比として説明している。前者は成功が不確実で完遂基準が曖昧だが、後者は「理解できない点をノートに書く」ことで成功がほぼ保証され、完了の判断も明確になる。]]></content:encoded>
-    </item>
-    <item>
-      <title>コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。 The primary purpose…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyc26j5y2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpsyc26j5y2l</guid>
-      <pubDate>Sat, 04 Jul 2026 11:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。<br>The primary purpose of code review is to find code that will be hard to maintain<br><br>🔺 375<br>💬 70<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[コードレビューの主な目的は、将来保守が難しくなるようなコードを見つけることです。<br>The primary purpose of code review is to find code that will be hard to maintain<br><br>🔺 375<br>💬 70<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
