@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 23:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:26:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ  🔖 167 ブックマーク 💬 コメ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mprsfcapi22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mprsfcapi22q</guid>
+      <pubDate>Sat, 04 Jul 2026 00:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Kimi K2.7 CodeがGitHub Copilotで一般提供開始となり、オープンウェ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mprq2v7gwl2x</link>
@@ -456,15 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>スイスは家庭向け光ファイバを専用4本の「点対点」インフラとして整備し、競争を物理レイヤーから可能にすることで、高速・低価格のサービスを実現している。一方、米国・ドイツは自然独占を放置し過剰なインフラ競争や取り締まり不足により、競争が不十分でコスト高・速度低下を招いている。著者は、開放的な物理インフラの共有・点対点設計の義務化、独立規制機関の強化、自治体ファイバーの活用などを他国が採るべき方針として提案している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>スイスは家庭向け光ファイバを専用4本の「点対点」インフラとして整備し、競争を物理レイヤーから可能にすることで、高速・低価格のサービスを実現している。一方、米国・ドイツは自然独占を放置し過剰なインフラ競争や取り締まり不足により、競争が不十分でコスト高・速度低下を招いている。著者は、開放的な物理インフラの共有・点対点設計の義務化、独立規制機関の強化、自治体ファイバーの活用などを他国が採るべき方針として提案している。]]></content:encoded>
-    </item>
-    <item>
-      <title>なぜスイスには25ギガビット毎秒のインターネットがあり、アメリカにはないのか？ Why Switzerland has …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpqb4orlfv2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpqb4orlfv2x</guid>
-      <pubDate>Fri, 03 Jul 2026 09:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[なぜスイスには25ギガビット毎秒のインターネットがあり、アメリカにはないのか？<br>Why Switzerland has 25 gbit internet and America doesn't<br><br>🔺 483<br>💬 64<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[なぜスイスには25ギガビット毎秒のインターネットがあり、アメリカにはないのか？<br>Why Switzerland has 25 gbit internet and America doesn't<br><br>🔺 483<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
