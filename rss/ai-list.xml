@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 15:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:01:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>image-generation references, and guidance for integrating wi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx6ccam2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx6ccam2d</guid>
+      <pubDate>Sun, 05 Jul 2026 16:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[image-generation references, and guidance for integrating with code agents. (2/2)]]></description>
+      <content:encoded><![CDATA[image-generation references, and guidance for integrating with code agents. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Taste Skill is an open-source framework that p…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx6ag6c2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx6ag6c2o</guid>
+      <pubDate>Sun, 05 Jul 2026 16:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Taste Skill is an open-source framework that provides portable, AI-friendly “Agent Skills” to upgrade frontend design and image-generation workflows, with multiple variants (including v2 experimental) and a unified install workflow via npx. It includes design-focused skills, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Taste Skill is an open-source framework that provides portable, AI-friendly “Agent Skills” to upgrade frontend design and image-generation workflows, with multiple variants (including v2 experimental) and a unified install workflow via npx. It includes design-focused skills, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 Leonxlnx / taste-ski…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx3drrl2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpvxx3drrl2z</guid>
+      <pubDate>Sun, 05 Jul 2026 16:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Leonxlnx / taste-skill<br>⭐ 56,890 (+850)<br>🗒 JavaScript<br><br>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Leonxlnx / taste-skill<br>⭐ 56,890 (+850)<br>🗒 JavaScript<br><br>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Codexのトークン集計で、gpt-5.5 は reasoning_output_token…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpvw6htglz2r</link>
@@ -423,33 +450,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Happy America Day nerds]]></description>
       <content:encoded><![CDATA[Happy America Day nerds]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 個人用メモアプリをつくっている  🔖 156 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpu45tgq6727</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpu45tgq6727</guid>
-      <pubDate>Sat, 04 Jul 2026 22:26:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 個人用メモアプリをつくっている<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 個人用メモアプリをつくっている<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>view per agent, SSH-friendly operation, and lightweight, dep…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpu3lyf2wl2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpu3lyf2wl2c</guid>
-      <pubDate>Sat, 04 Jul 2026 22:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[view per agent, SSH-friendly operation, and lightweight, dependency-free usage. (2/2)]]></description>
-      <content:encoded><![CDATA[view per agent, SSH-friendly operation, and lightweight, dependency-free usage. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Herdr is a terminal-based agent manager that r…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpu3lydsqj2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpu3lydsqj2f</guid>
-      <pubDate>Sat, 04 Jul 2026 22:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Herdr is a terminal-based agent manager that runs multiple coding agents in real terminals within a single binary, offering persistent sessions, detaching/reattaching, workspaces with panes and tabs, and a socket API for scripting and integrations. It emphasizes a real terminal (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Herdr is a terminal-based agent manager that runs multiple coding agents in real terminals within a single binary, offering persistent sessions, detaching/reattaching, workspaces with panes and tabs, and a socket API for scripting and integrations. It emphasizes a real terminal (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
