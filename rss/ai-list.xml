@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 01:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 05:50:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AMDのMI355Xを中心に、NVIDIAと比べてコストパフォーマンスの高い推論性能を実現す…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuunifxbn2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuunifxbn2s</guid>
+      <pubDate>Sun, 05 Jul 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AMDのMI355Xを中心に、NVIDIAと比べてコストパフォーマンスの高い推論性能を実現する動きが加速中。ただし、最新モデルの初期サポートやソフトウェアエコシステムの成熟度でNVIDIAが依然優位になる場面があり、最適化にはフレームワークと設定の工夫が不可欠。Waferの事例では、適切な量子化・推論エンジン選択・特化した最適化で、同等クラスの性能を大幅コストダウンで達成できる可能性を示している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AMDのMI355Xを中心に、NVIDIAと比べてコストパフォーマンスの高い推論性能を実現する動きが加速中。ただし、最新モデルの初期サポートやソフトウェアエコシステムの成熟度でNVIDIAが依然優位になる場面があり、最適化にはフレームワークと設定の工夫が不可欠。Waferの事例では、適切な量子化・推論エンジン選択・特化した最適化で、同等クラスの性能を大幅コストダウンで達成できる可能性を示している。]]></content:encoded>
+    </item>
+    <item>
+      <title>コストパフォーマンスが向上しており、より速く、より安くなっている。 Performance per dollar is …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuunca64r2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuunca64r2u</guid>
+      <pubDate>Sun, 05 Jul 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[コストパフォーマンスが向上しており、より速く、より安くなっている。<br>Performance per dollar is getting faster and cheaper<br><br>🔺 350<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[コストパフォーマンスが向上しており、より速く、より安くなっている。<br>Performance per dollar is getting faster and cheaper<br><br>🔺 350<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qii…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mputmtggg725</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mputmtggg725</guid>
+      <pubDate>Sun, 05 Jul 2026 05:26:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qiita<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qiita<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - この記事は、Google Booksなどの大規模書籍スキャンデータを対象とした「全スキャ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpunx44qdl2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpunx44qdl2y</guid>
+      <pubDate>Sun, 05 Jul 2026 03:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- この記事は、Google Booksなどの大規模書籍スキャンデータを対象とした「全スキャン公開」バウンティ（$200,000）について案内しており、データをスケールして公開する方法の提案・協力を呼びかけています。<br>- バウンティはGoogleやAI企業が保有する類似コレクションにも適用される可能性があり、OCR化済みテキストの抽出などの実現可能なデモの提供を望んでいます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- この記事は、Google Booksなどの大規模書籍スキャンデータを対象とした「全スキャン公開」バウンティ（$200,000）について案内しており、データをスケールして公開する方法の提案・協力を呼びかけています。<br>- バウンティはGoogleやAI企業が保有する類似コレクションにも適用される可能性があり、OCR化済みテキストの抽出などの実現可能なデモの提供を望んでいます。]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Books（または同様のサービス）すべての書籍のスキャンに対する20万ドルの報奨金（2025年） Goog…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpunwt6jat22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpunwt6jat22</guid>
+      <pubDate>Sun, 05 Jul 2026 03:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Google Books（または同様のサービス）すべての書籍のスキャンに対する20万ドルの報奨金（2025年）<br>Google Books (or similar) all book scans – $200k bounty (2025)<br><br>🔺 368<br>💬 29<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Google Books（または同様のサービス）すべての書籍のスキャンに対する20万ドルの報奨金（2025年）<br>Google Books (or similar) all book scans – $200k bounty (2025)<br><br>🔺 368<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Apple Silicon/macOS/iOS向けに2003年の「Generals」を、DX…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuhaozte72u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuhaozte72u</guid>
+      <pubDate>Sun, 05 Jul 2026 01:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Apple Silicon/macOS/iOS向けに2003年の「Generals」を、DXVK→Vulkan→MoltenVK→Metalの経路でネイティブ実装した移植版。資産は別途自分のコピーが必要で、Mac/iOS向けのビルド・デプロイ手順と依存関係が詳しく公開されている。iOS/iPadOS版は署名付きのパッケージとして提供され、テストにはXcodeやApple開発者アカウントが必要。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Apple Silicon/macOS/iOS向けに2003年の「Generals」を、DXVK→Vulkan→MoltenVK→Metalの経路でネイティブ実装した移植版。資産は別途自分のコピーが必要で、Mac/iOS向けのビルド・デプロイ手順と依存関係が詳しく公開されている。iOS/iPadOS版は署名付きのパッケージとして提供され、テストにはXcodeやApple開発者アカウントが必要。]]></content:encoded>
+    </item>
+    <item>
+      <title>Fable を用いて、Command and Conquer Generals は macOS、iPhone、iPad …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuhahjczp2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuhahjczp2i</guid>
+      <pubDate>Sun, 05 Jul 2026 01:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Fable を用いて、Command and Conquer Generals は macOS、iPhone、iPad にネイティブ移植された。<br>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable<br><br>🔺 353<br>💬 35<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Fable を用いて、Command and Conquer Generals は macOS、iPhone、iPad にネイティブ移植された。<br>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable<br><br>🔺 353<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”  🔖 187…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpug7m2zhe2g</link>
@@ -393,69 +456,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 48,420 (+432)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro,...]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 48,420 (+432)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro,...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 CoplayDev / unity-mcp ⭐ 11,376 (+49) 🗒 C#  Unity MCP act…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mptarl3zsf2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mptarl3zsf2i</guid>
-      <pubDate>Sat, 04 Jul 2026 14:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 CoplayDev / unity-mcp<br>⭐ 11,376 (+49)<br>🗒 C#<br><br>Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.]]></description>
-      <content:encoded><![CDATA[📦 CoplayDev / unity-mcp<br>⭐ 11,376 (+49)<br>🗒 C#<br><br>Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.]]></content:encoded>
-    </item>
-    <item>
-      <title>That paper predates Fable - I&apos;d love to see them re-run that…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpt7gnenkc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpt7gnenkc2a</guid>
-      <pubDate>Sat, 04 Jul 2026 13:52:13 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[That paper predates Fable - I'd love to see them re-run that experience to see if Fable is a meaningful improvement<br><br>My hunch is that it does, but data is better then hunches!]]></description>
-      <content:encoded><![CDATA[That paper predates Fable - I'd love to see them re-run that experience to see if Fable is a meaningful improvement<br><br>My hunch is that it does, but data is better then hunches!]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   会議室の二酸化炭素濃度が高くなるほど意思決定の質が低下することを、研究と実体験から説明してい…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpt6yv2ppf23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpt6yv2ppf23</guid>
-      <pubDate>Sat, 04 Jul 2026 13:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>会議室の二酸化炭素濃度が高くなるほど意思決定の質が低下することを、研究と実体験から説明している。1,000ppm前後で作業効率が落ち、2,500ppmでは判断力が著しく低下する可能性があり、閉鎖空間での長時間の会議ほどリスクが高い。環境要因として空気の質を計測・改善する重要性を訴え、窓を開けるなどの対策を推奨している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>会議室の二酸化炭素濃度が高くなるほど意思決定の質が低下することを、研究と実体験から説明している。1,000ppm前後で作業効率が落ち、2,500ppmでは判断力が著しく低下する可能性があり、閉鎖空間での長時間の会議ほどリスクが高い。環境要因として空気の質を計測・改善する重要性を訴え、窓を開けるなどの対策を推奨している。]]></content:encoded>
-    </item>
-    <item>
-      <title>部屋の空気がボトルネックかもしれない。 The bottleneck might be the air in the r…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpt6yn4orr2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpt6yn4orr2r</guid>
-      <pubDate>Sat, 04 Jul 2026 13:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[部屋の空気がボトルネックかもしれない。<br>The bottleneck might be the air in the room<br><br>🔺 481<br>💬 69<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[部屋の空気がボトルネックかもしれない。<br>The bottleneck might be the air in the room<br><br>🔺 481<br>💬 69<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 crynta / terax-ai ⭐ 7,909 (+44) 🗒 TypeScript  Lightweigh…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpt5g6jw232h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpt5g6jw232h</guid>
-      <pubDate>Sat, 04 Jul 2026 13:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 crynta / terax-ai<br>⭐ 7,909 (+44)<br>🗒 TypeScript<br><br>Lightweight (7MB) Terminal-first AI-native dev workspace]]></description>
-      <content:encoded><![CDATA[📦 crynta / terax-ai<br>⭐ 7,909 (+44)<br>🗒 TypeScript<br><br>Lightweight (7MB) Terminal-first AI-native dev workspace]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 とある部長のObsidian  🔖 155 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpt2ms77ka2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpt2ms77ka2p</guid>
-      <pubDate>Sat, 04 Jul 2026 12:26:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 とある部長のObsidian<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 とある部長のObsidian<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 alirezarezvani / claude…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpt236mowg25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpt236mowg25</guid>
-      <pubDate>Sat, 04 Jul 2026 12:16:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 alirezarezvani / claude-skills<br>⭐ 19,924 (+130)<br>🗒 Python<br><br>337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codi...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 alirezarezvani / claude-skills<br>⭐ 19,924 (+130)<br>🗒 Python<br><br>337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codi...]]></content:encoded>
     </item>
   </channel>
 </rss>
