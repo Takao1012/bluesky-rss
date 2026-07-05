@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 22:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:52:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqytnx672s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqytnx672s</guid>
+      <pubDate>Sun, 05 Jul 2026 23:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジタル化が進む中、問題は「ディスク自体の喪失」ではなく、所有権の完全撤廃とゲームの長期的な保存・選択肢の喪失にあると主張している。PCと比較してコンソールはAMAでの所有と保存が難しく、ストア依存の「ウォールガーデン化」が進むリスクが高いとして、DRMフリーや分散的な購入・保存の重要性を訴えている。著者は最終的に、創作者を支援しDRMフリーの作品を選ぶなど、デジタル所有権を守る行動を呼びかけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジタル化が進む中、問題は「ディスク自体の喪失」ではなく、所有権の完全撤廃とゲームの長期的な保存・選択肢の喪失にあると主張している。PCと比較してコンソールはAMAでの所有と保存が難しく、ストア依存の「ウォールガーデン化」が進むリスクが高いとして、DRMフリーや分散的な購入・保存の重要性を訴えている。著者は最終的に、創作者を支援しDRMフリーの作品を選ぶなど、デジタル所有権を守る行動を呼びかけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>物理的かデジタルかという話ではなく、所有権の問題だ。 It&apos;s not about physical vs. digit…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqyonoaw2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqyonoaw2f</guid>
+      <pubDate>Sun, 05 Jul 2026 23:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[物理的かデジタルかという話ではなく、所有権の問題だ。<br>It's not about physical vs. digital games, it's about ownership<br><br>🔺 277<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[物理的かデジタルかという話ではなく、所有権の問題だ。<br>It's not about physical vs. digital games, it's about ownership<br><br>🔺 277<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 そうだ、時計作ろう - 重力に縋るな  🔖 156 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwpxwj3ic2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwpxwj3ic2r</guid>
+      <pubDate>Sun, 05 Jul 2026 23:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 そうだ、時計作ろう - 重力に縋るな<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 そうだ、時計作ろう - 重力に縋るな<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Base UI が shadcn/ui のデフォルト採用に正式移行しました。Radix も併…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwkc62jrd2b</link>
@@ -438,33 +465,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けの最新フラッグシップモデルです。<br>前モデルのGLM-5.1から能力が大幅に向上し、100万トークンのコンテキストウィンドウを実現しています。<br>推論やコーディング、エージェント機能などのベンチマークで高い性能を発揮し、ローカル環境での展開も可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けの最新フラッグシップモデルです。<br>前モデルのGLM-5.1から能力が大幅に向上し、100万トークンのコンテキストウィンドウを実現しています。<br>推論やコーディング、エージェント機能などのベンチマークで高い性能を発揮し、ローカル環境での展開も可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Semantic Rich Text Editor SystemWordgardは、自由形式…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpvc2l5tyb2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpvc2l5tyb2b</guid>
-      <pubDate>Sun, 05 Jul 2026 09:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Semantic Rich Text Editor SystemWordgardは、自由形式のHTML編集ではなく、サポートするコンテンツを厳密に制御できるエディタ基盤を提供します。特徴は強力なプログラミングインターフェースで、カスタム編集機能や複雑なエディタ構築に適している点です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Semantic Rich Text Editor SystemWordgardは、自由形式のHTML編集ではなく、サポートするコンテンツを厳密に制御できるエディタ基盤を提供します。特徴は強力なプログラミングインターフェースで、カスタム編集機能や複雑なエディタ構築に適している点です。]]></content:encoded>
-    </item>
-    <item>
-      <title>Wordgard: ProseMirrorの作者が作った、ブラウザ上のリッチテキストエディタ Wordgard: In-…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpvc2e5oas2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpvc2e5oas2c</guid>
-      <pubDate>Sun, 05 Jul 2026 09:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Wordgard: ProseMirrorの作者が作った、ブラウザ上のリッチテキストエディタ<br>Wordgard: In-browser rich-text editor from the creator of ProseMirror<br><br>🔺 326<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Wordgard: ProseMirrorの作者が作った、ブラウザ上のリッチテキストエディタ<br>Wordgard: In-browser rich-text editor from the creator of ProseMirror<br><br>🔺 326<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Busine…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpvazytgie2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpvazytgie2e</guid>
-      <pubDate>Sun, 05 Jul 2026 09:26:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
