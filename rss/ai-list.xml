@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 23:49:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 01:41:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”  🔖 187…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpug7m2zhe2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpug7m2zhe2g</guid>
+      <pubDate>Sun, 05 Jul 2026 01:26:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”<br><br>🔖 187 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”<br><br>🔖 187 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Fwiw, Julius is usually more right than me  https://x.com/ju…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpugdv2prb23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpugdv2prb23</guid>
+      <pubDate>Sun, 05 Jul 2026 01:17:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Fwiw, Julius is usually more right than me<br><br>https://x.com/jullerino/status/2073483459641929995?s=46
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepwf5dgl2sey36c6ncq62pxuxobcbjgeavprtz7qiinkav43db3y" alt="Quote Tweet: https://x.com/jullerino/status/2073483459641929995?s=46" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Fwiw, Julius is usually more right than me<br><br>https://x.com/jullerino/status/2073483459641929995?s=46
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepwf5dgl2sey36c6ncq62pxuxobcbjgeavprtz7qiinkav43db3y" alt="Quote Tweet: https://x.com/jullerino/status/2073483459641929995?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepwf5dgl2sey36c6ncq62pxuxobcbjgeavprtz7qiinkav43db3y" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Somewhat humbling to have Claude Fable do a final review of …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpuf4qk5m22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpuf4qk5m22j</guid>
+      <pubDate>Sun, 05 Jul 2026 01:06:43 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Somewhat humbling to have Claude Fable do a final review of some software that you're about to release and have it then find (and fix) FIVE release blockers, for an estimated (unsubsidized) cost of $149.25 simonwillison.net/2026/Jul/5/s...]]></description>
+      <content:encoded><![CDATA[Somewhat humbling to have Claude Fable do a final review of some software that you're about to release and have it then find (and fix) FIVE release blockers, for an estimated (unsubsidized) cost of $149.25 simonwillison.net/2026/Jul/5/s...]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   htopの各項目の意味を詳しく解説したメモで、 uptimeや /proc 由来の情報、ロー…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpuajtxxox2i</link>
@@ -426,42 +456,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 alirezarezvani / claude-skills<br>⭐ 19,924 (+130)<br>🗒 Python<br><br>337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codi...]]></description>
       <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 alirezarezvani / claude-skills<br>⭐ 19,924 (+130)<br>🗒 Python<br><br>337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codi...]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  Zackriya-Solutions/meetily プライバシーを最優先したAI会議アシ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszyzs5hc2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszyzs5hc2v</guid>
-      <pubDate>Sat, 04 Jul 2026 12:15:08 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>Zackriya-Solutions/meetily<br>プライバシーを最優先したAI会議アシスタントです。<br>会議の録音、文字起こし、要約をすべてユーザー自身のインフラ上で行うため、データを外部クラウドに送信しません。<br>機密情報の管理やコンプライアンスを重視する企業や専門職向けに、完全なデータ主権と制御を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Zackriya-Solutions/meetily<br>プライバシーを最優先したAI会議アシスタントです。<br>会議の録音、文字起こし、要約をすべてユーザー自身のインフラ上で行うため、データを外部クラウドに送信しません。<br>機密情報の管理やコンプライアンスを重視する企業や専門職向けに、完全なデータ主権と制御を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  ChromeDevTools/chrome-devtools-mcp AIコーディングエー…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszqmvh2a2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszqmvh2a2m</guid>
-      <pubDate>Sat, 04 Jul 2026 12:10:26 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>ChromeDevTools/chrome-devtools-mcp<br>AIコーディングエージェントがChromeブラウザを操作および検査するためのMCPサーバーです。<br>Chrome DevToolsやPuppeteerを利用して、ブラウザの自動操作、デバッグ、パフォーマンス分析を可能にします。<br>MCP以外でも利用できるCLIも提供されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ChromeDevTools/chrome-devtools-mcp<br>AIコーディングエージェントがChromeブラウザを操作および検査するためのMCPサーバーです。<br>Chrome DevToolsやPuppeteerを利用して、ブラウザの自動操作、デバッグ、パフォーマンス分析を可能にします。<br>MCP以外でも利用できるCLIも提供されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  usestrix/strix Strixは、アプリケーションの脆弱性を自動的に発見し修正す…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszmbhoiq2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszmbhoiq2v</guid>
-      <pubDate>Sat, 04 Jul 2026 12:08:00 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが動的にコードを実行して脆弱性を検証し、手動テストの手間や静的解析の誤検知を削減します。<br>GitHub ActionsやCI/CDパイプラインとの連携により、開発フローの中で高速かつ正確にセキュリティテストを行うことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが動的にコードを実行して脆弱性を検証し、手動テストの手間や静的解析の誤検知を削減します。<br>GitHub ActionsやCI/CDパイプラインとの連携により、開発フローの中で高速かつ正確にセキュリティテストを行うことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  alibaba/page-agent ウェブページ上で動作するGUIエージェントを提供し、…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszllfa4l2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpszllfa4l2r</guid>
-      <pubDate>Sat, 04 Jul 2026 12:07:36 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/page-agent<br>ウェブページ上で動作するGUIエージェントを提供し、自然言語を用いてウェブインターフェースを操作することを目的としたリポジトリです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/page-agent<br>ウェブページ上で動作するGUIエージェントを提供し、自然言語を用いてウェブインターフェースを操作することを目的としたリポジトリです。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
