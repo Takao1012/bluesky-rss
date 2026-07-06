@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 17:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:26:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>durability, and cross-language support (Python, Node.js, Go,…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshtwkcf2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshtwkcf2p</guid>
+      <pubDate>Mon, 06 Jul 2026 19:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[durability, and cross-language support (Python, Node.js, Go, Rust, Dart). (2/2)]]></description>
+      <content:encoded><![CDATA[durability, and cross-language support (Python, Node.js, Go, Rust, Dart). (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Zvec is an open-source, in-process vector data…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshtuxp22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshtuxp22s</guid>
+      <pubDate>Mon, 06 Jul 2026 19:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Zvec is an open-source, in-process vector database designed for ultra-fast, local similarity search with dense/sparse vectors, native full-text search, and hybrid retrieval, now with v0.5.0 introducing FTS, DiskANN index, and new SDKs/tools. It emphasizes zero-setup deployment, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Zvec is an open-source, in-process vector database designed for ultra-fast, local similarity search with dense/sparse vectors, native full-text search, and hybrid retrieval, now with v0.5.0 introducing FTS, DiskANN index, and new SDKs/tools. It emphasizes zero-setup deployment, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 alibaba / zvec ⭐ 13…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshqyhop2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyshqyhop2j</guid>
+      <pubDate>Mon, 06 Jul 2026 19:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 alibaba / zvec<br>⭐ 13,170 (+355)<br>🗒 C++<br><br>A lightweight, lightning-fast, in-process vector database]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 alibaba / zvec<br>⭐ 13,170 (+355)<br>🗒 C++<br><br>A lightweight, lightning-fast, in-process vector database]]></content:encoded>
+    </item>
+    <item>
+      <title>reliability, speed, and scalable web data extraction at scal…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4mi3t22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4mi3t22g</guid>
+      <pubDate>Mon, 06 Jul 2026 18:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[reliability, speed, and scalable web data extraction at scale. (2/2)]]></description>
+      <content:encoded><![CDATA[reliability, speed, and scalable web data extraction at scale. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Firecrawl is an open-source API and hosted ser…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4mgvq32s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4mgvq32s</guid>
+      <pubDate>Mon, 06 Jul 2026 18:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Firecrawl is an open-source API and hosted service that enables fast web searching, scraping, and interactive automation for agents, delivering clean Markdown/JSON outputs, with SDKs across multiple languages and integrations for seamless agent and MCP workflows. It emphasizes (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Firecrawl is an open-source API and hosted service that enables fast web searching, scraping, and interactive automation for agents, delivering clean Markdown/JSON outputs, with SDKs across multiple languages and integrations for seamless agent and MCP workflows. It emphasizes (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 firecrawl / firecraw…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4jvbhd2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyp4jvbhd2b</guid>
+      <pubDate>Mon, 06 Jul 2026 18:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 firecrawl / firecrawl<br>⭐ 145,625 (+834)<br>🗒 TypeScript<br><br>The API to search, scrape, and interact with the web at scale. 🔥]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 firecrawl / firecrawl<br>⭐ 145,625 (+834)<br>🗒 TypeScript<br><br>The API to search, scrape, and interact with the web at scale. 🔥]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:    Castroの創設者は、実体験に基づく人間味のサポートを試みたが、多くの問い合わせは lo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpyndyjlod2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpyndyjlod2z</guid>
+      <pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br> Castroの創設者は、実体験に基づく人間味のサポートを試みたが、多くの問い合わせは loyal を生まれず、むしろ混乱や不満を増やす結果になった。 複数のカテゴリー別に検討した結果、サポート対応は差別化にならず、特に価格・バグ以外の多数は有意義な関係構築に繋がらないと結論づけ、最も効果的なのは製品自体を改善することだと締めくくっている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br> Castroの創設者は、実体験に基づく人間味のサポートを試みたが、多くの問い合わせは loyal を生まれず、むしろ混乱や不満を増やす結果になった。 複数のカテゴリー別に検討した結果、サポート対応は差別化にならず、特に価格・バグ以外の多数は有意義な関係構築に繋がらないと結論づけ、最も効果的なのは製品自体を改善することだと締めくくっている。]]></content:encoded>
+    </item>
+    <item>
+      <title>サポートを通じて顧客との関係を築くことは、期待していたほどにはうまくいかなかった。 Building relations…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpyndr47c62h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpyndr47c62h</guid>
+      <pubDate>Mon, 06 Jul 2026 17:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[サポートを通じて顧客との関係を築くことは、期待していたほどにはうまくいかなかった。<br>Building relationships with customers through support didn't turn out as hoped<br><br>🔺 278<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[サポートを通じて顧客との関係を築くことは、期待していたほどにはうまくいかなかった。<br>Building relationships with customers through support didn't turn out as hoped<br><br>🔺 278<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク  🔖 154 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpymdcdbsd2n</link>
@@ -387,78 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>ノートルダム大学の Douglas Thain 教授が著した「Introduction to Compilers and Language Design（第2版）」は、Cに似た言語を受け取りX86/ARMのアセンブリへ翻訳する単純なコンパイラを1学期で構築することを目指すオンライン教科書である。全章と付録・コードリソースがオンラインで公開されており、個人・学術利用はPDFのダウンロード・印刷が許可されているが商用印刷・配布は禁止されている。全体は章ごとに分かれ、実践的なトピック（スキャニング、パーシング、AST、意味解析、IR、コード生成、 (1/2)]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>ノートルダム大学の Douglas Thain 教授が著した「Introduction to Compilers and Language Design（第2版）」は、Cに似た言語を受け取りX86/ARMのアセンブリへ翻訳する単純なコンパイラを1学期で構築することを目指すオンライン教科書である。全章と付録・コードリソースがオンラインで公開されており、個人・学術利用はPDFのダウンロード・印刷が許可されているが商用印刷・配布は禁止されている。全体は章ごとに分かれ、実践的なトピック（スキャニング、パーシング、AST、意味解析、IR、コード生成、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>コンパイラとプログラミング言語設計入門 (2021) Introduction to Compilers and Lan…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpx6fjrjun2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpx6fjrjun2a</guid>
-      <pubDate>Mon, 06 Jul 2026 03:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[コンパイラとプログラミング言語設計入門 (2021)<br>Introduction to Compilers and Language Design (2021)<br><br>🔺 283<br>💬 12<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[コンパイラとプログラミング言語設計入門 (2021)<br>Introduction to Compilers and Language Design (2021)<br><br>🔺 283<br>💬 12<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 プログラミングのためのBGMや環境音など。仕事や勉強の邪魔にならない無料で使えそうな音源集。2026年版  🔖 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwzzwn7gl2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwzzwn7gl2r</guid>
-      <pubDate>Mon, 06 Jul 2026 02:26:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 プログラミングのためのBGMや環境音など。仕事や勉強の邪魔にならない無料で使えそうな音源集。2026年版<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 プログラミングのためのBGMや環境音など。仕事や勉強の邪魔にならない無料で使えそうな音源集。2026年版<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Openprinterは、修理可能でコンパクト・頑丈なプリンタ/プロッタで、リフィル可能イン…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwxpae5ui2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwxpae5ui2b</guid>
-      <pubDate>Mon, 06 Jul 2026 01:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Openprinterは、修理可能でコンパクト・頑丈なプリンタ/プロッタで、リフィル可能インクシステムとオープンソース部品を採用し、長寿命と低コスト運用を実現します。黒・カラーのカートリッジを独立して使える自由度、A4/A3用紙だけでなくロール紙にも対応する柔軟な印刷、そしてドラッグ不要のドライバー不要運用とオープンソースの印刷サーバーで、OSに依存せずネットワーク印刷が可能です。機能性と拡張性を重視した自作・カスタマイズ性が特徴です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Openprinterは、修理可能でコンパクト・頑丈なプリンタ/プロッタで、リフィル可能インクシステムとオープンソース部品を採用し、長寿命と低コスト運用を実現します。黒・カラーのカートリッジを独立して使える自由度、A4/A3用紙だけでなくロール紙にも対応する柔軟な印刷、そしてドラッグ不要のドライバー不要運用とオープンソースの印刷サーバーで、OSに依存せずネットワーク印刷が可能です。機能性と拡張性を重視した自作・カスタマイズ性が特徴です。]]></content:encoded>
-    </item>
-    <item>
-      <title>プリンターを開く OpenPrinter  🔺 424 💬 30 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwxoxaovk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwxoxaovk2x</guid>
-      <pubDate>Mon, 06 Jul 2026 01:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[プリンターを開く<br>OpenPrinter<br><br>🔺 424<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[プリンターを開く<br>OpenPrinter<br><br>🔺 424<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpect…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwworei3k2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwworei3k2t</guid>
-      <pubDate>Mon, 06 Jul 2026 01:26:21 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I feel like I&apos;m using every inch of my expertise, and being …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpwuokdch22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mpwuokdch22t</guid>
-      <pubDate>Mon, 06 Jul 2026 00:50:26 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I feel like I'm using every inch of my expertise, and being mentally stretched in all sorts of interesting new ways]]></description>
-      <content:encoded><![CDATA[I feel like I'm using every inch of my expertise, and being mentally stretched in all sorts of interesting new ways]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 スタートアップをとりまく思想 - 🐴 (馬)  🔖 230 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwtdct3ov2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwtdct3ov2m</guid>
-      <pubDate>Mon, 06 Jul 2026 00:26:15 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 スタートアップをとりまく思想 - 🐴 (馬)<br><br>🔖 230 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 スタートアップをとりまく思想 - 🐴 (馬)<br><br>🔖 230 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>If you&apos;re not &quot;writing&quot; more code today than you were 5 year…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrw6oxph2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrw6oxph2n</guid>
-      <pubDate>Sun, 05 Jul 2026 23:51:15 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[If you're not "writing" more code today than you were 5 years ago, I'll be frank, you're probably not a great engineer. (2/2)]]></description>
-      <content:encoded><![CDATA[If you're not "writing" more code today than you were 5 years ago, I'll be frank, you're probably not a great engineer. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
