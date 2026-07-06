@@ -5,8 +5,107 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:35:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク  🔖 154 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpymdcdbsd2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpymdcdbsd2n</guid>
+      <pubDate>Mon, 06 Jul 2026 17:26:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>and transfer sessions, leveraging your local Codex CLI and a…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylreodt32s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylreodt32s</guid>
+      <pubDate>Mon, 06 Jul 2026 17:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[and transfer sessions, leveraging your local Codex CLI and authentication. It requires a Codex-enabled environment, Node.js 18+, and a ChatGPT subscription or OpenAI API key. (2/2)]]></description>
+      <content:encoded><![CDATA[and transfer sessions, leveraging your local Codex CLI and authentication. It requires a Codex-enabled environment, Node.js 18+, and a ChatGPT subscription or OpenAI API key. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   The Codex plugin for Claude Code enables using…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylren3tv2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylren3tv2e</guid>
+      <pubDate>Mon, 06 Jul 2026 17:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>The Codex plugin for Claude Code enables using Codex from Claude Code with commands like /codex:review, /codex:adversarial-review, /codex:rescue, /codex:transfer, /codex:status, /codex:result, /codex:cancel, and /codex:setup to run reviews, delegate tasks, manage background jobs, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>The Codex plugin for Claude Code enables using Codex from Claude Code with commands like /codex:review, /codex:adversarial-review, /codex:rescue, /codex:transfer, /codex:status, /codex:result, /codex:cancel, and /codex:setup to run reviews, delegate tasks, manage background jobs, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 openai / codex-plugi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylrabbaf2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpylrabbaf2e</guid>
+      <pubDate>Mon, 06 Jul 2026 17:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 openai / codex-plugin-cc<br>⭐ 26,007 (+910)<br>🗒 JavaScript<br><br>Use Codex from Claude Code to review code or delegate tasks.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 openai / codex-plugin-cc<br>⭐ 26,007 (+910)<br>🗒 JavaScript<br><br>Use Codex from Claude Code to review code or delegate tasks.]]></content:encoded>
+    </item>
+    <item>
+      <title>⚡ Prompt tuning made GPT-5.5 faster and more token-efficient…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mpylpvcaqu2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mpylpvcaqu2h</guid>
+      <pubDate>Mon, 06 Jul 2026 17:15:26 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[⚡ Prompt tuning made GPT-5.5 faster and more token-efficient in VS Code.<br> <br>Learn how we worked with OpenAI to validate prompt changes and improve the coding harness after launch. <br><br>code.visualstudio.com/blogs/2026/0...]]></description>
+      <content:encoded><![CDATA[⚡ Prompt tuning made GPT-5.5 faster and more token-efficient in VS Code.<br> <br>Learn how we worked with OpenAI to validate prompt changes and improve the coding harness after launch. <br><br>code.visualstudio.com/blogs/2026/0...]]></content:encoded>
+    </item>
+    <item>
+      <title>practices across development lifecycle. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyig436f52a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyig436f52a</guid>
+      <pubDate>Mon, 06 Jul 2026 16:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[practices across development lifecycle. (2/2)]]></description>
+      <content:encoded><![CDATA[practices across development lifecycle. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Agent Skills provide a production-grade, 24-sk…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyig3zyto2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyig3zyto2h</guid>
+      <pubDate>Mon, 06 Jul 2026 16:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Agent Skills provide a production-grade, 24-skill framework that encodes step-by-step workflows (Define, Plan, Build, Verify, Review, Ship) for AI coding agents, with automated commands, verification gates, anti-rationalization, and role-based personas to enforce best engineering (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Agent Skills provide a production-grade, 24-skill framework that encodes step-by-step workflows (Define, Plan, Build, Verify, Review, Ship) for AI coding agents, with automated commands, verification gates, anti-rationalization, and role-based personas to enforce best engineering (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 addyosmani / agent-s…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyifyxiw52e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyifyxiw52e</guid>
+      <pubDate>Mon, 06 Jul 2026 16:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 70,282 (+1,114)<br>🗒 Shell<br><br>Production-grade engineering skills for AI coding agents.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 70,282 (+1,114)<br>🗒 Shell<br><br>Production-grade engineering skills for AI coding agents.]]></content:encoded>
+    </item>
+    <item>
+      <title>グレートブリテンの鉄道網のリアルタイム地図 Real-time map of Great Britain&apos;s rail …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpygn4tz6d2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpygn4tz6d2o</guid>
+      <pubDate>Mon, 06 Jul 2026 15:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[グレートブリテンの鉄道網のリアルタイム地図<br>Real-time map of Great Britain's rail network<br><br>🔺 290<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[グレートブリテンの鉄道網のリアルタイム地図<br>Real-time map of Great Britain's rail network<br><br>🔺 290<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   This is a ReadMe-like page for an &quot;Awesome&quot; li…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyf2sh4iv2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyf2sh4iv2n</guid>
+      <pubDate>Mon, 06 Jul 2026 15:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>This is a ReadMe-like page for an "Awesome" list (a curated directory of resources across platforms, languages, and domains), featuring sections, sponsor mentions, and links to related guides and categories.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>This is a ReadMe-like page for an "Awesome" list (a curated directory of resources across platforms, languages, and domains), featuring sections, sponsor mentions, and links to related guides and categories.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 sindresorhus / awes…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyf2pjfys2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpyf2pjfys2p</guid>
+      <pubDate>Mon, 06 Jul 2026 15:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 sindresorhus / awesome<br>⭐ 481,991 (+352)<br><br>😎 Awesome lists about all kinds of interesting topics]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 sindresorhus / awesome<br>⭐ 481,991 (+352)<br><br>😎 Awesome lists about all kinds of interesting topics]]></content:encoded>
+    </item>
     <item>
       <title>今日のGitHubトレンド  ogulcancelik/herdr herdrは、複数のコーディングエージェントを一つの…</title>
       <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mpycc7bno32x</link>
@@ -360,114 +459,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[If you're not "writing" more code today than you were 5 years ago, I'll be frank, you're probably not a great engineer. (2/2)]]></description>
       <content:encoded><![CDATA[If you're not "writing" more code today than you were 5 years ago, I'll be frank, you're probably not a great engineer. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>There will (hopefully) always be some code that is worth ver…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrw3nbcs2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrw3nbcs2n</guid>
-      <pubDate>Sun, 05 Jul 2026 23:51:14 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[There will (hopefully) always be some code that is worth verifying 100 times before merging.<br><br>If it's so important it needs hand review, it's ALSO important enough to benefit from thousands of lines of slop verifying every line on top of the human review. (1/2)]]></description>
-      <content:encoded><![CDATA[There will (hopefully) always be some code that is worth verifying 100 times before merging.<br><br>If it's so important it needs hand review, it's ALSO important enough to benefit from thousands of lines of slop verifying every line on top of the human review. (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>You should be reviewing a MUCH smaller % of your code today …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrvpoqg62w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwrvpoqg62w</guid>
-      <pubDate>Sun, 05 Jul 2026 23:50:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[You should be reviewing a MUCH smaller % of your code today than you were 5 years ago.<br><br>If your code is so important it needs every line verified, you better be writing a LOT of slop that verifies it too.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiflzagtl52ucnv3p6z4tyhrsn5fodu57fkjknamn67zeliuoth4ye" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[You should be reviewing a MUCH smaller % of your code today than you were 5 years ago.<br><br>If your code is so important it needs every line verified, you better be writing a LOT of slop that verifies it too.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiflzagtl52ucnv3p6z4tyhrsn5fodu57fkjknamn67zeliuoth4ye" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiflzagtl52ucnv3p6z4tyhrsn5fodu57fkjknamn67zeliuoth4ye" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqytnx672s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqytnx672s</guid>
-      <pubDate>Sun, 05 Jul 2026 23:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジタル化が進む中、問題は「ディスク自体の喪失」ではなく、所有権の完全撤廃とゲームの長期的な保存・選択肢の喪失にあると主張している。PCと比較してコンソールはAMAでの所有と保存が難しく、ストア依存の「ウォールガーデン化」が進むリスクが高いとして、DRMフリーや分散的な購入・保存の重要性を訴えている。著者は最終的に、創作者を支援しDRMフリーの作品を選ぶなど、デジタル所有権を守る行動を呼びかけている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>PlayStationが2028年から新作ソフトのディスク生産を終了し、コンソールの完全デジタル化が進む中、問題は「ディスク自体の喪失」ではなく、所有権の完全撤廃とゲームの長期的な保存・選択肢の喪失にあると主張している。PCと比較してコンソールはAMAでの所有と保存が難しく、ストア依存の「ウォールガーデン化」が進むリスクが高いとして、DRMフリーや分散的な購入・保存の重要性を訴えている。著者は最終的に、創作者を支援しDRMフリーの作品を選ぶなど、デジタル所有権を守る行動を呼びかけている。]]></content:encoded>
-    </item>
-    <item>
-      <title>物理的かデジタルかという話ではなく、所有権の問題だ。 It&apos;s not about physical vs. digit…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqyonoaw2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwqyonoaw2f</guid>
-      <pubDate>Sun, 05 Jul 2026 23:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[物理的かデジタルかという話ではなく、所有権の問題だ。<br>It's not about physical vs. digital games, it's about ownership<br><br>🔺 277<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[物理的かデジタルかという話ではなく、所有権の問題だ。<br>It's not about physical vs. digital games, it's about ownership<br><br>🔺 277<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 そうだ、時計作ろう - 重力に縋るな  🔖 156 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwpxwj3ic2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpwpxwj3ic2r</guid>
-      <pubDate>Sun, 05 Jul 2026 23:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 そうだ、時計作ろう - 重力に縋るな<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 そうだ、時計作ろう - 重力に縋るな<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Base UI が shadcn/ui のデフォルト採用に正式移行しました。Radix も併…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwkc62jrd2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwkc62jrd2b</guid>
-      <pubDate>Sun, 05 Jul 2026 21:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Base UI が shadcn/ui のデフォルト採用に正式移行しました。Radix も併存・互換を維持しつつ、新規プロジェクトでは Base UI が優先され、移行は段階的に進められる設計です。これにより、Base UI を使った新機能やチャット向けの部品、GitHub レジストリ機能などの新機能が追加・拡張されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Base UI が shadcn/ui のデフォルト採用に正式移行しました。Radix も併存・互換を維持しつつ、新規プロジェクトでは Base UI が優先され、移行は段階的に進められる設計です。これにより、Base UI を使った新機能やチャット向けの部品、GitHub レジストリ機能などの新機能が追加・拡張されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>Shadcn/UI は Radix の代わりにデフォルトで Base UI を使うようになりました。 Shadcn/UI…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwkbw6utm2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpwkbw6utm2q</guid>
-      <pubDate>Sun, 05 Jul 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Shadcn/UI は Radix の代わりにデフォルトで Base UI を使うようになりました。<br>Shadcn/UI now defaults to Base UI instead of Radix<br><br>🔺 271<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Shadcn/UI は Radix の代わりにデフォルトで Base UI を使うようになりました。<br>Shadcn/UI now defaults to Base UI instead of Radix<br><br>🔺 271<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>You&apos;ve been lied to about Fable.   Video: https://twitter.co…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwhpxkmjn23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwhpxkmjn23</guid>
-      <pubDate>Sun, 05 Jul 2026 20:26:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[You've been lied to about Fable. <br><br>Video: https://twitter.com/theo/status/2073866193015087143]]></description>
-      <content:encoded><![CDATA[You've been lied to about Fable. <br><br>Video: https://twitter.com/theo/status/2073866193015087143]]></content:encoded>
-    </item>
-    <item>
-      <title>Okay it’s now the 5th can we PLEASE take this out of my dini…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwfr52ltx26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwfr52ltx26</guid>
-      <pubDate>Sun, 05 Jul 2026 20:20:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Okay it’s now the 5th can we PLEASE take this out of my dining room. I get jump scared every time I walk in
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicsevf7houuti34hvkgzl4ffcdsfq2ko7hwrguhsuy2qkssqmqvui" alt="Quote Tweet: https://twitter.com/i/status/2073544810330575053" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Okay it’s now the 5th can we PLEASE take this out of my dining room. I get jump scared every time I walk in
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicsevf7houuti34hvkgzl4ffcdsfq2ko7hwrguhsuy2qkssqmqvui" alt="Quote Tweet: https://twitter.com/i/status/2073544810330575053" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicsevf7houuti34hvkgzl4ffcdsfq2ko7hwrguhsuy2qkssqmqvui" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ruvnet / RuView ⭐ 76,52…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpwfefivph2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpwfefivph2x</guid>
-      <pubDate>Sun, 05 Jul 2026 20:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 76,521 (+133)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 76,521 (+133)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></content:encoded>
-    </item>
-    <item>
-      <title>How the fuck is the Mac window service using 564 TERABYTES o…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwfqj3sxy2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpwfqj3sxy2h</guid>
-      <pubDate>Sun, 05 Jul 2026 20:03:16 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[How the fuck is the Mac window service using 564 TERABYTES of virtual memory
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibbbvjiyahe5kbbi3asj6t5tnhwp7soybmzgtookj7nhkeymyhaky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[How the fuck is the Mac window service using 564 TERABYTES of virtual memory
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibbbvjiyahe5kbbi3asj6t5tnhwp7soybmzgtookj7nhkeymyhaky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibbbvjiyahe5kbbi3asj6t5tnhwp7soybmzgtookj7nhkeymyhaky" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
