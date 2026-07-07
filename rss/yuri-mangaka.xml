@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:59:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>&quot;ロリポップ&quot;  色鉛筆イラスト</title>
+      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mq2p2nkkgs24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mq2p2nkkgs24</guid>
+      <pubDate>Tue, 07 Jul 2026 13:20:29 GMT</pubDate>
+      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
+      <description><![CDATA["ロリポップ"<br><br>色鉛筆イラスト
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiauiymnj4rbm2h4uahdaekjgx2shzu6j552q5kyntbru4klvugy5a" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA["ロリポップ"<br><br>色鉛筆イラスト
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiauiymnj4rbm2h4uahdaekjgx2shzu6j552q5kyntbru4klvugy5a" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiauiymnj4rbm2h4uahdaekjgx2shzu6j552q5kyntbru4klvugy5a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>【8日 朝7時半～】 朝活配信やってみます！あとチャンネル関係でちょっとしたご報告もします！ サムネ絵新規で描いたよ よ…</title>
       <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mq2blan45s2o</link>
@@ -502,20 +514,6 @@
       <content:encoded><![CDATA[初色鉛筆習作🍌
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiaxgkmbicdsdkenxutdya2gts3erckf3hcm2u2h3iyptkc6y3jmju" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreiaxgkmbicdsdkenxutdya2gts3erckf3hcm2u2h3iyptkc6y3jmju" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>激しく戦った後、一緒にくつろぐ</title>
-      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mpt5n7mwuk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mpt5n7mwuk2x</guid>
-      <pubDate>Sat, 04 Jul 2026 13:20:06 GMT</pubDate>
-      <author>コダマナオコ (@powder705.bsky.social)</author>
-      <description><![CDATA[激しく戦った後、一緒にくつろぐ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidfcc6nq2oe7c7wpvr7qn6kshoizfp6itxpmiidjfbzip7exgvp4y" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreibfn6u74mqymfpjec3645zozzjz4msfn4bbmvumgc4oktggwve4zi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[激しく戦った後、一緒にくつろぐ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidfcc6nq2oe7c7wpvr7qn6kshoizfp6itxpmiidjfbzip7exgvp4y" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreibfn6u74mqymfpjec3645zozzjz4msfn4bbmvumgc4oktggwve4zi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidfcc6nq2oe7c7wpvr7qn6kshoizfp6itxpmiidjfbzip7exgvp4y" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
