@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:50 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>OpenWrt One – オープンハードウェアのルータ OpenWrt One – Open Hardware Rou…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzbhhc7mx2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzbhhc7mx2f</guid>
+      <pubDate>Mon, 06 Jul 2026 23:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[OpenWrt One – オープンハードウェアのルータ<br>OpenWrt One – Open Hardware Router<br><br>🔺 378<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[OpenWrt One – オープンハードウェアのルータ<br>OpenWrt One – Open Hardware Router<br><br>🔺 378<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 無料の画像生成AI「Krea 2」が話題　実写もアニメもこなす新勢力 (1/4)  🔖 155 ブックマーク �…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpz546grfz2u</link>
@@ -456,15 +465,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol UltraはCodexに搭載される。 GPT-5.6 Sol Ultra will be in …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpxz7zynpp2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpxz7zynpp2m</guid>
-      <pubDate>Mon, 06 Jul 2026 11:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GPT-5.6 Sol UltraはCodexに搭載される。<br>GPT-5.6 Sol Ultra will be in Codex<br><br>🔺 316<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GPT-5.6 Sol UltraはCodexに搭載される。<br>GPT-5.6 Sol Ultra will be in Codex<br><br>🔺 316<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
