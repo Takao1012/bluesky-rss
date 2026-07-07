@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:39:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita  🔖 168 ブックマ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzr7o32gc2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzr7o32gc2r</guid>
+      <pubDate>Tue, 07 Jul 2026 04:26:25 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Elm 0.19.2は、解析時のメモリ割り当てを最適化することで、慣例的に大規模プロジェクト…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzouxvywp2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzouxvywp2k</guid>
+      <pubDate>Tue, 07 Jul 2026 03:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Elm 0.19.2は、解析時のメモリ割り当てを最適化することで、慣例的に大規模プロジェクトでのビルドを速くし、初期ビルドを5.7秒、インクリメンタルビルドを350ms未満に短縮。実測ではGCのコピー削減・メモリ使用量削減・全体速度向上を実現し、特に500k行超のプログラムで効果が見られるというパッチリリース。今後も小さな非破壊的リリースを重ねて1.0へと移行する予定で、Elmの新機能改善やパフォーマンス向上を継続していく。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Elm 0.19.2は、解析時のメモリ割り当てを最適化することで、慣例的に大規模プロジェクトでのビルドを速くし、初期ビルドを5.7秒、インクリメンタルビルドを350ms未満に短縮。実測ではGCのコピー削減・メモリ使用量削減・全体速度向上を実現し、特に500k行超のプログラムで効果が見られるというパッチリリース。今後も小さな非破壊的リリースを重ねて1.0へと移行する予定で、Elmの新機能改善やパフォーマンス向上を継続していく。]]></content:encoded>
+    </item>
+    <item>
+      <title>Elm 1.0 への道 Road to Elm 1.0  🔺 309 💬 40 🔗 HN Post | Artic…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzousx4vl2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzousx4vl2l</guid>
+      <pubDate>Tue, 07 Jul 2026 03:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Elm 1.0 への道<br>Road to Elm 1.0<br><br>🔺 309<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Elm 1.0 への道<br>Road to Elm 1.0<br><br>🔺 309<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRoute…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzntyn4g72g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzntyn4g72g</guid>
+      <pubDate>Tue, 07 Jul 2026 03:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01<br><br>🔖 192 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01<br><br>🔖 192 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ソフトウェアの見積もり - kawasima  🔖 188 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzkipcmtf2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpzkipcmtf2r</guid>
+      <pubDate>Tue, 07 Jul 2026 02:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ソフトウェアの見積もり - kawasima<br><br>🔖 188 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ソフトウェアの見積もり - kawasima<br><br>🔖 188 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - オフライン検索とルート案内機能で、データ通信なしにGPSだけで海外旅行の計画・移動が可能…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzi6h7owx2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzi6h7owx2b</guid>
+      <pubDate>Tue, 07 Jul 2026 01:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- オフライン検索とルート案内機能で、データ通信なしにGPSだけで海外旅行の計画・移動が可能。  <br>- アプリはプライバシーを重視し、個人を特定せず追跡も情報収集も行わない設計で、Exodusによる監査も受けている。  <br>- OpenStreetMapへ貢献するコミュニティ主導の無料オープンソースプロジェクトで、他の地図アプリのフォークとして発展している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- オフライン検索とルート案内機能で、データ通信なしにGPSだけで海外旅行の計画・移動が可能。  <br>- アプリはプライバシーを重視し、個人を特定せず追跡も情報収集も行わない設計で、Exodusによる監査も受けている。  <br>- OpenStreetMapへ貢献するコミュニティ主導の無料オープンソースプロジェクトで、他の地図アプリのフォークとして発展している。]]></content:encoded>
+    </item>
+    <item>
+      <title>CoMaps – FOSS オフライン地図 CoMaps – FOSS Offline Maps  🔺 312 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzi6bwiux2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzi6bwiux2b</guid>
+      <pubDate>Tue, 07 Jul 2026 01:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[CoMaps – FOSS オフライン地図<br>CoMaps – FOSS Offline Maps<br><br>🔺 312<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[CoMaps – FOSS オフライン地図<br>CoMaps – FOSS Offline Maps<br><br>🔺 312<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Don&apos;t make the same mistakes I did. Here&apos;s a video on how to…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpzdr5rkxa2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mpzdr5rkxa2b</guid>
+      <pubDate>Tue, 07 Jul 2026 00:06:36 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Don't make the same mistakes I did. Here's a video on how to get the most out of Fable, full of real world examples of Fable helping me ship. <br><br>Video: https://twitter.com/theo/status/2074283906816430288]]></description>
+      <content:encoded><![CDATA[Don't make the same mistakes I did. Here's a video on how to get the most out of Fable, full of real world examples of Fable helping me ship. <br><br>Video: https://twitter.com/theo/status/2074283906816430288]]></content:encoded>
+    </item>
     <item>
       <title>OpenWrt One – オープンハードウェアのルータ OpenWrt One – Open Hardware Rou…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mpzbhhc7mx2f</link>
@@ -393,78 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[コンピューターが主演<br>Starring the Computer<br><br>🔺 257<br>💬 34<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[コンピューターが主演<br>Starring the Computer<br><br>🔺 257<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  nvidia/Qwen3.6-27B-NVFP4 AlibabaのQwen3.6…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7v7mhwt2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7v7mhwt2v</guid>
-      <pubDate>Mon, 06 Jul 2026 13:43:40 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Qwen3.6-27B-NVFP4<br>AlibabaのQwen3.6-27BをNVIDIA Model Optimizerで量子化したモデルを提供することを目的としています。<br>AIエージェント、チャットボット、RAGシステムなどのAIアプリケーションへ導入したい開発者が、最適化済みのモデルを容易に利用できるようにしています。<br>NVIDIA GPU環境での高速な推論が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Qwen3.6-27B-NVFP4<br>AlibabaのQwen3.6-27BをNVIDIA Model Optimizerで量子化したモデルを提供することを目的としています。<br>AIエージェント、チャットボット、RAGシステムなどのAIアプリケーションへ導入したい開発者が、最適化済みのモデルを容易に利用できるようにしています。<br>NVIDIA GPU環境での高速な推論が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  InternScience/Agents-A1 Agents-A1は、35BのM…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7ujlm3z2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7ujlm3z2i</guid>
-      <pubDate>Mon, 06 Jul 2026 13:43:18 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>Agents-A1は、35BのMixture-of-Expertsモデルであり、長期的な探索や科学研究など多様な領域でのエージェント能力を拡張することを目的としています。<br>軌跡のスケーリングと3段階の学習手法を用いることで、大規模モデルに匹敵する性能の実現を目指しています。<br>本リポジトリでは、Hugging Face形式のモデルウェイトと設定ファイルを提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>Agents-A1は、35BのMixture-of-Expertsモデルであり、長期的な探索や科学研究など多様な領域でのエージェント能力を拡張することを目的としています。<br>軌跡のスケーリングと3段階の学習手法を用いることで、大規模モデルに匹敵する性能の実現を目指しています。<br>本リポジトリでは、Hugging Face形式のモデルウェイトと設定ファイルを提供しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7s5nnry2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mpy7s5nnry2s</guid>
-      <pubDate>Mon, 06 Jul 2026 13:41:58 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Empero AIが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllamaなどのランタイムで利用できるようにGGUF形式で量子化したモデルを提供することを目的としています。<br>このモデルは100万トークンのコンテキストウィンドウと高い推論能力を備えています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Empero AIが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllamaなどのランタイムで利用できるようにGGUF形式で量子化したモデルを提供することを目的としています。<br>このモデルは100万トークンのコンテキストウィンドウと高い推論能力を備えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpy6w56a5m2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpy6w56a5m2l</guid>
-      <pubDate>Mon, 06 Jul 2026 13:26:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】<br><br>🔖 180 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】<br><br>🔖 180 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>deduplication, and Whisper backends, and guides first-time s…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e74xs52h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e74xs52h</guid>
-      <pubDate>Mon, 06 Jul 2026 13:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[deduplication, and Whisper backends, and guides first-time setup across OSes. (2/2)]]></description>
-      <content:encoded><![CDATA[deduplication, and Whisper backends, and guides first-time setup across OSes. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Claude Video adds a /watch command so Claude c…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e73nfo24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e73nfo24</guid>
-      <pubDate>Mon, 06 Jul 2026 13:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Claude Video adds a /watch command so Claude can analyze any video by downloading captions, extracting frames, and transcribing audio, then answering grounded questions with both visual frames and timestamps. It supports multiple installation methods, frame-detail modes, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Claude Video adds a /watch command so Claude can analyze any video by downloading captions, extracting frames, and transcribing audio, then answering grounded questions with both visual frames and timestamps. It supports multiple installation methods, frame-detail modes, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 bradautomates / cla…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e3wfrp27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mpy6e3wfrp27</guid>
-      <pubDate>Mon, 06 Jul 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 bradautomates / claude-video<br>⭐ 3,796 (+368)<br>🗒 Python<br><br>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 bradautomates / claude-video<br>⭐ 3,796 (+368)<br>🗒 Python<br><br>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpy3kx3lt22l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mpy3kx3lt22l</guid>
-      <pubDate>Mon, 06 Jul 2026 12:26:21 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
