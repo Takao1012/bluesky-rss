@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 22:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:18:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>さよならララ1話めちゃくちゃ良かった…！</title>
+      <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mq3uub2rqk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mq3uub2rqk2o</guid>
+      <pubDate>Wed, 08 Jul 2026 00:36:57 GMT</pubDate>
+      <author>なうち｜きららFW『君が一等星に光るまで』連載中🦢✨ (@nowre.bsky.social)</author>
+      <description><![CDATA[さよならララ1話めちゃくちゃ良かった…！]]></description>
+      <content:encoded><![CDATA[さよならララ1話めちゃくちゃ良かった…！]]></content:encoded>
+    </item>
     <item>
       <title>次回からC2PA付けよかな、一応 クリスタ早く対応してくれないかな</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mq2xakdx2k2f</link>
@@ -496,18 +505,6 @@
       <author>なうち｜きららFW『君が一等星に光るまで』連載中🦢✨ (@nowre.bsky.social)</author>
       <description><![CDATA[運動、実は昨日もちょっとだけしてて525日目だぞ]]></description>
       <content:encoded><![CDATA[運動、実は昨日もちょっとだけしてて525日目だぞ]]></content:encoded>
-    </item>
-    <item>
-      <title>ちまちま進める</title>
-      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mpv4dnravk2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mpv4dnravk2p</guid>
-      <pubDate>Sun, 05 Jul 2026 08:02:11 GMT</pubDate>
-      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
-      <description><![CDATA[ちまちま進める
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreidqrs4wpluqeusbbp25pelzrpneprwlugf6n5ipfzsdeycl745zya" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[ちまちま進める
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreidqrs4wpluqeusbbp25pelzrpneprwlugf6n5ipfzsdeycl745zya" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreidqrs4wpluqeusbbp25pelzrpneprwlugf6n5ipfzsdeycl745zya" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

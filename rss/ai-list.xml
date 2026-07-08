@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 22:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:18:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Fable時代のAI活用法を、Anthropicの開発者が公開  🔖 205 ブックマーク 💬 コメント 🔗…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq3ub6b22f2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq3ub6b22f2y</guid>
+      <pubDate>Wed, 08 Jul 2026 00:26:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Fable時代のAI活用法を、Anthropicの開発者が公開<br><br>🔖 205 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Fable時代のAI活用法を、Anthropicの開発者が公開<br><br>🔖 205 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - 98%という数値は「大多数に有効」ではあるが、基本的な期待値を支えるには不十分で、edg…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq3rwecrmy2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq3rwecrmy2t</guid>
+      <pubDate>Tue, 07 Jul 2026 23:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 98%という数値は「大多数に有効」ではあるが、基本的な期待値を支えるには不十分で、edge cases（端的な例外）を丁寧に扱わないと大きな不公平や不便を招く。 <br>- ウェブ技術の例でも、全体的に普及していても特定の実ユーザーの30%が利用できない場合があり、98%の「広くサポートされている」は実際の受 audienceに対しては不十分になり得る。 <br>- 真の堅牢性は大多数だけでなく、少数の境界ケースにも適切に graceful に対応する設計が求められる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 98%という数値は「大多数に有効」ではあるが、基本的な期待値を支えるには不十分で、edge cases（端的な例外）を丁寧に扱わないと大きな不公平や不便を招く。 <br>- ウェブ技術の例でも、全体的に普及していても特定の実ユーザーの30%が利用できない場合があり、98%の「広くサポートされている」は実際の受 audienceに対しては不十分になり得る。 <br>- 真の堅牢性は大多数だけでなく、少数の境界ケースにも適切に graceful に対応する設計が求められる。]]></content:encoded>
+    </item>
+    <item>
+      <title>98％は大したことではない。 98% isn&apos;t much  🔺 460 💬 112 🔗 HN Post | Ar…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq3rw6o5ds22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq3rw6o5ds22</guid>
+      <pubDate>Tue, 07 Jul 2026 23:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[98％は大したことではない。<br>98% isn't much<br><br>🔺 460<br>💬 112<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[98％は大したことではない。<br>98% isn't much<br><br>🔺 460<br>💬 112<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   id SoftwareのidTechを支える多数の開発者が解雇されるとの報道があり、Xbox…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq3la6hzg52b</link>
@@ -444,36 +471,6 @@ review the changelog and upgrade guide, and write yourself scratch scripts to tr
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>AI経済の次なる大転換として「推論コストの低下とマージンの歪み」が焦点。前提として、モデル訓練は固定費だが推論は需要に応じて変動するため、前者を抑えれば長期的に収益性を確保できる可能性が高い。GLM5.2などオープンウェイトの普及がコスト削減と移行の容易さを促し、 frontier labsの優位性が崩れつつあると指摘している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>AI経済の次なる大転換として「推論コストの低下とマージンの歪み」が焦点。前提として、モデル訓練は固定費だが推論は需要に応じて変動するため、前者を抑えれば長期的に収益性を確保できる可能性が高い。GLM5.2などオープンウェイトの普及がコスト削減と移行の容易さを促し、 frontier labsの優位性が崩れつつあると指摘している。]]></content:encoded>
-    </item>
-    <item>
-      <title>GLM 5.2と来るAIのマージン崩壊 GLM 5.2 and the coming AI margin collaps…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq2cyfbznv2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq2cyfbznv2g</guid>
-      <pubDate>Tue, 07 Jul 2026 09:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GLM 5.2と来るAIのマージン崩壊<br>GLM 5.2 and the coming AI margin collapse<br><br>🔺 414<br>💬 49<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GLM 5.2と来るAIのマージン崩壊<br>GLM 5.2 and the coming AI margin collapse<br><br>🔺 414<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>- Apache2.0 - ViT-S to ViT-g  - 1.1B model beats the 7B DINO…</title>
-      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mq26dftaik2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mq26dftaik2k</guid>
-      <pubDate>Tue, 07 Jul 2026 08:21:07 GMT</pubDate>
-      <author>Adina Yakup (@adinayakup.bsky.social)</author>
-      <description><![CDATA[- Apache2.0<br>- ViT-S to ViT-g <br>- 1.1B model beats the 7B DINOv3 on NYU-Depth v2 (self-reported) 💡<br>- Pretrained with masked boundary modeling: keeps features sharp at object edges]]></description>
-      <content:encoded><![CDATA[- Apache2.0<br>- ViT-S to ViT-g <br>- 1.1B model beats the 7B DINOv3 on NYU-Depth v2 (self-reported) 💡<br>- Pretrained with masked boundary modeling: keeps features sharp at object edges]]></content:encoded>
-    </item>
-    <item>
-      <title>LingBot Vision 👀🤖 A self-supervised vision backbone family…</title>
-      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mq26ddwfa22k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mq26ddwfa22k</guid>
-      <pubDate>Tue, 07 Jul 2026 08:21:07 GMT</pubDate>
-      <author>Adina Yakup (@adinayakup.bsky.social)</author>
-      <description><![CDATA[LingBot Vision 👀🤖 A self-supervised vision backbone family for dense spatial perception from Ant Group <br> <br>huggingface.co/collections/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreidvtbtvzsabvzslcfse4b3dpbpfn3xlcmivve57rrlkaeforxlohy" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[LingBot Vision 👀🤖 A self-supervised vision backbone family for dense spatial perception from Ant Group <br> <br>huggingface.co/collections/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreidvtbtvzsabvzslcfse4b3dpbpfn3xlcmivve57rrlkaeforxlohy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreidvtbtvzsabvzslcfse4b3dpbpfn3xlcmivve57rrlkaeforxlohy" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
