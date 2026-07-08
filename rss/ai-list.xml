@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:52:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Agreed.</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq665vxvku2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq665vxvku2p</guid>
+      <pubDate>Wed, 08 Jul 2026 22:19:13 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Agreed.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" alt="Quote Tweet: https://twitter.com/i/status/2074972179385720836" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Agreed.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" alt="Quote Tweet: https://twitter.com/i/status/2074972179385720836" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63pfe7yd2l</link>
@@ -465,15 +477,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>InternScienceが開発した35BのMoEエージェントモデルAgents-A1のモデル重みと設定ファイルを提供することが目的です。<br>パラメータ数を抑えつつ1兆パラメータ級の性能を目指し、長期探索や科学研究など多様なドメインにおけるエージェント能力の拡張を追求しています。<br>3段階の学習パラダイムを用いて、汎用的なエージェント能力を構築しています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>InternScienceが開発した35BのMoEエージェントモデルAgents-A1のモデル重みと設定ファイルを提供することが目的です。<br>パラメータ数を抑えつつ1兆パラメータ級の性能を目指し、長期探索や科学研究など多様なドメインにおけるエージェント能力の拡張を追求しています。<br>3段階の学習パラダイムを用いて、汎用的なエージェント能力を構築しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  tencent/Hy3 Tencent Hy Teamが開発した295Bパラメー…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq527ckrst2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq527ckrst2w</guid>
-      <pubDate>Wed, 08 Jul 2026 11:45:16 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを上回り、より大規模なフラッグシップ級モデルに匹敵する性能を実現しています。<br>特に生産性タスクやエージェント機能の向上に重点を置き、高品質なデータによる学習を通じて実用性を高めています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを上回り、より大規模なフラッグシップ級モデルに匹敵する性能を実現しています。<br>特に生産性タスクやエージェント機能の向上に重点を置き、高品質なデータによる学習を通じて実用性を高めています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
