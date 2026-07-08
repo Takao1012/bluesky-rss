@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:55:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>プリンターの上に何だかわからないものがいる</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mq5yspdby22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mq5yspdby22h</guid>
+      <pubDate>Wed, 08 Jul 2026 20:52:59 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[プリンターの上に何だかわからないものがいる
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidah5xdzbrltc3hfrglv6ijejyin6em6m3zlxehxkolkmsaov2bb4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[プリンターの上に何だかわからないものがいる
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidah5xdzbrltc3hfrglv6ijejyin6em6m3zlxehxkolkmsaov2bb4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreidah5xdzbrltc3hfrglv6ijejyin6em6m3zlxehxkolkmsaov2bb4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>今、叩かれすぎていて心配になるけど、信頼できる人たちに守られていて欲しい。『桐島、部活やめるってよ』で初めて見たけど、雰…</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mq5oqclxvk2e</link>
@@ -486,18 +498,6 @@
       <author>ゆあま (@yuam7523.bsky.social)</author>
       <description><![CDATA[つきかなドラマ楽しみすぎ😭😭読んでない人は読もう 私が好きな場面はジェルネイルした爪が伸びて自爪が見えてるところ]]></description>
       <content:encoded><![CDATA[つきかなドラマ楽しみすぎ😭😭読んでない人は読もう 私が好きな場面はジェルネイルした爪が伸びて自爪が見えてるところ]]></content:encoded>
-    </item>
-    <item>
-      <title>実家あさごはん！ 長野で買ってきた澤村のジャムがとてもおいしい</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mpwqer4eec23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mpwqer4eec23</guid>
-      <pubDate>Sun, 05 Jul 2026 23:33:23 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[実家あさごはん！<br>長野で買ってきた澤村のジャムがとてもおいしい
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihvqngihfz7gg75l2ojaie3b3khbpsehwea3au7qz6weqcjino72y" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[実家あさごはん！<br>長野で買ってきた澤村のジャムがとてもおいしい
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihvqngihfz7gg75l2ojaie3b3khbpsehwea3au7qz6weqcjino72y" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihvqngihfz7gg75l2ojaie3b3khbpsehwea3au7qz6weqcjino72y" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

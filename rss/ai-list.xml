@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:55:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63pfe7yd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63pfe7yd2l</guid>
+      <pubDate>Wed, 08 Jul 2026 21:44:49 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最新の frontier モデルへ委任して高度な作業を処理しつつ、会話を途切れず自然に進められる。ChatGPT Voiceとして提供され、GPT-Live-1とGPT-Live-1 miniが世界展開、安全対策強化と複数言語対応を進めつつ、将来的には音声とビデオ/画面共有機能の追加を計画している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最新の frontier モデルへ委任して高度な作業を処理しつつ、会話を途切れず自然に進められる。ChatGPT Voiceとして提供され、GPT-Live-1とGPT-Live-1 miniが世界展開、安全対策強化と複数言語対応を進めつつ、将来的には音声とビデオ/画面共有機能の追加を計画している。]]></content:encoded>
+    </item>
+    <item>
+      <title>GPTライブ GPT‑Live  🔺 514 💬 98 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63oyqwmu26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63oyqwmu26</guid>
+      <pubDate>Wed, 08 Jul 2026 21:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GPTライブ<br>GPT‑Live<br><br>🔺 514<br>💬 98<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GPTライブ<br>GPT‑Live<br><br>🔺 514<br>💬 98<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>...oh?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq63n3s6ps24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq63n3s6ps24</guid>
+      <pubDate>Wed, 08 Jul 2026 21:32:17 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[...oh?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[...oh?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>This is the last time we&apos;ll mention Super Early Bird.  Mostl…</title>
       <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mq5vzfmzi72h</link>
@@ -444,33 +474,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを上回り、より大規模なフラッグシップ級モデルに匹敵する性能を実現しています。<br>特に生産性タスクやエージェント機能の向上に重点を置き、高品質なデータによる学習を通じて実用性を高めています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを上回り、より大規模なフラッグシップ級モデルに匹敵する性能を実現しています。<br>特に生産性タスクやエージェント機能の向上に重点を置き、高品質なデータによる学習を通じて実用性を高めています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq526rotgc2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq526rotgc2x</guid>
-      <pubDate>Wed, 08 Jul 2026 11:44:58 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1Mという推論モデルを、llama.cppやOllamaなどのGGUFランタイムで利用できるように量子化したファイルを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1Mという推論モデルを、llama.cppやOllamaなどのGGUFランタイムで利用できるように量子化したファイルを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   若少年ハッカーの逮捕を契機に、マイクロソフトが「Global Device ID（GDID）…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq526gkval2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq526gkval2l</guid>
-      <pubDate>Wed, 08 Jul 2026 11:44:46 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>若少年ハッカーの逮捕を契機に、マイクロソフトが「Global Device ID（GDID）」というデバイス識別子を通じてWindows PCのオンライン活動を追跡可能である疑惑が浮上した。捜査機関はGDIDとMicrosoftの記録を照合して犯行と関連付け、第三者サービスへのアクセス履歴まで特定したとされ、ユーザーがGDIDをリセットしても完全な匿名性は担保されない可能性が指摘されている。これに対し、GDIDの監視・追跡機能の広がりや他社の同様の識別子の存在が議論されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>若少年ハッカーの逮捕を契機に、マイクロソフトが「Global Device ID（GDID）」というデバイス識別子を通じてWindows PCのオンライン活動を追跡可能である疑惑が浮上した。捜査機関はGDIDとMicrosoftの記録を照合して犯行と関連付け、第三者サービスへのアクセス履歴まで特定したとされ、ユーザーがGDIDをリセットしても完全な匿名性は担保されない可能性が指摘されている。これに対し、GDIDの監視・追跡機能の広がりや他社の同様の識別子の存在が議論されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>マイクロソフトはWindowsのデバイスIDを使ってユーザーを追跡できる。 Microsoft Can Track Us…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5263ajjk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5263ajjk2h</guid>
-      <pubDate>Wed, 08 Jul 2026 11:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[マイクロソフトはWindowsのデバイスIDを使ってユーザーを追跡できる。<br>Microsoft Can Track Users via a Windows Device ID<br><br>🔺 341<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[マイクロソフトはWindowsのデバイスIDを使ってユーザーを追跡できる。<br>Microsoft Can Track Users via a Windows Device ID<br><br>🔺 341<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
