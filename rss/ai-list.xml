@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 23:55:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   - 著者は日常的に大量のLLMを活用し、コード設計・レビュー・作成の過程でLLMを活用する働…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqasuh7z4u26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqasuh7z4u26</guid>
+      <pubDate>Thu, 09 Jul 2026 23:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 著者は日常的に大量のLLMを活用し、コード設計・レビュー・作成の過程でLLMを活用する働き方に適応しているが、出力の誤情報や癖のある文体に疲れを感じ始めている。 <br>- 自動生成のコードや可能性に触れつつ、繰り返し現れる誤情報や断片的表現、感嘆符や絵文字多用といったスタイルが特にストレスとなっており、ツールの個性化があっても完全には解消されないと述べている。 <br>- それでもLLMの活用自体は生産性向上に寄与しており、今後も学習を続けるつもりだが、同じパターンの繰り返しが続くことへの耐性を試されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 著者は日常的に大量のLLMを活用し、コード設計・レビュー・作成の過程でLLMを活用する働き方に適応しているが、出力の誤情報や癖のある文体に疲れを感じ始めている。 <br>- 自動生成のコードや可能性に触れつつ、繰り返し現れる誤情報や断片的表現、感嘆符や絵文字多用といったスタイルが特にストレスとなっており、ツールの個性化があっても完全には解消されないと述べている。 <br>- それでもLLMの活用自体は生産性向上に寄与しており、今後も学習を続けるつもりだが、同じパターンの繰り返しが続くことへの耐性を試されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>私は大規模言語モデルの燃え尽き症候群だと思う。 I think I have LLM burnout  🔺 380 �…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqasuc3hmw2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqasuc3hmw2b</guid>
+      <pubDate>Thu, 09 Jul 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私は大規模言語モデルの燃え尽き症候群だと思う。<br>I think I have LLM burnout<br><br>🔺 380<br>💬 59<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私は大規模言語モデルの燃え尽き症候群だと思う。<br>I think I have LLM burnout<br><br>🔺 380<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Codex just rebranded to ChatGPT. Claude is spamming me with …</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqankaamaz2f</link>
@@ -444,24 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Bunは元々 esbuild のGo→Zig移植をベースに大規模な機能を持つランタイムとして開発され、Zigの採用で1年で多くの機能を実現した。現状はRustへの全面リライトが検討され、Claudeを用いた動的ワークフローと厳密なアドバーサリアルレビューを組み合わせた機械的移植手法で進められ、Rust版 Bunへ移行することで安定性と保守性の向上を狙っている。移植計画では、段階的な移行と同一テストスイートの継続使用、メモリ安全性の保証を重視している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Bunは元々 esbuild のGo→Zig移植をベースに大規模な機能を持つランタイムとして開発され、Zigの採用で1年で多くの機能を実現した。現状はRustへの全面リライトが検討され、Claudeを用いた動的ワークフローと厳密なアドバーサリアルレビューを組み合わせた機械的移植手法で進められ、Rust版 Bunへ移行することで安定性と保守性の向上を狙っている。移植計画では、段階的な移行と同一テストスイートの継続使用、メモリ安全性の保証を重視している。]]></content:encoded>
-    </item>
-    <item>
-      <title>RustでBunを再実装する Rewriting Bun in Rust  🔺 508 💬 50 🔗 HN Pos…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq757ywgc32u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq757ywgc32u</guid>
-      <pubDate>Thu, 09 Jul 2026 07:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[RustでBunを再実装する<br>Rewriting Bun in Rust<br><br>🔺 508<br>💬 50<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[RustでBunを再実装する<br>Rewriting Bun in Rust<br><br>🔺 508<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法  🔖 153 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6ytsbzrh2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6ytsbzrh2q</guid>
-      <pubDate>Thu, 09 Jul 2026 06:26:15 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
