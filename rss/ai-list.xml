@@ -5,8 +5,161 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 02:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:15:32 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwjxf7o2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwjxf7o2v</guid>
+      <pubDate>Thu, 09 Jul 2026 09:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示できる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示できる。]]></content:encoded>
+    </item>
+    <item>
+      <title>クラウドフレア・ドロップ Cloudflare Drop  🔺 432 💬 62 🔗 HN Post | Arti…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwe4pnr22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwe4pnr22</guid>
+      <pubDate>Thu, 09 Jul 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[クラウドフレア・ドロップ<br>Cloudflare Drop<br><br>🔺 432<br>💬 62<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[クラウドフレア・ドロップ<br>Cloudflare Drop<br><br>🔺 432<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog  🔖 159 ブックマーク…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq77khnvze2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq77khnvze2y</guid>
+      <pubDate>Thu, 09 Jul 2026 08:26:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Bunは元々 esbuild のGo→Zig移植をベースに大規模な機能を持つランタイムとして…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq75aamdae2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq75aamdae2t</guid>
+      <pubDate>Thu, 09 Jul 2026 07:44:48 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Bunは元々 esbuild のGo→Zig移植をベースに大規模な機能を持つランタイムとして開発され、Zigの採用で1年で多くの機能を実現した。現状はRustへの全面リライトが検討され、Claudeを用いた動的ワークフローと厳密なアドバーサリアルレビューを組み合わせた機械的移植手法で進められ、Rust版 Bunへ移行することで安定性と保守性の向上を狙っている。移植計画では、段階的な移行と同一テストスイートの継続使用、メモリ安全性の保証を重視している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Bunは元々 esbuild のGo→Zig移植をベースに大規模な機能を持つランタイムとして開発され、Zigの採用で1年で多くの機能を実現した。現状はRustへの全面リライトが検討され、Claudeを用いた動的ワークフローと厳密なアドバーサリアルレビューを組み合わせた機械的移植手法で進められ、Rust版 Bunへ移行することで安定性と保守性の向上を狙っている。移植計画では、段階的な移行と同一テストスイートの継続使用、メモリ安全性の保証を重視している。]]></content:encoded>
+    </item>
+    <item>
+      <title>RustでBunを再実装する Rewriting Bun in Rust  🔺 508 💬 50 🔗 HN Pos…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq757ywgc32u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq757ywgc32u</guid>
+      <pubDate>Thu, 09 Jul 2026 07:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[RustでBunを再実装する<br>Rewriting Bun in Rust<br><br>🔺 508<br>💬 50<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[RustでBunを再実装する<br>Rewriting Bun in Rust<br><br>🔺 508<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法  🔖 153 ブックマーク 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6ytsbzrh2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6ytsbzrh2q</guid>
+      <pubDate>Thu, 09 Jul 2026 06:26:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjonuvc2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjonuvc2b</guid>
+      <pubDate>Thu, 09 Jul 2026 05:44:48 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8Bモデルで、R2R-CE unseenで76.6%の成功率を達成し、深度センサーや複数カメラを用いる手法を上回る性能を示します。完全にシミュレーションとトークン効率技術で開発され、 pointing-based navigation とオンライン強化学習を組み合わせて、さまざまなロボット種や現実環境の未知障害物にも適応します。今後は embodied AI の統一的なエージェント実現へ向け、さらなるデータ生成・訓練効率化・現場適用の拡大を進める計画です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8Bモデルで、R2R-CE unseenで76.6%の成功率を達成し、深度センサーや複数カメラを用いる手法を上回る性能を示します。完全にシミュレーションとトークン効率技術で開発され、 pointing-based navigation とオンライン強化学習を組み合わせて、さまざまなロボット種や現実環境の未知障害物にも適応します。今後は embodied AI の統一的なエージェント実現へ向け、さらなるデータ生成・訓練効率化・現場適用の拡大を進める計画です。]]></content:encoded>
+    </item>
+    <item>
+      <title>ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル Mistral&apos;s Robostral …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjfl37v26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjfl37v26</guid>
+      <pubDate>Thu, 09 Jul 2026 05:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル<br>Mistral's Robostral Navigate: a state of the art robotics navigation model<br><br>🔺 449<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル<br>Mistral's Robostral Navigate: a state of the art robotics navigation model<br><br>🔺 449<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Grok 4.5 is a good model.   Video: https://twitter.com/theo/…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6whr47lc2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6whr47lc2c</guid>
+      <pubDate>Thu, 09 Jul 2026 05:31:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Grok 4.5 is a good model. <br><br>Video: https://twitter.com/theo/status/2075090486403166516
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Grok 4.5 is a good model. <br><br>Video: https://twitter.com/theo/status/2075090486403166516
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>That is an outstanding owl</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mq6vrg4jv22o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mq6vrg4jv22o</guid>
+      <pubDate>Thu, 09 Jul 2026 05:31:14 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[That is an outstanding owl]]></description>
+      <content:encoded><![CDATA[That is an outstanding owl]]></content:encoded>
+    </item>
+    <item>
+      <title>“Fable is a &apos;wise owl&apos; who is very thoughtful and very well …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6t4e2tnf2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6t4e2tnf2i</guid>
+      <pubDate>Thu, 09 Jul 2026 04:32:14 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[“Fable is a 'wise owl' who is very thoughtful and very well spoken, GPT-5.6-Sol is like a rottweiler who will grab the problem by the throat and not let go until it is done.”<br><br>Best explanation I’ve heard so far.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihpzc5cfmsyrnilt6rcmwefkxox33msiczqhuvzwtpzq73ptinn5m" alt="Quote Tweet: https://twitter.com/i/status/2074918176354115886" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[“Fable is a 'wise owl' who is very thoughtful and very well spoken, GPT-5.6-Sol is like a rottweiler who will grab the problem by the throat and not let go until it is done.”<br><br>Best explanation I’ve heard so far.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihpzc5cfmsyrnilt6rcmwefkxox33msiczqhuvzwtpzq73ptinn5m" alt="Quote Tweet: https://twitter.com/i/status/2074918176354115886" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihpzc5cfmsyrnilt6rcmwefkxox33msiczqhuvzwtpzq73ptinn5m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ジョン・ディア（John Deere）は、FTCと複数州の州検事総長との間で、農機の自主管理…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6psypcs42t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6psypcs42t</guid>
+      <pubDate>Thu, 09 Jul 2026 03:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ジョン・ディア（John Deere）は、FTCと複数州の州検事総長との間で、農機の自主管理修理を認める“修理の権利”に関する和解に合意しました。今後、機械の診断・修理ツールを所有者や独立修理業者にも提供し、認定ディーラー以外の修理を妨害しないことが求められ、今後10年間の厳格なコンプライアンス監視と100万ドル規模の費用支出が課されます。ディーアは独立修理の継続を主張しており、修理市場の競争促進が期待されます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ジョン・ディア（John Deere）は、FTCと複数州の州検事総長との間で、農機の自主管理修理を認める“修理の権利”に関する和解に合意しました。今後、機械の診断・修理ツールを所有者や独立修理業者にも提供し、認定ディーラー以外の修理を妨害しないことが求められ、今後10年間の厳格なコンプライアンス監視と100万ドル規模の費用支出が課されます。ディーアは独立修理の継続を主張しており、修理市場の競争促進が期待されます。]]></content:encoded>
+    </item>
+    <item>
+      <title>FTCの和解により、ジョン・ディアの機器の所有者は修理する権利を得る。 John Deere owners will g…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6psorjzl2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6psorjzl2l</guid>
+      <pubDate>Thu, 09 Jul 2026 03:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[FTCの和解により、ジョン・ディアの機器の所有者は修理する権利を得る。<br>John Deere owners will get the right to repair equipment under FTC settlement<br><br>🔺 432<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[FTCの和解により、ジョン・ディアの機器の所有者は修理する権利を得る。<br>John Deere owners will get the right to repair equipment under FTC settlement<br><br>🔺 432<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Cloudflare Drop  🔖 163 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6orrcf5a2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6orrcf5a2f</guid>
+      <pubDate>Thu, 09 Jul 2026 03:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Cloudflare Drop<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Cloudflare Drop<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 祖先はナチスだったか、AIで検索可能に　1200万枚の党員カード活用 - 日本経済新聞  🔖 164 ブックマー…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6lgji7af24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq6lgji7af24</guid>
+      <pubDate>Thu, 09 Jul 2026 02:26:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 祖先はナチスだったか、AIで検索可能に　1200万枚の党員カード活用 - 日本経済新聞<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 祖先はナチスだったか、AIで検索可能に　1200万枚の党員カード活用 - 日本経済新聞<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>@chargrnmn He just sent another?? Same exact content and tim…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6t3v6drr2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6t3v6drr2s</guid>
+      <pubDate>Thu, 09 Jul 2026 02:01:28 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[@chargrnmn He just sent another?? Same exact content and timestamps. Despite being informed that these are invalid and malicious. Willful ignorance. Probably illegal.<br><br>Once again Charlie, I highly recommend you stop doing this.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifly2kq6fshcgfvwzim47x5xvhssqliekoayaj6eicu3fhonc3nhq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[@chargrnmn He just sent another?? Same exact content and timestamps. Despite being informed that these are invalid and malicious. Willful ignorance. Probably illegal.<br><br>Once again Charlie, I highly recommend you stop doing this.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifly2kq6fshcgfvwzim47x5xvhssqliekoayaj6eicu3fhonc3nhq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifly2kq6fshcgfvwzim47x5xvhssqliekoayaj6eicu3fhonc3nhq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   SpaceXAIは新モデル Grok 4.5を発表。コード作成・エージェント作業・知識作業に…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6j4cfboa23</link>
@@ -343,150 +496,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 wonderwhy-er / DesktopCommanderMCP<br>⭐ 6,284 (+20)<br>🗒 TypeScript<br><br>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities]]></description>
       <content:encoded><![CDATA[📦 wonderwhy-er / DesktopCommanderMCP<br>⭐ 6,284 (+20)<br>🗒 TypeScript<br><br>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 prisma / prisma ⭐ 46,386 (+30) 🗒 TypeScript  Next-genera…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5jdzgb632l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5jdzgb632l</guid>
-      <pubDate>Wed, 08 Jul 2026 16:16:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 prisma / prisma<br>⭐ 46,386 (+30)<br>🗒 TypeScript<br><br>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB]]></description>
-      <content:encoded><![CDATA[📦 prisma / prisma<br>⭐ 46,386 (+30)<br>🗒 TypeScript<br><br>Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB]]></content:encoded>
-    </item>
-    <item>
-      <title>Build for model freedom, not vendor dependency. That&apos;s the m…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxoxw42j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxoxw42j</guid>
-      <pubDate>Wed, 08 Jul 2026 16:04:00 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[Build for model freedom, not vendor dependency. That's the main takeaway underneath the noise this week.]]></description>
-      <content:encoded><![CDATA[Build for model freedom, not vendor dependency. That's the main takeaway underneath the noise this week.]]></content:encoded>
-    </item>
-    <item>
-      <title>Which is exactly why it matters more than ever that your wor…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxfj5b2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxfj5b2i</guid>
-      <pubDate>Wed, 08 Jul 2026 16:04:00 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[Which is exactly why it matters more than ever that your work isn't tied to a single model vendor.<br><br>The routing, the cost optimization, the data and workflows your team built, none of that should disappear because one company or government changed a policy.]]></description>
-      <content:encoded><![CDATA[Which is exactly why it matters more than ever that your work isn't tied to a single model vendor.<br><br>The routing, the cost optimization, the data and workflows your team built, none of that should disappear because one company or government changed a policy.]]></content:encoded>
-    </item>
-    <item>
-      <title>Strip away the drama and you&apos;ll see a clear pattern: enterpr…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxavp32w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inxavp32w</guid>
-      <pubDate>Wed, 08 Jul 2026 16:03:59 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[Strip away the drama and you'll see a clear pattern: enterprises are starting to realize that you can't blindly place all your bets on a single frontier model. Terms, access and pricing keep moving.<br><br>Days later, Mistral's CEO made the same case, don't let closed AI providers control your data.]]></description>
-      <content:encoded><![CDATA[Strip away the drama and you'll see a clear pattern: enterprises are starting to realize that you can't blindly place all your bets on a single frontier model. Terms, access and pricing keep moving.<br><br>Days later, Mistral's CEO made the same case, don't let closed AI providers control your data.]]></content:encoded>
-    </item>
-    <item>
-      <title>The AI race isn&apos;t heating up. It&apos;s on fire.  Pricing changes…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inx2y7f2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mq5inx2y7f2y</guid>
-      <pubDate>Wed, 08 Jul 2026 16:03:59 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[The AI race isn't heating up. It's on fire.<br><br>Pricing changes. Models getting pulled out from under your feet with no warning. And now Palantir's CEO went on CNBC to call the whole thing "effing insane."]]></description>
-      <content:encoded><![CDATA[The AI race isn't heating up. It's on fire.<br><br>Pricing changes. Models getting pulled out from under your feet with no warning. And now Palantir's CEO went on CNBC to call the whole thing "effing insane."]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Noma LabsがGitHubの新機能「Agentic Workflows」における重大な…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5hlgwm2x2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5hlgwm2x2h</guid>
-      <pubDate>Wed, 08 Jul 2026 15:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Noma LabsがGitHubの新機能「Agentic Workflows」における重大なプロンプトインジェクション脆弱性を発見し、GitLostと命名。公開リポジトリのIssue本文に巧妙な指示を混ぜると、エージェントが機密リポジトリのREADMEなどを読み取り、それを公開コメントとして返すデータ漏えいが発生する仕組みだった。攻撃には特別な権限やクレデンシャルは不要で、対策としてユーザー入力を信頼入力と見なさない、権限を最小化する、公開投稿を制限する、入力をモデルへ渡す前に sanitization する、などが提言されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Noma LabsがGitHubの新機能「Agentic Workflows」における重大なプロンプトインジェクション脆弱性を発見し、GitLostと命名。公開リポジトリのIssue本文に巧妙な指示を混ぜると、エージェントが機密リポジトリのREADMEなどを読み取り、それを公開コメントとして返すデータ漏えいが発生する仕組みだった。攻撃には特別な権限やクレデンシャルは不要で、対策としてユーザー入力を信頼入力と見なさない、権限を最小化する、公開投稿を制限する、入力をモデルへ渡す前に sanitization する、などが提言されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>GitLost: 私たちは GitHub の AI エージェントを騙して、プライベートリポジトリを流出させた GitLo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5hl7j3ht2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5hl7j3ht2z</guid>
-      <pubDate>Wed, 08 Jul 2026 15:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GitLost: 私たちは GitHub の AI エージェントを騙して、プライベートリポジトリを流出させた<br>GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos<br><br>🔺 379<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GitLost: 私たちは GitHub の AI エージェントを騙して、プライベートリポジトリを流出させた<br>GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos<br><br>🔺 379<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 argoproj / argo-cd ⭐ 23,361 (+20) 🗒 Go  Declarative Cont…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5fypm44m2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5fypm44m2j</guid>
-      <pubDate>Wed, 08 Jul 2026 15:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 argoproj / argo-cd<br>⭐ 23,361 (+20)<br>🗒 Go<br><br>Declarative Continuous Deployment for Kubernetes]]></description>
-      <content:encoded><![CDATA[📦 argoproj / argo-cd<br>⭐ 23,361 (+20)<br>🗒 Go<br><br>Declarative Continuous Deployment for Kubernetes]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ソフトウェア設計における抽象とメタの違い - kawasima  🔖 154 ブックマーク 💬 コメント 🔗…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq5d7kfdfn24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq5d7kfdfn24</guid>
-      <pubDate>Wed, 08 Jul 2026 14:26:27 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ソフトウェア設計における抽象とメタの違い - kawasima<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ソフトウェア設計における抽象とメタの違い - kawasima<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>with OpenClaw and Hermes, offering zero-config setup, memory…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnpslpj2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnpslpj2c</guid>
-      <pubDate>Wed, 08 Jul 2026 14:16:29 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[with OpenClaw and Hermes, offering zero-config setup, memory offloading, recall, and configurable memory pipelines to boost efficiency and task success. (2/2)]]></description>
-      <content:encoded><![CDATA[with OpenClaw and Hermes, offering zero-config setup, memory offloading, recall, and configurable memory pipelines to boost efficiency and task success. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   TencentDB Agent Memory is a memory system for …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnpr2h42x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnpr2h42x</guid>
-      <pubDate>Wed, 08 Jul 2026 14:16:29 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>TencentDB Agent Memory is a memory system for AI agents that uses a layered approach (symbolic short-term memory and layered long-term memory) to compress and structure knowledge with Mermaid-led summaries, while preserving ground-truth evidence for traceability. It integrates (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>TencentDB Agent Memory is a memory system for AI agents that uses a layered approach (symbolic short-term memory and layered long-term memory) to compress and structure knowledge with Mermaid-led summaries, while preserving ground-truth evidence for traceability. It integrates (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 TencentCloud / Tence…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnjxs3t2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5cnjxs3t2s</guid>
-      <pubDate>Wed, 08 Jul 2026 14:16:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 TencentCloud / TencentDB-Agent-Memory<br>⭐ 7,334 (+610)<br>🗒 TypeScript<br><br>TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 TencentCloud / TencentDB-Agent-Memory<br>⭐ 7,334 (+610)<br>🗒 TypeScript<br><br>TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ユニクロ×Akamaiの「Peace for All」キャンペーンのTシャツ backsid…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5aujty6y2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5aujty6y2x</guid>
-      <pubDate>Wed, 08 Jul 2026 13:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ユニクロ×Akamaiの「Peace for All」キャンペーンのTシャツ backside に、実は暗号化された Bash スクリプトがプリントされていて、それが base64 デコード後に実行可能なイースターエッグとして表示されます。 OCR の困難さやフォント・デザインへの言及、そしてこのスクリプトが端末上で波形に文字を表示するアニメーションを行う内容を詳しく解説しています。 同時に、同デザインの別バージョンが不完全なトリミングで流通していた点や、Linux・オープンソースの文脈とマーケティングの結びつきにも触れています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ユニクロ×Akamaiの「Peace for All」キャンペーンのTシャツ backside に、実は暗号化された Bash スクリプトがプリントされていて、それが base64 デコード後に実行可能なイースターエッグとして表示されます。 OCR の困難さやフォント・デザインへの言及、そしてこのスクリプトが端末上で波形に文字を表示するアニメーションを行う内容を詳しく解説しています。 同時に、同デザインの別バージョンが不完全なトリミングで流通していた点や、Linux・オープンソースの文脈とマーケティングの結びつきにも触れています。]]></content:encoded>
-    </item>
-    <item>
-      <title>ユニクロのTシャツにプリントされた難読化された Bash スクリプトを解読する Decoding the obfusca…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5aubagry26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5aubagry26</guid>
-      <pubDate>Wed, 08 Jul 2026 13:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ユニクロのTシャツにプリントされた難読化された Bash スクリプトを解読する<br>Decoding the obfuscated bash script on a Uniqlo t-shirt<br><br>🔺 631<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ユニクロのTシャツにプリントされた難読化された Bash スクリプトを解読する<br>Decoding the obfuscated bash script on a Uniqlo t-shirt<br><br>🔺 631<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オル…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq57tyu5ns2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq57tyu5ns2f</guid>
-      <pubDate>Wed, 08 Jul 2026 13:26:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>repeatable, collaborative workflows. It emphasizes design va…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq57c5u3xo2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq57c5u3xo2o</guid>
-      <pubDate>Wed, 08 Jul 2026 13:16:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[repeatable, collaborative workflows. It emphasizes design validation, modular skills, and automated review cycles to produce disciplined, maintainable code. (2/2)]]></description>
-      <content:encoded><![CDATA[repeatable, collaborative workflows. It emphasizes design validation, modular skills, and automated review cycles to produce disciplined, maintainable code. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
