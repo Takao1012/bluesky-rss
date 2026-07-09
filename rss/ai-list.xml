@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:10:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Codex just rebranded to ChatGPT. Claude is spamming me with …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqankaamaz2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqankaamaz2f</guid>
+      <pubDate>Thu, 09 Jul 2026 22:03:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Codex just rebranded to ChatGPT. Claude is spamming me with Excel plugins. xAI is bragging about how good Grok is at PowerPoint.<br><br>I knew the "ai labs focus 100% of their effort on software devs" thing wouldn't last, but it's sad having it end all at once.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkudxmxi7po2cptfuvnobf5ulj3yztygc2l6t4z33725hfqmgu2e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Codex just rebranded to ChatGPT. Claude is spamming me with Excel plugins. xAI is bragging about how good Grok is at PowerPoint.<br><br>I knew the "ai labs focus 100% of their effort on software devs" thing wouldn't last, but it's sad having it end all at once.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkudxmxi7po2cptfuvnobf5ulj3yztygc2l6t4z33725hfqmgu2e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkudxmxi7po2cptfuvnobf5ulj3yztygc2l6t4z33725hfqmgu2e" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenAIは、GPT-5.6ファミリーを一般提供開始。新旗艦Solをはじめ Terra（低…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqam62prwu22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqam62prwu22</guid>
+      <pubDate>Thu, 09 Jul 2026 21:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIは、GPT-5.6ファミリーを一般提供開始。新旗艦Solをはじめ Terra（低コスト・日常作業向け）、Luna（最も安価）を展開し、タスクごとに4代理エージェントを並行動作させる ultra や Programmatic Tool Calling などの新機能を搭載。全体的に性能とコスト効率を大幅に向上させ、セーフガードを強化しつつ研究開発や実務作業を加速させる設計となっている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIは、GPT-5.6ファミリーを一般提供開始。新旗艦Solをはじめ Terra（低コスト・日常作業向け）、Luna（最も安価）を展開し、タスクごとに4代理エージェントを並行動作させる ultra や Programmatic Tool Calling などの新機能を搭載。全体的に性能とコスト効率を大幅に向上させ、セーフガードを強化しつつ研究開発や実務作業を加速させる設計となっている。]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT-5.6 GPT-5.6  🔺 836 💬 117 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqam5pamuc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqam5pamuc2z</guid>
+      <pubDate>Thu, 09 Jul 2026 21:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GPT-5.6<br>GPT-5.6<br><br>🔺 836<br>💬 117<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GPT-5.6<br>GPT-5.6<br><br>🔺 836<br>💬 117<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Time to start recording. I have a lot to film.  Gonna do fir…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqahqevmzi2f</link>
@@ -432,36 +462,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjonuvc2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjonuvc2b</guid>
-      <pubDate>Thu, 09 Jul 2026 05:44:48 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8Bモデルで、R2R-CE unseenで76.6%の成功率を達成し、深度センサーや複数カメラを用いる手法を上回る性能を示します。完全にシミュレーションとトークン効率技術で開発され、 pointing-based navigation とオンライン強化学習を組み合わせて、さまざまなロボット種や現実環境の未知障害物にも適応します。今後は embodied AI の統一的なエージェント実現へ向け、さらなるデータ生成・訓練効率化・現場適用の拡大を進める計画です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Robostral Navigateは、RGB単一カメラのみで自律ナビゲーションを実現する8Bモデルで、R2R-CE unseenで76.6%の成功率を達成し、深度センサーや複数カメラを用いる手法を上回る性能を示します。完全にシミュレーションとトークン効率技術で開発され、 pointing-based navigation とオンライン強化学習を組み合わせて、さまざまなロボット種や現実環境の未知障害物にも適応します。今後は embodied AI の統一的なエージェント実現へ向け、さらなるデータ生成・訓練効率化・現場適用の拡大を進める計画です。]]></content:encoded>
-    </item>
-    <item>
-      <title>ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル Mistral&apos;s Robostral …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjfl37v26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6wjfl37v26</guid>
-      <pubDate>Thu, 09 Jul 2026 05:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル<br>Mistral's Robostral Navigate: a state of the art robotics navigation model<br><br>🔺 449<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ミストラルのロボストラル・ナビゲート：最先端のロボット工学ナビゲーションモデル<br>Mistral's Robostral Navigate: a state of the art robotics navigation model<br><br>🔺 449<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Grok 4.5 is a good model.   Video: https://twitter.com/theo/…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6whr47lc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6whr47lc2c</guid>
-      <pubDate>Thu, 09 Jul 2026 05:31:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Grok 4.5 is a good model. <br><br>Video: https://twitter.com/theo/status/2075090486403166516
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Grok 4.5 is a good model. <br><br>Video: https://twitter.com/theo/status/2075090486403166516
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid2r3e5pbosbzf2csfrj6t2sq7lwtmrovsjg767zc3yhp62d7wkmm" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
