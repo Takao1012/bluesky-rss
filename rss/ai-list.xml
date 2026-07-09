@@ -5,8 +5,251 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:18:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>⚡ TypeScript 7 is here!  Built with a native Go implementati…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mq7zbejc2c2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mq7zbejc2c2s</guid>
+      <pubDate>Thu, 09 Jul 2026 16:06:29 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[⚡ TypeScript 7 is here!<br><br>Built with a native Go implementation, it brings up to 10× faster builds while maintaining compatibility with your existing TypeScript projects.<br><br>Read more: devblogs.microsoft.com/typescript/a...]]></description>
+      <content:encoded><![CDATA[⚡ TypeScript 7 is here!<br><br>Built with a native Go implementation, it brings up to 10× faster builds while maintaining compatibility with your existing TypeScript projects.<br><br>Read more: devblogs.microsoft.com/typescript/a...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ZSFの視点から、BunのRust rewriteを推進したJarredはVC資金調達や経営…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7y2gbtj42t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7y2gbtj42t</guid>
+      <pubDate>Thu, 09 Jul 2026 15:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ZSFの視点から、BunのRust rewriteを推進したJarredはVC資金調達や経営者としての役割へシフトした結果、コード品質とチーム運営に深刻な問題が顕在化し、BunはZigコミュニティにとって負債となったと批判している。一方でJarred自身は成功と幸福を享受しており、最終的にはZSFとの関係解消とRust rewriteの実現を肯定的に締めくくっている。著者は全体を通じて donations の感謝を表す一方、技術的な問題点や透明性の欠如、マネジメントの課題を指摘している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ZSFの視点から、BunのRust rewriteを推進したJarredはVC資金調達や経営者としての役割へシフトした結果、コード品質とチーム運営に深刻な問題が顕在化し、BunはZigコミュニティにとって負債となったと批判している。一方でJarred自身は成功と幸福を享受しており、最終的にはZSFとの関係解消とRust rewriteの実現を肯定的に締めくくっている。著者は全体を通じて donations の感謝を表す一方、技術的な問題点や透明性の欠如、マネジメントの課題を指摘している。]]></content:encoded>
+    </item>
+    <item>
+      <title>Bun の Rust による再実装についての私の考え My Thoughts on the Bun Rust Rewri…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7y27gusd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7y27gusd2l</guid>
+      <pubDate>Thu, 09 Jul 2026 15:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Bun の Rust による再実装についての私の考え<br>My Thoughts on the Bun Rust Rewrite<br><br>🔺 463<br>💬 77<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Bun の Rust による再実装についての私の考え<br>My Thoughts on the Bun Rust Rewrite<br><br>🔺 463<br>💬 77<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 unclecode / crawl4ai ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7whloqjz2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7whloqjz2o</guid>
+      <pubDate>Thu, 09 Jul 2026 15:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 unclecode / crawl4ai<br>⭐ 71,610 (+195)<br>🗒 Python<br><br>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 unclecode / crawl4ai<br>⭐ 71,610 (+195)<br>🗒 Python<br><br>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Yamanote.fun  🔖 163 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq7to3q75p2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq7to3q75p2y</guid>
+      <pubDate>Thu, 09 Jul 2026 14:26:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Yamanote.fun<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Yamanote.fun<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Concise summary: The U3 SDK provides source co…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7t6bbmgt2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7t6bbmgt2e</guid>
+      <pubDate>Thu, 09 Jul 2026 14:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Concise summary: The U3 SDK provides source code for Unturned, detailing steps to set up the Unity project, install the required Unity editor, and run the game, with optional steps for code changes and links to FAQs, a modding demo, and official modding docs.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Concise summary: The U3 SDK provides source code for Unturned, detailing steps to set up the Unity project, install the required Unity editor, and run the game, with optional steps for code changes and links to FAQs, a modding demo, and official modding docs.]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 SmartlyDressedGames …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7t4f2bbo2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7t4f2bbo2x</guid>
+      <pubDate>Thu, 09 Jul 2026 14:16:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 SmartlyDressedGames / U3-SDK<br>⭐ 1,751 (+541)<br>🗒 C#<br><br>Source code for Unturned, a free open-world zombie survival sandbox game.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 SmartlyDressedGames / U3-SDK<br>⭐ 1,751 (+541)<br>🗒 C#<br><br>Source code for Unturned, a free open-world zombie survival sandbox game.]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  wonderwhy-er/DesktopCommanderMCP AIを用いてファイルの検…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rrbyvam2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rrbyvam2e</guid>
+      <pubDate>Thu, 09 Jul 2026 13:52:15 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>wonderwhy-er/DesktopCommanderMCP<br>AIを用いてファイルの検索、管理、更新およびターミナルコマンドの実行を行うためのMCPサーバーです。<br>コード編集やプロセスの管理、タスクの自動化を実現し、MCP Filesystem Serverに検索と置換機能を追加して提供します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>wonderwhy-er/DesktopCommanderMCP<br>AIを用いてファイルの検索、管理、更新およびターミナルコマンドの実行を行うためのMCPサーバーです。<br>コード編集やプロセスの管理、タスクの自動化を実現し、MCP Filesystem Serverに検索と置換機能を追加して提供します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  iOfficeAI/OfficeCLI OfficeCLIは、AIエージェントがWord、…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rqi6wm22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rqi6wm22z</guid>
+      <pubDate>Thu, 09 Jul 2026 13:51:48 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>iOfficeAI/OfficeCLI<br>OfficeCLIは、AIエージェントがWord、Excel、PowerPointを操作するためのツールです。<br>Officeのインストール不要で動作し、文書をHTMLやPNGにレンダリングすることで、AIによる視覚的な確認と修正を可能にします。<br>AIエージェントが容易に導入し、ドキュメントの作成や編集を自動化できる環境を提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>iOfficeAI/OfficeCLI<br>OfficeCLIは、AIエージェントがWord、Excel、PowerPointを操作するためのツールです。<br>Officeのインストール不要で動作し、文書をHTMLやPNGにレンダリングすることで、AIによる視覚的な確認と修正を可能にします。<br>AIエージェントが容易に導入し、ドキュメントの作成や編集を自動化できる環境を提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  VoltAgent/awesome-design-md AIエージェントがUIを生成する際…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rnjfgcu2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rnjfgcu2e</guid>
+      <pubDate>Thu, 09 Jul 2026 13:50:08 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>VoltAgent/awesome-design-md<br>AIエージェントがUIを生成する際に参照する設計ドキュメント「DESIGN.md」の収集リポジトリです。<br>実在する開発者向けサイトから抽出したファイルを配布することで、AIによる一貫性のある高品質なUI作成を支援することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>VoltAgent/awesome-design-md<br>AIエージェントがUIを生成する際に参照する設計ドキュメント「DESIGN.md」の収集リポジトリです。<br>実在する開発者向けサイトから抽出したファイルを配布することで、AIによる一貫性のある高品質なUI作成を支援することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  SmartlyDressedGames/U3-SDK 無料のオープンワールドゾンビサバイバ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rmz6kuk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rmz6kuk2x</guid>
+      <pubDate>Thu, 09 Jul 2026 13:49:51 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>SmartlyDressedGames/U3-SDK<br>無料のオープンワールドゾンビサバイバルサンドボックスゲームUnturnedのソースコードを提供するリポジトリです。<br>Unityエディタを用いてゲームの開発や動作確認を行うためのSDKとして作成されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>SmartlyDressedGames/U3-SDK<br>無料のオープンワールドゾンビサバイバルサンドボックスゲームUnturnedのソースコードを提供するリポジトリです。<br>Unityエディタを用いてゲームの開発や動作確認を行うためのSDKとして作成されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  MadsLorentzen/ai-job-search Claude Codeを利用したA…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rm4vzhu2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mq7rm4vzhu2v</guid>
+      <pubDate>Thu, 09 Jul 2026 13:49:21 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude Codeを利用したAI就職活動支援フレームワークです。<br>ユーザープロフィールに基づいた求人評価、履歴書の最適化、カバーレターの作成、面接準備などを自動化します。<br>求人検索から応募書類の作成とレビューまでの一連のワークフローを提供し、効率的な就職活動を実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude Codeを利用したAI就職活動支援フレームワークです。<br>ユーザープロフィールに基づいた求人評価、履歴書の最適化、カバーレターの作成、面接準備などを自動化します。<br>求人検索から応募書類の作成とレビューまでの一連のワークフローを提供し、効率的な就職活動を実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   欧州議会は、期限切れとなった「Chat Control 1.0」規定を復活させる緊急手続きの…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7re2ji5323</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7re2ji5323</guid>
+      <pubDate>Thu, 09 Jul 2026 13:44:51 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>欧州議会は、期限切れとなった「Chat Control 1.0」規定を復活させる緊急手続きの採択を承認し、7月9日の本審議でオンラインプラットフォームが私信をCSAM検出のためにスキャンできるかどうかを決定する。これにより、4月に期限切れとなった一時的な枠組みを速やかに再導入する動きと、CSAM検出の恒久的規制（Chat Control 2.0）をめぐる交渉が並行して進む状況になっている。本審議は、広範な監視を認めるべきか否かを巡る主要な対立が続く中で、暫定復活の是非を問う重要な分岐点となる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>欧州議会は、期限切れとなった「Chat Control 1.0」規定を復活させる緊急手続きの採択を承認し、7月9日の本審議でオンラインプラットフォームが私信をCSAM検出のためにスキャンできるかどうかを決定する。これにより、4月に期限切れとなった一時的な枠組みを速やかに再導入する動きと、CSAM検出の恒久的規制（Chat Control 2.0）をめぐる交渉が並行して進む状況になっている。本審議は、広範な監視を認めるべきか否かを巡る主要な対立が続く中で、暫定復活の是非を問う重要な分岐点となる。]]></content:encoded>
+    </item>
+    <item>
+      <title>EU、私的メッセージのスキャン規則の復活まであと一歩 EU now one step away from revivin…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7rdtnus323</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7rdtnus323</guid>
+      <pubDate>Thu, 09 Jul 2026 13:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[EU、私的メッセージのスキャン規則の復活まであと一歩<br>EU now one step away from reviving private message scanning rules<br><br>🔺 433<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[EU、私的メッセージのスキャン規則の復活まであと一歩<br>EU now one step away from reviving private message scanning rules<br><br>🔺 433<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp  �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq7qd47kqt2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq7qd47kqt2q</guid>
+      <pubDate>Thu, 09 Jul 2026 13:26:25 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Bedrock, Ollama, Qwen, GLM, Kimi, DeepSeek, etc.), supports …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7pwa363m2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7pwa363m2l</guid>
+      <pubDate>Thu, 09 Jul 2026 13:19:07 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Bedrock, Ollama, Qwen, GLM, Kimi, DeepSeek, etc.), supports advanced agent supervision, detailed memory architectures, and scalable Docker-based deployment with optional Graphiti, Langfuse, and Grafana for monitoring. (2/2)]]></description>
+      <content:encoded><![CDATA[Bedrock, Ollama, Qwen, GLM, Kimi, DeepSeek, etc.), supports advanced agent supervision, detailed memory architectures, and scalable Docker-based deployment with optional Graphiti, Langfuse, and Grafana for monitoring. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   PentAGI is a self-hosted, sandboxed AI-driven …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7pvy5lte2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7pvy5lte2l</guid>
+      <pubDate>Thu, 09 Jul 2026 13:19:02 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>PentAGI is a self-hosted, sandboxed AI-driven autonomous penetration testing platform that orchestrates 20+ security tools through a multi-agent system with memory, knowledge graph, and observability. It integrates with multiple LLM providers (OpenAI, Anthropic, Google Gemini, AWS (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>PentAGI is a self-hosted, sandboxed AI-driven autonomous penetration testing platform that orchestrates 20+ security tools through a multi-agent system with memory, knowledge graph, and observability. It integrates with multiple LLM providers (OpenAI, Anthropic, Google Gemini, AWS (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 vxcontrol / pentagi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7prrfifw2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7prrfifw2o</guid>
+      <pubDate>Thu, 09 Jul 2026 13:16:32 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 vxcontrol / pentagi<br>⭐ 19,065 (+454)<br>🗒 Go<br><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 vxcontrol / pentagi<br>⭐ 19,065 (+454)<br>🗒 Go<br><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  froggeric/Qwen-Fixed-Chat-Templates Qwen…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o62wfwy2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o62wfwy2x</guid>
+      <pubDate>Thu, 09 Jul 2026 12:47:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートの不具合を修正したJinjaテンプレートを提供することを目的としています。<br>レンダリングエラー、KVキャッシュの無効化、トークンの浪費、エージェント動作時の停止などの問題を解決し、LM Studioやllama.cpp、vLLM、MLXなどの多様な推論エンジンで安定して動作させます。<br>特にツール呼び出し時のループや停止といった致命的な問題を修正しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートの不具合を修正したJinjaテンプレートを提供することを目的としています。<br>レンダリングエラー、KVキャッシュの無効化、トークンの浪費、エージェント動作時の停止などの問題を解決し、LM Studioやllama.cpp、vLLM、MLXなどの多様な推論エンジンで安定して動作させます。<br>特にツール呼び出し時のループや停止といった致命的な問題を修正しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  AliesTaha/fable-traces 短い会話形式の応答に特化した軽量な…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o5ffzlq2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o5ffzlq2h</guid>
+      <pubDate>Thu, 09 Jul 2026 12:47:26 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>AliesTaha/fable-traces<br>短い会話形式の応答に特化した軽量な言語モデルとして提示されていますが、実際にはジョークであり、実在するモデルではありません。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>AliesTaha/fable-traces<br>短い会話形式の応答に特化した軽量な言語モデルとして提示されていますが、実際にはジョークであり、実在するモデルではありません。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  google/tabfm-1.0.0-pytorch Google Resear…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o35cplz2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o35cplz2x</guid>
+      <pubDate>Thu, 09 Jul 2026 12:46:10 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを公開するリポジトリです。<br>数値とカテゴリカルな列が混在するテーブルデータに対し、ファインチューニングやハイパーパラメータ探索なしで分類および回帰タスクを実行できます。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを公開するリポジトリです。<br>数値とカテゴリカルな列が混在するテーブルデータに対し、ファインチューニングやハイパーパラメータ探索なしで分類および回帰タスクを実行できます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR Baiduが開発したUnlimited …</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o2mkocy2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o2mkocy2x</guid>
+      <pubDate>Thu, 09 Jul 2026 12:45:53 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited OCRというモデルのリポジトリです。<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析を目的としており、ワンショットでの長大な解析を実現します。<br>Huggingfaceのtransformersを利用して推論が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited OCRというモデルのリポジトリです。<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析を目的としており、ワンショットでの長大な解析を実現します。<br>Huggingfaceのtransformersを利用して推論が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期的なタスク向けに開発された…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o23a63l2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o23a63l2x</guid>
+      <pubDate>Thu, 09 Jul 2026 12:45:34 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラッグシップモデルです。<br>100万トークンのコンテキストウィンドウをサポートし、前バージョンのGLM-5.1から能力が大幅に向上しています。<br>推論、コーディング、エージェント機能などの性能強化が目的です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラッグシップモデルです。<br>100万トークンのコンテキストウィンドウをサポートし、前バージョンのGLM-5.1から能力が大幅に向上しています。<br>推論、コーディング、エージェント機能などの性能強化が目的です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   A curated collection of DESIGN.md files extrac…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfx7aub2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfx7aub2x</guid>
+      <pubDate>Thu, 09 Jul 2026 12:16:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>A curated collection of DESIGN.md files extracted from public websites, enabling AI agents to generate UI that matches diverse design languages. It explains DESIGN.md, lists dozens of design excerpts across categories, and provides guidance on usage, contribution, and licensing.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>A curated collection of DESIGN.md files extracted from public websites, enabling AI agents to generate UI that matches diverse design languages. It explains DESIGN.md, lists dozens of design excerpts across categories, and provides guidance on usage, contribution, and licensing.]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 VoltAgent / awesome-…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfu2axk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfu2axk2s</guid>
+      <pubDate>Thu, 09 Jul 2026 12:16:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 99,032 (+1,569)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 99,032 (+1,569)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kngfc7p23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kngfc7p23</guid>
+      <pubDate>Thu, 09 Jul 2026 11:44:49 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く就業シミュレーション。FIREで自由を得るか、サイドプロジェクト→YC→EXITの起業家ルート、L10到達で機械化、人間がAIに置き換えられる可能性までを描く。日々の「同じ運命のタイムライン」を比較する形式のビジュアルノベル風コンテンツ。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く就業シミュレーション。FIREで自由を得るか、サイドプロジェクト→YC→EXITの起業家ルート、L10到達で機械化、人間がAIに置き換えられる可能性までを描く。日々の「同じ運命のタイムライン」を比較する形式のビジュアルノベル風コンテンツ。]]></content:encoded>
+    </item>
+    <item>
+      <title>FAANGシミュレーター FAANG Simulator  🔺 432 💬 66 🔗 HN Post | Arti…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kn4quxj2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kn4quxj2b</guid>
+      <pubDate>Thu, 09 Jul 2026 11:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[FAANGシミュレーター<br>FAANG Simulator<br><br>🔺 432<br>💬 66<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[FAANGシミュレーター<br>FAANG Simulator<br><br>🔺 432<br>💬 66<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwjxf7o2v</link>
@@ -222,280 +465,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Grok 4.5 is good enough that I think I have to do a video on it...]]></description>
       <content:encoded><![CDATA[Grok 4.5 is good enough that I think I have to do a video on it...]]></content:encoded>
-    </item>
-    <item>
-      <title>The Bun rewrite in Rust would have cost about $165k in token…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6d6sv2n52s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6d6sv2n52s</guid>
-      <pubDate>Wed, 08 Jul 2026 23:56:38 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[The Bun rewrite in Rust would have cost about $165k in tokens if it was done over API
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihqqatgtberqmvrrty7m34bfg5yvc5ajkug5xwpsviordvdo7vr5q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigwfre2grapdsjwyd46twpbb7g4op2fykhdjfo4iwdnzzg4coanoe" alt="Quote Tweet: https://twitter.com/i/status/2074973674332123157" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The Bun rewrite in Rust would have cost about $165k in tokens if it was done over API
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihqqatgtberqmvrrty7m34bfg5yvc5ajkug5xwpsviordvdo7vr5q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigwfre2grapdsjwyd46twpbb7g4op2fykhdjfo4iwdnzzg4coanoe" alt="Quote Tweet: https://twitter.com/i/status/2074973674332123157" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihqqatgtberqmvrrty7m34bfg5yvc5ajkug5xwpsviordvdo7vr5q" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   TypeScript 7はGoで作られたネイティブ版の高速実装で、全体のビルドが8～12倍速…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6cfymj6z2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6cfymj6z2u</guid>
-      <pubDate>Wed, 08 Jul 2026 23:44:50 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>TypeScript 7はGoで作られたネイティブ版の高速実装で、全体のビルドが8～12倍速く、並列化と新機能によりエディタ体験とCIの型チェックを大幅に改善します。編集体験の高速化だけでなく、--checkers、--builders、--singleThreaded などの新オプションで並列性を細かく調整可能にし、既存コードとのサイドバイサイド利用もサポートします。なお、7.0はAPIを提供せず、7.1で新APIが導入予定、移行時のデフォルトと破壊的変更点も案内されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>TypeScript 7はGoで作られたネイティブ版の高速実装で、全体のビルドが8～12倍速く、並列化と新機能によりエディタ体験とCIの型チェックを大幅に改善します。編集体験の高速化だけでなく、--checkers、--builders、--singleThreaded などの新オプションで並列性を細かく調整可能にし、既存コードとのサイドバイサイド利用もサポートします。なお、7.0はAPIを提供せず、7.1で新APIが導入予定、移行時のデフォルトと破壊的変更点も案内されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>TypeScript 7 TypeScript 7  🔺 427 💬 31 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6cfqjk5n22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq6cfqjk5n22</guid>
-      <pubDate>Wed, 08 Jul 2026 23:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[TypeScript 7<br>TypeScript 7<br><br>🔺 427<br>💬 31<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[TypeScript 7<br>TypeScript 7<br><br>🔺 427<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Here&apos;s the video that @chargrnmn is still trying to get take…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6biubqfh2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6biubqfh2d</guid>
-      <pubDate>Wed, 08 Jul 2026 23:20:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Here's the video that @chargrnmn is still trying to get taken down over a year later.<br><br>Posting here because X is unlikely to fall for false reports of "privacy concerns" due to public tweets being visible in a video. <br><br>Video: https://twitter.com/theo/status/2074997032218239060]]></description>
-      <content:encoded><![CDATA[Here's the video that @chargrnmn is still trying to get taken down over a year later.<br><br>Posting here because X is unlikely to fall for false reports of "privacy concerns" due to public tweets being visible in a video. <br><br>Video: https://twitter.com/theo/status/2074997032218239060]]></content:encoded>
-    </item>
-    <item>
-      <title>@chargrnmn, I&apos;d highly recommend you rescind these reports b…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6bimijmj24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6bimijmj24</guid>
-      <pubDate>Wed, 08 Jul 2026 23:14:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[@chargrnmn, I'd highly recommend you rescind these reports before you cause yourself legal trouble. This is a clear attempt at interfering with my business through defamation.]]></description>
-      <content:encoded><![CDATA[@chargrnmn, I'd highly recommend you rescind these reports before you cause yourself legal trouble. This is a clear attempt at interfering with my business through defamation.]]></content:encoded>
-    </item>
-    <item>
-      <title>Remember the guy who said he could crack any UUID last year?…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6anzcx2z2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq6anzcx2z2c</guid>
-      <pubDate>Wed, 08 Jul 2026 23:10:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Remember the guy who said he could crack any UUID last year?<br><br>He's currently trying to get YouTube to take down my channel for featuring his public tweets, due to "privacy concerns".
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaryiuagrvcs64m2anz4np5b7v4muyv4p3atbqmbsmucedk4hgvye" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia76h32wr4a6hajr2ybsc5nvldsamjazjpthyb2nownjsikrvb2pi" alt="Quote Tweet: https://twitter.com/i/status/1911199642005692565" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Remember the guy who said he could crack any UUID last year?<br><br>He's currently trying to get YouTube to take down my channel for featuring his public tweets, due to "privacy concerns".
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaryiuagrvcs64m2anz4np5b7v4muyv4p3atbqmbsmucedk4hgvye" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia76h32wr4a6hajr2ybsc5nvldsamjazjpthyb2nownjsikrvb2pi" alt="Quote Tweet: https://twitter.com/i/status/1911199642005692565" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaryiuagrvcs64m2anz4np5b7v4muyv4p3atbqmbsmucedk4hgvye" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Agreed.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq665vxvku2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq665vxvku2p</guid>
-      <pubDate>Wed, 08 Jul 2026 22:19:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Agreed.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" alt="Quote Tweet: https://twitter.com/i/status/2074972179385720836" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Agreed.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" alt="Quote Tweet: https://twitter.com/i/status/2074972179385720836" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6h7ksfhurg4m63mxvkl5ilqeo6pj3qjvx4ccyfx6u77b3i4mpny" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63pfe7yd2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63pfe7yd2l</guid>
-      <pubDate>Wed, 08 Jul 2026 21:44:49 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最新の frontier モデルへ委任して高度な作業を処理しつつ、会話を途切れず自然に進められる。ChatGPT Voiceとして提供され、GPT-Live-1とGPT-Live-1 miniが世界展開、安全対策強化と複数言語対応を進めつつ、将来的には音声とビデオ/画面共有機能の追加を計画している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIはGPT-Liveを発表。全二重の連続対話が可能な新世代の音声モデルで、背景で最新の frontier モデルへ委任して高度な作業を処理しつつ、会話を途切れず自然に進められる。ChatGPT Voiceとして提供され、GPT-Live-1とGPT-Live-1 miniが世界展開、安全対策強化と複数言語対応を進めつつ、将来的には音声とビデオ/画面共有機能の追加を計画している。]]></content:encoded>
-    </item>
-    <item>
-      <title>GPTライブ GPT‑Live  🔺 514 💬 98 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63oyqwmu26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq63oyqwmu26</guid>
-      <pubDate>Wed, 08 Jul 2026 21:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GPTライブ<br>GPT‑Live<br><br>🔺 514<br>💬 98<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GPTライブ<br>GPT‑Live<br><br>🔺 514<br>💬 98<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>...oh?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq63n3s6ps24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq63n3s6ps24</guid>
-      <pubDate>Wed, 08 Jul 2026 21:32:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[...oh?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[...oh?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" alt="Quote Tweet: https://twitter.com/i/status/2074968736591671390" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic3tfx7ua6nj6anox4jxlbu6zpk7ejifx2d7ksfjyb4vt2y7zswve" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>This is the last time we&apos;ll mention Super Early Bird.  Mostl…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mq5vzfmzi72h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mq5vzfmzi72h</guid>
-      <pubDate>Wed, 08 Jul 2026 20:03:02 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[This is the last time we'll mention Super Early Bird.<br><br>Mostly because it ends today.<br><br>Get your $600 discount before 11:59pm PST. We'll see you at GitHub Universe.👇<br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=last_seb_uni_26<br>
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreibzi2rsx4lgcekbpbwjjtvzwv2inrdvyssombywhg7mfft7jpozli" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is the last time we'll mention Super Early Bird.<br><br>Mostly because it ends today.<br><br>Get your $600 discount before 11:59pm PST. We'll see you at GitHub Universe.👇<br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=last_seb_uni_26<br>
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreibzi2rsx4lgcekbpbwjjtvzwv2inrdvyssombywhg7mfft7jpozli" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreibzi2rsx4lgcekbpbwjjtvzwv2inrdvyssombywhg7mfft7jpozli" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>⚡ VS Code just shipped a big wave of GitHub Copilot upgrades…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mq5vd3xxl22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mq5vd3xxl22r</guid>
-      <pubDate>Wed, 08 Jul 2026 19:50:34 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[⚡ VS Code just shipped a big wave of GitHub Copilot upgrades!<br><br>🌐 Build and validate web apps with browser agent tools<br>🤖 Manage parallel agent workflows with the Agents window (Preview)<br>🎓 New VS Code Learn courses, and much more.<br><br>📖 Read the full changelog: aka.ms/VSCode/chang...<br><br>Happy coding! 💙
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigstdz75zweuugeeftcglyfu2lxsndlga4eqlxwip7dcnntq2ivle" alt="Promotional graphic for GitHub Copilot in Visual Studio Code June 2026 releases. The image features a dark background with a subtle grid pattern and a large green glowing circle containing the GitHub Copilot logo silhouette. Centered white text reads “GitHub Copilot in VS Code June 2026 releases,” with a “NEW RELEASE” badge displayed below. The design uses a dark theme with green accents, reflecting the Visual Studio Code and GitHub Copilot branding." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[⚡ VS Code just shipped a big wave of GitHub Copilot upgrades!<br><br>🌐 Build and validate web apps with browser agent tools<br>🤖 Manage parallel agent workflows with the Agents window (Preview)<br>🎓 New VS Code Learn courses, and much more.<br><br>📖 Read the full changelog: aka.ms/VSCode/chang...<br><br>Happy coding! 💙
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigstdz75zweuugeeftcglyfu2lxsndlga4eqlxwip7dcnntq2ivle" alt="Promotional graphic for GitHub Copilot in Visual Studio Code June 2026 releases. The image features a dark background with a subtle grid pattern and a large green glowing circle containing the GitHub Copilot logo silhouette. Centered white text reads “GitHub Copilot in VS Code June 2026 releases,” with a “NEW RELEASE” badge displayed below. The design uses a dark theme with green accents, reflecting the Visual Studio Code and GitHub Copilot branding." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigstdz75zweuugeeftcglyfu2lxsndlga4eqlxwip7dcnntq2ivle" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Chattoが正式にオープンソース化され、自己ホスティングが可能になりました。軽量でプライバ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5uydnli72w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5uydnli72w</guid>
-      <pubDate>Wed, 08 Jul 2026 19:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Chattoが正式にオープンソース化され、自己ホスティングが可能になりました。軽量でプライバシー重視のグループチャットアプリで、音声/ビデオ通話もエンドツーエンド暗号化、複数サーバーの連携にも対応します。自分のサーバーで今すぐ試せるほか、Chatto Cloudによるホスティングサービスも近日公開ベータ予定です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Chattoが正式にオープンソース化され、自己ホスティングが可能になりました。軽量でプライバシー重視のグループチャットアプリで、音声/ビデオ通話もエンドツーエンド暗号化、複数サーバーの連携にも対応します。自分のサーバーで今すぐ試せるほか、Chatto Cloudによるホスティングサービスも近日公開ベータ予定です。]]></content:encoded>
-    </item>
-    <item>
-      <title>Chattoは現在オープンソースです。 Chatto is now Open Source  🔺 427 💬 41 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5uy3rsxf2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5uy3rsxf2b</guid>
-      <pubDate>Wed, 08 Jul 2026 19:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Chattoは現在オープンソースです。<br>Chatto is now Open Source<br><br>🔺 427<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Chattoは現在オープンソースです。<br>Chatto is now Open Source<br><br>🔺 427<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   AutoRemesher is a cross-platform, open-source …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5tfpq5f62l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5tfpq5f62l</guid>
-      <pubDate>Wed, 08 Jul 2026 19:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>AutoRemesher is a cross-platform, open-source tool that automatically converts high-polygon meshes to clean quad-based topology, built on Geogram, libigl, isotropicremesher, and other libraries; it provides CLI for headless remeshing and cross-platform build instructions.]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>AutoRemesher is a cross-platform, open-source tool that automatically converts high-polygon meshes to clean quad-based topology, built on Geogram, libigl, isotropicremesher, and other libraries; it provides CLI for headless remeshing and cross-platform build instructions.]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 huxingyi / autoreme…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5tfmvl2j2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5tfmvl2j2o</guid>
-      <pubDate>Wed, 08 Jul 2026 19:16:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 huxingyi / autoremesher<br>⭐ 1,831 (+292)<br>🗒 C++<br><br>Automatic quad remeshing tool]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 huxingyi / autoremesher<br>⭐ 1,831 (+292)<br>🗒 C++<br><br>Automatic quad remeshing tool]]></content:encoded>
-    </item>
-    <item>
-      <title>In other news…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5skvs7hg2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5skvs7hg2v</guid>
-      <pubDate>Wed, 08 Jul 2026 18:58:14 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[In other news…
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichkojlsh523grqgsgvmqzr6a2ie3gvqukequfhddlzkmodxw5feq" alt="Quote Tweet: https://twitter.com/i/status/2074863466079195289" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[In other news…
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichkojlsh523grqgsgvmqzr6a2ie3gvqukequfhddlzkmodxw5feq" alt="Quote Tweet: https://twitter.com/i/status/2074863466079195289" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichkojlsh523grqgsgvmqzr6a2ie3gvqukequfhddlzkmodxw5feq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>GLM-5.2 is close to Opus Grok 4.5 allegedly beats Opus and g…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5skbym2w2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5skbym2w2v</guid>
-      <pubDate>Wed, 08 Jul 2026 18:58:14 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[GLM-5.2 is close to Opus<br>Grok 4.5 allegedly beats Opus and gpt-5.5<br>Meta even has something that’s supposedly close to gpt-5.5<br><br>Feels like it barely matters now]]></description>
-      <content:encoded><![CDATA[GLM-5.2 is close to Opus<br>Grok 4.5 allegedly beats Opus and gpt-5.5<br>Meta even has something that’s supposedly close to gpt-5.5<br><br>Feels like it barely matters now]]></content:encoded>
-    </item>
-    <item>
-      <title>The best proof that Fable and GPT-5.6 are “next generation” …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5sjue75a24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5sjue75a24</guid>
-      <pubDate>Wed, 08 Jul 2026 18:57:05 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[The best proof that Fable and GPT-5.6 are “next generation” is the surge of other labs catching up to the previous generation]]></description>
-      <content:encoded><![CDATA[The best proof that Fable and GPT-5.6 are “next generation” is the surge of other labs catching up to the previous generation]]></content:encoded>
-    </item>
-    <item>
-      <title>Just realized I was testing Grok 4.5 extensively yesterday l…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5rlk53bq27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5rlk53bq27</guid>
-      <pubDate>Wed, 08 Jul 2026 18:36:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Just realized I was testing Grok 4.5 extensively yesterday lol<br><br>Pretty damn good and REALLY well priced
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibzyytmp2a2v6klffwoocj5pe2zoe32rf4unmxgqxam2xak4t2ooe" alt="Quote Tweet: https://twitter.com/i/status/2074915744999969059" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Just realized I was testing Grok 4.5 extensively yesterday lol<br><br>Pretty damn good and REALLY well priced
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibzyytmp2a2v6klffwoocj5pe2zoe32rf4unmxgqxam2xak4t2ooe" alt="Quote Tweet: https://twitter.com/i/status/2074915744999969059" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibzyytmp2a2v6klffwoocj5pe2zoe32rf4unmxgqxam2xak4t2ooe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 Summary:   The post catalogs and links to up-to-date syst…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5q2neqhx2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5q2neqhx2l</guid>
-      <pubDate>Wed, 08 Jul 2026 18:16:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>The post catalogs and links to up-to-date system prompts for major AI models (Claude, ChatGPT, Gemini, etc.), organized by vendor and model, with detailed prompts, tools, and integrations, plus historical versions and related resources.]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>The post catalogs and links to up-to-date system prompts for major AI models (Claude, ChatGPT, Gemini, etc.), organized by vendor and model, with detailed prompts, tools, and integrations, plus historical versions and related resources.]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 asgeirtj / system_pr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5q2ke2hx2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5q2ke2hx2e</guid>
-      <pubDate>Wed, 08 Jul 2026 18:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 53,715 (+1,226)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro...]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 asgeirtj / system_prompts_leaks<br>⭐ 53,715 (+1,226)<br>🗒 JavaScript<br><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro...]]></content:encoded>
-    </item>
-    <item>
-      <title>This is a bigger deal than yall think</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5pxgkeru24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mq5pxgkeru24</guid>
-      <pubDate>Wed, 08 Jul 2026 18:09:49 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This is a bigger deal than yall think
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidsbbdcztqfrglsl6gldugnmbmjc44caivuexnai56go4w63rgbpy" alt="Quote Tweet: https://twitter.com/i/status/2074899956511760806" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is a bigger deal than yall think
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidsbbdcztqfrglsl6gldugnmbmjc44caivuexnai56go4w63rgbpy" alt="Quote Tweet: https://twitter.com/i/status/2074899956511760806" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidsbbdcztqfrglsl6gldugnmbmjc44caivuexnai56go4w63rgbpy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>CLI/レジストリ連携も統合されている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5oc42hpo23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5oc42hpo23</guid>
-      <pubDate>Wed, 08 Jul 2026 17:44:44 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[CLI/レジストリ連携も統合されている。 (2/2)]]></description>
-      <content:encoded><![CDATA[CLI/レジストリ連携も統合されている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Davit は Apple のコンテナプラットフォーム上で動くネイティブ macOS アプリ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5oc3wwgk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5oc3wwgk2l</guid>
-      <pubDate>Wed, 08 Jul 2026 17:44:44 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Davit は Apple のコンテナプラットフォーム上で動くネイティブ macOS アプリで、Docker Desktop を必要とせずに Apple Silicon 上で Linux コンテナを実行・管理できる。GUI からコンテナの起動・停止・リソース表示・ログ取得・一クリック端末・ファイル閲覧・Compose のインポート・Dockerfile からのビルドなどを、全て Apple のネイティブ API 経由で行う。軽量でサンドボックス化された VM を container ごとに起動し、OCI イメージの操作もサポート、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Davit は Apple のコンテナプラットフォーム上で動くネイティブ macOS アプリで、Docker Desktop を必要とせずに Apple Silicon 上で Linux コンテナを実行・管理できる。GUI からコンテナの起動・停止・リソース表示・ログ取得・一クリック端末・ファイル閲覧・Compose のインポート・Dockerfile からのビルドなどを、全て Apple のネイティブ API 経由で行う。軽量でサンドボックス化された VM を container ごとに起動し、OCI イメージの操作もサポート、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Show HN: Davit、Appleのコンテナ用UI Show HN: Davit, a Apple Contain…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5obwjz7g2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq5obwjz7g2u</guid>
-      <pubDate>Wed, 08 Jul 2026 17:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Show HN: Davit、Appleのコンテナ用UI<br>Show HN: Davit, a Apple Containers UI<br><br>🔺 370<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Show HN: Davit、Appleのコンテナ用UI<br>Show HN: Davit, a Apple Containers UI<br><br>🔺 370<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 wonderwhy-er / DesktopCommanderMCP ⭐ 6,284 (+20) 🗒 TypeS…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5mp5mjjk2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq5mp5mjjk2y</guid>
-      <pubDate>Wed, 08 Jul 2026 17:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 wonderwhy-er / DesktopCommanderMCP<br>⭐ 6,284 (+20)<br>🗒 TypeScript<br><br>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities]]></description>
-      <content:encoded><![CDATA[📦 wonderwhy-er / DesktopCommanderMCP<br>⭐ 6,284 (+20)<br>🗒 TypeScript<br><br>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities]]></content:encoded>
     </item>
   </channel>
 </rss>
