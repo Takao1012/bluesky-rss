@@ -5,463 +5,469 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprwpuajr22x</link>
     <description>一般ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 01:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:48:33 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>#🔖テクノロジー 文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - I…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqayietudb2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqayietudb2c</guid>
-      <pubDate>Fri, 10 Jul 2026 01:25:11 GMT</pubDate>
+      <title>改正労災保険法が成立 遺族補償年金の支給 性別の差を解消へ https://news.web.nhk/newsweb/n…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbh6gueng2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbh6gueng2v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:48:02 GMT</pubDate>
+      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
+      <description><![CDATA[改正労災保険法が成立 遺族補償年金の支給 性別の差を解消へ<br>https://news.web.nhk/newsweb/na/na-k10015173601000]]></description>
+      <content:encoded><![CDATA[改正労災保険法が成立 遺族補償年金の支給 性別の差を解消へ<br>https://news.web.nhk/newsweb/na/na-k10015173601000]]></content:encoded>
+    </item>
+    <item>
+      <title>Singapore&apos;s satellite-linked car tech could be the future of…</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbh6ciwhv2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbh6ciwhv2t</guid>
+      <pubDate>Fri, 10 Jul 2026 05:48:00 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[Singapore's satellite-linked car tech could be the future of congestion pricing — if drivers will accept it. bloom.bg/4wymYB1<br><br>📷️: Munshi Ahmerd/Bloomberg
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreif7vtbu4uqcojtbh57o3t4hsnly5ms4xxdgcmph3if25ysrmutkwi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Singapore's satellite-linked car tech could be the future of congestion pricing — if drivers will accept it. bloom.bg/4wymYB1<br><br>📷️: Munshi Ahmerd/Bloomberg
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreif7vtbu4uqcojtbh57o3t4hsnly5ms4xxdgcmph3if25ysrmutkwi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreif7vtbu4uqcojtbh57o3t4hsnly5ms4xxdgcmph3if25ysrmutkwi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>#🔖世の中 ロシア、ウクライナ人の子ども160万人を洗脳・軍人精神注入 OSCE報告書  ロシアのウラジーミル・プーチ…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbgzbfwwa25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbgzbfwwa25</guid>
+      <pubDate>Fri, 10 Jul 2026 05:45:10 GMT</pubDate>
       <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖テクノロジー<br>文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA<br><br>テキスト演出では、見た目だけでなく読み上げや選択、コピーへの影響などアクセシビリティにも注意が必要です。元のテキストが読み取りやすい構造で残るか、装飾のための文字が選択やコピーの邪魔にならないかを確認しておくと安心です。 slot-text slot-textは、短いUIラベルをスロットのように切り替えるライブラリで...]]></description>
-      <content:encoded><![CDATA[#🔖テクノロジー<br>文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA<br><br>テキスト演出では、見た目だけでなく読み上げや選択、コピーへの影響などアクセシビリティにも注意が必要です。元のテキストが読み取りやすい構造で残るか、装飾のための文字が選択やコピーの邪魔にならないかを確認しておくと安心です。 slot-text slot-textは、短いUIラベルをスロットのように切り替えるライブラリで...]]></content:encoded>
+      <description><![CDATA[#🔖世の中<br>ロシア、ウクライナ人の子ども160万人を洗脳・軍人精神注入 OSCE報告書<br><br>ロシアのウラジーミル・プーチン大統領子（2026年7月8日撮影）。(c)Gavriil Grigorov/POOL/AFP 【7月10日 AFP】欧州安保協力機構（OSCE）に任命された独立専門家らによると、ウクライナ人の若者約160万人が、ロシアの洗脳を受け軍人精神を注入されている。これは人道に対する罪に当たる可能性があるという。 オーストリ...]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>ロシア、ウクライナ人の子ども160万人を洗脳・軍人精神注入 OSCE報告書<br><br>ロシアのウラジーミル・プーチン大統領子（2026年7月8日撮影）。(c)Gavriil Grigorov/POOL/AFP 【7月10日 AFP】欧州安保協力機構（OSCE）に任命された独立専門家らによると、ウクライナ人の若者約160万人が、ロシアの洗脳を受け軍人精神を注入されている。これは人道に対する罪に当たる可能性があるという。 オーストリ...]]></content:encoded>
     </item>
     <item>
-      <title>「金融政策方向性示さず」 城内氏、日銀けん制否定</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayfiolfy2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayfiolfy2u</guid>
-      <pubDate>Fri, 10 Jul 2026 01:23:34 GMT</pubDate>
+      <title>改正個人情報保護法成立 AI開発促進へ個人情報取得の規制緩和 https://news.web.nhk/newsweb/…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbgz3hlx62v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbgz3hlx62v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:45:02 GMT</pubDate>
+      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
+      <description><![CDATA[改正個人情報保護法成立 AI開発促進へ個人情報取得の規制緩和<br>https://news.web.nhk/newsweb/na/na-k10015173591000]]></description>
+      <content:encoded><![CDATA[改正個人情報保護法成立 AI開発促進へ個人情報取得の規制緩和<br>https://news.web.nhk/newsweb/na/na-k10015173591000]]></content:encoded>
+    </item>
+    <item>
+      <title>This thinktank exposed fat cats and obscenely high pay. Gues…</title>
+      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbgxcr5jb2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbgxcr5jb2v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:44:05 GMT</pubDate>
+      <author>The Guardian (@theguardian.com)</author>
+      <description><![CDATA[This thinktank exposed fat cats and obscenely high pay. Guess what has happened to it? | Polly Toynbee]]></description>
+      <content:encoded><![CDATA[This thinktank exposed fat cats and obscenely high pay. Guess what has happened to it? | Polly Toynbee]]></content:encoded>
+    </item>
+    <item>
+      <title>【速報】在外邦人、2月衆院選投票できず違憲と提訴</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgumotxg2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgumotxg2o</guid>
+      <pubDate>Fri, 10 Jul 2026 05:42:35 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[「金融政策方向性示さず」 城内氏、日銀けん制否定]]></description>
-      <content:encoded><![CDATA[「金融政策方向性示さず」 城内氏、日銀けん制否定]]></content:encoded>
+      <description><![CDATA[【速報】在外邦人、2月衆院選投票できず違憲と提訴]]></description>
+      <content:encoded><![CDATA[【速報】在外邦人、2月衆院選投票できず違憲と提訴]]></content:encoded>
     </item>
     <item>
-      <title>【台風9号】石垣島地方と宮古島地方に暴風警報　先島で最大瞬間風速60メートル予想　沖縄本島も暴風の恐れ（10日午前9時）</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayex2gqd23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayex2gqd23</guid>
-      <pubDate>Fri, 10 Jul 2026 01:23:16 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[【台風9号】石垣島地方と宮古島地方に暴風警報　先島で最大瞬間風速60メートル予想　沖縄本島も暴風の恐れ（10日午前9時）]]></description>
-      <content:encoded><![CDATA[【台風9号】石垣島地方と宮古島地方に暴風警報　先島で最大瞬間風速60メートル予想　沖縄本島も暴風の恐れ（10日午前9時）]]></content:encoded>
+      <title>At least 12 people have died after a wildfire broke out in s…</title>
+      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqbgtse5m72b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqbgtse5m72b</guid>
+      <pubDate>Fri, 10 Jul 2026 05:42:07 GMT</pubDate>
+      <author>The New York Times (@nytimes.com)</author>
+      <description><![CDATA[At least 12 people have died after a wildfire broke out in southern Spain, as Europe grapples with a series of heat waves that have significantly raised the risk of such blazes.]]></description>
+      <content:encoded><![CDATA[At least 12 people have died after a wildfire broke out in southern Spain, as Europe grapples with a series of heat waves that have significantly raised the risk of such blazes.]]></content:encoded>
     </item>
     <item>
-      <title>ミュージックステーション、7月10日の出演者と歌唱曲一覧　Kis-My-Ft2やDOMOTOは2曲披露</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayevkmdl22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqayevkmdl22</guid>
-      <pubDate>Fri, 10 Jul 2026 01:23:15 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[ミュージックステーション、7月10日の出演者と歌唱曲一覧　Kis-My-Ft2やDOMOTOは2曲披露]]></description>
-      <content:encoded><![CDATA[ミュージックステーション、7月10日の出演者と歌唱曲一覧　Kis-My-Ft2やDOMOTOは2曲披露]]></content:encoded>
-    </item>
-    <item>
-      <title>From Breakingviews - Breakingviews - The good, bad and ugly …</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqay7pxb7722</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqay7pxb7722</guid>
-      <pubDate>Fri, 10 Jul 2026 01:20:21 GMT</pubDate>
+      <title>Tencent in talks to become AI startup Manus&apos; largest shareho…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbgqfkcz22d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbgqfkcz22d</guid>
+      <pubDate>Fri, 10 Jul 2026 05:40:13 GMT</pubDate>
       <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[From Breakingviews - Breakingviews - The good, bad and ugly of AI’s economic impact reut.rs/4yfgW9U]]></description>
-      <content:encoded><![CDATA[From Breakingviews - Breakingviews - The good, bad and ugly of AI’s economic impact reut.rs/4yfgW9U]]></content:encoded>
+      <description><![CDATA[Tencent in talks to become AI startup Manus' largest shareholder, sources say reut.rs/44U4IWR]]></description>
+      <content:encoded><![CDATA[Tencent in talks to become AI startup Manus' largest shareholder, sources say reut.rs/44U4IWR]]></content:encoded>
     </item>
     <item>
-      <title>#🔖学び 「世界史でモンゴルはマイナー」と言われたが「モンゴルが世界史を作った」という話…世界史にとってモンゴルはなく…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqay7gqrcf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqay7gqrcf27</guid>
-      <pubDate>Fri, 10 Jul 2026 01:20:11 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖学び<br>「世界史でモンゴルはマイナー」と言われたが「モンゴルが世界史を作った」という話…世界史にとってモンゴルはなくてはならないが何故かモンゴル史はマイナーな不思議<br><br>mayutaron @happymayut1155 @kimovoticus2 NHKでやってた「3ヶ月で学ぶ世界史」で世界史観がガラッと変わりました。モンゴル帝国は古代から積み上げてきたユーラシア大陸の伝統(制度や交易や人財)を統合した集大成という印象が残りました。学校の授業では全然伝わらないと思います。 2026-07-08 19:44:23]]></description>
-      <content:encoded><![CDATA[#🔖学び<br>「世界史でモンゴルはマイナー」と言われたが「モンゴルが世界史を作った」という話…世界史にとってモンゴルはなくてはならないが何故かモンゴル史はマイナーな不思議<br><br>mayutaron @happymayut1155 @kimovoticus2 NHKでやってた「3ヶ月で学ぶ世界史」で世界史観がガラッと変わりました。モンゴル帝国は古代から積み上げてきたユーラシア大陸の伝統(制度や交易や人財)を統合した集大成という印象が残りました。学校の授業では全然伝わらないと思います。 2026-07-08 19:44:23]]></content:encoded>
+      <title>The global garment industry is beginning to address impacts …</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbgpdhy5r24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbgpdhy5r24</guid>
+      <pubDate>Fri, 10 Jul 2026 05:39:37 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[The global garment industry is beginning to address impacts of record temperatures, which threaten tens of millions of workers and erode productivity. bloom.bg/4vxvKhW<br><br>📷️: Ajit Solanki/AP
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreidzetlqlg4rc5xhawk7jnklk7h25k2kgocmafhbelpycqn4sn2rdi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The global garment industry is beginning to address impacts of record temperatures, which threaten tens of millions of workers and erode productivity. bloom.bg/4vxvKhW<br><br>📷️: Ajit Solanki/AP
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreidzetlqlg4rc5xhawk7jnklk7h25k2kgocmafhbelpycqn4sn2rdi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreidzetlqlg4rc5xhawk7jnklk7h25k2kgocmafhbelpycqn4sn2rdi" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Iran buried its slain Supreme Leader Ayatollah Ali Khamenei …</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqay5ipj7d2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqay5ipj7d2y</guid>
-      <pubDate>Fri, 10 Jul 2026 01:19:06 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Iran buried its slain Supreme Leader Ayatollah Ali Khamenei at a shrine in Mashhad, the culmination of a week of mass funeral processions and rallies. Khamenei was killed in U.S.-Israeli airstrikes on the first day of the war on February 28. reut.rs/4fcZ4nz]]></description>
-      <content:encoded><![CDATA[Iran buried its slain Supreme Leader Ayatollah Ali Khamenei at a shrine in Mashhad, the culmination of a week of mass funeral processions and rallies. Khamenei was killed in U.S.-Israeli airstrikes on the first day of the war on February 28. reut.rs/4fcZ4nz]]></content:encoded>
+      <title>【速報】JR西支社長、北陸新幹線の桂川案に理解</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgmm7bct2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgmm7bct2p</guid>
+      <pubDate>Fri, 10 Jul 2026 05:38:05 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[【速報】JR西支社長、北陸新幹線の桂川案に理解]]></description>
+      <content:encoded><![CDATA[【速報】JR西支社長、北陸新幹線の桂川案に理解]]></content:encoded>
     </item>
     <item>
-      <title>【台風情報】 大型で非常に強い台風9号(バービー)は宮古島の南南東を北西に進んでいます。 大きな暴風域、強風域を伴ってい…</title>
-      <link>https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqay4muqp22f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqay4muqp22f</guid>
-      <pubDate>Fri, 10 Jul 2026 01:18:37 GMT</pubDate>
+      <title>トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgizhuwt2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgizhuwt2p</guid>
+      <pubDate>Fri, 10 Jul 2026 05:36:05 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR]]></description>
+      <content:encoded><![CDATA[トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR]]></content:encoded>
+    </item>
+    <item>
+      <title>＜秋にかけ顕著なエルニーニョ現象に＞ 気象庁は7月10日(金)にエルニーニョ監視速報を発表しました。 秋にかけてエルニー…</title>
+      <link>https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqbghjoqqk2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqbghjoqqk2f</guid>
+      <pubDate>Fri, 10 Jul 2026 05:35:15 GMT</pubDate>
       <author>ウェザーニュース (@weathernews.jp)</author>
-      <description><![CDATA[【台風情報】<br>大型で非常に強い台風9号(バービー)は宮古島の南南東を北西に進んでいます。<br>大きな暴風域、強風域を伴っていて、台風が離れているにも関わらず風が強まってきました。<br>荒天が長時間続くおそれがあるため、今日の午後以降は厳重に警戒をしてください。<br>weathernews.jp/news/202607/...]]></description>
-      <content:encoded><![CDATA[【台風情報】<br>大型で非常に強い台風9号(バービー)は宮古島の南南東を北西に進んでいます。<br>大きな暴風域、強風域を伴っていて、台風が離れているにも関わらず風が強まってきました。<br>荒天が長時間続くおそれがあるため、今日の午後以降は厳重に警戒をしてください。<br>weathernews.jp/news/202607/...]]></content:encoded>
+      <description><![CDATA[＜秋にかけ顕著なエルニーニョ現象に＞<br>気象庁は7月10日(金)にエルニーニョ監視速報を発表しました。<br>秋にかけてエルニーニョ現象が続く確率は100%で、基準値との偏差が＋4.0℃に近づく可能性があり、過去最大を更新する可能性があります。<br>weathernews.jp/news/202607/...]]></description>
+      <content:encoded><![CDATA[＜秋にかけ顕著なエルニーニョ現象に＞<br>気象庁は7月10日(金)にエルニーニョ監視速報を発表しました。<br>秋にかけてエルニーニョ現象が続く確率は100%で、基準値との偏差が＋4.0℃に近づく可能性があり、過去最大を更新する可能性があります。<br>weathernews.jp/news/202607/...]]></content:encoded>
     </item>
     <item>
-      <title>「金融政策方向性示さず」 城内氏、日銀けん制否定</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqay25jne426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqay25jne426</guid>
-      <pubDate>Fri, 10 Jul 2026 01:17:14 GMT</pubDate>
+      <title>#🔖暮らし 間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続かない店の違い - おなじみ…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbghf462p2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbghf462p2r</guid>
+      <pubDate>Fri, 10 Jul 2026 05:35:10 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖暮らし<br>間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続かない店の違い - おなじみ丨近くの店から、なじみの店へ。<br><br>初期費用を抑えて開業できる「間借り営業」。一方で保険や衛生管理など、注意点も多数あります。カレー文化を長らく見続けてきたカレーおじさん＼(^o^)／に、その魅力と心得を聞きました。 飲食店の空き時間を活用し、別の店主が営業する「間借り営業」。開業の初期費用を抑えられることから、独立前のステップとしても...]]></description>
+      <content:encoded><![CDATA[#🔖暮らし<br>間借り営業は「気軽」なだけじゃない。間借りカレーウォッチャーが語る、続く店、続かない店の違い - おなじみ丨近くの店から、なじみの店へ。<br><br>初期費用を抑えて開業できる「間借り営業」。一方で保険や衛生管理など、注意点も多数あります。カレー文化を長らく見続けてきたカレーおじさん＼(^o^)／に、その魅力と心得を聞きました。 飲食店の空き時間を活用し、別の店主が営業する「間借り営業」。開業の初期費用を抑えられることから、独立前のステップとしても...]]></content:encoded>
+    </item>
+    <item>
+      <title>Japan&apos;s wholesale inflation hits 3-year high as fuel costs, …</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbghecofb23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbghecofb23</guid>
+      <pubDate>Fri, 10 Jul 2026 05:35:10 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Japan's wholesale inflation hits 3-year high as fuel costs, weak yen bite reut.rs/4yfFgbV]]></description>
+      <content:encoded><![CDATA[Japan's wholesale inflation hits 3-year high as fuel costs, weak yen bite reut.rs/4yfFgbV]]></content:encoded>
+    </item>
+    <item>
+      <title>トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgekuklc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgekuklc2t</guid>
+      <pubDate>Fri, 10 Jul 2026 05:33:36 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[「金融政策方向性示さず」 城内氏、日銀けん制否定]]></description>
-      <content:encoded><![CDATA[「金融政策方向性示さず」 城内氏、日銀けん制否定]]></content:encoded>
+      <description><![CDATA[トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR]]></description>
+      <content:encoded><![CDATA[トルコ、NATO首脳に拳銃贈呈 「土産」各国苦慮、防衛産業PR]]></content:encoded>
     </item>
     <item>
-      <title>【速報】大学生集団暴行死、2人の実刑判決確定</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqay24xgbt2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqay24xgbt2p</guid>
-      <pubDate>Fri, 10 Jul 2026 01:17:13 GMT</pubDate>
+      <title>【速報】福岡の副議長経験者、800万円支払い明言</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgek6mes2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbgek6mes2q</guid>
+      <pubDate>Fri, 10 Jul 2026 05:33:35 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[【速報】大学生集団暴行死、2人の実刑判決確定]]></description>
-      <content:encoded><![CDATA[【速報】大学生集団暴行死、2人の実刑判決確定]]></content:encoded>
+      <description><![CDATA[【速報】福岡の副議長経験者、800万円支払い明言]]></description>
+      <content:encoded><![CDATA[【速報】福岡の副議長経験者、800万円支払い明言]]></content:encoded>
     </item>
     <item>
-      <title>The Las Vegas Raiders are coaching up rookie quarterback Fer…</title>
-      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqaxyvyqda2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqaxyvyqda2t</guid>
-      <pubDate>Fri, 10 Jul 2026 01:16:33 GMT</pubDate>
-      <author>Newsweek (@newsweek.com)</author>
-      <description><![CDATA[The Las Vegas Raiders are coaching up rookie quarterback Fernando Mendoza hard this offseason to get him ready for the NFL.]]></description>
-      <content:encoded><![CDATA[The Las Vegas Raiders are coaching up rookie quarterback Fernando Mendoza hard this offseason to get him ready for the NFL.]]></content:encoded>
+      <title>日本茶を「地理的表示（GI）保護制度」に登録　農水省 www.nikkei.com/article/DGXZQO... …</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbg73sb362g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbg73sb362g</guid>
+      <pubDate>Fri, 10 Jul 2026 05:30:32 GMT</pubDate>
+      <author>日経電子版 (@nikkei.com)</author>
+      <description><![CDATA[日本茶を「地理的表示（GI）保護制度」に登録　農水省<br>www.nikkei.com/article/DGXZQO...<br><br>抹茶ブームなどを背景に、緑茶輸出額は過去最高を更新。<br><br>ただ、中国で抹茶生産が増え「宇治抹茶」をうたう中国産も流通しています。<br><br>国の保護を通じ、模倣品対策などを進めます。]]></description>
+      <content:encoded><![CDATA[日本茶を「地理的表示（GI）保護制度」に登録　農水省<br>www.nikkei.com/article/DGXZQO...<br><br>抹茶ブームなどを背景に、緑茶輸出額は過去最高を更新。<br><br>ただ、中国で抹茶生産が増え「宇治抹茶」をうたう中国産も流通しています。<br><br>国の保護を通じ、模倣品対策などを進めます。]]></content:encoded>
     </item>
     <item>
-      <title>原爆供養塔納骨名簿を掲示、広島 816人分、一部氏名修正</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxrt2hae26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxrt2hae26</guid>
-      <pubDate>Fri, 10 Jul 2026 01:12:34 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[原爆供養塔納骨名簿を掲示、広島 816人分、一部氏名修正]]></description>
-      <content:encoded><![CDATA[原爆供養塔納骨名簿を掲示、広島 816人分、一部氏名修正]]></content:encoded>
+      <title>Yen rises as Japan woos pension funds into domestic assets r…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbg6qzns42r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbg6qzns42r</guid>
+      <pubDate>Fri, 10 Jul 2026 05:30:21 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Yen rises as Japan woos pension funds into domestic assets reut.rs/4ydoPwz]]></description>
+      <content:encoded><![CDATA[Yen rises as Japan woos pension funds into domestic assets reut.rs/4ydoPwz]]></content:encoded>
+    </item>
+    <item>
+      <title>For roughly six decades, Indonesia’s political leaders and b…</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbg6g5c2f2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mqbg6g5c2f2q</guid>
+      <pubDate>Fri, 10 Jul 2026 05:30:10 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[For roughly six decades, Indonesia’s political leaders and business elites enjoyed a near-symbiotic relationship. That’s now collapsing under Prabowo, spurring a race among tycoons to move cash out of the Southeast Asian archipelago. bloom.bg/3SP2sO4<br><br>🎨: 731; Photos: Bloomberg, Getty Images
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreibh7e37jrhwmnw2malgc3xbuznesbavqqj5bnmdegz5sz5an2j6j4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[For roughly six decades, Indonesia’s political leaders and business elites enjoyed a near-symbiotic relationship. That’s now collapsing under Prabowo, spurring a race among tycoons to move cash out of the Southeast Asian archipelago. bloom.bg/3SP2sO4<br><br>🎨: 731; Photos: Bloomberg, Getty Images
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreibh7e37jrhwmnw2malgc3xbuznesbavqqj5bnmdegz5sz5an2j6j4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreibh7e37jrhwmnw2malgc3xbuznesbavqqj5bnmdegz5sz5an2j6j4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>皇室典範改正案が衆院通過、中道賛成　女性皇籍保持・旧宮家から養子 www.nikkei.com/article/DGXZ…</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbg55tlq72y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbg55tlq72y</guid>
+      <pubDate>Fri, 10 Jul 2026 05:29:27 GMT</pubDate>
+      <author>日経電子版 (@nikkei.com)</author>
+      <description><![CDATA[皇室典範改正案が衆院通過、中道賛成　女性皇籍保持・旧宮家から養子<br>www.nikkei.com/article/DGXZQO...<br>（リンクに不備があったため、修正し再投稿しました）<br><br>#ニュース]]></description>
+      <content:encoded><![CDATA[皇室典範改正案が衆院通過、中道賛成　女性皇籍保持・旧宮家から養子<br>www.nikkei.com/article/DGXZQO...<br>（リンクに不備があったため、修正し再投稿しました）<br><br>#ニュース]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 メシヤの話  卓上にふりかけが置いてあることが多い おかずを食べきってご飯が残ったときには救われるのかも知…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbfvlrllk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbfvlrllk2s</guid>
+      <pubDate>Fri, 10 Jul 2026 05:25:13 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖世の中<br>メシヤの話<br><br>卓上にふりかけが置いてあることが多い おかずを食べきってご飯が残ったときには救われるのかも知れないが 今のところそうなったことはない それはそうとして、初手からふりかけをかける人はなんなんだ？ 味が濁るだろ]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>メシヤの話<br><br>卓上にふりかけが置いてあることが多い おかずを食べきってご飯が残ったときには救われるのかも知れないが 今のところそうなったことはない それはそうとして、初手からふりかけをかける人はなんなんだ？ 味が濁るだろ]]></content:encoded>
+    </item>
+    <item>
+      <title>Japan signals pension push into domestic assets, sparking ra…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbfvjgicx2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbfvjgicx2g</guid>
+      <pubDate>Fri, 10 Jul 2026 05:25:11 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Japan signals pension push into domestic assets, sparking rally in yen, bonds reut.rs/4aMyHDE]]></description>
+      <content:encoded><![CDATA[Japan signals pension push into domestic assets, sparking rally in yen, bonds reut.rs/4aMyHDE]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新聞  関西のある公立小学校…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbfvitc3v2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbfvitc3v2x</guid>
+      <pubDate>Fri, 10 Jul 2026 05:25:10 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖世の中<br>遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新聞<br><br>関西のある公立小学校の女子児童が、遠足から帰宅後に熱中症で救急搬送された。親は事前に水筒が空になればお茶を購入できるよう担任に申し入れ、現金も持たせていた。後に判明したのは当日「だめです」と断られていた事実。親子が慰謝料を求めた裁判で学校側は一貫して責任を否定した。「お金はだめです」2022年5月、遠...]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 - 日本経済新聞<br><br>関西のある公立小学校の女子児童が、遠足から帰宅後に熱中症で救急搬送された。親は事前に水筒が空になればお茶を購入できるよう担任に申し入れ、現金も持たせていた。後に判明したのは当日「だめです」と断られていた事実。親子が慰謝料を求めた裁判で学校側は一貫して責任を否定した。「お金はだめです」2022年5月、遠...]]></content:encoded>
     </item>
     <item>
       <title></title>
-      <link>https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mqaxmk7pim2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mqaxmk7pim2o</guid>
-      <pubDate>Fri, 10 Jul 2026 01:09:37 GMT</pubDate>
+      <link>https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mqbfqars5u2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mqbfqars5u2o</guid>
+      <pubDate>Fri, 10 Jul 2026 05:22:14 GMT</pubDate>
       <author>茨城新聞社 (@ibarakinews.jp)</author>
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
-      <title>【LIVE】皇室典範改正案、衆院委員会で審議入り</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxfen3oi2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxfen3oi2p</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:37 GMT</pubDate>
+      <title>元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbfpwtwcp23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbfpwtwcp23</guid>
+      <pubDate>Fri, 10 Jul 2026 05:22:03 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[【LIVE】皇室典範改正案、衆院委員会で審議入り]]></description>
-      <content:encoded><![CDATA[【LIVE】皇室典範改正案、衆院委員会で審議入り]]></content:encoded>
+      <description><![CDATA[元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」]]></description>
+      <content:encoded><![CDATA[元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」]]></content:encoded>
     </item>
     <item>
-      <title>A sergeant with a South Jersey sheriff’s department has been…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqaxcmat2z2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqaxcmat2z2o</guid>
-      <pubDate>Fri, 10 Jul 2026 01:04:04 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[A sergeant with a South Jersey sheriff’s department has been charged with multiple crimes, including animal cruelty, in connection with the deaths of two K-9s under his care, prosecutors announced.]]></description>
-      <content:encoded><![CDATA[A sergeant with a South Jersey sheriff’s department has been charged with multiple crimes, including animal cruelty, in connection with the deaths of two K-9s under his care, prosecutors announced.]]></content:encoded>
-    </item>
-    <item>
-      <title>トランプ氏、「1位」発言が波紋 動画投稿アプリのフォロワー数</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxbvbbn62s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaxbvbbn62s</guid>
-      <pubDate>Fri, 10 Jul 2026 01:03:40 GMT</pubDate>
+      <title>地方税収、初の50兆円 25年度、5年連続増</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbfmlj3a72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbfmlj3a72x</guid>
+      <pubDate>Fri, 10 Jul 2026 05:20:11 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[トランプ氏、「1位」発言が波紋 動画投稿アプリのフォロワー数]]></description>
-      <content:encoded><![CDATA[トランプ氏、「1位」発言が波紋 動画投稿アプリのフォロワー数]]></content:encoded>
+      <description><![CDATA[地方税収、初の50兆円 25年度、5年連続増]]></description>
+      <content:encoded><![CDATA[地方税収、初の50兆円 25年度、5年連続増]]></content:encoded>
     </item>
     <item>
-      <title>茨城 つくば 中高生含む15人がハチに刺されたか 病院に搬送 https://news.web.nhk/newsweb/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaxatdjn32c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaxatdjn32c</guid>
-      <pubDate>Fri, 10 Jul 2026 01:03:02 GMT</pubDate>
-      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[茨城 つくば 中高生含む15人がハチに刺されたか 病院に搬送<br>https://news.web.nhk/newsweb/na/na-k10015173381000]]></description>
-      <content:encoded><![CDATA[茨城 つくば 中高生含む15人がハチに刺されたか 病院に搬送<br>https://news.web.nhk/newsweb/na/na-k10015173381000]]></content:encoded>
+      <title>Reeves to launch City ‘skills compact’ committing firms to r…</title>
+      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbfhematg2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbfhematg2m</guid>
+      <pubDate>Fri, 10 Jul 2026 05:17:16 GMT</pubDate>
+      <author>The Guardian (@theguardian.com)</author>
+      <description><![CDATA[Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI]]></description>
+      <content:encoded><![CDATA[Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI]]></content:encoded>
     </item>
     <item>
-      <title>東急電鉄、子ども100円で1日乗り放題　夏休み限定で毎日販売 www.nikkei.com/article/DGXZQO…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqax3zeu6q23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqax3zeu6q23</guid>
-      <pubDate>Fri, 10 Jul 2026 01:00:23 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[東急電鉄、子ども100円で1日乗り放題　夏休み限定で毎日販売<br>www.nikkei.com/article/DGXZQO...<br><br>「東急線キッズパス」として、7月17日から8月30日までの夏休み期間限定で販売します。]]></description>
-      <content:encoded><![CDATA[東急電鉄、子ども100円で1日乗り放題　夏休み限定で毎日販売<br>www.nikkei.com/article/DGXZQO...<br><br>「東急線キッズパス」として、7月17日から8月30日までの夏休み期間限定で販売します。]]></content:encoded>
+      <title>Oasis reunion helps draw record 25m ‘music tourists’ to UK c…</title>
+      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbfhczsl426</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbfhczsl426</guid>
+      <pubDate>Fri, 10 Jul 2026 05:17:15 GMT</pubDate>
+      <author>The Guardian (@theguardian.com)</author>
+      <description><![CDATA[Oasis reunion helps draw record 25m ‘music tourists’ to UK concerts]]></description>
+      <content:encoded><![CDATA[Oasis reunion helps draw record 25m ‘music tourists’ to UK concerts]]></content:encoded>
     </item>
     <item>
-      <title>U.S. Olympic canoeist David “Davey” Hearn pleaded not guilty…</title>
-      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mqax3nkqdb2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mqax3nkqdb2h</guid>
-      <pubDate>Fri, 10 Jul 2026 01:00:11 GMT</pubDate>
-      <author>NBC News (@nbcnews.com)</author>
-      <description><![CDATA[U.S. Olympic canoeist David “Davey” Hearn pleaded not guilty at his arraignment in connection with alleged damage to the Lincoln Memorial Reflecting Pool.]]></description>
-      <content:encoded><![CDATA[U.S. Olympic canoeist David “Davey” Hearn pleaded not guilty at his arraignment in connection with alleged damage to the Lincoln Memorial Reflecting Pool.]]></content:encoded>
-    </item>
-    <item>
-      <title>【上場企業の平均年収、692.6万円で過去最高】2025年度決算期（3月期）の上場約3700社の平均年間給与は692.6…</title>
-      <link>https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mqax3oqw432i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mqax3oqw432i</guid>
-      <pubDate>Fri, 10 Jul 2026 01:00:10 GMT</pubDate>
-      <author>産経ニュース (@sankei.com)</author>
-      <description><![CDATA[【上場企業の平均年収、692.6万円で過去最高】2025年度決算期（3月期）の上場約3700社の平均年間給与は692.6万円だった。民間信用調査会社「帝国データバンク」が9日、発表した。5年連続で前年度を上回り、調査を始めた2003年度決算以降で最高を更新した。24年度の671.1万円に比べて21.5万円、月換算でも約1.8万円増え、増加額、伸び率ともに過去最高だった。]]></description>
-      <content:encoded><![CDATA[【上場企業の平均年収、692.6万円で過去最高】2025年度決算期（3月期）の上場約3700社の平均年間給与は692.6万円だった。民間信用調査会社「帝国データバンク」が9日、発表した。5年連続で前年度を上回り、調査を始めた2003年度決算以降で最高を更新した。24年度の671.1万円に比べて21.5万円、月換算でも約1.8万円増え、増加額、伸び率ともに過去最高だった。]]></content:encoded>
-    </item>
-    <item>
-      <title>Senate Judiciary Chair Chuck Grassley has asked FBI Director…</title>
-      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqawxsffga27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqawxsffga27</guid>
-      <pubDate>Fri, 10 Jul 2026 00:58:01 GMT</pubDate>
-      <author>CNN (@cnn.com)</author>
-      <description><![CDATA[Senate Judiciary Chair Chuck Grassley has asked FBI Director Kash Patel to defend his use of FBI aircraft and purchase of BMWs in a letter obtained by CNN, an indication that the powerful Republican chairman is conducting his own oversight of Patel’s controversial spending of taxpayer dollars.]]></description>
-      <content:encoded><![CDATA[Senate Judiciary Chair Chuck Grassley has asked FBI Director Kash Patel to defend his use of FBI aircraft and purchase of BMWs in a letter obtained by CNN, an indication that the powerful Republican chairman is conducting his own oversight of Patel’s controversial spending of taxpayer dollars.]]></content:encoded>
-    </item>
-    <item>
-      <title>子どもの自殺増でSNS活用した相談体制整備検討へ 政府 https://news.web.nhk/newsweb/na/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaww3svzb2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaww3svzb2f</guid>
-      <pubDate>Fri, 10 Jul 2026 00:57:02 GMT</pubDate>
-      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[子どもの自殺増でSNS活用した相談体制整備検討へ 政府<br>https://news.web.nhk/newsweb/na/na-k10015173371000]]></description>
-      <content:encoded><![CDATA[子どもの自殺増でSNS活用した相談体制整備検討へ 政府<br>https://news.web.nhk/newsweb/na/na-k10015173371000]]></content:encoded>
-    </item>
-    <item>
-      <title>Some longtime podcast hosts are ending or leaving their show…</title>
-      <link>https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mqawu6ykvg2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mqawu6ykvg2v</guid>
-      <pubDate>Fri, 10 Jul 2026 00:56:00 GMT</pubDate>
-      <author>Mediagazer (@mediagazer.com)</author>
-      <description><![CDATA[Some longtime podcast hosts are ending or leaving their shows as video becomes dominant; increasingly, YouTube-first or video-first programs lead podcast charts (Ashley Carman/Bloomberg)<br><br>Main Link | Mediagazer Permalink]]></description>
-      <content:encoded><![CDATA[Some longtime podcast hosts are ending or leaving their shows as video becomes dominant; increasingly, YouTube-first or video-first programs lead podcast charts (Ashley Carman/Bloomberg)<br><br>Main Link | Mediagazer Permalink]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖テクノロジー 官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PD…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqawsrfutz2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqawsrfutz2l</guid>
-      <pubDate>Fri, 10 Jul 2026 00:55:12 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖テクノロジー<br>官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱<br><br>]]></description>
-      <content:encoded><![CDATA[#🔖テクノロジー<br>官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱<br><br>]]></content:encoded>
-    </item>
-    <item>
-      <title>農水省、国産「日本茶」保護登録 模倣品対策、産地限定せず</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqawngwllh2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqawngwllh2t</guid>
-      <pubDate>Fri, 10 Jul 2026 00:52:14 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[農水省、国産「日本茶」保護登録 模倣品対策、産地限定せず]]></description>
-      <content:encoded><![CDATA[農水省、国産「日本茶」保護登録 模倣品対策、産地限定せず]]></content:encoded>
-    </item>
-    <item>
-      <title>Pioneering aviator and astronaut trainee Wally Funk dead at …</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqawjwky4l2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqawjwky4l2r</guid>
-      <pubDate>Fri, 10 Jul 2026 00:50:16 GMT</pubDate>
+      <title>EU regulators hit US wall in quest for private credit data r…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbfdphuuf2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbfdphuuf2v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:15:13 GMT</pubDate>
       <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Pioneering aviator and astronaut trainee Wally Funk dead at 87 reut.rs/4vVnn0B]]></description>
-      <content:encoded><![CDATA[Pioneering aviator and astronaut trainee Wally Funk dead at 87 reut.rs/4vVnn0B]]></content:encoded>
+      <description><![CDATA[EU regulators hit US wall in quest for private credit data reut.rs/4wehEDj]]></description>
+      <content:encoded><![CDATA[EU regulators hit US wall in quest for private credit data reut.rs/4wehEDj]]></content:encoded>
     </item>
     <item>
-      <title>#🔖世の中 経営厳しいローカル鉄道へのＣＦ寄付金、２０００万円未入金…サイト「うぶごえ」の事務所は無断退去  【読売新…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqawjs2zfz27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqawjs2zfz27</guid>
-      <pubDate>Fri, 10 Jul 2026 00:50:10 GMT</pubDate>
+      <title>【台風9号速報まとめ】現在の進路・休校・休業・交通・イベント情報（随時更新）</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbf744o2p2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbf744o2p2o</guid>
+      <pubDate>Fri, 10 Jul 2026 05:12:39 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[【台風9号速報まとめ】現在の進路・休校・休業・交通・イベント情報（随時更新）]]></description>
+      <content:encoded><![CDATA[【台風9号速報まとめ】現在の進路・休校・休業・交通・イベント情報（随時更新）]]></content:encoded>
+    </item>
+    <item>
+      <title>名鉄犬山線、布袋駅ー犬山駅間で一時運転見合わせ　人身事故の影響</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbf72okfw2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbf72okfw2u</guid>
+      <pubDate>Fri, 10 Jul 2026 05:12:37 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[名鉄犬山線、布袋駅ー犬山駅間で一時運転見合わせ　人身事故の影響]]></description>
+      <content:encoded><![CDATA[名鉄犬山線、布袋駅ー犬山駅間で一時運転見合わせ　人身事故の影響]]></content:encoded>
+    </item>
+    <item>
+      <title>大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張 https://news.web.nhk/newsweb/…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbf62zncp2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbf62zncp2n</guid>
+      <pubDate>Fri, 10 Jul 2026 05:12:02 GMT</pubDate>
+      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
+      <description><![CDATA[大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張<br>https://news.web.nhk/newsweb/na/na-k10015173071000]]></description>
+      <content:encoded><![CDATA[大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張<br>https://news.web.nhk/newsweb/na/na-k10015173071000]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 【速報】旧宮家と天皇陛下は36～38親等の隔たり  宮内庁の緒方次長は衆院議運委で、1947年に皇籍離脱し…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbf2ocrz62w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqbf2ocrz62w</guid>
+      <pubDate>Fri, 10 Jul 2026 05:10:10 GMT</pubDate>
       <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖世の中<br>経営厳しいローカル鉄道へのＣＦ寄付金、２０００万円未入金…サイト「うぶごえ」の事務所は無断退去<br><br>【読売新聞】　経営の厳しいローカル線を運行する複数の鉄道事業者が、クラウドファンディング（ＣＦ）で集めた寄付金が期限を過ぎても入金されないトラブルに見舞われている。同じＣＦサイトを利用し、未入金額は４社で約２０００万円。各社は支援者]]></description>
-      <content:encoded><![CDATA[#🔖世の中<br>経営厳しいローカル鉄道へのＣＦ寄付金、２０００万円未入金…サイト「うぶごえ」の事務所は無断退去<br><br>【読売新聞】　経営の厳しいローカル線を運行する複数の鉄道事業者が、クラウドファンディング（ＣＦ）で集めた寄付金が期限を過ぎても入金されないトラブルに見舞われている。同じＣＦサイトを利用し、未入金額は４社で約２０００万円。各社は支援者]]></content:encoded>
+      <description><![CDATA[#🔖世の中<br>【速報】旧宮家と天皇陛下は36～38親等の隔たり<br><br>宮内庁の緒方次長は衆院議運委で、1947年に皇籍離脱した旧11宮家の男系男子と天皇陛下は「36親等から38親等の隔たりがある」と語った。]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>【速報】旧宮家と天皇陛下は36～38親等の隔たり<br><br>宮内庁の緒方次長は衆院議運委で、1947年に皇籍離脱した旧11宮家の男系男子と天皇陛下は「36親等から38親等の隔たりがある」と語った。]]></content:encoded>
     </item>
     <item>
-      <title>The Gallup survey also showed a shift in American sentiment …</title>
-      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqaweztqbb26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqaweztqbb26</guid>
-      <pubDate>Fri, 10 Jul 2026 00:47:32 GMT</pubDate>
+      <title>Anti-migrant protests risk economic blowback for South Afric…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbf2om7yf2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbf2om7yf2v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:10:10 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Anti-migrant protests risk economic blowback for South Africa reut.rs/4vn8F1c]]></description>
+      <content:encoded><![CDATA[Anti-migrant protests risk economic blowback for South Africa reut.rs/4vn8F1c]]></content:encoded>
+    </item>
+    <item>
+      <title>LIV Golf is trying to find an investor after Saudi Arabia pu…</title>
+      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqbez2m2te2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mqbez2m2te2v</guid>
+      <pubDate>Fri, 10 Jul 2026 05:09:16 GMT</pubDate>
       <author>Newsweek (@newsweek.com)</author>
-      <description><![CDATA[The Gallup survey also showed a shift in American sentiment on immigration compared to the height of the 2024 election.]]></description>
-      <content:encoded><![CDATA[The Gallup survey also showed a shift in American sentiment on immigration compared to the height of the 2024 election.]]></content:encoded>
+      <description><![CDATA[LIV Golf is trying to find an investor after Saudi Arabia pulled its funding from the league championed by President Donald Trump.]]></description>
+      <content:encoded><![CDATA[LIV Golf is trying to find an investor after Saudi Arabia pulled its funding from the league championed by President Donald Trump.]]></content:encoded>
     </item>
     <item>
-      <title>英国の歌手ボニー・タイラーさん死去　「愛のかげり」で世界的ヒット</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawbewypz2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawbewypz2u</guid>
-      <pubDate>Fri, 10 Jul 2026 00:45:29 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[英国の歌手ボニー・タイラーさん死去　「愛のかげり」で世界的ヒット]]></description>
-      <content:encoded><![CDATA[英国の歌手ボニー・タイラーさん死去　「愛のかげり」で世界的ヒット]]></content:encoded>
-    </item>
-    <item>
-      <title>中道の落選者ら「党の方向性示して」　立憲との政策不一致に懸念も</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawb5qrdy2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawb5qrdy2p</guid>
-      <pubDate>Fri, 10 Jul 2026 00:45:21 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[中道の落選者ら「党の方向性示して」　立憲との政策不一致に懸念も]]></description>
-      <content:encoded><![CDATA[中道の落選者ら「党の方向性示して」　立憲との政策不一致に懸念も]]></content:encoded>
-    </item>
-    <item>
-      <title>滋賀・湖南の野洲川で男子高校生2人が死亡　川遊び中に溺れたか</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawavn3r42p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mqawavn3r42p</guid>
-      <pubDate>Fri, 10 Jul 2026 00:45:13 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[滋賀・湖南の野洲川で男子高校生2人が死亡　川遊び中に溺れたか]]></description>
-      <content:encoded><![CDATA[滋賀・湖南の野洲川で男子高校生2人が死亡　川遊び中に溺れたか]]></content:encoded>
-    </item>
-    <item>
-      <title>空爆で自宅を失ったレバノン選手、諦めずに泳ぎ続けつかんだ大舞台の切符　愛知・名古屋アジアパラ大会開幕まで100日</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaw5cvzag2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaw5cvzag2t</guid>
-      <pubDate>Fri, 10 Jul 2026 00:43:13 GMT</pubDate>
+      <title>【速報】皇室典範改正案が衆院通過 男系継承「古来例外なし」</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbex55ge326</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbex55ge326</guid>
+      <pubDate>Fri, 10 Jul 2026 05:08:11 GMT</pubDate>
       <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[空爆で自宅を失ったレバノン選手、諦めずに泳ぎ続けつかんだ大舞台の切符　愛知・名古屋アジアパラ大会開幕まで100日]]></description>
-      <content:encoded><![CDATA[空爆で自宅を失ったレバノン選手、諦めずに泳ぎ続けつかんだ大舞台の切符　愛知・名古屋アジアパラ大会開幕まで100日]]></content:encoded>
+      <description><![CDATA[【速報】皇室典範改正案が衆院通過 男系継承「古来例外なし」]]></description>
+      <content:encoded><![CDATA[【速報】皇室典範改正案が衆院通過 男系継承「古来例外なし」]]></content:encoded>
     </item>
     <item>
-      <title>Sources: Disney is discussing a potential free tier for Disn…</title>
-      <link>https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mqavqe36pt2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mqavqe36pt2h</guid>
-      <pubDate>Fri, 10 Jul 2026 00:35:58 GMT</pubDate>
-      <author>Mediagazer (@mediagazer.com)</author>
-      <description><![CDATA[Sources: Disney is discussing a potential free tier for Disney+; product and tech chief Adam Smith discussed the initiative at a town hall but gave no timeline (James Faris/Business Insider)<br><br>Main Link | Mediagazer Permalink]]></description>
-      <content:encoded><![CDATA[Sources: Disney is discussing a potential free tier for Disney+; product and tech chief Adam Smith discussed the initiative at a town hall but gave no timeline (James Faris/Business Insider)<br><br>Main Link | Mediagazer Permalink]]></content:encoded>
+      <title>元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbevevrid26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbevevrid26</guid>
+      <pubDate>Fri, 10 Jul 2026 05:07:12 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」]]></description>
+      <content:encoded><![CDATA[元特捜検事、初公判で無罪を主張 取り調べで「検察なめんなよ」]]></content:encoded>
     </item>
     <item>
-      <title>#🔖テクノロジー HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare D…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqavoxqhtg25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqavoxqhtg25</guid>
-      <pubDate>Fri, 10 Jul 2026 00:35:11 GMT</pubDate>
+      <title>【速報】25年度の地方税収、初の50兆円</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbeve2xyv2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqbeve2xyv2p</guid>
+      <pubDate>Fri, 10 Jul 2026 05:07:11 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[【速報】25年度の地方税収、初の50兆円]]></description>
+      <content:encoded><![CDATA[【速報】25年度の地方税収、初の50兆円]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖テクノロジー Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Q…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqberrnccw2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqberrnccw2r</guid>
+      <pubDate>Fri, 10 Jul 2026 05:05:11 GMT</pubDate>
       <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖テクノロジー<br>HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた<br><br>CDN大手のCloudflareが「Cloudflare Drop」という静的サイトデプロイサービスを2026年7月8日にリリースしました。HTMLファイルなどをドラッグ＆ドロップするだけでCloudflareのCDNを用いたウェブサイト公開が可能で、アカウント作成せずとも60分間の期限付き公開を試せるとのこと。興味深いので使ってみました。 Cloudfl...]]></description>
-      <content:encoded><![CDATA[#🔖テクノロジー<br>HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた<br><br>CDN大手のCloudflareが「Cloudflare Drop」という静的サイトデプロイサービスを2026年7月8日にリリースしました。HTMLファイルなどをドラッグ＆ドロップするだけでCloudflareのCDNを用いたウェブサイト公開が可能で、アカウント作成せずとも60分間の期限付き公開を試せるとのこと。興味深いので使ってみました。 Cloudfl...]]></content:encoded>
+      <description><![CDATA[#🔖テクノロジー<br>Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge<br><br>この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。 また、NVIDIAがアリババの高性能AI「Qwen3.6」を]]></description>
+      <content:encoded><![CDATA[#🔖テクノロジー<br>Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge<br><br>この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。 また、NVIDIAがアリババの高性能AI「Qwen3.6」を]]></content:encoded>
     </item>
     <item>
-      <title>「トヨタカレンダー」半世紀ぶり刷新に着手 www.nikkei.com/article/DGXZQO...  これまでは…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqavgn3nuu2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqavgn3nuu2r</guid>
-      <pubDate>Fri, 10 Jul 2026 00:30:32 GMT</pubDate>
+      <title>ASEAN to discuss engagement with Myanmar at special meeting,…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqberqktmo2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqberqktmo2o</guid>
+      <pubDate>Fri, 10 Jul 2026 05:05:10 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[ASEAN to discuss engagement with Myanmar at special meeting, Philippines says reut.rs/4vrhzuG]]></description>
+      <content:encoded><![CDATA[ASEAN to discuss engagement with Myanmar at special meeting, Philippines says reut.rs/4vrhzuG]]></content:encoded>
+    </item>
+    <item>
+      <title>地方税収 初の50兆円超 5年連続過去最高更新 総務省 https://news.web.nhk/newsweb/na/…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbenylr4p2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbenylr4p2c</guid>
+      <pubDate>Fri, 10 Jul 2026 05:03:03 GMT</pubDate>
+      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
+      <description><![CDATA[地方税収 初の50兆円超 5年連続過去最高更新 総務省<br>https://news.web.nhk/newsweb/na/na-k10015173551000]]></description>
+      <content:encoded><![CDATA[地方税収 初の50兆円超 5年連続過去最高更新 総務省<br>https://news.web.nhk/newsweb/na/na-k10015173551000]]></content:encoded>
+    </item>
+    <item>
+      <title>【高潮浸水にも警戒】 台風9号(バービー)は非常に強い勢力を保って沖縄に接近するため、高潮の危険性が高まります。 気圧に…</title>
+      <link>https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqbekqmmp22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mqbekqmmp22f</guid>
+      <pubDate>Fri, 10 Jul 2026 05:01:16 GMT</pubDate>
+      <author>ウェザーニュース (@weathernews.jp)</author>
+      <description><![CDATA[【高潮浸水にも警戒】<br>台風9号(バービー)は非常に強い勢力を保って沖縄に接近するため、高潮の危険性が高まります。<br>気圧による吸い上げ効果と、風による吹き寄せ効果により、海面が大きく上昇する見通しです。今後、レベル4高潮危険警報が発表される可能性もあります。<br>weathernews.jp/news/202607/...]]></description>
+      <content:encoded><![CDATA[【高潮浸水にも警戒】<br>台風9号(バービー)は非常に強い勢力を保って沖縄に接近するため、高潮の危険性が高まります。<br>気圧による吸い上げ効果と、風による吹き寄せ効果により、海面が大きく上昇する見通しです。今後、レベル4高潮危険警報が発表される可能性もあります。<br>weathernews.jp/news/202607/...]]></content:encoded>
+    </item>
+    <item>
+      <title>VIEW Japan encourages GPIF to boost domestic investment reut…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbejrptkk2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mqbejrptkk2e</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:43 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[VIEW Japan encourages GPIF to boost domestic investment reut.rs/4ycSia3]]></description>
+      <content:encoded><![CDATA[VIEW Japan encourages GPIF to boost domestic investment reut.rs/4ycSia3]]></content:encoded>
+    </item>
+    <item>
+      <title>遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定 www.nikkei.com/article/DGXZ…</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbej5xvug2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mqbej5xvug2c</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:23 GMT</pubDate>
       <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[「トヨタカレンダー」半世紀ぶり刷新に着手<br>www.nikkei.com/article/DGXZQO...<br><br>これまでは祝日に稼働し、代わりに大型連休を長くしていました。<br><br>トヨタの労働組合はGWの平日を稼働日にすることで、他の月での3連休創出を目指します。<br><br>共働きや子育て世帯が増えるなか、他業種とカレンダーを合わせられるよう改善します。]]></description>
-      <content:encoded><![CDATA[「トヨタカレンダー」半世紀ぶり刷新に着手<br>www.nikkei.com/article/DGXZQO...<br><br>これまでは祝日に稼働し、代わりに大型連休を長くしていました。<br><br>トヨタの労働組合はGWの平日を稼働日にすることで、他の月での3連休創出を目指します。<br><br>共働きや子育て世帯が増えるなか、他業種とカレンダーを合わせられるよう改善します。]]></content:encoded>
+      <description><![CDATA[遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定<br>www.nikkei.com/article/DGXZQO...<br><br>児童の母親は遠足前、担任教師に「お金を持たせるので、水筒のお茶が無くなったらお茶を買い与えてほしい」と伝えていました。<br><br>現金の持参に否定的だった担任は当日「お金はだめです」と拒否。<br><br>地裁判決では水分補給の機会は十分に確保されていたと判断しましたが、責任を巡る争いは高裁で続いています。]]></description>
+      <content:encoded><![CDATA[遠足中に「お茶買えず」、帰宅した児童が熱中症　公立小側は責任否定<br>www.nikkei.com/article/DGXZQO...<br><br>児童の母親は遠足前、担任教師に「お金を持たせるので、水筒のお茶が無くなったらお茶を買い与えてほしい」と伝えていました。<br><br>現金の持参に否定的だった担任は当日「お金はだめです」と拒否。<br><br>地裁判決では水分補給の機会は十分に確保されていたと判断しましたが、責任を巡る争いは高裁で続いています。]]></content:encoded>
     </item>
     <item>
-      <title>#🔖エンタメ 原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナポリタンを作るのが押井守…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqavg24xyv2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqavg24xyv2e</guid>
-      <pubDate>Fri, 10 Jul 2026 00:30:11 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖エンタメ<br>原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナポリタンを作るのが押井守、塩おむすびを作るのが宮崎駿<br><br>原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナポリタンを作るのが押井守、塩おむすびを作るのが宮崎駿]]></description>
-      <content:encoded><![CDATA[#🔖エンタメ<br>原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナポリタンを作るのが押井守、塩おむすびを作るのが宮崎駿<br><br>原作クラッシャーアニメ監督の最高峰は押井守ではなく宮崎駿…ボロネーゼを作らせてナポリタンを作るのが押井守、塩おむすびを作るのが宮崎駿]]></content:encoded>
-    </item>
-    <item>
-      <title>The cluster of rural communities in Mexico now under siege h…</title>
-      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqavc6a6w62f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqavc6a6w62f</guid>
-      <pubDate>Fri, 10 Jul 2026 00:28:02 GMT</pubDate>
+      <title>The White House fired the leadership of the federal agency t…</title>
+      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqbeiqo5sx2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mqbeiqo5sx2m</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:09 GMT</pubDate>
       <author>CNN (@cnn.com)</author>
-      <description><![CDATA[The cluster of rural communities in Mexico now under siege had spent weeks warning law enforcement in the state of Guerrero of mounting threats by the encroaching cartel. But their calls for help went unheeded as World Cup celebrations engulfed major cities. https://cnn.it/4eSW4hh
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreifr5j5oh4vwm6n2udq3gns43zl7npr6rc4daiybqohe6exkpkum2a" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The cluster of rural communities in Mexico now under siege had spent weeks warning law enforcement in the state of Guerrero of mounting threats by the encroaching cartel. But their calls for help went unheeded as World Cup celebrations engulfed major cities. https://cnn.it/4eSW4hh
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreifr5j5oh4vwm6n2udq3gns43zl7npr6rc4daiybqohe6exkpkum2a" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreifr5j5oh4vwm6n2udq3gns43zl7npr6rc4daiybqohe6exkpkum2a" type="image/jpeg" length="0"/>
+      <description><![CDATA[The White House fired the leadership of the federal agency that provides funding and security guidance to election officials, according to sources familiar with the matter and an email reviewed by CNN. https://cnn.it/4wxwZhE
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreidor6xaj4uoyyhxaunfrp7dpurqpsnznndptgiapolmh62klomdxu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The White House fired the leadership of the federal agency that provides funding and security guidance to election officials, according to sources familiar with the matter and an email reviewed by CNN. https://cnn.it/4wxwZhE
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreidor6xaj4uoyyhxaunfrp7dpurqpsnznndptgiapolmh62klomdxu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreidor6xaj4uoyyhxaunfrp7dpurqpsnznndptgiapolmh62klomdxu" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>#🔖学び 「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシー…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqav533emk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqav533emk2g</guid>
-      <pubDate>Fri, 10 Jul 2026 00:25:10 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖学び<br>「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシールにきらきらキャンパスライフを打ち砕かれた… 美大に入ったら弱肉強食だった話<br><br>「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシールにきらきらキャンパスライフを打ち砕かれた… 美大に入ったら弱肉強食だった話]]></description>
-      <content:encoded><![CDATA[#🔖学び<br>「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシールにきらきらキャンパスライフを打ち砕かれた… 美大に入ったら弱肉強食だった話<br><br>「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシールにきらきらキャンパスライフを打ち砕かれた… 美大に入ったら弱肉強食だった話]]></content:encoded>
+      <title>【NATO首脳会議の土産に実弾付き拳銃】 トルコの首都アンカラで8日まで開かれた北大西洋条約機構（NATO）首脳会議の土…</title>
+      <link>https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mqbeirmqd727</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mqbeirmqd727</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:08 GMT</pubDate>
+      <author>産経ニュース (@sankei.com)</author>
+      <description><![CDATA[【NATO首脳会議の土産に実弾付き拳銃】<br>トルコの首都アンカラで8日まで開かれた北大西洋条約機構（NATO）首脳会議の土産として、エルドアン大統領が各国首脳に実弾付きの回転式拳銃を贈っていたことが分かった。銃の規制のため持ち込めない国もあり、各国は対応に苦慮している。ロイター通信が報じた。<br>外務省などによると、高市早苗首相の代理で出席した茂木敏充外相と小泉進次郎防衛相には拳銃は贈られなかった。]]></description>
+      <content:encoded><![CDATA[【NATO首脳会議の土産に実弾付き拳銃】<br>トルコの首都アンカラで8日まで開かれた北大西洋条約機構（NATO）首脳会議の土産として、エルドアン大統領が各国首脳に実弾付きの回転式拳銃を贈っていたことが分かった。銃の規制のため持ち込めない国もあり、各国は対応に苦慮している。ロイター通信が報じた。<br>外務省などによると、高市早苗首相の代理で出席した茂木敏充外相と小泉進次郎防衛相には拳銃は贈られなかった。]]></content:encoded>
     </item>
     <item>
-      <title>Palm Beach International Airport in Florida is now President…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqav4wkb3f2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mqav4wkb3f2g</guid>
-      <pubDate>Fri, 10 Jul 2026 00:25:06 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[Palm Beach International Airport in Florida is now President Donald J. Trump International Airport. The name change, approved earlier this year, took effect on Thursday, the Federal Aviation Administration said. nyti.ms/4viSm5l
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreibmz2xevh3bhmq2vxhbbucc3axvra6b2oc4b6g3g6piyqsmthgzla" alt="A large sign over a road bears an official-looking eagle seal and a message that says, “Welcome to President Donald J. Trump International Airport.” A headline reads: Palm Beach Airport in Florida Is Renamed for Trump. Photo by Saul Martinez/Associated Press." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Palm Beach International Airport in Florida is now President Donald J. Trump International Airport. The name change, approved earlier this year, took effect on Thursday, the Federal Aviation Administration said. nyti.ms/4viSm5l
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreibmz2xevh3bhmq2vxhbbucc3axvra6b2oc4b6g3g6piyqsmthgzla" alt="A large sign over a road bears an official-looking eagle seal and a message that says, “Welcome to President Donald J. Trump International Airport.” A headline reads: Palm Beach Airport in Florida Is Renamed for Trump. Photo by Saul Martinez/Associated Press." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreibmz2xevh3bhmq2vxhbbucc3axvra6b2oc4b6g3g6piyqsmthgzla" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>6月企業物価指数 前年同月比7.1％上昇 伸び率は5月から拡大 https://news.web.nhk/newsweb…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqav3abvka2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqav3abvka2u</guid>
-      <pubDate>Fri, 10 Jul 2026 00:24:07 GMT</pubDate>
+      <title>北朝鮮 党中央軍事委員会の拡大会議 核戦力の質・量の強化決定 https://news.web.nhk/newsweb/…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbeimxaew22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbeimxaew22</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:03 GMT</pubDate>
       <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[6月企業物価指数 前年同月比7.1％上昇 伸び率は5月から拡大<br>https://news.web.nhk/newsweb/na/na-k10015173361000]]></description>
-      <content:encoded><![CDATA[6月企業物価指数 前年同月比7.1％上昇 伸び率は5月から拡大<br>https://news.web.nhk/newsweb/na/na-k10015173361000]]></content:encoded>
+      <description><![CDATA[北朝鮮 党中央軍事委員会の拡大会議 核戦力の質・量の強化決定<br>https://news.web.nhk/newsweb/na/na-k10015173571000]]></description>
+      <content:encoded><![CDATA[北朝鮮 党中央軍事委員会の拡大会議 核戦力の質・量の強化決定<br>https://news.web.nhk/newsweb/na/na-k10015173571000]]></content:encoded>
     </item>
     <item>
-      <title>学び直しへきめ細かな環境整備を 政府 男女共同参画白書 https://news.web.nhk/newsweb/na/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqav33ywlt2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqav33ywlt2v</guid>
-      <pubDate>Fri, 10 Jul 2026 00:24:02 GMT</pubDate>
+      <title>‘It would be weird not to show the sex’: Kit Connor and Joe …</title>
+      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbedcaarb2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mqbedcaarb2m</guid>
+      <pubDate>Fri, 10 Jul 2026 04:57:06 GMT</pubDate>
+      <author>The Guardian (@theguardian.com)</author>
+      <description><![CDATA[‘It would be weird not to show the sex’: Kit Connor and Joe Locke on Heartstopper’s queer teen curtain call]]></description>
+      <content:encoded><![CDATA[‘It would be weird not to show the sex’: Kit Connor and Joe Locke on Heartstopper’s queer teen curtain call]]></content:encoded>
+    </item>
+    <item>
+      <title>「防災庁」設置法案 参院特別委員会で可決 今国会で成立へ https://news.web.nhk/newsweb/na…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbe5zn3gw22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbe5zn3gw22</guid>
+      <pubDate>Fri, 10 Jul 2026 04:54:07 GMT</pubDate>
       <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[学び直しへきめ細かな環境整備を 政府 男女共同参画白書<br>https://news.web.nhk/newsweb/na/na-k10015173351000]]></description>
-      <content:encoded><![CDATA[学び直しへきめ細かな環境整備を 政府 男女共同参画白書<br>https://news.web.nhk/newsweb/na/na-k10015173351000]]></content:encoded>
+      <description><![CDATA[「防災庁」設置法案 参院特別委員会で可決 今国会で成立へ<br>https://news.web.nhk/newsweb/na/na-k10015173581000]]></description>
+      <content:encoded><![CDATA[「防災庁」設置法案 参院特別委員会で可決 今国会で成立へ<br>https://news.web.nhk/newsweb/na/na-k10015173581000]]></content:encoded>
     </item>
     <item>
-      <title>皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqauuulcsg2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqauuulcsg2t</guid>
-      <pubDate>Fri, 10 Jul 2026 00:20:35 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に]]></description>
-      <content:encoded><![CDATA[皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に]]></content:encoded>
-    </item>
-    <item>
-      <title>東京株式　10日09時15分　</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurdgeoo2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurdgeoo2t</guid>
-      <pubDate>Fri, 10 Jul 2026 00:18:37 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[東京株式　10日09時15分　]]></description>
-      <content:encoded><![CDATA[東京株式　10日09時15分　]]></content:encoded>
-    </item>
-    <item>
-      <title>皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurbub672i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurbub672i</guid>
-      <pubDate>Fri, 10 Jul 2026 00:18:35 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に]]></description>
-      <content:encoded><![CDATA[皇室典範改正案、衆院通過へ 女性皇族の身分保持と養子焦点に]]></content:encoded>
-    </item>
-    <item>
-      <title>6月企業物価7.1％上昇 中東混乱で伸び率拡大</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurbbkmd23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mqaurbbkmd23</guid>
-      <pubDate>Fri, 10 Jul 2026 00:18:34 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[6月企業物価7.1％上昇 中東混乱で伸び率拡大]]></description>
-      <content:encoded><![CDATA[6月企業物価7.1％上昇 中東混乱で伸び率拡大]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖世の中 台湾、中国の「権威主義的拡張主義」に警告 世界が行動起こさなければ継続  【7月9日 AFP】台湾安全会議…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqauldn56a2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqauldn56a2r</guid>
-      <pubDate>Fri, 10 Jul 2026 00:15:15 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖世の中<br>台湾、中国の「権威主義的拡張主義」に警告 世界が行動起こさなければ継続<br><br>【7月9日 AFP】台湾安全会議の李問副秘書長は8日、周辺海域における中国の「権威主義（独裁主義）的拡張主義」について、世界が行動を起こさなければ継続するだけだと警告し、中国政府の戦略を一度に大きな目標を達成しようとせず、サラミを薄くスライスするように小さな要求や行動を段階的に積み重ねることで、相手に気...]]></description>
-      <content:encoded><![CDATA[#🔖世の中<br>台湾、中国の「権威主義的拡張主義」に警告 世界が行動起こさなければ継続<br><br>【7月9日 AFP】台湾安全会議の李問副秘書長は8日、周辺海域における中国の「権威主義（独裁主義）的拡張主義」について、世界が行動を起こさなければ継続するだけだと警告し、中国政府の戦略を一度に大きな目標を達成しようとせず、サラミを薄くスライスするように小さな要求や行動を段階的に積み重ねることで、相手に気...]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖アニメとゲーム 待望され続ける“ローポリもちもちコーギーゲーム”開発者、突然「Steam無料放置ゲーム」を配信しつ…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqaul7ydrz2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqaul7ydrz2k</guid>
-      <pubDate>Fri, 10 Jul 2026 00:15:11 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖アニメとゲーム<br>待望され続ける“ローポリもちもちコーギーゲーム”開発者、突然「Steam無料放置ゲーム」を配信しつつ生存報告。本命完成までもう少しかかるので - AUTOMATON<br><br>開発者のpico labo氏は7月9日、約3年ぶりにXアカウントを更新。同氏が制作していた“コーギーのゲーム”について、制作が続いていることが明らかとなった。あわせて、世界観を同じくする別の放置ゲームを無料で配信開始した。 pico labo氏は2022年9月より、Unreal Engineでのゲーム制作の進捗をXにて共有している。ローポ...]]></description>
-      <content:encoded><![CDATA[#🔖アニメとゲーム<br>待望され続ける“ローポリもちもちコーギーゲーム”開発者、突然「Steam無料放置ゲーム」を配信しつつ生存報告。本命完成までもう少しかかるので - AUTOMATON<br><br>開発者のpico labo氏は7月9日、約3年ぶりにXアカウントを更新。同氏が制作していた“コーギーのゲーム”について、制作が続いていることが明らかとなった。あわせて、世界観を同じくする別の放置ゲームを無料で配信開始した。 pico labo氏は2022年9月より、Unreal Engineでのゲーム制作の進捗をXにて共有している。ローポ...]]></content:encoded>
-    </item>
-    <item>
-      <title>【随時更新】ロシア ウクライナに軍事侵攻（7月10日の動き） https://news.web.nhk/newsweb/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaufnci3w2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqaufnci3w2e</guid>
-      <pubDate>Fri, 10 Jul 2026 00:12:03 GMT</pubDate>
+      <title>大阪地検特捜部の特別公務員暴行陵虐事件 検事が無罪主張 https://news.web.nhk/newsweb/na/…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbe5vocqx2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mqbe5vocqx2y</guid>
+      <pubDate>Fri, 10 Jul 2026 04:54:02 GMT</pubDate>
       <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（7月10日の動き）<br>https://news.web.nhk/newsweb/na/na-k10015140791000]]></description>
-      <content:encoded><![CDATA[【随時更新】ロシア ウクライナに軍事侵攻（7月10日の動き）<br>https://news.web.nhk/newsweb/na/na-k10015140791000]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖暮らし ドンキ、総重量500g超の“背徳感”弁当「衝撃の一食」新メニュー  </title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqauceckgs2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqauceckgs2w</guid>
-      <pubDate>Fri, 10 Jul 2026 00:10:14 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖暮らし<br>ドンキ、総重量500g超の“背徳感”弁当「衝撃の一食」新メニュー<br><br>]]></description>
-      <content:encoded><![CDATA[#🔖暮らし<br>ドンキ、総重量500g超の“背徳感”弁当「衝撃の一食」新メニュー<br><br>]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖政治と経済 【分析】トランプ氏はいかにイランへの判断ミスを重ねてきたか  トルコで開催されたNATO首脳会議で、メ…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqaucaqow22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mqaucaqow22w</guid>
-      <pubDate>Fri, 10 Jul 2026 00:10:10 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖政治と経済<br>【分析】トランプ氏はいかにイランへの判断ミスを重ねてきたか<br><br>トルコで開催されたNATO首脳会議で、メディアへの対応に臨むトランプ米大統領/Umit Bektas/Reuters （CNN） トランプ米大統領は先月16日、イランの指導者らを「非常に合理的な人たち」と呼び、「つきあいやすい相手」と評価した。さらには「過激化していない」指導部だとも断言した。 ところが今月8日にはほぼ正反対の見...]]></description>
-      <content:encoded><![CDATA[#🔖政治と経済<br>【分析】トランプ氏はいかにイランへの判断ミスを重ねてきたか<br><br>トルコで開催されたNATO首脳会議で、メディアへの対応に臨むトランプ米大統領/Umit Bektas/Reuters （CNN） トランプ米大統領は先月16日、イランの指導者らを「非常に合理的な人たち」と呼び、「つきあいやすい相手」と評価した。さらには「過激化していない」指導部だとも断言した。 ところが今月8日にはほぼ正反対の見...]]></content:encoded>
+      <description><![CDATA[大阪地検特捜部の特別公務員暴行陵虐事件 検事が無罪主張<br>https://news.web.nhk/newsweb/na/na-k10015173071000]]></description>
+      <content:encoded><![CDATA[大阪地検特捜部の特別公務員暴行陵虐事件 検事が無罪主張<br>https://news.web.nhk/newsweb/na/na-k10015173071000]]></content:encoded>
     </item>
   </channel>
 </rss>

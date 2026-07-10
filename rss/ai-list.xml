@@ -5,8 +5,110 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 01:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:48:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   PostgresをRustで再実装するプロジェクト「pgrust」は、PostgreSQL …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbgybfpby2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbgybfpby2t</guid>
+      <pubDate>Fri, 10 Jul 2026 05:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PostgresをRustで再実装するプロジェクト「pgrust」は、PostgreSQL 18.3互換を目指し、46,000件以上の回帰クエリで期待出力と一致することを確認しています。現状はまだ本番運用に向けて準備中で、パフォーマンス最適化や一般的な拡張機能（PL/Pythonなど）との完全互換性は未達です。Dockerやソースからのビルド手順、データディレクトリからの起動方法、回帰テストの実行方法が公開されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PostgresをRustで再実装するプロジェクト「pgrust」は、PostgreSQL 18.3互換を目指し、46,000件以上の回帰クエリで期待出力と一致することを確認しています。現状はまだ本番運用に向けて準備中で、パフォーマンス最適化や一般的な拡張機能（PL/Pythonなど）との完全互換性は未達です。Dockerやソースからのビルド手順、データディレクトリからの起動方法、回帰テストの実行方法が公開されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Rustで書き直されたPostgresは、現在、Postgresの回帰テストをすべてクリアしている。 Postgres …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbgxzxp2k23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbgxzxp2k23</guid>
+      <pubDate>Fri, 10 Jul 2026 05:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Rustで書き直されたPostgresは、現在、Postgresの回帰テストをすべてクリアしている。<br>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests<br><br>🔺 510<br>💬 59<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Rustで書き直されたPostgresは、現在、Postgresの回帰テストをすべてクリアしている。<br>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests<br><br>🔺 510<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ドメイン駆動設計のよくある誤解  🔖 156 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqbfxin3ry2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqbfxin3ry2y</guid>
+      <pubDate>Fri, 10 Jul 2026 05:26:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ドメイン駆動設計のよくある誤解<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ドメイン駆動設計のよくある誤解<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Fable 5 released 1 month ago today</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbezgdma427</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbezgdma427</guid>
+      <pubDate>Fri, 10 Jul 2026 04:46:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Fable 5 released 1 month ago today
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbzo6q4r3az2m3ifr3ca23psfc7xlu3t7bhsrte2k2hcmeylkspu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Fable 5 released 1 month ago today
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbzo6q4r3az2m3ifr3ca23psfc7xlu3t7bhsrte2k2hcmeylkspu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbzo6q4r3az2m3ifr3ca23psfc7xlu3t7bhsrte2k2hcmeylkspu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Video: https://twitter.com/theo/status/2075439348267577790 (…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbdg5ujr72i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbdg5ujr72i</guid>
+      <pubDate>Fri, 10 Jul 2026 04:37:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Video: https://twitter.com/theo/status/2075439348267577790 (2/2)]]></description>
+      <content:encoded><![CDATA[Video: https://twitter.com/theo/status/2075439348267577790 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Over the last month, I burned over $200k in tokens with gpt-…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbdg2tlnf22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbdg2tlnf22</guid>
+      <pubDate>Fri, 10 Jul 2026 04:37:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Over the last month, I burned over $200k in tokens with gpt-5.6-sol. I built a lot.<br><br>Instead of just reacting to the benchmarks, news, tweets, etc, I went a different route. This video is an overview of all the cool shit I built using the new model.<br><br>Proper review coming soon™ (1/2)]]></description>
+      <content:encoded><![CDATA[Over the last month, I burned over $200k in tokens with gpt-5.6-sol. I built a lot.<br><br>Instead of just reacting to the benchmarks, news, tweets, etc, I went a different route. This video is an overview of all the cool shit I built using the new model.<br><br>Proper review coming soon™ (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Read this on stream earlier. Big mistake. I&apos;ve never been so…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbclmgh342q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqbclmgh342q</guid>
+      <pubDate>Fri, 10 Jul 2026 04:24:18 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Read this on stream earlier. Big mistake. I've never been so pissed off on camera.<br><br>I cannot fathom how anyone could publish an article like this. Andrew is a petty, evil man, and you should not trust any software he writes.<br><br>QT: https://twitter.com/i/status/2075278549997777258]]></description>
+      <content:encoded><![CDATA[Read this on stream earlier. Big mistake. I've never been so pissed off on camera.<br><br>I cannot fathom how anyone could publish an article like this. Andrew is a petty, evil man, and you should not trust any software he writes.<br><br>QT: https://twitter.com/i/status/2075278549997777258]]></content:encoded>
+    </item>
+    <item>
+      <title>性能はキャッシュとストレージの速度次第で大きく左右されます。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbabu3a4z2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbabu3a4z2w</guid>
+      <pubDate>Fri, 10 Jul 2026 03:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[性能はキャッシュとストレージの速度次第で大きく左右されます。 (2/2)]]></description>
+      <content:encoded><![CDATA[性能はキャッシュとストレージの速度次第で大きく左右されます。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Colibrì は、RAM 約9.9GBの密集部分と、ディスク上にある約370GBの75 M…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbabtxb5o2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbabtxb5o2t</guid>
+      <pubDate>Fri, 10 Jul 2026 03:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Colibrì は、RAM 約9.9GBの密集部分と、ディスク上にある約370GBの75 MoE 256エキスパートを組み合わせて、純粋なC実装でGLM-5.2 744B MoEモデルをストリーミング再生するエンジンです。MTP推測デコードやint4/int8/KV圧縮などを駆使し、ディスク読み込みで動作する設計にもかかわらず、低コストなハードウェア（例: 12コアPC、25GB RAM、NVMe）で動作することを目指しています。セットアップはモデルをダウンロードして変換・チャットを行う一連のコマンドで完結し、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Colibrì は、RAM 約9.9GBの密集部分と、ディスク上にある約370GBの75 MoE 256エキスパートを組み合わせて、純粋なC実装でGLM-5.2 744B MoEモデルをストリーミング再生するエンジンです。MTP推測デコードやint4/int8/KV圧縮などを駆使し、ディスク読み込みで動作する設計にもかかわらず、低コストなハードウェア（例: 12コアPC、25GB RAM、NVMe）で動作することを目指しています。セットアップはモデルをダウンロードして変換・チャットを行う一連のコマンドで完結し、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Show HN: 私の低スペックなPCで GLM 5.2 を動かす Show HN: Getting GLM 5.2 r…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbablpugy2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqbablpugy2b</guid>
+      <pubDate>Fri, 10 Jul 2026 03:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Show HN: 私の低スペックなPCで GLM 5.2 を動かす<br>Show HN: Getting GLM 5.2 running on my slow computer<br><br>🔺 444<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Show HN: 私の低スペックなPCで GLM 5.2 を動かす<br>Show HN: Getting GLM 5.2 running on my slow computer<br><br>🔺 444<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>こんにちは Hy3  🔺 386 💬 21 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqazl74jm62u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqazl74jm62u</guid>
+      <pubDate>Fri, 10 Jul 2026 01:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[こんにちは<br>Hy3<br><br>🔺 386<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[こんにちは<br>Hy3<br><br>🔺 386<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Live nerds https://x.com/i/broadcasts/1yKAPPYzQDgxb  Link: h…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqauatmr6d2p</link>
@@ -372,105 +474,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートの不具合を修正したJinjaテンプレートを提供することを目的としています。<br>レンダリングエラー、KVキャッシュの無効化、トークンの浪費、エージェント動作時の停止などの問題を解決し、LM Studioやllama.cpp、vLLM、MLXなどの多様な推論エンジンで安定して動作させます。<br>特にツール呼び出し時のループや停止といった致命的な問題を修正しています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートの不具合を修正したJinjaテンプレートを提供することを目的としています。<br>レンダリングエラー、KVキャッシュの無効化、トークンの浪費、エージェント動作時の停止などの問題を解決し、LM Studioやllama.cpp、vLLM、MLXなどの多様な推論エンジンで安定して動作させます。<br>特にツール呼び出し時のループや停止といった致命的な問題を修正しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  AliesTaha/fable-traces 短い会話形式の応答に特化した軽量な…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o5ffzlq2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o5ffzlq2h</guid>
-      <pubDate>Thu, 09 Jul 2026 12:47:26 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>AliesTaha/fable-traces<br>短い会話形式の応答に特化した軽量な言語モデルとして提示されていますが、実際にはジョークであり、実在するモデルではありません。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>AliesTaha/fable-traces<br>短い会話形式の応答に特化した軽量な言語モデルとして提示されていますが、実際にはジョークであり、実在するモデルではありません。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  google/tabfm-1.0.0-pytorch Google Resear…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o35cplz2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o35cplz2x</guid>
-      <pubDate>Thu, 09 Jul 2026 12:46:10 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを公開するリポジトリです。<br>数値とカテゴリカルな列が混在するテーブルデータに対し、ファインチューニングやハイパーパラメータ探索なしで分類および回帰タスクを実行できます。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを公開するリポジトリです。<br>数値とカテゴリカルな列が混在するテーブルデータに対し、ファインチューニングやハイパーパラメータ探索なしで分類および回帰タスクを実行できます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR Baiduが開発したUnlimited …</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o2mkocy2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o2mkocy2x</guid>
-      <pubDate>Thu, 09 Jul 2026 12:45:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited OCRというモデルのリポジトリです。<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析を目的としており、ワンショットでの長大な解析を実現します。<br>Huggingfaceのtransformersを利用して推論が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited OCRというモデルのリポジトリです。<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析を目的としており、ワンショットでの長大な解析を実現します。<br>Huggingfaceのtransformersを利用して推論が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期的なタスク向けに開発された…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o23a63l2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mq7o23a63l2x</guid>
-      <pubDate>Thu, 09 Jul 2026 12:45:34 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラッグシップモデルです。<br>100万トークンのコンテキストウィンドウをサポートし、前バージョンのGLM-5.1から能力が大幅に向上しています。<br>推論、コーディング、エージェント機能などの性能強化が目的です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラッグシップモデルです。<br>100万トークンのコンテキストウィンドウをサポートし、前バージョンのGLM-5.1から能力が大幅に向上しています。<br>推論、コーディング、エージェント機能などの性能強化が目的です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A curated collection of DESIGN.md files extrac…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfx7aub2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfx7aub2x</guid>
-      <pubDate>Thu, 09 Jul 2026 12:16:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A curated collection of DESIGN.md files extracted from public websites, enabling AI agents to generate UI that matches diverse design languages. It explains DESIGN.md, lists dozens of design excerpts across categories, and provides guidance on usage, contribution, and licensing.]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A curated collection of DESIGN.md files extracted from public websites, enabling AI agents to generate UI that matches diverse design languages. It explains DESIGN.md, lists dozens of design excerpts across categories, and provides guidance on usage, contribution, and licensing.]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 VoltAgent / awesome-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfu2axk2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mq7mfu2axk2s</guid>
-      <pubDate>Thu, 09 Jul 2026 12:16:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 99,032 (+1,569)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 99,032 (+1,569)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kngfc7p23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kngfc7p23</guid>
-      <pubDate>Thu, 09 Jul 2026 11:44:49 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く就業シミュレーション。FIREで自由を得るか、サイドプロジェクト→YC→EXITの起業家ルート、L10到達で機械化、人間がAIに置き換えられる可能性までを描く。日々の「同じ運命のタイムライン」を比較する形式のビジュアルノベル風コンテンツ。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- 22歳の若手がMetaphaseから年収190kで入り、人生を「旅」や「機械」として描く就業シミュレーション。FIREで自由を得るか、サイドプロジェクト→YC→EXITの起業家ルート、L10到達で機械化、人間がAIに置き換えられる可能性までを描く。日々の「同じ運命のタイムライン」を比較する形式のビジュアルノベル風コンテンツ。]]></content:encoded>
-    </item>
-    <item>
-      <title>FAANGシミュレーター FAANG Simulator  🔺 432 💬 66 🔗 HN Post | Arti…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kn4quxj2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7kn4quxj2b</guid>
-      <pubDate>Thu, 09 Jul 2026 11:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[FAANGシミュレーター<br>FAANG Simulator<br><br>🔺 432<br>💬 66<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[FAANGシミュレーター<br>FAANG Simulator<br><br>🔺 432<br>💬 66<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwjxf7o2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwjxf7o2v</guid>
-      <pubDate>Thu, 09 Jul 2026 09:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示できる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>フォルダやZIPをアップロードしてサイトを公開し、HTML/CSS/JSをその場でライブ表示できる。]]></content:encoded>
-    </item>
-    <item>
-      <title>クラウドフレア・ドロップ Cloudflare Drop  🔺 432 💬 62 🔗 HN Post | Arti…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwe4pnr22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mq7dwe4pnr22</guid>
-      <pubDate>Thu, 09 Jul 2026 09:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[クラウドフレア・ドロップ<br>Cloudflare Drop<br><br>🔺 432<br>💬 62<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[クラウドフレア・ドロップ<br>Cloudflare Drop<br><br>🔺 432<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog  🔖 159 ブックマーク…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq77khnvze2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mq77khnvze2y</guid>
-      <pubDate>Thu, 09 Jul 2026 08:26:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
