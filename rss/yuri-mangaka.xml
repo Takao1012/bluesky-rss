@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 23:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 01:25:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>暑すぎる</title>
+      <link>https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mqau4ho6vs2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mqau4ho6vs2f</guid>
+      <pubDate>Fri, 10 Jul 2026 00:06:57 GMT</pubDate>
+      <author>ゆあま (@yuam7523.bsky.social)</author>
+      <description><![CDATA[暑すぎる]]></description>
+      <content:encoded><![CDATA[暑すぎる]]></content:encoded>
+    </item>
     <item>
       <title>滞ってた事務連絡もろもろまとめて終わらせたぞ！ヨシ！</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqal5nmdu22c</link>
@@ -474,15 +483,6 @@
       <content:encoded><![CDATA[お花🌸塗ってる✏️<br>完成したらXfolio記事更新したいです
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreibnvfay46zgkpebzex43b5k5cbbguun4ldlfna6bse4bq6znsahxy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreibnvfay46zgkpebzex43b5k5cbbguun4ldlfna6bse4bq6znsahxy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>明日の配信枠作ったぞ～い</title>
-      <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mpzvmwbul22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mpzvmwbul22o</guid>
-      <pubDate>Tue, 07 Jul 2026 05:45:25 GMT</pubDate>
-      <author>なうち｜きららFW『君が一等星に光るまで』連載中🦢✨ (@nowre.bsky.social)</author>
-      <description><![CDATA[明日の配信枠作ったぞ～い]]></description>
-      <content:encoded><![CDATA[明日の配信枠作ったぞ～い]]></content:encoded>
     </item>
   </channel>
 </rss>
