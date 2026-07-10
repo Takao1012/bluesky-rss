@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 22:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 23:44:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 chriskohlhoff / asio ⭐ 6,032 (+87) 🗒 C++  Asio C++ Libra…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdbqmuat32s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdbqmuat32s</guid>
+      <pubDate>Fri, 10 Jul 2026 23:16:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 chriskohlhoff / asio<br>⭐ 6,032 (+87)<br>🗒 C++<br><br>Asio C++ Library]]></description>
+      <content:encoded><![CDATA[📦 chriskohlhoff / asio<br>⭐ 6,032 (+87)<br>🗒 C++<br><br>Asio C++ Library]]></content:encoded>
+    </item>
     <item>
       <title>📦 tailscale / tailscale ⭐ 33,455 (+66) 🗒 Go  The easiest, …</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqd6fi7j6p2s</link>
@@ -485,18 +494,6 @@ And maybe you shouldn't. Like, there's an incredible argument for, nope, you sho
       <content:encoded><![CDATA[Truly unbelievable. A lot of people showed how horrible they are today. I understand why so many non-devs hate our industry.<br><br>https://x.com/chiefscientist/status/2075440121093193808?s=46
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicrvuttgptt75epfdoky43pu7rd53litbgqqg6y574av6oavlptie" alt="Quote Tweet: https://x.com/chiefscientist/status/2075440121093193808?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicrvuttgptt75epfdoky43pu7rd53litbgqqg6y574av6oavlptie" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I’d say the same about this type of person but thankfully th…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqc4j5i24c2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqc4j5i24c2c</guid>
-      <pubDate>Fri, 10 Jul 2026 12:06:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I’d say the same about this type of person but thankfully they can’t get jobs<br><br>https://x.com/chiefscientist/status/2075444251945521402?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiblt5yx6ane7oarghu6dspiw5ei2wmudi3fs2vcmovwrg7ga3rwme" alt="Quote Tweet: https://x.com/chiefscientist/status/2075444251945521402?s=46" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I’d say the same about this type of person but thankfully they can’t get jobs<br><br>https://x.com/chiefscientist/status/2075444251945521402?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiblt5yx6ane7oarghu6dspiw5ei2wmudi3fs2vcmovwrg7ga3rwme" alt="Quote Tweet: https://x.com/chiefscientist/status/2075444251945521402?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiblt5yx6ane7oarghu6dspiw5ei2wmudi3fs2vcmovwrg7ga3rwme" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
