@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:40:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  meituan-longcat/LongCat-2.0 1.6兆パラメータを持つ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejjavmya2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejjavmya2x</guid>
+      <pubDate>Sat, 11 Jul 2026 11:07:54 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>meituan-longcat/LongCat-2.0<br>1.6兆パラメータを持つ大規模MoE言語モデルLongCat-2.0の開発。<br>100万トークンの長文コンテキスト対応とLongCat Sparse Attentionの導入により、コーディングやエージェントタスク、リポジトリレベルの編集における性能向上と、開発者の効率的な共同作業の実現を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meituan-longcat/LongCat-2.0<br>1.6兆パラメータを持つ大規模MoE言語モデルLongCat-2.0の開発。<br>100万トークンの長文コンテキスト対応とLongCat Sparse Attentionの導入により、コーディングやエージェントタスク、リポジトリレベルの編集における性能向上と、開発者の効率的な共同作業の実現を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  google/tabfm-1.0.0-pytorch Google Resear…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejikhapm2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejikhapm2x</guid>
+      <pubDate>Sat, 11 Jul 2026 11:07:30 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを提供します。<br>数値列とカテゴリ列が混在する表形式データに対し、ファインチューニングやハイパーパラメータ探索を必要とせず、分類と回帰を行うことを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを提供します。<br>数値列とカテゴリ列が混在する表形式データに対し、ファインチューニングやハイパーパラメータ探索を必要とせず、分類と回帰を行うことを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  froggeric/Qwen-Fixed-Chat-Templates Qwen…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejhzxe6r2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejhzxe6r2h</guid>
+      <pubDate>Sat, 11 Jul 2026 11:07:13 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を修正したJinjaテンプレートを提供します。<br>LM Studio、llama.cpp、vLLMなど、HuggingFaceのJinjaテンプレートに対応した多様な推論エンジンで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を修正したJinjaテンプレートを提供します。<br>LM Studio、llama.cpp、vLLMなど、HuggingFaceのJinjaテンプレートに対応した多様な推論エンジンで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR Baiduが開発したUnlimited-…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejdj74sk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejdj74sk2w</guid>
+      <pubDate>Sat, 11 Jul 2026 11:04:41 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルのリポジトリです。<br>画像やPDFからのテキスト抽出およびドキュメント解析を目的としており、特に長大なドキュメントを効率的に解析するワンショット・ロングホライゾン解析を実現しています。<br>Hugging Faceのtransformersライブラリを利用して推論を行うことができます。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルのリポジトリです。<br>画像やPDFからのテキスト抽出およびドキュメント解析を目的としており、特に長大なドキュメントを効率的に解析するワンショット・ロングホライゾン解析を実現しています。<br>Hugging Faceのtransformersライブラリを利用して推論を行うことができます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 長期タスク向け最新フラグシップモデルGLM-5.…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejczcztx2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejczcztx2l</guid>
+      <pubDate>Sat, 11 Jul 2026 11:04:24 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>長期タスク向け最新フラグシップモデルGLM-5.2の提供を目的としています。<br>100万トークンのコンテキストウィンドウに対応し、前モデルより長期タスクの遂行能力を大幅に向上させています。<br>推論やコーディングなどの分野で高い性能を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>長期タスク向け最新フラグシップモデルGLM-5.2の提供を目的としています。<br>100万トークンのコンテキストウィンドウに対応し、前モデルより長期タスクの遂行能力を大幅に向上させています。<br>推論やコーディングなどの分野で高い性能を実現しています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>人間が保守しやすいようにコードを書け。 Write code like a human will maintain it…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqeetyinnn2b</link>
@@ -449,57 +494,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 163,955 (+1,728)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .claude directory.]]></description>
       <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 163,955 (+1,728)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .claude directory.]]></content:encoded>
-    </item>
-    <item>
-      <title>There is likely going to be mass revolt around software devs…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqcy6inyqz2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqcy6inyqz2i</guid>
-      <pubDate>Fri, 10 Jul 2026 19:51:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[There is likely going to be mass revolt around software devs due to the amount of software churn in the AI era.<br><br>We can stop this. We’re probably won’t though.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiezt5gcmj5fm77isqmtwmnqslh42j5tw5ncqu4h4c4nskhyx3iyia" alt="Quote Tweet: https://twitter.com/i/status/2075034703946534924" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[There is likely going to be mass revolt around software devs due to the amount of software churn in the AI era.<br><br>We can stop this. We’re probably won’t though.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiezt5gcmj5fm77isqmtwmnqslh42j5tw5ncqu4h4c4nskhyx3iyia" alt="Quote Tweet: https://twitter.com/i/status/2075034703946534924" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiezt5gcmj5fm77isqmtwmnqslh42j5tw5ncqu4h4c4nskhyx3iyia" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   ウェールズ出身の歌手 Bonnie Tyler（本名 Gaynor Hopkins）は、「T…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqcvwhe4tu2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqcvwhe4tu2t</guid>
-      <pubDate>Fri, 10 Jul 2026 19:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ウェールズ出身の歌手 Bonnie Tyler（本名 Gaynor Hopkins）は、「Total Eclipse of the Heart」で世界的な名声を得たグラブルな声の歌手で、50年間のキャリアを築いた。2023年に手術後の回復が報じられた後も闘病を続け、75歳で死去した。彼女はロック志向とヒット曲の数々で英国出身アーティストとして米国での1位を獲得するなど、多くのヒットと栄誉を手にした。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ウェールズ出身の歌手 Bonnie Tyler（本名 Gaynor Hopkins）は、「Total Eclipse of the Heart」で世界的な名声を得たグラブルな声の歌手で、50年間のキャリアを築いた。2023年に手術後の回復が報じられた後も闘病を続け、75歳で死去した。彼女はロック志向とヒット曲の数々で英国出身アーティストとして米国での1位を獲得するなど、多くのヒットと栄誉を手にした。]]></content:encoded>
-    </item>
-    <item>
-      <title>ボニー・タイラーさんが亡くなりました。 Bonnie Tyler has died  🔺 336 💬 32 🔗 H…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqcvwb2ofc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqcvwb2ofc23</guid>
-      <pubDate>Fri, 10 Jul 2026 19:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ボニー・タイラーさんが亡くなりました。<br>Bonnie Tyler has died<br><br>🔺 336<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ボニー・タイラーさんが亡くなりました。<br>Bonnie Tyler has died<br><br>🔺 336<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I love Sol but you definitely should keep it on a leash. It’…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqcy66idlr2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqcy66idlr2i</guid>
-      <pubDate>Fri, 10 Jul 2026 19:42:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I love Sol but you definitely should keep it on a leash. It’s a bit too willing to do anything to complete its work
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic7k3hctrfpokib6fcnst5b6mgn4rohns45enwua37gf55ktkiah4" alt="Quote Tweet: https://twitter.com/i/status/2075657271401390161" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I love Sol but you definitely should keep it on a leash. It’s a bit too willing to do anything to complete its work
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic7k3hctrfpokib6fcnst5b6mgn4rohns45enwua37gf55ktkiah4" alt="Quote Tweet: https://twitter.com/i/status/2075657271401390161" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic7k3hctrfpokib6fcnst5b6mgn4rohns45enwua37gf55ktkiah4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I don&apos;t think that&apos;s something that most people will be able…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqcvgmi6r22p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqcvgmi6r22p</guid>
-      <pubDate>Fri, 10 Jul 2026 19:35:51 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I don't think that's something that most people will be able to pull off, even more so right now with the RAM crisis]]></description>
-      <content:encoded><![CDATA[I don't think that's something that most people will be able to pull off, even more so right now with the RAM crisis]]></content:encoded>
     </item>
   </channel>
 </rss>
