@@ -5,8 +5,116 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:40:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:44:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 やさしいループエンジニアリング入門 | ドクセル  🔖 159 ブックマーク 💬 コメント 🔗 記事リ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqenvpshqt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqenvpshqt24</guid>
+      <pubDate>Sat, 11 Jul 2026 12:26:27 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 やさしいループエンジニアリング入門 | ドクセル<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 やさしいループエンジニアリング入門 | ドクセル<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>The Codex app is dead, and I am unhappy about it.   Video: h…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqeonczi352p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqeonczi352p</guid>
+      <pubDate>Sat, 11 Jul 2026 12:22:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[The Codex app is dead, and I am unhappy about it. <br><br>Video: https://twitter.com/theo/status/2075918526511186292]]></description>
+      <content:encoded><![CDATA[The Codex app is dead, and I am unhappy about it. <br><br>Video: https://twitter.com/theo/status/2075918526511186292]]></content:encoded>
+    </item>
+    <item>
+      <title>build/run instructions, a browser demo, and ongoing developm…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendrqms62s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendrqms62s</guid>
+      <pubDate>Sat, 11 Jul 2026 12:16:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[build/run instructions, a browser demo, and ongoing development updates. (2/2)]]></description>
+      <content:encoded><![CDATA[build/run instructions, a browser demo, and ongoing development updates. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   pgrust is a Rust-based rewrite of PostgreSQL a…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendrpfdu2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendrpfdu2n</guid>
+      <pubDate>Sat, 11 Jul 2026 12:16:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>pgrust is a Rust-based rewrite of PostgreSQL aimed at compatibility with Postgres 18.3, matching its regression test output across 46k+ queries, with ongoing work to improve multi-threading, performance, and architecture while stating it’s not production-ready yet. It includes (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>pgrust is a Rust-based rewrite of PostgreSQL aimed at compatibility with Postgres 18.3, matching its regression test output across 46k+ queries, with ongoing work to improve multi-threading, performance, and architecture while stating it’s not production-ready yet. It includes (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 malisper / pgrust ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendowdxn2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqendowdxn2x</guid>
+      <pubDate>Sat, 11 Jul 2026 12:16:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 malisper / pgrust<br>⭐ 1,745 (+789)<br>🗒 Rust<br><br>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 malisper / pgrust<br>⭐ 1,745 (+789)<br>🗒 Rust<br><br>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  zeux/meshoptimizer GPUによる三角形メッシュのレンダリング効率を向上さ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem4kzjbo2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem4kzjbo2l</guid>
+      <pubDate>Sat, 11 Jul 2026 11:54:29 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>zeux/meshoptimizer<br>GPUによる三角形メッシュのレンダリング効率を向上させるためのライブラリです。<br>頂点やインデックスデータの最適化アルゴリズムを提供し、メッシュの複雑さやストレージ負荷の軽減を目的としています。<br>C/C++をベースに、RustやJavaScriptからも利用可能です。<br>また、glTF最適化ツールのgltfpackやLODを実現するclusterlod.hなどのツールも提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>zeux/meshoptimizer<br>GPUによる三角形メッシュのレンダリング効率を向上させるためのライブラリです。<br>頂点やインデックスデータの最適化アルゴリズムを提供し、メッシュの複雑さやストレージ負荷の軽減を目的としています。<br>C/C++をベースに、RustやJavaScriptからも利用可能です。<br>また、glTF最適化ツールのgltfpackやLODを実現するclusterlod.hなどのツールも提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  hashicorp/terraform インフラを安全かつ効率的に構築、変更、バージョン管…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem3qmvww2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem3qmvww2v</guid>
+      <pubDate>Sat, 11 Jul 2026 11:54:02 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>hashicorp/terraform<br>インフラを安全かつ効率的に構築、変更、バージョン管理するためのツールであるTerraformの提供を目的としています。<br>本リポジトリには、CLIとメインのグラフエンジンを含むTerraformコアが含まれており、普及しているサービスプロバイダーや独自のソリューションを管理することが可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>hashicorp/terraform<br>インフラを安全かつ効率的に構築、変更、バージョン管理するためのツールであるTerraformの提供を目的としています。<br>本リポジトリには、CLIとメインのグラフエンジンを含むTerraformコアが含まれており、普及しているサービスプロバイダーや独自のソリューションを管理することが可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  google-labs-code/stitch-skills Google Stitch向…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem2w2ssw22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem2w2ssw22</guid>
+      <pubDate>Sat, 11 Jul 2026 11:53:34 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>google-labs-code/stitch-skills<br>Google Stitch向けのエージェントスキルとプラグインのコレクションです。<br>Agent Skillsオープン標準に準拠しており、Codex、Claude Code、Cursor、Gemini CLIなどのコーディングエージェントでの利用を目的としています。<br>設計や構築、ユーティリティなどの機能を提供します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>google-labs-code/stitch-skills<br>Google Stitch向けのエージェントスキルとプラグインのコレクションです。<br>Agent Skillsオープン標準に準拠しており、Codex、Claude Code、Cursor、Gemini CLIなどのコーディングエージェントでの利用を目的としています。<br>設計や構築、ユーティリティなどの機能を提供します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  davila7/claude-code-templates Claude Code向けに、…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem2ictqw2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqem2ictqw2y</guid>
+      <pubDate>Sat, 11 Jul 2026 11:53:19 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>davila7/claude-code-templates<br>Claude Code向けに、すぐに利用可能な設定テンプレートを提供することを目的としています。<br>コンポーネントの探索やコレクションの管理などが可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>davila7/claude-code-templates<br>Claude Code向けに、すぐに利用可能な設定テンプレートを提供することを目的としています。<br>コンポーネントの探索やコレクションの管理などが可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  catchorg/Catch2 Catch2はC++向けのユニットテストフレームワークです…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqelzhsft32x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqelzhsft32x</guid>
+      <pubDate>Sat, 11 Jul 2026 11:52:45 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>catchorg/Catch2<br>Catch2はC++向けのユニットテストフレームワークです。<br>マイクロベンチマーク機能やBDDマクロも提供しています。<br>シンプルで自然な記述が可能であり、テスト名の柔軟な指定、C++論理式のようなアサーション、セットアップとクリーンアップを効率化するセクション機能が特徴です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>catchorg/Catch2<br>Catch2はC++向けのユニットテストフレームワークです。<br>マイクロベンチマーク機能やBDDマクロも提供しています。<br>シンプルで自然な記述が可能であり、テスト名の柔軟な指定、C++論理式のようなアサーション、セットアップとクリーンアップを効率化するセクション機能が特徴です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ダン・インテリスティングの創設者アラン・ベローズが、AIの台頭や不安定な雇用環境を背景に、サ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkumizc2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkumizc2b</guid>
+      <pubDate>Sat, 11 Jul 2026 11:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ダン・インテリスティングの創設者アラン・ベローズが、AIの台頭や不安定な雇用環境を背景に、サイト存続のための一時的なクラウドファンディングを試みる告知記事。目的は、過去の part-time 給与水準を取り戻し、今後12か月間サイト運営と執筆に集中できる資金を得ること。クラウドファンディングはGoFundMeを通じて実施され、Give a Damn の月次支援とは別枠の試みとして案内されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ダン・インテリスティングの創設者アラン・ベローズが、AIの台頭や不安定な雇用環境を背景に、サイト存続のための一時的なクラウドファンディングを試みる告知記事。目的は、過去の part-time 給与水準を取り戻し、今後12か月間サイト運営と執筆に集中できる資金を得ること。クラウドファンディングはGoFundMeを通じて実施され、Give a Damn の月次支援とは別枠の試みとして案内されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Damn Interesting の未来像 A possible future for Damn Interesting…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkkw4fk2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkkw4fk2b</guid>
+      <pubDate>Sat, 11 Jul 2026 11:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Damn Interesting の未来像<br>A possible future for Damn Interesting<br><br>🔺 315<br>💬 13<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Damn Interesting の未来像<br>A possible future for Damn Interesting<br><br>🔺 315<br>💬 13<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>今日のHuggingFaceトレンド  meituan-longcat/LongCat-2.0 1.6兆パラメータを持つ…</title>
       <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejjavmya2x</link>
@@ -386,114 +494,6 @@
       <content:encoded><![CDATA[If you set gpt-5.6-sol to "ultra", all the subagents it spawns will also be set to ultra.<br><br>IMO this is a fumble. Causes massive token burn for no good reason. At the very least, I should be able to hard-set the subagent effort level to "medium".<br><br>Claude Code is far ahead here
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreie2tinaui56ld7gdugao6hyu5awcokwuqtj6co7p5o7ckggaeqv7y" alt="Quote Tweet: https://twitter.com/i/status/2075445272013095033" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreie2tinaui56ld7gdugao6hyu5awcokwuqtj6co7p5o7ckggaeqv7y" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita  🔖 155 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqdfo6w6hu2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqdfo6w6hu2t</guid>
-      <pubDate>Sat, 11 Jul 2026 00:26:25 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 abseil / abseil-cpp ⭐ 17,469 (+3) 🗒 C++  Abseil Common L…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdf4aowdc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdf4aowdc2o</guid>
-      <pubDate>Sat, 11 Jul 2026 00:16:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 abseil / abseil-cpp<br>⭐ 17,469 (+3)<br>🗒 C++<br><br>Abseil Common Libraries (C++)]]></description>
-      <content:encoded><![CDATA[📦 abseil / abseil-cpp<br>⭐ 17,469 (+3)<br>🗒 C++<br><br>Abseil Common Libraries (C++)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ニューヨーク市は、解約が難しい自動更新型のサブスクや“ジャンク料金”を禁止する新ルールを発表…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdddkpgcn22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdddkpgcn22</guid>
-      <pubDate>Fri, 10 Jul 2026 23:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ニューヨーク市は、解約が難しい自動更新型のサブスクや“ジャンク料金”を禁止する新ルールを発表し、10月1日から施行される。違反には1人あたり525ドルの罰金や追加費用、総費用の表示義務などが科され、消費者保護を強化する構えだ。市は住宅市場にも影響を及ぼす可能性があるジャンク料金の全面的な開示を求め、広範な価格透明化を進める方針で公聴会を開催する予定。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ニューヨーク市は、解約が難しい自動更新型のサブスクや“ジャンク料金”を禁止する新ルールを発表し、10月1日から施行される。違反には1人あたり525ドルの罰金や追加費用、総費用の表示義務などが科され、消費者保護を強化する構えだ。市は住宅市場にも影響を及ぼす可能性があるジャンク料金の全面的な開示を求め、広範な価格透明化を進める方針で公聴会を開催する予定。]]></content:encoded>
-    </item>
-    <item>
-      <title>ニューヨーク市、欺瞞的な定期購読の慣行を禁止へ New York City to to ban deceptive su…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdddehfsu23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdddehfsu23</guid>
-      <pubDate>Fri, 10 Jul 2026 23:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ニューヨーク市、欺瞞的な定期購読の慣行を禁止へ<br>New York City to to ban deceptive subscription practices<br><br>🔺 348<br>💬 38<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ニューヨーク市、欺瞞的な定期購読の慣行を禁止へ<br>New York City to to ban deceptive subscription practices<br><br>🔺 348<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 chriskohlhoff / asio ⭐ 6,032 (+87) 🗒 C++  Asio C++ Libra…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdbqmuat32s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqdbqmuat32s</guid>
-      <pubDate>Fri, 10 Jul 2026 23:16:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 chriskohlhoff / asio<br>⭐ 6,032 (+87)<br>🗒 C++<br><br>Asio C++ Library]]></description>
-      <content:encoded><![CDATA[📦 chriskohlhoff / asio<br>⭐ 6,032 (+87)<br>🗒 C++<br><br>Asio C++ Library]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 tailscale / tailscale ⭐ 33,455 (+66) 🗒 Go  The easiest, …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqd6fi7j6p2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqd6fi7j6p2s</guid>
-      <pubDate>Fri, 10 Jul 2026 22:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 tailscale / tailscale<br>⭐ 33,455 (+66)<br>🗒 Go<br><br>The easiest, most secure way to use WireGuard and 2FA.]]></description>
-      <content:encoded><![CDATA[📦 tailscale / tailscale<br>⭐ 33,455 (+66)<br>🗒 Go<br><br>The easiest, most secure way to use WireGuard and 2FA.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   QuadRFはラズベリーパイ5とFPGAを組み合わせた手持ちサイズのフェーズドアレイ無線機で…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqd4mzlfjs2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqd4mzlfjs2t</guid>
-      <pubDate>Fri, 10 Jul 2026 21:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>QuadRFはラズベリーパイ5とFPGAを組み合わせた手持ちサイズのフェーズドアレイ無線機で、4.9–6 GHz帯のRF信号を高精度に処理・ビームフォーミング可能。WiFiを含む無線環境の可視化・解析ができ、モバイル拴張パックで屋外使用も想定、MIPI経由で低遅延I/Qストリーミングを実現する点が特徴。なお、UIは未成熟だが実用性が高く、クラウドファンディング段階でも関心が高まっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>QuadRFはラズベリーパイ5とFPGAを組み合わせた手持ちサイズのフェーズドアレイ無線機で、4.9–6 GHz帯のRF信号を高精度に処理・ビームフォーミング可能。WiFiを含む無線環境の可視化・解析ができ、モバイル拴張パックで屋外使用も想定、MIPI経由で低遅延I/Qストリーミングを実現する点が特徴。なお、UIは未成熟だが実用性が高く、クラウドファンディング段階でも関心が高まっている。]]></content:encoded>
-    </item>
-    <item>
-      <title>QuadRFはドローンを検出でき、壁を通してWiFi信号を検知できる。 QuadRF can spot drones a…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqd4mtymqd2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqd4mtymqd2t</guid>
-      <pubDate>Fri, 10 Jul 2026 21:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[QuadRFはドローンを検出でき、壁を通してWiFi信号を検知できる。<br>QuadRF can spot drones and see WiFi through my wall<br><br>🔺 360<br>💬 24<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[QuadRFはドローンを検出でき、壁を通してWiFi信号を検知できる。<br>QuadRF can spot drones and see WiFi through my wall<br><br>🔺 360<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 vercel / next.js ⭐ 140,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqd323dhvp2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqd323dhvp2y</guid>
-      <pubDate>Fri, 10 Jul 2026 21:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 vercel / next.js<br>⭐ 140,578 (+176)<br>🗒 JavaScript<br><br>The React Framework]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 vercel / next.js<br>⭐ 140,578 (+176)<br>🗒 JavaScript<br><br>The React Framework]]></content:encoded>
-    </item>
-    <item>
-      <title>to-be-used skills for codebase improvement, testing, and pro…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxri2lmi2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxri2lmi2e</guid>
-      <pubDate>Fri, 10 Jul 2026 20:17:38 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[to-be-used skills for codebase improvement, testing, and project documentation. (2/2)]]></description>
-      <content:encoded><![CDATA[to-be-used skills for codebase improvement, testing, and project documentation. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A concise overview of Matt Pocock’s “Skills Fo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxrbzksg2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxrbzksg2y</guid>
-      <pubDate>Fri, 10 Jul 2026 20:17:32 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A concise overview of Matt Pocock’s “Skills For Real Engineers,” detailing a modular, composer-friendly set of user- and model-invoked AI engineering skills designed to improve alignment, reduce verbosity, and enforce robust feedback loops, with quickstart steps and a roadmap of (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A concise overview of Matt Pocock’s “Skills For Real Engineers,” detailing a modular, composer-friendly set of user- and model-invoked AI engineering skills designed to improve alignment, reduce verbosity, and enforce robust feedback loops, with quickstart steps and a roadmap of (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 mattpocock / skills …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxplo2uk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcxplo2uk2w</guid>
-      <pubDate>Fri, 10 Jul 2026 20:16:32 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 163,955 (+1,728)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .claude directory.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 163,955 (+1,728)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .claude directory.]]></content:encoded>
     </item>
   </channel>
 </rss>
