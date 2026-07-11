@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:36:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Many schools rely on consumer fees funneled through the fede…</title>
+      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqfm6g5afg24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqfm6g5afg24</guid>
+      <pubDate>Sat, 11 Jul 2026 21:28:11 GMT</pubDate>
+      <author>NPR (@npr.org)</author>
+      <description><![CDATA[Many schools rely on consumer fees funneled through the federal government to cut internet costs. FCC Chairman Brendan Carr called for ending this program before Donald Trump tapped him for the job.]]></description>
+      <content:encoded><![CDATA[Many schools rely on consumer fees funneled through the federal government to cut internet costs. FCC Chairman Brendan Carr called for ending this program before Donald Trump tapped him for the job.]]></content:encoded>
+    </item>
     <item>
       <title>If an undergraduate program&apos;s graduates don&apos;t earn more than…</title>
       <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqfio5wfhv26</link>
@@ -484,15 +493,6 @@
       <author>NPR (@npr.org)</author>
       <description><![CDATA[Gas prices have fluctuated since the U.S. and Israel launched a war on Iran, which disrupted shipping through the Strait of Hormuz and left consumers unsure of what they'll pay at the pump.]]></description>
       <content:encoded><![CDATA[Gas prices have fluctuated since the U.S. and Israel launched a war on Iran, which disrupted shipping through the Strait of Hormuz and left consumers unsure of what they'll pay at the pump.]]></content:encoded>
-    </item>
-    <item>
-      <title>The four biggest U.S. airlines control roughly three-quarter…</title>
-      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqemjrxjbe26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqemjrxjbe26</guid>
-      <pubDate>Sat, 11 Jul 2026 12:01:53 GMT</pubDate>
-      <author>NPR (@npr.org)</author>
-      <description><![CDATA[The four biggest U.S. airlines control roughly three-quarters of the market. Industry critics say consolidation is bad for passengers, but airlines say there's still healthy competition.]]></description>
-      <content:encoded><![CDATA[The four biggest U.S. airlines control roughly three-quarters of the market. Industry critics say consolidation is bad for passengers, but airlines say there's still healthy competition.]]></content:encoded>
     </item>
   </channel>
 </rss>

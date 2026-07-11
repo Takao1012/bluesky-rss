@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:36:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 dotnet / aspnetcore ⭐ 38,268 (+69) 🗒 C#  ASP.NET Core is…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqflj7aq2l2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqflj7aq2l2n</guid>
+      <pubDate>Sat, 11 Jul 2026 21:16:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 dotnet / aspnetcore<br>⭐ 38,268 (+69)<br>🗒 C#<br><br>ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.]]></description>
+      <content:encoded><![CDATA[📦 dotnet / aspnetcore<br>⭐ 38,268 (+69)<br>🗒 C#<br><br>ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 microsoft / PowerToys ⭐…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqfi5qlqlz2j</link>
@@ -455,15 +464,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[gpt-5.6-sol is meaningfully better in Claude Code than in Codex<br><br>I'm going to crash out so badly over this]]></description>
       <content:encoded><![CDATA[gpt-5.6-sol is meaningfully better in Claude Code than in Codex<br><br>I'm going to crash out so badly over this]]></content:encoded>
-    </item>
-    <item>
-      <title>(The July 12th cutoff is still probably happening, but it wo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqdos3dyx424</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqdos3dyx424</guid>
-      <pubDate>Sat, 11 Jul 2026 02:50:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[(The July 12th cutoff is still probably happening, but it would be insane for them to go through with it)]]></description>
-      <content:encoded><![CDATA[(The July 12th cutoff is still probably happening, but it would be insane for them to go through with it)]]></content:encoded>
     </item>
   </channel>
 </rss>
