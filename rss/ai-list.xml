@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 16:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:43:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 nasa / fprime ⭐ 11,406 …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqf63tog7p2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqf63tog7p2l</guid>
+      <pubDate>Sat, 11 Jul 2026 17:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 nasa / fprime<br>⭐ 11,406 (+100)<br>🗒 C++<br><br>F´ - A flight software and embedded systems framework]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 nasa / fprime<br>⭐ 11,406 (+100)<br>🗒 C++<br><br>F´ - A flight software and embedded systems framework]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AI企業は人間より賢いAIの開発を競っているが、著者らは2040年まで開発を遅らせ、研究を公…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqeyxxlqs72h</link>
@@ -464,18 +473,6 @@
       <content:encoded><![CDATA[To the person trying to community note me:<br><br>Manually defining roles in your config files (that require a full reset of Codex btw) is NOT a reasonable expectation or alternative to true dynamic workflows. (1/2)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihg4q7mxab4ryn2kt75oe6s62il7is6ymm6b5p6rk3u7xj65soe3y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihg4q7mxab4ryn2kt75oe6s62il7is6ymm6b5p6rk3u7xj65soe3y" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Trying something real quick (look closely at the top)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqdkms7joz2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqdkms7joz2s</guid>
-      <pubDate>Sat, 11 Jul 2026 01:42:29 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Trying something real quick (look closely at the top)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiabw4syn4x4raoocs6mzfn3pmuvpoixazcdn4u6h2qj34wy7jfjzm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Trying something real quick (look closely at the top)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiabw4syn4x4raoocs6mzfn3pmuvpoixazcdn4u6h2qj34wy7jfjzm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiabw4syn4x4raoocs6mzfn3pmuvpoixazcdn4u6h2qj34wy7jfjzm" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
