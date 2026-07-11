@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 04:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:02:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   良いツールとは使っている本人が意識しなくなる invisibility が理想であり、ツール…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdxgsrcol2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdxgsrcol2b</guid>
+      <pubDate>Sat, 11 Jul 2026 05:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>良いツールとは使っている本人が意識しなくなる invisibility が理想であり、ツールの欠点を「遊び」や「パズル」として語る風潮は批判すべきだ、という主張。テキストエディタやGUI/TUIの議論を通じて、実用性と生産性を最優先し、デフォルトの良さと使いやすさを設計者が約束すべきだと結論づける。結局、最良の道具は背景に溶け込み、信念やアイデンティティを道具に結びつけるのではなく、作業を進めるのを妨げないものだと述べられている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>良いツールとは使っている本人が意識しなくなる invisibility が理想であり、ツールの欠点を「遊び」や「パズル」として語る風潮は批判すべきだ、という主張。テキストエディタやGUI/TUIの議論を通じて、実用性と生産性を最優先し、デフォルトの良さと使いやすさを設計者が約束すべきだと結論づける。結局、最良の道具は背景に溶け込み、信念やアイデンティティを道具に結びつけるのではなく、作業を進めるのを妨げないものだと述べられている。]]></content:encoded>
+    </item>
+    <item>
+      <title>良い道具は見えない。 Good Tools Are Invisible  🔺 389 💬 81 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdxgng6232t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqdxgng6232t</guid>
+      <pubDate>Sat, 11 Jul 2026 05:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[良い道具は見えない。<br>Good Tools Are Invisible<br><br>🔺 389<br>💬 81<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[良い道具は見えない。<br>Good Tools Are Invisible<br><br>🔺 389<br>💬 81<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>gg</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqdttubycy2p</link>
@@ -490,24 +508,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 zeux / meshoptimizer ⭐ 7,968 (+86) 🗒 C++  Mesh optimizat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcqyffbnt2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqcqyffbnt2o</guid>
-      <pubDate>Fri, 10 Jul 2026 18:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 zeux / meshoptimizer<br>⭐ 7,968 (+86)<br>🗒 C++<br><br>Mesh optimization library that makes meshes smaller and faster to render]]></description>
-      <content:encoded><![CDATA[📦 zeux / meshoptimizer<br>⭐ 7,968 (+86)<br>🗒 C++<br><br>Mesh optimization library that makes meshes smaller and faster to render]]></content:encoded>
-    </item>
-    <item>
-      <title>They actually talk about that argument in the full episode -…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqcq2xevb22p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqcq2xevb22p</guid>
-      <pubDate>Fri, 10 Jul 2026 17:59:51 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[They actually talk about that argument in the full episode - search for "veteran" in the YouTube transcript]]></description>
-      <content:encoded><![CDATA[They actually talk about that argument in the full episode - search for "veteran" in the YouTube transcript]]></content:encoded>
     </item>
   </channel>
 </rss>
