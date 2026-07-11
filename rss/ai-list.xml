@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:38:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 microsoft / PowerToys ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqfi5qlqlz2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqfi5qlqlz2j</guid>
+      <pubDate>Sat, 11 Jul 2026 20:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / PowerToys<br>⭐ 136,319 (+130)<br>🗒 C<br><br>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / PowerToys<br>⭐ 136,319 (+130)<br>🗒 C<br><br>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   リクエストの過剰な送信によりブロックされました。しばらく待ってから再度試してください。</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqfgexjqbf22</link>
@@ -455,15 +464,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[(The July 12th cutoff is still probably happening, but it would be insane for them to go through with it)]]></description>
       <content:encoded><![CDATA[(The July 12th cutoff is still probably happening, but it would be insane for them to go through with it)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer  🔖 157 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqdmelmk572q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqdmelmk572q</guid>
-      <pubDate>Sat, 11 Jul 2026 02:26:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
