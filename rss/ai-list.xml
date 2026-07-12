@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 22:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:39:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita  🔖 159 ブッ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqidaou7742y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqidaou7742y</guid>
+      <pubDate>Sun, 12 Jul 2026 23:26:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>through local operation and provides build instructions and …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqicoqftfw2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqicoqftfw2s</guid>
+      <pubDate>Sun, 12 Jul 2026 23:16:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[through local operation and provides build instructions and warnings against third-party executables. (2/2)]]></description>
+      <content:encoded><![CDATA[through local operation and provides build instructions and warnings against third-party executables. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   WandEnhancer is an open-source, locally-run in…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqicoqekdj2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqicoqekdj2b</guid>
+      <pubDate>Sun, 12 Jul 2026 23:16:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>WandEnhancer is an open-source, locally-run interoperability tool that modifies the Wand client’s local settings for improved UX, including a remote web panel and user-script customization, with no official binaries distributed (build from source/fork). It emphasizes security (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>WandEnhancer is an open-source, locally-run interoperability tool that modifies the Wand client’s local settings for improved UX, including a remote web panel and user-script customization, with no official binaries distributed (build from source/fork). It emphasizes security (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 k1tbyte / Wand-Enhan…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqiconnfpp2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqiconnfpp2o</guid>
+      <pubDate>Sun, 12 Jul 2026 23:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 k1tbyte / Wand-Enhancer<br>⭐ 6,545 (+661)<br>🗒 C#<br><br>Advanced UX and interoperability extension for Wand (WeMod) app]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 k1tbyte / Wand-Enhancer<br>⭐ 6,545 (+661)<br>🗒 C#<br><br>Advanced UX and interoperability extension for Wand (WeMod) app]]></content:encoded>
+    </item>
     <item>
       <title>Live nerds https://x.com/i/broadcasts/1OxwbborjroJB  Link: h…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqi7s5if342q</link>
@@ -432,42 +468,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質とスタイルを維持したまま、思考トークン量を削減することを目的としています。<br>平均で50%以上のトークン削減を実現し、推論効率を向上させています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質とスタイルを維持したまま、思考トークン量を削減することを目的としています。<br>平均で50%以上のトークン削減を実現し、推論効率を向上させています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  InternScience/Agents-A1 Agents-A1はIntern…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqh22c4g432l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqh22c4g432l</guid>
-      <pubDate>Sun, 12 Jul 2026 11:09:05 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>Agents-A1はInternScienceが開発した35BのMoEエージェントモデルです。<br>長期的探索、エンジニアリング、科学研究、指示遂行、ツール利用などの多様な領域において、1兆パラメータ規模の性能を実現することを目的としています。<br>本リポジトリでは、Hugging Face Transformersなどのライブラリで利用可能なモデル重みと設定ファイルを提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>InternScience/Agents-A1<br>Agents-A1はInternScienceが開発した35BのMoEエージェントモデルです。<br>長期的探索、エンジニアリング、科学研究、指示遂行、ツール利用などの多様な領域において、1兆パラメータ規模の性能を実現することを目的としています。<br>本リポジトリでは、Hugging Face Transformersなどのライブラリで利用可能なモデル重みと設定ファイルを提供しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqgzzqi6k22s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqgzzqi6k22s</guid>
-      <pubDate>Sun, 12 Jul 2026 11:08:46 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Empero AIが開発した推論モデルQwythos-9B-Claude-Mythos-5-1MのGGUF量子化版を提供するためのリポジトリです。<br>llama.cpp、Ollama、LM StudioなどのGGUF対応ランタイムで利用することを目的としています。<br>ベースモデルは高い推論性能と100万トークンのコンテキストウィンドウを備えています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Empero AIが開発した推論モデルQwythos-9B-Claude-Mythos-5-1MのGGUF量子化版を提供するためのリポジトリです。<br>llama.cpp、Ollama、LM StudioなどのGGUF対応ランタイムで利用することを目的としています。<br>ベースモデルは高い推論性能と100万トークンのコンテキストウィンドウを備えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  tencent/Hy3 Tencent Hy Teamが開発した295Bパラメー…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqgzy2mvzx2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqgzy2mvzx2s</guid>
-      <pubDate>Sun, 12 Jul 2026 11:07:50 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを凌駕し、数倍のパラメータを持つフラッグシップ級のオープンソースモデルに匹敵する性能を実現しています。<br>エージェント能力や生産性タスクにおける有用性を高めており、高性能なテキスト生成を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy3<br>Tencent Hy Teamが開発した295BパラメータのMoEモデルHy3を提供するためのリポジトリです。<br>同規模のモデルを凌駕し、数倍のパラメータを持つフラッグシップ級のオープンソースモデルに匹敵する性能を実現しています。<br>エージェント能力や生産性タスクにおける有用性を高めており、高性能なテキスト生成を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>これらの事実は具体的な wire 情報と再現手順で裏付けられている。 (5/5)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgvddkndk2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgvddkndk2v</guid>
-      <pubDate>Sun, 12 Jul 2026 09:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[これらの事実は具体的な wire 情報と再現手順で裏付けられている。 (5/5)]]></description>
-      <content:encoded><![CDATA[これらの事実は具体的な wire 情報と再現手順で裏付けられている。 (5/5)]]></content:encoded>
     </item>
   </channel>
 </rss>
