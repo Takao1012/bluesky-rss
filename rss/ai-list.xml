@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 05:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:52:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   SQLiteの「STRICTテーブル」は、列のデータ型を厳密に遵守させる機能で、整数列に文字…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomo3ttq2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomo3ttq2b</guid>
+      <pubDate>Sun, 12 Jul 2026 07:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>SQLiteの「STRICTテーブル」は、列のデータ型を厳密に遵守させる機能で、整数列に文字列を挿入するなどの型不整合を防ぎます。新規作成時に列定義の末尾に STRICT を付けるだけで有効になり、不適切なデータ型を許容する非STRICTと対照的です。ただし、既存テーブルのSTRICT化は容易でなく、古いSQLiteでは読めない場合があり、導入には検討が必要です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>SQLiteの「STRICTテーブル」は、列のデータ型を厳密に遵守させる機能で、整数列に文字列を挿入するなどの型不整合を防ぎます。新規作成時に列定義の末尾に STRICT を付けるだけで有効になり、不適切なデータ型を許容する非STRICTと対照的です。ただし、既存テーブルのSTRICT化は容易でなく、古いSQLiteでは読めない場合があり、導入には検討が必要です。]]></content:encoded>
+    </item>
+    <item>
+      <title>SQLite では厳格なテーブルを推奨します。 Prefer strict tables in SQLite  🔺 2…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomeozax2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomeozax2v</guid>
+      <pubDate>Sun, 12 Jul 2026 07:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[SQLite では厳格なテーブルを推奨します。<br>Prefer strict tables in SQLite<br><br>🔺 265<br>💬 27<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[SQLite では厳格なテーブルを推奨します。<br>Prefer strict tables in SQLite<br><br>🔺 265<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   1990年代初頭の ILM がまだ小規模だった時期に、ターミネーター2のCG「液体金属」T-…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqghw5tyrg2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqghw5tyrg2b</guid>
+      <pubDate>Sun, 12 Jul 2026 05:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>1990年代初頭の ILM がまだ小規模だった時期に、ターミネーター2のCG「液体金属」T-1000を実現するための技術開発とツール作りの過程を、当時のスタッフたちへのインタビューを通して振り返る。The Abyss での実績を踏まえ、限られたハードウェアとソフトウェアで新しいCG技術を急速に成長させ、ツール開発とチーム運用をどう進化させたかが描かれる。技術者たちは当時の困難とDIY精神、そしてCGと実写の統合に挑む苦労を語っている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>1990年代初頭の ILM がまだ小規模だった時期に、ターミネーター2のCG「液体金属」T-1000を実現するための技術開発とツール作りの過程を、当時のスタッフたちへのインタビューを通して振り返る。The Abyss での実績を踏まえ、限られたハードウェアとソフトウェアで新しいCG技術を急速に成長させ、ツール開発とチーム運用をどう進化させたかが描かれる。技術者たちは当時の困難とDIY精神、そしてCGと実写の統合に挑む苦労を語っている。]]></content:encoded>
+    </item>
+    <item>
+      <title>「『ターミネーター2』の技術 – オーラルヒストリー（2017年）」 The tech of &apos;Terminator 2…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqghvtap4z23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqghvtap4z23</guid>
+      <pubDate>Sun, 12 Jul 2026 05:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[「『ターミネーター2』の技術 – オーラルヒストリー（2017年）」<br>The tech of 'Terminator 2' – an oral history (2017)<br><br>🔺 254<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[「『ターミネーター2』の技術 – オーラルヒストリー（2017年）」<br>The tech of 'Terminator 2' – an oral history (2017)<br><br>🔺 254<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   カリフォルニア州からハワイまでの2,400マイル超をソロで縦断したグランドキャニオンのリバー…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgb7edo3g2b</link>
@@ -420,42 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>ダン・インテリスティングの創設者アラン・ベローズが、AIの台頭や不安定な雇用環境を背景に、サイト存続のための一時的なクラウドファンディングを試みる告知記事。目的は、過去の part-time 給与水準を取り戻し、今後12か月間サイト運営と執筆に集中できる資金を得ること。クラウドファンディングはGoFundMeを通じて実施され、Give a Damn の月次支援とは別枠の試みとして案内されている。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>ダン・インテリスティングの創設者アラン・ベローズが、AIの台頭や不安定な雇用環境を背景に、サイト存続のための一時的なクラウドファンディングを試みる告知記事。目的は、過去の part-time 給与水準を取り戻し、今後12か月間サイト運営と執筆に集中できる資金を得ること。クラウドファンディングはGoFundMeを通じて実施され、Give a Damn の月次支援とは別枠の試みとして案内されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>Damn Interesting の未来像 A possible future for Damn Interesting…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkkw4fk2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqelkkw4fk2b</guid>
-      <pubDate>Sat, 11 Jul 2026 11:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Damn Interesting の未来像<br>A possible future for Damn Interesting<br><br>🔺 315<br>💬 13<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Damn Interesting の未来像<br>A possible future for Damn Interesting<br><br>🔺 315<br>💬 13<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  meituan-longcat/LongCat-2.0 1.6兆パラメータを持つ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejjavmya2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejjavmya2x</guid>
-      <pubDate>Sat, 11 Jul 2026 11:07:54 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>meituan-longcat/LongCat-2.0<br>1.6兆パラメータを持つ大規模MoE言語モデルLongCat-2.0の開発。<br>100万トークンの長文コンテキスト対応とLongCat Sparse Attentionの導入により、コーディングやエージェントタスク、リポジトリレベルの編集における性能向上と、開発者の効率的な共同作業の実現を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meituan-longcat/LongCat-2.0<br>1.6兆パラメータを持つ大規模MoE言語モデルLongCat-2.0の開発。<br>100万トークンの長文コンテキスト対応とLongCat Sparse Attentionの導入により、コーディングやエージェントタスク、リポジトリレベルの編集における性能向上と、開発者の効率的な共同作業の実現を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  google/tabfm-1.0.0-pytorch Google Resear…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejikhapm2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejikhapm2x</guid>
-      <pubDate>Sat, 11 Jul 2026 11:07:30 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを提供します。<br>数値列とカテゴリ列が混在する表形式データに対し、ファインチューニングやハイパーパラメータ探索を必要とせず、分類と回帰を行うことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/tabfm-1.0.0-pytorch<br>Google Researchが開発した、構造化データ向けのゼロショット基盤モデルTabFMのPyTorch版重みを提供します。<br>数値列とカテゴリ列が混在する表形式データに対し、ファインチューニングやハイパーパラメータ探索を必要とせず、分類と回帰を行うことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  froggeric/Qwen-Fixed-Chat-Templates Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejhzxe6r2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqejhzxe6r2h</guid>
-      <pubDate>Sat, 11 Jul 2026 11:07:13 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を修正したJinjaテンプレートを提供します。<br>LM Studio、llama.cpp、vLLMなど、HuggingFaceのJinjaテンプレートに対応した多様な推論エンジンで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けに、公式チャットテンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を修正したJinjaテンプレートを提供します。<br>LM Studio、llama.cpp、vLLMなど、HuggingFaceのJinjaテンプレートに対応した多様な推論エンジンで利用可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>

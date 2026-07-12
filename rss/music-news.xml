@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 05:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:52:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The Apple TV series wraps noir inside science fiction. With …</title>
+      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqgitdnauf2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqgitdnauf2u</guid>
+      <pubDate>Sun, 12 Jul 2026 06:00:58 GMT</pubDate>
+      <author>NPR (@npr.org)</author>
+      <description><![CDATA[The Apple TV series wraps noir inside science fiction. With subtlety and charm, Farrell plays an earnest alien just doing his best as a private eye in Los Angeles.]]></description>
+      <content:encoded><![CDATA[The Apple TV series wraps noir inside science fiction. With subtlety and charm, Farrell plays an earnest alien just doing his best as a private eye in Los Angeles.]]></content:encoded>
+    </item>
     <item>
       <title>Argentina was taken to the brink in its first two knockout g…</title>
       <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mqgbyyaq2u24</link>
@@ -487,15 +496,6 @@
       <author>NPR (@npr.org)</author>
       <description><![CDATA[Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. n.pr/4f9uuem]]></description>
       <content:encoded><![CDATA[Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. n.pr/4f9uuem]]></content:encoded>
-    </item>
-    <item>
-      <title>One album. Two performances. Twenty years apart. We caught u…</title>
-      <link>https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mqexgpwzaf2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mqexgpwzaf2e</guid>
-      <pubDate>Sat, 11 Jul 2026 15:17:01 GMT</pubDate>
-      <author>Bandcamp (@bandcamp.com)</author>
-      <description><![CDATA[One album. Two performances. Twenty years apart. We caught up with Ice Dale ahead of Between Two Worlds' long-awaited return at @fireinthemountains.bsky.social. ]]></description>
-      <content:encoded><![CDATA[One album. Two performances. Twenty years apart. We caught up with Ice Dale ahead of Between Two Worlds' long-awaited return at @fireinthemountains.bsky.social. ]]></content:encoded>
     </item>
   </channel>
 </rss>
