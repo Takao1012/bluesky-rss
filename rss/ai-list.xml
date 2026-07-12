@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 15:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:40:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqhlrdklbn2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqhlrdklbn2t</guid>
+      <pubDate>Sun, 12 Jul 2026 16:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Mesh LLMは、大規模モデルを「他人のGPUを使うデータセンター依存」から解放し、手元の…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqhjgu7yws26</link>
@@ -453,15 +462,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[http://x.com/i/article/2076072720559972352]]></description>
       <content:encoded><![CDATA[http://x.com/i/article/2076072720559972352]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 DayuanJiang / next-ai-draw-io ⭐ 33,168 (+74) 🗒 TypeScrip…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqfoufoj4k2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqfoufoj4k2d</guid>
-      <pubDate>Sat, 11 Jul 2026 22:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 DayuanJiang / next-ai-draw-io<br>⭐ 33,168 (+74)<br>🗒 TypeScript<br><br>A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.]]></description>
-      <content:encoded><![CDATA[📦 DayuanJiang / next-ai-draw-io<br>⭐ 33,168 (+74)<br>🗒 TypeScript<br><br>A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.]]></content:encoded>
     </item>
   </channel>
 </rss>
