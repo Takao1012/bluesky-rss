@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 21:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:34:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>起きれた！！！</title>
+      <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mqi6yetbss2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mqi6yetbss2w</guid>
+      <pubDate>Sun, 12 Jul 2026 22:10:09 GMT</pubDate>
+      <author>なうち｜きららFW『君が一等星に光るまで』連載中🦢✨ (@nowre.bsky.social)</author>
+      <description><![CDATA[起きれた！！！]]></description>
+      <content:encoded><![CDATA[起きれた！！！]]></content:encoded>
+    </item>
     <item>
       <title>今日はずっとお仕事して終わっちゃったけど、少しアナログもやりたいから葉っぱだけちょい塗って寝る</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mqhfqs5mh22n</link>
@@ -482,18 +491,6 @@
       <author>はづき (@haduki456.bsky.social)</author>
       <description><![CDATA[毎年作ってる<br>香川県と石川県の郷土料理らしい<br>www.hotpepper.jp/mesitsu/entr...]]></description>
       <content:encoded><![CDATA[毎年作ってる<br>香川県と石川県の郷土料理らしい<br>www.hotpepper.jp/mesitsu/entr...]]></content:encoded>
-    </item>
-    <item>
-      <title>今年もナスそうめんの季節がやってきた</title>
-      <link>https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mq7yqhaxis2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mq7yqhaxis2s</guid>
-      <pubDate>Thu, 09 Jul 2026 15:57:03 GMT</pubDate>
-      <author>はづき (@haduki456.bsky.social)</author>
-      <description><![CDATA[今年もナスそうめんの季節がやってきた
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sr2bgulnyuzmvaqnlzgqyojf/bafkreig2hf5ifehzlk5pct7qlxv5u36uopuyzdzc6ff75udmasn2jiwq4i" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[今年もナスそうめんの季節がやってきた
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sr2bgulnyuzmvaqnlzgqyojf/bafkreig2hf5ifehzlk5pct7qlxv5u36uopuyzdzc6ff75udmasn2jiwq4i" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sr2bgulnyuzmvaqnlzgqyojf/bafkreig2hf5ifehzlk5pct7qlxv5u36uopuyzdzc6ff75udmasn2jiwq4i" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
