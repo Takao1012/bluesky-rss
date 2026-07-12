@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:36:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 chen08209 / FlClash ⭐ 4…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqi3xwev2y2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqi3xwev2y2o</guid>
+      <pubDate>Sun, 12 Jul 2026 21:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 chen08209 / FlClash<br>⭐ 45,108 (+151)<br>🗒 Dart<br><br>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 chen08209 / FlClash<br>⭐ 45,108 (+151)<br>🗒 Dart<br><br>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   現代のストライプ模様やちらつくLED、密集した視覚情報は脳の視覚皮質に過剰な負荷を与え、頭痛…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqhwtxqije2t</link>
@@ -453,15 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>SQLiteの「STRICTテーブル」は、列のデータ型を厳密に遵守させる機能で、整数列に文字列を挿入するなどの型不整合を防ぎます。新規作成時に列定義の末尾に STRICT を付けるだけで有効になり、不適切なデータ型を許容する非STRICTと対照的です。ただし、既存テーブルのSTRICT化は容易でなく、古いSQLiteでは読めない場合があり、導入には検討が必要です。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>SQLiteの「STRICTテーブル」は、列のデータ型を厳密に遵守させる機能で、整数列に文字列を挿入するなどの型不整合を防ぎます。新規作成時に列定義の末尾に STRICT を付けるだけで有効になり、不適切なデータ型を許容する非STRICTと対照的です。ただし、既存テーブルのSTRICT化は容易でなく、古いSQLiteでは読めない場合があり、導入には検討が必要です。]]></content:encoded>
-    </item>
-    <item>
-      <title>SQLite では厳格なテーブルを推奨します。 Prefer strict tables in SQLite  🔺 2…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomeozax2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqgomeozax2v</guid>
-      <pubDate>Sun, 12 Jul 2026 07:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[SQLite では厳格なテーブルを推奨します。<br>Prefer strict tables in SQLite<br><br>🔺 265<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[SQLite では厳格なテーブルを推奨します。<br>Prefer strict tables in SQLite<br><br>🔺 265<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
