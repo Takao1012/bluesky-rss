@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 05:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:39:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   医師も私たちと同様に死を迎えるが、彼らは自分には過剰な延命治療を望まず、痛みや孤立を避ける終…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqj73kxbhp2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqj73kxbhp2u</guid>
+      <pubDate>Mon, 13 Jul 2026 07:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>医師も私たちと同様に死を迎えるが、彼らは自分には過剰な延命治療を望まず、痛みや孤立を避ける終末期ケアを選ぶ傾向が強い。記事は「治療が無意味になる終末期医療の普遍的な無用性」と、それを避けるための家族・患者・医療システムの課題を、具体的な体験談とともに描く。結局、尊厳ある最期を選ぶべきで、ホスピスケアや事前の意思表示が重要だと訴える。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>医師も私たちと同様に死を迎えるが、彼らは自分には過剰な延命治療を望まず、痛みや孤立を避ける終末期ケアを選ぶ傾向が強い。記事は「治療が無意味になる終末期医療の普遍的な無用性」と、それを避けるための家族・患者・医療システムの課題を、具体的な体験談とともに描く。結局、尊厳ある最期を選ぶべきで、ホスピスケアや事前の意思表示が重要だと訴える。]]></content:encoded>
+    </item>
+    <item>
+      <title>医師はどう死ぬのか。私たちとは違う（2016） How Doctors die. It’s not like the r…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqj73e3cum2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqj73e3cum2i</guid>
+      <pubDate>Mon, 13 Jul 2026 07:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[医師はどう死ぬのか。私たちとは違う（2016）<br>How Doctors die. It’s not like the rest of us (2016)<br><br>🔺 241<br>💬 23<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[医師はどう死ぬのか。私たちとは違う（2016）<br>How Doctors die. It’s not like the rest of us (2016)<br><br>🔺 241<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Tibo has clarified - point 1 is not correct. The tokens over…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqiz26hpzw2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqiz26hpzw2p</guid>
+      <pubDate>Mon, 13 Jul 2026 05:47:17 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Tibo has clarified - point 1 is not correct. The tokens over 272k are not at 2x, it just compounds brutally after a bunch of compactions<br><br>https://x.com/thsottiaux/status/2076543065045795309]]></description>
+      <content:encoded><![CDATA[Tibo has clarified - point 1 is not correct. The tokens over 272k are not at 2x, it just compounds brutally after a bunch of compactions<br><br>https://x.com/thsottiaux/status/2076543065045795309]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Ghostelは Emacs 上で動くターミナルエミュレータで、libghostty-vt …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqiyezjm5z2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqiyezjm5z2u</guid>
+      <pubDate>Mon, 13 Jul 2026 05:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Ghostelは Emacs 上で動くターミナルエミュレータで、libghostty-vt を用いるネイティブモジュールと Elisp による制御層の二層設計を採用しています。Kitty のグラフィック/キーボード機能や OSC 系リンク、カラー機能などをサポートし、Fiveつの入力モード（semi-char、char、Emacs、copy、line）を提供。インストールは自動モジュールダウンロードで初期設定が不要になっており、TRAMP などのリモート環境にも対応します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Ghostelは Emacs 上で動くターミナルエミュレータで、libghostty-vt を用いるネイティブモジュールと Elisp による制御層の二層設計を採用しています。Kitty のグラフィック/キーボード機能や OSC 系リンク、カラー機能などをサポートし、Fiveつの入力モード（semi-char、char、Emacs、copy、line）を提供。インストールは自動モジュールダウンロードで初期設定が不要になっており、TRAMP などのリモート環境にも対応します。]]></content:encoded>
+    </item>
+    <item>
+      <title>Ghostel.el: libghostty によって動作するターミナルエミュレーター Ghostel.el: Term…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqiyeskhyj2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqiyeskhyj2i</guid>
+      <pubDate>Mon, 13 Jul 2026 05:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Ghostel.el: libghostty によって動作するターミナルエミュレーター<br>Ghostel.el: Terminal emulator powered by libghostty<br><br>🔺 270<br>💬 15<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Ghostel.el: libghostty によって動作するターミナルエミュレーター<br>Ghostel.el: Terminal emulator powered by libghostty<br><br>🔺 270<br>💬 15<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>auditing, all configurable and installable via multiple opti…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqiwsg2qzi2e</link>
@@ -431,51 +476,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>著者は1999年ごろから数学の学習・教育のために機械支援を試み、Java Appletを用いた可視化を行ってきた。最近 AI を活用して古いウェブページとブログをモダンなリポジトリに移行し、旧アプレットをJavaScriptへポートして再実用化、さらに新しいアプレットや相対論・Gilbreath予想の可視化などをAIと共に開発した。全体として、LLMを用いたコード生成には数件のバグ発見・修正で品質向上もありつつ、可視化ツールを論文の補足として活用する方向性を示している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>著者は1999年ごろから数学の学習・教育のために機械支援を試み、Java Appletを用いた可視化を行ってきた。最近 AI を活用して古いウェブページとブログをモダンなリポジトリに移行し、旧アプレットをJavaScriptへポートして再実用化、さらに新しいアプレットや相対論・Gilbreath予想の可視化などをAIと共に開発した。全体として、LLMを用いたコード生成には数件のバグ発見・修正で品質向上もありつつ、可視化ツールを論文の補足として活用する方向性を示している。]]></content:encoded>
-    </item>
-    <item>
-      <title>現代のコーディングエージェントを介して古いアプリと新しいアプリ — テリー・タオ著 Old and new apps, …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqhq5j7ums2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqhq5j7ums2l</guid>
-      <pubDate>Sun, 12 Jul 2026 17:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[現代のコーディングエージェントを介して古いアプリと新しいアプリ — テリー・タオ著<br>Old and new apps, via modern coding agents by Terry Tao<br><br>🔺 301<br>💬 24<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[現代のコーディングエージェントを介して古いアプリと新しいアプリ — テリー・タオ著<br>Old and new apps, via modern coding agents by Terry Tao<br><br>🔺 301<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqhp4oeiac24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqhp4oeiac24</guid>
-      <pubDate>Sun, 12 Jul 2026 17:26:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>research and reproducible run cards. (3/3)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokumn7w2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokumn7w2d</guid>
-      <pubDate>Sun, 12 Jul 2026 17:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[research and reproducible run cards. (3/3)]]></description>
-      <content:encoded><![CDATA[research and reproducible run cards. (3/3)]]></content:encoded>
-    </item>
-    <item>
-      <title>API/CLI/UI for memory-backed workflows, swarm collaboration,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokujpwa2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokujpwa2o</guid>
-      <pubDate>Sun, 12 Jul 2026 17:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[API/CLI/UI for memory-backed workflows, swarm collaboration, and optional broker connectors for autonomous trading within user-defined mandates. It supports 87 skills, 460 Alpha Zoo alphas, data from 19 sources (with premium QVeris option), and extensive MCP/SSE integrations for interactive (2/3)]]></description>
-      <content:encoded><![CDATA[API/CLI/UI for memory-backed workflows, swarm collaboration, and optional broker connectors for autonomous trading within user-defined mandates. It supports 87 skills, 460 Alpha Zoo alphas, data from 19 sources (with premium QVeris option), and extensive MCP/SSE integrations for interactive (2/3)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Vibe-Trading is an open-source, AI-assisted re…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokuii572o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqhokuii572o</guid>
-      <pubDate>Sun, 12 Jul 2026 17:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Vibe-Trading is an open-source, AI-assisted research workspace that turns finance questions into runnable analyses and backtests, with a rich ecosystem including self-improving trading agents, multi-agent teams, cross-market data, shadow-account diagnostics, and a robust (1/3)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Vibe-Trading is an open-source, AI-assisted research workspace that turns finance questions into runnable analyses and backtests, with a rich ecosystem including self-improving trading agents, multi-agent teams, cross-market data, shadow-account diagnostics, and a robust (1/3)]]></content:encoded>
     </item>
   </channel>
 </rss>
