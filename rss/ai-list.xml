@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 04:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:00:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>さらに Claude Code などのLLMを活用してプロジェクト設定の自動生成やデプロイ手順の更新を行う方法も解説して…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlittf6lo2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlittf6lo2b</guid>
+      <pubDate>Tue, 14 Jul 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[さらに Claude Code などのLLMを活用してプロジェクト設定の自動生成やデプロイ手順の更新を行う方法も解説している。 (2/2)]]></description>
+      <content:encoded><![CDATA[さらに Claude Code などのLLMを活用してプロジェクト設定の自動生成やデプロイ手順の更新を行う方法も解説している。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Xcodeを使わずにMacアプリを headless でビルド・署名・ノータライズ・インスト…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlittbloj26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlittbloj26</guid>
+      <pubDate>Tue, 14 Jul 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Xcodeを使わずにMacアプリを headless でビルド・署名・ノータライズ・インストールするための一連の手順を紹介。初期設定は GUI（Apple ID/開発者証明書/ノータライゼーションパスワードの保存）で一度済ませれば、Xcodeを開く必要なく xcodebuild、notarytool、stapler などのCLIだけで全工程を自動化するスクリプト release.sh を作成・実行できる、という実用的なワークフローを提案している。 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Xcodeを使わずにMacアプリを headless でビルド・署名・ノータライズ・インストールするための一連の手順を紹介。初期設定は GUI（Apple ID/開発者証明書/ノータライゼーションパスワードの保存）で一度済ませれば、Xcodeを開く必要なく xcodebuild、notarytool、stapler などのCLIだけで全工程を自動化するスクリプト release.sh を作成・実行できる、という実用的なワークフローを提案している。 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Xcodeを開かずにMacとiOSアプリをビルドして配布する Building and shipping Mac and…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlitne6x322</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlitne6x322</guid>
+      <pubDate>Tue, 14 Jul 2026 05:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Xcodeを開かずにMacとiOSアプリをビルドして配布する<br>Building and shipping Mac and iOS apps without opening Xcode<br><br>🔺 389<br>💬 68<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Xcodeを開かずにMacとiOSアプリをビルドして配布する<br>Building and shipping Mac and iOS apps without opening Xcode<br><br>🔺 389<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I think the web dev world is adjusting to AI fastest because…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqlhqtvbuq2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqlhqtvbuq2v</guid>
+      <pubDate>Tue, 14 Jul 2026 05:14:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I think the web dev world is adjusting to AI fastest because we're used to everything changing every few weeks]]></description>
+      <content:encoded><![CDATA[I think the web dev world is adjusting to AI fastest because we're used to everything changing every few weeks]]></content:encoded>
+    </item>
+    <item>
+      <title>TIL most people didn&apos;t know that Codex has a question tool (…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqlgv62rhb2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqlgv62rhb2p</guid>
+      <pubDate>Tue, 14 Jul 2026 04:42:21 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[TIL most people didn't know that Codex has a question tool (because they gate it to plan mode for some reason??)]]></description>
+      <content:encoded><![CDATA[TIL most people didn't know that Codex has a question tool (because they gate it to plan mode for some reason??)]]></content:encoded>
+    </item>
     <item>
       <title>Grok CLI はホームディレクトリ全体を GCS にアップロードした。 Grok CLI uploaded the …</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlc4wbqcv23</link>
@@ -420,51 +465,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, editor API, headless mode, and AI-driven features, while the classic version remains available at opencut.app. Development is (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, editor API, headless mode, and AI-driven features, while the classic version remains available at opencut.app. Development is (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 OpenCut-app / OpenCu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrnzwk232w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrnzwk232w</guid>
-      <pubDate>Mon, 13 Jul 2026 13:17:00 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 OpenCut-app / OpenCut<br>⭐ 64,302 (+1,077)<br>🗒 TypeScript<br><br>The open-source CapCut alternative]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 OpenCut-app / OpenCut<br>⭐ 64,302 (+1,077)<br>🗒 TypeScript<br><br>The open-source CapCut alternative]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  OpenMOSS-Team/MOSS-Transcribe-Diarize MO…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjp27pu752x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjp27pu752x</guid>
-      <pubDate>Mon, 13 Jul 2026 12:30:10 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>OpenMOSS-Team/MOSS-Transcribe-Diarize<br>MOSS-Transcribe-Diarize 0.9Bは、長尺の多人数音声から文字起こし、話者分離、タイムスタンプ付与、音響イベント検知を一度に行うエンドツーエンドの音声理解モデルです。<br>50以上の言語に対応し、会議やインタビューなどの音声・動画ファイルから、誰がいつ何を話したかをまとめた構造化された書き起こしを生成することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>OpenMOSS-Team/MOSS-Transcribe-Diarize<br>MOSS-Transcribe-Diarize 0.9Bは、長尺の多人数音声から文字起こし、話者分離、タイムスタンプ付与、音響イベント検知を一度に行うエンドツーエンドの音声理解モデルです。<br>50以上の言語に対応し、会議やインタビューなどの音声・動画ファイルから、誰がいつ何を話したかをまとめた構造化された書き起こしを生成することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-T…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjozokdae2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjozokdae2x</guid>
-      <pubDate>Mon, 13 Jul 2026 12:29:52 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF<br>MiniCPM5-1B-Claude-Opus-Fable5-Thinkingモデルを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムでローカル利用できるよう、量子化したGGUFファイルを提供することを目的としたリポジトリです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF<br>MiniCPM5-1B-Claude-Opus-Fable5-Thinkingモデルを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムでローカル利用できるよう、量子化したGGUFファイルを提供することを目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR 画像やPDFからテキストを抽出するOCR…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjoz67xe32a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjoz67xe32a</guid>
-      <pubDate>Mon, 13 Jul 2026 12:29:35 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析リポジトリです。<br>One-shotでの長尺解析を実現し、単一画像や複数ページにわたるドキュメントの効率的なパースを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>画像やPDFからテキストを抽出するOCRおよびドキュメント解析リポジトリです。<br>One-shotでの長尺解析を実現し、単一画像や複数ページにわたるドキュメントの効率的なパースを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  froggeric/Qwen-Fixed-Chat-Templates Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjoyoeq2g2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqjoyoeq2g2s</guid>
-      <pubDate>Mon, 13 Jul 2026 12:29:19 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けの修正済みJinjaチャットテンプレートを提供するリポジトリです。<br>公式テンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を解消します。<br>LM Studio、llama.cpp、vLLM、MLXなど、HuggingFaceのJinjaテンプレートをサポートする各種推論エンジンで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>froggeric/Qwen-Fixed-Chat-Templates<br>Qwen 3.5および3.6向けの修正済みJinjaチャットテンプレートを提供するリポジトリです。<br>公式テンプレートで発生するレンダリングエラーやトークンの浪費、エージェント動作時の停止などの問題を解消します。<br>LM Studio、llama.cpp、vLLM、MLXなど、HuggingFaceのJinjaテンプレートをサポートする各種推論エンジンで利用可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
