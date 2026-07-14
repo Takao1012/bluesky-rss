@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 07:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:42:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ダンス風の小さなゲーム「SUPER DARIO One More Week」は、Pascal…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlpkcp2xo23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlpkcp2xo23</guid>
+      <pubDate>Tue, 14 Jul 2026 07:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ダンス風の小さなゲーム「SUPER DARIO One More Week」は、Pascale Schuster制作のシンプルな操作性を特徴としたブラウザゲームで、クリックか任意のキーで開始し、矢印キーで移動・スペースでジャンプ・Mでミュートなどの基本操作を案内している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ダンス風の小さなゲーム「SUPER DARIO One More Week」は、Pascale Schuster制作のシンプルな操作性を特徴としたブラウザゲームで、クリックか任意のキーで開始し、矢印キーで移動・スペースでジャンプ・Mでミュートなどの基本操作を案内している。]]></content:encoded>
+    </item>
+    <item>
+      <title>Show HN: スーパーダリオ Show HN: Super Dario  🔺 382 💬 35 🔗 HN Po…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlpk5knd52h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlpk5knd52h</guid>
+      <pubDate>Tue, 14 Jul 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Show HN: スーパーダリオ<br>Show HN: Super Dario<br><br>🔺 382<br>💬 35<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Show HN: スーパーダリオ<br>Show HN: Super Dario<br><br>🔺 382<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>さらに Claude Code などのLLMを活用してプロジェクト設定の自動生成やデプロイ手順の更新を行う方法も解説して…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqlittf6lo2b</link>
@@ -447,24 +465,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>OpenCut-app/OpenCut<br>OpenCutは、ウェブ、デスクトップ、およびモバイルで利用可能な、無料かつオープンソースのビデオエディターです。<br>現在はアプリケーションの全体的な書き直しが進められています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>OpenCut-app/OpenCut<br>OpenCutは、ウェブ、デスクトップ、およびモバイルで利用可能な、無料かつオープンソースのビデオエディターです。<br>現在はアプリケーションの全体的な書き直しが進められています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>ongoing with community channels for questions and participat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrpqrebw2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrpqrebw2b</guid>
-      <pubDate>Mon, 13 Jul 2026 13:17:57 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[ongoing with community channels for questions and participation. (2/2)]]></description>
-      <content:encoded><![CDATA[ongoing with community channels for questions and participation. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OpenCut is a free, open-source video editor in…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrpm3se32x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqjrpm3se32x</guid>
-      <pubDate>Mon, 13 Jul 2026 13:17:52 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, editor API, headless mode, and AI-driven features, while the classic version remains available at opencut.app. Development is (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, editor API, headless mode, and AI-driven features, while the classic version remains available at opencut.app. Development is (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
