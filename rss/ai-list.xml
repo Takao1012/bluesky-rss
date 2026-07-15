@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:51:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Inklingは、テキスト・画像・音声を統合的に処理できる大規模MoEトランスフォーマーで、…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpoxcerjc2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpoxcerjc2s</guid>
+      <pubDate>Wed, 15 Jul 2026 21:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Inklingは、テキスト・画像・音声を統合的に処理できる大規模MoEトランスフォーマーで、1Mトークンの文脈Windowと9750億パラメータを持つモデル。オープンウェイトでのカスタマイズを重視し、TinkerでのファインチューニングやInkling Playgroundの提供を通じて実用的な多用途性と安全性・信頼性を強化している。今後は同モデル familyとして拡張を予定している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Inklingは、テキスト・画像・音声を統合的に処理できる大規模MoEトランスフォーマーで、1Mトークンの文脈Windowと9750億パラメータを持つモデル。オープンウェイトでのカスタマイズを重視し、TinkerでのファインチューニングやInkling Playgroundの提供を通じて実用的な多用途性と安全性・信頼性を強化している。今後は同モデル familyとして拡張を予定している。]]></content:encoded>
+    </item>
+    <item>
+      <title>Inkling: 私たちのオープンウェイトモデル Inkling: Our Open-Weights Model  🔺…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpox3h4oq2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpox3h4oq2g</guid>
+      <pubDate>Wed, 15 Jul 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Inkling: 私たちのオープンウェイトモデル<br>Inkling: Our Open-Weights Model<br><br>🔺 410<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Inkling: 私たちのオープンウェイトモデル<br>Inkling: Our Open-Weights Model<br><br>🔺 410<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   バンクーバー警察(VPD)の最新情報として、VPD Connect無料モバイルアプリでリアル…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpiaylfm72a</link>
@@ -444,27 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[私たちはAIに自分たちの思考の多くを委ねすぎているのではないか？<br>Are we offloading too much of our thinking to AI?<br><br>🔺 379<br>💬 111<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[私たちはAIに自分たちの思考の多くを委ねすぎているのではないか？<br>Are we offloading too much of our thinking to AI?<br><br>🔺 379<br>💬 111<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📢 In our latest video, learn how to run powerful language m…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mqnl3spnek27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mqnl3spnek27</guid>
-      <pubDate>Wed, 15 Jul 2026 01:30:08 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📢 In our latest video, learn how to run powerful language models locally in #vscode with the brand new #Ollama extension! Check it out ▶️ youtu.be/oi668OuFbag <br>#vscodeextension
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreihnd7s2cyqv3skhac6gjpc6pypd4ngygkqekgnje6zmwcgb2pzbe4" alt="Graphic promoting a video titled “Local AI Made Easy with Language Model Providers” featuring James Montemagno, with a Visual Studio Code logo and a person pointing toward the viewer on a blue background." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[📢 In our latest video, learn how to run powerful language models locally in #vscode with the brand new #Ollama extension! Check it out ▶️ youtu.be/oi668OuFbag <br>#vscodeextension
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreihnd7s2cyqv3skhac6gjpc6pypd4ngygkqekgnje6zmwcgb2pzbe4" alt="Graphic promoting a video titled “Local AI Made Easy with Language Model Providers” featuring James Montemagno, with a Visual Studio Code logo and a person pointing toward the viewer on a blue background." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreihnd7s2cyqv3skhac6gjpc6pypd4ngygkqekgnje6zmwcgb2pzbe4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>2 months ago btw  QT: https://twitter.com/i/status/207714335…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqnjxywxti2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqnjxywxti2d</guid>
-      <pubDate>Wed, 15 Jul 2026 00:43:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[2 months ago btw<br><br>QT: https://twitter.com/i/status/2077143350591840433]]></description>
-      <content:encoded><![CDATA[2 months ago btw<br><br>QT: https://twitter.com/i/status/2077143350591840433]]></content:encoded>
     </item>
   </channel>
 </rss>
