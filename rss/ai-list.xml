@@ -5,8 +5,65 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 23:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 01:15:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I couldn&apos;t resist extracting that Rust Mermaid rendering cod…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpz2tkurc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpz2tkurc2z</guid>
+      <pubDate>Thu, 16 Jul 2026 00:45:27 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I couldn't resist extracting that Rust Mermaid rendering code out and compiling it to WebAssembly so you can try it out directly in a browser tools.simonwillison.net/grok-mermaid
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiclcncsrwvpbbnbula4twly25cqkhhgylk2owtqfchxliwin4oa7u" alt="Screenshot of a Mermaid diagram editor showing source code and rendered flowchart. The code reads: graph TD Start[Request received] --> Auth{Authenticated?} Auth -->|yes| Rate{Rate limit OK?} Auth -->|no| R401[401 Unauthorized] Rate -->|yes| H(Handle request) Rate -->|no| R429[429 Too Many Requests] H -.-> Log[Audit log] H ==> Resp[200 OK]. Below the code are controls labeled Max width: Fit output panel, Copy as text, and Copy link to this diagram. The rendered flowchart on a dark background flows top-down: Request received leads to Authenticated?, which branches yes to Rate limit OK? and no to 401 Unauthorized. Rate limit OK? branches yes to Handle request and no to 429 Too Many Requests. Handle request connects with a dotted arrow to Audit log and a thick arrow to 200 OK" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I couldn't resist extracting that Rust Mermaid rendering code out and compiling it to WebAssembly so you can try it out directly in a browser tools.simonwillison.net/grok-mermaid
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiclcncsrwvpbbnbula4twly25cqkhhgylk2owtqfchxliwin4oa7u" alt="Screenshot of a Mermaid diagram editor showing source code and rendered flowchart. The code reads: graph TD Start[Request received] --> Auth{Authenticated?} Auth -->|yes| Rate{Rate limit OK?} Auth -->|no| R401[401 Unauthorized] Rate -->|yes| H(Handle request) Rate -->|no| R429[429 Too Many Requests] H -.-> Log[Audit log] H ==> Resp[200 OK]. Below the code are controls labeled Max width: Fit output panel, Copy as text, and Copy link to this diagram. The rendered flowchart on a dark background flows top-down: Request received leads to Authenticated?, which branches yes to Rate limit OK? and no to 401 Unauthorized. Rate limit OK? branches yes to Handle request and no to 429 Too Many Requests. Handle request connects with a dotted arrow to Audit log and a thick arrow to 200 OK" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiclcncsrwvpbbnbula4twly25cqkhhgylk2owtqfchxliwin4oa7u" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📝 AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた  🔖 210 ブックマーク 💬 コメント 🔗 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqpxyxalrh2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqpxyxalrh2k</guid>
+      <pubDate>Thu, 16 Jul 2026 00:26:30 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた<br><br>🔖 210 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた<br><br>🔖 210 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>I didn&apos;t see anything that would help verify if it matches t…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpxmklwys2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpxmklwys2k</guid>
+      <pubDate>Thu, 16 Jul 2026 00:19:34 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I didn't see anything that would help verify if it matches the xAI binary]]></description>
+      <content:encoded><![CDATA[I didn't see anything that would help verify if it matches the xAI binary]]></content:encoded>
+    </item>
+    <item>
+      <title>I poked around in the just open sourced Grok Build CLI tool …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpwytj6lc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqpwytj6lc2d</guid>
+      <pubDate>Thu, 16 Jul 2026 00:08:32 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I poked around in the just open sourced Grok Build CLI tool - 844,000 lines of Rust code! - and dug up a few interesting highlights, including a "self-contained terminal renderer for Mermaid diagrams" that renders them using Unicode box-art!<br>simonwillison.net/2026/Jul/15/...]]></description>
+      <content:encoded><![CDATA[I poked around in the just open sourced Grok Build CLI tool - 844,000 lines of Rust code! - and dug up a few interesting highlights, including a "self-contained terminal renderer for Mermaid diagrams" that renders them using Unicode box-art!<br>simonwillison.net/2026/Jul/15/...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   S&amp;P GlobalはOracleの格付けをBBBからBBB-へ1段階引き下げ、投資適格域の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpvnyssq72l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpvnyssq72l</guid>
+      <pubDate>Wed, 15 Jul 2026 23:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>S&P GlobalはOracleの格付けをBBBからBBB-へ1段階引き下げ、投資適格域の最低水準近くにした。AIインフラ投資の拡大で財務負担が増大し、2027年度の自由キャッシュフロー不足を約420億ドルと見込む一方、OpenAIへの依存度を「中心的信用リスク」と指摘している。OracleはAI拡張の一方で人員削減を進め、2028年には売上構成の約60%をクラウド事業が占める見込みだが、競争激化と資金調達の不確実性から財務リスクが高まっている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>S&P GlobalはOracleの格付けをBBBからBBB-へ1段階引き下げ、投資適格域の最低水準近くにした。AIインフラ投資の拡大で財務負担が増大し、2027年度の自由キャッシュフロー不足を約420億ドルと見込む一方、OpenAIへの依存度を「中心的信用リスク」と指摘している。OracleはAI拡張の一方で人員削減を進め、2028年には売上構成の約60%をクラウド事業が占める見込みだが、競争激化と資金調達の不確実性から財務リスクが高まっている。]]></content:encoded>
+    </item>
+    <item>
+      <title>S&amp;Pグローバルはオラクルの信用格付けをBBBからBBB-へ引き下げた。 S&amp;P Global has lowered …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpvnrajt72s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqpvnrajt72s</guid>
+      <pubDate>Wed, 15 Jul 2026 23:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[S&Pグローバルはオラクルの信用格付けをBBBからBBB-へ引き下げた。<br>S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-<br><br>🔺 333<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[S&Pグローバルはオラクルの信用格付けをBBBからBBB-へ引き下げた。<br>S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-<br><br>🔺 333<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 ローカル LLM を構築した  🔖 155 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqpunavlag26</link>
@@ -426,60 +483,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I did get them to be helpful. I had gpt-5.6 write me a super useful script I could paste into the console to enable/disable the CSS features I assumed were pegging the gpu. (3/4)]]></description>
       <content:encoded><![CDATA[I did get them to be helpful. I had gpt-5.6 write me a super useful script I could paste into the console to enable/disable the CSS features I assumed were pegging the gpu. (3/4)]]></content:encoded>
-    </item>
-    <item>
-      <title>Both Fable and gpt-5.6 kept getting caught on things that di…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqoerjxojx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqoerjxojx2y</guid>
-      <pubDate>Wed, 15 Jul 2026 09:01:46 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Both Fable and gpt-5.6 kept getting caught on things that didn't matter. Most weren't even in the render path! They had all the tools they needed, but they got too distracted by the code to solve the real issues. (2/4)]]></description>
-      <content:encoded><![CDATA[Both Fable and gpt-5.6 kept getting caught on things that didn't matter. Most weren't even in the render path! They had all the tools they needed, but they got too distracted by the code to solve the real issues. (2/4)]]></content:encoded>
-    </item>
-    <item>
-      <title>Just landed some really, really dumb changes to T3 Code that…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqoergvuqy2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqoergvuqy2r</guid>
-      <pubDate>Wed, 15 Jul 2026 09:01:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Just landed some really, really dumb changes to T3 Code that reduce GPU utilization by ~85%. LLMs failed to find any of them. (1/4)]]></description>
-      <content:encoded><![CDATA[Just landed some really, really dumb changes to T3 Code that reduce GPU utilization by ~85%. LLMs failed to find any of them. (1/4)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   サイトが悪意のあるボットから保護されるよう、セキュリティ検証を実施中であることを示すページ。…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqo7zeljh72m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqo7zeljh72m</guid>
-      <pubDate>Wed, 15 Jul 2026 07:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>サイトが悪意のあるボットから保護されるよう、セキュリティ検証を実施中であることを示すページ。検証が完了すると通常通り閲覧できるようになる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>サイトが悪意のあるボットから保護されるよう、セキュリティ検証を実施中であることを示すページ。検証が完了すると通常通り閲覧できるようになる。]]></content:encoded>
-    </item>
-    <item>
-      <title>サムスン・ヘルスのアプリ、AIトレーニングのオプトアウトを選択した場合にデータを削除すると脅す Samsung Heal…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqo7z7hncg2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqo7z7hncg2h</guid>
-      <pubDate>Wed, 15 Jul 2026 07:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[サムスン・ヘルスのアプリ、AIトレーニングのオプトアウトを選択した場合にデータを削除すると脅す<br>Samsung Health app threatens data deletion if users opt out AI training<br><br>🔺 346<br>💬 43<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[サムスン・ヘルスのアプリ、AIトレーニングのオプトアウトを選択した場合にデータを削除すると脅す<br>Samsung Health app threatens data deletion if users opt out AI training<br><br>🔺 346<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This is the most pissed off I&apos;ve ever been on camera.   Vide…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqo6voddii2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqo6voddii2y</guid>
-      <pubDate>Wed, 15 Jul 2026 07:18:28 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This is the most pissed off I've ever been on camera. <br><br>Video: https://twitter.com/theo/status/2077291692655563035]]></description>
-      <content:encoded><![CDATA[This is the most pissed off I've ever been on camera. <br><br>Video: https://twitter.com/theo/status/2077291692655563035]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLA…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqo3njjva72v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqo3njjva72v</guid>
-      <pubDate>Wed, 15 Jul 2026 06:26:22 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
