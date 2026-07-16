@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 21:52:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:44:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>おはようございますー！おきた！</title>
+      <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mqsb5zh2mk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mqsb5zh2mk2n</guid>
+      <pubDate>Thu, 16 Jul 2026 22:15:43 GMT</pubDate>
+      <author>なうち｜きららFW『君が一等星に光るまで』連載中🦢✨ (@nowre.bsky.social)</author>
+      <description><![CDATA[おはようございますー！おきた！]]></description>
+      <content:encoded><![CDATA[おはようございますー！おきた！]]></content:encoded>
+    </item>
     <item>
       <title>単行本2巻の描き下ろしのつもりで描いた話でしたが、単話派の方にも読んで頂いた方がいいと思ったので単話でも更新させて頂きま…</title>
       <link>https://bsky.app/profile/did:plc:zofvohdd7ovxtjla4izwuogx/post/3mqrjpozmp22n</link>
@@ -470,15 +479,6 @@
       <content:encoded><![CDATA[まとめた
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigkkdz6fyklkxekleefaw3z2iuqy36htfr25dw2tbklhxybqlyjbm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigkkdz6fyklkxekleefaw3z2iuqy36htfr25dw2tbklhxybqlyjbm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>プレビューアプリそんなことあるの！！？？こわ！！！</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqohi7bqhc2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqohi7bqhc2j</guid>
-      <pubDate>Wed, 15 Jul 2026 09:58:08 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[プレビューアプリそんなことあるの！！？？こわ！！！]]></description>
-      <content:encoded><![CDATA[プレビューアプリそんなことあるの！！？？こわ！！！]]></content:encoded>
     </item>
   </channel>
 </rss>
