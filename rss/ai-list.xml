@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 21:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:35:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupv7kqhx2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupv7kqhx2d</guid>
+      <pubDate>Fri, 17 Jul 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供する一方、実運用にはツール・ガバナンス・ハーネスの成熟が課題で、開放と閉鎖の両立が現場の実務で進む。地域・企業規模を超えたオープン推進の動きと、国家戦略・産業構造の変化が重要性を増している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供する一方、実運用にはツール・ガバナンス・ハーネスの成熟が課題で、開放と閉鎖の両立が現場の実務で進む。地域・企業規模を超えたオープン推進の動きと、国家戦略・産業構造の変化が重要性を増している。]]></content:encoded>
+    </item>
+    <item>
+      <title>オープンソースAIの現状 The state of open source AI  🔺 326 💬 34 🔗 HN…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupuve4cv2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupuve4cv2r</guid>
+      <pubDate>Fri, 17 Jul 2026 21:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オープンソースAIの現状<br>The state of open source AI<br><br>🔺 326<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オープンソースAIの現状<br>The state of open source AI<br><br>🔺 326<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>involvement via Discord and issues. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquocqg3b32h</link>
@@ -463,24 +481,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 なぜAI臭さを消したいのか？｜laiso<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 なぜAI臭さを消したいのか？｜laiso<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   起業家の道のりをリボン形式で辿るインタラクティブなページ。各リボンには創業者の氏名と成し遂げ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqthntejve2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqthntejve2l</guid>
-      <pubDate>Fri, 17 Jul 2026 09:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>起業家の道のりをリボン形式で辿るインタラクティブなページ。各リボンには創業者の氏名と成し遂げた事業が表示され、ホバーで詳細を確認でき、過去のYCバッチと現在の役割の変遷も追える。全体は105人の創業者データを網羅しており、スタートアップのアイデア探し機能も併設されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>起業家の道のりをリボン形式で辿るインタラクティブなページ。各リボンには創業者の氏名と成し遂げた事業が表示され、ホバーで詳細を確認でき、過去のYCバッチと現在の役割の変遷も追える。全体は105人の創業者データを網羅しており、スタートアップのアイデア探し機能も併設されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>過去にY Combinatorを卒業した創業者のうち、少なくとも105名がOpenAIおよびAnthropicで働いたこ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqthnl2i7n2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqthnl2i7n2p</guid>
-      <pubDate>Fri, 17 Jul 2026 09:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[過去にY Combinatorを卒業した創業者のうち、少なくとも105名がOpenAIおよびAnthropicで働いたことがある。<br>At least 105 past YC founders have worked at OpenAI and Anthropic<br><br>🔺 298<br>💬 31<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[過去にY Combinatorを卒業した創業者のうち、少なくとも105名がOpenAIおよびAnthropicで働いたことがある。<br>At least 105 past YC founders have worked at OpenAI and Anthropic<br><br>🔺 298<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
