@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:39:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab  🔖 174 ブック…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mquvl6otd42r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mquvl6otd42r</guid>
+      <pubDate>Fri, 17 Jul 2026 23:26:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupv7kqhx2d</link>
@@ -472,15 +481,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Kimi K3 is really, really good. <br><br>Video: https://twitter.com/theo/status/2078071827021320425]]></description>
       <content:encoded><![CDATA[Kimi K3 is really, really good. <br><br>Video: https://twitter.com/theo/status/2078071827021320425]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 なぜAI臭さを消したいのか？｜laiso  🔖 169 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqtjyeyjj42k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqtjyeyjj42k</guid>
-      <pubDate>Fri, 17 Jul 2026 10:26:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 なぜAI臭さを消したいのか？｜laiso<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 なぜAI臭さを消したいのか？｜laiso<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
