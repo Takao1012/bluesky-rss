@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:47:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 tirth8205 / code-review-graph ⭐ 19,601 (+57) 🗒 Python  L…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqueat6ywp2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqueat6ywp2h</guid>
+      <pubDate>Fri, 17 Jul 2026 18:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 tirth8205 / code-review-graph<br>⭐ 19,601 (+57)<br>🗒 Python<br><br>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.]]></description>
+      <content:encoded><![CDATA[📦 tirth8205 / code-review-graph<br>⭐ 19,601 (+57)<br>🗒 Python<br><br>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   LM Studioの新機能「LM Studio Bionic」は、オープンモデルでの作業を前…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mquci3veqy2c</link>
@@ -452,15 +461,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Kimi K3 is so good at 3d stuff holy shit]]></description>
       <content:encoded><![CDATA[Kimi K3 is so good at 3d stuff holy shit]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Decoy Fontは、各文字に偽の情報を含ませることでAIが入力内容を読み取りにくくする「…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqsmtrzn7e2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqsmtrzn7e2t</guid>
-      <pubDate>Fri, 17 Jul 2026 01:44:45 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Decoy Fontは、各文字に偽の情報を含ませることでAIが入力内容を読み取りにくくする「反AI」フォント。前景と背景の異なる空間周波数を重ね合わせるハイブリッド画像の原理を用い、近距離では偽文字、遠距離で本来のメッセージが見える仕組みになっている。TTF形式としてインストール可能で、個人・商用問わず利用できる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Decoy Fontは、各文字に偽の情報を含ませることでAIが入力内容を読み取りにくくする「反AI」フォント。前景と背景の異なる空間周波数を重ね合わせるハイブリッド画像の原理を用い、近距離では偽文字、遠距離で本来のメッセージが見える仕組みになっている。TTF形式としてインストール可能で、個人・商用問わず利用できる。]]></content:encoded>
     </item>
   </channel>
 </rss>
