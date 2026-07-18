@@ -5,8 +5,89 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:56:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>保守計画）を共有している。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwznet67e2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwznet67e2k</guid>
+      <pubDate>Sat, 18 Jul 2026 19:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[保守計画）を共有している。 (2/2)]]></description>
+      <content:encoded><![CDATA[保守計画）を共有している。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzneprri2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzneprri2w</guid>
+      <pubDate>Sat, 18 Jul 2026 19:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善することや、WALモードの有効化など基本的な運用ポイントを学んだ経験を紹介している。 <br>- 大量削除などの運用時には5秒以上かかる処理を分割実行するなど、SQLiteの制約とデータベース運用の難しさを実感した話と、PostgreSQLのような複数 writer を想定した運用の利点にも触れている。 <br>- バックアップ方法として restic と Litestream の比較、複数データベースファイルの活用、実践的な運用ノウハウ（監視、バックアップ戦略、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善することや、WALモードの有効化など基本的な運用ポイントを学んだ経験を紹介している。 <br>- 大量削除などの運用時には5秒以上かかる処理を分割実行するなど、SQLiteの制約とデータベース運用の難しさを実感した話と、PostgreSQLのような複数 writer を想定した運用の利点にも触れている。 <br>- バックアップ方法として restic と Litestream の比較、複数データベースファイルの活用、実践的な運用ノウハウ（監視、バックアップ戦略、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>SQLiteを実行する際のポイントをいくつか学ぶ Learning a few things about running…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzn76xpw27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzn76xpw27</guid>
+      <pubDate>Sat, 18 Jul 2026 19:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[SQLiteを実行する際のポイントをいくつか学ぶ<br>Learning a few things about running SQLite<br><br>🔺 313<br>💬 27<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[SQLiteを実行する際のポイントをいくつか学ぶ<br>Learning a few things about running SQLite<br><br>🔺 313<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Mistral, etc.) and provides quickstart instructions, macOS s…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2vq5ug2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2vq5ug2z</guid>
+      <pubDate>Sat, 18 Jul 2026 19:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></description>
+      <content:encoded><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   AirLLM enables running very large language mod…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2votxd2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2votxd2u</guid>
+      <pubDate>Sat, 18 Jul 2026 19:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>AirLLM enables running very large language models on low-end GPUs by keeping only one model layer on the GPU at a time, and adds optional 4-bit/8-bit block-wise compression to speed up inference without heavy quantization. It supports a wide range of models (Llama, Qwen, DeepSeek, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>AirLLM enables running very large language models on low-end GPUs by keeping only one model layer on the GPU at a time, and adds optional 4-bit/8-bit block-wise compression to speed up inference without heavy quantization. It supports a wide range of models (Llama, Qwen, DeepSeek, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 lyogavin / airllm ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2stlyi2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2stlyi2p</guid>
+      <pubDate>Sat, 18 Jul 2026 19:16:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 lyogavin / airllm<br>⭐ 23,139 (+242)<br>🗒 Jupyter Notebook<br><br>AirLLM 70B inference with single 4GB GPU]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 lyogavin / airllm<br>⭐ 23,139 (+242)<br>🗒 Jupyter Notebook<br><br>AirLLM 70B inference with single 4GB GPU]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 MoonshotAI / kimi-cli ⭐ 9,268 (+48) 🗒 Python  Kimi Code …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwuqdpwd524</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwuqdpwd524</guid>
+      <pubDate>Sat, 18 Jul 2026 18:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 MoonshotAI / kimi-cli<br>⭐ 9,268 (+48)<br>🗒 Python<br><br>Kimi Code CLI is your next CLI agent.]]></description>
+      <content:encoded><![CDATA[📦 MoonshotAI / kimi-cli<br>⭐ 9,268 (+48)<br>🗒 Python<br><br>Kimi Code CLI is your next CLI agent.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   この文章は、ネットワークポリシーによりリクエストがブロックされたことを伝える案内で、ログイン…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwswrzgqc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwswrzgqc2k</guid>
+      <pubDate>Sat, 18 Jul 2026 17:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>この文章は、ネットワークポリシーによりリクエストがブロックされたことを伝える案内で、ログイン・アカウント作成やデベロッパー資格情報の登録、User-Agent の適切な設定、Redditの利用規約確認、ブロック解除の申請方法を案内している。問題を誤ってブロックされた可能性がある場合はチケットを提出し、問い合わせ時にはアカウントとコードを添えるよう指示している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>この文章は、ネットワークポリシーによりリクエストがブロックされたことを伝える案内で、ログイン・アカウント作成やデベロッパー資格情報の登録、User-Agent の適切な設定、Redditの利用規約確認、ブロック解除の申請方法を案内している。問題を誤ってブロックされた可能性がある場合はチケットを提出し、問い合わせ時にはアカウントとコードを添えるよう指示している。]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを用いた。 GPT-5.6 used a prom…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwswnkkhs2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwswnkkhs2k</guid>
+      <pubDate>Sat, 18 Jul 2026 17:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを用いた。<br>GPT-5.6 used a prompt to close a 30-year gap in convex optimization<br><br>🔺 315<br>💬 19<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを用いた。<br>GPT-5.6 used a prompt to close a 30-year gap in convex optimization<br><br>🔺 315<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 KnockOutEZ / wigolo ⭐ 9…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwnzq7acj2g</link>
@@ -378,96 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[遠い星の居住可能帯にある地球型惑星で初めて大気が発見された<br>First atmosphere found on Earth-like planet in habitable zone of distant star<br><br>🔺 345<br>💬 27<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[遠い星の居住可能帯にある地球型惑星で初めて大気が発見された<br>First atmosphere found on Earth-like planet in habitable zone of distant star<br><br>🔺 345<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Jfc</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqux5nsxso2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mqux5nsxso2j</guid>
-      <pubDate>Fri, 17 Jul 2026 23:33:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Jfc
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedhe3j2ics5xowlunbzvp2fs25q4d7rqr7bielq4zj3xiown47xa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Jfc
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedhe3j2ics5xowlunbzvp2fs25q4d7rqr7bielq4zj3xiown47xa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiedhe3j2ics5xowlunbzvp2fs25q4d7rqr7bielq4zj3xiown47xa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab  🔖 174 ブック…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mquvl6otd42r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mquvl6otd42r</guid>
-      <pubDate>Fri, 17 Jul 2026 23:26:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupv7kqhx2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupv7kqhx2d</guid>
-      <pubDate>Fri, 17 Jul 2026 21:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供する一方、実運用にはツール・ガバナンス・ハーネスの成熟が課題で、開放と閉鎖の両立が現場の実務で進む。地域・企業規模を超えたオープン推進の動きと、国家戦略・産業構造の変化が重要性を増している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>オープン重量を軸にしたAI開発の現状と課題を概観する長文。オープンがコスト低減と退出権を提供する一方、実運用にはツール・ガバナンス・ハーネスの成熟が課題で、開放と閉鎖の両立が現場の実務で進む。地域・企業規模を超えたオープン推進の動きと、国家戦略・産業構造の変化が重要性を増している。]]></content:encoded>
-    </item>
-    <item>
-      <title>オープンソースAIの現状 The state of open source AI  🔺 326 💬 34 🔗 HN…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupuve4cv2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqupuve4cv2r</guid>
-      <pubDate>Fri, 17 Jul 2026 21:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[オープンソースAIの現状<br>The state of open source AI<br><br>🔺 326<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[オープンソースAIの現状<br>The state of open source AI<br><br>🔺 326<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>involvement via Discord and issues. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquocqg3b32h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquocqg3b32h</guid>
-      <pubDate>Fri, 17 Jul 2026 21:16:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[involvement via Discord and issues. (2/2)]]></description>
-      <content:encoded><![CDATA[involvement via Discord and issues. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OpenCut is a free, open-source video editor in…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquocqeogw2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquocqeogw2j</guid>
-      <pubDate>Fri, 17 Jul 2026 21:16:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, Editor API, AI tooling, and headless automation. The project currently maintains the classic version and invites community (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OpenCut is a free, open-source video editor in active rewrite, aiming for a unified cross-platform (web, desktop, mobile) with a plugin-first architecture, Editor API, AI tooling, and headless automation. The project currently maintains the classic version and invites community (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 OpenCut-app / OpenCu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquoco56ay2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mquoco56ay2n</guid>
-      <pubDate>Fri, 17 Jul 2026 21:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 OpenCut-app / OpenCut<br>⭐ 74,597 (+1,077)<br>🗒 TypeScript<br><br>The open-source CapCut alternative]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 OpenCut-app / OpenCut<br>⭐ 74,597 (+1,077)<br>🗒 TypeScript<br><br>The open-source CapCut alternative]]></content:encoded>
-    </item>
-    <item>
-      <title>Also enjoying tracking the usage of &quot;dual wielders&quot; (people …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mquoscg3bh2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mquoscg3bh2s</guid>
-      <pubDate>Fri, 17 Jul 2026 21:08:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Also enjoying tracking the usage of "dual wielders" (people with codex and claude)<br><br>Last week, dual wielders were the biggest user. GPT-5.6's surge with Codex has pushed "codex only users" back to 1st place<br><br>The dual wielders are the heaviest and most loyal users though :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei3o2paa3onr3z5zvv7ewzaimip4boxzvhbhbah36fd6s6moj6je" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Also enjoying tracking the usage of "dual wielders" (people with codex and claude)<br><br>Last week, dual wielders were the biggest user. GPT-5.6's surge with Codex has pushed "codex only users" back to 1st place<br><br>The dual wielders are the heaviest and most loyal users though :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei3o2paa3onr3z5zvv7ewzaimip4boxzvhbhbah36fd6s6moj6je" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei3o2paa3onr3z5zvv7ewzaimip4boxzvhbhbah36fd6s6moj6je" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I spent like 20 minutes on this photoshop job because every …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mquos4ppdn2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mquos4ppdn2m</guid>
-      <pubDate>Fri, 17 Jul 2026 21:04:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I spent like 20 minutes on this photoshop job because every AI model did a terrible job. They kept screwing up the walls and continuity 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig5atzu3bkdsqpefq6fyuz3ikcivudmzkr3taxoplegses3umtp5a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I spent like 20 minutes on this photoshop job because every AI model did a terrible job. They kept screwing up the walls and continuity 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig5atzu3bkdsqpefq6fyuz3ikcivudmzkr3taxoplegses3umtp5a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig5atzu3bkdsqpefq6fyuz3ikcivudmzkr3taxoplegses3umtp5a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
