@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 10:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:41:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  ATH-MaaS/OvisOCR2 OvisOCR2は、ページレベルのドキュメン…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4givyve2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4givyve2u</guid>
+      <pubDate>Sat, 18 Jul 2026 11:01:38 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ATH-MaaS/OvisOCR2<br>OvisOCR2は、ページレベルのドキュメント解析を行うための0.8Bの小型エンドツーエンドモデルです。<br>ドキュメントの画像からテキスト、数式、表、視覚的な領域を自然な読書順で抽出し、Markdown形式で出力することを目的としています。<br>Qwen3.5-0.8Bをベースとしており、高い解析性能と省リソースでの運用を両立しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ATH-MaaS/OvisOCR2<br>OvisOCR2は、ページレベルのドキュメント解析を行うための0.8Bの小型エンドツーエンドモデルです。<br>ドキュメントの画像からテキスト、数式、表、視覚的な領域を自然な読書順で抽出し、Markdown形式で出力することを目的としています。<br>Qwen3.5-0.8Bをベースとしており、高い解析性能と省リソースでの運用を両立しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  bottlecapai/ThinkingCap-Qwen3.6-27B Qwen…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4fypru423</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4fypru423</guid>
+      <pubDate>Sat, 18 Jul 2026 11:01:21 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質やスタイルを維持したまま思考トークン数を大幅に削減してトークン効率を高めることを目的としています。<br>推論、数学、コードなどの多様な領域で検証されており、平均で50%以上のトークン削減を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質やスタイルを維持したまま思考トークン数を大幅に削減してトークン効率を高めることを目的としています。<br>推論、数学、コードなどの多様な領域で検証されており、平均で50%以上のトークン削減を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  conradlocke/krea2-identity-edit Krea 2 R…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4fbxddm2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4fbxddm2h</guid>
+      <pubDate>Sat, 18 Jul 2026 11:00:57 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした、人物の同一性を保持する指示ベースの画像編集モデルです。<br>自然言語による指示で、人物の特徴を維持したまま編集が可能です。<br>顔や頭部の入れ替え、インペインティング、アウトペインティング、仮想試着などの機能を提供します。<br>利用にはComfyUI-Krea2Editノードパックが必要です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした、人物の同一性を保持する指示ベースの画像編集モデルです。<br>自然言語による指示で、人物の特徴を維持したまま編集が可能です。<br>顔や頭部の入れ替え、インペインティング、アウトペインティング、仮想試着などの機能を提供します。<br>利用にはComfyUI-Krea2Editノードパックが必要です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4esy2ga2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4esy2ga2x</guid>
+      <pubDate>Sat, 18 Jul 2026 11:00:42 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MのGGUF量子化モデルを提供するためのリポジトリです。<br>llama.cppやOllamaなどのGGUFランタイムでの利用を目的としています。<br>ベースとなる推論モデルは100万トークンのコンテキストウィンドウと関数呼び出し機能を備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MのGGUF量子化モデルを提供するためのリポジトリです。<br>llama.cppやOllamaなどのGGUFランタイムでの利用を目的としています。<br>ベースとなる推論モデルは100万トークンのコンテキストウィンドウと関数呼び出し機能を備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  thinkingmachines/Inkling Inklingはテキスト、画像…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4e3gi4p2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqw4e3gi4p2v</guid>
+      <pubDate>Sat, 18 Jul 2026 11:00:17 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingはテキスト、画像、音声を入力しテキストを出力する汎用マルチモーダルモデルです。<br>AIエージェントやコーディングアシスタント、チャットボット、RAGなどのアプリケーション開発を目的としており、会話や指示への準拠、マルチモーダルタスクに対応しています。<br>研究やファインチューニング、製品への統合を支援するため、オープンウェイトで提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingはテキスト、画像、音声を入力しテキストを出力する汎用マルチモーダルモデルです。<br>AIエージェントやコーディングアシスタント、チャットボット、RAGなどのアプリケーション開発を目的としており、会話や指示への準拠、マルチモーダルタスクに対応しています。<br>研究やファインチューニング、製品への統合を支援するため、オープンウェイトで提供されています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   JPEGのプログレッシブ機能を悪用し、複数のスキャンを連結して同一解像度の画像群を段階的に描…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvy546jii2o</link>
@@ -442,51 +487,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[評価プロセスと受賞者の選定における不整合の証拠<br>Evidence of inconsistencies in evaluation process and selection of winners<br><br>🔺 392<br>💬 38<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[評価プロセスと受賞者の選定における不整合の証拠<br>Evidence of inconsistencies in evaluation process and selection of winners<br><br>🔺 392<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 docusealco / docuseal ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqtwtnnbld24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqtwtnnbld24</guid>
-      <pubDate>Fri, 17 Jul 2026 14:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 docusealco / docuseal<br>⭐ 17,711 (+152)<br>🗒 Ruby<br><br>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 docusealco / docuseal<br>⭐ 17,711 (+152)<br>🗒 Ruby<br><br>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:    frontierレベルのモデル同士を比較するため、曲「Uptown Funk」を元に、予算…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqtv2vfb6x2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqtv2vfb6x2j</guid>
-      <pubDate>Fri, 17 Jul 2026 13:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br> frontierレベルのモデル同士を比較するため、曲「Uptown Funk」を元に、予算を与え自律的に生成・編集を行うミニガジェットを作成。 Claude Fable 5とGPT-5.6 Solの4セッションを実施し、生成 spend や使われたツール、ビデオ品質の傾向を記録・公開。 結果として、全セッションが全長ビデオを作成したものの、物語の一貫性やテンポ合わせは課題で、編集側の自己評価・再編集の不足が目立ち、予算を増やしても劇的な性能向上には繋がりにくいことが示された。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br> frontierレベルのモデル同士を比較するため、曲「Uptown Funk」を元に、予算を与え自律的に生成・編集を行うミニガジェットを作成。 Claude Fable 5とGPT-5.6 Solの4セッションを実施し、生成 spend や使われたツール、ビデオ品質の傾向を記録・公開。 結果として、全セッションが全長ビデオを作成したものの、物語の一貫性やテンポ合わせは課題で、編集側の自己評価・再編集の不足が目立ち、予算を増やしても劇的な性能向上には繋がりにくいことが示された。]]></content:encoded>
-    </item>
-    <item>
-      <title>100ドルのAIミュージックビデオ: クロード・フェーブル5 対 GPT-5.6ソル $100 AI Music Vid…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqtv2qdvwl27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqtv2qdvwl27</guid>
-      <pubDate>Fri, 17 Jul 2026 13:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[100ドルのAIミュージックビデオ: クロード・フェーブル5 対 GPT-5.6ソル<br>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol<br><br>🔺 319<br>💬 97<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[100ドルのAIミュージックビデオ: クロード・フェーブル5 対 GPT-5.6ソル<br>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol<br><br>🔺 319<br>💬 97<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 protocolbuffers / protobuf ⭐ 71,510 (+11) 🗒 C++  Protoco…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqttimxubo2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqttimxubo2h</guid>
-      <pubDate>Fri, 17 Jul 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 protocolbuffers / protobuf<br>⭐ 71,510 (+11)<br>🗒 C++<br><br>Protocol Buffers - Google's data interchange format]]></description>
-      <content:encoded><![CDATA[📦 protocolbuffers / protobuf<br>⭐ 71,510 (+11)<br>🗒 C++<br><br>Protocol Buffers - Google's data interchange format]]></content:encoded>
-    </item>
-    <item>
-      <title>Buy more country clubs!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqtryg7cck2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqtryg7cck2u</guid>
-      <pubDate>Fri, 17 Jul 2026 12:49:29 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Buy more country clubs!]]></description>
-      <content:encoded><![CDATA[Buy more country clubs!]]></content:encoded>
     </item>
   </channel>
 </rss>
