@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 04:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:50:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日まで…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkphbasa2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkphbasa2t</guid>
+      <pubDate>Sat, 18 Jul 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日までに公開予定で、3T級モデルとしてOpen Weightedを謳う初の試みとなる。性能はClaude Opus 4.8 maxやGPT-5.5高位をほぼ上回る一方、Fable 5やGPT-5.6 Solには及ばず、価格は入力3ドル/百万、出力15ドル/百万と高めで、前モデルよりもコスト高。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日までに公開予定で、3T級モデルとしてOpen Weightedを謳う初の試みとなる。性能はClaude Opus 4.8 maxやGPT-5.5高位をほぼ上回る一方、Fable 5やGPT-5.6 Solには及ばず、価格は入力3ドル/百万、出力15ドル/百万と高めで、前モデルよりもコスト高。]]></content:encoded>
+    </item>
+    <item>
+      <title>Kimi K3と、ペリカン・ベンチマークから今なお学べること Kimi K3, and what we can stil…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkpccgra2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkpccgra2t</guid>
+      <pubDate>Sat, 18 Jul 2026 05:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Kimi K3と、ペリカン・ベンチマークから今なお学べること<br>Kimi K3, and what we can still learn from the pelican benchmark<br><br>🔺 305<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Kimi K3と、ペリカン・ベンチマークから今なお学べること<br>Kimi K3, and what we can still learn from the pelican benchmark<br><br>🔺 305<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプラ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqvjozpavf2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqvjozpavf2l</guid>
+      <pubDate>Sat, 18 Jul 2026 05:26:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   カイザー・パーマネンテの看護師たちは、電話相談での通話時間やAIによる監視・評価が強化される…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvdyyorhz2r</link>
@@ -460,33 +487,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>github/copilot-sdk<br>GitHub Copilot SDKsは、Python、TypeScript、Go、.NET、Java、RustなどのアプリケーションにCopilotのエージェントワークフローを組み込むためのSDKです。<br>Copilot CLIのエンジンをプログラムから利用でき、プランニングやツール呼び出し、ファイル編集などのオーケストレーションをCopilotが担当するため、開発者はエージェントの動作を定義するだけで実装可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>github/copilot-sdk<br>GitHub Copilot SDKsは、Python、TypeScript、Go、.NET、Java、RustなどのアプリケーションにCopilotのエージェントワークフローを組み込むためのSDKです。<br>Copilot CLIのエンジンをプログラムから利用でき、プランニングやツール呼び出し、ファイル編集などのオーケストレーションをCopilotが担当するため、開発者はエージェントの動作を定義するだけで実装可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  Nutlope/hallmark Hallmarkは、AIが生成したように見えない独自のU…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtpqnrunk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtpqnrunk2l</guid>
-      <pubDate>Fri, 17 Jul 2026 12:09:21 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>Nutlope/hallmark<br>Hallmarkは、AIが生成したように見えない独自のUIデザインを作成するためのツールです。<br>Claude CodeやCursorなどのAIツールで利用でき、定型的なテンプレートを避け、構造の選定や多様なテーマ適用、品質チェックを行うことで、個別の要件に合わせたユニークなWebサイトを構築します。<br>主な機能には、新規UI構築、既存コードの診断、デザインの再設計、および参考デザインからの設計要素抽出があります。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Nutlope/hallmark<br>Hallmarkは、AIが生成したように見えない独自のUIデザインを作成するためのツールです。<br>Claude CodeやCursorなどのAIツールで利用でき、定型的なテンプレートを避け、構造の選定や多様なテーマ適用、品質チェックを行うことで、個別の要件に合わせたユニークなWebサイトを構築します。<br>主な機能には、新規UI構築、既存コードの診断、デザインの再設計、および参考デザインからの設計要素抽出があります。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  HenryNdubuaku/maths-cs-ai-compendium 数学、コンピュー…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtppxexag2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtppxexag2y</guid>
-      <pubDate>Fri, 17 Jul 2026 12:08:57 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>HenryNdubuaku/maths-cs-ai-compendium<br>数学、コンピュータサイエンス、人工知能を基礎から学ぶためのオープンな教科書です。<br>試験対策ではなく、実務者が本質的な理解を得られるよう直感的な説明と現実的な文脈で構成されています。<br>また、AIアシスタントがこのリポジトリを知識ベースとして活用できるMCPサーバーも搭載しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>HenryNdubuaku/maths-cs-ai-compendium<br>数学、コンピュータサイエンス、人工知能を基礎から学ぶためのオープンな教科書です。<br>試験対策ではなく、実務者が本質的な理解を得られるよう直感的な説明と現実的な文脈で構成されています。<br>また、AIアシスタントがこのリポジトリを知識ベースとして活用できるMCPサーバーも搭載しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  codecrafters-io/build-your-own-x 様々な技術をゼロから構築…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtppfxjbv2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtppfxjbv2k</guid>
-      <pubDate>Fri, 17 Jul 2026 12:08:39 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>codecrafters-io/build-your-own-x<br>様々な技術をゼロから構築するためのガイドをまとめたリポジトリです。<br>OSやデータベース、AIモデルなどのテクノロジーを自作し、その仕組みを深く理解することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>codecrafters-io/build-your-own-x<br>様々な技術をゼロから構築するためのガイドをまとめたリポジトリです。<br>OSやデータベース、AIモデルなどのテクノロジーを自作し、その仕組みを深く理解することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
