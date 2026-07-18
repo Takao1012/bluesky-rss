@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 06:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:28:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   LLMsには賛否両論があるが、筆者自身は多用しており、信頼性と倫理の問題、OSSの貢献の難化…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvrg4yana2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvrg4yana2t</guid>
+      <pubDate>Sat, 18 Jul 2026 07:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LLMsには賛否両論があるが、筆者自身は多用しており、信頼性と倫理の問題、OSSの貢献の難化などの懸念と、個人の思考を拡張する価値を両立させていると述べる。彼は「AI slop」を避ける工夫として厳格な問題定義やグリル-meなどの手法を用い、人間の思考を前提としてAIを補助的に活用することで高品質な成果を生み出せると主張する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LLMsには賛否両論があるが、筆者自身は多用しており、信頼性と倫理の問題、OSSの貢献の難化などの懸念と、個人の思考を拡張する価値を両立させていると述べる。彼は「AI slop」を避ける工夫として厳格な問題定義やグリル-meなどの手法を用い、人間の思考を前提としてAIを補助的に活用することで高品質な成果を生み出せると主張する。]]></content:encoded>
+    </item>
+    <item>
+      <title>LLMの批評家は正しい。それでも私はLLMsを使う。 The LLM Critics Are Right. I Use …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvrfwzjzx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvrfwzjzx2r</guid>
+      <pubDate>Sat, 18 Jul 2026 07:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[LLMの批評家は正しい。それでも私はLLMsを使う。<br>The LLM Critics Are Right. I Use LLMs Anyway<br><br>🔺 292<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[LLMの批評家は正しい。それでも私はLLMsを使う。<br>The LLM Critics Are Right. I Use LLMs Anyway<br><br>🔺 292<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日まで…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkphbasa2t</link>
@@ -469,24 +487,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 RyanCodrai / turbovec<br>⭐ 13,166 (+280)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 RyanCodrai / turbovec<br>⭐ 13,166 (+280)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/cwc-workshops Anthropicが運営するCode w…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtprjxcdw2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtprjxcdw2y</guid>
-      <pubDate>Fri, 17 Jul 2026 12:09:50 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/cwc-workshops<br>Anthropicが運営するCode with Claudeワークショップの教材をまとめたリポジトリです。<br>現在はメンテナンスされておらず、外部からの寄稿も受け付けていません。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/cwc-workshops<br>Anthropicが運営するCode with Claudeワークショップの教材をまとめたリポジトリです。<br>現在はメンテナンスされておらず、外部からの寄稿も受け付けていません。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  github/copilot-sdk GitHub Copilot SDKsは、Pytho…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtpra5fdb2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mqtpra5fdb2d</guid>
-      <pubDate>Fri, 17 Jul 2026 12:09:40 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>github/copilot-sdk<br>GitHub Copilot SDKsは、Python、TypeScript、Go、.NET、Java、RustなどのアプリケーションにCopilotのエージェントワークフローを組み込むためのSDKです。<br>Copilot CLIのエンジンをプログラムから利用でき、プランニングやツール呼び出し、ファイル編集などのオーケストレーションをCopilotが担当するため、開発者はエージェントの動作を定義するだけで実装可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>github/copilot-sdk<br>GitHub Copilot SDKsは、Python、TypeScript、Go、.NET、Java、RustなどのアプリケーションにCopilotのエージェントワークフローを組み込むためのSDKです。<br>Copilot CLIのエンジンをプログラムから利用でき、プランニングやツール呼び出し、ファイル編集などのオーケストレーションをCopilotが担当するため、開発者はエージェントの動作を定義するだけで実装可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
