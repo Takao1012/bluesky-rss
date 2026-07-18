@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:40:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>買っちゃった</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqwb7mcyv22p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqwb7mcyv22p</guid>
+      <pubDate>Sat, 18 Jul 2026 12:27:16 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[買っちゃった
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihu4y64p3ghwqybqiiaxgol7udp5redfxbt2omayjdyj23dco6kne" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[買っちゃった
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihu4y64p3ghwqybqiiaxgol7udp5redfxbt2omayjdyj23dco6kne" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihu4y64p3ghwqybqiiaxgol7udp5redfxbt2omayjdyj23dco6kne" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>たとえちいかわコラボが売り切れていてもノーマルメニューを食べて帰る！という強い意志を持ってココイチに行けばいいのか….…</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mqw5bqx2mc2b</link>
@@ -458,15 +470,6 @@
       <author>鈴木二三江 (@suzufuming.bsky.social)</author>
       <description><![CDATA[夏苦手すぎてどうしても作業が遅れてしまう。床で死んでしまいがち]]></description>
       <content:encoded><![CDATA[夏苦手すぎてどうしても作業が遅れてしまう。床で死んでしまいがち]]></content:encoded>
-    </item>
-    <item>
-      <title>ありがとうございます！珍しく続いてます！</title>
-      <link>https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mqremony2k2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mqremony2k2c</guid>
-      <pubDate>Thu, 16 Jul 2026 13:44:57 GMT</pubDate>
-      <author>はづき (@haduki456.bsky.social)</author>
-      <description><![CDATA[ありがとうございます！珍しく続いてます！]]></description>
-      <content:encoded><![CDATA[ありがとうございます！珍しく続いてます！]]></content:encoded>
     </item>
   </channel>
 </rss>
