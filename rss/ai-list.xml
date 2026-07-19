@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:45:08 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Jamcorderの著者は、ハードウェア開発は思ったほど難しくなく、最大の難関はソフトウェア…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzdfwhddy2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzdfwhddy2r</guid>
+      <pubDate>Sun, 19 Jul 2026 17:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Jamcorderの著者は、ハードウェア開発は思ったほど難しくなく、最大の難関はソフトウェア開発だったと振り返る。2500台を売り上げ、粗利70%以上を目指すなど、現場の実務的なノウハウと簡潔な設計方針を共有しつつ、ハードウェアは「作り方次第で難易度が変わる」という結論を述べている。実務的な要点としては、BOMの簡素化・中国の組立・サンプル取得・自社QA・梱包を小さく・偽造対策などの具体的な実践を挙げている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Jamcorderの著者は、ハードウェア開発は思ったほど難しくなく、最大の難関はソフトウェア開発だったと振り返る。2500台を売り上げ、粗利70%以上を目指すなど、現場の実務的なノウハウと簡潔な設計方針を共有しつつ、ハードウェアは「作り方次第で難易度が変わる」という結論を述べている。実務的な要点としては、BOMの簡素化・中国の組立・サンプル取得・自社QA・梱包を小さく・偽造対策などの具体的な実践を挙げている。]]></content:encoded>
+    </item>
+    <item>
+      <title>2,500台のMIDIレコーダーを売って学んだこと：ハードウェアはそれほど難しくない What I learned se…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzdfrpnpf2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzdfrpnpf2f</guid>
+      <pubDate>Sun, 19 Jul 2026 17:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[2,500台のMIDIレコーダーを売って学んだこと：ハードウェアはそれほど難しくない<br>What I learned selling 2,500 MIDI recorders: Hardware is not so hard<br><br>🔺 286<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[2,500台のMIDIレコーダーを売って学んだこと：ハードウェアはそれほど難しくない<br>What I learned selling 2,500 MIDI recorders: Hardware is not so hard<br><br>🔺 286<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 microsoft / terminal ⭐ 104,019 (+13) 🗒 C++  The new Wind…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzbthu5qh2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzbthu5qh2u</guid>
+      <pubDate>Sun, 19 Jul 2026 17:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 microsoft / terminal<br>⭐ 104,019 (+13)<br>🗒 C++<br><br>The new Windows Terminal and the original Windows console host, all in the same place!]]></description>
+      <content:encoded><![CDATA[📦 microsoft / terminal<br>⭐ 104,019 (+13)<br>🗒 C++<br><br>The new Windows Terminal and the original Windows console host, all in the same place!]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 PKUFlyingPig / cs-self-…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqz6hxnt2g2u</link>
@@ -454,33 +481,6 @@ src/bundler/bundle_v2.rs
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[保守計画）を共有している。 (2/2)]]></description>
       <content:encoded><![CDATA[保守計画）を共有している。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzneprri2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzneprri2w</guid>
-      <pubDate>Sat, 18 Jul 2026 19:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善することや、WALモードの有効化など基本的な運用ポイントを学んだ経験を紹介している。 <br>- 大量削除などの運用時には5秒以上かかる処理を分割実行するなど、SQLiteの制約とデータベース運用の難しさを実感した話と、PostgreSQLのような複数 writer を想定した運用の利点にも触れている。 <br>- バックアップ方法として restic と Litestream の比較、複数データベースファイルの活用、実践的な運用ノウハウ（監視、バックアップ戦略、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- DjangoとSQLiteを組み合わせて使う際、ANALYZEを実行してクエリ計画を改善することや、WALモードの有効化など基本的な運用ポイントを学んだ経験を紹介している。 <br>- 大量削除などの運用時には5秒以上かかる処理を分割実行するなど、SQLiteの制約とデータベース運用の難しさを実感した話と、PostgreSQLのような複数 writer を想定した運用の利点にも触れている。 <br>- バックアップ方法として restic と Litestream の比較、複数データベースファイルの活用、実践的な運用ノウハウ（監視、バックアップ戦略、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>SQLiteを実行する際のポイントをいくつか学ぶ Learning a few things about running…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzn76xpw27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqwzn76xpw27</guid>
-      <pubDate>Sat, 18 Jul 2026 19:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[SQLiteを実行する際のポイントをいくつか学ぶ<br>Learning a few things about running SQLite<br><br>🔺 313<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[SQLiteを実行する際のポイントをいくつか学ぶ<br>Learning a few things about running SQLite<br><br>🔺 313<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Mistral, etc.) and provides quickstart instructions, macOS s…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2vq5ug2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2vq5ug2z</guid>
-      <pubDate>Sat, 18 Jul 2026 19:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></description>
-      <content:encoded><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
