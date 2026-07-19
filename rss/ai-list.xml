@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 18:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:59:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>という点を示している。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk4ao33d2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk4ao33d2o</guid>
+      <pubDate>Sun, 19 Jul 2026 19:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[という点を示している。 (2/2)]]></description>
+      <content:encoded><![CDATA[という点を示している。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   クラウドAI Claude Codeのバージョン確認から、Rustで書かれた Bun が実運…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk4ajz3q27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk4ajz3q27</guid>
+      <pubDate>Sun, 19 Jul 2026 19:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>クラウドAI Claude Codeのバージョン確認から、Rustで書かれた Bun が実運用で使われていることを裏付ける証拠を複数提示。具体的には claude 実行ファイル内に Bun v1（最新は v1.4.0 らしい）や src/... .rs ファイル名の列が見つかり、Rust版 Bun が canary 版として公開されていること、また canary を使うと Bun のバージョンが確認できる方法も紹介されている。要するに、 Claude Code が Bun（Rust版）を実運用で利用しており、最新版はcanaryで配布されている、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>クラウドAI Claude Codeのバージョン確認から、Rustで書かれた Bun が実運用で使われていることを裏付ける証拠を複数提示。具体的には claude 実行ファイル内に Bun v1（最新は v1.4.0 らしい）や src/... .rs ファイル名の列が見つかり、Rust版 Bun が canary 版として公開されていること、また canary を使うと Bun のバージョンが確認できる方法も紹介されている。要するに、 Claude Code が Bun（Rust版）を実運用で利用しており、最新版はcanaryで配布されている、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Codeは現在、Rustで書かれた Bun を使用しています。 Claude Code uses Bun …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk43i4jq2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk43i4jq2r</guid>
+      <pubDate>Sun, 19 Jul 2026 19:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Claude Codeは現在、Rustで書かれた Bun を使用しています。<br>Claude Code uses Bun written in Rust now<br><br>🔺 303<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Claude Codeは現在、Rustで書かれた Bun を使用しています。<br>Claude Code uses Bun written in Rust now<br><br>🔺 303<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>capability. It includes a stories editor, post-processing ef…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzf6mv4zi2p</link>
@@ -454,33 +481,6 @@ src/bundler/bundle_v2.rs
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Securi…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxjf76ubw24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxjf76ubw24</guid>
-      <pubDate>Sun, 19 Jul 2026 00:26:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   z80の歴史と影響を振り返る記事。8008/8080系の設計経緯から、z80が8ビット市場の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxh2oktr22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxh2oktr22n</guid>
-      <pubDate>Sat, 18 Jul 2026 23:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>z80の歴史と影響を振り返る記事。8008/8080系の設計経緯から、z80が8ビット市場の標準を形作り、後のゲームボーイや産業用途にも広く普及した経緯、そして8080互換性を保ちつつ拡張した機能や周辺設計の工夫について詳述している。さらに、z80の登場が後続のZ8000などの発展にも影響を与えたことを説明している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>z80の歴史と影響を振り返る記事。8008/8080系の設計経緯から、z80が8ビット市場の標準を形作り、後のゲームボーイや産業用途にも広く普及した経緯、そして8080互換性を保ちつつ拡張した機能や周辺設計の工夫について詳述している。さらに、z80の登場が後続のZ8000などの発展にも影響を与えたことを説明している。]]></content:encoded>
-    </item>
-    <item>
-      <title>Zilog Z80は50周年を迎えました。 The Zilog Z80 has turned 50  🔺 272 💬…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxh2gox6i2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxh2gox6i2d</guid>
-      <pubDate>Sat, 18 Jul 2026 23:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Zilog Z80は50周年を迎えました。<br>The Zilog Z80 has turned 50<br><br>🔺 272<br>💬 43<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Zilog Z80は50周年を迎えました。<br>The Zilog Z80 has turned 50<br><br>🔺 272<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
