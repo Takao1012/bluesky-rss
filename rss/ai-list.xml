@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 15:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:41:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 PKUFlyingPig / cs-self-…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqz6hxnt2g2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqz6hxnt2g2u</guid>
+      <pubDate>Sun, 19 Jul 2026 16:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 PKUFlyingPig / cs-self-learning<br>⭐ 74,057 (+128)<br>🗒 HTML<br><br>计算机自学指南]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 PKUFlyingPig / cs-self-learning<br>⭐ 74,057 (+128)<br>🗒 HTML<br><br>计算机自学指南]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AI投資はほぼ全滅、企業は実際の効果を測れず高額な導入を進める一方で、 believable…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqz4pba62o2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqz4pba62o2o</guid>
+      <pubDate>Sun, 19 Jul 2026 15:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AI投資はほぼ全滅、企業は実際の効果を測れず高額な導入を進める一方で、 believable gains は少数で多くのプロジェクトは失敗していると著者は指摘する。さらに「AI信仰」は組織内の宗教的現象化を招き、経営陣や従業員の発言が現実と乖離していて暴走を抑えられない状況が続くと述べられている。著者はこの状況を「狂気的AI熱」として批判し、現場の苦悩とリスクを具体例とともに描いている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AI投資はほぼ全滅、企業は実際の効果を測れず高額な導入を進める一方で、 believable gains は少数で多くのプロジェクトは失敗していると著者は指摘する。さらに「AI信仰」は組織内の宗教的現象化を招き、経営陣や従業員の発言が現実と乖離していて暴走を抑えられない状況が続くと述べられている。著者はこの状況を「狂気的AI熱」として批判し、現場の苦悩とリスクを具体例とともに描いている。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIブームが世界の意思決定を蝕んでいる AI Mania Is Eviscerating Global Decision…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqz4p3il7o2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqz4p3il7o2c</guid>
+      <pubDate>Sun, 19 Jul 2026 15:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIブームが世界の意思決定を蝕んでいる<br>AI Mania Is Eviscerating Global Decision-Making<br><br>🔺 322<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIブームが世界の意思決定を蝕んでいる<br>AI Mania Is Eviscerating Global Decision-Making<br><br>🔺 322<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 POPOPOになぜ30億円投じたのか→「日本で大企業の新規事業やＶＣがスタートアップに投資する金額って10億超える…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqz3ojqyxf2g</link>
@@ -454,33 +481,6 @@ src/bundler/bundle_v2.rs
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></description>
       <content:encoded><![CDATA[Mistral, etc.) and provides quickstart instructions, macOS support, and example notebooks. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   AirLLM enables running very large language mod…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2votxd2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2votxd2u</guid>
-      <pubDate>Sat, 18 Jul 2026 19:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>AirLLM enables running very large language models on low-end GPUs by keeping only one model layer on the GPU at a time, and adds optional 4-bit/8-bit block-wise compression to speed up inference without heavy quantization. It supports a wide range of models (Llama, Qwen, DeepSeek, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>AirLLM enables running very large language models on low-end GPUs by keeping only one model layer on the GPU at a time, and adds optional 4-bit/8-bit block-wise compression to speed up inference without heavy quantization. It supports a wide range of models (Llama, Qwen, DeepSeek, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 lyogavin / airllm ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2stlyi2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwy2stlyi2p</guid>
-      <pubDate>Sat, 18 Jul 2026 19:16:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 lyogavin / airllm<br>⭐ 23,139 (+242)<br>🗒 Jupyter Notebook<br><br>AirLLM 70B inference with single 4GB GPU]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 lyogavin / airllm<br>⭐ 23,139 (+242)<br>🗒 Jupyter Notebook<br><br>AirLLM 70B inference with single 4GB GPU]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 MoonshotAI / kimi-cli ⭐ 9,268 (+48) 🗒 Python  Kimi Code …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwuqdpwd524</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqwuqdpwd524</guid>
-      <pubDate>Sat, 18 Jul 2026 18:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 MoonshotAI / kimi-cli<br>⭐ 9,268 (+48)<br>🗒 Python<br><br>Kimi Code CLI is your next CLI agent.]]></description>
-      <content:encoded><![CDATA[📦 MoonshotAI / kimi-cli<br>⭐ 9,268 (+48)<br>🗒 Python<br><br>Kimi Code CLI is your next CLI agent.]]></content:encoded>
     </item>
   </channel>
 </rss>
