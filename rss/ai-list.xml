@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 22:37:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>optimizations, quantization, and seamless integration for pr…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqmo622h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqmo622h</guid>
+      <pubDate>Sun, 19 Jul 2026 22:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[optimizations, quantization, and seamless integration for production serving and ultra-large MoE fine-tuning. (2/2)]]></description>
+      <content:encoded><![CDATA[optimizations, quantization, and seamless integration for production serving and ultra-large MoE fine-tuning. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   KTransformers provides a CPU-GPU hybrid framew…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqlfwq2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqlfwq2u</guid>
+      <pubDate>Sun, 19 Jul 2026 22:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>KTransformers provides a CPU-GPU hybrid framework for efficient LLM inference and fine-tuning, featuring high-performance kt-kernel inference and SFT via LLaMA-Factory, with ongoing Day0 support for multiple models and extensive tutorials. It includes AMX/AVX acceleration, MoE (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>KTransformers provides a CPU-GPU hybrid framework for efficient LLM inference and fine-tuning, featuring high-performance kt-kernel inference and SFT via LLaMA-Factory, with ongoing Day0 support for multiple models and extensive tutorials. It includes AMX/AVX acceleration, MoE (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 kvcache-ai / ktrans…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslnnpyh2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslnnpyh2g</guid>
+      <pubDate>Sun, 19 Jul 2026 22:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 kvcache-ai / ktransformers<br>⭐ 18,154 (+328)<br>🗒 Python<br><br>A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 kvcache-ai / ktransformers<br>⭐ 18,154 (+328)<br>🗒 Python<br><br>A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Castorは、ウェブページや直接のストリームURLを指定すると、動画をリアルタイムで抽出・…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzqt3jofk2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzqt3jofk2g</guid>
+      <pubDate>Sun, 19 Jul 2026 21:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Castorは、ウェブページや直接のストリームURLを指定すると、動画をリアルタイムで抽出・トランスコードしてTVへキャストするオープンソースツールです。 headless Chromeを用いて動画を検出・再生し、DLNA/UPnP対応テレビやChromecast、Docker版も利用可能。 DRMを回避せず、合法的な用途を前提とした汎用キャスティングツールです。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Castorは、ウェブページや直接のストリームURLを指定すると、動画をリアルタイムで抽出・トランスコードしてTVへキャストするオープンソースツールです。 headless Chromeを用いて動画を検出・再生し、DLNA/UPnP対応テレビやChromecast、Docker版も利用可能。 DRMを回避せず、合法的な用途を前提とした汎用キャスティングツールです。]]></content:encoded>
+    </item>
+    <item>
+      <title>IPTVよりも優れていて、安い Better and Cheaper Than IPTV  🔺 312 💬 15 �…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzqsuck2l2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzqsuck2l2t</guid>
+      <pubDate>Sun, 19 Jul 2026 21:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[IPTVよりも優れていて、安い<br>Better and Cheaper Than IPTV<br><br>🔺 312<br>💬 15<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[IPTVよりも優れていて、安い<br>Better and Cheaper Than IPTV<br><br>🔺 312<br>💬 15<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 trycua / cua ⭐ 20,157 (…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzpacgxkz2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzpacgxkz2u</guid>
+      <pubDate>Sun, 19 Jul 2026 21:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 trycua / cua<br>⭐ 20,157 (+136)<br>🗒 HTML<br><br>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 trycua / cua<br>⭐ 20,157 (+136)<br>🗒 HTML<br><br>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 Canner / WrenAI ⭐ 16,046 (+96) 🗒 Python  GenBI (Generati…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzlv4i7gy2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzlv4i7gy2j</guid>
+      <pubDate>Sun, 19 Jul 2026 20:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 Canner / WrenAI<br>⭐ 16,046 (+96)<br>🗒 Python<br><br>GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreS...]]></description>
+      <content:encoded><![CDATA[📦 Canner / WrenAI<br>⭐ 16,046 (+96)<br>🗒 Python<br><br>GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreS...]]></content:encoded>
+    </item>
     <item>
       <title>という点を示している。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzk4ao33d2o</link>
@@ -393,94 +456,6 @@
       <author>shi3z (@shi3z.bsky.social)</author>
       <description><![CDATA[お腹空いてきた]]></description>
       <content:encoded><![CDATA[お腹空いてきた]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った串焼き80円の激安居酒屋が最高な件 / …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqy25zmy4t2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqy25zmy4t2n</guid>
-      <pubDate>Sun, 19 Jul 2026 05:26:26 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った串焼き80円の激安居酒屋が最高な件 / 東京・神田「やきとん三吉」で半導体グルメ|ガジェット通信 GetNews<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った串焼き80円の激安居酒屋が最高な件 / 東京・神田「やきとん三吉」で半導体グルメ|ガジェット通信 GetNews<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxwsdg57z22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxwsdg57z22</guid>
-      <pubDate>Sun, 19 Jul 2026 04:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>If you have Claude Code installed you&apos;re running software th…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqxvkzieoc2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqxvkzieoc2t</guid>
-      <pubDate>Sun, 19 Jul 2026 04:04:13 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[If you have Claude Code installed you're running software that uses the new (unreleased) version of Bun that's been rewritten in Rust - here are two commands you can run to see that for yourself simonwillison.net/2026/Jul/19/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" alt="strings ~/.local/bin/claude | grep -m1 'Bun v1'
-
-For me this outputs Bun v1.4.0 (macOS arm64). The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version.
-
-strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\.rs'
-
-This outputs a list of 563 filenames, starting with these:
-
-src/runtime/bake/dev_server/mod.rs
-src/runtime/bake/production.rs
-src/bundler/bundle_v2.rs
-" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[If you have Claude Code installed you're running software that uses the new (unreleased) version of Bun that's been rewritten in Rust - here are two commands you can run to see that for yourself simonwillison.net/2026/Jul/19/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" alt="strings ~/.local/bin/claude | grep -m1 'Bun v1'
-
-For me this outputs Bun v1.4.0 (macOS arm64). The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version.
-
-strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\.rs'
-
-This outputs a list of 563 filenames, starting with these:
-
-src/runtime/bake/dev_server/mod.rs
-src/runtime/bake/production.rs
-src/bundler/bundle_v2.rs
-" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhzffej2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhzffej2k</guid>
-      <pubDate>Sun, 19 Jul 2026 03:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で、イベントの供給不足を埋めることで速く関係を深められる。多くの場で「受け身」でいる人が多く、実際には誰かが動いてイベントを作らないと場は生まれないため、リーダーは努力する人が担うと著しく認識される。社会的孤立の原因は“無料で消費するだけの人”が多いことにあり、自分のコミュニティでイベントを提供することで解決できる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で、イベントの供給不足を埋めることで速く関係を深められる。多くの場で「受け身」でいる人が多く、実際には誰かが動いてイベントを作らないと場は生まれないため、リーダーは努力する人が担うと著しく認識される。社会的孤立の原因は“無料で消費するだけの人”が多いことにあり、自分のコミュニティでイベントを提供することで解決できる。]]></content:encoded>
-    </item>
-    <item>
-      <title>もしそれを作れば、彼らは来る。 If You Build It, They Will Come  🔺 314 💬 3…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhsdpsj2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhsdpsj2o</guid>
-      <pubDate>Sun, 19 Jul 2026 03:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[もしそれを作れば、彼らは来る。<br>If You Build It, They Will Come<br><br>🔺 314<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[もしそれを作れば、彼らは来る。<br>If You Build It, They Will Come<br><br>🔺 314<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnreueih2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnreueih2c</guid>
-      <pubDate>Sun, 19 Jul 2026 01:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で、価格・契約条件の点でもClaudeが劣っていると結論づけている。さらに米国のAI規制がオープンソースや国外モデルを優先的に扱う形で機会損失を生んでおり、 Claudeの現行プランは十分に競争力がなく、将来の方向性にも懸念があると指摘している。結局、筆者はClaudeの継続利用をためらうと述べている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で、価格・契約条件の点でもClaudeが劣っていると結論づけている。さらに米国のAI規制がオープンソースや国外モデルを優先的に扱う形で機会損失を生んでおり、 Claudeの現行プランは十分に競争力がなく、将来の方向性にも懸念があると指摘している。結局、筆者はClaudeの継続利用をためらうと述べている。]]></content:encoded>
-    </item>
-    <item>
-      <title>ザ・キミ K3 モーメント The Kimi K3 Moment  🔺 291 💬 41 🔗 HN Post | …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnra52ki2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnra52ki2d</guid>
-      <pubDate>Sun, 19 Jul 2026 01:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
