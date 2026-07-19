@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 22:37:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 23:44:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Summary:   - 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwwxj6d2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwwxj6d2g</guid>
+      <pubDate>Sun, 19 Jul 2026 23:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>- 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/泰米尔版）及配套示例代码，含章节概览、实验项目、外部仓库获取清单与安装/编译指引。核心思想为 Agent = LLM + 上下文 + 工具，系统性覆盖上下文工程、工具设计、记忆与知识库、编码/评估、模态与多代理协作等主题，并附大量独立可运行的实验与设计文档。]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>- 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/泰米尔版）及配套示例代码，含章节概览、实验项目、外部仓库获取清单与安装/编译指引。核心思想为 Agent = LLM + 上下文 + 工具，系统性覆盖上下文工程、工具设计、记忆与知识库、编码/评估、模态与多代理协作等主题，并附大量独立可运行的实验与设计文档。]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 bojieli / ai-agent-b…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwuatvz2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwuatvz2j</guid>
+      <pubDate>Sun, 19 Jul 2026 23:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 bojieli / ai-agent-book<br>⭐ 5,307 (+1,734)<br>🗒 Python<br><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 bojieli / ai-agent-book<br>⭐ 5,307 (+1,734)<br>🗒 Python<br><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码]]></content:encoded>
+    </item>
     <item>
       <title>optimizations, quantization, and seamless integration for pr…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqmo622h</link>
@@ -438,24 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>ニューヨーク市長ゾフラン・マムダニは「クリックで解約」規制に続き、AI生成・編集画像を使った物件表示の詐欺的行為を取り締まる「レンタル・リポーリット・ヒアリング」報告を公表し、家主や不動産業者にはAI使用の開示を義務付ける方針を示した。報告は、AI改変 listings の開示義務化や入居者組合の認識拡大、入居者の交渉権拡充を提案し、遠隔契約時の現実と写真の乖離による被害を防ぐことを目的としている。マムダニ市長はこれを「新たな入居者の力の章」と位置づけ、全市での監督強化と tenant organizing の促進を強調した。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>ニューヨーク市長ゾフラン・マムダニは「クリックで解約」規制に続き、AI生成・編集画像を使った物件表示の詐欺的行為を取り締まる「レンタル・リポーリット・ヒアリング」報告を公表し、家主や不動産業者にはAI使用の開示を義務付ける方針を示した。報告は、AI改変 listings の開示義務化や入居者組合の認識拡大、入居者の交渉権拡充を提案し、遠隔契約時の現実と写真の乖離による被害を防ぐことを目的としている。マムダニ市長はこれを「新たな入居者の力の章」と位置づけ、全市での監督強化と tenant organizing の促進を強調した。]]></content:encoded>
-    </item>
-    <item>
-      <title>マムダニ市長、家主は広告にAI画像を使ってはならないと述べる Mayor Mamdani Says Landlords …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqy366q3ue2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqy366q3ue2d</guid>
-      <pubDate>Sun, 19 Jul 2026 05:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[マムダニ市長、家主は広告にAI画像を使ってはならないと述べる<br>Mayor Mamdani Says Landlords Can't Use AI Images to Advertise<br><br>🔺 377<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[マムダニ市長、家主は広告にAI画像を使ってはならないと述べる<br>Mayor Mamdani Says Landlords Can't Use AI Images to Advertise<br><br>🔺 377<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>お腹空いてきた</title>
-      <link>https://bsky.app/profile/did:plc:g5sossn7abzsesy3fcj2px7x/post/3mqy2sbdqi22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g5sossn7abzsesy3fcj2px7x/post/3mqy2sbdqi22o</guid>
-      <pubDate>Sun, 19 Jul 2026 05:37:45 GMT</pubDate>
-      <author>shi3z (@shi3z.bsky.social)</author>
-      <description><![CDATA[お腹空いてきた]]></description>
-      <content:encoded><![CDATA[お腹空いてきた]]></content:encoded>
     </item>
   </channel>
 </rss>
