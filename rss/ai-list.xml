@@ -5,8 +5,87 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 01:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 04:56:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxwsdg57z22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxwsdg57z22</guid>
+      <pubDate>Sun, 19 Jul 2026 04:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>If you have Claude Code installed you&apos;re running software th…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqxvkzieoc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mqxvkzieoc2t</guid>
+      <pubDate>Sun, 19 Jul 2026 04:04:13 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[If you have Claude Code installed you're running software that uses the new (unreleased) version of Bun that's been rewritten in Rust - here are two commands you can run to see that for yourself simonwillison.net/2026/Jul/19/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" alt="strings ~/.local/bin/claude | grep -m1 'Bun v1'
+
+For me this outputs Bun v1.4.0 (macOS arm64). The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version.
+
+strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\.rs'
+
+This outputs a list of 563 filenames, starting with these:
+
+src/runtime/bake/dev_server/mod.rs
+src/runtime/bake/production.rs
+src/bundler/bundle_v2.rs
+" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[If you have Claude Code installed you're running software that uses the new (unreleased) version of Bun that's been rewritten in Rust - here are two commands you can run to see that for yourself simonwillison.net/2026/Jul/19/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" alt="strings ~/.local/bin/claude | grep -m1 'Bun v1'
+
+For me this outputs Bun v1.4.0 (macOS arm64). The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version.
+
+strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\.rs'
+
+This outputs a list of 563 filenames, starting with these:
+
+src/runtime/bake/dev_server/mod.rs
+src/runtime/bake/production.rs
+src/bundler/bundle_v2.rs
+" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidmjgcdv4hyf3ui7jelvy5nlrr372qoopjjygzyozai4hndepy3jq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhzffej2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhzffej2k</guid>
+      <pubDate>Sun, 19 Jul 2026 03:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で、イベントの供給不足を埋めることで速く関係を深められる。多くの場で「受け身」でいる人が多く、実際には誰かが動いてイベントを作らないと場は生まれないため、リーダーは努力する人が担うと著しく認識される。社会的孤立の原因は“無料で消費するだけの人”が多いことにあり、自分のコミュニティでイベントを提供することで解決できる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>新しいコミュニティに入るには、グループの核となる活動を自分で企画して人を招くのが最も効果的で、イベントの供給不足を埋めることで速く関係を深められる。多くの場で「受け身」でいる人が多く、実際には誰かが動いてイベントを作らないと場は生まれないため、リーダーは努力する人が担うと著しく認識される。社会的孤立の原因は“無料で消費するだけの人”が多いことにあり、自分のコミュニティでイベントを提供することで解決できる。]]></content:encoded>
+    </item>
+    <item>
+      <title>もしそれを作れば、彼らは来る。 If You Build It, They Will Come  🔺 314 💬 3…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhsdpsj2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxuhsdpsj2o</guid>
+      <pubDate>Sun, 19 Jul 2026 03:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[もしそれを作れば、彼らは来る。<br>If You Build It, They Will Come<br><br>🔺 314<br>💬 30<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[もしそれを作れば、彼らは来る。<br>If You Build It, They Will Come<br><br>🔺 314<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnreueih2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnreueih2c</guid>
+      <pubDate>Sun, 19 Jul 2026 01:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で、価格・契約条件の点でもClaudeが劣っていると結論づけている。さらに米国のAI規制がオープンソースや国外モデルを優先的に扱う形で機会損失を生んでおり、 Claudeの現行プランは十分に競争力がなく、将来の方向性にも懸念があると指摘している。結局、筆者はClaudeの継続利用をためらうと述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi K3とClaudeを比較した結果、同等の品質・トークン量でKimiが圧倒的に安価で、価格・契約条件の点でもClaudeが劣っていると結論づけている。さらに米国のAI規制がオープンソースや国外モデルを優先的に扱う形で機会損失を生んでおり、 Claudeの現行プランは十分に競争力がなく、将来の方向性にも懸念があると指摘している。結局、筆者はClaudeの継続利用をためらうと述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ザ・キミ K3 モーメント The Kimi K3 Moment  🔺 291 💬 41 🔗 HN Post | …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnra52ki2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqxnra52ki2d</guid>
+      <pubDate>Sun, 19 Jul 2026 01:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ザ・キミ K3 モーメント<br>The Kimi K3 Moment<br><br>🔺 291<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Securi…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqxjf76ubw24</link>
@@ -402,60 +481,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[LLMの批評家は正しい。それでも私はLLMsを使う。<br>The LLM Critics Are Right. I Use LLMs Anyway<br><br>🔺 292<br>💬 48<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[LLMの批評家は正しい。それでも私はLLMsを使う。<br>The LLM Critics Are Right. I Use LLMs Anyway<br><br>🔺 292<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日まで…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkphbasa2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkphbasa2t</guid>
-      <pubDate>Sat, 18 Jul 2026 05:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日までに公開予定で、3T級モデルとしてOpen Weightedを謳う初の試みとなる。性能はClaude Opus 4.8 maxやGPT-5.5高位をほぼ上回る一方、Fable 5やGPT-5.6 Solには及ばず、価格は入力3ドル/百万、出力15ドル/百万と高めで、前モデルよりもコスト高。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Moonshot AIは、2.8兆パラメータのKimi K3を発表。公開重量は7月27日までに公開予定で、3T級モデルとしてOpen Weightedを謳う初の試みとなる。性能はClaude Opus 4.8 maxやGPT-5.5高位をほぼ上回る一方、Fable 5やGPT-5.6 Solには及ばず、価格は入力3ドル/百万、出力15ドル/百万と高めで、前モデルよりもコスト高。]]></content:encoded>
-    </item>
-    <item>
-      <title>Kimi K3と、ペリカン・ベンチマークから今なお学べること Kimi K3, and what we can stil…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkpccgra2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvkpccgra2t</guid>
-      <pubDate>Sat, 18 Jul 2026 05:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Kimi K3と、ペリカン・ベンチマークから今なお学べること<br>Kimi K3, and what we can still learn from the pelican benchmark<br><br>🔺 305<br>💬 33<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Kimi K3と、ペリカン・ベンチマークから今なお学べること<br>Kimi K3, and what we can still learn from the pelican benchmark<br><br>🔺 305<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプラ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqvjozpavf2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqvjozpavf2l</guid>
-      <pubDate>Sat, 18 Jul 2026 05:26:23 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   カイザー・パーマネンテの看護師たちは、電話相談での通話時間やAIによる監視・評価が強化される…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvdyyorhz2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvdyyorhz2r</guid>
-      <pubDate>Sat, 18 Jul 2026 03:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>カイザー・パーマネンテの看護師たちは、電話相談での通話時間やAIによる監視・評価が強化される中、患者ケアの自律性が脅かされていると語っている。15分以上の通話を重視する評価や、共感や語調をAIで判定する試みなどが現場のストレスを増し、看護師の判断や思いやりの提供が抑制される恐れが指摘されている。カリフォルニア州の労働団体はAI規制法案を推進しており、今後の労使交渉でAIの適正な運用と患者安全をめぐる議論が焦点となっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>カイザー・パーマネンテの看護師たちは、電話相談での通話時間やAIによる監視・評価が強化される中、患者ケアの自律性が脅かされていると語っている。15分以上の通話を重視する評価や、共感や語調をAIで判定する試みなどが現場のストレスを増し、看護師の判断や思いやりの提供が抑制される恐れが指摘されている。カリフォルニア州の労働団体はAI規制法案を推進しており、今後の労使交渉でAIの適正な運用と患者安全をめぐる議論が焦点となっている。]]></content:encoded>
-    </item>
-    <item>
-      <title>カイザーの看護師は、AIと職場での監視が自分たちの仕事と患者ケアを悪化させていると述べている。 Kaiser nurse…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvdypy5gz27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqvdypy5gz27</guid>
-      <pubDate>Sat, 18 Jul 2026 03:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[カイザーの看護師は、AIと職場での監視が自分たちの仕事と患者ケアを悪化させていると述べている。<br>Kaiser nurses say AI, workplace surveillance are making their jobs, care worse<br><br>🔺 358<br>💬 33<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[カイザーの看護師は、AIと職場での監視が自分たちの仕事と患者ケアを悪化させていると述べている。<br>Kaiser nurses say AI, workplace surveillance are making their jobs, care worse<br><br>🔺 358<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   LLMsでのプログラミングは生産性を上げつつも大きな疲労と孤立感を生み、従来の満足感を削ぎつ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqv5ckto6527</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqv5ckto6527</guid>
-      <pubDate>Sat, 18 Jul 2026 01:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>LLMsでのプログラミングは生産性を上げつつも大きな疲労と孤立感を生み、従来の満足感を削ぎつつ新たな監督負荷を増やしている。専門知識は死なず、むしろ熟練と設計判断がますます重要になる一方、技術の進化に伴う作業プロセスの再設計と人間の注意力の奪われ方が課題として浮上している。著者はこの変化を「人間のルール作りと判断力がますます価値ある資源になる時代への転換」と捉え、協働文化と新しいワークフローの構築が解決策だと提案している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>LLMsでのプログラミングは生産性を上げつつも大きな疲労と孤立感を生み、従来の満足感を削ぎつつ新たな監督負荷を増やしている。専門知識は死なず、むしろ熟練と設計判断がますます重要になる一方、技術の進化に伴う作業プロセスの再設計と人間の注意力の奪われ方が課題として浮上している。著者はこの変化を「人間のルール作りと判断力がますます価値ある資源になる時代への転換」と捉え、協働文化と新しいワークフローの構築が解決策だと提案している。]]></content:encoded>
     </item>
   </channel>
 </rss>
