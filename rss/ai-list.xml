@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 20:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:55:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたこ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bc5gm3y2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bc5gm3y2t</guid>
+      <pubDate>Mon, 20 Jul 2026 21:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたことで不動産取引が停止。公式サイトは復旧したがネットワークはゼロから再構築中で、盗まれたデータの一部は公開フォーラムで売りに出された。犯人はZakaria Mahdjoubと特定され、ローレンスの捜査に役立つと報じられている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたことで不動産取引が停止。公式サイトは復旧したがネットワークはゼロから再構築中で、盗まれたデータの一部は公開フォーラムで売りに出された。犯人はZakaria Mahdjoubと特定され、ローレンスの捜査に役立つと報じられている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ハッカーがルーマニアの土地登記簿データベースを消去。 Hacker wipes Romania&apos;s land regis…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bbumpsw2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bbumpsw2r</guid>
+      <pubDate>Mon, 20 Jul 2026 21:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ハッカーがルーマニアの土地登記簿データベースを消去。<br>Hacker wipes Romania's land registry database<br><br>🔺 511<br>💬 37<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ハッカーがルーマニアの土地登記簿データベースを消去。<br>Hacker wipes Romania's land registry database<br><br>🔺 511<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 iptv-org / iptv ⭐ 133,5…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr47pcrm4223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr47pcrm4223</guid>
+      <pubDate>Mon, 20 Jul 2026 21:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 iptv-org / iptv<br>⭐ 133,548 (+144)<br>🗒 TypeScript<br><br>Collection of publicly available IPTV channels from all over the world]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 iptv-org / iptv<br>⭐ 133,548 (+144)<br>🗒 TypeScript<br><br>Collection of publicly available IPTV channels from all over the world]]></content:encoded>
+    </item>
     <item>
       <title>and Openschip Cloud, offering multi-stack support and a unif…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr44eeoqjh2j</link>
@@ -432,33 +459,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Emperoが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムで利用可能にするための量子化モデルを提供することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Emperoが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムで利用可能にするための量子化モデルを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR Baiduが開発したUnlimited-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bgbbjd22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bgbbjd22t</guid>
-      <pubDate>Mon, 20 Jul 2026 12:14:17 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルのリポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、特に長大なドキュメントを一度に解析するOne-shot Long-horizon Parsingの実現を目的としています。<br>HuggingFace transformersを用いて、単一画像や複数ページの解析が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルのリポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、特に長大なドキュメントを一度に解析するOne-shot Long-horizon Parsingの実現を目的としています。<br>HuggingFace transformersを用いて、単一画像や複数ページの解析が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  thinkingmachines/Inkling Inklingは、テキスト、画…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bfpphwh2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bfpphwh2h</guid>
-      <pubDate>Mon, 20 Jul 2026 12:13:59 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingは、テキスト、画像、音声の入力を受け取りテキストを出力する汎用マルチモーダルモデルです。<br>多言語やプログラミング言語に対応し、AIアプリケーションの開発者向けに提供されています。<br>具体的には、エージェントシステム、コーディングアシスタント、チャットボット、RAGなどの構築に適しています。<br>研究や微調整、製品への統合を目的としてオープンウェイトで公開されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingは、テキスト、画像、音声の入力を受け取りテキストを出力する汎用マルチモーダルモデルです。<br>多言語やプログラミング言語に対応し、AIアプリケーションの開発者向けに提供されています。<br>具体的には、エージェントシステム、コーディングアシスタント、チャットボット、RAGなどの構築に適しています。<br>研究や微調整、製品への統合を目的としてオープンウェイトで公開されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Moonshot AIはKimi K3の需要により新規契約の受付を停止します Moonshot AI suspends …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr37r2rmju2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr37r2rmju2g</guid>
-      <pubDate>Mon, 20 Jul 2026 11:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Moonshot AIはKimi K3の需要により新規契約の受付を停止します<br>Moonshot AI suspends new subscriptions due to Kimi K3 demand<br><br>🔺 267<br>💬 23<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Moonshot AIはKimi K3の需要により新規契約の受付を停止します<br>Moonshot AI suspends new subscriptions due to Kimi K3 demand<br><br>🔺 267<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
