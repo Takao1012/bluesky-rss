@@ -5,8 +5,431 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprwpuajr22x</link>
     <description>一般ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:44:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>EXCLUSIVE: Diplomatic efforts seek to avert Trump split with…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4hr352bk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4hr352bk2c</guid>
+      <pubDate>Mon, 20 Jul 2026 23:40:22 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[EXCLUSIVE: Diplomatic efforts seek to avert Trump split with UN refugee agency, sources say reut.rs/4b5sKll]]></description>
+      <content:encoded><![CDATA[EXCLUSIVE: Diplomatic efforts seek to avert Trump split with UN refugee agency, sources say reut.rs/4b5sKll]]></content:encoded>
+    </item>
+    <item>
+      <title>Hundreds of family and friends gather to pay tribute to Nola…</title>
+      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4hqsu5r32k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4hqsu5r32k</guid>
+      <pubDate>Mon, 20 Jul 2026 23:40:13 GMT</pubDate>
+      <author>NBC News (@nbcnews.com)</author>
+      <description><![CDATA[Hundreds of family and friends gather to pay tribute to Nolan Wells, the Mississippi teenager who was on a boating trip with friends before he disappeared and was later discovered dead.]]></description>
+      <content:encoded><![CDATA[Hundreds of family and friends gather to pay tribute to Nolan Wells, the Mississippi teenager who was on a boating trip with friends before he disappeared and was later discovered dead.]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖テクノロジー 検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと  会議の場で「あいまい検…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4hqmtxwc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4hqmtxwc2q</guid>
+      <pubDate>Mon, 20 Jul 2026 23:40:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖テクノロジー<br>検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと<br><br>会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...]]></description>
+      <content:encoded><![CDATA[#🔖テクノロジー<br>検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと<br><br>会議の場で「あいまい検索でお願いします」「部分一致でお願いします」という言葉だけが飛び交うことがよくありますが、この4つのどれを指しているかで、実装コストが変わります。 完全一致・前方一致であればRDBのB-treeインデックスがそのまま使えますが、後方一致・部分一致はLIKE '%〇〇%'の形になり、インデックス...]]></content:encoded>
+    </item>
+    <item>
+      <title>Trading Day: War clouds darken reut.rs/4vFIrHm</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4hhu4v3o2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4hhu4v3o2m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:35:13 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Trading Day: War clouds darken reut.rs/4vFIrHm]]></description>
+      <content:encoded><![CDATA[Trading Day: War clouds darken reut.rs/4vFIrHm]]></content:encoded>
+    </item>
+    <item>
+      <title>Richard Dadd review – can his mental illness help explain th…</title>
+      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4hcempkn27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4hcempkn27</guid>
+      <pubDate>Mon, 20 Jul 2026 23:32:09 GMT</pubDate>
+      <author>The Guardian (@theguardian.com)</author>
+      <description><![CDATA[Richard Dadd review – can his mental illness help explain these arresting, bizarre images?]]></description>
+      <content:encoded><![CDATA[Richard Dadd review – can his mental illness help explain these arresting, bizarre images?]]></content:encoded>
+    </item>
+    <item>
+      <title>Chief Mouser Larry the Cat was at Downing Street to welcome …</title>
+      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4havfju72m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4havfju72m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:31:19 GMT</pubDate>
+      <author>CNN (@cnn.com)</author>
+      <description><![CDATA[Chief Mouser Larry the Cat was at Downing Street to welcome Andy Burnham, Britain's seventh prime minister in a decade. CNN's Anna Stewart managed to get a few moments with the 19-year-old famous feline.]]></description>
+      <content:encoded><![CDATA[Chief Mouser Larry the Cat was at Downing Street to welcome Andy Burnham, Britain's seventh prime minister in a decade. CNN's Anna Stewart managed to get a few moments with the 19-year-old famous feline.]]></content:encoded>
+    </item>
+    <item>
+      <title>Samsung launches first US credit card with Barclays, signals…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4h7r5srh2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4h7r5srh2y</guid>
+      <pubDate>Mon, 20 Jul 2026 23:30:41 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Samsung launches first US credit card with Barclays, signals ambitions for deeper financial services push reut.rs/4pvhuEN]]></description>
+      <content:encoded><![CDATA[Samsung launches first US credit card with Barclays, signals ambitions for deeper financial services push reut.rs/4pvhuEN]]></content:encoded>
+    </item>
+    <item>
+      <title>As the expiration deadline on Donald Trump&apos;s temporary tarif…</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4h72ldzp2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4h72ldzp2l</guid>
+      <pubDate>Mon, 20 Jul 2026 23:30:18 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[As the expiration deadline on Donald Trump's temporary tariffs approaches, his administration has indicated that it plans to replace them with more durable and roughly equivalent ones based on accusations concerning forced labor. Here's what to know]]></description>
+      <content:encoded><![CDATA[As the expiration deadline on Donald Trump's temporary tariffs approaches, his administration has indicated that it plans to replace them with more durable and roughly equivalent ones based on accusations concerning forced labor. Here's what to know]]></content:encoded>
+    </item>
+    <item>
+      <title>最高気温40度以上「酷暑日」予想　広範囲で「熱中症警戒アラート」</title>
+      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4h6t7kbf23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4h6t7kbf23</guid>
+      <pubDate>Mon, 20 Jul 2026 23:30:11 GMT</pubDate>
+      <author>朝日新聞 (@asahi.com)</author>
+      <description><![CDATA[最高気温40度以上「酷暑日」予想　広範囲で「熱中症警戒アラート」]]></description>
+      <content:encoded><![CDATA[最高気温40度以上「酷暑日」予想　広範囲で「熱中症警戒アラート」]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖テクノロジー 部屋を片付けられないやつはプロに頼れ  部屋を片付けられない人間 おれは「片付けられない人間」だ。世…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4h6rmgnf25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4h6rmgnf25</guid>
+      <pubDate>Mon, 20 Jul 2026 23:30:08 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖テクノロジー<br>部屋を片付けられないやつはプロに頼れ<br><br>部屋を片付けられない人間 おれは「片付けられない人間」だ。世の中の人間を片付けられる人間と片付けられない人間に分けたら確実に後者。普通に片付けられる人間を100とすれば、おれはマイナス100だ。そんな人間の言い分は以前書いた。 おれの部屋は衣料と本で積み上がり、わけがわからなくなった。ただ、上の記事に書...]]></description>
+      <content:encoded><![CDATA[#🔖テクノロジー<br>部屋を片付けられないやつはプロに頼れ<br><br>部屋を片付けられない人間 おれは「片付けられない人間」だ。世の中の人間を片付けられる人間と片付けられない人間に分けたら確実に後者。普通に片付けられる人間を100とすれば、おれはマイナス100だ。そんな人間の言い分は以前書いた。 おれの部屋は衣料と本で積み上がり、わけがわからなくなった。ただ、上の記事に書...]]></content:encoded>
+    </item>
+    <item>
+      <title>In @nytopinion.nytimes.com   “Even if the Paramount deal shr…</title>
+      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4h6lsowh2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4h6lsowh2h</guid>
+      <pubDate>Mon, 20 Jul 2026 23:30:02 GMT</pubDate>
+      <author>The New York Times (@nytimes.com)</author>
+      <description><![CDATA[In @nytopinion.nytimes.com <br><br>“Even if the Paramount deal shrinks the industry further, great movies and television shows will continue to be made,” Karl Taro Greenfeld writes. “Though they may not be made in the United States. Or by humans.”]]></description>
+      <content:encoded><![CDATA[In @nytopinion.nytimes.com <br><br>“Even if the Paramount deal shrinks the industry further, great movies and television shows will continue to be made,” Karl Taro Greenfeld writes. “Though they may not be made in the United States. Or by humans.”]]></content:encoded>
+    </item>
+    <item>
+      <title>Trump says he had &apos;very good conversation&apos; with new British …</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4gw2eikv2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4gw2eikv2m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:25:15 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Trump says he had 'very good conversation' with new British PM Burnham reut.rs/45c2KRR]]></description>
+      <content:encoded><![CDATA[Trump says he had 'very good conversation' with new British PM Burnham reut.rs/45c2KRR]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行 | NHKニュース  飲酒運転や高速度での走行に…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gvtlzmi2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gvtlzmi2e</guid>
+      <pubDate>Mon, 20 Jul 2026 23:25:08 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖世の中<br>危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行 | NHKニュース<br><br>飲酒運転や高速度での走行に危険運転致死傷罪を適用する数値基準を盛り込んだ改正自動車運転処罰法が21日、施行されました。飲酒運転は呼気1リットルにつき0.5ミリグラム以上で適用されます。 6月に成立…]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行 | NHKニュース<br><br>飲酒運転や高速度での走行に危険運転致死傷罪を適用する数値基準を盛り込んだ改正自動車運転処罰法が21日、施行されました。飲酒運転は呼気1リットルにつき0.5ミリグラム以上で適用されます。 6月に成立…]]></content:encoded>
+    </item>
+    <item>
+      <title>Supporters of India‘s youth-led “cockroach” movement are can…</title>
+      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4gn5utfe2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4gn5utfe2t</guid>
+      <pubDate>Mon, 20 Jul 2026 23:20:17 GMT</pubDate>
+      <author>NBC News (@nbcnews.com)</author>
+      <description><![CDATA[Supporters of India‘s youth-led “cockroach” movement are caned by police as they sought to march on parliament in the capital, New Delhi, despite authorities denying permission for the protest.]]></description>
+      <content:encoded><![CDATA[Supporters of India‘s youth-led “cockroach” movement are caned by police as they sought to march on parliament in the capital, New Delhi, despite authorities denying permission for the protest.]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 「本当に草が生えてこない」　カインズの“防草できる砂”に「庭に6袋撒きました」「景観も良く大変満足」「生え…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gmxksbv2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gmxksbv2q</guid>
+      <pubDate>Mon, 20 Jul 2026 23:20:10 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖世の中<br>「本当に草が生えてこない」　カインズの“防草できる砂”に「庭に6袋撒きました」「景観も良く大変満足」「生えてきてもひょろっと1本、2本なのですぐ抜けます」の声（ねとらぼ） - Yahoo!ニュース<br><br>カインズから販売されている「撒くだけで防草できる人工砂 約15kg」は、庭や駐車場まわり、お墓などの雑草対策に使える人工砂です。レビューでは、草むしりの手間が減ったことや、防草効果、景観の良さを評価する声が寄せられています。 【画像】カインズの“防草できる砂” 本記事では、「撒くだけで防草できる人工砂 約1...]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>「本当に草が生えてこない」　カインズの“防草できる砂”に「庭に6袋撒きました」「景観も良く大変満足」「生えてきてもひょろっと1本、2本なのですぐ抜けます」の声（ねとらぼ） - Yahoo!ニュース<br><br>カインズから販売されている「撒くだけで防草できる人工砂 約15kg」は、庭や駐車場まわり、お墓などの雑草対策に使える人工砂です。レビューでは、草むしりの手間が減ったことや、防草効果、景観の良さを評価する声が寄せられています。 【画像】カインズの“防草できる砂” 本記事では、「撒くだけで防草できる人工砂 約1...]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖政治と経済 インドのゴキブリ党と治安当局が衝突　首都中心部で大規模デモ行進、催涙ガスで鎮圧図る  インドの大学入試…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gmue6452q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gmue6452q</guid>
+      <pubDate>Mon, 20 Jul 2026 23:20:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖政治と経済<br>インドのゴキブリ党と治安当局が衝突　首都中心部で大規模デモ行進、催涙ガスで鎮圧図る<br><br>インドの大学入試不正疑惑でプラダン教育相の辞任を求めている団体「ゴキブリ人民党（CJP）」は20日、首都ニューデリー中心部で大規模なデモ行進を実施した。現地メディアによると、治安当局が催涙ガスや警棒を使って鎮圧を図り、デモ参加者と衝突した。けが人が出たもようだ。 CJP幹部らは20日、ナッダ保健・家族福祉相...]]></description>
+      <content:encoded><![CDATA[#🔖政治と経済<br>インドのゴキブリ党と治安当局が衝突　首都中心部で大規模デモ行進、催涙ガスで鎮圧図る<br><br>インドの大学入試不正疑惑でプラダン教育相の辞任を求めている団体「ゴキブリ人民党（CJP）」は20日、首都ニューデリー中心部で大規模なデモ行進を実施した。現地メディアによると、治安当局が催涙ガスや警棒を使って鎮圧を図り、デモ参加者と衝突した。けが人が出たもようだ。 CJP幹部らは20日、ナッダ保健・家族福祉相...]]></content:encoded>
+    </item>
+    <item>
+      <title>The US has imposed a 25% tariff on Brazilian imports, citing…</title>
+      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4gm7irs72h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4gm7irs72h</guid>
+      <pubDate>Mon, 20 Jul 2026 23:19:45 GMT</pubDate>
+      <author>CNN (@cnn.com)</author>
+      <description><![CDATA[The US has imposed a 25% tariff on Brazilian imports, citing “unfair trade practices.” CNN's Julia Vargas Jones explains how the tax comes during a Brazilian election year and if Brazil could escalate the trade war. ]]></description>
+      <content:encoded><![CDATA[The US has imposed a 25% tariff on Brazilian imports, citing “unfair trade practices.” CNN's Julia Vargas Jones explains how the tax comes during a Brazilian election year and if Brazil could escalate the trade war. ]]></content:encoded>
+    </item>
+    <item>
+      <title>Alsea lowers 2026 earnings growth forecast on weak spending,…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4ge7acta2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4ge7acta2e</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:17 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Alsea lowers 2026 earnings growth forecast on weak spending, currency headwinds reut.rs/4bz6alg]]></description>
+      <content:encoded><![CDATA[Alsea lowers 2026 earnings growth forecast on weak spending, currency headwinds reut.rs/4bz6alg]]></content:encoded>
+    </item>
+    <item>
+      <title>黒部の海水浴場、男児死亡　１０歳、遊泳中に溺れたか　群馬のサッカークラブ</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge6k2th2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge6k2th2m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:16 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[黒部の海水浴場、男児死亡　１０歳、遊泳中に溺れたか　群馬のサッカークラブ]]></description>
+      <content:encoded><![CDATA[黒部の海水浴場、男児死亡　１０歳、遊泳中に溺れたか　群馬のサッカークラブ]]></content:encoded>
+    </item>
+    <item>
+      <title>新旧３知事そろい踏み　くすぶる火種、会場ざわめく　３月の選挙後初</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge4sfmm2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge4sfmm2i</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:14 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[新旧３知事そろい踏み　くすぶる火種、会場ざわめく　３月の選挙後初]]></description>
+      <content:encoded><![CDATA[新旧３知事そろい踏み　くすぶる火種、会場ざわめく　３月の選挙後初]]></content:encoded>
+    </item>
+    <item>
+      <title>相模原で津久井やまゆり園事件考える集会　間もなく発生から１０年「障害のある人が地域で当たり前に暮らす社会を」</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge3lbpt2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge3lbpt2s</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:13 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[相模原で津久井やまゆり園事件考える集会　間もなく発生から１０年「障害のある人が地域で当たり前に暮らす社会を」]]></description>
+      <content:encoded><![CDATA[相模原で津久井やまゆり園事件考える集会　間もなく発生から１０年「障害のある人が地域で当たり前に暮らす社会を」]]></content:encoded>
+    </item>
+    <item>
+      <title>秋田県吹奏楽コンクール、中学生小編成の部は３校が東北大会へ</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge2bmoj2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4ge2bmoj2n</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:11 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[秋田県吹奏楽コンクール、中学生小編成の部は３校が東北大会へ]]></description>
+      <content:encoded><![CDATA[秋田県吹奏楽コンクール、中学生小編成の部は３校が東北大会へ]]></content:encoded>
+    </item>
+    <item>
+      <title>広島市の団地自治会のHP閲覧数が急増で100万件突破　80歳の自治会長と75歳の副会長が採用した工夫とは</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4gdyrdov2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4gdyrdov2z</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:10 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[広島市の団地自治会のHP閲覧数が急増で100万件突破　80歳の自治会長と75歳の副会長が採用した工夫とは]]></description>
+      <content:encoded><![CDATA[広島市の団地自治会のHP閲覧数が急増で100万件突破　80歳の自治会長と75歳の副会長が採用した工夫とは]]></content:encoded>
+    </item>
+    <item>
+      <title>中ロが日本のEEZ内で実弾射撃訓練　小泉防衛相が明らかに</title>
+      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4gdxilgt2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4gdxilgt2u</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:10 GMT</pubDate>
+      <author>朝日新聞 (@asahi.com)</author>
+      <description><![CDATA[中ロが日本のEEZ内で実弾射撃訓練　小泉防衛相が明らかに]]></description>
+      <content:encoded><![CDATA[中ロが日本のEEZ内で実弾射撃訓練　小泉防衛相が明らかに]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖テクノロジー Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gdwm4ju27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4gdwm4ju27</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖テクノロジー<br>Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場<br><br>Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できま]]></description>
+      <content:encoded><![CDATA[#🔖テクノロジー<br>Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場<br><br>Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できま]]></content:encoded>
+    </item>
+    <item>
+      <title>【東海は酷暑日の可能性】 今日7月21日(火)は、西日本や東日本を中心に朝から強い日差しが照りつけ、昼間は各地で危険な暑…</title>
+      <link>https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mr4gashxu22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mr4gashxu22j</guid>
+      <pubDate>Mon, 20 Jul 2026 23:13:23 GMT</pubDate>
+      <author>ウェザーニュース (@weathernews.jp)</author>
+      <description><![CDATA[【東海は酷暑日の可能性】<br>今日7月21日(火)は、西日本や東日本を中心に朝から強い日差しが照りつけ、昼間は各地で危険な暑さとなる見込みです。特に東海では愛知や岐阜で最高気温40℃が予想されています。万全な熱中症対策を心がけてください。<br>weathernews.jp/news/202607/...]]></description>
+      <content:encoded><![CDATA[【東海は酷暑日の可能性】<br>今日7月21日(火)は、西日本や東日本を中心に朝から強い日差しが照りつけ、昼間は各地で危険な暑さとなる見込みです。特に東海では愛知や岐阜で最高気温40℃が予想されています。万全な熱中症対策を心がけてください。<br>weathernews.jp/news/202607/...]]></content:encoded>
+    </item>
+    <item>
+      <title>Trump&apos;s new 50% tariffs on Canadian goods could affect every…</title>
+      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mr4g47zyas2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mr4g47zyas2w</guid>
+      <pubDate>Mon, 20 Jul 2026 23:10:49 GMT</pubDate>
+      <author>Newsweek (@newsweek.com)</author>
+      <description><![CDATA[Trump's new 50% tariffs on Canadian goods could affect everything from wine and cheese to autos and hockey sticks.]]></description>
+      <content:encoded><![CDATA[Trump's new 50% tariffs on Canadian goods could affect everything from wine and cheese to autos and hockey sticks.]]></content:encoded>
+    </item>
+    <item>
+      <title>Houthi Red Sea blockade would lift oil prices, but workaroun…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4g3fcjpg2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4g3fcjpg2o</guid>
+      <pubDate>Mon, 20 Jul 2026 23:10:21 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Houthi Red Sea blockade would lift oil prices, but workarounds could limit impact reut.rs/4wklwTg]]></description>
+      <content:encoded><![CDATA[Houthi Red Sea blockade would lift oil prices, but workarounds could limit impact reut.rs/4wklwTg]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖テクノロジー 2026年7月報告のnginx脆弱性（CVE-2026-42533）をDockerで再現してみた |…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4g2yozck2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4g2yozck2h</guid>
+      <pubDate>Mon, 20 Jul 2026 23:10:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖テクノロジー<br>2026年7月報告のnginx脆弱性（CVE-2026-42533）をDockerで再現してみた | DevelopersIO<br><br>2026年7月15日に修正されたnginxの認証前RCE脆弱性 CVE-2026-42533（CVSS 9.2）の動作をDockerローカル環境で再現しました。Two-Passキャプチャクロバリングにより、1回のGETリクエストでヒープ情報が漏洩する様子を確認し、修正版1.30.4で問題が解消されることを検証しています。0.9.6から修正版未満の全バージョンが影...]]></description>
+      <content:encoded><![CDATA[#🔖テクノロジー<br>2026年7月報告のnginx脆弱性（CVE-2026-42533）をDockerで再現してみた | DevelopersIO<br><br>2026年7月15日に修正されたnginxの認証前RCE脆弱性 CVE-2026-42533（CVSS 9.2）の動作をDockerローカル環境で再現しました。Two-Passキャプチャクロバリングにより、1回のGETリクエストでヒープ情報が漏洩する様子を確認し、修正版1.30.4で問題が解消されることを検証しています。0.9.6から修正版未満の全バージョンが影...]]></content:encoded>
+    </item>
+    <item>
+      <title>This is perhaps the most famous recipe by Marcella Hazan, th…</title>
+      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4g2w3qsl2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4g2w3qsl2l</guid>
+      <pubDate>Mon, 20 Jul 2026 23:10:05 GMT</pubDate>
+      <author>The New York Times (@nytimes.com)</author>
+      <description><![CDATA[This is perhaps the most famous recipe by Marcella Hazan, the cookbook author who changed how Americans cook Italian food. It also may be her easiest. nyti.ms/4wehcVA]]></description>
+      <content:encoded><![CDATA[This is perhaps the most famous recipe by Marcella Hazan, the cookbook author who changed how Americans cook Italian food. It also may be her easiest. nyti.ms/4wehcVA]]></content:encoded>
+    </item>
+    <item>
+      <title>中国・ロシア軍、日本のEEZ内で射撃演習 www.nikkei.com/article/DGXZQO...  海上自衛隊…</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4fupa5fu2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4fupa5fu2m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:06:37 GMT</pubDate>
+      <author>日経電子版 (@nikkei.com)</author>
+      <description><![CDATA[中国・ロシア軍、日本のEEZ内で射撃演習<br>www.nikkei.com/article/DGXZQO...<br><br>海上自衛隊が7月19日午前2時ごろ、沖ノ鳥島南西海域を航行する中国・ロシア軍艦艇4隻を確認。うち中国のミサイル駆逐艦1隻が射撃訓練を実施したとのことです。<br><br>EEZ内での中国海軍による射撃が明らかになるのは異例です。<br><br>#ニュース]]></description>
+      <content:encoded><![CDATA[中国・ロシア軍、日本のEEZ内で射撃演習<br>www.nikkei.com/article/DGXZQO...<br><br>海上自衛隊が7月19日午前2時ごろ、沖ノ鳥島南西海域を航行する中国・ロシア軍艦艇4隻を確認。うち中国のミサイル駆逐艦1隻が射撃訓練を実施したとのことです。<br><br>EEZ内での中国海軍による射撃が明らかになるのは異例です。<br><br>#ニュース]]></content:encoded>
+    </item>
+    <item>
+      <title>フーシ派 サウジアラビアに対し「海上封鎖」を宣言 影響懸念 https://news.web.nhk/newsweb/n…</title>
+      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4ftqwxwq2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4ftqwxwq2w</guid>
+      <pubDate>Mon, 20 Jul 2026 23:06:03 GMT</pubDate>
+      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
+      <description><![CDATA[フーシ派 サウジアラビアに対し「海上封鎖」を宣言 影響懸念<br>https://news.web.nhk/newsweb/na/na-k10015181511000]]></description>
+      <content:encoded><![CDATA[フーシ派 サウジアラビアに対し「海上封鎖」を宣言 影響懸念<br>https://news.web.nhk/newsweb/na/na-k10015181511000]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mr4ftfqjce2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mr4ftfqjce2y</guid>
+      <pubDate>Mon, 20 Jul 2026 23:05:53 GMT</pubDate>
+      <author>茨城新聞社 (@ibarakinews.jp)</author>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>US Justice Department says UC San Diego&apos;s medical school fav…</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4fsaqkme2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4fsaqkme2u</guid>
+      <pubDate>Mon, 20 Jul 2026 23:05:14 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[US Justice Department says UC San Diego's medical school favors Black, Hispanic applicants reut.rs/4pyPZu6]]></description>
+      <content:encoded><![CDATA[US Justice Department says UC San Diego's medical school favors Black, Hispanic applicants reut.rs/4pyPZu6]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖アニメとゲーム 僕の心のヤバイやつ ラブコメディが始まらない・Score.23　陣くんちへお見舞い | チャンピオ…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4fs2fuv52n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4fs2fuv52n</guid>
+      <pubDate>Mon, 20 Jul 2026 23:05:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖アニメとゲーム<br>僕の心のヤバイやつ ラブコメディが始まらない・Score.23　陣くんちへお見舞い | チャンピオンクロス<br><br>桜井のりお先生監修！「僕の心のヤバイやつ」公式スピンオフ！！主人公は市川の姉、市川香菜…通称おねえ！！女友達はたくさんだが、彼氏は…もちろんいない…！！そんなおねえの、ラブコメディが始まりそうで始まらない残念系ラブコメディ！！]]></description>
+      <content:encoded><![CDATA[#🔖アニメとゲーム<br>僕の心のヤバイやつ ラブコメディが始まらない・Score.23　陣くんちへお見舞い | チャンピオンクロス<br><br>桜井のりお先生監修！「僕の心のヤバイやつ」公式スピンオフ！！主人公は市川の姉、市川香菜…通称おねえ！！女友達はたくさんだが、彼氏は…もちろんいない…！！そんなおねえの、ラブコメディが始まりそうで始まらない残念系ラブコメディ！！]]></content:encoded>
+    </item>
+    <item>
+      <title>出張費「足りない」社員7割超　見直しの好機、コスト削減図る企業も www.nikkei.com/article/DGXZ…</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4fl5pcz42m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4fl5pcz42m</guid>
+      <pubDate>Mon, 20 Jul 2026 23:01:16 GMT</pubDate>
+      <author>日経電子版 (@nikkei.com)</author>
+      <description><![CDATA[出張費「足りない」社員7割超　見直しの好機、コスト削減図る企業も<br>www.nikkei.com/article/DGXZQO...<br><br>労働基準法の観点からは原則、出張に必要な費用は企業が全額負担すべきものです。<br><br>しかし旅費規定では足りない分を、従業員が自費でまかなう会社も。その法的なリスクは？]]></description>
+      <content:encoded><![CDATA[出張費「足りない」社員7割超　見直しの好機、コスト削減図る企業も<br>www.nikkei.com/article/DGXZQO...<br><br>労働基準法の観点からは原則、出張に必要な費用は企業が全額負担すべきものです。<br><br>しかし旅費規定では足りない分を、従業員が自費でまかなう会社も。その法的なリスクは？]]></content:encoded>
+    </item>
+    <item>
+      <title>Son of Brazil&apos;s former President Bolsonaro secures US green …</title>
+      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4fkrklrs2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4fkrklrs2b</guid>
+      <pubDate>Mon, 20 Jul 2026 23:01:03 GMT</pubDate>
+      <author>Reuters (@reuters.com)</author>
+      <description><![CDATA[Son of Brazil's former President Bolsonaro secures US green card reut.rs/4yyrjGb]]></description>
+      <content:encoded><![CDATA[Son of Brazil's former President Bolsonaro secures US green card reut.rs/4yyrjGb]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s what you need to know to start your day</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4fjurkhe24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4fjurkhe24</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:33 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[Here’s what you need to know to start your day]]></description>
+      <content:encoded><![CDATA[Here’s what you need to know to start your day]]></content:encoded>
+    </item>
+    <item>
+      <title>インドの大学入試不正疑惑でプラダン教育相の辞任を求めている団体「ゴキブリ人民党（CJP）」は20日、首都ニューデリー中心…</title>
+      <link>https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mr4fjq75g32v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mr4fjq75g32v</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:27 GMT</pubDate>
+      <author>産経ニュース (@sankei.com)</author>
+      <description><![CDATA[インドの大学入試不正疑惑でプラダン教育相の辞任を求めている団体「ゴキブリ人民党（CJP）」は20日、首都ニューデリー中心部で大規模なデモ行進を実施した。現地メディアによると、治安当局が催涙ガスや警棒を使って鎮圧を図り、デモ参加者と衝突した。けが人が出たもようだ。]]></description>
+      <content:encoded><![CDATA[インドの大学入試不正疑惑でプラダン教育相の辞任を求めている団体「ゴキブリ人民党（CJP）」は20日、首都ニューデリー中心部で大規模なデモ行進を実施した。現地メディアによると、治安当局が催涙ガスや警棒を使って鎮圧を図り、デモ参加者と衝突した。けが人が出たもようだ。]]></content:encoded>
+    </item>
+    <item>
+      <title>Social media is awash with reports of soccer fans who learne…</title>
+      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4fjirj5z2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4fjirj5z2c</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:21 GMT</pubDate>
+      <author>NBC News (@nbcnews.com)</author>
+      <description><![CDATA[Social media is awash with reports of soccer fans who learned they had purchased speculative tickets. In response, the National Independent Venue Association and The Fan Alliance, two consumer-friendly advocacy groups, have called on congressional leaders to take action.]]></description>
+      <content:encoded><![CDATA[Social media is awash with reports of soccer fans who learned they had purchased speculative tickets. In response, the National Independent Venue Association and The Fan Alliance, two consumer-friendly advocacy groups, have called on congressional leaders to take action.]]></content:encoded>
+    </item>
+    <item>
+      <title>体育「男女一緒に着替え」報道へ反響　教員は子どもの声にはっとした</title>
+      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4fj64a6j2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4fj64a6j2i</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:11 GMT</pubDate>
+      <author>朝日新聞 (@asahi.com)</author>
+      <description><![CDATA[体育「男女一緒に着替え」報道へ反響　教員は子どもの声にはっとした]]></description>
+      <content:encoded><![CDATA[体育「男女一緒に着替え」報道へ反響　教員は子どもの声にはっとした]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖アニメとゲーム 不完全傑作のすゝめ／26年5月期JUMP新世界漫画賞／週刊少年ジャンプ - 岩田柊 | 少年ジャン…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4fj4c5hc2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4fj4c5hc2e</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖アニメとゲーム<br>不完全傑作のすゝめ／26年5月期JUMP新世界漫画賞／週刊少年ジャンプ - 岩田柊 | 少年ジャンプ＋<br><br>不完全傑作のすゝめ／26年5月期JUMP新世界漫画賞／週刊少年ジャンプ 岩田柊 ヒーローが活躍する時代。すなわちヒーローガジェットが重要な時代。ここに将来を嘱望された天才の中の天才が一人・輪奈日才人!!しかし彼にはとんでもない弱点があり!?]]></description>
+      <content:encoded><![CDATA[#🔖アニメとゲーム<br>不完全傑作のすゝめ／26年5月期JUMP新世界漫画賞／週刊少年ジャンプ - 岩田柊 | 少年ジャンプ＋<br><br>不完全傑作のすゝめ／26年5月期JUMP新世界漫画賞／週刊少年ジャンプ 岩田柊 ヒーローが活躍する時代。すなわちヒーローガジェットが重要な時代。ここに将来を嘱望された天才の中の天才が一人・輪奈日才人!!しかし彼にはとんでもない弱点があり!?]]></content:encoded>
+    </item>
+    <item>
+      <title>And just like that, the 2026 World Cup is over. After 308 go…</title>
+      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4ffe4ddz2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4ffe4ddz2h</guid>
+      <pubDate>Mon, 20 Jul 2026 22:58:02 GMT</pubDate>
+      <author>CNN (@cnn.com)</author>
+      <description><![CDATA[And just like that, the 2026 World Cup is over. After 308 goals were scored during 104 matches in 16 host cities across three countries, it was Spain that lifted the trophy. ]]></description>
+      <content:encoded><![CDATA[And just like that, the 2026 World Cup is over. After 308 goals were scored during 104 matches in 16 host cities across three countries, it was Spain that lifted the trophy. ]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖世の中 バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説 - BBCニュース  イ…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4ex7neup2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4ex7neup2k</guid>
+      <pubDate>Mon, 20 Jul 2026 22:50:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖世の中<br>バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説 - BBCニュース<br><br>イギリス与党・労働党のアンディ・バーナム党首が現地時間20日正午（日本時間20日午後8時）過ぎ、新たなイギリス首相になった。バッキンガム宮殿を訪れ、国王チャールズ3世に組閣を要請されたバーナム氏は官邸前で、イギリスで首相交代が相次いだことに触れたうえで「イギリスを安定させる」、「政治を機能させる」、「...]]></description>
+      <content:encoded><![CDATA[#🔖世の中<br>バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説 - BBCニュース<br><br>イギリス与党・労働党のアンディ・バーナム党首が現地時間20日正午（日本時間20日午後8時）過ぎ、新たなイギリス首相になった。バッキンガム宮殿を訪れ、国王チャールズ3世に組閣を要請されたバーナム氏は官邸前で、イギリスで首相交代が相次いだことに触れたうえで「イギリスを安定させる」、「政治を機能させる」、「...]]></content:encoded>
+    </item>
+    <item>
+      <title>記者の電話記録提出要求 米司法省、新聞社は批判</title>
+      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4esgauut2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4esgauut2m</guid>
+      <pubDate>Mon, 20 Jul 2026 22:47:26 GMT</pubDate>
+      <author>47NEWS (@47news.jp)</author>
+      <description><![CDATA[記者の電話記録提出要求 米司法省、新聞社は批判]]></description>
+      <content:encoded><![CDATA[記者の電話記録提出要求 米司法省、新聞社は批判]]></content:encoded>
+    </item>
+    <item>
+      <title>【まとめてわかる】政権が重視する「骨太の方針」って何のこと？</title>
+      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4eoee5ko2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4eoee5ko2k</guid>
+      <pubDate>Mon, 20 Jul 2026 22:45:11 GMT</pubDate>
+      <author>朝日新聞 (@asahi.com)</author>
+      <description><![CDATA[【まとめてわかる】政権が重視する「骨太の方針」って何のこと？]]></description>
+      <content:encoded><![CDATA[【まとめてわかる】政権が重視する「骨太の方針」って何のこと？]]></content:encoded>
+    </item>
+    <item>
+      <title>#🔖学び 「ガチ全速力で走っても進まない夢」でどっち派？  なんか夢でたまにさあ、走っても走っても進まなくて隣で歩いて…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4eobvekk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4eobvekk2t</guid>
+      <pubDate>Mon, 20 Jul 2026 22:45:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖学び<br>「ガチ全速力で走っても進まない夢」でどっち派？<br><br>なんか夢でたまにさあ、走っても走っても進まなくて隣で歩いてるお年寄りより遅いみたいなやつあるやん？ あれって最高にムカつくよな！！！ あれってだいたい全人類経験してるんじゃない？ そんでさあ、あれってパターンあるやん？ そう、「逃げる側」か「追いかける側」か！ おれの場合ほぼ100%逃げる側なんだがこない...]]></description>
+      <content:encoded><![CDATA[#🔖学び<br>「ガチ全速力で走っても進まない夢」でどっち派？<br><br>なんか夢でたまにさあ、走っても走っても進まなくて隣で歩いてるお年寄りより遅いみたいなやつあるやん？ あれって最高にムカつくよな！！！ あれってだいたい全人類経験してるんじゃない？ そんでさあ、あれってパターンあるやん？ そう、「逃げる側」か「追いかける側」か！ おれの場合ほぼ100%逃げる側なんだがこない...]]></content:encoded>
+    </item>
     <item>
       <title>New York City Mayor Zohran Mamdani is putting his democratic…</title>
       <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4efnatan2w</link>
@@ -33,435 +456,6 @@
       <author>47NEWS (@47news.jp)</author>
       <description><![CDATA[【速報】米、国内投資引き換えにアルミ関税半減へ]]></description>
       <content:encoded><![CDATA[【速報】米、国内投資引き換えにアルミ関税半減へ]]></content:encoded>
-    </item>
-    <item>
-      <title>Health officials investigating the large outbreak of diarrhe…</title>
-      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4dwuqrqb2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4dwuqrqb2h</guid>
-      <pubDate>Mon, 20 Jul 2026 22:32:02 GMT</pubDate>
-      <author>CNN (@cnn.com)</author>
-      <description><![CDATA[Health officials investigating the large outbreak of diarrhea caused by the parasite cyclospora say they have "very strong" evidence that shredded iceberg lettuce supplied by Taylor Farms is the likely source, despite a false positive test for the parasite over the weekend. https://cnn.it/4wYAxtP
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicszuzpwuiqmqetvpcd6sq6vn7yzz74nkvvthewiyg5zocm72mgve" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Health officials investigating the large outbreak of diarrhea caused by the parasite cyclospora say they have "very strong" evidence that shredded iceberg lettuce supplied by Taylor Farms is the likely source, despite a false positive test for the parasite over the weekend. https://cnn.it/4wYAxtP
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicszuzpwuiqmqetvpcd6sq6vn7yzz74nkvvthewiyg5zocm72mgve" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicszuzpwuiqmqetvpcd6sq6vn7yzz74nkvvthewiyg5zocm72mgve" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転 www.nikkei.com/article/DG…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4dvjvftr24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4dvjvftr24</guid>
-      <pubDate>Mon, 20 Jul 2026 22:31:17 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転<br>www.nikkei.com/article/DGXZQO...<br><br>世界の投資額は2026年に200兆円──。巨大な経済圏となり始めたAI向けデータセンター。<br><br>関連業種は半導体や電子部品に限らず、冷却機器や不動産など多岐に渡ります。]]></description>
-      <content:encoded><![CDATA[AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転<br>www.nikkei.com/article/DGXZQO...<br><br>世界の投資額は2026年に200兆円──。巨大な経済圏となり始めたAI向けデータセンター。<br><br>関連業種は半導体や電子部品に限らず、冷却機器や不動産など多岐に渡ります。]]></content:encoded>
-    </item>
-    <item>
-      <title>Wall Street’s most active laboratory is using “wrappers,” “r…</title>
-      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4dtst5mz26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4dtst5mz26</guid>
-      <pubDate>Mon, 20 Jul 2026 22:30:19 GMT</pubDate>
-      <author>Bloomberg News (@bloomberg.com)</author>
-      <description><![CDATA[Wall Street’s most active laboratory is using “wrappers,” “repacks” and more to turn private assets into more appealing products]]></description>
-      <content:encoded><![CDATA[Wall Street’s most active laboratory is using “wrappers,” “repacks” and more to turn private assets into more appealing products]]></content:encoded>
-    </item>
-    <item>
-      <title>「イランに何倍もの代償」、米兵死亡でトランプ氏　攻撃は10日連続</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4dtjswdg2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4dtjswdg2g</guid>
-      <pubDate>Mon, 20 Jul 2026 22:30:11 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[「イランに何倍もの代償」、米兵死亡でトランプ氏　攻撃は10日連続]]></description>
-      <content:encoded><![CDATA[「イランに何倍もの代償」、米兵死亡でトランプ氏　攻撃は10日連続]]></content:encoded>
-    </item>
-    <item>
-      <title>President Trump signed an order imposing a 50% tariff on a w…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4dthxzaw2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4dthxzaw2p</guid>
-      <pubDate>Mon, 20 Jul 2026 22:30:08 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[President Trump signed an order imposing a 50% tariff on a wide range of goods from Canada, including hockey sticks, wine and cement.]]></description>
-      <content:encoded><![CDATA[President Trump signed an order imposing a 50% tariff on a wide range of goods from Canada, including hockey sticks, wine and cement.]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖テクノロジー 仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った  はじめに 仕…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dti2slh2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dti2slh2t</guid>
-      <pubDate>Mon, 20 Jul 2026 22:30:07 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖テクノロジー<br>仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った<br><br>はじめに 仕様・ドキュメント・コード・テストの乖離 (ドリフト) を検出する CLI ツール「artgraph」を作りました。仕様駆動開発 (以後、SDD) を進めていると起こる「コードが変わったのに仕様書が古いまま」、「仕様を変えたのに実装が置き去り」を、LLM に頑張って見つけさせるのではなく、決定的な仕組みで検出します...]]></description>
-      <content:encoded><![CDATA[#🔖テクノロジー<br>仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った<br><br>はじめに 仕様・ドキュメント・コード・テストの乖離 (ドリフト) を検出する CLI ツール「artgraph」を作りました。仕様駆動開発 (以後、SDD) を進めていると起こる「コードが変わったのに仕様書が古いまま」、「仕様を変えたのに実装が置き去り」を、LLM に頑張って見つけさせるのではなく、決定的な仕組みで検出します...]]></content:encoded>
-    </item>
-    <item>
-      <title>米、カナダ製品に50％関税 輸出業者不利な扱い</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4dsjkdqp27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mr4dsjkdqp27</guid>
-      <pubDate>Mon, 20 Jul 2026 22:29:36 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[米、カナダ製品に50％関税 輸出業者不利な扱い]]></description>
-      <content:encoded><![CDATA[米、カナダ製品に50％関税 輸出業者不利な扱い]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖学び 元寇のことを調べてたら「一発逆転した神風なんてなかった」説が濃厚でびっくり…「上陸作戦は難しい」「武士が強か…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dkjj5tf2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dkjj5tf2j</guid>
-      <pubDate>Mon, 20 Jul 2026 22:25:07 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖学び<br>元寇のことを調べてたら「一発逆転した神風なんてなかった」説が濃厚でびっくり…「上陸作戦は難しい」「武士が強かった」など<br><br>渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou 元寇のこと調べてたら「実は神風なんてなかった」説が今は濃厚らしく、「キッショ、なんで勝てたんだよ」ってなってる 2026-07-17 12:18:46 渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou とても興味深くて面白いお話をコメントや引用でたくさんの方...]]></description>
-      <content:encoded><![CDATA[#🔖学び<br>元寇のことを調べてたら「一発逆転した神風なんてなかった」説が濃厚でびっくり…「上陸作戦は難しい」「武士が強かった」など<br><br>渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou 元寇のこと調べてたら「実は神風なんてなかった」説が今は濃厚らしく、「キッショ、なんで勝てたんだよ」ってなってる 2026-07-17 12:18:46 渡井亘@8/20幼馴染漫画⑧巻＆コミカライズ①巻 @Watarai_Kou とても興味深くて面白いお話をコメントや引用でたくさんの方...]]></content:encoded>
-    </item>
-    <item>
-      <title>@nbcselected.bsky.social rounded up the best deals from Dyso…</title>
-      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4dbqtk422o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4dbqtk422o</guid>
-      <pubDate>Mon, 20 Jul 2026 22:20:13 GMT</pubDate>
-      <author>NBC News (@nbcnews.com)</author>
-      <description><![CDATA[@nbcselected.bsky.social rounded up the best deals from Dyson, Kiehl's, Adidas and more.]]></description>
-      <content:encoded><![CDATA[@nbcselected.bsky.social rounded up the best deals from Dyson, Kiehl's, Adidas and more.]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖テクノロジー 外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか  フラッシュメモ…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dbo2zlt27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dbo2zlt27</guid>
-      <pubDate>Mon, 20 Jul 2026 22:20:10 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖テクノロジー<br>外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか<br><br>フラッシュメモリが記憶を手のひらに収めた以前、記憶媒体の変遷をたどった記事で、フラッシュメモリの登場について触れた。フラッシュメモリより前、パソコンの中で記憶を担っていたのはハードディスクだった。 ハードディスクは、円盤を回し、その上を読み書きヘッドが物理的に移動して目的の場所を探す。この物理的な...]]></description>
-      <content:encoded><![CDATA[#🔖テクノロジー<br>外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか<br><br>フラッシュメモリが記憶を手のひらに収めた以前、記憶媒体の変遷をたどった記事で、フラッシュメモリの登場について触れた。フラッシュメモリより前、パソコンの中で記憶を担っていたのはハードディスクだった。 ハードディスクは、円盤を回し、その上を読み書きヘッドが物理的に移動して目的の場所を探す。この物理的な...]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖学び 誰か俺に優しい言葉をかけてくれ  俺かその辺の誰かもお前に優しい言葉をかけるから</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dbll72o25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4dbll72o25</guid>
-      <pubDate>Mon, 20 Jul 2026 22:20:07 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖学び<br>誰か俺に優しい言葉をかけてくれ<br><br>俺かその辺の誰かもお前に優しい言葉をかけるから]]></description>
-      <content:encoded><![CDATA[#🔖学び<br>誰か俺に優しい言葉をかけてくれ<br><br>俺かその辺の誰かもお前に優しい言葉をかけるから]]></content:encoded>
-    </item>
-    <item>
-      <title>Secret Lives of Gypsy Wives review – Trewley Precious and he…</title>
-      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4dbfdzii2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4dbfdzii2g</guid>
-      <pubDate>Mon, 20 Jul 2026 22:20:01 GMT</pubDate>
-      <author>The Guardian (@theguardian.com)</author>
-      <description><![CDATA[Secret Lives of Gypsy Wives review – Trewley Precious and her glorious family are a gift to reality TV]]></description>
-      <content:encoded><![CDATA[Secret Lives of Gypsy Wives review – Trewley Precious and her glorious family are a gift to reality TV]]></content:encoded>
-    </item>
-    <item>
-      <title>Judge approves Anthropic&apos;s $1.5B settlement with authors, th…</title>
-      <link>https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mr4d67ckeq2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sguaikukuxa4guhjwfvpjwmb/post/3mr4d67ckeq2c</guid>
-      <pubDate>Mon, 20 Jul 2026 22:18:14 GMT</pubDate>
-      <author>Mediagazer (@mediagazer.com)</author>
-      <description><![CDATA[Judge approves Anthropic's $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits (Blake Brittain/Reuters)<br><br>Main Link | Mediagazer Permalink]]></description>
-      <content:encoded><![CDATA[Judge approves Anthropic's $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits (Blake Brittain/Reuters)<br><br>Main Link | Mediagazer Permalink]]></content:encoded>
-    </item>
-    <item>
-      <title>After launching a series of attacks on Red Sea traffic from …</title>
-      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4cytpzzy22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4cytpzzy22</guid>
-      <pubDate>Mon, 20 Jul 2026 22:15:14 GMT</pubDate>
-      <author>Bloomberg News (@bloomberg.com)</author>
-      <description><![CDATA[After launching a series of attacks on Red Sea traffic from 2023 to 2025, Yemen's Houthi rebels have started up again and declared the imposition of a maritime blockade of Saudi Arabia. Here's what to know]]></description>
-      <content:encoded><![CDATA[After launching a series of attacks on Red Sea traffic from 2023 to 2025, Yemen's Houthi rebels have started up again and declared the imposition of a maritime blockade of Saudi Arabia. Here's what to know]]></content:encoded>
-    </item>
-    <item>
-      <title>ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4cynspje2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4cynspje2k</guid>
-      <pubDate>Mon, 20 Jul 2026 22:15:09 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か]]></description>
-      <content:encoded><![CDATA[ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か]]></content:encoded>
-    </item>
-    <item>
-      <title>ASEAN&apos;s top diplomats meet in shadow of US-Iran conflict reu…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cq5l3tx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cq5l3tx2y</guid>
-      <pubDate>Mon, 20 Jul 2026 22:10:23 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[ASEAN's top diplomats meet in shadow of US-Iran conflict reut.rs/4fLFrV3]]></description>
-      <content:encoded><![CDATA[ASEAN's top diplomats meet in shadow of US-Iran conflict reut.rs/4fLFrV3]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mr4cmols4r2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mr4cmols4r2m</guid>
-      <pubDate>Mon, 20 Jul 2026 22:08:26 GMT</pubDate>
-      <author>茨城新聞社 (@ibarakinews.jp)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Key ministers in new UK leader Burnham&apos;s cabinet reut.rs/4pA…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cgyhegs2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cgyhegs2e</guid>
-      <pubDate>Mon, 20 Jul 2026 22:05:15 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Key ministers in new UK leader Burnham's cabinet reut.rs/4pAIrHo]]></description>
-      <content:encoded><![CDATA[Key ministers in new UK leader Burnham's cabinet reut.rs/4pAIrHo]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖暮らし 家の前にルイ・ヴィトンの財布が落ちていた…銀行のカードも入っていたので、炎天下の中チャリで交番まで届けに行…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4cgr5hpi22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4cgr5hpi22</guid>
-      <pubDate>Mon, 20 Jul 2026 22:05:07 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖暮らし<br>家の前にルイ・ヴィトンの財布が落ちていた…銀行のカードも入っていたので、炎天下の中チャリで交番まで届けに行くことに→5日後、持ち主が見つかったと通知書が届く<br><br>忍者増田 @Ninja_Masuda 昨日、家の前にヴィトンの財布が落ちてた。こんな田舎でそんなこと普段あり得ないので驚きました。誰がどんな状況で落としたんだか謎。銀行のカードも入っていたので放っとくわけにもいくめぇと、炎天下の中チャリで交番まで届けに行きましたとさ。50過ぎのジジイのやること増やさんでほしいでご...]]></description>
-      <content:encoded><![CDATA[#🔖暮らし<br>家の前にルイ・ヴィトンの財布が落ちていた…銀行のカードも入っていたので、炎天下の中チャリで交番まで届けに行くことに→5日後、持ち主が見つかったと通知書が届く<br><br>忍者増田 @Ninja_Masuda 昨日、家の前にヴィトンの財布が落ちてた。こんな田舎でそんなこと普段あり得ないので驚きました。誰がどんな状況で落としたんだか謎。銀行のカードも入っていたので放っとくわけにもいくめぇと、炎天下の中チャリで交番まで届けに行きましたとさ。50過ぎのジジイのやること増やさんでほしいでご...]]></content:encoded>
-    </item>
-    <item>
-      <title>LIVE: Argentina World Cup team arrives in Buenos Aires youtu…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cdg6d6c2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4cdg6d6c2c</guid>
-      <pubDate>Mon, 20 Jul 2026 22:03:16 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[LIVE: Argentina World Cup team arrives in Buenos Aires youtube.com/live/3zLBKYS...]]></description>
-      <content:encoded><![CDATA[LIVE: Argentina World Cup team arrives in Buenos Aires youtube.com/live/3zLBKYS...]]></content:encoded>
-    </item>
-    <item>
-      <title>生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討 https://news.web.nhk/newsweb/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4cd3bexk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4cd3bexk2w</guid>
-      <pubDate>Mon, 20 Jul 2026 22:03:02 GMT</pubDate>
-      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討<br>https://news.web.nhk/newsweb/na/na-k10015181311000]]></description>
-      <content:encoded><![CDATA[生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討<br>https://news.web.nhk/newsweb/na/na-k10015181311000]]></content:encoded>
-    </item>
-    <item>
-      <title>Alicia Snake told Newsweek she thought her son&apos;s bruises cam…</title>
-      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mr4ccfrbjb2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mr4ccfrbjb2n</guid>
-      <pubDate>Mon, 20 Jul 2026 22:02:41 GMT</pubDate>
-      <author>Newsweek (@newsweek.com)</author>
-      <description><![CDATA[Alicia Snake told Newsweek she thought her son's bruises came from being an active toddler, and his leg pain was growing pains.]]></description>
-      <content:encoded><![CDATA[Alicia Snake told Newsweek she thought her son's bruises came from being an active toddler, and his leg pain was growing pains.]]></content:encoded>
-    </item>
-    <item>
-      <title>介護保険「2割負担」の対象拡大、くすぶる5度目の見送り論 www.nikkei.com/article/DGXZQO..…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4c7vzl242i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4c7vzl242i</guid>
-      <pubDate>Mon, 20 Jul 2026 22:01:18 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[介護保険「2割負担」の対象拡大、くすぶる5度目の見送り論<br>www.nikkei.com/article/DGXZQO...<br><br>2024年度の介護費用の総額は11.9兆円と、制度が始まった00年度の約3倍に。<br><br>負担のあり方の見直しは喫緊の課題ですが、利用者や業界団体の反発を恐れて先送りが続いていました。<br><br>ある自民議員からは「2割負担の対象者を広げても焼け石に水だ」という指摘もあります。]]></description>
-      <content:encoded><![CDATA[介護保険「2割負担」の対象拡大、くすぶる5度目の見送り論<br>www.nikkei.com/article/DGXZQO...<br><br>2024年度の介護費用の総額は11.9兆円と、制度が始まった00年度の約3倍に。<br><br>負担のあり方の見直しは喫緊の課題ですが、利用者や業界団体の反発を恐れて先送りが続いていました。<br><br>ある自民議員からは「2割負担の対象者を広げても焼け石に水だ」という指摘もあります。]]></content:encoded>
-    </item>
-    <item>
-      <title>The future for big booze might be smaller — literally. https…</title>
-      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4c7in42c23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mr4c7in42c23</guid>
-      <pubDate>Mon, 20 Jul 2026 22:01:04 GMT</pubDate>
-      <author>CNN (@cnn.com)</author>
-      <description><![CDATA[The future for big booze might be smaller — literally. https://cnn.it/3TubIqZ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicpvc47qfkyfeebjmgxvrh73gdje7ydbvrg3phu4drnvg5yzwowi4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The future for big booze might be smaller — literally. https://cnn.it/3TubIqZ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicpvc47qfkyfeebjmgxvrh73gdje7ydbvrg3phu4drnvg5yzwowi4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreicpvc47qfkyfeebjmgxvrh73gdje7ydbvrg3phu4drnvg5yzwowi4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>1羽のコウノトリが翼を広げ、大空へ飛び立った。 埼玉県鴻巣市のコウノトリ野生復帰センター「天空の里」で18日、国の天然記…</title>
-      <link>https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mr4c7jvutn2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mr4c7jvutn2k</guid>
-      <pubDate>Mon, 20 Jul 2026 22:01:04 GMT</pubDate>
-      <author>産経ニュース (@sankei.com)</author>
-      <description><![CDATA[1羽のコウノトリが翼を広げ、大空へ飛び立った。<br>埼玉県鴻巣市のコウノトリ野生復帰センター「天空の里」で18日、国の天然記念物のコウノトリ2羽の放鳥が行われた。関東地方では千葉県野田市に続き2例目、県内では初となる。]]></description>
-      <content:encoded><![CDATA[1羽のコウノトリが翼を広げ、大空へ飛び立った。<br>埼玉県鴻巣市のコウノトリ野生復帰センター「天空の里」で18日、国の天然記念物のコウノトリ2羽の放鳥が行われた。関東地方では千葉県野田市に続き2例目、県内では初となる。]]></content:encoded>
-    </item>
-    <item>
-      <title>SEC notebook: Missouri RB Ahmad Hardy cleared after shooting…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4c7ij5hl25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4c7ij5hl25</guid>
-      <pubDate>Mon, 20 Jul 2026 22:01:03 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[SEC notebook: Missouri RB Ahmad Hardy cleared after shooting; recovery timeline TBD reut.rs/4yyf78f]]></description>
-      <content:encoded><![CDATA[SEC notebook: Missouri RB Ahmad Hardy cleared after shooting; recovery timeline TBD reut.rs/4yyf78f]]></content:encoded>
-    </item>
-    <item>
-      <title>A $200 million surge in unusual bets is hitting prediction m…</title>
-      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4c6d3bgq2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mr4c6d3bgq2n</guid>
-      <pubDate>Mon, 20 Jul 2026 22:00:24 GMT</pubDate>
-      <author>Bloomberg News (@bloomberg.com)</author>
-      <description><![CDATA[A $200 million surge in unusual bets is hitting prediction markets.]]></description>
-      <content:encoded><![CDATA[A $200 million surge in unusual bets is hitting prediction markets.]]></content:encoded>
-    </item>
-    <item>
-      <title>ロッテ一筋20年の角中勝也　初めて芽生えた「楽しさ」で引退を意識</title>
-      <link>https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4c5vcuig2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jjsp4yintqgp3akcm5adklfc/post/3mr4c5vcuig2i</guid>
-      <pubDate>Mon, 20 Jul 2026 22:00:11 GMT</pubDate>
-      <author>朝日新聞 (@asahi.com)</author>
-      <description><![CDATA[ロッテ一筋20年の角中勝也　初めて芽生えた「楽しさ」で引退を意識]]></description>
-      <content:encoded><![CDATA[ロッテ一筋20年の角中勝也　初めて芽生えた「楽しさ」で引退を意識]]></content:encoded>
-    </item>
-    <item>
-      <title>AerCap to order 15 Boeing 787, sources say reut.rs/4wMxMvo</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4bmes6wl2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4bmes6wl2u</guid>
-      <pubDate>Mon, 20 Jul 2026 21:50:22 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[AerCap to order 15 Boeing 787, sources say reut.rs/4wMxMvo]]></description>
-      <content:encoded><![CDATA[AerCap to order 15 Boeing 787, sources say reut.rs/4wMxMvo]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4clr45j2j2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4clr45j2j2</guid>
-      <pubDate>Mon, 20 Jul 2026 21:50:20 GMT</pubDate>
-      <author>Fox News - Breaking News Updates | Latest News Headlines | Phot… (@foxnews.com.web.brid.gy)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Nicaragua’s president says country will not hold any more el…</title>
-      <link>https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4bl7emsc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/post/3mr4bl7emsc2a</guid>
-      <pubDate>Mon, 20 Jul 2026 21:49:43 GMT</pubDate>
-      <author>The Guardian (@theguardian.com)</author>
-      <description><![CDATA[Nicaragua’s president says country will not hold any more elections]]></description>
-      <content:encoded><![CDATA[Nicaragua’s president says country will not hold any more elections]]></content:encoded>
-    </item>
-    <item>
-      <title>トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を” https://news.web.nhk/newsweb/…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4bigw7if2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4bigw7if2z</guid>
-      <pubDate>Mon, 20 Jul 2026 21:48:08 GMT</pubDate>
-      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”<br>https://news.web.nhk/newsweb/na/na-k10015181321000]]></description>
-      <content:encoded><![CDATA[トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”<br>https://news.web.nhk/newsweb/na/na-k10015181321000]]></content:encoded>
-    </item>
-    <item>
-      <title>【動画】Pickup NEWS（7月21日） https://news.web.nhk/newsweb/na/na-k1…</title>
-      <link>https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4bibwjdk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6nbfovvvphxq5vpqxyvqjpvf/post/3mr4bibwjdk2h</guid>
-      <pubDate>Mon, 20 Jul 2026 21:48:02 GMT</pubDate>
-      <author>NHKニュース RSSフィード配信（非公式） (@nhknewsunofficial.bsky.social)</author>
-      <description><![CDATA[【動画】Pickup NEWS（7月21日）<br>https://news.web.nhk/newsweb/na/na-k10015181301000]]></description>
-      <content:encoded><![CDATA[【動画】Pickup NEWS（7月21日）<br>https://news.web.nhk/newsweb/na/na-k10015181301000]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4clv7ycqn2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4clv7ycqn2</guid>
-      <pubDate>Mon, 20 Jul 2026 21:46:27 GMT</pubDate>
-      <author>Fox News - Breaking News Updates | Latest News Headlines | Phot… (@foxnews.com.web.brid.gy)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Chevron shuts in US Gulf platform in preparation for develop…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4bdkxr2s2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4bdkxr2s2c</guid>
-      <pubDate>Mon, 20 Jul 2026 21:45:27 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Chevron shuts in US Gulf platform in preparation for developing tropical storm reut.rs/4fdlgPO]]></description>
-      <content:encoded><![CDATA[Chevron shuts in US Gulf platform in preparation for developing tropical storm reut.rs/4fdlgPO]]></content:encoded>
-    </item>
-    <item>
-      <title>カードゲーム ｢これから私たちは、」が異例のヒット www.nikkei.com/article/DGXZQO...  …</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4bdbnbbj2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4bdbnbbj2k</guid>
-      <pubDate>Mon, 20 Jul 2026 21:45:17 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[カードゲーム ｢これから私たちは、」が異例のヒット<br>www.nikkei.com/article/DGXZQO...<br><br>「サイゼリヤでメニューの見開き全部頼んで食べる」「みんな宝くじを買う」…。<br><br>様々なお題が書かれたカードが決めてくれるのは、「次に何をするか」です。<br><br>自分から誘うのが恥ずかしくても、ゲームが背中を押してくれます。]]></description>
-      <content:encoded><![CDATA[カードゲーム ｢これから私たちは、」が異例のヒット<br>www.nikkei.com/article/DGXZQO...<br><br>「サイゼリヤでメニューの見開き全部頼んで食べる」「みんな宝くじを買う」…。<br><br>様々なお題が書かれたカードが決めてくれるのは、「次に何をするか」です。<br><br>自分から誘うのが恥ずかしくても、ゲームが背中を押してくれます。]]></content:encoded>
-    </item>
-    <item>
-      <title>Ex-CEO of social media startup contends prosecution conflict…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4b2ktv2d25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4b2ktv2d25</guid>
-      <pubDate>Mon, 20 Jul 2026 21:40:24 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Ex-CEO of social media startup contends prosecution conflicts taint fraud case reut.rs/4ytbWyR]]></description>
-      <content:encoded><![CDATA[Ex-CEO of social media startup contends prosecution conflicts taint fraud case reut.rs/4ytbWyR]]></content:encoded>
-    </item>
-    <item>
-      <title>U.S. war with Iran risks spiraling as attacks intensify and …</title>
-      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4b276hqx2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mr4b276hqx2g</guid>
-      <pubDate>Mon, 20 Jul 2026 21:40:12 GMT</pubDate>
-      <author>NBC News (@nbcnews.com)</author>
-      <description><![CDATA[U.S. war with Iran risks spiraling as attacks intensify and diplomacy stalls, experts warn]]></description>
-      <content:encoded><![CDATA[U.S. war with Iran risks spiraling as attacks intensify and diplomacy stalls, experts warn]]></content:encoded>
-    </item>
-    <item>
-      <title>The FDA said on Monday that strong evidence still tied Taylo…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4azv2dxc24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4azv2dxc24</guid>
-      <pubDate>Mon, 20 Jul 2026 21:40:02 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[The FDA said on Monday that strong evidence still tied Taylor Farms to the continuing cyclospora outbreak, despite the agency’s retraction on Sunday of what it had said was a positive test of a lettuce sample for the parasite.]]></description>
-      <content:encoded><![CDATA[The FDA said on Monday that strong evidence still tied Taylor Farms to the continuing cyclospora outbreak, despite the agency’s retraction on Sunday of what it had said was a positive test of a lettuce sample for the parasite.]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4cm2ymlwq2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4cm2ymlwq2</guid>
-      <pubDate>Mon, 20 Jul 2026 21:38:44 GMT</pubDate>
-      <author>Fox News - Breaking News Updates | Latest News Headlines | Phot… (@foxnews.com.web.brid.gy)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Cardinal Health to buy AdaptHealth diabetes unit, Strive Med…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4argehpo2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4argehpo2v</guid>
-      <pubDate>Mon, 20 Jul 2026 21:35:18 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[Cardinal Health to buy AdaptHealth diabetes unit, Strive Medical for $360 million reut.rs/4whVShU]]></description>
-      <content:encoded><![CDATA[Cardinal Health to buy AdaptHealth diabetes unit, Strive Medical for $360 million reut.rs/4whVShU]]></content:encoded>
-    </item>
-    <item>
-      <title>#🔖世の中 「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警…</title>
-      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4ar46zkf2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mr4ar46zkf2q</guid>
-      <pubDate>Mon, 20 Jul 2026 21:35:07 GMT</pubDate>
-      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
-      <description><![CDATA[#🔖世の中<br>「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの | 弁護士JPニュース<br><br>「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの 生活保護制度において、自動車の保有は原則として認められていません。制度を支える原資が国民の税金である以上、資産価値のある物品の保有が制限されるのは一定の合理性はあるでしょう。 例外...]]></description>
-      <content:encoded><![CDATA[#🔖世の中<br>「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの | 弁護士JPニュース<br><br>「車」が必要なのに“保有”認めず…生活保護受給者の「自立」を妨げる“行政の運用実態”に、裁判所が発した“警告”が意味するもの 生活保護制度において、自動車の保有は原則として認められていません。制度を支える原資が国民の税金である以上、資産価値のある物品の保有が制限されるのは一定の合理性はあるでしょう。 例外...]]></content:encoded>
-    </item>
-    <item>
-      <title>The United States is imposing a tariff of 50% ‌on a wide ran…</title>
-      <link>https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4ao6cnec2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jbvnehrrdqoulco4rf5gxg5r/post/3mr4ao6cnec2y</guid>
-      <pubDate>Mon, 20 Jul 2026 21:33:29 GMT</pubDate>
-      <author>Reuters (@reuters.com)</author>
-      <description><![CDATA[The United States is imposing a tariff of 50% ‌on a wide range of Canadian products in response to what it called Canada's 'discriminatory treatment' of US cars, alcohol and dairy, according to the White House reut.rs/4b2c91M]]></description>
-      <content:encoded><![CDATA[The United States is imposing a tariff of 50% ‌on a wide range of Canadian products in response to what it called Canada's 'discriminatory treatment' of US cars, alcohol and dairy, according to the White House reut.rs/4b2c91M]]></content:encoded>
-    </item>
-    <item>
-      <title>【熱中症警戒アラート】 環境省と気象庁は、今日21日(火)を対象とした熱中症警戒アラートを東北〜沖縄の44地域に発表しま…</title>
-      <link>https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mr4amsx3yk2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tu2p7ggf43h4x6cmtvxcnklg/post/3mr4amsx3yk2j</guid>
-      <pubDate>Mon, 20 Jul 2026 21:32:43 GMT</pubDate>
-      <author>ウェザーニュース (@weathernews.jp)</author>
-      <description><![CDATA[【熱中症警戒アラート】<br>環境省と気象庁は、今日21日(火)を対象とした熱中症警戒アラートを東北〜沖縄の44地域に発表しました。（岐阜と大阪は今季初）<br>対象地域では特に熱中症のリスクが高くなります。<br>水分補給など熱中症予防を万全に。<br>weathernews.jp/news/202607/...]]></description>
-      <content:encoded><![CDATA[【熱中症警戒アラート】<br>環境省と気象庁は、今日21日(火)を対象とした熱中症警戒アラートを東北〜沖縄の44地域に発表しました。（岐阜と大阪は今季初）<br>対象地域では特に熱中症のリスクが高くなります。<br>水分補給など熱中症予防を万全に。<br>weathernews.jp/news/202607/...]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4cm74n3jx2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6pwit4ctv4egvys3qyqmgbi6/post/3mr4cm74n3jx2</guid>
-      <pubDate>Mon, 20 Jul 2026 21:32:13 GMT</pubDate>
-      <author>Fox News - Breaking News Updates | Latest News Headlines | Phot… (@foxnews.com.web.brid.gy)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>米朝、ディールのうごめき　トランプ外交「日本置き去り」の悪夢 www.nikkei.com/article/DGXZQO…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4akasna526</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mr4akasna526</guid>
-      <pubDate>Mon, 20 Jul 2026 21:31:17 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[米朝、ディールのうごめき　トランプ外交「日本置き去り」の悪夢<br>www.nikkei.com/article/DGXZQO...<br><br>「平和の立役者」として名を残す野心を抱くトランプ氏ですが、イランとの衝突で中東はより危険に。<br><br>手柄を残そうと、年末に向けて北朝鮮とのトップ交渉の再開に動くとの観測があります。<br><br>金正恩氏が応じるのかどうか、相反する2つの仮説が飛び交っています。]]></description>
-      <content:encoded><![CDATA[米朝、ディールのうごめき　トランプ外交「日本置き去り」の悪夢<br>www.nikkei.com/article/DGXZQO...<br><br>「平和の立役者」として名を残す野心を抱くトランプ氏ですが、イランとの衝突で中東はより危険に。<br><br>手柄を残そうと、年末に向けて北朝鮮とのトップ交渉の再開に動くとの観測があります。<br><br>金正恩氏が応じるのかどうか、相反する2つの仮説が飛び交っています。]]></content:encoded>
-    </item>
-    <item>
-      <title>Secretary of State Marco Rubio and Iranian diplomats signale…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4ak6xrxt2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mr4ak6xrxt2g</guid>
-      <pubDate>Mon, 20 Jul 2026 21:31:15 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[Secretary of State Marco Rubio and Iranian diplomats signaled separately that they remained open to negotiating even as the U.S. and Iran traded strikes on Monday, more than a week into a spiraling escalation in their war. nyti.ms/4gNzdFl]]></description>
-      <content:encoded><![CDATA[Secretary of State Marco Rubio and Iranian diplomats signaled separately that they remained open to negotiating even as the U.S. and Iran traded strikes on Monday, more than a week into a spiraling escalation in their war. nyti.ms/4gNzdFl]]></content:encoded>
     </item>
   </channel>
 </rss>
