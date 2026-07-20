@@ -5,8 +5,98 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 23:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 01:19:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>These settings won’t make your project unhackable. Nothing w…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum5qe26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum5qe26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[These settings won’t make your project unhackable. Nothing will.<br><br>But they make your project significantly harder to attack, protecting its users and everything that depends on it.<br>github.blog/security/6-s...]]></description>
+      <content:encoded><![CDATA[These settings won’t make your project unhackable. Nothing will.<br><br>But they make your project significantly harder to attack, protecting its users and everything that depends on it.<br>github.blog/security/6-s...]]></content:encoded>
+    </item>
+    <item>
+      <title>6. Protect your default branch  Require pull requests and at…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum5qd26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum5qd26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[6. Protect your default branch<br><br>Require pull requests and at least one approval before merging.<br><br>This reduces the risk of compromised credentials or accidental direct pushes. It also helps ensure security findings are addressed before code is merged.]]></description>
+      <content:encoded><![CDATA[6. Protect your default branch<br><br>Require pull requests and at least one approval before merging.<br><br>This reduces the risk of compromised credentials or accidental direct pushes. It also helps ensure security findings are addressed before code is merged.]]></content:encoded>
+    </item>
+    <item>
+      <title>5. Turn on code scanning  Code scanning uses CodeQL to ident…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum4r326</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum4r326</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[5. Turn on code scanning<br><br>Code scanning uses CodeQL to identify patterns that lead to vulnerabilities, including injection flaws, unsafe deserialization, and insecure GitHub Actions workflows.<br><br>Default setup chooses the appropriate queries and runs them on pull requests.]]></description>
+      <content:encoded><![CDATA[5. Turn on code scanning<br><br>Code scanning uses CodeQL to identify patterns that lead to vulnerabilities, including injection flaws, unsafe deserialization, and insecure GitHub Actions workflows.<br><br>Default setup chooses the appropriate queries and runs them on pull requests.]]></content:encoded>
+    </item>
+    <item>
+      <title>4. Enable Dependabot and dependency review  Your project inc…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum4r226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum4r226</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[4. Enable Dependabot and dependency review<br><br>Your project includes code from every package it depends on.<br><br>Dependabot alerts you to known vulnerabilities. Dependency review shows what a pull request adds or upgrades and whether those changes introduce vulnerable dependencies.]]></description>
+      <content:encoded><![CDATA[4. Enable Dependabot and dependency review<br><br>Your project includes code from every package it depends on.<br><br>Dependabot alerts you to known vulnerabilities. Dependency review shows what a pull request adds or upgrades and whether those changes introduce vulnerable dependencies.]]></content:encoded>
+    </item>
+    <item>
+      <title>3. Turn on secret scanning with push protection  Millions of…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum3rs26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum3rs26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[3. Turn on secret scanning with push protection<br><br>Millions of secrets are exposed in public repositories every year.<br><br>Secret scanning detects leaked credentials. Push protection helps stop API keys and tokens before they enter your repository.]]></description>
+      <content:encoded><![CDATA[3. Turn on secret scanning with push protection<br><br>Millions of secrets are exposed in public repositories every year.<br><br>Secret scanning detects leaked credentials. Push protection helps stop API keys and tokens before they enter your repository.]]></content:encoded>
+    </item>
+    <item>
+      <title>2. Enable private vulnerability reporting  Give researchers …</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum2sk26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum2sk26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[2. Enable private vulnerability reporting<br><br>Give researchers a confidential place to report vulnerabilities directly in your repository.<br><br>You can triage the report privately, collaborate on a fix, and disclose it on your timeline.]]></description>
+      <content:encoded><![CDATA[2. Enable private vulnerability reporting<br><br>Give researchers a confidential place to report vulnerabilities directly in your repository.<br><br>You can triage the report privately, collaborate on a fix, and disclose it on your timeline.]]></content:encoded>
+    </item>
+    <item>
+      <title>1. Add a SECURITY. md file  Tell researchers how to report v…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eulztc26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eulztc26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[1. Add a SECURITY. md file<br><br>Tell researchers how to report vulnerabilities privately, what’s in scope, and what information to include.<br><br>Without clear guidance, a well-meaning reporter may resort to a public issue or struggle to reach you at all.]]></description>
+      <content:encoded><![CDATA[1. Add a SECURITY. md file<br><br>Tell researchers how to report vulnerabilities privately, what’s in scope, and what information to include.<br><br>Without clear guidance, a well-meaning reporter may resort to a public issue or struggle to reach you at all.]]></content:encoded>
+    </item>
+    <item>
+      <title>Maintainers: You don’t need to be a security engineer to imp…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24euj7yc26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24euj7yc26</guid>
+      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[Maintainers: You don’t need to be a security engineer to improve your project’s security. 🔐<br><br>Enable these 6 free GitHub settings in under 30 minutes. 🧵]]></description>
+      <content:encoded><![CDATA[Maintainers: You don’t need to be a security engineer to improve your project’s security. 🔐<br><br>Enable these 6 free GitHub settings in under 30 minutes. 🧵]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_bank…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjq55q227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjq55q227</guid>
+      <pubDate>Sun, 19 Jul 2026 23:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_banked reset_や100%の週次/時限上限回復などの対応が継続的に実施されている状況を、関係者の発言を通じて伝えるまとめ。長期の待機期間とミッションの拡張を背景に、開発チームがインフラ維持と機能拡張を優先しつつ、利用上限のリセットを繰り返している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_banked reset_や100%の週次/時限上限回復などの対応が継続的に実施されている状況を、関係者の発言を通じて伝えるまとめ。長期の待機期間とミッションの拡張を背景に、開発チームがインフラ維持と機能拡張を優先しつつ、利用上限のリセットを繰り返している。]]></content:encoded>
+    </item>
+    <item>
+      <title>コデックスのリセット Codex Resets  🔺 291 💬 36 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjjam3b2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjjam3b2d</guid>
+      <pubDate>Sun, 19 Jul 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[コデックスのリセット<br>Codex Resets<br><br>🔺 291<br>💬 36<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[コデックスのリセット<br>Codex Resets<br><br>🔺 291<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 Summary:   - 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwwxj6d2g</link>
@@ -366,96 +456,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive<br>Qwen3.6-35B-A3Bの検閲を解除したモデルを提供することが目的です。<br>元の能力を維持したまま、プロンプトへの拒絶をなくしたアンセンサード版であり、特にこのAggressive版は制限を完全に解除して回答を生成するように設計されています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive<br>Qwen3.6-35B-A3Bの検閲を解除したモデルを提供することが目的です。<br>元の能力を維持したまま、プロンプトへの拒絶をなくしたアンセンサード版であり、特にこのAggressive版は制限を完全に解除して回答を生成するように設計されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期間のタスク向けに開発された…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqynakllqn2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqynakllqn2m</guid>
-      <pubDate>Sun, 19 Jul 2026 11:07:52 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期間のタスク向けに開発された最新のフラッグシップモデルです。<br>最大100万トークンのコンテキストウィンドウに対応しており、推論、コーディング、エージェント能力において前世代のGLM-5.1から大幅な性能向上を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期間のタスク向けに開発された最新のフラッグシップモデルです。<br>最大100万トークンのコンテキストウィンドウに対応しており、推論、コーディング、エージェント能力において前世代のGLM-5.1から大幅な性能向上を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  prism-ml/Bonsai-27B-gguf Qwen3.6-27Bをベース…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqyna54pon2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqyna54pon2e</guid>
-      <pubDate>Sun, 19 Jul 2026 11:07:38 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした1ビット量子化モデル1-bit Bonsai 27BをGGUF形式で提供するリポジトリです。<br>llama.cppでの動作を想定しており、モデルサイズを大幅に削減しつつ高い知能を維持することで、低リソースなデバイスでも高速な推論と長いコンテキストの処理を可能にすることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした1ビット量子化モデル1-bit Bonsai 27BをGGUF形式で提供するリポジトリです。<br>llama.cppでの動作を想定しており、モデルサイズを大幅に削減しつつ高い知能を維持することで、低リソースなデバイスでも高速な推論と長いコンテキストの処理を可能にすることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-27B-gguf Qwen3.6…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqyn7ffa2p2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mqyn7ffa2p2u</guid>
-      <pubDate>Sun, 19 Jul 2026 11:07:13 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした3値重みモデルTernary Bonsai 27BをGGUF形式で提供するリポジトリです。<br>モデルサイズを大幅に削減しつつ高い性能を維持しており、llama.cppを通じてCPUやGPUなどの多様な環境で効率的に推論を行うことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした3値重みモデルTernary Bonsai 27BをGGUF形式で提供するリポジトリです。<br>モデルサイズを大幅に削減しつつ高い性能を維持しており、llama.cppを通じてCPUやGPUなどの多様な環境で効率的に推論を行うことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   EU全域で2024年開始のESPRに基づき、未販売の衣類・靴下・靴を破棄することが原則禁止と…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqyilntflp2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqyilntflp2r</guid>
-      <pubDate>Sun, 19 Jul 2026 09:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>EU全域で2024年開始のESPRに基づき、未販売の衣類・靴下・靴を破棄することが原則禁止となり、大企業は2024年7月19日から、中堅企業は2030年から適用。破棄は原則禁止で、再利用・修理・リユースを優先、例外時には廃棄の階層を遵守しリサイクルを優先する。違反には罰金・5年の記録保持義務が課され、小規模事業者は条件免除。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>EU全域で2024年開始のESPRに基づき、未販売の衣類・靴下・靴を破棄することが原則禁止となり、大企業は2024年7月19日から、中堅企業は2030年から適用。破棄は原則禁止で、再利用・修理・リユースを優先、例外時には廃棄の階層を遵守しリサイクルを優先する。違反には罰金・5年の記録保持義務が課され、小規模事業者は条件免除。]]></content:encoded>
-    </item>
-    <item>
-      <title>売れ残りの衣料品と靴の破棄を禁止するEU規制が施行される EU ban on destruction of unsold…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqyiliasn72f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqyiliasn72f</guid>
-      <pubDate>Sun, 19 Jul 2026 09:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[売れ残りの衣料品と靴の破棄を禁止するEU規制が施行される<br>EU ban on destruction of unsold clothes and shoes enters into application<br><br>🔺 293<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[売れ残りの衣料品と靴の破棄を禁止するEU規制が施行される<br>EU ban on destruction of unsold clothes and shoes enters into application<br><br>🔺 293<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi  🔖 182 ブック…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqye7jddj72d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mqye7jddj72d</guid>
-      <pubDate>Sun, 19 Jul 2026 08:26:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi<br><br>🔖 182 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi<br><br>🔖 182 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>オープンソースコミュニティと共に継続的な改善を呼びかけています。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybuqayrs27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybuqayrs27</guid>
-      <pubDate>Sun, 19 Jul 2026 07:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[オープンソースコミュニティと共に継続的な改善を呼びかけています。 (2/2)]]></description>
-      <content:encoded><![CDATA[オープンソースコミュニティと共に継続的な改善を呼びかけています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   transcribe.cppは、最新の音声認識モデルをサポートするggmlベースの高性能なロ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybuq5m6w2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybuq5m6w2o</guid>
-      <pubDate>Sun, 19 Jul 2026 07:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>transcribe.cppは、最新の音声認識モデルをサポートするggmlベースの高性能なローカル転写ライブラリで、60以上のモデルと複数の加速バックエンドを備え、Python/JS/Rust/ObjC等の bindings も用意されています。Whisper.cppの置換を意図しており、数千 utterancesによる数値検証とWER検証を実施済みで、Mac/Windows/Linux上での軽量なデスクトップ/Mobile アプリへの組込みを目指します。著者は Handy のメンテナーであり、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>transcribe.cppは、最新の音声認識モデルをサポートするggmlベースの高性能なローカル転写ライブラリで、60以上のモデルと複数の加速バックエンドを備え、Python/JS/Rust/ObjC等の bindings も用意されています。Whisper.cppの置換を意図しており、数千 utterancesによる数値検証とWER検証を実施済みで、Mac/Windows/Linux上での軽量なデスクトップ/Mobile アプリへの組込みを目指します。著者は Handy のメンテナーであり、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Transcribe.cpp Transcribe.cpp  🔺 411 💬 26 🔗 HN Post | Art…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybukien32c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqybukien32c</guid>
-      <pubDate>Sun, 19 Jul 2026 07:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Transcribe.cpp<br>Transcribe.cpp<br><br>🔺 411<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Transcribe.cpp<br>Transcribe.cpp<br><br>🔺 411<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ニューヨーク市長ゾフラン・マムダニは「クリックで解約」規制に続き、AI生成・編集画像を使った…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqy36f2bnm2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqy36f2bnm2r</guid>
-      <pubDate>Sun, 19 Jul 2026 05:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ニューヨーク市長ゾフラン・マムダニは「クリックで解約」規制に続き、AI生成・編集画像を使った物件表示の詐欺的行為を取り締まる「レンタル・リポーリット・ヒアリング」報告を公表し、家主や不動産業者にはAI使用の開示を義務付ける方針を示した。報告は、AI改変 listings の開示義務化や入居者組合の認識拡大、入居者の交渉権拡充を提案し、遠隔契約時の現実と写真の乖離による被害を防ぐことを目的としている。マムダニ市長はこれを「新たな入居者の力の章」と位置づけ、全市での監督強化と tenant organizing の促進を強調した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ニューヨーク市長ゾフラン・マムダニは「クリックで解約」規制に続き、AI生成・編集画像を使った物件表示の詐欺的行為を取り締まる「レンタル・リポーリット・ヒアリング」報告を公表し、家主や不動産業者にはAI使用の開示を義務付ける方針を示した。報告は、AI改変 listings の開示義務化や入居者組合の認識拡大、入居者の交渉権拡充を提案し、遠隔契約時の現実と写真の乖離による被害を防ぐことを目的としている。マムダニ市長はこれを「新たな入居者の力の章」と位置づけ、全市での監督強化と tenant organizing の促進を強調した。]]></content:encoded>
     </item>
   </channel>
 </rss>
