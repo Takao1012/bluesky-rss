@@ -5,8 +5,56 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 21:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:44:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>(remember, recall, forget, improve), multimodal ingestion, o…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2t4hgq24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2t4hgq24</guid>
+      <pubDate>Mon, 20 Jul 2026 22:16:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[(remember, recall, forget, improve), multimodal ingestion, ontology grounding, and plug-ins for popular tools and environments. (2/2)]]></description>
+      <content:encoded><![CDATA[(remember, recall, forget, improve), multimodal ingestion, ontology grounding, and plug-ins for popular tools and environments. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Cognee is an open-source AI memory platform th…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2t33422u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2t33422u</guid>
+      <pubDate>Mon, 20 Jul 2026 22:16:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Cognee is an open-source AI memory platform that builds a self-hosted, persistent knowledge graph to give agents long-term memory across sessions, with multi-language clients (Python, Rust, TypeScript) and deploy options from local to cloud. It offers end-to-end memory operations (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Cognee is an open-source AI memory platform that builds a self-hosted, persistent knowledge graph to give agents long-term memory across sessions, with multi-language clients (Python, Rust, TypeScript) and deploy options from local to cloud. It offers end-to-end memory operations (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 topoteretes / cogne…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2pvaky2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2pvaky2p</guid>
+      <pubDate>Mon, 20 Jul 2026 22:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 topoteretes / cognee<br>⭐ 28,581 (+303)<br>🗒 Python<br><br>Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 topoteretes / cognee<br>⭐ 28,581 (+303)<br>🗒 Python<br><br>Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.]]></content:encoded>
+    </item>
+    <item>
+      <title>I would *guess* we’ll still see a be Opus in the next few we…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4deila532p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4deila532p</guid>
+      <pubDate>Mon, 20 Jul 2026 21:49:50 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I would *guess* we’ll still see a be Opus in the next few weeks.<br><br>Disclaimer: this is 100% speculation and I have zero insider knowledge (2/2)]]></description>
+      <content:encoded><![CDATA[I would *guess* we’ll still see a be Opus in the next few weeks.<br><br>Disclaimer: this is 100% speculation and I have zero insider knowledge (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>My theory: Opus 5(.1) was meant to replace Fable 5 for most …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4dbjukpc2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4dbjukpc2c</guid>
+      <pubDate>Mon, 20 Jul 2026 21:49:49 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[My theory: Opus 5(.1) was meant to replace Fable 5 for most dev work. It would be cheaper and bench nearly as well.<br><br>My guess is that it didn’t perform as well as they hoped, and the delays on Fable were attempts to improve the new Opus. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" alt="Quote Tweet: https://twitter.com/i/status/2078302415804379218" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[My theory: Opus 5(.1) was meant to replace Fable 5 for most dev work. It would be cheaper and bench nearly as well.<br><br>My guess is that it didn’t perform as well as they hoped, and the delays on Fable were attempts to improve the new Opus. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" alt="Quote Tweet: https://twitter.com/i/status/2078302415804379218" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたこ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bc5gm3y2t</link>
@@ -414,51 +462,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[offers Python/iOS/Android/Linux integrations with extensive tooling for downloading models, benchmarking, and examples. (2/2)]]></description>
       <content:encoded><![CDATA[offers Python/iOS/Android/Linux integrations with extensive tooling for downloading models, benchmarking, and examples. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Moonshine Voice is a complete, on-device, real…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjyjs4i2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjyjs4i2l</guid>
-      <pubDate>Mon, 20 Jul 2026 12:16:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Moonshine Voice is a complete, on-device, real-time voice AI toolkit for transcription, TTS, and conversational agents, designed for low latency and cross-platform deployment. It emphasizes live speech performance over Whisper, supports multiple languages, on-device models, and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Moonshine Voice is a complete, on-device, real-time voice AI toolkit for transcription, TTS, and conversational agents, designed for low latency and cross-platform deployment. It emphasizes live speech performance over Whisper, supports multiple languages, on-device models, and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 moonshine-ai / moon…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjuw5au2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjuw5au2u</guid>
-      <pubDate>Mon, 20 Jul 2026 12:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 moonshine-ai / moonshine<br>⭐ 9,442 (+264)<br>🗒 C++<br><br>Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 moonshine-ai / moonshine<br>⭐ 9,442 (+264)<br>🗒 C++<br><br>Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  bottlecapai/ThinkingCap-Qwen3.6-27B Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bhuxjzs2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bhuxjzs2t</guid>
-      <pubDate>Mon, 20 Jul 2026 12:15:12 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質やスタイルを維持したまま思考トークン量を削減して効率性を向上させることを目的としています。<br>平均で50%以上のトークン削減を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>bottlecapai/ThinkingCap-Qwen3.6-27B<br>Qwen3.6-27Bをファインチューニングし、回答の品質やスタイルを維持したまま思考トークン量を削減して効率性を向上させることを目的としています。<br>平均で50%以上のトークン削減を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  conradlocke/krea2-identity-edit Krea 2 R…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bhflnqu2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bhflnqu2u</guid>
-      <pubDate>Mon, 20 Jul 2026 12:14:56 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした非公式の微調整モデルです。<br>人物の個性を維持したまま、自然言語による指示で画像を編集することを目的としています。<br>顔や目の入れ替え、インペインティング、仮想試着などの機能を提供します。<br>利用にはComfyUI-Krea2Editノードパックが必要です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした非公式の微調整モデルです。<br>人物の個性を維持したまま、自然言語による指示で画像を編集することを目的としています。<br>顔や目の入れ替え、インペインティング、仮想試着などの機能を提供します。<br>利用にはComfyUI-Krea2Editノードパックが必要です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bgtmemp23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr3bgtmemp23</guid>
-      <pubDate>Mon, 20 Jul 2026 12:14:37 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Emperoが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムで利用可能にするための量子化モデルを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>Emperoが開発した推論モデルQwythos-9B-Claude-Mythos-5-1Mを、llama.cppやOllama、LM StudioなどのGGUF対応ランタイムで利用可能にするための量子化モデルを提供することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
