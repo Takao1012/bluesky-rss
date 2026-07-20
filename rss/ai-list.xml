@@ -5,8 +5,98 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 13:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:41:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>emphasizes cross-platform builds, model verification, and mo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lojs6ci2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lojs6ci2n</guid>
+      <pubDate>Mon, 20 Jul 2026 15:17:50 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[emphasizes cross-platform builds, model verification, and modular bindings across Python, TypeScript, Rust, and Swift. (2/2)]]></description>
+      <content:encoded><![CDATA[emphasizes cross-platform builds, model verification, and modular bindings across Python, TypeScript, Rust, and Swift. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   transcribe.cpp is a C/C++ STT inference librar…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3log4ioi2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3log4ioi2n</guid>
+      <pubDate>Mon, 20 Jul 2026 15:17:33 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>transcribe.cpp is a C/C++ STT inference library that runs 16 model families (60+ variants) via GGUF on ggml, with accelerated backends (Metal, Vulkan, CUDA) and a CPU path, plus tooling for conversion, quantization, bindings, tests, and pre-built GGUFs hosted on Hugging Face. It (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>transcribe.cpp is a C/C++ STT inference library that runs 16 model families (60+ variants) via GGUF on ggml, with accelerated backends (Metal, Vulkan, CUDA) and a CPU path, plus tooling for conversion, quantization, bindings, tests, and pre-built GGUFs hosted on Hugging Face. It (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 handy-computer / tr…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lmndxtd2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lmndxtd2p</guid>
+      <pubDate>Mon, 20 Jul 2026 15:16:46 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 handy-computer / transcribe.cpp<br>⭐ 1,044 (+401)<br>🗒 C++<br><br>ggml speech-to-text inference for 16+ model families]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 handy-computer / transcribe.cpp<br>⭐ 1,044 (+401)<br>🗒 C++<br><br>ggml speech-to-text inference for 16+ model families]]></content:encoded>
+    </item>
+    <item>
+      <title>Thanks! That if/of typo gets me all the time, peril of blogg…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mr3lluekss27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mr3lluekss27</guid>
+      <pubDate>Mon, 20 Jul 2026 15:16:23 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Thanks! That if/of typo gets me all the time, peril of blogging from my phone]]></description>
+      <content:encoded><![CDATA[Thanks! That if/of typo gets me all the time, peril of blogging from my phone]]></content:encoded>
+    </item>
+    <item>
+      <title>tokens, avoid limits, and unify tool access across multiple …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf5rqq26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf5rqq26</guid>
+      <pubDate>Mon, 20 Jul 2026 14:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[tokens, avoid limits, and unify tool access across multiple platforms and languages. (2/2)]]></description>
+      <content:encoded><![CDATA[tokens, avoid limits, and unify tool access across multiple platforms and languages. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OmniRoute is a free, open-source AI gateway th…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf4frk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf4frk2n</guid>
+      <pubDate>Mon, 20 Jul 2026 14:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OmniRoute is a free, open-source AI gateway that aggregates 268 providers (90+ with free tiers) into one endpoint with 18 routing strategies, advanced compression, multi-layer resilience, and a private, local-first architecture plus a full CLI/A2A/MCP ecosystem. It aims to save (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OmniRoute is a free, open-source AI gateway that aggregates 268 providers (90+ with free tiers) into one endpoint with 18 routing strategies, advanced compression, multi-layer resilience, and a private, local-first architecture plus a full CLI/A2A/MCP ecosystem. It aims to save (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 diegosouzapw / OmniR…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iabieup2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iabieup2p</guid>
+      <pubDate>Mon, 20 Jul 2026 14:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 20,715 (+1,343)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; C...]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 20,715 (+1,343)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; C...]]></content:encoded>
+    </item>
+    <item>
+      <title>少量データからの新規タスク適応も高データ効率で実現する。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqrniy2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqrniy2t</guid>
+      <pubDate>Mon, 20 Jul 2026 13:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[少量データからの新規タスク適応も高データ効率で実現する。 (2/2)]]></description>
+      <content:encoded><![CDATA[少量データからの新規タスク適応も高データ効率で実現する。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqoa422c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqoa422c</guid>
+      <pubDate>Mon, 20 Jul 2026 13:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓練と、現実のロボットデータを組み合わせた二段階学習で、ロボット基盤モデルのスケーリングが現実世界のロボット性能へと移行することを示した。前訓練では約10万時間のUMIデータを自動ラベリングで活用し、後訓練で実機データと指示遵守能力に合わせて整合させることで、未知環境でもタスクを高精度に実行可能となり、複数のシミュレーション benchmarksで最先端成績を達成した。データ量とモデル規模の増加が現実ロボットの成功率を一貫して向上させ、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓練と、現実のロボットデータを組み合わせた二段階学習で、ロボット基盤モデルのスケーリングが現実世界のロボット性能へと移行することを示した。前訓練では約10万時間のUMIデータを自動ラベリングで活用し、後訓練で実機データと指示遵守能力に合わせて整合させることで、未知環境でもタスクを高精度に実行可能となり、複数のシミュレーション benchmarksで最先端成績を達成した。データ量とモデル規模の増加が現実ロボットの成功率を一貫して向上させ、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>シャオミ・ロボティクス・1 Xiaomi-Robotics-1  🔺 321 💬 38 🔗 HN Post | A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghfzeyx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghfzeyx2r</guid>
+      <pubDate>Mon, 20 Jul 2026 13:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[シャオミ・ロボティクス・1<br>Xiaomi-Robotics-1<br><br>🔺 321<br>💬 38<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[シャオミ・ロボティクス・1<br>Xiaomi-Robotics-1<br><br>🔺 321<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr3fgvjm572d</link>
@@ -366,96 +456,6 @@
       <author>GitHub (@github.com)</author>
       <description><![CDATA[3. Turn on secret scanning with push protection<br><br>Millions of secrets are exposed in public repositories every year.<br><br>Secret scanning detects leaked credentials. Push protection helps stop API keys and tokens before they enter your repository.]]></description>
       <content:encoded><![CDATA[3. Turn on secret scanning with push protection<br><br>Millions of secrets are exposed in public repositories every year.<br><br>Secret scanning detects leaked credentials. Push protection helps stop API keys and tokens before they enter your repository.]]></content:encoded>
-    </item>
-    <item>
-      <title>2. Enable private vulnerability reporting  Give researchers …</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum2sk26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eum2sk26</guid>
-      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[2. Enable private vulnerability reporting<br><br>Give researchers a confidential place to report vulnerabilities directly in your repository.<br><br>You can triage the report privately, collaborate on a fix, and disclose it on your timeline.]]></description>
-      <content:encoded><![CDATA[2. Enable private vulnerability reporting<br><br>Give researchers a confidential place to report vulnerabilities directly in your repository.<br><br>You can triage the report privately, collaborate on a fix, and disclose it on your timeline.]]></content:encoded>
-    </item>
-    <item>
-      <title>1. Add a SECURITY. md file  Tell researchers how to report v…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eulztc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24eulztc26</guid>
-      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[1. Add a SECURITY. md file<br><br>Tell researchers how to report vulnerabilities privately, what’s in scope, and what information to include.<br><br>Without clear guidance, a well-meaning reporter may resort to a public issue or struggle to reach you at all.]]></description>
-      <content:encoded><![CDATA[1. Add a SECURITY. md file<br><br>Tell researchers how to report vulnerabilities privately, what’s in scope, and what information to include.<br><br>Without clear guidance, a well-meaning reporter may resort to a public issue or struggle to reach you at all.]]></content:encoded>
-    </item>
-    <item>
-      <title>Maintainers: You don’t need to be a security engineer to imp…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24euj7yc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr24euj7yc26</guid>
-      <pubDate>Mon, 20 Jul 2026 01:11:22 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[Maintainers: You don’t need to be a security engineer to improve your project’s security. 🔐<br><br>Enable these 6 free GitHub settings in under 30 minutes. 🧵]]></description>
-      <content:encoded><![CDATA[Maintainers: You don’t need to be a security engineer to improve your project’s security. 🔐<br><br>Enable these 6 free GitHub settings in under 30 minutes. 🧵]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_bank…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjq55q227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjq55q227</guid>
-      <pubDate>Sun, 19 Jul 2026 23:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_banked reset_や100%の週次/時限上限回復などの対応が継続的に実施されている状況を、関係者の発言を通じて伝えるまとめ。長期の待機期間とミッションの拡張を背景に、開発チームがインフラ維持と機能拡張を優先しつつ、利用上限のリセットを繰り返している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIのCodexとChatGPT Workの使用制限が頻繁にリセットされ、_banked reset_や100%の週次/時限上限回復などの対応が継続的に実施されている状況を、関係者の発言を通じて伝えるまとめ。長期の待機期間とミッションの拡張を背景に、開発チームがインフラ維持と機能拡張を優先しつつ、利用上限のリセットを繰り返している。]]></content:encoded>
-    </item>
-    <item>
-      <title>コデックスのリセット Codex Resets  🔺 291 💬 36 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjjam3b2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mqzxjjam3b2d</guid>
-      <pubDate>Sun, 19 Jul 2026 23:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[コデックスのリセット<br>Codex Resets<br><br>🔺 291<br>💬 36<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[コデックスのリセット<br>Codex Resets<br><br>🔺 291<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   - 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwwxj6d2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwwxj6d2g</guid>
-      <pubDate>Sun, 19 Jul 2026 23:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>- 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/泰米尔版）及配套示例代码，含章节概览、实验项目、外部仓库获取清单与安装/编译指引。核心思想为 Agent = LLM + 上下文 + 工具，系统性覆盖上下文工程、工具设计、记忆与知识库、编码/评估、模态与多代理协作等主题，并附大量独立可运行的实验与设计文档。]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>- 这是开源主仓库，提供《深入理解 AI Agent：设计原理与工程实践》全书正文（中/英/泰米尔版）及配套示例代码，含章节概览、实验项目、外部仓库获取清单与安装/编译指引。核心思想为 Agent = LLM + 上下文 + 工具，系统性覆盖上下文工程、工具设计、记忆与知识库、编码/评估、模态与多代理协作等主题，并附大量独立可运行的实验与设计文档。]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 bojieli / ai-agent-b…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwuatvz2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzvwuatvz2j</guid>
-      <pubDate>Sun, 19 Jul 2026 23:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 bojieli / ai-agent-book<br>⭐ 5,307 (+1,734)<br>🗒 Python<br><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 bojieli / ai-agent-book<br>⭐ 5,307 (+1,734)<br>🗒 Python<br><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码]]></content:encoded>
-    </item>
-    <item>
-      <title>optimizations, quantization, and seamless integration for pr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqmo622h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqmo622h</guid>
-      <pubDate>Sun, 19 Jul 2026 22:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[optimizations, quantization, and seamless integration for production serving and ultra-large MoE fine-tuning. (2/2)]]></description>
-      <content:encoded><![CDATA[optimizations, quantization, and seamless integration for production serving and ultra-large MoE fine-tuning. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   KTransformers provides a CPU-GPU hybrid framew…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqlfwq2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslqlfwq2u</guid>
-      <pubDate>Sun, 19 Jul 2026 22:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>KTransformers provides a CPU-GPU hybrid framework for efficient LLM inference and fine-tuning, featuring high-performance kt-kernel inference and SFT via LLaMA-Factory, with ongoing Day0 support for multiple models and extensive tutorials. It includes AMX/AVX acceleration, MoE (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>KTransformers provides a CPU-GPU hybrid framework for efficient LLM inference and fine-tuning, featuring high-performance kt-kernel inference and SFT via LLaMA-Factory, with ongoing Day0 support for multiple models and extensive tutorials. It includes AMX/AVX acceleration, MoE (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 kvcache-ai / ktrans…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslnnpyh2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mqzslnnpyh2g</guid>
-      <pubDate>Sun, 19 Jul 2026 22:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 kvcache-ai / ktransformers<br>⭐ 18,154 (+328)<br>🗒 Python<br><br>A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 kvcache-ai / ktransformers<br>⭐ 18,154 (+328)<br>🗒 Python<br><br>A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations]]></content:encoded>
     </item>
   </channel>
 </rss>
