@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:11:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🆕 Gemini 3.6 Flash is now rolling out in GitHub Copilot. Tr…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mr66olye4c2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mr66olye4c2w</guid>
+      <pubDate>Tue, 21 Jul 2026 16:03:15 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🆕 Gemini 3.6 Flash is now rolling out in GitHub Copilot. Try it in Visual Studio Code!<br><br>github.blog/changelog/20...]]></description>
+      <content:encoded><![CDATA[🆕 Gemini 3.6 Flash is now rolling out in GitHub Copilot. Try it in Visual Studio Code!<br><br>github.blog/changelog/20...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Qwen-Image-3.0は「Real（实）」を核心に、Rich Content（4.5k…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr65n7yfrn2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr65n7yfrn2c</guid>
+      <pubDate>Tue, 21 Jul 2026 15:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen-Image-3.0は「Real（实）」を核心に、Rich Content（4.5k入力・複雑レイアウト）、Authentic Details（微細な10px文字・肌質・筆致まで再現）、Deep Knowledge（12言語・多様なUI・豊富な世界知識）という三つの特性を備え、単なる美しさではなく実用的な生産性を実現する画像生成モデルへと進化した。横方向・縦方向の情報密度と階層的なUI描写能力、微細テキストの正確さ、実世界知識の活用により、新聞PDF、ストーリーボード、複雑なUIなど高付加価値用途において高い実用性を発揮する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen-Image-3.0は「Real（实）」を核心に、Rich Content（4.5k入力・複雑レイアウト）、Authentic Details（微細な10px文字・肌質・筆致まで再現）、Deep Knowledge（12言語・多様なUI・豊富な世界知識）という三つの特性を備え、単なる美しさではなく実用的な生産性を実現する画像生成モデルへと進化した。横方向・縦方向の情報密度と階層的なUI描写能力、微細テキストの正確さ、実世界知識の活用により、新聞PDF、ストーリーボード、複雑なUIなど高付加価値用途において高い実用性を発揮する。]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen-Image-3.0: 豊かなコンテンツ、正確なディテール、深い知識 Qwen-Image-3.0: Rich …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr65mzpkyr2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr65mzpkyr2y</guid>
+      <pubDate>Tue, 21 Jul 2026 15:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen-Image-3.0: 豊かなコンテンツ、正確なディテール、深い知識<br>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge<br><br>🔺 401<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen-Image-3.0: 豊かなコンテンツ、正確なディテール、深い知識<br>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge<br><br>🔺 401<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜ku…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr5zbeuvfa2l</link>
@@ -429,33 +456,6 @@
       <content:encoded><![CDATA[My theory: Opus 5(.1) was meant to replace Fable 5 for most dev work. It would be cheaper and bench nearly as well.<br><br>My guess is that it didn’t perform as well as they hoped, and the delays on Fable were attempts to improve the new Opus. (1/2)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" alt="Quote Tweet: https://twitter.com/i/status/2078302415804379218" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたこ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bc5gm3y2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bc5gm3y2t</guid>
-      <pubDate>Mon, 20 Jul 2026 21:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたことで不動産取引が停止。公式サイトは復旧したがネットワークはゼロから再構築中で、盗まれたデータの一部は公開フォーラムで売りに出された。犯人はZakaria Mahdjoubと特定され、ローレンスの捜査に役立つと報じられている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ルーマニアの登記局ANCPIがハッキング被害を受け、データベースとバックアップを消去されたことで不動産取引が停止。公式サイトは復旧したがネットワークはゼロから再構築中で、盗まれたデータの一部は公開フォーラムで売りに出された。犯人はZakaria Mahdjoubと特定され、ローレンスの捜査に役立つと報じられている。]]></content:encoded>
-    </item>
-    <item>
-      <title>ハッカーがルーマニアの土地登記簿データベースを消去。 Hacker wipes Romania&apos;s land regis…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bbumpsw2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4bbumpsw2r</guid>
-      <pubDate>Mon, 20 Jul 2026 21:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ハッカーがルーマニアの土地登記簿データベースを消去。<br>Hacker wipes Romania's land registry database<br><br>🔺 511<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ハッカーがルーマニアの土地登記簿データベースを消去。<br>Hacker wipes Romania's land registry database<br><br>🔺 511<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 iptv-org / iptv ⭐ 133,5…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr47pcrm4223</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr47pcrm4223</guid>
-      <pubDate>Mon, 20 Jul 2026 21:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 iptv-org / iptv<br>⭐ 133,548 (+144)<br>🗒 TypeScript<br><br>Collection of publicly available IPTV channels from all over the world]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 iptv-org / iptv<br>⭐ 133,548 (+144)<br>🗒 TypeScript<br><br>Collection of publicly available IPTV channels from all over the world]]></content:encoded>
     </item>
   </channel>
 </rss>
