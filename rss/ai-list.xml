@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:05:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Nativは、Apple Silicon搭載のMac上でオープンソースのAIモデルをローカル…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr6edt5ll727</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr6edt5ll727</guid>
+      <pubDate>Tue, 21 Jul 2026 17:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Nativは、Apple Silicon搭載のMac上でオープンソースのAIモデルをローカル実行できるデスクトップアプリ。クラウドやサブスクリプション不要で、モデルの選択・チャット・マルチモーダル対応・テレメトリ表示などを提供し、コード/画像/音声など多様なモダリティに対応する。全機能はオープンソースでMITライセンス、完全にローカル運用を強調している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Nativは、Apple Silicon搭載のMac上でオープンソースのAIモデルをローカル実行できるデスクトップアプリ。クラウドやサブスクリプション不要で、モデルの選択・チャット・マルチモーダル対応・テレメトリ表示などを提供し、コード/画像/音声など多様なモダリティに対応する。全機能はオープンソースでMITライセンス、完全にローカル運用を強調している。]]></content:encoded>
+    </item>
+    <item>
+      <title>Nativ: Mac上で Frontier Open Models をローカルに実行する Nativ: Run fron…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr6ednstoc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr6ednstoc2t</guid>
+      <pubDate>Tue, 21 Jul 2026 17:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Nativ: Mac上で Frontier Open Models をローカルに実行する<br>Nativ: Run frontier open models locally on your Mac<br><br>🔺 361<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Nativ: Mac上で Frontier Open Models をローカルに実行する<br>Nativ: Run frontier open models locally on your Mac<br><br>🔺 361<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🆕 Gemini 3.6 Flash is now rolling out in GitHub Copilot. Tr…</title>
       <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mr66olye4c2w</link>
@@ -435,27 +453,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 topoteretes / cognee<br>⭐ 28,581 (+303)<br>🗒 Python<br><br>Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 topoteretes / cognee<br>⭐ 28,581 (+303)<br>🗒 Python<br><br>Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.]]></content:encoded>
-    </item>
-    <item>
-      <title>I would *guess* we’ll still see a be Opus in the next few we…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4deila532p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4deila532p</guid>
-      <pubDate>Mon, 20 Jul 2026 21:49:50 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I would *guess* we’ll still see a be Opus in the next few weeks.<br><br>Disclaimer: this is 100% speculation and I have zero insider knowledge (2/2)]]></description>
-      <content:encoded><![CDATA[I would *guess* we’ll still see a be Opus in the next few weeks.<br><br>Disclaimer: this is 100% speculation and I have zero insider knowledge (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>My theory: Opus 5(.1) was meant to replace Fable 5 for most …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4dbjukpc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr4dbjukpc2c</guid>
-      <pubDate>Mon, 20 Jul 2026 21:49:49 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[My theory: Opus 5(.1) was meant to replace Fable 5 for most dev work. It would be cheaper and bench nearly as well.<br><br>My guess is that it didn’t perform as well as they hoped, and the delays on Fable were attempts to improve the new Opus. (1/2)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" alt="Quote Tweet: https://twitter.com/i/status/2078302415804379218" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[My theory: Opus 5(.1) was meant to replace Fable 5 for most dev work. It would be cheaper and bench nearly as well.<br><br>My guess is that it didn’t perform as well as they hoped, and the delays on Fable were attempts to improve the new Opus. (1/2)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" alt="Quote Tweet: https://twitter.com/i/status/2078302415804379218" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiegyby7ztna4xik6n7d67yxocp7lynr34mxjchfrngkvh6kdgfetq" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
