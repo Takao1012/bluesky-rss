@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 23:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:16:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   WordPressの脆弱性検証ツール wp2shell の公開経緯と、Sol Ultraとい…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4hysqpww2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4hysqpww2k</guid>
+      <pubDate>Mon, 20 Jul 2026 23:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>WordPressの脆弱性検証ツール wp2shell の公開経緯と、Sol Ultraというモデルを用いた事例研究で、事前認証SQLインジェクション（プリ認証Sqli）を利用してRCEへ拡張するまでのチェーンを構築した概要が記されている。バッチAPIの検証と実行の不整合を悪用してパラメータ検証を回避し、GET経由のSQLiからデータ取得とキャッシュ汚染、 embeds を介したデータ改ざん・最終的にはRCEへ至らせる一連の手法が詳述されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>WordPressの脆弱性検証ツール wp2shell の公開経緯と、Sol Ultraというモデルを用いた事例研究で、事前認証SQLインジェクション（プリ認証Sqli）を利用してRCEへ拡張するまでのチェーンを構築した概要が記されている。バッチAPIの検証と実行の不整合を悪用してパラメータ検証を回避し、GET経由のSQLiからデータ取得とキャッシュ汚染、 embeds を介したデータ改ざん・最終的にはRCEへ至らせる一連の手法が詳述されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>エクスプロイト仲介業者はWordPressのRCE（リモートコード実行）脆弱性に対して50万ドルを支払う。私はGPT5.…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4hykf4lt2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4hykf4lt2r</guid>
+      <pubDate>Mon, 20 Jul 2026 23:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[エクスプロイト仲介業者はWordPressのRCE（リモートコード実行）脆弱性に対して50万ドルを支払う。私はGPT5.6と25ドルのものを見つけた。<br>Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25<br><br>🔺 379<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[エクスプロイト仲介業者はWordPressのRCE（リモートコード実行）脆弱性に対して50万ドルを支払う。私はGPT5.6と25ドルのものを見つけた。<br>Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25<br><br>🔺 379<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>(remember, recall, forget, improve), multimodal ingestion, o…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr4d2t4hgq24</link>
@@ -444,24 +462,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>1jehuang/jcode<br>コーディングエージェントの能力を向上させるための次世代ハーネスです。<br>マルチセッションワークフローへの対応、高度なカスタマイズ性、およびリソース効率とパフォーマンスの最適化を目的として構築されています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>1jehuang/jcode<br>コーディングエージェントの能力を向上させるための次世代ハーネスです。<br>マルチセッションワークフローへの対応、高度なカスタマイズ性、およびリソース効率とパフォーマンスの最適化を目的として構築されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)  🔖 181 ブックマーク �…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr3c3mgfwg2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr3c3mgfwg2n</guid>
-      <pubDate>Mon, 20 Jul 2026 12:26:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)<br><br>🔖 181 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)<br><br>🔖 181 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>offers Python/iOS/Android/Linux integrations with extensive …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjyl4dg2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3bjyl4dg2n</guid>
-      <pubDate>Mon, 20 Jul 2026 12:16:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[offers Python/iOS/Android/Linux integrations with extensive tooling for downloading models, benchmarking, and examples. (2/2)]]></description>
-      <content:encoded><![CDATA[offers Python/iOS/Android/Linux integrations with extensive tooling for downloading models, benchmarking, and examples. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
