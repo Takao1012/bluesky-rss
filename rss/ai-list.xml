@@ -5,8 +5,173 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 04:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:16:16 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.6-35B-A3B-Uncensored-Hauh…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qdbxkvw2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qdbxkvw2j</guid>
+      <pubDate>Tue, 21 Jul 2026 11:46:23 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive<br>Qwen/Qwen3.6-35B-A3Bをベースに、検閲を排除したモデルを提供することが目的です。<br>元のモデルの機能や能力を維持しつつ、プロンプトへの拒絶をなくしたAggressive版であり、あらゆる指示に対して制限なく回答を生成することを目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive<br>Qwen/Qwen3.6-35B-A3Bをベースに、検閲を排除したモデルを提供することが目的です。<br>元のモデルの機能や能力を維持しつつ、プロンプトへの拒絶をなくしたAggressive版であり、あらゆる指示に対して制限なく回答を生成することを目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qcqya6w2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qcqya6w2j</guid>
+      <pubDate>Tue, 21 Jul 2026 11:46:05 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで動作する高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超え、主要なクローズドソースモデルに匹敵する性能を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで動作する高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超え、主要なクローズドソースモデルに匹敵する性能を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 長期間のタスク向けに設計された最新モデルGLM-…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qbqzy352s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qbqzy352s</guid>
+      <pubDate>Tue, 21 Jul 2026 11:45:32 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>長期間のタスク向けに設計された最新モデルGLM-5.2を提供するためのリポジトリです。<br>前モデルから大幅な性能向上を実現し、最大100万トークンのコンテキストウィンドウをサポートしています。<br>推論、コーディング、エージェントなどの高度なタスク遂行を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>長期間のタスク向けに設計された最新モデルGLM-5.2を提供するためのリポジトリです。<br>前モデルから大幅な性能向上を実現し、最大100万トークンのコンテキストウィンドウをサポートしています。<br>推論、コーディング、エージェントなどの高度なタスク遂行を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  prism-ml/Bonsai-27B-gguf Qwen3.6-27Bをベース…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qb4f2t72o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qb4f2t72o</guid>
+      <pubDate>Tue, 21 Jul 2026 11:45:10 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした1ビット重みのバイナリTransformerモデル「1-bit Bonsai 27B」のGGUF形式ファイルを提供することを目的としています。<br>FP16比で約14.2倍の軽量化を実現しつつ高い知能を維持しており、llama.cppを用いてCPUやGPUで効率的に動作させることが可能です。<br>最大262Kトークンの長いコンテキスト長にも対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Bonsai-27B-gguf<br>Qwen3.6-27Bをベースとした1ビット重みのバイナリTransformerモデル「1-bit Bonsai 27B」のGGUF形式ファイルを提供することを目的としています。<br>FP16比で約14.2倍の軽量化を実現しつつ高い知能を維持しており、llama.cppを用いてCPUやGPUで効率的に動作させることが可能です。<br>最大262Kトークンの長いコンテキスト長にも対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-27B-gguf Qwen3.6…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qaivohq2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mr5qaivohq2e</guid>
+      <pubDate>Tue, 21 Jul 2026 11:44:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>Qwen3.6-27Bをベースにした3値ウェイト推論モデル「Ternary Bonsai 27B」のGGUF形式版を提供するためのリポジトリです。<br>FP16比で大幅な軽量化を実現しつつ、高い性能を維持しています。<br>llama.cppに対応しており、CUDA、Metal、CPUでの動作が可能です。<br>262Kトークンの長いコンテキスト対応と、デバイス上での高速な動作を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>Qwen3.6-27Bをベースにした3値ウェイト推論モデル「Ternary Bonsai 27B」のGGUF形式版を提供するためのリポジトリです。<br>FP16比で大幅な軽量化を実現しつつ、高い性能を維持しています。<br>llama.cppに対応しており、CUDA、Metal、CPUでの動作が可能です。<br>262Kトークンの長いコンテキスト対応と、デバイス上での高速な動作を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   最近数週間の議論は、AIツールを用いた形式化・反例探索が数学の世界で急速に現実化したことを巡…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5qa3lpub2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5qa3lpub2n</guid>
+      <pubDate>Tue, 21 Jul 2026 11:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>最近数週間の議論は、AIツールを用いた形式化・反例探索が数学の世界で急速に現実化したことを巡るものだった。ChatGPTやSol/Fableを使って長年の未解決問題の反例が自動形式化・検証され、エルデシュの単位距離予想やGrothendieckの問題、Jacobian予想などが次々と裏付けられたり反証されたりした。著者はAI生成コードの信頼性と、形式化を通じた人間の理解深化の可能性を強調している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>最近数週間の議論は、AIツールを用いた形式化・反例探索が数学の世界で急速に現実化したことを巡るものだった。ChatGPTやSol/Fableを使って長年の未解決問題の反例が自動形式化・検証され、エルデシュの単位距離予想やGrothendieckの問題、Jacobian予想などが次々と裏付けられたり反証されたりした。著者はAI生成コードの信頼性と、形式化を通じた人間の理解深化の可能性を強調している。]]></content:encoded>
+    </item>
+    <item>
+      <title>人間の数学者は反例を挙げられている。 Human mathematicians are being outcounter…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5q7vjbha2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5q7vjbha2b</guid>
+      <pubDate>Tue, 21 Jul 2026 11:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[人間の数学者は反例を挙げられている。<br>Human mathematicians are being outcounterexampled<br><br>🔺 366<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[人間の数学者は反例を挙げられている。<br>Human mathematicians are being outcounterexampled<br><br>🔺 366<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと  🔖 151 ブックマーク 💬 コ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr5lu4o46724</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr5lu4o46724</guid>
+      <pubDate>Tue, 21 Jul 2026 10:26:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ACLUは、Flock Safetyがアルプル（ALPR）関連の発言で嘘を重ね、政府関係者を…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5jjoiw5m2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5jjoiw5m2b</guid>
+      <pubDate>Tue, 21 Jul 2026 09:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ACLUは、Flock Safetyがアルプル（ALPR）関連の発言で嘘を重ね、政府関係者を欺く事例が続いていると指摘し、政府は信頼できる企業とだけ取引すべきだと訴えています。オシュコシュ市では契約承認後に真実性が問われ、最短で契約撤回となり、Flockは「ヒートマップ機能がある」と認めたものの不正確さを公に認めませんでした。結論として、ALPRの導入を検討する自治体は強固なガードレールと透明性を求め、Flockのような嘘を繰り返す企業との取引を避けるべきだと強調しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ACLUは、Flock Safetyがアルプル（ALPR）関連の発言で嘘を重ね、政府関係者を欺く事例が続いていると指摘し、政府は信頼できる企業とだけ取引すべきだと訴えています。オシュコシュ市では契約承認後に真実性が問われ、最短で契約撤回となり、Flockは「ヒートマップ機能がある」と認めたものの不正確さを公に認めませんでした。結論として、ALPRの導入を検討する自治体は強固なガードレールと透明性を求め、Flockのような嘘を繰り返す企業との取引を避けるべきだと強調しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>フロックの信頼性は、市議会・警察・一般市民に対して繰り返し嘘をつくことで失われた。 Flock Credibility …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5jjhkdwr2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5jjhkdwr2o</guid>
+      <pubDate>Tue, 21 Jul 2026 09:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[フロックの信頼性は、市議会・警察・一般市民に対して繰り返し嘘をつくことで失われた。<br>Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public<br><br>🔺 403<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[フロックの信頼性は、市議会・警察・一般市民に対して繰り返し嘘をつくことで失われた。<br>Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public<br><br>🔺 403<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenCodeはAIコーディングエージェントとして人気だが、ローカルLLMで試すとセキュリ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5ct6owzk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5ct6owzk2c</guid>
+      <pubDate>Tue, 21 Jul 2026 07:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenCodeはAIコーディングエージェントとして人気だが、ローカルLLMで試すとセキュリティと信頼性の点で多くの重大問題が露呈する。著者は、キャッシュ管理の欠陥、プラン/プリフリ作業の inefficient、システムプロンプトの過剰/偏った指示、ファイル権限の甘さ、サブエージェントや外部サービスタイトルの取り扱いの不備など、使用時に致命的となり得る設計ミスを列挙している。総じて OpenCodeは「使うべきではない」と結論づけ、改善の余地が大きいと指摘している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenCodeはAIコーディングエージェントとして人気だが、ローカルLLMで試すとセキュリティと信頼性の点で多くの重大問題が露呈する。著者は、キャッシュ管理の欠陥、プラン/プリフリ作業の inefficient、システムプロンプトの過剰/偏った指示、ファイル権限の甘さ、サブエージェントや外部サービスタイトルの取り扱いの不備など、使用時に致命的となり得る設計ミスを列挙している。総じて OpenCodeは「使うべきではない」と結論づけ、改善の余地が大きいと指摘している。]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenCodeに関する厄介な点と不安を引き起こす事柄 Annoying and alarming things abo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5csyy7dd2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr5csyy7dd2o</guid>
+      <pubDate>Tue, 21 Jul 2026 07:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[OpenCodeに関する厄介な点と不安を引き起こす事柄<br>Annoying and alarming things about OpenCode<br><br>🔺 387<br>💬 75<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[OpenCodeに関する厄介な点と不安を引き起こす事柄<br>Annoying and alarming things about OpenCode<br><br>🔺 387<br>💬 75<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか  🔖 153 ブックマーク …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr5bs4dux522</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr5bs4dux522</guid>
+      <pubDate>Tue, 21 Jul 2026 07:26:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」  🔖 175 ブックマーク 💬…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr56gygy3a22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr56gygy3a22</guid>
+      <pubDate>Tue, 21 Jul 2026 06:26:20 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>“iOS 27 beta is the most stable iOS right now”</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr5am27g772p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr5am27g772p</guid>
+      <pubDate>Tue, 21 Jul 2026 06:19:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[“iOS 27 beta is the most stable iOS right now”
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx2ckwy3mx327q6gi7tp3gkj7ydezsu5lo7e2cnjcotbx5nzzb5u" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[“iOS 27 beta is the most stable iOS right now”
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx2ckwy3mx327q6gi7tp3gkj7ydezsu5lo7e2cnjcotbx5nzzb5u" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx2ckwy3mx327q6gi7tp3gkj7ydezsu5lo7e2cnjcotbx5nzzb5u" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   AIの現在は、限られた computeと前沿モデルの差によって「トークン費用」が重要なコスト…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr544m6rc52r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr544m6rc52r</guid>
+      <pubDate>Tue, 21 Jul 2026 05:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIの現在は、限られた computeと前沿モデルの差によって「トークン費用」が重要なコスト要因となり、知能は新しいコモディティ市場として競合するという Aggregation Theory の視点が再登場している。オープンウェイトモデルでもR&Dは固定費、実行時の推論コスト（COGS）が収益に直結し、トークンの消費量やモデルの設計要素がコスト構造を大きく左右する。中国勢の普及とディスティレーション戦略は前線 labs に圧力をかけ、将来的にはオープンアクセスとコモディティ化が進む一方で、データ収集・エコシステムの統合が競争優位を左右すると指摘している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIの現在は、限られた computeと前沿モデルの差によって「トークン費用」が重要なコスト要因となり、知能は新しいコモディティ市場として競合するという Aggregation Theory の視点が再登場している。オープンウェイトモデルでもR&Dは固定費、実行時の推論コスト（COGS）が収益に直結し、トークンの消費量やモデルの設計要素がコスト構造を大きく左右する。中国勢の普及とディスティレーション戦略は前線 labs に圧力をかけ、将来的にはオープンアクセスとコモディティ化が進む一方で、データ収集・エコシステムの統合が競争優位を左右すると指摘している。]]></content:encoded>
+    </item>
+    <item>
+      <title>中国のモデルを怖がっている人は誰ですか？ Who&apos;s afraid of Chinese models?  🔺 478…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr544bosdz2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr544bosdz2r</guid>
+      <pubDate>Tue, 21 Jul 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[中国のモデルを怖がっている人は誰ですか？<br>Who's afraid of Chinese models?<br><br>🔺 478<br>💬 62<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[中国のモデルを怖がっている人は誰ですか？<br>Who's afraid of Chinese models?<br><br>🔺 478<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Alt angle: Opus 5 benched worse than Kimi K3</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr52qfn7qu2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mr52qfn7qu2s</guid>
+      <pubDate>Tue, 21 Jul 2026 04:17:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Alt angle: Opus 5 benched worse than Kimi K3]]></description>
+      <content:encoded><![CDATA[Alt angle: Opus 5 benched worse than Kimi K3]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Jelly UIは依存関係なしのWeb Componentsライブラリで、ソフトな質感のイン…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr4vfrgv2l2r</link>
@@ -300,171 +465,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[quick-start installation guides for deploying them across major AI platforms. It emphasizes production-ready, domain-specific outputs and community-driven expansion. (2/2)]]></description>
       <content:encoded><![CDATA[quick-start installation guides for deploying them across major AI platforms. It emphasizes production-ready, domain-specific outputs and community-driven expansion. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   The Agency is a large, community-built collect…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3owzf75j2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3owzf75j2g</guid>
-      <pubDate>Mon, 20 Jul 2026 16:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>The Agency is a large, community-built collection of 230+ specialized AI agents across multiple divisions (Engineering, Design, Marketing, Sales, etc.), each with distinct personalities, workflows, deliverables, and measurable success metrics, plus multi-tool integration and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>The Agency is a large, community-built collection of 230+ specialized AI agents across multiple divisions (Engineering, Design, Marketing, Sales, etc.), each with distinct personalities, workflows, deliverables, and measurable success metrics, plus multi-tool integration and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 msitarzewski / agenc…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3oww2ot72z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3oww2ot72z</guid>
-      <pubDate>Mon, 20 Jul 2026 16:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 msitarzewski / agency-agents<br>⭐ 134,369 (+949)<br>🗒 Shell<br><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, proces...]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 msitarzewski / agency-agents<br>⭐ 134,369 (+949)<br>🗒 Shell<br><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, proces...]]></content:encoded>
-    </item>
-    <item>
-      <title>The Apollo Guidance Computer software eventually grew to abo…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr3ohshzks23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr3ohshzks23</guid>
-      <pubDate>Mon, 20 Jul 2026 16:07:45 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[The Apollo Guidance Computer software eventually grew to about 145,000 lines of code. 👀<br><br>Explore the original Apollo 11 guidance software for the Command and Lunar Modules. 🌕<br>github.com/chrislgarry/...]]></description>
-      <content:encoded><![CDATA[The Apollo Guidance Computer software eventually grew to about 145,000 lines of code. 👀<br><br>Explore the original Apollo 11 guidance software for the Command and Lunar Modules. 🌕<br>github.com/chrislgarry/...]]></content:encoded>
-    </item>
-    <item>
-      <title>57 years ago today, humans first landed on the Moon. The sou…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr3ohpzppc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mr3ohpzppc23</guid>
-      <pubDate>Mon, 20 Jul 2026 16:07:45 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[57 years ago today, humans first landed on the Moon. The source code that helped get them there? It’s on GitHub.<br><br>Margaret Hamilton led the MIT team responsible for Apollo’s onboard flight software.<br><br>(Image credit: Draper Laboratory; restoration by Adam Cuerden, via Wikimedia Commons.)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifoesiyrvnogaen4pp5yh4mnqf3x5ogyexpufndqzn5w4aipe32dy" alt="Black-and-white photo of Margaret Hamilton standing beside a nearly person-height stack of software listings produced by her and her MIT team for the Apollo program." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[57 years ago today, humans first landed on the Moon. The source code that helped get them there? It’s on GitHub.<br><br>Margaret Hamilton led the MIT team responsible for Apollo’s onboard flight software.<br><br>(Image credit: Draper Laboratory; restoration by Adam Cuerden, via Wikimedia Commons.)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifoesiyrvnogaen4pp5yh4mnqf3x5ogyexpufndqzn5w4aipe32dy" alt="Black-and-white photo of Margaret Hamilton standing beside a nearly person-height stack of software listings produced by her and her MIT team for the Apollo program." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifoesiyrvnogaen4pp5yh4mnqf3x5ogyexpufndqzn5w4aipe32dy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   - 記事は「着陸・離陸・ペース・飛行時間」に関する表記を並べた要約的なリストである。   -…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3n63gt5w2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3n63gt5w2o</guid>
-      <pubDate>Mon, 20 Jul 2026 15:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- 記事は「着陸・離陸・ペース・飛行時間」に関する表記を並べた要約的なリストである。  <br>- ラテン語風の見出し（Landings、Departures、Pace、Duration）と、各項目の日本語訳が並んでいる。  <br>- 最後に著者として「Made by @lapunen」が記されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- 記事は「着陸・離陸・ペース・飛行時間」に関する表記を並べた要約的なリストである。  <br>- ラテン語風の見出し（Landings、Departures、Pace、Duration）と、各項目の日本語訳が並んでいる。  <br>- 最後に著者として「Made by @lapunen」が記されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>空港シミュレーター Airport Simulator  🔺 317 💬 55 🔗 HN Post | Artic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3n5vf7vk2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3n5vf7vk2d</guid>
-      <pubDate>Mon, 20 Jul 2026 15:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[空港シミュレーター<br>Airport Simulator<br><br>🔺 317<br>💬 55<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[空港シミュレーター<br>Airport Simulator<br><br>🔺 317<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>emphasizes cross-platform builds, model verification, and mo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lojs6ci2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lojs6ci2n</guid>
-      <pubDate>Mon, 20 Jul 2026 15:17:50 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[emphasizes cross-platform builds, model verification, and modular bindings across Python, TypeScript, Rust, and Swift. (2/2)]]></description>
-      <content:encoded><![CDATA[emphasizes cross-platform builds, model verification, and modular bindings across Python, TypeScript, Rust, and Swift. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   transcribe.cpp is a C/C++ STT inference librar…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3log4ioi2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3log4ioi2n</guid>
-      <pubDate>Mon, 20 Jul 2026 15:17:33 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>transcribe.cpp is a C/C++ STT inference library that runs 16 model families (60+ variants) via GGUF on ggml, with accelerated backends (Metal, Vulkan, CUDA) and a CPU path, plus tooling for conversion, quantization, bindings, tests, and pre-built GGUFs hosted on Hugging Face. It (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>transcribe.cpp is a C/C++ STT inference library that runs 16 model families (60+ variants) via GGUF on ggml, with accelerated backends (Metal, Vulkan, CUDA) and a CPU path, plus tooling for conversion, quantization, bindings, tests, and pre-built GGUFs hosted on Hugging Face. It (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 handy-computer / tr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lmndxtd2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3lmndxtd2p</guid>
-      <pubDate>Mon, 20 Jul 2026 15:16:46 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 handy-computer / transcribe.cpp<br>⭐ 1,044 (+401)<br>🗒 C++<br><br>ggml speech-to-text inference for 16+ model families]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 handy-computer / transcribe.cpp<br>⭐ 1,044 (+401)<br>🗒 C++<br><br>ggml speech-to-text inference for 16+ model families]]></content:encoded>
-    </item>
-    <item>
-      <title>Thanks! That if/of typo gets me all the time, peril of blogg…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mr3lluekss27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mr3lluekss27</guid>
-      <pubDate>Mon, 20 Jul 2026 15:16:23 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Thanks! That if/of typo gets me all the time, peril of blogging from my phone]]></description>
-      <content:encoded><![CDATA[Thanks! That if/of typo gets me all the time, peril of blogging from my phone]]></content:encoded>
-    </item>
-    <item>
-      <title>tokens, avoid limits, and unify tool access across multiple …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf5rqq26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf5rqq26</guid>
-      <pubDate>Mon, 20 Jul 2026 14:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[tokens, avoid limits, and unify tool access across multiple platforms and languages. (2/2)]]></description>
-      <content:encoded><![CDATA[tokens, avoid limits, and unify tool access across multiple platforms and languages. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OmniRoute is a free, open-source AI gateway th…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf4frk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iaf4frk2n</guid>
-      <pubDate>Mon, 20 Jul 2026 14:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OmniRoute is a free, open-source AI gateway that aggregates 268 providers (90+ with free tiers) into one endpoint with 18 routing strategies, advanced compression, multi-layer resilience, and a private, local-first architecture plus a full CLI/A2A/MCP ecosystem. It aims to save (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OmniRoute is a free, open-source AI gateway that aggregates 268 providers (90+ with free tiers) into one endpoint with 18 routing strategies, advanced compression, multi-layer resilience, and a private, local-first architecture plus a full CLI/A2A/MCP ecosystem. It aims to save (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 diegosouzapw / OmniR…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iabieup2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3iabieup2p</guid>
-      <pubDate>Mon, 20 Jul 2026 14:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 20,715 (+1,343)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; C...]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 20,715 (+1,343)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; C...]]></content:encoded>
-    </item>
-    <item>
-      <title>少量データからの新規タスク適応も高データ効率で実現する。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqrniy2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqrniy2t</guid>
-      <pubDate>Mon, 20 Jul 2026 13:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[少量データからの新規タスク適応も高データ効率で実現する。 (2/2)]]></description>
-      <content:encoded><![CDATA[少量データからの新規タスク適応も高データ効率で実現する。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqoa422c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghqoa422c</guid>
-      <pubDate>Mon, 20 Jul 2026 13:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓練と、現実のロボットデータを組み合わせた二段階学習で、ロボット基盤モデルのスケーリングが現実世界のロボット性能へと移行することを示した。前訓練では約10万時間のUMIデータを自動ラベリングで活用し、後訓練で実機データと指示遵守能力に合わせて整合させることで、未知環境でもタスクを高精度に実行可能となり、複数のシミュレーション benchmarksで最先端成績を達成した。データ量とモデル規模の増加が現実ロボットの成功率を一貫して向上させ、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Xiaomi-Robotics-1は、大規模な embodiment-free（UMI）前訓練と、現実のロボットデータを組み合わせた二段階学習で、ロボット基盤モデルのスケーリングが現実世界のロボット性能へと移行することを示した。前訓練では約10万時間のUMIデータを自動ラベリングで活用し、後訓練で実機データと指示遵守能力に合わせて整合させることで、未知環境でもタスクを高精度に実行可能となり、複数のシミュレーション benchmarksで最先端成績を達成した。データ量とモデル規模の増加が現実ロボットの成功率を一貫して向上させ、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>シャオミ・ロボティクス・1 Xiaomi-Robotics-1  🔺 321 💬 38 🔗 HN Post | A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghfzeyx2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr3ghfzeyx2r</guid>
-      <pubDate>Mon, 20 Jul 2026 13:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[シャオミ・ロボティクス・1<br>Xiaomi-Robotics-1<br><br>🔺 321<br>💬 38<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[シャオミ・ロボティクス・1<br>Xiaomi-Robotics-1<br><br>🔺 321<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr3fgvjm572d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr3fgvjm572d</guid>
-      <pubDate>Mon, 20 Jul 2026 13:26:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>with a focus on user control and no mandatory subscriptions.…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3euyxuka2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mr3euyxuka2j</guid>
-      <pubDate>Mon, 20 Jul 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[with a focus on user control and no mandatory subscriptions. (2/2)]]></description>
-      <content:encoded><![CDATA[with a focus on user control and no mandatory subscriptions. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
