@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 07:32:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:08:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   投稿者は Reddit の旧版と新版の違いを個人的に検証し、旧版がシンプルな HTML で公…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrckhahl732g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrckhahl732g</guid>
+      <pubDate>Thu, 23 Jul 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>投稿者は Reddit の旧版と新版の違いを個人的に検証し、旧版がシンプルな HTML で公開される一方 新版は JS 重視でスクレイピングを難しくしていると分析。結局、Reddit のセキュリティ主張は「安全性よりデータ独占を守るためのねじれたPR」であり、利用者は旧版の廃止と新版の普及の狭間で不満を感じている、という結論を述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>投稿者は Reddit の旧版と新版の違いを個人的に検証し、旧版がシンプルな HTML で公開される一方 新版は JS 重視でスクレイピングを難しくしていると分析。結局、Reddit のセキュリティ主張は「安全性よりデータ独占を守るためのねじれたPR」であり、利用者は旧版の廃止と新版の普及の狭間で不満を感じている、という結論を述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>つまり、レディットはプレーンHTMLが安全ではないと判断した。 So Reddit has decided that p…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrckh37a772f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrckh37a772f</guid>
+      <pubDate>Thu, 23 Jul 2026 09:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[つまり、レディットはプレーンHTMLが安全ではないと判断した。<br>So Reddit has decided that plain HTML is unsafe<br><br>🔺 462<br>💬 84<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[つまり、レディットはプレーンHTMLが安全ではないと判断した。<br>So Reddit has decided that plain HTML is unsafe<br><br>🔺 462<br>💬 84<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   LG Electronics USA は今週、スマートテレビ用アプリで住居用プロキシノードと…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrcdqqujoz2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrcdqqujoz2b</guid>
+      <pubDate>Thu, 23 Jul 2026 07:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LG Electronics USA は今週、スマートテレビ用アプリで住居用プロキシノードとして機能するSDKを含むものを停止する方針を示しました。これは、LGのwebOSストアにあるアプリの約42％以上が住居用プロキシSDKを搭載している可能性があるという Spur の調査を受けた対応です。LGは開発者と連携して該当機能を削除させ、削除されないアプリは停止する見通しで、今後もプラットフォーム品質とユーザー体験向上のため検証を強化するとしています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LG Electronics USA は今週、スマートテレビ用アプリで住居用プロキシノードとして機能するSDKを含むものを停止する方針を示しました。これは、LGのwebOSストアにあるアプリの約42％以上が住居用プロキシSDKを搭載している可能性があるという Spur の調査を受けた対応です。LGは開発者と連携して該当機能を削除させ、削除されないアプリは停止する見通しで、今後もプラットフォーム品質とユーザー体験向上のため検証を強化するとしています。]]></content:encoded>
+    </item>
+    <item>
+      <title>LGがスマートテレビのアプリから居住用プロキシを禁止へ LG to ban residential proxies fr…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrcdqkz6we2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrcdqkz6we2w</guid>
+      <pubDate>Thu, 23 Jul 2026 07:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[LGがスマートテレビのアプリから居住用プロキシを禁止へ<br>LG to ban residential proxies from smart TV apps<br><br>🔺 423<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[LGがスマートテレビのアプリから居住用プロキシを禁止へ<br>LG to ban residential proxies from smart TV apps<br><br>🔺 423<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Gigatokenは、HuggingFaceのトークナイザーより大幅に高速なトークナイザーで…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrc52dxhe52b</link>
@@ -467,42 +503,6 @@ The best models we have today have the ability to both find and exploit new vuln
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique]]></description>
       <content:encoded><![CDATA[San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 likec4 / likec4 ⭐ 4,072 (+58) 🗒 TypeScript  Visualize, c…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mraje5efag2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mraje5efag2u</guid>
-      <pubDate>Wed, 22 Jul 2026 14:18:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 likec4 / likec4<br>⭐ 4,072 (+58)<br>🗒 TypeScript<br><br>Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code]]></description>
-      <content:encoded><![CDATA[📦 likec4 / likec4<br>⭐ 4,072 (+58)<br>🗒 TypeScript<br><br>Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   六十年以上にわたり未発見とされていたベニン沖のサンゴ礁が、現地の研究チームによって再発見され…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrahfpoflt27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrahfpoflt27</guid>
-      <pubDate>Wed, 22 Jul 2026 13:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>六十年以上にわたり未発見とされていたベニン沖のサンゴ礁が、現地の研究チームによって再発見された。調査で8種以上のサンゴと8種の魚が確認され、MCE（中層光適応サンゴ系）として分類される環境で健全に生育していることが分かった。今後は保護区域化の検討や研究拠点としてのポテンシャルが期待されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>六十年以上にわたり未発見とされていたベニン沖のサンゴ礁が、現地の研究チームによって再発見された。調査で8種以上のサンゴと8種の魚が確認され、MCE（中層光適応サンゴ系）として分類される環境で健全に生育していることが分かった。今後は保護区域化の検討や研究拠点としてのポテンシャルが期待されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>長い間死んだとみなされていたが、西アフリカで繁栄するサンゴ礁が発見された Long presumed dead, a t…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrahffscdy2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrahffscdy2c</guid>
-      <pubDate>Wed, 22 Jul 2026 13:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[長い間死んだとみなされていたが、西アフリカで繁栄するサンゴ礁が発見された<br>Long presumed dead, a thriving coral reef is discovered in West Africa<br><br>🔺 367<br>💬 16<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[長い間死んだとみなされていたが、西アフリカで繁栄するサンゴ礁が発見された<br>Long presumed dead, a thriving coral reef is discovered in West Africa<br><br>🔺 367<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」  🔖…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrageogfly26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrageogfly26</guid>
-      <pubDate>Wed, 22 Jul 2026 13:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
