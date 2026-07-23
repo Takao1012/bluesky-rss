@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:04:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   リクルーター経由のPython開発者求人として送られてきたtake-home課題を検証したと…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrdfbnueju2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrdfbnueju2r</guid>
+      <pubDate>Thu, 23 Jul 2026 17:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>リクルーター経由のPython開発者求人として送られてきたtake-home課題を検証したところ、実際にはマルウェア配布の仕組みが組み込まれており、Gitフック経由でリモート payload を起動する仕組みや、個別IDでカスタムペイロードを返す等、高度な詐欺・攻撃手口が使われていた。さらに、受け取ったリポジトリには悪意あるスクリプトが埋め込まれており、隠しディレクトリやVSCode起動時の自動実行など複数の感染経路が存在していた。この記事は、求人リンクを安易に信用せず、提出物を通じたリスクを事前に検証する重要性を強調している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>リクルーター経由のPython開発者求人として送られてきたtake-home課題を検証したところ、実際にはマルウェア配布の仕組みが組み込まれており、Gitフック経由でリモート payload を起動する仕組みや、個別IDでカスタムペイロードを返す等、高度な詐欺・攻撃手口が使われていた。さらに、受け取ったリポジトリには悪意あるスクリプトが埋め込まれており、隠しディレクトリやVSCode起動時の自動実行など複数の感染経路が存在していた。この記事は、求人リンクを安易に信用せず、提出物を通じたリスクを事前に検証する重要性を強調している。]]></content:encoded>
+    </item>
+    <item>
+      <title>自宅で取り組む面接課題を見直した。まさに一大プロジェクトだった。 I Inspected My Take-Home In…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrdfbikpro2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrdfbikpro2g</guid>
+      <pubDate>Thu, 23 Jul 2026 17:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[自宅で取り組む面接課題を見直した。まさに一大プロジェクトだった。<br>I Inspected My Take-Home Interview Project. It Was a Whole Operation<br><br>🔺 434<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[自宅で取り組む面接課題を見直した。まさに一大プロジェクトだった。<br>I Inspected My Take-Home Interview Project. It Was a Whole Operation<br><br>🔺 434<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>scoped to each community. It aims to replace multiple dispar…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddowtbjx2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddowtbjx2p</guid>
+      <pubDate>Thu, 23 Jul 2026 17:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[scoped to each community. It aims to replace multiple disparate tools with a single, auditable substrate. (2/2)]]></description>
+      <content:encoded><![CDATA[scoped to each community. It aims to replace multiple disparate tools with a single, auditable substrate. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Buzz is a self-hosted, Nostr-based workspace w…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddowrzip2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddowrzip2p</guid>
+      <pubDate>Thu, 23 Jul 2026 17:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Buzz is a self-hosted, Nostr-based workspace where humans and AI agents share the same rooms (channels, canvases, workflows) with a unified event log, audits, and identity, enabling agents to actively participate in coding, reviews, and project operations while remaining securely (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Buzz is a self-hosted, Nostr-based workspace where humans and AI agents share the same rooms (channels, canvases, workflows) with a unified event log, audits, and identity, enabling agents to actively participate in coding, reviews, and project operations while remaining securely (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 block / buzz ⭐ 5,200…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddou46xi2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrddou46xi2t</guid>
+      <pubDate>Thu, 23 Jul 2026 17:16:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 block / buzz<br>⭐ 5,200 (+3,252)<br>🗒 Rust<br><br>A hive mind communication platform]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 block / buzz<br>⭐ 5,200 (+3,252)<br>🗒 Rust<br><br>A hive mind communication platform]]></content:encoded>
+    </item>
     <item>
       <title>across editors and a growing ecosystem. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrdadwaj3k26</link>
@@ -417,77 +462,6 @@
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[The people involved DID take steps to avoid this, but they made the mistake of trusting their sandbox environment and not monitoring it closely enough to check it hadn't fallen apart]]></description>
       <content:encoded><![CDATA[The people involved DID take steps to avoid this, but they made the mistake of trusting their sandbox environment and not monitoring it closely enough to check it hadn't fallen apart]]></content:encoded>
-    </item>
-    <item>
-      <title>Where did I blame the models?  The key message here is that …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboupxoh22a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboupxoh22a</guid>
-      <pubDate>Thu, 23 Jul 2026 01:31:00 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Where did I blame the models?<br><br>The key message here is that if you run a frontier model without any guardrails and set it the goal to solve a problem, it will take whatever steps it can to solve that problem - which includes finding a zero-day exploit in your packaging proxy]]></description>
-      <content:encoded><![CDATA[Where did I blame the models?<br><br>The key message here is that if you run a frontier model without any guardrails and set it the goal to solve a problem, it will take whatever steps it can to solve that problem - which includes finding a zero-day exploit in your packaging proxy]]></content:encoded>
-    </item>
-    <item>
-      <title>Tucked away in this article is an appeal to the AI skeptics …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjqm3pis2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjqm3pis2q</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:13 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Tucked away in this article is an appeal to the AI skeptics to PLEASE stop writing off stories like this OpenAI accidental exploit of Hugging Face as a dishonest marketing trick<br><br>Frontier models can find and exploit vulnerabilities now, it helps nobody to pretend that they can't!
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" alt="Resist the temptation to write this off as a stunt #
-
-There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term “marketing” in the Hacker News discussion of the incident.
-
-To those people I say pull your heads out of the sand—you’re now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here!
-
-The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that “autonomous exploit development by frontier AI agents is no longer a hypothetical capability”, and this incident is a perfect example of exactly that.
-" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Tucked away in this article is an appeal to the AI skeptics to PLEASE stop writing off stories like this OpenAI accidental exploit of Hugging Face as a dishonest marketing trick<br><br>Frontier models can find and exploit vulnerabilities now, it helps nobody to pretend that they can't!
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" alt="Resist the temptation to write this off as a stunt #
-
-There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term “marketing” in the Hacker News discussion of the incident.
-
-To those people I say pull your heads out of the sand—you’re now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here!
-
-The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that “autonomous exploit development by frontier AI agents is no longer a hypothetical capability”, and this incident is a perfect example of exactly that.
-" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I wrote about the completely wild incident where OpenAI were…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjg3u5tk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjg3u5tk2z</guid>
-      <pubDate>Wed, 22 Jul 2026 23:53:20 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I wrote about the completely wild incident where OpenAI were testing a new model and it broke out of its sandbox and broke INTO Hugging Face to steal the answers to the benchmark simonwillison.net/2026/Jul/22/...]]></description>
-      <content:encoded><![CDATA[I wrote about the completely wild incident where OpenAI were testing a new model and it broke out of its sandbox and broke INTO Hugging Face to steal the answers to the benchmark simonwillison.net/2026/Jul/22/...]]></content:encoded>
-    </item>
-    <item>
-      <title>ジョン・C・ドヴォラックが亡くなりました。 John C. Dvorak has died  🔺 456 💬 74 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbiwatuxq2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbiwatuxq2t</guid>
-      <pubDate>Wed, 22 Jul 2026 23:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV  …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6be2zjf2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6be2zjf2p</guid>
-      <pubDate>Wed, 22 Jul 2026 22:20:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV<br><br>Link: https://t.co/6kXLUN4wOk<br>Link: https://twitter.com/i/broadcasts/1qJDzzqwpBaKV
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdm7eclruiwf5hrdvzjl5jguyvdnitrngoytgm4hy67hxnbnboni" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieodsz5aw5nyhrkhiwyppsem6yqilk6smxuitvbaq7c5qykuzdewy" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6rxwtvqdneetfvnr7ewgpyejwrczisadrlzvg5n55rnjt37x5q4" alt="1920" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV<br><br>Link: https://t.co/6kXLUN4wOk<br>Link: https://twitter.com/i/broadcasts/1qJDzzqwpBaKV
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdm7eclruiwf5hrdvzjl5jguyvdnitrngoytgm4hy67hxnbnboni" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieodsz5aw5nyhrkhiwyppsem6yqilk6smxuitvbaq7c5qykuzdewy" alt="1920" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6rxwtvqdneetfvnr7ewgpyejwrczisadrlzvg5n55rnjt37x5q4" alt="1920" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
