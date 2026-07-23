@@ -5,8 +5,52 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 21:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 01:22:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Tucked away in this article is an appeal to the AI skeptics …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjqm3pis2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjqm3pis2q</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:13 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Tucked away in this article is an appeal to the AI skeptics to PLEASE stop writing off stories like this OpenAI accidental exploit of Hugging Face as a dishonest marketing trick<br><br>Frontier models can find and exploit vulnerabilities now, it helps nobody to pretend that they can't!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" alt="Resist the temptation to write this off as a stunt #
+
+There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term “marketing” in the Hacker News discussion of the incident.
+
+To those people I say pull your heads out of the sand—you’re now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here!
+
+The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that “autonomous exploit development by frontier AI agents is no longer a hypothetical capability”, and this incident is a perfect example of exactly that.
+" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Tucked away in this article is an appeal to the AI skeptics to PLEASE stop writing off stories like this OpenAI accidental exploit of Hugging Face as a dishonest marketing trick<br><br>Frontier models can find and exploit vulnerabilities now, it helps nobody to pretend that they can't!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" alt="Resist the temptation to write this off as a stunt #
+
+There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term “marketing” in the Hacker News discussion of the incident.
+
+To those people I say pull your heads out of the sand—you’re now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here!
+
+The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that “autonomous exploit development by frontier AI agents is no longer a hypothetical capability”, and this incident is a perfect example of exactly that.
+" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidol5fdyixtvuhriiz4eyx67263hsnwfhlead2cuoxpkuuboxvz6m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I wrote about the completely wild incident where OpenAI were…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjg3u5tk2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjg3u5tk2z</guid>
+      <pubDate>Wed, 22 Jul 2026 23:53:20 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I wrote about the completely wild incident where OpenAI were testing a new model and it broke out of its sandbox and broke INTO Hugging Face to steal the answers to the benchmark simonwillison.net/2026/Jul/22/...]]></description>
+      <content:encoded><![CDATA[I wrote about the completely wild incident where OpenAI were testing a new model and it broke out of its sandbox and broke INTO Hugging Face to steal the answers to the benchmark simonwillison.net/2026/Jul/22/...]]></content:encoded>
+    </item>
+    <item>
+      <title>ジョン・C・ドヴォラックが亡くなりました。 John C. Dvorak has died  🔺 456 💬 74 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbiwatuxq2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbiwatuxq2t</guid>
+      <pubDate>Wed, 22 Jul 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   ログインして保存済みのチャットに基づく回答を得たり、画像を作成したりファイルをアップロードで…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbca5yjlv2g</link>
@@ -435,33 +479,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 【速報】ニチレイ障害、ハッカー集団が犯行声明<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 【速報】ニチレイ障害、ハッカー集団が犯行声明<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Kimi K3（オープン）とFable 5（クローズド）を組み合わせ、約1,030件のタスク…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7tbrfxwf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7tbrfxwf27</guid>
-      <pubDate>Wed, 22 Jul 2026 07:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Kimi K3（オープン）とFable 5（クローズド）を組み合わせ、約1,030件のタスクでルーティング実験を行った結果、K3とFableを組み合わせるオラクルルーティングにより全体の品質を維持しつつコストを最大50倍削減できた。タスクごとに最適なモデルを選ぶルーティング戦略が単一モデルより高性能・低コストを実現し、K3を基盤として使用するのが実務上有効であると示された。モデル間の得意分野の差を活かすことで、長期的なエージェント作業でも費用対効果を大幅に改善できる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi K3（オープン）とFable 5（クローズド）を組み合わせ、約1,030件のタスクでルーティング実験を行った結果、K3とFableを組み合わせるオラクルルーティングにより全体の品質を維持しつつコストを最大50倍削減できた。タスクごとに最適なモデルを選ぶルーティング戦略が単一モデルより高性能・低コストを実現し、K3を基盤として使用するのが実務上有効であると示された。モデル間の得意分野の差を活かすことで、長期的なエージェント作業でも費用対効果を大幅に改善できる。]]></content:encoded>
-    </item>
-    <item>
-      <title>Kimi K3 は Fable に対して競争力がある。Kimi K3 と Fable は現時点で最先端である。 Kimi…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7tbkkpbp2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7tbkkpbp2c</guid>
-      <pubDate>Wed, 22 Jul 2026 07:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Kimi K3 は Fable に対して競争力がある。Kimi K3 と Fable は現時点で最先端である。<br>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA<br><br>🔺 551<br>💬 40<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Kimi K3 は Fable に対して競争力がある。Kimi K3 と Fable は現時点で最先端である。<br>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA<br><br>🔺 551<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   EU裁判所はVPNを「合法的な技術ツール」と認定し、地理的ブロックを回避してもVPN提供者は…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7mliyyz22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7mliyyz22o</guid>
-      <pubDate>Wed, 22 Jul 2026 05:44:44 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>EU裁判所はVPNを「合法的な技術ツール」と認定し、地理的ブロックを回避してもVPN提供者は著作権侵害の責任を負わないと判断しました。これは、出版社が最新のジオブロック技術を用いて公開を制限する場合、VPNを使って回避する利用者がいても出版社の責任を問えないという新しい基準を示すものです。要するに、VPNは合法であり、出版社は「完璚な防壁」を求められず、VPN企業は利用者の違法行為の責任を負わないという画期的な判決です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>EU裁判所はVPNを「合法的な技術ツール」と認定し、地理的ブロックを回避してもVPN提供者は著作権侵害の責任を負わないと判断しました。これは、出版社が最新のジオブロック技術を用いて公開を制限する場合、VPNを使って回避する利用者がいても出版社の責任を問えないという新しい基準を示すものです。要するに、VPNは合法であり、出版社は「完璚な防壁」を求められず、VPN企業は利用者の違法行為の責任を負わないという画期的な判決です。]]></content:encoded>
     </item>
   </channel>
 </rss>
