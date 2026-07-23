@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 01:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:00:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AI研究者ダイラン・カスティーリオが「ペリカンが自転車に乗る SVG」を用いたベンチマークを…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbwdlwxxd2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbwdlwxxd2b</guid>
+      <pubDate>Thu, 23 Jul 2026 03:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AI研究者ダイラン・カスティーリオが「ペリカンが自転車に乗る SVG」を用いたベンチマークを7モデルで検証。結果は、ペリカンや自転車自体の描画能力に顕著なラボ別優位は見られず、特定のペリカン-自転車セルの有意な boosts も検出されず、いわゆるPelicanmaxxingの証拠は乏しいと結論づけた。唯一、方向性の統一性（全ペリカン-自転車画像が右向き）は出現したが、全体の傾向としてはSVG最適化（SVGmaxxing）や個別ラボの過学習の可能性を示唆する程度で、明確な証拠には至らない、という要約です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AI研究者ダイラン・カスティーリオが「ペリカンが自転車に乗る SVG」を用いたベンチマークを7モデルで検証。結果は、ペリカンや自転車自体の描画能力に顕著なラボ別優位は見られず、特定のペリカン-自転車セルの有意な boosts も検出されず、いわゆるPelicanmaxxingの証拠は乏しいと結論づけた。唯一、方向性の統一性（全ペリカン-自転車画像が右向き）は出現したが、全体の傾向としてはSVG最適化（SVGmaxxing）や個別ラボの過学習の可能性を示唆する程度で、明確な証拠には至らない、という要約です。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIラボはペリカンマキシングをしていますか？ Are AI Labs Pelicanmaxxing?  🔺 417 �…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbwde6hql2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbwde6hql2y</guid>
+      <pubDate>Thu, 23 Jul 2026 03:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIラボはペリカンマキシングをしていますか？<br>Are AI Labs Pelicanmaxxing?<br><br>🔺 417<br>💬 44<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIラボはペリカンマキシングをしていますか？<br>Are AI Labs Pelicanmaxxing?<br><br>🔺 417<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>パスキーは、消費者の脳を全く理解していないエンジニアたちによって発明された。 Passkeys were invente…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbpmohl252r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbpmohl252r</guid>
+      <pubDate>Thu, 23 Jul 2026 01:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[パスキーは、消費者の脳を全く理解していないエンジニアたちによって発明された。<br>Passkeys were invented by engineers with zero understanding of consumer brain<br><br>🔺 446<br>💬 89<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[パスキーは、消費者の脳を全く理解していないエンジニアたちによって発明された。<br>Passkeys were invented by engineers with zero understanding of consumer brain<br><br>🔺 446<br>💬 89<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Where was the dishonesty?</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboya4fcs2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboya4fcs2a</guid>
+      <pubDate>Thu, 23 Jul 2026 01:32:57 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Where was the dishonesty?]]></description>
+      <content:encoded><![CDATA[Where was the dishonesty?]]></content:encoded>
+    </item>
+    <item>
+      <title>The people involved DID take steps to avoid this, but they m…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbow7eglc2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbow7eglc2a</guid>
+      <pubDate>Thu, 23 Jul 2026 01:31:49 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[The people involved DID take steps to avoid this, but they made the mistake of trusting their sandbox environment and not monitoring it closely enough to check it hadn't fallen apart]]></description>
+      <content:encoded><![CDATA[The people involved DID take steps to avoid this, but they made the mistake of trusting their sandbox environment and not monitoring it closely enough to check it hadn't fallen apart]]></content:encoded>
+    </item>
+    <item>
+      <title>Where did I blame the models?  The key message here is that …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboupxoh22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrboupxoh22a</guid>
+      <pubDate>Thu, 23 Jul 2026 01:31:00 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Where did I blame the models?<br><br>The key message here is that if you run a frontier model without any guardrails and set it the goal to solve a problem, it will take whatever steps it can to solve that problem - which includes finding a zero-day exploit in your packaging proxy]]></description>
+      <content:encoded><![CDATA[Where did I blame the models?<br><br>The key message here is that if you run a frontier model without any guardrails and set it the goal to solve a problem, it will take whatever steps it can to solve that problem - which includes finding a zero-day exploit in your packaging proxy]]></content:encoded>
+    </item>
     <item>
       <title>Tucked away in this article is an appeal to the AI skeptics …</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrbjqm3pis2q</link>
@@ -50,6 +104,15 @@ The best models we have today have the ability to both find and exploit new vuln
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I think all developers need to read less code. I know this i…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrbrbnzjzi2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrbrbnzjzi2j</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I think all developers need to read less code. I know this is a hot take, but I think you'll agree if you listen. <br><br>Video: https://twitter.com/theo/status/2080049198247145619]]></description>
+      <content:encoded><![CDATA[I think all developers need to read less code. I know this is a hot take, but I think you'll agree if you listen. <br><br>Video: https://twitter.com/theo/status/2080049198247145619]]></content:encoded>
     </item>
     <item>
       <title>💡 Summary:   ログインして保存済みのチャットに基づく回答を得たり、画像を作成したりファイルをアップロードで…</title>
@@ -416,69 +479,6 @@ The best models we have today have the ability to both find and exploit new vuln
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルの実装リポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、一度の処理で広範囲かつ長文の解析を行うOne-shot Long-horizon Parsingの実現を目的としています。<br>単一画像や複数ページ、PDF形式の解析に対応しています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルの実装リポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、一度の処理で広範囲かつ長文の解析を行うOne-shot Long-horizon Parsingの実現を目的としています。<br>単一画像や複数ページ、PDF形式の解析に対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  thinkingmachines/Inkling Inklingは、テキスト、画…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraapvz42m2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraapvz42m2a</guid>
-      <pubDate>Wed, 22 Jul 2026 11:45:06 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingは、テキスト、画像、オーディオを入力し、テキストを出力する汎用マルチモーダルモデルです。<br>AIアプリケーション、エージェント、コーディングアシスタント、チャットボット、RAGシステムの構築を目的に設計されています。<br>オープンウェイトで提供されており、研究や微調整、サードパーティ製品への統合を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling<br>Inklingは、テキスト、画像、オーディオを入力し、テキストを出力する汎用マルチモーダルモデルです。<br>AIアプリケーション、エージェント、コーディングアシスタント、チャットボット、RAGシステムの構築を目的に設計されています。<br>オープンウェイトで提供されており、研究や微調整、サードパーティ製品への統合を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AI企業Anthropicが著者約482,000冊を対象にした著作権訴訟の和解案を、総額15…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mraapgqvdv2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mraapgqvdv2o</guid>
-      <pubDate>Wed, 22 Jul 2026 11:44:50 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AI企業Anthropicが著者約482,000冊を対象にした著作権訴訟の和解案を、総額15億ドルで承認。訴訟結果、クローン Claude の訓練に盗用コピーが使われたとして、著者1冊あたり平均約3,000ドルの支払いが行われ、91%以上の著者・出版社が権利を請求済み。これはAI著作権訴訟の中で最大級の和解の一つと評価されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AI企業Anthropicが著者約482,000冊を対象にした著作権訴訟の和解案を、総額15億ドルで承認。訴訟結果、クローン Claude の訓練に盗用コピーが使われたとして、著者1冊あたり平均約3,000ドルの支払いが行われ、91%以上の著者・出版社が権利を請求済み。これはAI著作権訴訟の中で最大級の和解の一つと評価されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>裁判官、Claudeの訓練に使用された海賊版の書籍に関するAnthropicへの15億ドルの和解を承認 Judge ap…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mraaoxjw5w2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mraaoxjw5w2k</guid>
-      <pubDate>Wed, 22 Jul 2026 11:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[裁判官、Claudeの訓練に使用された海賊版の書籍に関するAnthropicへの15億ドルの和解を承認<br>Judge approves $1.5B Anthropic settlement for pirated books used to train Claude<br><br>🔺 405<br>💬 44<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[裁判官、Claudeの訓練に使用された海賊版の書籍に関するAnthropicへの15億ドルの和解を承認<br>Judge approves $1.5B Anthropic settlement for pirated books used to train Claude<br><br>🔺 405<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>法改正なしには企業に CSAM 検出を義務付けるべきではないとの立場を強調した。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zynq4nk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zynq4nk2g</guid>
-      <pubDate>Wed, 22 Jul 2026 09:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[法改正なしには企業に CSAM 検出を義務付けるべきではないとの立場を強調した。 (2/2)]]></description>
-      <content:encoded><![CDATA[法改正なしには企業に CSAM 検出を義務付けるべきではないとの立場を強調した。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   この訴訟は、ユーザーがクラウドに uploaded した CSAM をスキャンするために、A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zynmcnz2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zynmcnz2o</guid>
-      <pubDate>Wed, 22 Jul 2026 09:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>この訴訟は、ユーザーがクラウドに uploaded した CSAM をスキャンするために、Apple が NeuralHash の代わりに PhotoDNA を採用せず End-to-End の暗号化を維持したことが焦点となっている。裁判所は §230 の免責を認めつつ、政府による介入や実効性のある CSAM 対策の必要性を指摘し、現状の法制度ではプライバシーと児童被害の両立が難しいとの見解を示した。Judge Wise は、エンドツーエンド暗号化を維持することが重大なプライバシー保護に資するとして、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>この訴訟は、ユーザーがクラウドに uploaded した CSAM をスキャンするために、Apple が NeuralHash の代わりに PhotoDNA を採用せず End-to-End の暗号化を維持したことが焦点となっている。裁判所は §230 の免責を認めつつ、政府による介入や実効性のある CSAM 対策の必要性を指摘し、現状の法制度ではプライバシーと児童被害の両立が難しいとの見解を示した。Judge Wise は、エンドツーエンド暗号化を維持することが重大なプライバシー保護に資するとして、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple、CSAM検出のためのiCloudスキャンを実施せず、責任を免れた Apple defeats liabili…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zyfrh5u2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mr7zyfrh5u2f</guid>
-      <pubDate>Wed, 22 Jul 2026 09:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Apple、CSAM検出のためのiCloudスキャンを実施せず、責任を免れた<br>Apple defeats liability for not scanning iCloud for CSAM<br><br>🔺 413<br>💬 23<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Apple、CSAM検出のためのiCloudスキャンを実施せず、責任を免れた<br>Apple defeats liability for not scanning iCloud for CSAM<br><br>🔺 413<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【速報】ニチレイ障害、ハッカー集団が犯行声明  🔖 150 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr7vmcwb522u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mr7vmcwb522u</guid>
-      <pubDate>Wed, 22 Jul 2026 08:26:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【速報】ニチレイ障害、ハッカー集団が犯行声明<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【速報】ニチレイ障害、ハッカー集団が犯行声明<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
