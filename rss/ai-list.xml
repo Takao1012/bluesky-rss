@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:32:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Gigatokenは、HuggingFaceのトークナイザーより大幅に高速なトークナイザーで…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrc52dxhe52b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrc52dxhe52b</guid>
+      <pubDate>Thu, 23 Jul 2026 05:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Gigatokenは、HuggingFaceのトークナイザーより大幅に高速なトークナイザーで、自社APIまたは互換モード（HF Tokenizers/Tiktoken）で利用可能。ベンチマークでは同CPU上でGB/s単位のスループットを実現し、特定モデルや環境において従来ツールの数百〜千倍の性能を示すと主張されている。Pythonとの連携には若干オーバーヘッドがあり、WordPieceやSentencePieceには現状一部制約がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Gigatokenは、HuggingFaceのトークナイザーより大幅に高速なトークナイザーで、自社APIまたは互換モード（HF Tokenizers/Tiktoken）で利用可能。ベンチマークでは同CPU上でGB/s単位のスループットを実現し、特定モデルや環境において従来ツールの数百〜千倍の性能を示すと主張されている。Pythonとの連携には若干オーバーヘッドがあり、WordPieceやSentencePieceには現状一部制約がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>GigaToken: 言語モデルのトークン化を約1000倍高速化 GigaToken: ~1000x faster La…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrc4zyheby2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrc4zyheby2d</guid>
+      <pubDate>Thu, 23 Jul 2026 05:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GigaToken: 言語モデルのトークン化を約1000倍高速化<br>GigaToken: ~1000x faster Language model tokenization<br><br>🔺 427<br>💬 23<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GigaToken: 言語モデルのトークン化を約1000倍高速化<br>GigaToken: ~1000x faster Language model tokenization<br><br>🔺 427<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AI研究者ダイラン・カスティーリオが「ペリカンが自転車に乗る SVG」を用いたベンチマークを…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrbwdlwxxd2b</link>
@@ -104,6 +122,111 @@ The best models we have today have the ability to both find and exploit new vuln
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ジョン・C・ドヴォラックが亡くなりました。<br>John C. Dvorak has died<br><br>🔺 456<br>💬 74<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV  …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6be2zjf2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6be2zjf2p</guid>
+      <pubDate>Wed, 22 Jul 2026 22:20:13 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV<br><br>Link: https://t.co/6kXLUN4wOk<br>Link: https://twitter.com/i/broadcasts/1qJDzzqwpBaKV
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdm7eclruiwf5hrdvzjl5jguyvdnitrngoytgm4hy67hxnbnboni" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieodsz5aw5nyhrkhiwyppsem6yqilk6smxuitvbaq7c5qykuzdewy" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6rxwtvqdneetfvnr7ewgpyejwrczisadrlzvg5n55rnjt37x5q4" alt="1920" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Nerds we are LIVE https://x.com/i/broadcasts/1qJDzzqwpBaKV<br><br>Link: https://t.co/6kXLUN4wOk<br>Link: https://twitter.com/i/broadcasts/1qJDzzqwpBaKV
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdm7eclruiwf5hrdvzjl5jguyvdnitrngoytgm4hy67hxnbnboni" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieodsz5aw5nyhrkhiwyppsem6yqilk6smxuitvbaq7c5qykuzdewy" alt="1920" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6rxwtvqdneetfvnr7ewgpyejwrczisadrlzvg5n55rnjt37x5q4" alt="1920" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggduuvp7k6kordwdzy3bxmdow3gv67kscu7hykzjartn65756pm4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I make ONE video about how good Kimi K3 is…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6azex6s23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6azex6s23</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I make ONE video about how good Kimi K3 is…
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidnomr7whvymweumzehsj63ndhvy7qmpc3zrsiqxbxjz7ogfjdiou" alt="Quote Tweet: https://twitter.com/i/status/2079977096571506732" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I make ONE video about how good Kimi K3 is…
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidnomr7whvymweumzehsj63ndhvy7qmpc3zrsiqxbxjz7ogfjdiou" alt="Quote Tweet: https://twitter.com/i/status/2079977096571506732" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidnomr7whvymweumzehsj63ndhvy7qmpc3zrsiqxbxjz7ogfjdiou" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I give it 10 days before everyone starts copying this workfl…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6a7g2372c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc6a7g2372c</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I give it 10 days before everyone starts copying this workflow. Seriously can't believe we've been dealing with single rows of text for over a year.]]></description>
+      <content:encoded><![CDATA[I give it 10 days before everyone starts copying this workflow. Seriously can't believe we've been dealing with single rows of text for over a year.]]></content:encoded>
+    </item>
+    <item>
+      <title>Man this is so cool</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc67jv64n2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc67jv64n2o</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Man this is so cool
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidown2e3qag6erda5xwrphrbl55kzsduhx7sjj7grayuowmiewi2u" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Man this is so cool
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidown2e3qag6erda5xwrphrbl55kzsduhx7sjj7grayuowmiewi2u" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidown2e3qag6erda5xwrphrbl55kzsduhx7sjj7grayuowmiewi2u" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This is the start btw https://x.com/theo/status/207989286168…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc67ar7ae2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc67ar7ae2p</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This is the start btw https://x.com/theo/status/2079892861689254129]]></description>
+      <content:encoded><![CDATA[This is the start btw https://x.com/theo/status/2079892861689254129]]></content:encoded>
+    </item>
+    <item>
+      <title>This has helped me &quot;finish&quot; more work than I ever have befor…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66vx7rx2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66vx7rx2z</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This has helped me "finish" more work than I ever have before. I'm loving this workflow. Let me know what you think if you try it! (2/2)]]></description>
+      <content:encoded><![CDATA[This has helped me "finish" more work than I ever have before. I'm loving this workflow. Let me know what you think if you try it! (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>The new T3 Code sidebar is available on the latest nightly b…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66shjtx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66shjtx2c</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[The new T3 Code sidebar is available on the latest nightly build. It's a toggle in settings. It's a VERY different workflow.<br><br>Think of it more like an inbox. When you're done with a thread, click the "settle" button and it slides to the bottom. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic74uvkilzzqdrbrebreb7orwm65ekxocsbr36gvl4ezpyerxynym" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The new T3 Code sidebar is available on the latest nightly build. It's a toggle in settings. It's a VERY different workflow.<br><br>Think of it more like an inbox. When you're done with a thread, click the "settle" button and it slides to the bottom. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic74uvkilzzqdrbrebreb7orwm65ekxocsbr36gvl4ezpyerxynym" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic74uvkilzzqdrbrebreb7orwm65ekxocsbr36gvl4ezpyerxynym" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Okay something must have ran a typescript check lol</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66mqdge2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66mqdge2p</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Okay something must have ran a typescript check lol
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiethyhkgdt2uav4ht3k7kzqxcygfx6zklxyhtdq5ipsdhsk4ly774" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Okay something must have ran a typescript check lol
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiethyhkgdt2uav4ht3k7kzqxcygfx6zklxyhtdq5ipsdhsk4ly774" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiethyhkgdt2uav4ht3k7kzqxcygfx6zklxyhtdq5ipsdhsk4ly774" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I have 4 threads actively working and 2 monitoring PRs and I…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66dkap52p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrc66dkap52p</guid>
+      <pubDate>Wed, 22 Jul 2026 21:55:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I have 4 threads actively working and 2 monitoring PRs and I'm using 2% of the CPU on my linux machine.<br><br>I had 10 claude code runs going at once and was under 5% earlier.<br><br>I can close my laptop and walk away at any point and just use my phone.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigp5vmeajpnel3xkbcl7xh4xdsbmamleoexirhum5rf2druxmlsou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I have 4 threads actively working and 2 monitoring PRs and I'm using 2% of the CPU on my linux machine.<br><br>I had 10 claude code runs going at once and was under 5% earlier.<br><br>I can close my laptop and walk away at any point and just use my phone.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigp5vmeajpnel3xkbcl7xh4xdsbmamleoexirhum5rf2druxmlsou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigp5vmeajpnel3xkbcl7xh4xdsbmamleoexirhum5rf2druxmlsou" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>I think all developers need to read less code. I know this i…</title>
@@ -380,105 +503,6 @@ The best models we have today have the ability to both find and exploit new vuln
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO　「表現は改修した」「ドメインは共有資産」<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 dreamhunter2333 / cloudflare_temp_email ⭐ 10,680 (+60) 🗒…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrafsvjpw22g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrafsvjpw22g</guid>
-      <pubDate>Wed, 22 Jul 2026 13:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 dreamhunter2333 / cloudflare_temp_email<br>⭐ 10,680 (+60)<br>🗒 TypeScript<br><br>CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot]]></description>
-      <content:encoded><![CDATA[📦 dreamhunter2333 / cloudflare_temp_email<br>⭐ 10,680 (+60)<br>🗒 TypeScript<br><br>CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  jamiepine/voicebox Voiceboxは、ローカルで動作するオープンソース…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracyuecyi2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracyuecyi2g</guid>
-      <pubDate>Wed, 22 Jul 2026 12:25:54 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>jamiepine/voicebox<br>Voiceboxは、ローカルで動作するオープンソースのAI音声スタジオです。<br>少量の音声データからの声のクローン、23言語での音声生成、グローバルホットキーによる音声入力などの機能を提供します。<br>また、AIエージェントに任意の声を設定することも可能です。<br>音声出力と入力の両方を統合し、ローカルLLMで最適化することで、個人のマシン上で完結する音声I/O環境の提供を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>jamiepine/voicebox<br>Voiceboxは、ローカルで動作するオープンソースのAI音声スタジオです。<br>少量の音声データからの声のクローン、23言語での音声生成、グローバルホットキーによる音声入力などの機能を提供します。<br>また、AIエージェントに任意の声を設定することも可能です。<br>音声出力と入力の両方を統合し、ローカルLLMで最適化することで、個人のマシン上で完結する音声I/O環境の提供を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  chrislgarry/Apollo-11 NASAのアポロ11号に関連する情報を、多言語…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracxqnufk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracxqnufk2l</guid>
-      <pubDate>Wed, 22 Jul 2026 12:25:17 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>chrislgarry/Apollo-11<br>NASAのアポロ11号に関連する情報を、多言語で提供および保存することを目的としたリポジトリです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>chrislgarry/Apollo-11<br>NASAのアポロ11号に関連する情報を、多言語で提供および保存することを目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  likec4/likec4 LikeC4は、コードから常に最新の図を自動生成し、ソフトウェ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracx5lnx22k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracx5lnx22k</guid>
-      <pubDate>Wed, 22 Jul 2026 12:24:57 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>likec4/likec4<br>LikeC4は、コードから常に最新の図を自動生成し、ソフトウェアアーキテクチャの可視化、共有、更新を行うためのモデリング言語およびツールです。<br>C4モデルなどに影響を受けており、表記法や要素タイプ、階層構造などを柔軟に定義して、ニーズに合わせたアーキテクチャ図を作成することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>likec4/likec4<br>LikeC4は、コードから常に最新の図を自動生成し、ソフトウェアアーキテクチャの可視化、共有、更新を行うためのモデリング言語およびツールです。<br>C4モデルなどに影響を受けており、表記法や要素タイプ、階層構造などを柔軟に定義して、ニーズに合わせたアーキテクチャ図を作成することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  schollz/croc crocは、2台のコンピュータ間でファイルやフォルダを簡単かつ安…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracwpa3ug2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracwpa3ug2b</guid>
-      <pubDate>Wed, 22 Jul 2026 12:24:41 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>schollz/croc<br>crocは、2台のコンピュータ間でファイルやフォルダを簡単かつ安全に転送するためのコマンドラインツールです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>schollz/croc<br>crocは、2台のコンピュータ間でファイルやフォルダを簡単かつ安全に転送するためのコマンドラインツールです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  ruvnet/RuView π RuViewは、WiFiを利用して壁越しや暗闇で人物検知や…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracwggpwz2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mracwggpwz2a</guid>
-      <pubDate>Wed, 22 Jul 2026 12:24:32 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>ruvnet/RuView<br>π RuViewは、WiFiを利用して壁越しや暗闇で人物検知やバイタル測定、移動追跡を行うセンシングシステムです。<br>カメラやウェアラブルデバイスを必要とせず、物理現象を用いて部屋の監視や状態判定を行います。<br>Home AssistantやApple Home、Google Home、Amazon Alexa、Matterなどの主要なスマートホームプラットフォームと連携し、睡眠や転倒などの状態を検知して提供します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ruvnet/RuView<br>π RuViewは、WiFiを利用して壁越しや暗闇で人物検知やバイタル測定、移動追跡を行うセンシングシステムです。<br>カメラやウェアラブルデバイスを必要とせず、物理現象を用いて部屋の監視や状態判定を行います。<br>Home AssistantやApple Home、Google Home、Amazon Alexa、Matterなどの主要なスマートホームプラットフォームと連携し、睡眠や転倒などの状態を検知して提供します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 Pumpkin-MC / Pumpkin ⭐ 8,128 (+96) 🗒 Rust  Empowering ev…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrachqaau22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrachqaau22t</guid>
-      <pubDate>Wed, 22 Jul 2026 12:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 Pumpkin-MC / Pumpkin<br>⭐ 8,128 (+96)<br>🗒 Rust<br><br>Empowering everyone to host fast and efficient Minecraft servers.]]></description>
-      <content:encoded><![CDATA[📦 Pumpkin-MC / Pumpkin<br>⭐ 8,128 (+96)<br>🗒 Rust<br><br>Empowering everyone to host fast and efficient Minecraft servers.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  empero-ai/Qwythos-9B-Claude-Mythos-5-1M-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraas5nhpl2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraas5nhpl2g</guid>
-      <pubDate>Wed, 22 Jul 2026 11:46:21 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MモデルのGGUF量子化版を提供するためのリポジトリです。<br>llama.cppやOllama、LM StudioなどのGGUF対応ランタイムでの利用を目的としています。<br>ベースモデルは高品質なデータで学習された推論モデルであり、100万トークンのコンテキストウィンドウと関数呼び出しに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF<br>empero-ai/Qwythos-9B-Claude-Mythos-5-1MモデルのGGUF量子化版を提供するためのリポジトリです。<br>llama.cppやOllama、LM StudioなどのGGUF対応ランタイムでの利用を目的としています。<br>ベースモデルは高品質なデータで学習された推論モデルであり、100万トークンのコンテキストウィンドウと関数呼び出しに対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  conradlocke/krea2-identity-edit Krea 2 R…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraarj366u2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraarj366u2s</guid>
-      <pubDate>Wed, 22 Jul 2026 11:46:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした、人物の同一性を維持しながら指示に基づいて画像を編集するためのコミュニティ製ファインチューンモデルです。<br>顔や頭部の入れ替え、インペインティング、アウトペインティング、仮想試着などの機能を提供し、指定した部分以外を維持したまま高精度な編集が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>conradlocke/krea2-identity-edit<br>Krea 2 Rawをベースとした、人物の同一性を維持しながら指示に基づいて画像を編集するためのコミュニティ製ファインチューンモデルです。<br>顔や頭部の入れ替え、インペインティング、アウトペインティング、仮想試着などの機能を提供し、指定した部分以外を維持したまま高精度な編集が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  poolside/Laguna-S-2.1 Laguna S 2.1は、エージェ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraaqz3xoq23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraaqz3xoq23</guid>
-      <pubDate>Wed, 22 Jul 2026 11:45:43 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>poolside/Laguna-S-2.1<br>Laguna S 2.1は、エージェントによるコーディングや長期的なタスクを目的として設計された、合計118Bパラメータ（トークンあたり8B有効）の混合専門家（MoE）モデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>poolside/Laguna-S-2.1<br>Laguna S 2.1は、エージェントによるコーディングや長期的なタスクを目的として設計された、合計118Bパラメータ（トークンあたり8B有効）の混合専門家（MoE）モデルです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR Baiduが開発したUnlimited-…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraaqj6vv723</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mraaqj6vv723</guid>
-      <pubDate>Wed, 22 Jul 2026 11:45:26 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルの実装リポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、一度の処理で広範囲かつ長文の解析を行うOne-shot Long-horizon Parsingの実現を目的としています。<br>単一画像や複数ページ、PDF形式の解析に対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>Baiduが開発したUnlimited-OCRというモデルの実装リポジトリです。<br>画像やPDFなどのドキュメントからテキストを抽出するOCR機能を提供し、一度の処理で広範囲かつ長文の解析を行うOne-shot Long-horizon Parsingの実現を目的としています。<br>単一画像や複数ページ、PDF形式の解析に対応しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
