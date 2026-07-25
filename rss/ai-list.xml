@@ -5,8 +5,89 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:40:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張した…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmks4v72o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmks4v72o</guid>
+      <pubDate>Sat, 25 Jul 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張したと発表した。これは春以降3回目の同施設への攻撃で、米国がイランのDarkhovin原子力発電所を攻撃したことを報復と位置づけ、商用クラウドインフラを狙う新たなエスカレーションとして位置づけられている。AmazonやCENTCOMは正式確認していない。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張したと発表した。これは春以降3回目の同施設への攻撃で、米国がイランのDarkhovin原子力発電所を攻撃したことを報復と位置づけ、商用クラウドインフラを狙う新たなエスカレーションとして位置づけられている。AmazonやCENTCOMは正式確認していない。]]></content:encoded>
+    </item>
+    <item>
+      <title>IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。 IRGC claims it destr…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmdmaov2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmdmaov2t</guid>
+      <pubDate>Sat, 25 Jul 2026 21:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimw65gvf2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimw65gvf2n</guid>
+      <pubDate>Sat, 25 Jul 2026 19:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグローバル排他ロックであり、それを工夫して高スループットを達成できる。著者らは通知をバッファリングしてバッチでフラッシュする手法を使い、崩壊時の再送対策として読み手は通知待ちと定期的なポーリングを併用することで、単一サーバーで最大約60K書き込み/秒、遅延15–100msを実現した。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグローバル排他ロックであり、それを工夫して高スループットを達成できる。著者らは通知をバッファリングしてバッチでフラッシュする手法を使い、崩壊時の再送対策として読み手は通知待ちと定期的なポーリングを併用することで、単一サーバーで最大約60K書き込み/秒、遅延15–100msを実現した。]]></content:encoded>
+    </item>
+    <item>
+      <title>PostgreSQLのLISTEN/NOTIFYは実際にスケールする Postgres LISTEN/NOTIFY ac…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimvyhnj52n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimvyhnj52n</guid>
+      <pubDate>Sat, 25 Jul 2026 19:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[PostgreSQLのLISTEN/NOTIFYは実際にスケールする<br>Postgres LISTEN/NOTIFY actually scales<br><br>🔺 357<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[PostgreSQLのLISTEN/NOTIFYは実際にスケールする<br>Postgres LISTEN/NOTIFY actually scales<br><br>🔺 357<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>timeline and offers optional AI processing via a licensed ba…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcpbm22t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcpbm22t</guid>
+      <pubDate>Sat, 25 Jul 2026 19:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[timeline and offers optional AI processing via a licensed backend. (2/2)]]></description>
+      <content:encoded><![CDATA[timeline and offers optional AI processing via a licensed backend. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Palmier Pro is an open-source, macOS-native vi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcnwxr24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcnwxr24</guid>
+      <pubDate>Sat, 25 Jul 2026 19:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Palmier Pro is an open-source, macOS-native video editor built in Swift that integrates AI-enabled features and MCP-based collaboration with agents like Claude, Codex, and Cursor, all accessible in a free editor with paid AI capabilities. It supports generating media inside the (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Palmier Pro is an open-source, macOS-native video editor built in Swift that integrates AI-enabled features and MCP-based collaboration with agents like Claude, Codex, and Cursor, all accessible in a free editor with paid AI capabilities. It supports generating media inside the (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 palmier-io / palmier…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrild7qhnk2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrild7qhnk2z</guid>
+      <pubDate>Sat, 25 Jul 2026 19:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 palmier-io / palmier-pro<br>⭐ 12,003 (+731)<br>🗒 Swift<br><br>macOS video editor built for AI]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 palmier-io / palmier-pro<br>⭐ 12,003 (+731)<br>🗒 Swift<br><br>macOS video editor built for AI]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIで「日本が追いつくのは無理」　中国を軽く見た製造業のツケ | 毎日新聞  🔖 152 ブックマーク 💬 コ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mriikb63eq25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mriikb63eq25</guid>
+      <pubDate>Sat, 25 Jul 2026 18:26:24 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIで「日本が追いつくのは無理」　中国を軽く見た製造業のツケ | 毎日新聞<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIで「日本が追いつくのは無理」　中国を軽く見た製造業のツケ | 毎日新聞<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 RyanCodrai / turbovec ⭐ 14,149 (+89) 🗒 Python  A vector …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrihxzznnd2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrihxzznnd2g</guid>
+      <pubDate>Sat, 25 Jul 2026 18:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 RyanCodrai / turbovec<br>⭐ 14,149 (+89)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></description>
+      <content:encoded><![CDATA[📦 RyanCodrai / turbovec<br>⭐ 14,149 (+89)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></content:encoded>
+    </item>
     <item>
       <title>コスト効率を総合的に比較できるよう設計されています。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7sciwe2d</link>
@@ -375,98 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>When the M1 Macbook Air came out in 2020, it was $999 and it…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh7wvyjrc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh7wvyjrc23</guid>
-      <pubDate>Sat, 25 Jul 2026 06:12:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[When the M1 Macbook Air came out in 2020, it was $999 and it SMOKED the $3,000+ Macbook Pro I bought a few months prior.<br><br>Apple often puts the newest tech into the cheap products first. Helps them smooth out the rough edges before putting it in the top-of-the-line stuff
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhf4l7a7silv3kbf43pgixludx3t4oy7e5ownqsyc7kzptdxhqf4" alt="Quote Tweet: https://twitter.com/i/status/2080852361627803827" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[When the M1 Macbook Air came out in 2020, it was $999 and it SMOKED the $3,000+ Macbook Pro I bought a few months prior.<br><br>Apple often puts the newest tech into the cheap products first. Helps them smooth out the rough edges before putting it in the top-of-the-line stuff
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhf4l7a7silv3kbf43pgixludx3t4oy7e5ownqsyc7kzptdxhqf4" alt="Quote Tweet: https://twitter.com/i/status/2080852361627803827" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhf4l7a7silv3kbf43pgixludx3t4oy7e5ownqsyc7kzptdxhqf4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   インドの内務省サイバー犯罪部門I4Cは、GitHub上のBluetoothベースのメッセージ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrh5y4qdyu2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrh5y4qdyu2o</guid>
-      <pubDate>Sat, 25 Jul 2026 05:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>インドの内務省サイバー犯罪部門I4Cは、GitHub上のBluetoothベースのメッセージングアプリBitchatを削除するよう指示したと発表した。通知は、同アプリが分散型のP2P通信を用いネットワーク遮断時も通信を可能にし、監視の回避や違法行為の助長に利用されるおそれがあるとして、IT法の複数条項に違反するとしている。これを受け、Bitchatの開発者であるジャック・ドーシーは政府の取り締まりを指摘する投稿をXに共有した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>インドの内務省サイバー犯罪部門I4Cは、GitHub上のBluetoothベースのメッセージングアプリBitchatを削除するよう指示したと発表した。通知は、同アプリが分散型のP2P通信を用いネットワーク遮断時も通信を可能にし、監視の回避や違法行為の助長に利用されるおそれがあるとして、IT法の複数条項に違反するとしている。これを受け、Bitchatの開発者であるジャック・ドーシーは政府の取り締まりを指摘する投稿をXに共有した。]]></content:encoded>
-    </item>
-    <item>
-      <title>政府、GitHubに対し、Bluetoothベースのチャットアプリ「Bitchat」の削除を命じる—ジャック・ドーシー …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrh5xvj3pf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrh5xvj3pf27</guid>
-      <pubDate>Sat, 25 Jul 2026 05:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[政府、GitHubに対し、Bluetoothベースのチャットアプリ「Bitchat」の削除を命じる—ジャック・ドーシー<br>Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey<br><br>🔺 433<br>💬 50<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[政府、GitHubに対し、Bluetoothベースのチャットアプリ「Bitchat」の削除を命じる—ジャック・ドーシー<br>Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey<br><br>🔺 433<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Love you @evanyou, just wish you had taken my feedback on th…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh2wcb3ib2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh2wcb3ib2s</guid>
-      <pubDate>Sat, 25 Jul 2026 04:36:29 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Love you @evanyou, just wish you had taken my feedback on this one.<br><br>Superintelligence isn't enough to keep one bad decision from breaking your environment.]]></description>
-      <content:encoded><![CDATA[Love you @evanyou, just wish you had taken my feedback on this one.<br><br>Superintelligence isn't enough to keep one bad decision from breaking your environment.]]></content:encoded>
-    </item>
-    <item>
-      <title>Had an agent audit the failure cases that caused my dev envi…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh2vznskp2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh2vznskp2r</guid>
-      <pubDate>Sat, 25 Jul 2026 04:35:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Had an agent audit the failure cases that caused my dev environments to fail when doing lots of work in parallel.<br><br>You'll never guess what the top cause of failures was.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihmwe3irhuglanerfii56pqdqmzfk6nffzxfdprklgbxcwhoyv7ry" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtzk3a52d7s3u2cdfs5nhtyyqe4ur7izd4ltvvjwweffntwxnnzm" alt="Quote Tweet: https://twitter.com/i/status/2034127396346204193" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Had an agent audit the failure cases that caused my dev environments to fail when doing lots of work in parallel.<br><br>You'll never guess what the top cause of failures was.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihmwe3irhuglanerfii56pqdqmzfk6nffzxfdprklgbxcwhoyv7ry" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtzk3a52d7s3u2cdfs5nhtyyqe4ur7izd4ltvvjwweffntwxnnzm" alt="Quote Tweet: https://twitter.com/i/status/2034127396346204193" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihmwe3irhuglanerfii56pqdqmzfk6nffzxfdprklgbxcwhoyv7ry" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIは2019年にGPT-2をリリースリスクを理由に公開を控えたが、その後の宣伝戦略…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgxbfvwf72r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgxbfvwf72r</guid>
-      <pubDate>Sat, 25 Jul 2026 03:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIは2019年にGPT-2をリリースリスクを理由に公開を控えたが、その後の宣伝戦略で巨額投資を呼び込み、今も強力なAIへの規制と投資の論調を続けている。最近の「 rogue agent」事件も同様の広報パターンの一環で、AIの強力さと危険性を煽ることで資本と規制の優遇を狙っている疑いがある。AIのセキュリティ能力は向上する一方、アクセスの中央集権化とガードレールの存在が技術の公正な普及を妨げる矛盾を生んでいる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIは2019年にGPT-2をリリースリスクを理由に公開を控えたが、その後の宣伝戦略で巨額投資を呼び込み、今も強力なAIへの規制と投資の論調を続けている。最近の「 rogue agent」事件も同様の広報パターンの一環で、AIの強力さと危険性を煽ることで資本と規制の優遇を狙っている疑いがある。AIのセキュリティ能力は向上する一方、アクセスの中央集権化とガードレールの存在が技術の公正な普及を妨げる矛盾を生んでいる。]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAIのローグ・ハッカー・エージェントの話には疑いを持て Be skeptical of OpenAI&apos;s rog…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgxb7ximk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgxb7ximk2o</guid>
-      <pubDate>Sat, 25 Jul 2026 03:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[OpenAIのローグ・ハッカー・エージェントの話には疑いを持て<br>Be skeptical of OpenAI's rogue hacker agent story<br><br>🔺 450<br>💬 49<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[OpenAIのローグ・ハッカー・エージェントの話には疑いを持て<br>Be skeptical of OpenAI's rogue hacker agent story<br><br>🔺 450<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Uncle Bob is the hero we need in this era of change</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrgsnlilru2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrgsnlilru2c</guid>
-      <pubDate>Sat, 25 Jul 2026 02:19:28 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Uncle Bob is the hero we need in this era of change
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid4irvxeksym6wnbeag66vfvvye5pnkprxzua4ncvml36dj2ioaty" alt="Quote Tweet: https://twitter.com/i/status/2080809374679724350" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Uncle Bob is the hero we need in this era of change
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid4irvxeksym6wnbeag66vfvvye5pnkprxzua4ncvml36dj2ioaty" alt="Quote Tweet: https://twitter.com/i/status/2080809374679724350" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid4irvxeksym6wnbeag66vfvvye5pnkprxzua4ncvml36dj2ioaty" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   AIの普及と組み込みが進む一方で、ソフトウェアの品質は低下が進んでおり、バグやUXの悪化が日…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgqkk7mhg2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrgqkk7mhg2r</guid>
-      <pubDate>Sat, 25 Jul 2026 01:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIの普及と組み込みが進む一方で、ソフトウェアの品質は低下が進んでおり、バグやUXの悪化が日常的になっている。しかし、開発者にはAIを活用して品質を取り戻す機会があり、個人レベルでより優れたソフトウェアを作る可能性が拡がっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIの普及と組み込みが進む一方で、ソフトウェアの品質は低下が進んでおり、バグやUXの悪化が日常的になっている。しかし、開発者にはAIを活用して品質を取り戻す機会があり、個人レベルでより優れたソフトウェアを作る可能性が拡がっている。]]></content:encoded>
     </item>
   </channel>
 </rss>
