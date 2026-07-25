@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 07:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:24:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>という主張が展開されている。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheorqdvj2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheorqdvj2w</guid>
+      <pubDate>Sat, 25 Jul 2026 07:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[という主張が展開されている。 (2/2)]]></description>
+      <content:encoded><![CDATA[という主張が展開されている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   要約: - AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheormufz2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheormufz2b</guid>
+      <pubDate>Sat, 25 Jul 2026 07:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>要約:<br>- AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の介在なし）の工場は現実には機能せず、コード品質の低下や outages が増えるなど問題が生じている。  <br>- モデルは一時的な成果は出せても、コードベース全体の保守性を長期的に維持・向上させる能力が不足しており、ベンチマークだけでは品質を正しく測れない。  <br>- そのため、ハーネス工学やループ増強だけでなく、人間の監督・適切な設計・テスト体制を組み合わせる徹底的なアプローチが必要で、現状の hypeは実務の Discipline を超えている、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の介在なし）の工場は現実には機能せず、コード品質の低下や outages が増えるなど問題が生じている。  <br>- モデルは一時的な成果は出せても、コードベース全体の保守性を長期的に維持・向上させる能力が不足しており、ベンチマークだけでは品質を正しく測れない。  <br>- そのため、ハーネス工学やループ増強だけでなく、人間の監督・適切な設計・テスト体制を組み合わせる徹底的なアプローチが必要で、現状の hypeは実務の Discipline を超えている、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない） Why Software Fact…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheoj274o2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheoj274o2o</guid>
+      <pubDate>Sat, 25 Jul 2026 07:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>When the M1 Macbook Air came out in 2020, it was $999 and it…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrh7wvyjrc23</link>
@@ -452,33 +479,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 28,227 (+1,843)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor,...]]></description>
       <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 diegosouzapw / OmniRoute<br>⭐ 28,227 (+1,843)<br>🗒 TypeScript<br><br>Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor,...]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 [PDF]株式会社はてな　特別調査委員会による調査報告書の公表及び役員報酬の一部自主返上に関するお知らせ  🔖 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrfreiz2672u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrfreiz2672u</guid>
-      <pubDate>Fri, 24 Jul 2026 16:26:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 [PDF]株式会社はてな　特別調査委員会による調査報告書の公表及び役員報酬の一部自主返上に関するお知らせ<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 [PDF]株式会社はてな　特別調査委員会による調査報告書の公表及び役員報酬の一部自主返上に関するお知らせ<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>collaboration with Huawei Ascend. It also lists many contrib…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrfqsp3de72p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrfqsp3de72p</guid>
-      <pubDate>Fri, 24 Jul 2026 16:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[collaboration with Huawei Ascend. It also lists many contributors from SJTU and partner institutions and points to related public tutorials and resources. (2/2)]]></description>
-      <content:encoded><![CDATA[collaboration with Huawei Ascend. It also lists many contributors from SJTU and partner institutions and points to related public tutorials and resources. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A concise overview: This is a free, ongoing Ch…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrfqsp244a2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrfqsp244a2g</guid>
-      <pubDate>Fri, 24 Jul 2026 16:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A concise overview: This is a free, ongoing Chinese programming tutorial series “Hands-on Big Models” that covers practical topics from fine-tuning and prompting to safety, multi-modal LLMs, and GUI agents, with updates including a new nationwide AI development track in (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A concise overview: This is a free, ongoing Chinese programming tutorial series “Hands-on Big Models” that covers practical topics from fine-tuning and prompting to safety, multi-modal LLMs, and GUI agents, with updates including a new nationwide AI development track in (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
