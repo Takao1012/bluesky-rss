@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 22:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:47:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。Dis…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2cytsi42c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2cytsi42c</guid>
+      <pubDate>Sat, 25 Jul 2026 23:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。DisplayPort対応やHDMI音声、32bitカラー対応の有無、そして新旧GPU（Turing/ Ampere/Lovelace）への対応状況や今後の見通し、さらに中古GPUの選択に関する実用的な意見が交わされている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。DisplayPort対応やHDMI音声、32bitカラー対応の有無、そして新旧GPU（Turing/ Ampere/Lovelace）への対応状況や今後の見通し、さらに中古GPUの選択に関する実用的な意見が交わされている。]]></content:encoded>
+    </item>
+    <item>
+      <title>HaikuOS上でネイティブに動作するハーフライフ2 Half-Life 2 running natively on H…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2csnayp2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2csnayp2o</guid>
+      <pubDate>Sat, 25 Jul 2026 23:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[HaikuOS上でネイティブに動作するハーフライフ2<br>Half-Life 2 running natively on HaikuOS<br><br>🔺 328<br>💬 13<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[HaikuOS上でネイティブに動作するハーフライフ2<br>Half-Life 2 running natively on HaikuOS<br><br>🔺 328<br>💬 13<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Ruff 0.16.0 - Astral&apos;s fast Python linter - came out a few d…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mriy5j5l322j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mriy5j5l322j</guid>
+      <pubDate>Sat, 25 Jul 2026 23:05:36 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Ruff 0.16.0 - Astral's fast Python linter - came out a few days ago and increased the number of default-enabled rules from 59 to 413, which highlighted all sorts of problems across my projects (1618 in sqlite-utils alone) simonwillison.net/2026/Jul/25/...]]></description>
+      <content:encoded><![CDATA[Ruff 0.16.0 - Astral's fast Python linter - came out a few days ago and increased the number of default-enabled rules from 59 to 413, which highlighted all sorts of problems across my projects (1618 in sqlite-utils alone) simonwillison.net/2026/Jul/25/...]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張した…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmks4v72o</link>
@@ -429,33 +456,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>という主張が展開されている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheorqdvj2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheorqdvj2w</guid>
-      <pubDate>Sat, 25 Jul 2026 07:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[という主張が展開されている。 (2/2)]]></description>
-      <content:encoded><![CDATA[という主張が展開されている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: - AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheormufz2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheormufz2b</guid>
-      <pubDate>Sat, 25 Jul 2026 07:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>- AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の介在なし）の工場は現実には機能せず、コード品質の低下や outages が増えるなど問題が生じている。  <br>- モデルは一時的な成果は出せても、コードベース全体の保守性を長期的に維持・向上させる能力が不足しており、ベンチマークだけでは品質を正しく測れない。  <br>- そのため、ハーネス工学やループ増強だけでなく、人間の監督・適切な設計・テスト体制を組み合わせる徹底的なアプローチが必要で、現状の hypeは実務の Discipline を超えている、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- AIを活用した「ソフトウェア工場」が注目される一方で、完全なライトオフ化（人間の介在なし）の工場は現実には機能せず、コード品質の低下や outages が増えるなど問題が生じている。  <br>- モデルは一時的な成果は出せても、コードベース全体の保守性を長期的に維持・向上させる能力が不足しており、ベンチマークだけでは品質を正しく測れない。  <br>- そのため、ハーネス工学やループ増強だけでなく、人間の監督・適切な設計・テスト体制を組み合わせる徹底的なアプローチが必要で、現状の hypeは実務の Discipline を超えている、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない） Why Software Fact…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheoj274o2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrheoj274o2o</guid>
-      <pubDate>Sat, 25 Jul 2026 07:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ソフトウェア・ファクトリはなぜ失敗するのか（あるいは、ハーネス工学だけでは足りない）<br>Why Software Factories Fail (or: harness engineering is not enough)<br><br>🔺 376<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
