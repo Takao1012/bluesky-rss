@@ -5,8 +5,22 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 23:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 01:22:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Rumors going around that Karpathy has resigned from Anthropi…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrj5ycijd62c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrj5ycijd62c</guid>
+      <pubDate>Sun, 26 Jul 2026 00:29:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Rumors going around that Karpathy has resigned from Anthropic. This was his bio yesterday
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidpgdnpvtyk2qakkw72hsoce7un7ydsvbuifiq5cd5pckttkzp4wi" alt="Quote Tweet: https://twitter.com/i/status/2081114803834376218" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Rumors going around that Karpathy has resigned from Anthropic. This was his bio yesterday
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidpgdnpvtyk2qakkw72hsoce7un7ydsvbuifiq5cd5pckttkzp4wi" alt="Quote Tweet: https://twitter.com/i/status/2081114803834376218" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。Dis…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2cytsi42c</link>
@@ -447,15 +461,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Couple pay >$800k for a gene-editing therapy for their daughter. She died.<br>Couple pay >$800k for a gene-editing therapy for their daughter. She died.<br><br>🔺 356<br>💬 32<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Couple pay >$800k for a gene-editing therapy for their daughter. She died.<br>Couple pay >$800k for a gene-editing therapy for their daughter. She died.<br><br>🔺 356<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testi…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrhkek7plv2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrhkek7plv2r</guid>
-      <pubDate>Sat, 25 Jul 2026 09:26:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
