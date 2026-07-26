@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:50:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Ruff v0.16.0 が公開され、デフォルトルールが大幅に拡張され（413規則、全体で9…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkwo4tmbm2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkwo4tmbm2n</guid>
+      <pubDate>Sun, 26 Jul 2026 17:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Ruff v0.16.0 が公開され、デフォルトルールが大幅に拡張され（413規則、全体で968規則へ）、より多くの潜在的な問題をデフォルトで検出可能になりました。新機能としてMarkdownコードブロックのフォーマット、独自の抑制コメント（ruff: ignore、file-ignore など）と --add-ignore、格式出力の改善（check/format における diff 表示と複数形式出力）、およびいくつかのルールの安定化・挙動安定化が含まれます。これにより、従来の設定なしでも広範な品質チェックが利用でき、出力形式の柔軟性も向上しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Ruff v0.16.0 が公開され、デフォルトルールが大幅に拡張され（413規則、全体で968規則へ）、より多くの潜在的な問題をデフォルトで検出可能になりました。新機能としてMarkdownコードブロックのフォーマット、独自の抑制コメント（ruff: ignore、file-ignore など）と --add-ignore、格式出力の改善（check/format における diff 表示と複数形式出力）、およびいくつかのルールの安定化・挙動安定化が含まれます。これにより、従来の設定なしでも広範な品質チェックが利用でき、出力形式の柔軟性も向上しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Ruff v0.16.0 – 重要な新機能 – デフォルトのルールが59件から413件へ Ruff v0.16.0 – …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkwnw6dhv2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkwnw6dhv2t</guid>
+      <pubDate>Sun, 26 Jul 2026 17:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Ruff v0.16.0 – 重要な新機能 – デフォルトのルールが59件から413件へ<br>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59<br><br>🔺 288<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Ruff v0.16.0 – 重要な新機能 – デフォルトのルールが59件から413件へ<br>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59<br><br>🔺 288<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>gitignore block. It supports live browser iteration, multi-t…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3ofbcs2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3ofbcs2l</guid>
+      <pubDate>Sun, 26 Jul 2026 17:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[gitignore block. It supports live browser iteration, multi-tool integration, and configurable hooks for various AI assistants. (2/2)]]></description>
+      <content:encoded><![CDATA[gitignore block. It supports live browser iteration, multi-tool integration, and configurable hooks for various AI assistants. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Impeccable is a design-guidance toolkit for AI…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3odwsv2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3odwsv2u</guid>
+      <pubDate>Sun, 26 Jul 2026 17:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Impeccable is a design-guidance toolkit for AI coding agents, offering a single-command skill with 23 commands and 60 deterministic detector rules to iteratively improve frontend design while keeping project context in PRODUCT.md/DESIGN.md and excluding ephemeral outputs via a (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Impeccable is a design-guidance toolkit for AI coding agents, offering a single-command skill with 23 commands and 60 deterministic detector rules to iteratively improve frontend design while keeping project context in PRODUCT.md/DESIGN.md and excluding ephemeral outputs via a (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 pbakaus / impeccabl…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3kqraf2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkv3kqraf2z</guid>
+      <pubDate>Sun, 26 Jul 2026 17:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pbakaus / impeccable<br>⭐ 50,284 (+471)<br>🗒 JavaScript<br><br>The design language that makes your AI harness better at design.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pbakaus / impeccable<br>⭐ 50,284 (+471)<br>🗒 JavaScript<br><br>The design language that makes your AI harness better at design.]]></content:encoded>
+    </item>
     <item>
       <title>📝 ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？  🔖 159 ブックマーク 💬 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrksc7komj2x</link>
@@ -419,51 +464,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimw65gvf2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimw65gvf2n</guid>
-      <pubDate>Sat, 25 Jul 2026 19:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグローバル排他ロックであり、それを工夫して高スループットを達成できる。著者らは通知をバッファリングしてバッチでフラッシュする手法を使い、崩壊時の再送対策として読み手は通知待ちと定期的なポーリングを併用することで、単一サーバーで最大約60K書き込み/秒、遅延15–100msを実現した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>PostgresのLISTEN/NOTIFYはスケールしないという評価もあるが、根本原因はグローバル排他ロックであり、それを工夫して高スループットを達成できる。著者らは通知をバッファリングしてバッチでフラッシュする手法を使い、崩壊時の再送対策として読み手は通知待ちと定期的なポーリングを併用することで、単一サーバーで最大約60K書き込み/秒、遅延15–100msを実現した。]]></content:encoded>
-    </item>
-    <item>
-      <title>PostgreSQLのLISTEN/NOTIFYは実際にスケールする Postgres LISTEN/NOTIFY ac…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimvyhnj52n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrimvyhnj52n</guid>
-      <pubDate>Sat, 25 Jul 2026 19:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[PostgreSQLのLISTEN/NOTIFYは実際にスケールする<br>Postgres LISTEN/NOTIFY actually scales<br><br>🔺 357<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[PostgreSQLのLISTEN/NOTIFYは実際にスケールする<br>Postgres LISTEN/NOTIFY actually scales<br><br>🔺 357<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>timeline and offers optional AI processing via a licensed ba…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcpbm22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcpbm22t</guid>
-      <pubDate>Sat, 25 Jul 2026 19:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[timeline and offers optional AI processing via a licensed backend. (2/2)]]></description>
-      <content:encoded><![CDATA[timeline and offers optional AI processing via a licensed backend. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Palmier Pro is an open-source, macOS-native vi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcnwxr24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrildcnwxr24</guid>
-      <pubDate>Sat, 25 Jul 2026 19:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Palmier Pro is an open-source, macOS-native video editor built in Swift that integrates AI-enabled features and MCP-based collaboration with agents like Claude, Codex, and Cursor, all accessible in a free editor with paid AI capabilities. It supports generating media inside the (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Palmier Pro is an open-source, macOS-native video editor built in Swift that integrates AI-enabled features and MCP-based collaboration with agents like Claude, Codex, and Cursor, all accessible in a free editor with paid AI capabilities. It supports generating media inside the (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 palmier-io / palmier…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrild7qhnk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrild7qhnk2z</guid>
-      <pubDate>Sat, 25 Jul 2026 19:16:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 palmier-io / palmier-pro<br>⭐ 12,003 (+731)<br>🗒 Swift<br><br>macOS video editor built for AI]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 palmier-io / palmier-pro<br>⭐ 12,003 (+731)<br>🗒 Swift<br><br>macOS video editor built for AI]]></content:encoded>
     </item>
   </channel>
 </rss>
