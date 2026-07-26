@@ -5,8 +5,116 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:21:50 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>and an Android Studio build and deployment guide. It emphasi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzz5mmy2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzz5mmy2p</guid>
+      <pubDate>Sun, 26 Jul 2026 14:16:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[and an Android Studio build and deployment guide. It emphasizes no accounts or numbers, battery-aware operation, and Tor support when internet is available. (2/2)]]></description>
+      <content:encoded><![CDATA[and an Android Studio build and deployment guide. It emphasizes no accounts or numbers, battery-aware operation, and Tor support when internet is available. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Bitchat for Android is a decentralized, Blueto…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzz4ezd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzz4ezd2l</guid>
+      <pubDate>Sun, 26 Jul 2026 14:16:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Bitchat for Android is a decentralized, Bluetooth-based peer-to-peer messaging app with end-to-end encryption, cross-platform protocol compatibility with iOS, and optional internet-connected geohash channels, featuring channel-based chats, store-and-forward, privacy-first design, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Bitchat for Android is a decentralized, Bluetooth-based peer-to-peer messaging app with end-to-end encryption, cross-platform protocol compatibility with iOS, and optional internet-connected geohash channels, featuring channel-based chats, store-and-forward, privacy-first design, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 permissionlesstech …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzwnjgf2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzwnjgf2h</guid>
+      <pubDate>Sun, 26 Jul 2026 14:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 permissionlesstech / bitchat-android<br>⭐ 6,335 (+384)<br>🗒 Kotlin<br><br>bluetooth mesh chat, IRC vibes]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 permissionlesstech / bitchat-android<br>⭐ 6,335 (+384)<br>🗒 Kotlin<br><br>bluetooth mesh chat, IRC vibes]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   シェルのコロン &quot;:&quot; は、実は多機能な「ヌルコマンド」やパラメータ展開の一部として、引数の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkjaybqie2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkjaybqie2k</guid>
+      <pubDate>Sun, 26 Jul 2026 13:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>シェルのコロン ":" は、実は多機能な「ヌルコマンド」やパラメータ展開の一部として、引数の検証やデフォルト設定、リダイレクトの簡略化など多様な用途に使える驚くべき機能だと解説している。この記事では、例として ${name:?diagnostic} や : "${VAR:=default}" などの使い方を詳しく紹介し、実務での利点と読みやすさ・誤植リスクの点を比較検討している。最後には実用的な活用事例とQ&A、実戦での使い所を解説している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>シェルのコロン ":" は、実は多機能な「ヌルコマンド」やパラメータ展開の一部として、引数の検証やデフォルト設定、リダイレクトの簡略化など多様な用途に使える驚くべき機能だと解説している。この記事では、例として ${name:?diagnostic} や : "${VAR:=default}" などの使い方を詳しく紹介し、実務での利点と読みやすさ・誤植リスクの点を比較検討している。最後には実用的な活用事例とQ&A、実戦での使い所を解説している。]]></content:encoded>
+    </item>
+    <item>
+      <title>シェルのコロンは何もしない。それでも使いなさい。 A shell colon does nothing. Use it …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkjastydj2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkjastydj2r</guid>
+      <pubDate>Sun, 26 Jul 2026 13:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[シェルのコロンは何もしない。それでも使いなさい。<br>A shell colon does nothing. Use it anyway<br><br>🔺 287<br>💬 38<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[シェルのコロンは何もしない。それでも使いなさい。<br>A shell colon does nothing. Use it anyway<br><br>🔺 287<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 amnezia-vpn / amnezia-client ⭐ 13,070 (+17) 🗒 C++  Amnez…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkhoicaoh26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkhoicaoh26</guid>
+      <pubDate>Sun, 26 Jul 2026 13:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 amnezia-vpn / amnezia-client<br>⭐ 13,070 (+17)<br>🗒 C++<br><br>Amnezia VPN Client (Desktop+Mobile)]]></description>
+      <content:encoded><![CDATA[📦 amnezia-vpn / amnezia-client<br>⭐ 13,070 (+17)<br>🗒 C++<br><br>Amnezia VPN Client (Desktop+Mobile)]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 nodejs / node ⭐ 118,400 (+37) 🗒 JavaScript  Node.js Java…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkedezvux23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkedezvux23</guid>
+      <pubDate>Sun, 26 Jul 2026 12:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 nodejs / node<br>⭐ 118,400 (+37)<br>🗒 JavaScript<br><br>Node.js JavaScript runtime ✨🐢🚀✨]]></description>
+      <content:encoded><![CDATA[📦 nodejs / node<br>⭐ 118,400 (+37)<br>🗒 JavaScript<br><br>Node.js JavaScript runtime ✨🐢🚀✨]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  yorukot/superfile superfileは、macOS、Linux、Wind…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdmiap2e2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdmiap2e2p</guid>
+      <pubDate>Sun, 26 Jul 2026 12:03:30 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>yorukot/superfile<br>superfileは、macOS、Linux、Windowsに対応したターミナルベースのファイルマネージャーです。<br>コマンドライン上で一般的なファイル操作を効率的に行うことを目的として開発されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>yorukot/superfile<br>superfileは、macOS、Linux、Windowsに対応したターミナルベースのファイルマネージャーです。<br>コマンドライン上で一般的なファイル操作を効率的に行うことを目的として開発されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  CoreBunch/Instatic Instaticは、ビジュアルエディタ、コンテンツ管…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdm3ybj423</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdm3ybj423</guid>
+      <pubDate>Sun, 26 Jul 2026 12:03:17 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>CoreBunch/Instatic<br>Instaticは、ビジュアルエディタ、コンテンツ管理、公開機能を一つのBunサーバーに統合したセルフホスト型CMSです。<br>認証やフォームなどの機能を単一サーバーで完結させ、外部サービスの乱立を避けることを目的としています。<br>出力されるのはシンプルなHTMLとCSSのみであり、不要なランタイムを含まないため、静的ファイルのように軽量で高速なサイト構築が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>CoreBunch/Instatic<br>Instaticは、ビジュアルエディタ、コンテンツ管理、公開機能を一つのBunサーバーに統合したセルフホスト型CMSです。<br>認証やフォームなどの機能を単一サーバーで完結させ、外部サービスの乱立を避けることを目的としています。<br>出力されるのはシンプルなHTMLとCSSのみであり、不要なランタイムを含まないため、静的ファイルのように軽量で高速なサイト構築が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  pingdotgg/t3code T3 Codeは、Codex、Claude、Cursor…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdlfdtta2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdlfdtta2b</guid>
+      <pubDate>Sun, 26 Jul 2026 12:02:53 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>pingdotgg/t3code<br>T3 Codeは、Codex、Claude、Cursor、OpenCodeなどのコーディングエージェントを利用するための最小限のWeb GUIを提供することを目的として作成されました。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>pingdotgg/t3code<br>T3 Codeは、Codex、Claude、Cursor、OpenCodeなどのコーディングエージェントを利用するための最小限のWeb GUIを提供することを目的として作成されました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  citrolabs/ego-lite AIエージェントがウェブオートメーションを高速に実行…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdl42h7y2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdl42h7y2b</guid>
+      <pubDate>Sun, 26 Jul 2026 12:02:43 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>citrolabs/ego-lite<br>AIエージェントがウェブオートメーションを高速に実行するための専用ブラウザです。<br>ユーザーとAIが並行して作業できるよう設計されており、エージェントは独立したスペースで動作するため、ユーザーの操作を妨げずにタスクを完了できます。<br>ログイン情報やクッキーを直接利用できるため、個別のブラウザ設定が不要で効率的に自動化を実現します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>citrolabs/ego-lite<br>AIエージェントがウェブオートメーションを高速に実行するための専用ブラウザです。<br>ユーザーとAIが並行して作業できるよう設計されており、エージェントは独立したスペースで動作するため、ユーザーの操作を妨げずにタスクを完了できます。<br>ログイン情報やクッキーを直接利用できるため、個別のブラウザ設定が不要で効率的に自動化を実現します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  permissionlesstech/bitchat bitchatは、分散型のP2Pメッ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdkickfu26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrkdkickfu26</guid>
+      <pubDate>Sun, 26 Jul 2026 12:02:23 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>permissionlesstech/bitchat<br>bitchatは、分散型のP2Pメッセージングアプリです。<br>Bluetoothメッシュによるオフライン通信とNostrプロトコルによるインターネット通信を併用するハイブリッド構成を採用しています。<br>アカウントや電話番号、中央サーバーを必要とせず、状況に応じて最適な通信手段を自動的に選択してメッセージを送信することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>permissionlesstech/bitchat<br>bitchatは、分散型のP2Pメッセージングアプリです。<br>Bluetoothメッシュによるオフライン通信とNostrプロトコルによるインターネット通信を併用するハイブリッド構成を採用しています。<br>アカウントや電話番号、中央サーバーを必要とせず、状況に応じて最適な通信手段を自動的に選択してメッセージを送信することを目的としています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   NoMarkというインスタグラムのフォロワーが多い自称「バットマン」が、米Flock Saf…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkckoguwf2y</link>
@@ -356,114 +464,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 andrewyng / aisuite<br>⭐ 15,127 (+75)<br>🗒 Python<br><br>Simple, unified interface to multiple Generative AI providers]]></description>
       <content:encoded><![CDATA[📦 andrewyng / aisuite<br>⭐ 15,127 (+75)<br>🗒 Python<br><br>Simple, unified interface to multiple Generative AI providers]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 anthropics / claude-coo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mribbg7lkp23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mribbg7lkp23</guid>
-      <pubDate>Sat, 25 Jul 2026 16:16:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / claude-cookbooks<br>⭐ 49,683 (+144)<br>🗒 Jupyter Notebook<br><br>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / claude-cookbooks<br>⭐ 49,683 (+144)<br>🗒 Jupyter Notebook<br><br>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ハンナ・フライ教授が、国際数学連合(MIU)のレーロヴァティ賞を受賞し、数学の普及啓蒙におけ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mri7itcnvm2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mri7itcnvm2d</guid>
-      <pubDate>Sat, 25 Jul 2026 15:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ハンナ・フライ教授が、国際数学連合(MIU)のレーロヴァティ賞を受賞し、数学の普及啓蒙における卓越した活動が評価されました。彼女はケンブリッジ大学で「Public Understanding of Mathematics」教授として活動するとともに、書籍・映像・ポッドキャストなど多方面で数学を身近で魅力的に伝え、世界的な著名人となっています。受賞理由には、科学コミュニケーションの創造性と普及効果が挙げられ、今後も若い世代への影響が期待されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ハンナ・フライ教授が、国際数学連合(MIU)のレーロヴァティ賞を受賞し、数学の普及啓蒙における卓越した活動が評価されました。彼女はケンブリッジ大学で「Public Understanding of Mathematics」教授として活動するとともに、書籍・映像・ポッドキャストなど多方面で数学を身近で魅力的に伝え、世界的な著名人となっています。受賞理由には、科学コミュニケーションの創造性と普及効果が挙げられ、今後も若い世代への影響が期待されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>ハンナ・フライが2026年、数学普及のためのLeelavati賞を受賞 Hannah Fry Wins the Leel…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mri7imqpqo2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mri7imqpqo2o</guid>
-      <pubDate>Sat, 25 Jul 2026 15:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ハンナ・フライが2026年、数学普及のためのLeelavati賞を受賞<br>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach<br><br>🔺 435<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ハンナ・フライが2026年、数学普及のためのLeelavati賞を受賞<br>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach<br><br>🔺 435<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに  🔖 160 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mri6ibr5ym2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mri6ibr5ym2u</guid>
-      <pubDate>Sat, 25 Jul 2026 15:26:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>including a desktop dashboard, expanded agent/skill counts, …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wjmxgm2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wjmxgm2l</guid>
-      <pubDate>Sat, 25 Jul 2026 15:16:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[including a desktop dashboard, expanded agent/skill counts, and security tooling like AgentShield. The guide covers installation paths, cross-tool parity, and detailed setup for self-hosting Kimi, plus extensive documentation on upgrades, testing, and contributor workflows. (2/2)]]></description>
-      <content:encoded><![CDATA[including a desktop dashboard, expanded agent/skill counts, and security tooling like AgentShield. The guide covers installation paths, cross-tool parity, and detailed setup for self-hosting Kimi, plus extensive documentation on upgrades, testing, and contributor workflows. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   ECC is an open-source agent harness OS that pr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wjlqvt2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wjlqvt2n</guid>
-      <pubDate>Sat, 25 Jul 2026 15:16:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>ECC is an open-source agent harness OS that provides a cross-harness ecosystem (agents, skills, hooks, MCPs, and rules) for building production-grade AI agents across Claude Code, Cursor, Codex, and OpenCode, with v2.0 introducing Hermes operator workflows and a refreshed surface (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an open-source agent harness OS that provides a cross-harness ecosystem (agents, skills, hooks, MCPs, and rules) for building production-grade AI agents across Claude Code, Cursor, Codex, and OpenCode, with v2.0 introducing Hermes operator workflows and a refreshed surface (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 affaan-m / ECC ⭐ 23…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wgscep23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mri5wgscep23</guid>
-      <pubDate>Sat, 25 Jul 2026 15:16:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 233,076 (+364)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 233,076 (+364)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った  🔖 152 ブックマーク 💬 コメン…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mri34pztl522</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mri34pztl522</guid>
-      <pubDate>Sat, 25 Jul 2026 14:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Google IssueTrackerで提案されている“On-Device ADB”のループ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhys5ogll27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhys5ogll27</guid>
-      <pubDate>Sat, 25 Jul 2026 13:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Google IssueTrackerで提案されている“On-Device ADB”のループバック接続を制限する変更について、開発者の実用的な観点と懸念を説明し、ユーザーの具体的な使用事例を踏まえて賛否の議論を促す内容です。著者は、完全な遮断よりも設定での継続的な無効化が可能な形が望ましいと主張し、On-Device ADBが生み出した開発者向けエコシステムの重要性にも言及しています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Google IssueTrackerで提案されている“On-Device ADB”のループバック接続を制限する変更について、開発者の実用的な観点と懸念を説明し、ユーザーの具体的な使用事例を踏まえて賛否の議論を促す内容です。著者は、完全な遮断よりも設定での継続的な無効化が可能な形が望ましいと主張し、On-Device ADBが生み出した開発者向けエコシステムの重要性にも言及しています。]]></content:encoded>
-    </item>
-    <item>
-      <title>Android、端末上のADBを間もなく制限へ Android May Soon Restrict On-Device …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhyryjzxy2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhyryjzxy2c</guid>
-      <pubDate>Sat, 25 Jul 2026 13:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Android、端末上のADBを間もなく制限へ<br>Android May Soon Restrict On-Device ADB<br><br>🔺 449<br>💬 47<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Android、端末上のADBを間もなく制限へ<br>Android May Soon Restrict On-Device ADB<br><br>🔺 449<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibaya…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrhxrln2ub25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrhxrln2ub25</guid>
-      <pubDate>Sat, 25 Jul 2026 13:26:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>design, two-stage reviews, and DRY/TDD principles, plus ongo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrhx7lr6el2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrhx7lr6el2n</guid>
-      <pubDate>Sat, 25 Jul 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[design, two-stage reviews, and DRY/TDD principles, plus ongoing community and enterprise support. (2/2)]]></description>
-      <content:encoded><![CDATA[design, two-stage reviews, and DRY/TDD principles, plus ongoing community and enterprise support. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
