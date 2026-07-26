@@ -5,8 +5,89 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 17:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:01:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>GitHub’s Bug Bounty Program is evolving to prioritize high-q…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mrl5xmufkr2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mrl5xmufkr2u</guid>
+      <pubDate>Sun, 26 Jul 2026 19:55:01 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[GitHub’s Bug Bounty Program is evolving to prioritize high-quality, high-impact research.<br><br>Learn about our next chapter: new VIP program, restructured public bounties, and updated signal requirements, all designed to build stronger researcher partnerships.]]></description>
+      <content:encoded><![CDATA[GitHub’s Bug Bounty Program is evolving to prioritize high-quality, high-impact research.<br><br>Learn about our next chapter: new VIP program, restructured public bounties, and updated signal requirements, all designed to build stronger researcher partnerships.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   EUの cookie バナーを廃止するため、ブラウザが一度だけプライバシー設定を伝える自動信…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrl5eoaw6o2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrl5eoaw6o2c</guid>
+      <pubDate>Sun, 26 Jul 2026 19:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>EUの cookie バナーを廃止するため、ブラウザが一度だけプライバシー設定を伝える自動信号を導入する案を支持するキャンペーン。現状はバナーを悪用して同意を取り付ける仕組みで、多くの人が「同意」を選んでしまうため問題だとして、利用者の権利保護のための action を呼びかけている。欧州議会と各加盟国に対し代表者へ連絡するよう促している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>EUの cookie バナーを廃止するため、ブラウザが一度だけプライバシー設定を伝える自動信号を導入する案を支持するキャンペーン。現状はバナーを悪用して同意を取り付ける仕組みで、多くの人が「同意」を選んでしまうため問題だとして、利用者の権利保護のための action を呼びかけている。欧州議会と各加盟国に対し代表者へ連絡するよう促している。]]></content:encoded>
+    </item>
+    <item>
+      <title>クッキーバナーを非表示にしろ。 Kill The Cookie Banner  🔺 596 💬 59 🔗 HN P…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrl5ehj4wi27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrl5ehj4wi27</guid>
+      <pubDate>Sun, 26 Jul 2026 19:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[クッキーバナーを非表示にしろ。<br>Kill The Cookie Banner<br><br>🔺 596<br>💬 59<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[クッキーバナーを非表示にしろ。<br>Kill The Cookie Banner<br><br>🔺 596<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>multi-threading, vanilla-like mechanics, and plugin support,…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s7g2fm2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s7g2fm2n</guid>
+      <pubDate>Sun, 26 Jul 2026 19:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[multi-threading, vanilla-like mechanics, and plugin support, with ongoing docs, quick-start guides, and community channels. (2/2)]]></description>
+      <content:encoded><![CDATA[multi-threading, vanilla-like mechanics, and plugin support, with ongoing docs, quick-start guides, and community channels. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Pumpkin is a Rust-based, high-performance Mine…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s7enwz23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s7enwz23</guid>
+      <pubDate>Sun, 26 Jul 2026 19:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Pumpkin is a Rust-based, high-performance Minecraft server project focusing on compatibility, security, configurability, and extensibility, with ongoing development and extensive feature tracking across server, world, player, entities, and proxy components. It emphasizes (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Pumpkin is a Rust-based, high-performance Minecraft server project focusing on compatibility, security, configurability, and extensibility, with ongoing development and extensive feature tracking across server, world, player, entities, and proxy components. It emphasizes (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 Pumpkin-MC / Pumpki…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s4zad52p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrl3s4zad52p</guid>
+      <pubDate>Sun, 26 Jul 2026 19:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Pumpkin-MC / Pumpkin<br>⭐ 9,858 (+339)<br>🗒 Rust<br><br>Empowering everyone to host fast and efficient Minecraft servers.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Pumpkin-MC / Pumpkin<br>⭐ 9,858 (+339)<br>🗒 Rust<br><br>Empowering everyone to host fast and efficient Minecraft servers.]]></content:encoded>
+    </item>
+    <item>
+      <title>over 45 exchanges. It provides multiple model sizes, a live …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkyh2vnha2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkyh2vnha2n</guid>
+      <pubDate>Sun, 26 Jul 2026 18:16:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[over 45 exchanges. It provides multiple model sizes, a live demo, and scripts for deployment and finetuning on quantitative tasks. (2/2)]]></description>
+      <content:encoded><![CDATA[over 45 exchanges. It provides multiple model sizes, a live demo, and scripts for deployment and finetuning on quantitative tasks. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Kronos is an open-source, decoder-only foundat…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkyh2ugfa2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkyh2ugfa2n</guid>
+      <pubDate>Sun, 26 Jul 2026 18:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Kronos is an open-source, decoder-only foundation model tailored to the language of financial markets (K-line data), using a two-stage approach with a discrete tokenizer and autoregressive transformer, designed for forecasting, batch prediction, and fine-tuning on market data from (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Kronos is an open-source, decoder-only foundation model tailored to the language of financial markets (K-line data), using a two-stage approach with a discrete tokenizer and autoregressive transformer, designed for forecasting, batch prediction, and fine-tuning on market data from (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 shiyu-coder / Krono…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkygxzodi2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkygxzodi2g</guid>
+      <pubDate>Sun, 26 Jul 2026 18:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 shiyu-coder / Kronos<br>⭐ 34,006 (+322)<br>🗒 Python<br><br>Kronos: A Foundation Model for the Language of Financial Markets]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 shiyu-coder / Kronos<br>⭐ 34,006 (+322)<br>🗒 Python<br><br>Kronos: A Foundation Model for the Language of Financial Markets]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Ruff v0.16.0 が公開され、デフォルトルールが大幅に拡張され（413規則、全体で9…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkwo4tmbm2n</link>
@@ -378,92 +459,6 @@
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[That one is from this commit github.com/simonw/tools... - I used it to build tools.simonwillison.net/datasette-io...]]></description>
       <content:encoded><![CDATA[That one is from this commit github.com/simonw/tools... - I used it to build tools.simonwillison.net/datasette-io...]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve deliberately shared hundreds of chats like that one - I…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrjetgq3722y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrjetgq3722y</guid>
-      <pubDate>Sun, 26 Jul 2026 02:52:37 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I've deliberately shared hundreds of chats like that one - I frequently link to them from my commit messages]]></description>
-      <content:encoded><![CDATA[I've deliberately shared hundreds of chats like that one - I frequently link to them from my commit messages]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Claudeの活用法に関する実践ガイドと事例の総覧。長期対話の memory管理・ツール呼び…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjazou7te2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjazou7te2g</guid>
-      <pubDate>Sun, 26 Jul 2026 01:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Claudeの活用法に関する実践ガイドと事例の総覧。長期対話の memory管理・ツール呼び出し・マルチエージェント運用・セキュリティ・RAG/知識グラフ・マルチモーダル対応など、多様なアーキテクチャと導入手順を網羅している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Claudeの活用法に関する実践ガイドと事例の総覧。長期対話の memory管理・ツール呼び出し・マルチエージェント運用・セキュリティ・RAG/知識グラフ・マルチモーダル対応など、多様なアーキテクチャと導入手順を網羅している。]]></content:encoded>
-    </item>
-    <item>
-      <title>クロードのレシピ本 Claude Cookbook  🔺 330 💬 23 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjazhu2bo2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjazhu2bo2c</guid>
-      <pubDate>Sun, 26 Jul 2026 01:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[クロードのレシピ本<br>Claude Cookbook<br><br>🔺 330<br>💬 23<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[クロードのレシピ本<br>Claude Cookbook<br><br>🔺 330<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Rumors going around that Karpathy has resigned from Anthropi…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrj5ycijd62c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrj5ycijd62c</guid>
-      <pubDate>Sun, 26 Jul 2026 00:29:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Rumors going around that Karpathy has resigned from Anthropic. This was his bio yesterday
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidpgdnpvtyk2qakkw72hsoce7un7ydsvbuifiq5cd5pckttkzp4wi" alt="Quote Tweet: https://twitter.com/i/status/2081114803834376218" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Rumors going around that Karpathy has resigned from Anthropic. This was his bio yesterday
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidpgdnpvtyk2qakkw72hsoce7un7ydsvbuifiq5cd5pckttkzp4wi" alt="Quote Tweet: https://twitter.com/i/status/2081114803834376218" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibri45hufbx63vxqeqtomr6vn6njdfsd72e43mcdmk7choc24np3q" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。Dis…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2cytsi42c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2cytsi42c</guid>
-      <pubDate>Sat, 25 Jul 2026 23:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。DisplayPort対応やHDMI音声、32bitカラー対応の有無、そして新旧GPU（Turing/ Ampere/Lovelace）への対応状況や今後の見通し、さらに中古GPUの選択に関する実用的な意見が交わされている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Haiku OS のディスプレイ関連の話題とGPUサポートについてのディスカッション。DisplayPort対応やHDMI音声、32bitカラー対応の有無、そして新旧GPU（Turing/ Ampere/Lovelace）への対応状況や今後の見通し、さらに中古GPUの選択に関する実用的な意見が交わされている。]]></content:encoded>
-    </item>
-    <item>
-      <title>HaikuOS上でネイティブに動作するハーフライフ2 Half-Life 2 running natively on H…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2csnayp2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrj2csnayp2o</guid>
-      <pubDate>Sat, 25 Jul 2026 23:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[HaikuOS上でネイティブに動作するハーフライフ2<br>Half-Life 2 running natively on HaikuOS<br><br>🔺 328<br>💬 13<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[HaikuOS上でネイティブに動作するハーフライフ2<br>Half-Life 2 running natively on HaikuOS<br><br>🔺 328<br>💬 13<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Ruff 0.16.0 - Astral&apos;s fast Python linter - came out a few d…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mriy5j5l322j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mriy5j5l322j</guid>
-      <pubDate>Sat, 25 Jul 2026 23:05:36 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Ruff 0.16.0 - Astral's fast Python linter - came out a few days ago and increased the number of default-enabled rules from 59 to 413, which highlighted all sorts of problems across my projects (1618 in sqlite-utils alone) simonwillison.net/2026/Jul/25/...]]></description>
-      <content:encoded><![CDATA[Ruff 0.16.0 - Astral's fast Python linter - came out a few days ago and increased the number of default-enabled rules from 59 to 413, which highlighted all sorts of problems across my projects (1618 in sqlite-utils alone) simonwillison.net/2026/Jul/25/...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張した…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmks4v72o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmks4v72o</guid>
-      <pubDate>Sat, 25 Jul 2026 21:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張したと発表した。これは春以降3回目の同施設への攻撃で、米国がイランのDarkhovin原子力発電所を攻撃したことを報復と位置づけ、商用クラウドインフラを狙う新たなエスカレーションとして位置づけられている。AmazonやCENTCOMは正式確認していない。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>IRGCは7月21日、バーレーンのAWSデータセンターを巡航ミサイルで攻撃し、破壊を主張したと発表した。これは春以降3回目の同施設への攻撃で、米国がイランのDarkhovin原子力発電所を攻撃したことを報復と位置づけ、商用クラウドインフラを狙う新たなエスカレーションとして位置づけられている。AmazonやCENTCOMは正式確認していない。]]></content:encoded>
-    </item>
-    <item>
-      <title>IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。 IRGC claims it destr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmdmaov2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mritmdmaov2t</guid>
-      <pubDate>Sat, 25 Jul 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[IRGCは、バーレーンにあるアマゾンのデータセンターを破壊したと主張している。<br>IRGC claims it destroyed Amazon's Bahrain data center<br><br>🔺 332<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
