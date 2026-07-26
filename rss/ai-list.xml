@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 14:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:51:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   28.9Mパラメータの言語モデルをESP32-S3（約8ドル）上で動かし、ほぼ全てをフラッシ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkpxptxc22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkpxptxc22c</guid>
+      <pubDate>Sun, 26 Jul 2026 15:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>28.9Mパラメータの言語モデルをESP32-S3（約8ドル）上で動かし、ほぼ全てをフラッシュの大容量表から読み出して、少量ずつ取り出す「Per-Layer Embeddings」方式で実装した。高速メモリは512KBのRAMのみで、推論は端末内完結、1語あたり約450バイトのアクセスで約9.5トークン/秒を実現するが、推論能力は限られ、質問応答やコード生成などの機能は備えていない。実装と結果の詳細はリポジトリのREADMEとRESULTS.mdを参照。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>28.9Mパラメータの言語モデルをESP32-S3（約8ドル）上で動かし、ほぼ全てをフラッシュの大容量表から読み出して、少量ずつ取り出す「Per-Layer Embeddings」方式で実装した。高速メモリは512KBのRAMのみで、推論は端末内完結、1語あたり約450バイトのアクセスで約9.5トークン/秒を実現するが、推論能力は限られ、質問応答やコード生成などの機能は備えていない。実装と結果の詳細はリポジトリのREADMEとRESULTS.mdを参照。]]></content:encoded>
+    </item>
+    <item>
+      <title>8ドルのマイクロコントローラ上で28.9MパラメータのLLMを動かす Running a 28.9M parameter…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkpxicthr2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrkpxicthr2c</guid>
+      <pubDate>Sun, 26 Jul 2026 15:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[8ドルのマイクロコントローラ上で28.9MパラメータのLLMを動かす<br>Running a 28.9M parameter LLM on an $8 microcontroller<br><br>🔺 250<br>💬 18<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[8ドルのマイクロコントローラ上で28.9MパラメータのLLMを動かす<br>Running a 28.9M parameter LLM on an $8 microcontroller<br><br>🔺 250<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   T3 Code is a minimal web GUI for coding agents…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkof53s6d23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkof53s6d23</guid>
+      <pubDate>Sun, 26 Jul 2026 15:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>T3 Code is a minimal web GUI for coding agents (Codex, Claude, Cursor, OpenCode) with CLI and desktop app options, early-stage status, and ongoing documentation. It includes installation steps, run commands, and notes for potential contributors and users.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>T3 Code is a minimal web GUI for coding agents (Codex, Claude, Cursor, OpenCode) with CLI and desktop app options, early-stage status, and ongoing documentation. It includes installation steps, run commands, and notes for potential contributors and users.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 pingdotgg / t3code …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkof2tfsg2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkof2tfsg2z</guid>
+      <pubDate>Sun, 26 Jul 2026 15:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pingdotgg / t3code<br>⭐ 14,920 (+202)<br>🗒 TypeScript]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pingdotgg / t3code<br>⭐ 14,920 (+202)<br>🗒 TypeScript]]></content:encoded>
+    </item>
     <item>
       <title>and an Android Studio build and deployment guide. It emphasi…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrkkzz5mmy2p</link>
@@ -428,42 +464,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 RyanCodrai / turbovec<br>⭐ 14,149 (+89)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></description>
       <content:encoded><![CDATA[📦 RyanCodrai / turbovec<br>⭐ 14,149 (+89)<br>🗒 Python<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></content:encoded>
-    </item>
-    <item>
-      <title>コスト効率を総合的に比較できるよう設計されています。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7sciwe2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7sciwe2d</guid>
-      <pubDate>Sat, 25 Jul 2026 17:44:46 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[コスト効率を総合的に比較できるよう設計されています。 (2/2)]]></description>
-      <content:encoded><![CDATA[コスト効率を総合的に比較できるよう設計されています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Open Weightsの「Artificial Analysis Intelligence…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7s6lgw2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7s6lgw2o</guid>
-      <pubDate>Sat, 25 Jul 2026 17:44:46 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Open Weightsの「Artificial Analysis Intelligence Index v4.1」は、9つの評価項目（GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam、GPQA Diamond、CritPt、AA-Omniscience、AA-LCR）と各評価の実行方法を含む総合指標で、オープン性やコスト、トークン消費、速度、文脈窓などの詳細指標も併せて公開しています。モデルの“賢さ”だけでなく信頼性、オープン性、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Open Weightsの「Artificial Analysis Intelligence Index v4.1」は、9つの評価項目（GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam、GPQA Diamond、CritPt、AA-Omniscience、AA-LCR）と各評価の実行方法を含む総合指標で、オープン性やコスト、トークン消費、速度、文脈窓などの詳細指標も併せて公開しています。モデルの“賢さ”だけでなく信頼性、オープン性、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Opus 5は現在、人工分析知能ランキングの首位です。 Opus 5 is currently #1 on Artifi…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7i2xte2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrig7i2xte2k</guid>
-      <pubDate>Sat, 25 Jul 2026 17:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Opus 5は現在、人工分析知能ランキングの首位です。<br>Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard<br><br>🔺 361<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Opus 5は現在、人工分析知能ランキングの首位です。<br>Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard<br><br>🔺 361<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 andrewyng / aisuite ⭐ 15,127 (+75) 🗒 Python  Simple, uni…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mriemnprjm2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mriemnprjm2l</guid>
-      <pubDate>Sat, 25 Jul 2026 17:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 andrewyng / aisuite<br>⭐ 15,127 (+75)<br>🗒 Python<br><br>Simple, unified interface to multiple Generative AI providers]]></description>
-      <content:encoded><![CDATA[📦 andrewyng / aisuite<br>⭐ 15,127 (+75)<br>🗒 Python<br><br>Simple, unified interface to multiple Generative AI providers]]></content:encoded>
     </item>
   </channel>
 </rss>
