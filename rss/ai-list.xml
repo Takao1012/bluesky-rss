@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:44:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GrapheneOSはAndroidの標準機能と最新のハードウェアセキュリティを活用し、特に…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrle3aaw542k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrle3aaw542k</guid>
+      <pubDate>Sun, 26 Jul 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GrapheneOSはAndroidの標準機能と最新のハードウェアセキュリティを活用し、特にデータ抽出防止と秘密鍵保護を強化している。現在はPixel限定だが、2027年にMotorolaやQualcommとの提携で対応機種拡大を予定。ディスク暗号化、セキュアエレメントのレート制限、 insider攻撃耐性、高度なパスフレーズや2段階認証PIN、ハードウェアメモリタグを使ったエクスプロイト対策、USBの自動拒否・デバイスの自動再起動機能、デュレスPINなど多層的な防御機能を提供している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GrapheneOSはAndroidの標準機能と最新のハードウェアセキュリティを活用し、特にデータ抽出防止と秘密鍵保護を強化している。現在はPixel限定だが、2027年にMotorolaやQualcommとの提携で対応機種拡大を予定。ディスク暗号化、セキュアエレメントのレート制限、 insider攻撃耐性、高度なパスフレーズや2段階認証PIN、ハードウェアメモリタグを使ったエクスプロイト対策、USBの自動拒否・デバイスの自動再起動機能、デュレスPINなど多層的な防御機能を提供している。]]></content:encoded>
+    </item>
+    <item>
+      <title>ロックされたデバイスからのデータ抽出に対するGrapheneOSの保護機能 GrapheneOS protections…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrle32m36g2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrle32m36g2g</guid>
+      <pubDate>Sun, 26 Jul 2026 21:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ロックされたデバイスからのデータ抽出に対するGrapheneOSの保護機能<br>GrapheneOS protections against data extraction from locked devices<br><br>🔺 340<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ロックされたデバイスからのデータ抽出に対するGrapheneOSの保護機能<br>GrapheneOS protections against data extraction from locked devices<br><br>🔺 340<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>GitHub’s Bug Bounty Program is evolving to prioritize high-q…</title>
       <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mrl5xmufkr2u</link>
@@ -441,24 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[オープンウェイトAIはKubernetesの時代を迎えている<br>Open-weight AI is having its Kubernetes moment<br><br>🔺 330<br>💬 32<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[オープンウェイトAIはKubernetesの時代を迎えている<br>Open-weight AI is having its Kubernetes moment<br><br>🔺 330<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 『読者の横顔』　株式会社はてな　コーポレート本部　経理部長　堀内潤一 氏 | ZEIKEN PRESS  🔖 1…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrjgpjgwii2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrjgpjgwii2c</guid>
-      <pubDate>Sun, 26 Jul 2026 03:26:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 『読者の横顔』　株式会社はてな　コーポレート本部　経理部長　堀内潤一 氏 | ZEIKEN PRESS<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 『読者の横顔』　株式会社はてな　コーポレート本部　経理部長　堀内潤一 氏 | ZEIKEN PRESS<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>That one is from this commit github.com/simonw/tools... - I …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrjewixpus2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrjewixpus2y</guid>
-      <pubDate>Sun, 26 Jul 2026 02:54:20 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[That one is from this commit github.com/simonw/tools... - I used it to build tools.simonwillison.net/datasette-io...]]></description>
-      <content:encoded><![CDATA[That one is from this commit github.com/simonw/tools... - I used it to build tools.simonwillison.net/datasette-io...]]></content:encoded>
     </item>
   </channel>
 </rss>
