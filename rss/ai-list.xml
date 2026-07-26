@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 05:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:25:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   記事は、Claude系モデルの運用において過去の「過剰なガードレール」や定型例に頼る文化が問…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrk3u2lquo2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrk3u2lquo2k</guid>
+      <pubDate>Sun, 26 Jul 2026 09:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>記事は、Claude系モデルの運用において過去の「過剰なガードレール」や定型例に頼る文化が問題だったとし、現在は判断力を活かす設計へ移行したことを解説している。具体的には、システムプロンプトの柔軟化、例示より設計重視、 progressive disclosure の活用、ツールの遅延読み込みと memory の自動保存、リファレンスの多様化（HTML artifacts や rubrics など）といった新しいベストプラクティスを紹介している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>記事は、Claude系モデルの運用において過去の「過剰なガードレール」や定型例に頼る文化が問題だったとし、現在は判断力を活かす設計へ移行したことを解説している。具体的には、システムプロンプトの柔軟化、例示より設計重視、 progressive disclosure の活用、ツールの遅延読み込みと memory の自動保存、リファレンスの多様化（HTML artifacts や rubrics など）といった新しいベストプラクティスを紹介している。]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude 5 世代モデル向けの新しい文脈設計規則 The new rules of context engineer…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrk3ttchdm2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrk3ttchdm2b</guid>
+      <pubDate>Sun, 26 Jul 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Claude 5 世代モデル向けの新しい文脈設計規則<br>The new rules of context engineering for Claude 5 generation models<br><br>🔺 326<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Claude 5 世代モデル向けの新しい文脈設計規則<br>The new rules of context engineering for Claude 5 generation models<br><br>🔺 326<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>テイラー・ファームズはホワイトハウスに電話をかけ、シクロスポラのリコールを遅らせようとした。 Taylor Farms …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjv57alkq2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjv57alkq2r</guid>
+      <pubDate>Sun, 26 Jul 2026 07:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[テイラー・ファームズはホワイトハウスに電話をかけ、シクロスポラのリコールを遅らせようとした。<br>Taylor Farms Called White House to Try to Delay Cyclospora Recall<br><br>🔺 319<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[テイラー・ファームズはホワイトハウスに電話をかけ、シクロスポラのリコールを遅らせようとした。<br>Taylor Farms Called White House to Try to Delay Cyclospora Recall<br><br>🔺 319<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   公開記録としての「面接後のゴースティング」を集約・評価するサイトがある。匿名で投稿でき、投稿…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjogsj5bg2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjogsj5bg2w</guid>
+      <pubDate>Sun, 26 Jul 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>公開記録としての「面接後のゴースティング」を集約・評価するサイトがある。匿名で投稿でき、投稿はモデレーターが審査し、正式なレコードとして反映される。各企業のリーダーボードは、モデレーター承認済みの報告のみカウントされ、企業側も訂正依頼が可能。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>公開記録としての「面接後のゴースティング」を集約・評価するサイトがある。匿名で投稿でき、投稿はモデレーターが審査し、正式なレコードとして反映される。各企業のリーダーボードは、モデレーター承認済みの報告のみカウントされ、企業側も訂正依頼が可能。]]></content:encoded>
+    </item>
+    <item>
+      <title>彼らはあなたをゴーストしたの？ Did They Ghost You?  🔺 349 💬 49 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjognmqf62w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrjognmqf62w</guid>
+      <pubDate>Sun, 26 Jul 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[彼らはあなたをゴーストしたの？<br>Did They Ghost You?<br><br>🔺 349<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[彼らはあなたをゴーストしたの？<br>Did They Ghost You?<br><br>🔺 349<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>nvm, confirmed he&apos;s still there!  https://x.com/karpathy/sta…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrjjpqtskk2j</link>
@@ -419,51 +464,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>shiyu-coder/Kronos<br>Kronosは、45以上の世界的な取引所データで学習した、金融ローソク足（K線）向けの初のオープンソース基盤モデルです。<br>OHLCVデータを離散トークンに量子化し、自己回帰Transformerで学習させる手法を用いています。<br>金融データ特有のノイズに対応し、多様な計量分析タスクに活用できる統一モデルの提供を目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>shiyu-coder/Kronos<br>Kronosは、45以上の世界的な取引所データで学習した、金融ローソク足（K線）向けの初のオープンソース基盤モデルです。<br>OHLCVデータを離散トークンに量子化し、自己回帰Transformerで学習させる手法を用いています。<br>金融データ特有のノイズに対応し、多様な計量分析タスクに活用できる統一モデルの提供を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/claude-cookbooks 開発者がClaudeを用いた開発を…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrhta3fnto2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrhta3fnto2k</guid>
-      <pubDate>Sat, 25 Jul 2026 12:04:54 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-cookbooks<br>開発者がClaudeを用いた開発を効率的に行えるよう、実装ガイドやコピーして利用可能なコードスニペットを提供するリポジトリです。<br>ツール利用やマルチモーダル機能などの具体的な活用例を通じて、開発者のプロジェクトへの統合を支援することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-cookbooks<br>開発者がClaudeを用いた開発を効率的に行えるよう、実装ガイドやコピーして利用可能なコードスニペットを提供するリポジトリです。<br>ツール利用やマルチモーダル機能などの具体的な活用例を通じて、開発者のプロジェクトへの統合を支援することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  alibaba/open-code-review OpenCodeReviewはAI搭載の…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrht7mkbrx2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrht7mkbrx2m</guid>
-      <pubDate>Sat, 25 Jul 2026 12:04:39 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewはAI搭載のコードレビュー用CLIツールです。<br>Gitの差分を読み取り、設定したLLMを用いて行レベルで詳細なレビューコメントを生成します。<br>コードベースの検索やファイル全体の把握が可能なため、深いレビューを実現しています。<br>差分がないファイルやディレクトリ全体を監査するスキャン機能も搭載しています。<br>汎用エージェントと比較して精度が高く、トークン消費を抑えながら高速に動作するのが特徴です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewはAI搭載のコードレビュー用CLIツールです。<br>Gitの差分を読み取り、設定したLLMを用いて行レベルで詳細なレビューコメントを生成します。<br>コードベースの検索やファイル全体の把握が可能なため、深いレビューを実現しています。<br>差分がないファイルやディレクトリ全体を監査するスキャン機能も搭載しています。<br>汎用エージェントと比較して精度が高く、トークン消費を抑えながら高速に動作するのが特徴です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  block/buzz Buzzは、人間とAIエージェントが共同で構築を行うためのセルフホス…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrht6xtzek2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrht6xtzek2g</guid>
-      <pubDate>Sat, 25 Jul 2026 12:04:17 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>block/buzz<br>Buzzは、人間とAIエージェントが共同で構築を行うためのセルフホスト可能なワークスペースです。<br>Nostrリレーを基盤としており、全操作を署名付きイベントとして記録します。<br>AIエージェントをボットではなくメンバーとして扱い、人間と同様にコードレビューやリポジトリ操作、ワークフロー実行などが可能な共同作業環境を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>block/buzz<br>Buzzは、人間とAIエージェントが共同で構築を行うためのセルフホスト可能なワークスペースです。<br>Nostrリレーを基盤としており、全操作を署名付きイベントとして記録します。<br>AIエージェントをボットではなくメンバーとして扱い、人間と同様にコードレビューやリポジトリ操作、ワークフロー実行などが可能な共同作業環境を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Opus 5 is a really good model.   Video: https://twitter.com/…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrhu2r3c2m2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrhu2r3c2m2m</guid>
-      <pubDate>Sat, 25 Jul 2026 11:51:50 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Opus 5 is a really good model. <br><br>Video: https://twitter.com/theo/status/2080984364746440851]]></description>
-      <content:encoded><![CDATA[Opus 5 is a really good model. <br><br>Video: https://twitter.com/theo/status/2080984364746440851]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   この記事は、エムダッシュ（—）を強烈に推奨し、語彙や句読法の柔軟さを熱く語る個人の意見レポー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhs3rmlbj2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrhs3rmlbj2c</guid>
-      <pubDate>Sat, 25 Jul 2026 11:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>この記事は、エムダッシュ（—）を強烈に推奨し、語彙や句読法の柔軟さを熱く語る個人の意見レポートです。エムダッシュを用いた表現の利点や、他の句読点との比較、AI生成と人間の区別への揶揄、そして読者の反応を気にせず使うべきだという主張を展開しています。最後に有料の個別指導の案内も付け加えています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>この記事は、エムダッシュ（—）を強烈に推奨し、語彙や句読法の柔軟さを熱く語る個人の意見レポートです。エムダッシュを用いた表現の利点や、他の句読点との比較、AI生成と人間の区別への揶揄、そして読者の反応を気にせず使うべきだという主張を展開しています。最後に有料の個別指導の案内も付け加えています。]]></content:encoded>
     </item>
   </channel>
 </rss>

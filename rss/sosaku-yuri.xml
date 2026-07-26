@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4</link>
     <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 05:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:25:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>酸っぱい匂いがしても好き #創作百合</title>
+      <link>https://bsky.app/profile/did:plc:7lq57q67unzwsgajcwus63dv/post/3mrjo2dajgk27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7lq57q67unzwsgajcwus63dv/post/3mrjo2dajgk27</guid>
+      <pubDate>Sun, 26 Jul 2026 05:37:32 GMT</pubDate>
+      <author>海老沢 (@ebispringneme.bsky.social)</author>
+      <description><![CDATA[酸っぱい匂いがしても好き<br>#創作百合
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7lq57q67unzwsgajcwus63dv/bafkreifio6rn3hqkvhgkqe747pyyt3pxwovfajs5yt5fp2qrf67znvpa2e" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[酸っぱい匂いがしても好き<br>#創作百合
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7lq57q67unzwsgajcwus63dv/bafkreifio6rn3hqkvhgkqe747pyyt3pxwovfajs5yt5fp2qrf67znvpa2e" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7lq57q67unzwsgajcwus63dv/bafkreifio6rn3hqkvhgkqe747pyyt3pxwovfajs5yt5fp2qrf67znvpa2e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>宣言 #創作百合</title>
       <link>https://bsky.app/profile/did:plc:fxga4ta36admfg64yq6ylb6o/post/3mrjfdl2wnc2n</link>
@@ -596,20 +608,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreieoohhwrjhf3mxhdkkbl57upjbowwv6xeex3gzsj5rvmd6svstuf4" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreid3hovyq65lvrugepydv73322tpwq3l7piqe2sbieiurznpq5mtj4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreieoohhwrjhf3mxhdkkbl57upjbowwv6xeex3gzsj5rvmd6svstuf4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>これはふわふわの年下×年上 #創作百合</title>
-      <link>https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mqxheoenyc2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mqxheoenyc2f</guid>
-      <pubDate>Sat, 18 Jul 2026 23:50:08 GMT</pubDate>
-      <author>noda (@eeedeco.bsky.social)</author>
-      <description><![CDATA[これはふわふわの年下×年上<br>#創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihfetq3hmdano2p2ije4ltrkotzybtvnweqe7wwnm2he5vsoxyzyi" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiaopoi454fe72263efxl2cflunszksjuy4iheuahusuvyoqchy63u" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[これはふわふわの年下×年上<br>#創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihfetq3hmdano2p2ije4ltrkotzybtvnweqe7wwnm2he5vsoxyzyi" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreiaopoi454fe72263efxl2cflunszksjuy4iheuahusuvyoqchy63u" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihfetq3hmdano2p2ije4ltrkotzybtvnweqe7wwnm2he5vsoxyzyi" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
