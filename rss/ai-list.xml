@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:28:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   2026年のエルニーニョは史上最強クラスとなる可能性が高く、14モデル・667モンテカルロの…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mropepq2dk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mropepq2dk2t</guid>
+      <pubDate>Tue, 28 Jul 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>2026年のエルニーニョは史上最強クラスとなる可能性が高く、14モデル・667モンテカルロの多モデル予測の中央値は3.6℃に達し、過去最高の2.75℃を大幅に上回る見込みです。モデル間の一致度は高いものの未検証領域であり、実際の記録と比較して不確実性もあるため、結論には慎重さが必要です。全球の気温はこのエルニーニョの影響で2027年にかけて史上最高クラスになる可能性が高い一方、2026年末には2024年を抜く可能性も示唆されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>2026年のエルニーニョは史上最強クラスとなる可能性が高く、14モデル・667モンテカルロの多モデル予測の中央値は3.6℃に達し、過去最高の2.75℃を大幅に上回る見込みです。モデル間の一致度は高いものの未検証領域であり、実際の記録と比較して不確実性もあるため、結論には慎重さが必要です。全球の気温はこのエルニーニョの影響で2027年にかけて史上最高クラスになる可能性が高い一方、2026年末には2024年を抜く可能性も示唆されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>史上最強のエルニーニョ現象 The Strongest El Niño Ever  🔺 282 💬 22 🔗 HN…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mropeguwto2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mropeguwto2d</guid>
+      <pubDate>Tue, 28 Jul 2026 05:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[史上最強のエルニーニョ現象<br>The Strongest El Niño Ever<br><br>🔺 282<br>💬 22<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[史上最強のエルニーニョ現象<br>The Strongest El Niño Ever<br><br>🔺 282<br>💬 22<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 セキュリティ研修【MIXI 26新卒技術研修】  🔖 159 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrokylalhh2s</link>
@@ -447,24 +465,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>amnezia-vpn/amnezia-client<br>Amnezia VPNは、ユーザーが自身のサーバー上にVPNサーバーを構築して運用することを可能にするオープンソースのVPNクライアントです。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>amnezia-vpn/amnezia-client<br>Amnezia VPNは、ユーザーが自身のサーバー上にVPNサーバーを構築して運用することを可能にするオープンソースのVPNクライアントです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-27B-gguf llama.c…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrmwx4vlo52h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrmwx4vlo52h</guid>
-      <pubDate>Mon, 27 Jul 2026 12:54:47 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>llama.cppで動作するTernary Bonsai 27Bモデルの提供を目的としています。<br>Qwen3.6-27Bをベースに重みを3値化することで、FP16形式と比較して約9.4倍の軽量化を実現しつつ、高い推論能力を維持しています。<br>これにより、CUDA、Metal、CPUなどの環境でメモリ消費を抑えた高速なオンデバイス推論を可能にします。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-27B-gguf<br>llama.cppで動作するTernary Bonsai 27Bモデルの提供を目的としています。<br>Qwen3.6-27Bをベースに重みを3値化することで、FP16形式と比較して約9.4倍の軽量化を実現しつつ、高い推論能力を維持しています。<br>これにより、CUDA、Metal、CPUなどの環境でメモリ消費を抑えた高速なオンデバイス推論を可能にします。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Kwaipilot/KAT-Coder-V2.5-Dev KAT-Coder-V…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrmwwkypdr2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrmwwkypdr2v</guid>
-      <pubDate>Mon, 27 Jul 2026 12:54:29 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Kwaipilot/KAT-Coder-V2.5-Dev<br>KAT-Coder-V2.5-Devのモデル重みと設定ファイルを公開するためのリポジトリです。<br>総パラメータ数35B、活性化パラメータ数3BのMOEモデルで、テキスト生成のみに対応しています。<br>研究成果の共有とコミュニティとの連携強化を目的としており、Hugging Face Transformersなどのライブラリで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Kwaipilot/KAT-Coder-V2.5-Dev<br>KAT-Coder-V2.5-Devのモデル重みと設定ファイルを公開するためのリポジトリです。<br>総パラメータ数35B、活性化パラメータ数3BのMOEモデルで、テキスト生成のみに対応しています。<br>研究成果の共有とコミュニティとの連携強化を目的としており、Hugging Face Transformersなどのライブラリで利用可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
