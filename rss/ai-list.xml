@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 21:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:46:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Right now I need unrestricted GPT-6 class models to help me …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrqhs5nfss2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrqhs5nfss2s</guid>
+      <pubDate>Tue, 28 Jul 2026 22:34:13 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Right now I need unrestricted GPT-6 class models to help me secure all of my code!]]></description>
+      <content:encoded><![CDATA[Right now I need unrestricted GPT-6 class models to help me secure all of my code!]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   欧州委員会に対し、オンラインサービス利用時のデジタルIDと年齢確認を「任意・プライバシー保護…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrqezedfgj2b</link>
@@ -447,18 +456,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Thank got for patch package<br><br>I will not make T3 Code (nightly) users wait for gzip<br><br>https://github.com/pingdotgg/t3code/pull/4705]]></description>
       <content:encoded><![CDATA[Thank got for patch package<br><br>I will not make T3 Code (nightly) users wait for gzip<br><br>https://github.com/pingdotgg/t3code/pull/4705]]></content:encoded>
-    </item>
-    <item>
-      <title>Been using Effect for like a week and I&apos;m already filing PRs</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mroy27lnvj23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mroy27lnvj23</guid>
-      <pubDate>Tue, 28 Jul 2026 07:33:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Been using Effect for like a week and I'm already filing PRs
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkbb6olndoktrxl6b4d2q77uyn2y5brt32t22ae4klgpgjhlnidi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Been using Effect for like a week and I'm already filing PRs
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkbb6olndoktrxl6b4d2q77uyn2y5brt32t22ae4klgpgjhlnidi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkbb6olndoktrxl6b4d2q77uyn2y5brt32t22ae4klgpgjhlnidi" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
