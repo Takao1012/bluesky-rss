@@ -5,8 +5,107 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:52:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>includes installation, usage, tests, and benchmarking guidan…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq62sqo23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq62sqo23</guid>
+      <pubDate>Wed, 29 Jul 2026 12:16:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[includes installation, usage, tests, and benchmarking guidance. (2/2)]]></description>
+      <content:encoded><![CDATA[includes installation, usage, tests, and benchmarking guidance. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   FlashKDA provides high-performance KDA kernels…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq5zm262n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq5zm262n</guid>
+      <pubDate>Wed, 29 Jul 2026 12:16:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>FlashKDA provides high-performance KDA kernels for Flash Kimi Delta Attention built on CUTLASS, requiring SM90+, CUDA 12.9+, and PyTorch 2.4+. It integrates as an FLA backend via flash-linear-attention, with a fwd API for bf16 inputs (K=V=128) and optional recurrent states, and (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>FlashKDA provides high-performance KDA kernels for Flash Kimi Delta Attention built on CUTLASS, requiring SM90+, CUDA 12.9+, and PyTorch 2.4+. It integrates as an FLA backend via flash-linear-attention, with a fwd API for bf16 inputs (K=V=128) and optional recurrent states, and (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 MoonshotAI / FlashK…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq2w7yo23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrvq2w7yo23</guid>
+      <pubDate>Wed, 29 Jul 2026 12:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MoonshotAI / FlashKDA<br>⭐ 893 (+216)<br>🗒 Cuda<br><br>FlashKDA: high-performance Kimi Delta Attention kernels]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MoonshotAI / FlashKDA<br>⭐ 893 (+216)<br>🗒 Cuda<br><br>FlashKDA: high-performance Kimi Delta Attention kernels]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期的なタスク向けに開発された…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrruto7ylv2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrruto7ylv2m</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:23 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラグシップモデルです。<br>100万トークンのコンテキストウィンドウを実現し、前モデルのGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスク向けに開発された最新のフラグシップモデルです。<br>100万トークンのコンテキストウィンドウを実現し、前モデルのGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  owensong/Inflect-Micro-v2 1000万パラメータ未満の軽…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrut5gy3x2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrut5gy3x2v</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:05 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満の軽量なテキスト読み上げ（TTS）モデル、Inflect-Micro-v2を提供することを目的としています。<br>ローカル環境で動作し、固定音声による英語合成、長文対応、CPUおよびCUDAでの推論が可能です。<br>また、音声や言語を適応させるためのツールキットも含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満の軽量なテキスト読み上げ（TTS）モデル、Inflect-Micro-v2を提供することを目的としています。<br>ローカル環境で動作し、固定音声による英語合成、長文対応、CPUおよびCUDAでの推論が可能です。<br>また、音声や言語を適応させるためのツールキットも含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Kwaipilot/KAT-Coder-V2.5-Dev KAT-Coder-V…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrurxgrxg23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrurxgrxg23</guid>
+      <pubDate>Wed, 29 Jul 2026 11:59:25 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Kwaipilot/KAT-Coder-V2.5-Dev<br>KAT-Coder-V2.5-Devのモデルウェイトと設定ファイルを公開するリポジトリです。<br>コミュニティへの還元と研究成果の提示を目的としており、合計35Bパラメータ（活性化3B）のMOE形式のテキスト専用コーディングモデルを提供しています。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Kwaipilot/KAT-Coder-V2.5-Dev<br>KAT-Coder-V2.5-Devのモデルウェイトと設定ファイルを公開するリポジトリです。<br>コミュニティへの還元と研究成果の提示を目的としており、合計35Bパラメータ（活性化3B）のMOE形式のテキスト専用コーディングモデルを提供しています。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  upstage/Solar-Open2-250B Solar Open 2は、U…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrurgirbk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrrurgirbk2s</guid>
+      <pubDate>Wed, 29 Jul 2026 11:59:07 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>upstage/Solar-Open2-250B<br>Solar Open 2は、Upstageが提供するオープンウェイトの大規模言語モデルです。<br>オフィス業務の効率化、文書集約的な作業、コーディングなどのエージェント的な利用を目的として開発されました。<br>Hybrid-Attention MoEアーキテクチャにより、長いコンテキストでも効率的な推論を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>upstage/Solar-Open2-250B<br>Solar Open 2は、Upstageが提供するオープンウェイトの大規模言語モデルです。<br>オフィス業務の効率化、文書集約的な作業、コーディングなどのエージェント的な利用を目的として開発されました。<br>Hybrid-Attention MoEアーキテクチャにより、長いコンテキストでも効率的な推論を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrruqw7kvk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrruqw7kvk2t</guid>
+      <pubDate>Wed, 29 Jul 2026 11:58:50 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>Qwen 3.6 27Bをベースにした高性能なファインチューニングモデルの提供が目的です。<br>指示追従能力と問題解決能力の向上を重視し、消費者向けハードウェアで構築されています。<br>4ビットおよび8ビット量子化の両方でARC-Cベンチマーク700点超を達成し、クローズドソースモデルに匹敵する知能レベルを実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>Qwen 3.6 27Bをベースにした高性能なファインチューニングモデルの提供が目的です。<br>指示追従能力と問題解決能力の向上を重視し、消費者向けハードウェアで構築されています。<br>4ビットおよび8ビット量子化の両方でARC-Cベンチマーク700点超を達成し、クローズドソースモデルに匹敵する知能レベルを実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   遅読・遅報を特徴とする「Delayed Gratification」は、情報をじっくり深掘り…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrrtxh6orj2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrrtxh6orj2c</guid>
+      <pubDate>Wed, 29 Jul 2026 11:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>遅読・遅報を特徴とする「Delayed Gratification」は、情報をじっくり深掘りして前3か月を振り返る長くて知的なジャーナリズムであり、24時間ニュースの流れに対する反動として高く評価されている。読者には情報量が豊富で慎重に考察する内容と、独創性・品質・インスピレーションを提供する三部作として紹介されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>遅読・遅報を特徴とする「Delayed Gratification」は、情報をじっくり深掘りして前3か月を振り返る長くて知的なジャーナリズムであり、24時間ニュースの流れに対する反動として高く評価されている。読者には情報量が豊富で慎重に考察する内容と、独創性・品質・インスピレーションを提供する三部作として紹介されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>遅延満足感 — 最新ニュースを最も遅く伝えることを誇りに思う Delayed Gratification – Proud…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrrtx73zpr2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrrtx73zpr2b</guid>
+      <pubDate>Wed, 29 Jul 2026 11:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[遅延満足感 — 最新ニュースを最も遅く伝えることを誇りに思う<br>Delayed Gratification – Proud to Be 'Last to Breaking News'<br><br>🔺 306<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[遅延満足感 — 最新ニュースを最も遅く伝えることを誇りに思う<br>Delayed Gratification – Proud to Be 'Last to Breaking News'<br><br>🔺 306<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから - Impress Watc…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrrplekl7k24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrrplekl7k24</guid>
+      <pubDate>Wed, 29 Jul 2026 10:26:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから - Impress Watch<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから - Impress Watch<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   HNewhereは、任意の記事にHacker Newsの議論をサイドバーとして表示する軽量な…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrrnb7sco62t</link>
@@ -363,108 +462,6 @@
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[Right now I need unrestricted GPT-6 class models to help me secure all of my code!]]></description>
       <content:encoded><![CDATA[Right now I need unrestricted GPT-6 class models to help me secure all of my code!]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   欧州委員会に対し、オンラインサービス利用時のデジタルIDと年齢確認を「任意・プライバシー保護…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrqezedfgj2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrqezedfgj2b</guid>
-      <pubDate>Tue, 28 Jul 2026 21:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>欧州委員会に対し、オンラインサービス利用時のデジタルIDと年齢確認を「任意・プライバシー保護・差別なし」に保つ法案の提案を求める市民イニシアチブの情報。法案には、匿名またはニセネームの年齢証明、データ最小化、公開監査可能な暗号プロトコル、横断サービス追跡の禁止、オープン標準の必須化、及びデジタル wallet を使わない同等の代替手段の保証などが盛り込まれるべきとしています。代表者・構成員の氏名・連絡先や資金源の情報も含まれています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>欧州委員会に対し、オンラインサービス利用時のデジタルIDと年齢確認を「任意・プライバシー保護・差別なし」に保つ法案の提案を求める市民イニシアチブの情報。法案には、匿名またはニセネームの年齢証明、データ最小化、公開監査可能な暗号プロトコル、横断サービス追跡の禁止、オープン標準の必須化、及びデジタル wallet を使わない同等の代替手段の保証などが盛り込まれるべきとしています。代表者・構成員の氏名・連絡先や資金源の情報も含まれています。]]></content:encoded>
-    </item>
-    <item>
-      <title>インターネットを殺さないで: デジタルID不要、年齢認証不要 Stop Killing the Internet: No…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrqez4vtnd2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrqez4vtnd2o</guid>
-      <pubDate>Tue, 28 Jul 2026 21:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[インターネットを殺さないで: デジタルID不要、年齢認証不要<br>Stop Killing the Internet: No Digital ID and No Age Verification<br><br>🔺 424<br>💬 24<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[インターネットを殺さないで: デジタルID不要、年齢認証不要<br>Stop Killing the Internet: No Digital ID and No Age Verification<br><br>🔺 424<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugging Face just published a highly detailed technical acco…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrqeabti3s2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrqeabti3s2y</guid>
-      <pubDate>Tue, 28 Jul 2026 21:30:33 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Hugging Face just published a highly detailed technical account of OpenAI's accidental cyberattack on their systems - it's wild how sophisticated this was: huggingface.co/blog/agent-i...<br><br>Wrote up some of my own notes here: simonwillison.net/2026/Jul/28/...]]></description>
-      <content:encoded><![CDATA[Hugging Face just published a highly detailed technical account of OpenAI's accidental cyberattack on their systems - it's wild how sophisticated this was: huggingface.co/blog/agent-i...<br><br>Wrote up some of my own notes here: simonwillison.net/2026/Jul/28/...]]></content:encoded>
-    </item>
-    <item>
-      <title>Reduced the amount of data loaded in T3 Code by over 50x.  L…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrql6busju2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrql6busju2p</guid>
-      <pubDate>Tue, 28 Jul 2026 21:26:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Reduced the amount of data loaded in T3 Code by over 50x.<br><br>Loading a thread now requires ~2% as much data as it previously needed. Feels great on mobile especially :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2slvytsv247uznfbzlsop4yuv43w2y6m52rhy3pxsrvb6h6cqta" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Reduced the amount of data loaded in T3 Code by over 50x.<br><br>Loading a thread now requires ~2% as much data as it previously needed. Feels great on mobile especially :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2slvytsv247uznfbzlsop4yuv43w2y6m52rhy3pxsrvb6h6cqta" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2slvytsv247uznfbzlsop4yuv43w2y6m52rhy3pxsrvb6h6cqta" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」  🔖 163 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrqdyhgewl24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrqdyhgewl24</guid>
-      <pubDate>Tue, 28 Jul 2026 21:26:10 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Once a good plan exists, the model that builds it moves the …</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd7742g62w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd7742g62w</guid>
-      <pubDate>Tue, 28 Jul 2026 21:12:02 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[Once a good plan exists, the model that builds it moves the cost far more than the result.<br><br>blog.kilo.ai/p/auto-model...]]></description>
-      <content:encoded><![CDATA[Once a good plan exists, the model that builds it moves the cost far more than the result.<br><br>blog.kilo.ai/p/auto-model...]]></content:encoded>
-    </item>
-    <item>
-      <title>All three built the same working service, but Kilo&apos;s Auto Mo…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd767pc32e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd767pc32e</guid>
-      <pubDate>Tue, 28 Jul 2026 21:12:01 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[All three built the same working service, but Kilo's Auto Model built it for less than half the cost:<br><br>- Auto Model (frontier plan → efficient build): $1.26<br>- GPT-5.6 Sol everywhere: $2.90<br>- Claude Sonnet 5 everywhere: $2.47]]></description>
-      <content:encoded><![CDATA[All three built the same working service, but Kilo's Auto Model built it for less than half the cost:<br><br>- Auto Model (frontier plan → efficient build): $1.26<br>- GPT-5.6 Sol everywhere: $2.90<br>- Claude Sonnet 5 everywhere: $2.47]]></content:encoded>
-    </item>
-    <item>
-      <title>We keep arriving at the same conclusion in these experiments…</title>
-      <link>https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd75vp2h2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ql4fo6phig6w7andme7ug72/post/3mrqd75vp2h2x</guid>
-      <pubDate>Tue, 28 Jul 2026 21:12:01 GMT</pubDate>
-      <author>Kilo (@kilocode.ai)</author>
-      <description><![CDATA[We keep arriving at the same conclusion in these experiments: you don't need the most expensive model for every step of your workflow. So we tested whether Kilo Code's Auto Model router could act on that better than picking models by hand.]]></description>
-      <content:encoded><![CDATA[We keep arriving at the same conclusion in these experiments: you don't need the most expensive model for every step of your workflow. So we tested whether Kilo Code's Auto Model router could act on that better than picking models by hand.]]></content:encoded>
-    </item>
-    <item>
-      <title>I donated a lot of money to Codeberg. Now they&apos;re banning AI…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrqdndjl672p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrqdndjl672p</guid>
-      <pubDate>Tue, 28 Jul 2026 21:08:05 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I donated a lot of money to Codeberg. Now they're banning AI code from the platform entirely. I'm not very happy about it. <br><br>Video: https://twitter.com/theo/status/2082211514887569491]]></description>
-      <content:encoded><![CDATA[I donated a lot of money to Codeberg. Now they're banning AI code from the platform entirely. I'm not very happy about it. <br><br>Video: https://twitter.com/theo/status/2082211514887569491]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Openソースの opencode を自分の推論エンドポイントに設定してみた感想を述べている…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrq6cngnlg2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrq6cngnlg2w</guid>
-      <pubDate>Tue, 28 Jul 2026 19:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Openソースの opencode を自分の推論エンドポイントに設定してみた感想を述べている。自分のデータを自分の環境内で完結させられる自由さと所有感が得られ、他プロバイダへの縛りが解けて「解放感」を感じたという体験を、短く表現している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Openソースの opencode を自分の推論エンドポイントに設定してみた感想を述べている。自分のデータを自分の環境内で完結させられる自由さと所有感が得られ、他プロバイダへの縛りが解けて「解放感」を感じたという体験を、短く表現している。]]></content:encoded>
-    </item>
-    <item>
-      <title>オープンソースのモデルを使うのは、意外といい感じだ。 Using an open model feels surpris…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrq6cibyue2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrq6cibyue2t</guid>
-      <pubDate>Tue, 28 Jul 2026 19:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[オープンソースのモデルを使うのは、意外といい感じだ。<br>Using an open model feels surprisingly good<br><br>🔺 308<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[オープンソースのモデルを使うのは、意外といい感じだ。<br>Using an open model feels surprisingly good<br><br>🔺 308<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
