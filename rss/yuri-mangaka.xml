@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:01:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>水彩＋色鉛筆で再挑戦🍊</title>
+      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mrrzwsahq225</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mrrzwsahq225</guid>
+      <pubDate>Wed, 29 Jul 2026 13:31:36 GMT</pubDate>
+      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
+      <description><![CDATA[水彩＋色鉛筆で再挑戦🍊
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreicgwyfuuy527l6qjaxkuhqaus4qdeygytpztadjz7chkkqm76agwa" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[水彩＋色鉛筆で再挑戦🍊
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreicgwyfuuy527l6qjaxkuhqaus4qdeygytpztadjz7chkkqm76agwa" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreicgwyfuuy527l6qjaxkuhqaus4qdeygytpztadjz7chkkqm76agwa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>今日はもう終わったよ！！🍛</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrrsnop3hk25</link>
@@ -518,15 +530,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[6時起き固定できるように頑張ろう]]></description>
       <content:encoded><![CDATA[6時起き固定できるように頑張ろう]]></content:encoded>
-    </item>
-    <item>
-      <title>久々にまとめて寝たっっっ</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrnsnzegrk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrnsnzegrk2n</guid>
-      <pubDate>Mon, 27 Jul 2026 21:10:47 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[久々にまとめて寝たっっっ]]></description>
-      <content:encoded><![CDATA[久々にまとめて寝たっっっ]]></content:encoded>
     </item>
   </channel>
 </rss>
