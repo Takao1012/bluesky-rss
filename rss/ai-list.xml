@@ -5,8 +5,101 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 01:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:24:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab  🔖…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrtsn256jh25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrtsn256jh25</guid>
+      <pubDate>Thu, 30 Jul 2026 06:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>完全な対策には根本的な設計改善と研究が必要であると結論づけている。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqcfbdh22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqcfbdh22c</guid>
+      <pubDate>Thu, 30 Jul 2026 05:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[完全な対策には根本的な設計改善と研究が必要であると結論づけている。 (2/2)]]></description>
+      <content:encoded><![CDATA[完全な対策には根本的な設計改善と研究が必要であると結論づけている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - 本報告は、MicrosoftとMSRCとの協調 disclosure のもと、Copil…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqcf5p652t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqcf5p652t</guid>
+      <pubDate>Thu, 30 Jul 2026 05:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 本報告は、MicrosoftとMSRCとの協調 disclosure のもと、Copilot for Word のXPIA（クロスドメイン prompting 攻撃）と、それが文書のワークフローを横断して自己伝播するAIワームに拡大する事例を提示している。  <br>- 攻撃者が外部文書に潜ませた指示がCopilotに取り込まれ、下流の文書にも同様の改変を繰り返し、信頼済みドキュメントの中で自己伝播することで検知・追跡を困難にする。  <br>- Microsoft は修正を適用したものの、根本的な脆弱性クラスは依然として存在し、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 本報告は、MicrosoftとMSRCとの協調 disclosure のもと、Copilot for Word のXPIA（クロスドメイン prompting 攻撃）と、それが文書のワークフローを横断して自己伝播するAIワームに拡大する事例を提示している。  <br>- 攻撃者が外部文書に潜ませた指示がCopilotに取り込まれ、下流の文書にも同様の改変を繰り返し、信頼済みドキュメントの中で自己伝播することで検知・追跡を困難にする。  <br>- Microsoft は修正を適用したものの、根本的な脆弱性クラスは依然として存在し、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>文書に宿るAIワームは、Word用Copilotを介して自己伝播できる Document-borne AI worms …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqc7ndok2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtqc7ndok2c</guid>
+      <pubDate>Thu, 30 Jul 2026 05:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[文書に宿るAIワームは、Word用Copilotを介して自己伝播できる<br>Document-borne AI worms can self-propagate through Copilot for Word<br><br>🔺 358<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[文書に宿るAIワームは、Word用Copilotを介して自己伝播できる<br>Document-borne AI worms can self-propagate through Copilot for Word<br><br>🔺 358<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>You&apos;ll never guess what this is a reply to</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrto3kbnlm2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrto3kbnlm2m</guid>
+      <pubDate>Thu, 30 Jul 2026 04:59:03 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[You'll never guess what this is a reply to
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifzcdpes75ttqrflldl6kweoz43mkbb3nejyrfpefczfzvgutehkm" alt="Quote Tweet: https://twitter.com/i/status/2082242258791989404" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[You'll never guess what this is a reply to
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifzcdpes75ttqrflldl6kweoz43mkbb3nejyrfpefczfzvgutehkm" alt="Quote Tweet: https://twitter.com/i/status/2082242258791989404" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifzcdpes75ttqrflldl6kweoz43mkbb3nejyrfpefczfzvgutehkm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>It takes me around 1 full workday to get through 100% of my …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrto3a6vqt2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrto3a6vqt2p</guid>
+      <pubDate>Thu, 30 Jul 2026 04:57:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[It takes me around 1 full workday to get through 100% of my Fable weekly limit on the $200 Claude Code sub]]></description>
+      <content:encoded><![CDATA[It takes me around 1 full workday to get through 100% of my Fable weekly limit on the $200 Claude Code sub]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Kimi Codeは現在Kimi K3とKimi K2.7 Codeの2モデルを提供しており…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtjlzofpt2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtjlzofpt2c</guid>
+      <pubDate>Thu, 30 Jul 2026 03:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Kimi Codeは現在Kimi K3とKimi K2.7 Codeの2モデルを提供しており、モデルIDで切替可能。主な違いはK3-256kの256K文脈対応とK3（1M）の高容量、並びに能力・速度・利用プランが異なるため、モデル切替時はセッションを新規開始して文脈再充填を行うことが推奨される。対応方法は公式クライアント、VS Code拡張、第三者ツールで異なり、モデルIDを正しく設定して切替える。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Kimi Codeは現在Kimi K3とKimi K2.7 Codeの2モデルを提供しており、モデルIDで切替可能。主な違いはK3-256kの256K文脈対応とK3（1M）の高容量、並びに能力・速度・利用プランが異なるため、モデル切替時はセッションを新規開始して文脈再充填を行うことが推奨される。対応方法は公式クライアント、VS Code拡張、第三者ツールで異なり、モデルIDを正しく設定して切替える。]]></content:encoded>
+    </item>
+    <item>
+      <title>キミ K3-256k Kimi K3-256k  🔺 364 💬 25 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtjltokq52f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtjltokq52f</guid>
+      <pubDate>Thu, 30 Jul 2026 03:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[キミ K3-256k<br>Kimi K3-256k<br><br>🔺 364<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[キミ K3-256k<br>Kimi K3-256k<br><br>🔺 364<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:    Vision Proを使って自宅設計を3D体験化する方法を紹介。3Dモデリングと家具データ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtcvbdn5u2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtcvbdn5u2c</guid>
+      <pubDate>Thu, 30 Jul 2026 01:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br> Vision Proを使って自宅設計を3D体験化する方法を紹介。3Dモデリングと家具データの取り込み、USDZ形式の活用、独自のVIBE系ビューアProspectorを開発して現実感ある歩行・視点移動を実現し、最終的に設計決定を効率化できると述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br> Vision Proを使って自宅設計を3D体験化する方法を紹介。3Dモデリングと家具データの取り込み、USDZ形式の活用、独自のVIBE系ビューアProspectorを開発して現実感ある歩行・視点移動を実現し、最終的に設計決定を効率化できると述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Vision Pro の最もクールな使い道 The coolest use for the Vision Pro  🔺…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtcv4lpzg2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrtcv4lpzg2y</guid>
+      <pubDate>Thu, 30 Jul 2026 01:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Vision Pro の最もクールな使い道<br>The coolest use for the Vision Pro<br><br>🔺 385<br>💬 56<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Vision Pro の最もクールな使い道<br>The coolest use for the Vision Pro<br><br>🔺 385<br>💬 56<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>30,000 weekly actives as well 🤯 I have a feeling the recent…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrt66hmp4b2c</link>
@@ -384,96 +477,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[KOReader<br>KOReader<br><br>🔺 419<br>💬 49<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[KOReader<br>KOReader<br><br>🔺 419<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 川重の乗れる多脚ロボット「コルレオ」　開発は仮想空間とフィジカルAI活用  🔖 162 ブックマーク 💬 コメ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrsadwgraf2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrsadwgraf2x</guid>
-      <pubDate>Wed, 29 Jul 2026 15:26:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 川重の乗れる多脚ロボット「コルレオ」　開発は仮想空間とフィジカルAI活用<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 川重の乗れる多脚ロボット「コルレオ」　開発は仮想空間とフィジカルAI活用<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>etc.). The doc outlines installation options, per-harness gu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7wffid72u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7wffid72u</guid>
-      <pubDate>Wed, 29 Jul 2026 15:18:38 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[etc.). The doc outlines installation options, per-harness guides, memory and MCP tooling, and the new Plan Canvas release in ECC 2.1. (2/2)]]></description>
-      <content:encoded><![CDATA[etc.). The doc outlines installation options, per-harness guides, memory and MCP tooling, and the new Plan Canvas release in ECC 2.1. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   ECC is an open-source agent-harness system tha…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7voycfv2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7voycfv2g</guid>
-      <pubDate>Wed, 29 Jul 2026 15:18:05 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>ECC is an open-source agent-harness system that provides a planning, testing, review, memory, and security framework for AI agents, offering 67 agents, 281 skills, and 94 commands to orchestrate complex workflows across multiple harnesses (Claude Code, Codex, Cursor, OpenCode, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an open-source agent-harness system that provides a planning, testing, review, memory, and security framework for AI agents, offering 67 agents, 281 skills, and 94 commands to orchestrate complex workflows across multiple harnesses (Claude Code, Codex, Cursor, OpenCode, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 affaan-m / ECC ⭐ 235…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7tclvpe2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs7tclvpe2t</guid>
-      <pubDate>Wed, 29 Jul 2026 15:16:58 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 235,235 (+860)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 235,235 (+860)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
-    </item>
-    <item>
-      <title>and diffusion-based generation. It includes edge/inference t…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gqeb3d2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gqeb3d2p</guid>
-      <pubDate>Wed, 29 Jul 2026 14:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[and diffusion-based generation. It includes edge/inference tools, multilingual support, and ongoing releases with emphasis on responsible use. (2/2)]]></description>
-      <content:encoded><![CDATA[and diffusion-based generation. It includes edge/inference tools, multilingual support, and ongoing releases with emphasis on responsible use. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   VibeVoice is an open-source suite of frontier …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gqd2722u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gqd2722u</guid>
-      <pubDate>Wed, 29 Jul 2026 14:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>VibeVoice is an open-source suite of frontier voice AI models (ASR, TTS, and streaming TTS) featuring long-form, multi-speaker capabilities, 60-minute ASR transcriptions with Who/When/What outputs, and 90-minute TTS across up to 4 speakers, all powered by low-frame-rate tokenizers (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>VibeVoice is an open-source suite of frontier voice AI models (ASR, TTS, and streaming TTS) featuring long-form, multi-speaker capabilities, 60-minute ASR transcriptions with Who/When/What outputs, and 90-minute TTS across up to 4 speakers, all powered by low-frame-rate tokenizers (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 microsoft / VibeVoi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gmz4ts2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrs4gmz4ts2t</guid>
-      <pubDate>Wed, 29 Jul 2026 14:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 microsoft / VibeVoice<br>⭐ 51,061 (+332)<br>🗒 Python<br><br>Open-Source Frontier Voice AI]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 microsoft / VibeVoice<br>⭐ 51,061 (+332)<br>🗒 Python<br><br>Open-Source Frontier Voice AI]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   DeltaNet系の線形アテンションの要点を、段階的に整理した記事です。従来のソフトマックス…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrs2o6gjbt2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrs2o6gjbt2d</guid>
-      <pubDate>Wed, 29 Jul 2026 13:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>DeltaNet系の線形アテンションの要点を、段階的に整理した記事です。従来のソフトマックス付き注意を、計算を分解して「書く」「読む」「忘れる」動作に分解し、デルタルールによる誤差補正とキーごとのチャネル別忘却を組み合わせることで、記憶更新を局所化・低ランク近似化して効率化する流れを詳述しています。最終的にはKimi Delta Attention（KDA）へと至り、Diagonally-Plus-Low-Rankの更新形式とチャネルごとの忘却を用いた実装戦略が解説されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>DeltaNet系の線形アテンションの要点を、段階的に整理した記事です。従来のソフトマックス付き注意を、計算を分解して「書く」「読む」「忘れる」動作に分解し、デルタルールによる誤差補正とキーごとのチャネル別忘却を組み合わせることで、記憶更新を局所化・低ランク近似化して効率化する流れを詳述しています。最終的にはKimi Delta Attention（KDA）へと至り、Diagonally-Plus-Low-Rankの更新形式とチャネルごとの忘却を用いた実装戦略が解説されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>DeltaNetファミリーの線形アテンション変種を詳しく解説 A walk through of the DeltaNe…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrs2ntnvqd2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrs2ntnvqd2r</guid>
-      <pubDate>Wed, 29 Jul 2026 13:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[DeltaNetファミリーの線形アテンション変種を詳しく解説<br>A walk through of the DeltaNet family of linear attention variants<br><br>🔺 292<br>💬 33<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[DeltaNetファミリーの線形アテンション変種を詳しく解説<br>A walk through of the DeltaNet family of linear attention variants<br><br>🔺 292<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 different-ai / openwork ⭐ 17,436 (+58) 🗒 TypeScript  The…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrz374mkb26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrrz374mkb26</guid>
-      <pubDate>Wed, 29 Jul 2026 13:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 different-ai / openwork<br>⭐ 17,436 (+58)<br>🗒 TypeScript<br><br>The open-source alternative to Claude Cowork (powered by opencode)]]></description>
-      <content:encoded><![CDATA[📦 different-ai / openwork<br>⭐ 17,436 (+58)<br>🗒 TypeScript<br><br>The open-source alternative to Claude Cowork (powered by opencode)]]></content:encoded>
     </item>
   </channel>
 </rss>
