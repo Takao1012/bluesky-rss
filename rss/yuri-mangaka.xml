@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 21:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:46:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>寝る前に食べた焼きそばで胃もたれ〜〜〜？と思ってたけど起きて動いてるうちに整ってきた 気がするっ</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrxzd7qkd226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrxzd7qkd226</guid>
+      <pubDate>Fri, 31 Jul 2026 22:36:38 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[寝る前に食べた焼きそばで胃もたれ〜〜〜？と思ってたけど起きて動いてるうちに整ってきた 気がするっ]]></description>
+      <content:encoded><![CDATA[寝る前に食べた焼きそばで胃もたれ〜〜〜？と思ってたけど起きて動いてるうちに整ってきた 気がするっ]]></content:encoded>
+    </item>
     <item>
       <title>ci-en.net/creator/1363... 支援者さんむけに更新しました✒️</title>
       <link>https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3mrxk4igyu22b</link>
@@ -474,18 +483,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[どうしよ　なんかぼんやり]]></description>
       <content:encoded><![CDATA[どうしよ　なんかぼんやり]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mrtap23ww22s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mrtap23ww22s</guid>
-      <pubDate>Thu, 30 Jul 2026 01:05:12 GMT</pubDate>
-      <author>ゆあま (@yuam7523.bsky.social)</author>
-      <description><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:254pwqyrxfbjg2isxse7nf7v/bafkreiame2mbrf5dn5ezyfvbnexfpj5anztn7f6zub2nbnidzrboewgmne" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:254pwqyrxfbjg2isxse7nf7v/bafkreiame2mbrf5dn5ezyfvbnexfpj5anztn7f6zub2nbnidzrboewgmne" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:254pwqyrxfbjg2isxse7nf7v/bafkreiame2mbrf5dn5ezyfvbnexfpj5anztn7f6zub2nbnidzrboewgmne" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

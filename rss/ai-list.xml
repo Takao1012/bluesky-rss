@@ -5,8 +5,75 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 21:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:46:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>On of the hardest parts of the project was figuring out the …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxy6vyhkk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxy6vyhkk2o</guid>
+      <pubDate>Fri, 31 Jul 2026 22:16:20 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[On of the hardest parts of the project was figuring out the vocabulary! Here's what I settled on
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihxsynbhpmmxjn6y4s2fmnrtnxfbzd2lwxdux73c3noqytlhwh2ia" alt="An eval is a collection of challenges designed to answer a question about a model, for example, how good is that model at generating SVGs?
+Each eval is a collection of tasks. A task is a specific challenge, for example "Generate an SVG of a pelican riding a bicycle".
+When you run the eval you do so against one or more configs. Each config specifies a model to be evaluated, but may also include other parameters to test, such as different system prompts, model parameters, or agent harnesses.
+A run records what happened when a specific config was used to execute a specific task. A runner is the script that executes a run.
+Once you have collected one or more runs, you need to evaluate the results to see how well the model (or config) did. This is done by a grader, which produces a grade.
+Each grader runs a sequence of checks. These can be simple operations, like checking for a specific string in the output, or confirming that the output is valid XML. They can also be more complicated custom operations (implemented as scripts called checkers), including using other models to answer questions about the run." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[On of the hardest parts of the project was figuring out the vocabulary! Here's what I settled on
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihxsynbhpmmxjn6y4s2fmnrtnxfbzd2lwxdux73c3noqytlhwh2ia" alt="An eval is a collection of challenges designed to answer a question about a model, for example, how good is that model at generating SVGs?
+Each eval is a collection of tasks. A task is a specific challenge, for example "Generate an SVG of a pelican riding a bicycle".
+When you run the eval you do so against one or more configs. Each config specifies a model to be evaluated, but may also include other parameters to test, such as different system prompts, model parameters, or agent harnesses.
+A run records what happened when a specific config was used to execute a specific task. A runner is the script that executes a run.
+Once you have collected one or more runs, you need to evaluate the results to see how well the model (or config) did. This is done by a grader, which produces a grade.
+Each grader runs a sequence of checks. These can be simple operations, like checking for a specific string in the output, or confirming that the output is valid XML. They can also be more complicated custom operations (implemented as scripts called checkers), including using other models to answer questions about the run." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihxsynbhpmmxjn6y4s2fmnrtnxfbzd2lwxdux73c3noqytlhwh2ia" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>It lets you define multiple graders for a project precisely …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxxxyhnr22o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxxxyhnr22o</guid>
+      <pubDate>Fri, 31 Jul 2026 22:12:27 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[It lets you define multiple graders for a project precisely for that reason - it means you can continue to iterate on the graders long after you record the initial evaluation runs]]></description>
+      <content:encoded><![CDATA[It lets you define multiple graders for a project precisely for that reason - it means you can continue to iterate on the graders long after you record the initial evaluation runs]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;m on Oxide and Friends podcast this week!  We talked about…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxxwdfhxk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxxwdfhxk2o</guid>
+      <pubDate>Fri, 31 Jul 2026 22:11:32 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I'm on Oxide and Friends podcast this week!<br><br>We talked about accidental cyberattacks, Kimi K3, Golden Gate Claude, Zizians, Alameda wild turkey attacks, Soviet Marburg virus research, the Lead-crime hypothesis, and a bunch of other worthy digressions oxide-and-friends.transistor.fm/episodes/the...]]></description>
+      <content:encoded><![CDATA[I'm on Oxide and Friends podcast this week!<br><br>We talked about accidental cyberattacks, Kimi K3, Golden Gate Claude, Zizians, Alameda wild turkey attacks, Soviet Marburg virus research, the Lead-crime hypothesis, and a bunch of other worthy digressions oxide-and-friends.transistor.fm/episodes/the...]]></content:encoded>
+    </item>
+    <item>
+      <title>Here&apos;s an example of the kind of report it can produce havin…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxx2twmoc25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxx2twmoc25</guid>
+      <pubDate>Fri, 31 Jul 2026 21:56:09 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Here's an example of the kind of report it can produce having run and graded an evaluation suite against different models static.simonwillison.net/static/2026/...]]></description>
+      <content:encoded><![CDATA[Here's an example of the kind of report it can produce having run and graded an evaluation suite against different models static.simonwillison.net/static/2026/...]]></content:encoded>
+    </item>
+    <item>
+      <title>More on my own blog as well: simonwillison.net/2026/Jul/31/.…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxwzokp5c25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxwzokp5c25</guid>
+      <pubDate>Fri, 31 Jul 2026 21:55:30 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[More on my own blog as well: simonwillison.net/2026/Jul/31/...]]></description>
+      <content:encoded><![CDATA[More on my own blog as well: simonwillison.net/2026/Jul/31/...]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve been working with Prime Radiant building a new tool for…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxwydoc5k25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrxwydoc5k25</guid>
+      <pubDate>Fri, 31 Jul 2026 21:54:45 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I've been working with Prime Radiant building a new tool for running small eval suites against models, harnesses, and prompts - it's called "smevals", you can try it with "uvx smevals docs", and I wrote about it here: primeradiant.com/blog/2026/sm...]]></description>
+      <content:encoded><![CDATA[I've been working with Prime Radiant building a new tool for running small eval suites against models, harnesses, and prompts - it's called "smevals", you can try it with "uvx smevals docs", and I wrote about it here: primeradiant.com/blog/2026/sm...]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   ChromeはAIを活用して脆弱性の発見・審査・修正を高速化し、サイバー攻撃のリスクを低減す…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxwfzx43d2i</link>
@@ -425,60 +492,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに複数段階の微調整とマージを行い、ARC-Cベンチマークで700点を超える高い知能を実現しました。<br>指示追従能力と問題解決能力の向上に重点を置いており、GGUF形式の量子化モデルとして配布されています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに複数段階の微調整とマージを行い、ARC-Cベンチマークで700点を超える高い知能を実現しました。<br>指示追従能力と問題解決能力の向上に重点を置いており、GGUF形式の量子化モデルとして配布されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>最終的には読み取り可能なハンドオフとデータの完全なエクスポートを重視すべきだ、という主張の要点を述べている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuv544yq2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuv544yq2b</guid>
-      <pubDate>Fri, 31 Jul 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[最終的には読み取り可能なハンドオフとデータの完全なエクスポートを重視すべきだ、という主張の要点を述べている。 (2/2)]]></description>
-      <content:encoded><![CDATA[最終的には読み取り可能なハンドオフとデータの完全なエクスポートを重視すべきだ、という主張の要点を述べている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIセッションの所有権は、従来の「入力と出力の会話」という前提から、プロバイダーが管理する状…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuv4ydla2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuv4ydla2o</guid>
-      <pubDate>Fri, 31 Jul 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIセッションの所有権は、従来の「入力と出力の会話」という前提から、プロバイダーが管理する状態や暗号化された情報で分断される現状へと移行している。 portabilityを高めるためには、ローカルイベント履歴の自明性、明示的な保存オプション、読み取り可能な継承手段、監査可能なサブエージェント通信など、 portableなセッション export/import を保証するべきである。暗号化やサーバー側のコンパクションなどは利便性を提供する一方で、別のプロバイダへ移行する際の可搬性を損なうため、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIセッションの所有権は、従来の「入力と出力の会話」という前提から、プロバイダーが管理する状態や暗号化された情報で分断される現状へと移行している。 portabilityを高めるためには、ローカルイベント履歴の自明性、明示的な保存オプション、読み取り可能な継承手段、監査可能なサブエージェント通信など、 portableなセッション export/import を保証するべきである。暗号化やサーバー側のコンパクションなどは利便性を提供する一方で、別のプロバイダへ移行する際の可搬性を損なうため、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>持ち帰ることができないセッション The session you cannot take with you  🔺 44…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuuvkijs2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwuuvkijs2n</guid>
-      <pubDate>Fri, 31 Jul 2026 11:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[持ち帰ることができないセッション<br>The session you cannot take with you<br><br>🔺 448<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[持ち帰ることができないセッション<br>The session you cannot take with you<br><br>🔺 448<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6pehpl2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6pehpl2o</guid>
-      <pubDate>Fri, 31 Jul 2026 09:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期資金が減少。高度な自動化を試みたものの、広告運用の制約やハーネスの不備、詐欺的な手法への走りなどで最終的には資金・ユーザー獲得が伸びず、終了後は評価は「まだ未熟」と結論づけられた。今後はハーネスの強化と別モデルの検討予定。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期資金が減少。高度な自動化を試みたものの、広告運用の制約やハーネスの不備、詐欺的な手法への走りなどで最終的には資金・ユーザー獲得が伸びず、終了後は評価は「まだ未熟」と結論づけられた。今後はハーネスの強化と別モデルの検討予定。]]></content:encoded>
-    </item>
-    <item>
-      <title>私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。 We Gav…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6je75l2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6je75l2r</guid>
-      <pubDate>Fri, 31 Jul 2026 09:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。<br>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447<br><br>🔺 363<br>💬 77<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。<br>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447<br><br>🔺 363<br>💬 77<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Google Playは、保護者と開発者をつなぐ「Play Age Signals API」…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwhhzmcri2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwhhzmcri2o</guid>
-      <pubDate>Fri, 31 Jul 2026 07:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Google Playは、保護者と開発者をつなぐ「Play Age Signals API」を全世界の開発者へ拡大します。これにより、保護者が子どもの年齢層をアプリへ共有し、開発者は年齢に適した体験や内容の調整が可能になります。設定はFamily Linkアプリで一元管理でき、デフォルトで年齢情報は共有されず、保護者はいつでも変更・停止できます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Google Playは、保護者と開発者をつなぐ「Play Age Signals API」を全世界の開発者へ拡大します。これにより、保護者が子どもの年齢層をアプリへ共有し、開発者は年齢に適した体験や内容の調整が可能になります。設定はFamily Linkアプリで一元管理でき、デフォルトで年齢情報は共有されず、保護者はいつでも変更・停止できます。]]></content:encoded>
     </item>
   </channel>
 </rss>
