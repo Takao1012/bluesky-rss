@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:49:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:22:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました  🔖 173 ブックマーク …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrvoycljaj25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrvoycljaj25</guid>
+      <pubDate>Fri, 31 Jul 2026 00:26:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   最新分析によると、H96型の一般向けテレビボックスは、広告クリック詐欺の拠点として機能するだ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrvmnqja2e2n</link>
@@ -257,15 +266,6 @@
       <content:encoded><![CDATA[📦 WhiskeySockets / Baileys<br>⭐ 10,330 (+12)<br>🗒 JavaScript<br><br>Socket-based TS/JavaScript API for WhatsApp Web]]></content:encoded>
     </item>
     <item>
-      <title>✍️ Before submitting your prompt, let VS Code grammar check …</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mrut5iqfs72i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mrut5iqfs72i</guid>
-      <pubDate>Thu, 30 Jul 2026 16:08:04 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[✍️ Before submitting your prompt, let VS Code grammar check it for you. 💡<br><br>Cleaner prompts, fewer mistakes, and better AI responses. ✅]]></description>
-      <content:encoded><![CDATA[✍️ Before submitting your prompt, let VS Code grammar check it for you. 💡<br><br>Cleaner prompts, fewer mistakes, and better AI responses. ✅]]></content:encoded>
-    </item>
-    <item>
       <title>💡 Summary:   EU裁判所が「刊行者・VPN提供者は著作権侵害の責任を負わない」と判断。ジオブロックは著作権…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrurtjodhl2b</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrurtjodhl2b</guid>
@@ -456,15 +456,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンの広範なコンテキストウィンドウを備え、テキストと画像の両方に対応しています。<br>高度な推論、知識集約的な作業、および長期間のコーディングタスクにおける最先端の知能を提供することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンの広範なコンテキストウィンドウを備え、テキストと画像の両方に対応しています。<br>高度な推論、知識集約的な作業、および長期間のコーディングタスクにおける最先端の知能を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Keychronが開示したオープンソースのゲーミングマウ firmware「ZGM」は、QM…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrueg75gyb2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrueg75gyb2y</guid>
-      <pubDate>Thu, 30 Jul 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Keychronが開示したオープンソースのゲーミングマウ firmware「ZGM」は、QMK/ZMK同様にマウスのファームウェアを自由に改変できることを目指す。低遅延性やモジュール化（センサー、ボタン、スクロール、ライツ等）、多様なマイクロコントローラと有線/無線対応を特徴とし、第一弾はG6 HEハイブリッド磁気スイッチゲーミングマウス用で2027年Q1公開を予定している。公開初期は情報が少ないが、公開とフィードバックを経て成長することが期待されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Keychronが開示したオープンソースのゲーミングマウ firmware「ZGM」は、QMK/ZMK同様にマウスのファームウェアを自由に改変できることを目指す。低遅延性やモジュール化（センサー、ボタン、スクロール、ライツ等）、多様なマイクロコントローラと有線/無線対応を特徴とし、第一弾はG6 HEハイブリッド磁気スイッチゲーミングマウス用で2027年Q1公開を予定している。公開初期は情報が少ないが、公開とフィードバックを経て成長することが期待されている。]]></content:encoded>
     </item>
   </channel>
 </rss>
