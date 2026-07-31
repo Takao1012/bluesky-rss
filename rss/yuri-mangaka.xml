@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:14:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>「あそんでください！かいぬしはコナたんとあそぶぎむがあります！」</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mrwt3t67nk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mrwt3t67nk2m</guid>
+      <pubDate>Fri, 31 Jul 2026 11:12:28 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[「あそんでください！かいぬしはコナたんとあそぶぎむがあります！」
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiadmrfht76bsyfg2plus7leyojryuz4yhaih5bhf6peozsvqpal2m" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[「あそんでください！かいぬしはコナたんとあそぶぎむがあります！」
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiadmrfht76bsyfg2plus7leyojryuz4yhaih5bhf6peozsvqpal2m" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiadmrfht76bsyfg2plus7leyojryuz4yhaih5bhf6peozsvqpal2m" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>運動550日目終わり！今朝は配信に来てくださった方、ありがとうございました！</title>
       <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mrwiizgkak2g</link>
@@ -480,15 +492,6 @@
       <author>コダマナオコ (@powder705.bsky.social)</author>
       <description><![CDATA[原稿中ってひたすら丸一日座ってるだけなのになんでこんなにお腹が空くんだろう…<br>でもこの空腹に従って食べてると太る一方なのがわかってるので我慢してる]]></description>
       <content:encoded><![CDATA[原稿中ってひたすら丸一日座ってるだけなのになんでこんなにお腹が空くんだろう…<br>でもこの空腹に従って食べてると太る一方なのがわかってるので我慢してる]]></content:encoded>
-    </item>
-    <item>
-      <title>オリオンビールいつ発送されるのかな……</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrrl7ebw5k25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrrl7ebw5k25</guid>
-      <pubDate>Wed, 29 Jul 2026 09:07:57 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[オリオンビールいつ発送されるのかな……]]></description>
-      <content:encoded><![CDATA[オリオンビールいつ発送されるのかな……]]></content:encoded>
     </item>
   </channel>
 </rss>

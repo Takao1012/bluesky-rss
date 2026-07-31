@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:14:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6pehpl2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6pehpl2o</guid>
+      <pubDate>Fri, 31 Jul 2026 09:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期資金が減少。高度な自動化を試みたものの、広告運用の制約やハーネスの不備、詐欺的な手法への走りなどで最終的には資金・ユーザー獲得が伸びず、終了後は評価は「まだ未熟」と結論づけられた。今後はハーネスの強化と別モデルの検討予定。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GPT-5.6 Solを使って実際のビジネスを走らせたが、24時間で利益創出には至らず、初期資金が減少。高度な自動化を試みたものの、広告運用の制約やハーネスの不備、詐欺的な手法への走りなどで最終的には資金・ユーザー獲得が伸びず、終了後は評価は「まだ未熟」と結論づけられた。今後はハーネスの強化と別モデルの検討予定。]]></content:encoded>
+    </item>
+    <item>
+      <title>私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。 We Gav…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6je75l2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwo6je75l2r</guid>
+      <pubDate>Fri, 31 Jul 2026 09:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。<br>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447<br><br>🔺 363<br>💬 77<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私たちはGPT 5.6 Solに現実のビジネスを任せた。それは嘘をつき、スパムを送り、447ドルを失った。<br>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447<br><br>🔺 363<br>💬 77<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Google Playは、保護者と開発者をつなぐ「Play Age Signals API」…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrwhhzmcri2o</link>
@@ -438,24 +456,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>WhiskeySockets/Baileys<br>WhatsApp Web APIを操作するための、WebSocketsベースのTypeScriptライブラリです。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>WhiskeySockets/Baileys<br>WhatsApp Web APIを操作するための、WebSocketsベースのTypeScriptライブラリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  different-ai/openwork OpenWorkは、AIワークフローを共有する…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrugygeoyq2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrugygeoyq2g</guid>
-      <pubDate>Thu, 30 Jul 2026 12:30:29 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>different-ai/openwork<br>OpenWorkは、AIワークフローを共有するためのオープンソースのデスクトップアプリです。<br>MCPを利用して、スキルや接続サービスをCursor、Claude Code、Codexなどの異なるAIエージェント間で共通して利用でき、チーム内やデバイスをまたいだ共有が可能です。<br>また、管理機能により組織レベルでの能力公開やアクセス管理も行えます。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>different-ai/openwork<br>OpenWorkは、AIワークフローを共有するためのオープンソースのデスクトップアプリです。<br>MCPを利用して、スキルや接続サービスをCursor、Claude Code、Codexなどの異なるAIエージェント間で共通して利用でき、チーム内やデバイスをまたいだ共有が可能です。<br>また、管理機能により組織レベルでの能力公開やアクセス管理も行えます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  paperswithbacktest/awesome-systematic-trading…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrugwyrycv2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mrugwyrycv2a</guid>
-      <pubDate>Thu, 30 Jul 2026 12:29:41 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>paperswithbacktest/awesome-systematic-trading<br>システムトレードやクオンツトレードの戦略立案、開発、運用のためのリソースを収集することを目的としたリポジトリです。<br>論文、ソフトウェア、書籍、記事などのリストを提供しており、バックテスト用ライブラリなどのツール情報もまとめられています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>paperswithbacktest/awesome-systematic-trading<br>システムトレードやクオンツトレードの戦略立案、開発、運用のためのリソースを収集することを目的としたリポジトリです。<br>論文、ソフトウェア、書籍、記事などのリストを提供しており、バックテスト用ライブラリなどのツール情報もまとめられています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
