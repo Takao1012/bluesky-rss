@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 15:51:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:49:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ci-en.net/creator/1363... 支援者さんむけに更新しました✒️</title>
+      <link>https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3mrxk4igyu22b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3mrxk4igyu22b</guid>
+      <pubDate>Fri, 31 Jul 2026 18:04:26 GMT</pubDate>
+      <author>犬井あゆ🐶 (@osakana-man.bsky.social)</author>
+      <description><![CDATA[ci-en.net/creator/1363...<br>支援者さんむけに更新しました✒️]]></description>
+      <content:encoded><![CDATA[ci-en.net/creator/1363...<br>支援者さんむけに更新しました✒️]]></content:encoded>
+    </item>
     <item>
       <title>久々に首肩を痛めて修羅場スケジュールやや崩れ人間</title>
       <link>https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mrx5ykm4fc2o</link>
@@ -477,18 +486,6 @@
       <content:encoded><![CDATA[
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:254pwqyrxfbjg2isxse7nf7v/bafkreiame2mbrf5dn5ezyfvbnexfpj5anztn7f6zub2nbnidzrboewgmne" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:254pwqyrxfbjg2isxse7nf7v/bafkreiame2mbrf5dn5ezyfvbnexfpj5anztn7f6zub2nbnidzrboewgmne" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ネッククーラーつけてるわんこが可愛い</title>
-      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mrtajwcfgc2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mrtajwcfgc2t</guid>
-      <pubDate>Thu, 30 Jul 2026 01:02:20 GMT</pubDate>
-      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
-      <description><![CDATA[ネッククーラーつけてるわんこが可愛い
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreifbgfy2razyes6waq2ufehq6nlgzgkbyoh7rrmlu6zvvwincqumei" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[ネッククーラーつけてるわんこが可愛い
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreifbgfy2razyes6waq2ufehq6nlgzgkbyoh7rrmlu6zvvwincqumei" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3y3dkh5spdiol3kidvbnxuvf/bafkreifbgfy2razyes6waq2ufehq6nlgzgkbyoh7rrmlu6zvvwincqumei" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
