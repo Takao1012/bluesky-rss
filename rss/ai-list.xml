@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:20:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Stacked PRsは大きな変更を小さな層ごとの順序付きPRに分割し、それぞれを個別にレビ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrw22ydt2c2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrw22ydt2c2y</guid>
+      <pubDate>Fri, 31 Jul 2026 03:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Stacked PRsは大きな変更を小さな層ごとの順序付きPRに分割し、それぞれを個別にレビューして一括でマージできる機能。GitHubに組み込まれており、既存のレビュー・チェック・ブランチ保護をそのまま活用可能。CLI拡張機能 gh-stack で作成・管理でき、各レイヤーを独立にレビュー後、最下位レイヤーまで一括マージもしくは部分的にマージすることができる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Stacked PRsは大きな変更を小さな層ごとの順序付きPRに分割し、それぞれを個別にレビューして一括でマージできる機能。GitHubに組み込まれており、既存のレビュー・チェック・ブランチ保護をそのまま活用可能。CLI拡張機能 gh-stack で作成・管理でき、各レイヤーを独立にレビュー後、最下位レイヤーまで一括マージもしくは部分的にマージすることができる。]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub上でスタックされたプルリクエストが公開されました。 Stacked PRs are now live on …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrw22r6x6r2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrw22r6x6r2n</guid>
+      <pubDate>Fri, 31 Jul 2026 03:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GitHub上でスタックされたプルリクエストが公開されました。<br>Stacked PRs are now live on GitHub<br><br>🔺 514<br>💬 54<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GitHub上でスタックされたプルリクエストが公開されました。<br>Stacked PRs are now live on GitHub<br><br>🔺 514<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   GPT‑5.6の効率化を顧客にも還元し、Lunaは価格を80%引き、Terraは20%引きで…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrvtegzcrh2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrvtegzcrh2f</guid>
+      <pubDate>Fri, 31 Jul 2026 01:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GPT‑5.6の効率化を顧客にも還元し、Lunaは価格を80%引き、Terraは20%引きで提供、SolはAPIで高速化を実現します。Fast modeを新設し、Solは従来のPriority Processingに代えて最大2.5倍速を実現、ただし価格は倍になる点に注意。これにより、コストと性能の最適なバランスを用途に応じて選択でき、企業の大規模運用や高頻度タスクの実行性が向上します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GPT‑5.6の効率化を顧客にも還元し、Lunaは価格を80%引き、Terraは20%引きで提供、SolはAPIで高速化を実現します。Fast modeを新設し、Solは従来のPriority Processingに代えて最大2.5倍速を実現、ただし価格は倍になる点に注意。これにより、コストと性能の最適なバランスを用途に応じて選択でき、企業の大規模運用や高頻度タスクの実行性が向上します。]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT-5.6を活用して、価格対性能のフロンティアを広げる。 Advancing the price-performan…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrvteah4s52o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrvteah4s52o</guid>
+      <pubDate>Fri, 31 Jul 2026 01:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GPT-5.6を活用して、価格対性能のフロンティアを広げる。<br>Advancing the price-performance frontier with GPT‑5.6<br><br>🔺 491<br>💬 55<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GPT-5.6を活用して、価格対性能のフロンティアを広げる。<br>Advancing the price-performance frontier with GPT‑5.6<br><br>🔺 491<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました  🔖 173 ブックマーク …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrvoycljaj25</link>
@@ -420,42 +456,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>microsoft/Fara1.5-27B<br>Microsoft Research AI Frontiersが開発したWebブラウザ向けマルチモーダルエージェントです。<br>スクリーンショットを通じてブラウザの状態を認識し、クリックや入力などの操作を自動で実行することで、ユーザーに代わってWeb上のタスクを完結させることを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>microsoft/Fara1.5-27B<br>Microsoft Research AI Frontiersが開発したWebブラウザ向けマルチモーダルエージェントです。<br>スクリーンショットを通じてブラウザの状態を認識し、クリックや入力などの操作を自動で実行することで、ユーザーに代わってWeb上のタスクを完結させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Nanbeige/Nanbeige4.2-3B Nanbeige4.2-3Bは、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrues2toxx23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrues2toxx23</guid>
-      <pubDate>Thu, 30 Jul 2026 11:51:08 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Nanbeige/Nanbeige4.2-3B<br>Nanbeige4.2-3Bは、汎用およびコードエージェントタスクでの性能向上を目的に作成された小型のエージェントモデルです。<br>Looped Transformerアーキテクチャを採用し、パラメータ数を抑えつつモデル容量を拡大しています。<br>多様な環境での教師あり微調整と、結果およびプロセスの報酬を組み合わせた強化学習により、高い推論能力とアライメント性能を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Nanbeige/Nanbeige4.2-3B<br>Nanbeige4.2-3Bは、汎用およびコードエージェントタスクでの性能向上を目的に作成された小型のエージェントモデルです。<br>Looped Transformerアーキテクチャを採用し、パラメータ数を抑えつつモデル容量を拡大しています。<br>多様な環境での教師あり微調整と、結果およびプロセスの報酬を組み合わせた強化学習により、高い推論能力とアライメント性能を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  poolside/Laguna-S-2.1 Laguna S 2.1は、エージェ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mruer7jq3n2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mruer7jq3n2o</guid>
-      <pubDate>Thu, 30 Jul 2026 11:50:39 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>poolside/Laguna-S-2.1<br>Laguna S 2.1は、エージェントによるコーディングや長期的なタスクを目的とした118BパラメータのMixture-of-Expertsモデルです。<br>効率的な推論を実現する設計となっており、思考プロセスの制御や多様な量子化形式をサポートしています。<br>高度なコード生成や複雑な作業の自動化を支援することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>poolside/Laguna-S-2.1<br>Laguna S 2.1は、エージェントによるコーディングや長期的なタスクを目的とした118BパラメータのMixture-of-Expertsモデルです。<br>効率的な推論を実現する設計となっており、思考プロセスの制御や多様な量子化形式をサポートしています。<br>高度なコード生成や複雑な作業の自動化を支援することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  baidu/Unlimited-OCR このリポジトリは、baidu/Unlim…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrueq7e4vv23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mrueq7e4vv23</guid>
-      <pubDate>Thu, 30 Jul 2026 11:50:06 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>このリポジトリは、baidu/Unlimited-OCRモデルを用いて画像やPDFからテキストを抽出するOCRおよびドキュメント解析を行うためのものです。<br>1回の処理で長大な文書のパースが可能なOne-shot Long-horizon Parsingを実現しており、単一画像から複数ページにわたるドキュメントまで幅広く対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>baidu/Unlimited-OCR<br>このリポジトリは、baidu/Unlimited-OCRモデルを用いて画像やPDFからテキストを抽出するOCRおよびドキュメント解析を行うためのものです。<br>1回の処理で長大な文書のパースが可能なOne-shot Long-horizon Parsingを実現しており、単一画像から複数ページにわたるドキュメントまで幅広く対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  moonshotai/Kimi-K3 Kimi K3は、2.8兆パラメータを持つ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mruepmpwrg2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mruepmpwrg2x</guid>
-      <pubDate>Thu, 30 Jul 2026 11:49:46 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンの広範なコンテキストウィンドウを備え、テキストと画像の両方に対応しています。<br>高度な推論、知識集約的な作業、および長期間のコーディングタスクにおける最先端の知能を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンの広範なコンテキストウィンドウを備え、テキストと画像の両方に対応しています。<br>高度な推論、知識集約的な作業、および長期間のコーディングタスクにおける最先端の知能を提供することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
