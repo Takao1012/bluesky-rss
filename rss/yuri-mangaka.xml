@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:43:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>「うちの主人に何か御用ですか？」</title>
+      <link>https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3mrzvnt6tnc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3mrzvnt6tnc2d</guid>
+      <pubDate>Sat, 01 Aug 2026 16:36:18 GMT</pubDate>
+      <author>犬井あゆ🐶 (@osakana-man.bsky.social)</author>
+      <description><![CDATA[「うちの主人に何か御用ですか？」
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mteuj6cflo3pgwkxtti7tfoy/bafkreigcklgcfp2y4yrevve65uvq43yquy54fmvjkho62j5jhhhohtpqr4" alt="でか獣人双子従者に守られる純朴お嬢様のイラストです。" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[「うちの主人に何か御用ですか？」
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mteuj6cflo3pgwkxtti7tfoy/bafkreigcklgcfp2y4yrevve65uvq43yquy54fmvjkho62j5jhhhohtpqr4" alt="でか獣人双子従者に守られる純朴お嬢様のイラストです。" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mteuj6cflo3pgwkxtti7tfoy/bafkreigcklgcfp2y4yrevve65uvq43yquy54fmvjkho62j5jhhhohtpqr4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>#このタグをみた人は自分と同じ誕生日の人を１人言う 福沢諭吉💴</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrzqyviy3225</link>
@@ -477,18 +489,6 @@
       <author>犬井あゆ🐶 (@osakana-man.bsky.social)</author>
       <description><![CDATA[プロット考えてるんだけど、真ん中あたりがどうしても詰まってて話がまとまらず数日ずっとうんうんモヤモヤしてるよ〜　単純なのでプロットとかネーム中にもやもやしてるとめちゃくちゃ寝つきも悪くなって眠り浅くなる…😔<br>そこさえスッと通ってくれればあとはまとまりそうなのにな〜 うーん…]]></description>
       <content:encoded><![CDATA[プロット考えてるんだけど、真ん中あたりがどうしても詰まってて話がまとまらず数日ずっとうんうんモヤモヤしてるよ〜　単純なのでプロットとかネーム中にもやもやしてるとめちゃくちゃ寝つきも悪くなって眠り浅くなる…😔<br>そこさえスッと通ってくれればあとはまとまりそうなのにな〜 うーん…]]></content:encoded>
-    </item>
-    <item>
-      <title>永遠のいのちを手に入れる…🐟</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrugx7nzf22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrugx7nzf22n</guid>
-      <pubDate>Thu, 30 Jul 2026 12:29:48 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[永遠のいのちを手に入れる…🐟
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifkxyxmw6wdqb2wuicyi4j4e3zkbmzpig7cwlft37bcyrs2gk33dy" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[永遠のいのちを手に入れる…🐟
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifkxyxmw6wdqb2wuicyi4j4e3zkbmzpig7cwlft37bcyrs2gk33dy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifkxyxmw6wdqb2wuicyi4j4e3zkbmzpig7cwlft37bcyrs2gk33dy" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

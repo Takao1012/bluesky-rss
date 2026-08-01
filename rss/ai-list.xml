@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:43:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 github / gh-stack ⭐ 688 (+67) 🗒 Go  GitHub Stacked PRs</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzujyhkpo2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzujyhkpo2n</guid>
+      <pubDate>Sat, 01 Aug 2026 16:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 github / gh-stack<br>⭐ 688 (+67)<br>🗒 Go<br><br>GitHub Stacked PRs]]></description>
+      <content:encoded><![CDATA[📦 github / gh-stack<br>⭐ 688 (+67)<br>🗒 Go<br><br>GitHub Stacked PRs]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   演習として「何もしないで座る・3分間 exist を受け入れる」という体験を紹介。存在を受け…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzsrbjjd22t</link>
@@ -461,15 +470,6 @@
       <content:encoded><![CDATA[Not a bad payout considering how much less I’ve been posting.<br><br>About to hit $100k lifetime revenue on this app 😳
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiailmdn2vk64fzxgetkgmnwhsasgkujacudofxwj5shzffgd5vyoi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiailmdn2vk64fzxgetkgmnwhsasgkujacudofxwj5shzffgd5vyoi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Large changes are hard to review. Smaller pull requests make…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mry256tmhh2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mry256tmhh2r</guid>
-      <pubDate>Fri, 31 Jul 2026 22:51:09 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[Large changes are hard to review. Smaller pull requests make them easier to ship.<br><br>Stacked PRs are now on GitHub.<br>https://docs.github.com/en/pull-requests/how-tos/stacked-pull-requests?utm_source=bluesky-motion-graphic&utm_medium=social&utm_campaign=stacked-prs-gtm-public-preview-2026]]></description>
-      <content:encoded><![CDATA[Large changes are hard to review. Smaller pull requests make them easier to ship.<br><br>Stacked PRs are now on GitHub.<br>https://docs.github.com/en/pull-requests/how-tos/stacked-pull-requests?utm_source=bluesky-motion-graphic&utm_medium=social&utm_campaign=stacked-prs-gtm-public-preview-2026]]></content:encoded>
     </item>
   </channel>
 </rss>
