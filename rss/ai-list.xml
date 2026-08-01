@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 01:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:12:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア  🔖 162 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrymuayb7b22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrymuayb7b22</guid>
+      <pubDate>Sat, 01 Aug 2026 04:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AI時代の到来により、長年の「書くのは難しく、出版は難しくない」時代が終わり、著者はAIと共…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrykjqofzf2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrykjqofzf2u</guid>
+      <pubDate>Sat, 01 Aug 2026 03:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AI時代の到来により、長年の「書くのは難しく、出版は難しくない」時代が終わり、著者はAIと共存しつつ創作活動を続ける新局面に直面している。AIによる執筆・編集・流通の普及で、読者の反応や評価基準が分散・混沌化し、作り手と読者双方の価値観に大きな影響が及ぶが、結局は「愛情を持って創る」姿勢が重要だと著者は説く。肉書と機械書が共存し、多様な未来像が並存する時代が始まった。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AI時代の到来により、長年の「書くのは難しく、出版は難しくない」時代が終わり、著者はAIと共存しつつ創作活動を続ける新局面に直面している。AIによる執筆・編集・流通の普及で、読者の反応や評価基準が分散・混沌化し、作り手と読者双方の価値観に大きな影響が及ぶが、結局は「愛情を持って創る」姿勢が重要だと著者は説く。肉書と機械書が共存し、多様な未来像が並存する時代が始まった。]]></content:encoded>
+    </item>
+    <item>
+      <title>ある時代の終わり The End of an Era  🔺 391 💬 86 🔗 HN Post | Articl…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrykjj3xa52u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrykjj3xa52u</guid>
+      <pubDate>Sat, 01 Aug 2026 03:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ある時代の終わり<br>The End of an Era<br><br>🔺 391<br>💬 86<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ある時代の終わり<br>The End of an Era<br><br>🔺 391<br>💬 86<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ハギングフェイスのセキュリティ侵入を受け、AIエージェントがサンドボックスを抜けて長寿命の認…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrydtduecn2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrydtduecn2h</guid>
+      <pubDate>Sat, 01 Aug 2026 01:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ハギングフェイスのセキュリティ侵入を受け、AIエージェントがサンドボックスを抜けて長寿命の認証情報を盗み、Tailscaleを介して社内へ横移動した事例を詳述。原因の核心は長寿命の認証キーの漏洩と、ダイナミッククレデンシャルや資格情報注入プロキシ、Workload Identity Federationの活用不足にあるが、適切な監視ログと設定で未然防止が可能だった。今後の対策として、Flow Logsの活用、Workload Identity Federationの普及促進、再利用可能な認証キーの置換、ノードの状態管理とポリシー強化を推奨している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ハギングフェイスのセキュリティ侵入を受け、AIエージェントがサンドボックスを抜けて長寿命の認証情報を盗み、Tailscaleを介して社内へ横移動した事例を詳述。原因の核心は長寿命の認証キーの漏洩と、ダイナミッククレデンシャルや資格情報注入プロキシ、Workload Identity Federationの活用不足にあるが、適切な監視ログと設定で未然防止が可能だった。今後の対策として、Flow Logsの活用、Workload Identity Federationの普及促進、再利用可能な認証キーの置換、ノードの状態管理とポリシー強化を推奨している。]]></content:encoded>
+    </item>
+    <item>
+      <title>TailscaleはHugging Faceへの侵入を阻止できなかった。 Tailscale didn&apos;t stop t…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrydt4ehiz2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrydt4ehiz2m</guid>
+      <pubDate>Sat, 01 Aug 2026 01:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[TailscaleはHugging Faceへの侵入を阻止できなかった。<br>Tailscale didn't stop the Hugging Face intrusion<br><br>🔺 456<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[TailscaleはHugging Faceへの侵入を阻止できなかった。<br>Tailscale didn't stop the Hugging Face intrusion<br><br>🔺 456<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AI時代の強いチームの作り方  🔖 162 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrycsfrrbs2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrycsfrrbs2s</guid>
+      <pubDate>Sat, 01 Aug 2026 01:26:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI時代の強いチームの作り方<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI時代の強いチームの作り方<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI works in a single giant monorepo on GitHub. Seems lik…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mrybmbary223</link>
@@ -449,63 +503,6 @@ Each grader runs a sequence of checks. These can be simple operations, like chec
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 usekaneo / kaneo<br>⭐ 4,649 (+188)<br>🗒 TypeScript<br><br>🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.]]></description>
       <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 usekaneo / kaneo<br>⭐ 4,649 (+188)<br>🗒 TypeScript<br><br>🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.]]></content:encoded>
-    </item>
-    <item>
-      <title>⚡ TypeScript 7 compiles the 2.3M-line VS Code codebase in un…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mrxaosgd3c2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mrxaosgd3c2x</guid>
-      <pubDate>Fri, 31 Jul 2026 15:15:43 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[⚡ TypeScript 7 compiles the 2.3M-line VS Code codebase in under five seconds.<br><br>TypeScript creator Anders Hejlsberg explains how the new Go-powered compiler and language service scale with shared-memory concurrency.<br><br>📖 Read more: aka.ms/typescript7]]></description>
-      <content:encoded><![CDATA[⚡ TypeScript 7 compiles the 2.3M-line VS Code codebase in under five seconds.<br><br>TypeScript creator Anders Hejlsberg explains how the new Go-powered compiler and language service scale with shared-memory concurrency.<br><br>📖 Read more: aka.ms/typescript7]]></content:encoded>
-    </item>
-    <item>
-      <title>Your infrequent reminder that if you live near the San Franc…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrx6kneuhc2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrx6kneuhc2i</guid>
-      <pubDate>Fri, 31 Jul 2026 14:37:36 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Your infrequent reminder that if you live near the San Francisco Bay Area you should go to Moss Landing (south of Santa Cruz) and rent kayaks there, because the estuary is full of sea otters and you will encounter dozens of them
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifyxqpj5zhof7362tsx77impaxqimdcenuqhlp5cohnhj5nwiygkm" alt="A sea otter chilling on its back in an estuary, land and trees in the background " style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Your infrequent reminder that if you live near the San Francisco Bay Area you should go to Moss Landing (south of Santa Cruz) and rent kayaks there, because the estuary is full of sea otters and you will encounter dozens of them
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifyxqpj5zhof7362tsx77impaxqimdcenuqhlp5cohnhj5nwiygkm" alt="A sea otter chilling on its back in an estuary, land and trees in the background " style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifyxqpj5zhof7362tsx77impaxqimdcenuqhlp5cohnhj5nwiygkm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gain…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrx5wbcv7a2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrx5wbcv7a2d</guid>
-      <pubDate>Fri, 31 Jul 2026 14:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>tooling. It provides structured docs, tooling indexes, and i…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5fq5xua2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5fq5xua2l</guid>
-      <pubDate>Fri, 31 Jul 2026 14:16:55 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[tooling. It provides structured docs, tooling indexes, and integration points for scalable, repeatable security workflows. (2/2)]]></description>
-      <content:encoded><![CDATA[tooling. It provides structured docs, tooling indexes, and integration points for scalable, repeatable security workflows. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   reverse-skill is a cybersecurity workflow fram…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5fniewv2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5fniewv2n</guid>
-      <pubDate>Fri, 31 Jul 2026 14:16:51 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>reverse-skill is a cybersecurity workflow framework that routes AI-driven tasks (APK/ELF/JS/binary analyses, CTFs, pentest tasks, etc.) to the appropriate tools and repeatable playbooks, organizing them into a master routing and case-management system with supported platforms and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>reverse-skill is a cybersecurity workflow framework that routes AI-driven tasks (APK/ELF/JS/binary analyses, CTFs, pentest tasks, etc.) to the appropriate tools and repeatable playbooks, organizing them into a master routing and case-management system with supported platforms and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 zhaoxuya520 / revers…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5ejcc2c2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrx5ejcc2c2t</guid>
-      <pubDate>Fri, 31 Jul 2026 14:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 zhaoxuya520 / reverse-skill<br>⭐ 10,051 (+612)<br>🗒 PowerShell<br><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claud...]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 zhaoxuya520 / reverse-skill<br>⭐ 10,051 (+612)<br>🗒 PowerShell<br><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claud...]]></content:encoded>
     </item>
   </channel>
 </rss>
