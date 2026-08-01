@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 05:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:55:56 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIの文章をASD-STE100「Simplified Technical English」…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxx3fahs2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxx3fahs2h</guid>
+      <pubDate>Sat, 01 Aug 2026 07:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIの文章をASD-STE100「Simplified Technical English」によって専門的に、読み間違いを防ぐように書かせる技能の紹介。実装・導入方法、適用例、ベンチマーク結果、よくある質問などを含み、MITライセンスで提供されている。結果として、モデルの出力がより短く、誤解の余地が少なくなると説明されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIの文章をASD-STE100「Simplified Technical English」によって専門的に、読み間違いを防ぐように書かせる技能の紹介。実装・導入方法、適用例、ベンチマーク結果、よくある質問などを含み、MITライセンスで提供されている。結果として、モデルの出力がより短く、誤解の余地が少なくなると説明されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル Agent Skill to Force Do…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxwu5w5x2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxwu5w5x2s</guid>
+      <pubDate>Sat, 01 Aug 2026 07:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル<br>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English<br><br>🔺 325<br>💬 50<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル<br>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English<br><br>🔺 325<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表し…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryrafksd725</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryrafksd725</guid>
+      <pubDate>Sat, 01 Aug 2026 05:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表した。ポリシーは「法的に重要な貢献」にはLLM生成コンテンツ由来やLLM生成コンテンツを含むものを拒否する方針で、著作権上重要とされる閾値は約15行のコード／テキストとされる。ただし、研究・分析・バグ報告・パッチ審査などLLM出力を貢献物に含めない限り、LLMの利用を禁じるわけではなく、方針は今後も見直される予定である。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表した。ポリシーは「法的に重要な貢献」にはLLM生成コンテンツ由来やLLM生成コンテンツを含むものを拒否する方針で、著作権上重要とされる閾値は約15行のコード／テキストとされる。ただし、研究・分析・バグ報告・パッチ審査などLLM出力を貢献物に含めない限り、LLMの利用を禁じるわけではなく、方針は今後も見直される予定である。]]></content:encoded>
+    </item>
+    <item>
+      <title>湾岸協力会議（GCC）の運営委員会がAI政策を発表 GCC steering committee announces A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryra7bay32u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryra7bay32u</guid>
+      <pubDate>Sat, 01 Aug 2026 05:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[湾岸協力会議（GCC）の運営委員会がAI政策を発表<br>GCC steering committee announces AI policy<br><br>🔺 346<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[湾岸協力会議（GCC）の運営委員会がAI政策を発表<br>GCC steering committee announces AI policy<br><br>🔺 346<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在App…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mryq7mvo552c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mryq7mvo552c</guid>
+      <pubDate>Sat, 01 Aug 2026 05:26:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応 | gihyo.jp<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応 | gihyo.jp<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📝 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア  🔖 162 ブックマーク 💬 コメント …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrymuayb7b22</link>
@@ -458,51 +503,6 @@ Each grader runs a sequence of checks. These can be simple operations, like chec
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Artificial Analysis Intelligence Index v4.1は、GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam、GPQA Diamond、CritPt、AA-Omniscience、AA-LCRの9評価から構成され、各評価の詳細な方法論とコスト・トークン等を併記している。AA-Omniscienceなどの指標は正答性・幻覚の抑制を測定し、オープン性・文脈窓・モデル規模などの比較項目も含まれる。 (1/2)]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Artificial Analysis Intelligence Index v4.1は、GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam、GPQA Diamond、CritPt、AA-Omniscience、AA-LCRの9評価から構成され、各評価の詳細な方法論とコスト・トークン等を併記している。AA-Omniscienceなどの指標は正答性・幻覚の抑制を測定し、オープン性・文脈窓・モデル規模などの比較項目も含まれる。 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>DeepSeek V4 Flash 0731 インテリジェンス、性能および価格の分析 DeepSeek V4 Flash…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxiys52ci2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxiys52ci2r</guid>
-      <pubDate>Fri, 31 Jul 2026 17:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[DeepSeek V4 Flash 0731 インテリジェンス、性能および価格の分析<br>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis<br><br>🔺 419<br>💬 56<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[DeepSeek V4 Flash 0731 インテリジェンス、性能および価格の分析<br>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis<br><br>🔺 419<br>💬 56<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 github / copilot-sdk ⭐ 10,067 (+7) 🗒 Java  Multi-platfor…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrxe323bgs2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrxe323bgs2j</guid>
-      <pubDate>Fri, 31 Jul 2026 16:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 github / copilot-sdk<br>⭐ 10,067 (+7)<br>🗒 Java<br><br>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services]]></description>
-      <content:encoded><![CDATA[📦 github / copilot-sdk<br>⭐ 10,067 (+7)<br>🗒 Java<br><br>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AI時代には独自のデザイン習慣が生まれ、ハンバーガーメニューのような汎用性のある要素や、AI…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxccgyq3y2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxccgyq3y2c</guid>
-      <pubDate>Fri, 31 Jul 2026 15:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AI時代には独自のデザイン習慣が生まれ、ハンバーガーメニューのような汎用性のある要素や、AI由来の“思考中”を示すシマー効果など、他のUIにも波及するパターンが生まれている。さらに、AIアプリの小さなアイコンや特定の配色・フォントといった美学が普及する一方で、全体として数年〜十数年にわたり軌道を形成する可能性がある。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AI時代には独自のデザイン習慣が生まれ、ハンバーガーメニューのような汎用性のある要素や、AI由来の“思考中”を示すシマー効果など、他のUIにも波及するパターンが生まれている。さらに、AIアプリの小さなアイコンや特定の配色・フォントといった美学が普及する一方で、全体として数年〜十数年にわたり軌道を形成する可能性がある。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIの美学 The AI Aesthetic  🔺 358 💬 55 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxcc5cfl72o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrxcc5cfl72o</guid>
-      <pubDate>Fri, 31 Jul 2026 15:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIの美学<br>The AI Aesthetic<br><br>🔺 358<br>💬 55<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIの美学<br>The AI Aesthetic<br><br>🔺 358<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 usekaneo / kaneo ⭐ 4,64…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrxapswyl32z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrxapswyl32z</guid>
-      <pubDate>Fri, 31 Jul 2026 15:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 usekaneo / kaneo<br>⭐ 4,649 (+188)<br>🗒 TypeScript<br><br>🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 usekaneo / kaneo<br>⭐ 4,649 (+188)<br>🗒 TypeScript<br><br>🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.]]></content:encoded>
     </item>
   </channel>
 </rss>
