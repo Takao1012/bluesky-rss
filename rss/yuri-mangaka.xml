@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 12:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 14:18:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>お野菜を炒めるわよ</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrzjevsdcc25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrzjevsdcc25</guid>
+      <pubDate>Sat, 01 Aug 2026 12:56:34 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[お野菜を炒めるわよ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifyppp43r7oo7isaazp5tircatlzugvrrpkdgtmifabwwpqxpgalq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[お野菜を炒めるわよ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifyppp43r7oo7isaazp5tircatlzugvrrpkdgtmifabwwpqxpgalq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifyppp43r7oo7isaazp5tircatlzugvrrpkdgtmifabwwpqxpgalq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>ここのとんかつを食べに行きたい🐷 youtu.be/S4OOwPjT2yc?...</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrzhjwmshc25</link>
@@ -477,15 +489,6 @@
       <content:encoded><![CDATA[帰宅！
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigpnw7m47k7loc2s27py5r6ehs6kqwv7c3uegyk4qs5lns73zj2zu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigpnw7m47k7loc2s27py5r6ehs6kqwv7c3uegyk4qs5lns73zj2zu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>お疲れ様です…お疲れ様です…</title>
-      <link>https://bsky.app/profile/did:plc:dkr2h2oeeusltuh3fmfsnt3v/post/3mrugs6p6ac2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dkr2h2oeeusltuh3fmfsnt3v/post/3mrugs6p6ac2c</guid>
-      <pubDate>Thu, 30 Jul 2026 12:27:00 GMT</pubDate>
-      <author>鈴木二三江 (@suzufuming.bsky.social)</author>
-      <description><![CDATA[お疲れ様です…お疲れ様です…]]></description>
-      <content:encoded><![CDATA[お疲れ様です…お疲れ様です…]]></content:encoded>
     </item>
   </channel>
 </rss>
