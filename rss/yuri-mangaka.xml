@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 07:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:47:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>作業してたら順番にペンのインクが無くなっていってしまった。今日はもう終わりだよ！！！！</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrz4edjyrk2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrz4edjyrk2v</guid>
+      <pubDate>Sat, 01 Aug 2026 09:03:36 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[作業してたら順番にペンのインクが無くなっていってしまった。今日はもう終わりだよ！！！！]]></description>
+      <content:encoded><![CDATA[作業してたら順番にペンのインクが無くなっていってしまった。今日はもう終わりだよ！！！！]]></content:encoded>
+    </item>
     <item>
       <title>昼寝が気持ち良すぎてかなわん</title>
       <link>https://bsky.app/profile/did:plc:egzbbqbjgwjoy4dmuqes4m5p/post/3mryx5c6ajk25</link>
@@ -477,15 +486,6 @@
       <content:encoded><![CDATA[ご飯食べたので午後の部頑張ろう！久々に麻辣湯！
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiewp3igc7byicgsxxvrq4lwsndumgbrbt36jsepiamiar7zz4aacm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiewp3igc7byicgsxxvrq4lwsndumgbrbt36jsepiamiar7zz4aacm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>食べ物にまつわるショートショート集みたいな本作りたいね</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrtpha5nas2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mrtpha5nas2c</guid>
-      <pubDate>Thu, 30 Jul 2026 05:29:16 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[食べ物にまつわるショートショート集みたいな本作りたいね]]></description>
-      <content:encoded><![CDATA[食べ物にまつわるショートショート集みたいな本作りたいね]]></content:encoded>
     </item>
   </channel>
 </rss>
