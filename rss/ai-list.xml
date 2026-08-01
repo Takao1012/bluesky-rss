@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 22:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:44:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GoogleはRSSを利用拡大に貢献しつつ、後に撤廃を繰り返す「抱擁・拡張・消滅」的な動きを…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2nlgzrnp2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2nlgzrnp2z</guid>
+      <pubDate>Sat, 01 Aug 2026 23:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GoogleはRSSを利用拡大に貢献しつつ、後に撤廃を繰り返す「抱擁・拡張・消滅」的な動きを繰り返しており、ChromeのRSSボタン削除やFeedBurnerのAPI撤廃、Google Readerの廃止、Google AlertsのRSS廃止などでRSSの信頼性と普及を損なってきた。結果としてオープンなRSSとインターネットの自由性に対する大きな脅威となっており、今後も継続的なサポートと安定運用が求められている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GoogleはRSSを利用拡大に貢献しつつ、後に撤廃を繰り返す「抱擁・拡張・消滅」的な動きを繰り返しており、ChromeのRSSボタン削除やFeedBurnerのAPI撤廃、Google Readerの廃止、Google AlertsのRSS廃止などでRSSの信頼性と普及を損なってきた。結果としてオープンなRSSとインターネットの自由性に対する大きな脅威となっており、今後も継続的なサポートと安定運用が求められている。]]></content:encoded>
+    </item>
+    <item>
+      <title>GoogleがRSSフィードの普及を妨げた方法（2023年） How Google helped destroy ado…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2nlbrylw2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2nlbrylw2s</guid>
+      <pubDate>Sat, 01 Aug 2026 23:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GoogleがRSSフィードの普及を妨げた方法（2023年）<br>How Google helped destroy adoption of RSS feeds (2023)<br><br>🔺 338<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GoogleがRSSフィードの普及を妨げた方法（2023年）<br>How Google helped destroy adoption of RSS feeds (2023)<br><br>🔺 338<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>and extensive CLI options for a fully open, configurable sta…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyxlccd2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyxlccd2n</guid>
+      <pubDate>Sat, 01 Aug 2026 23:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[and extensive CLI options for a fully open, configurable stack. (2/2)]]></description>
+      <content:encoded><![CDATA[and extensive CLI options for a fully open, configurable stack. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Speech to Speech offers a modular, low-latency…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyxjz2y2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyxjz2y2m</guid>
+      <pubDate>Sat, 01 Aug 2026 23:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Speech to Speech offers a modular, low-latency voice-agent pipeline (VAD -> STT -> LLM -> TTS) with an OpenAI Realtime-compatible WebSocket API. It supports multiple backends (local and provider-based) for STT, LLM, and TTS, and provides flexible run modes, multi-language support, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Speech to Speech offers a modular, low-latency voice-agent pipeline (VAD -> STT -> LLM -> TTS) with an OpenAI Realtime-compatible WebSocket API. It supports multiple backends (local and provider-based) for STT, LLM, and TTS, and provides flexible run modes, multi-language support, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 huggingface / speech…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyt6u6m2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2lyt6u6m2v</guid>
+      <pubDate>Sat, 01 Aug 2026 23:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 huggingface / speech-to-speech<br>⭐ 10,027 (+1,275)<br>🗒 Python<br><br>Build local voice agents with open-source models]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 huggingface / speech-to-speech<br>⭐ 10,027 (+1,275)<br>🗒 Python<br><br>Build local voice agents with open-source models]]></content:encoded>
+    </item>
     <item>
       <title>paperswithbacktest.com. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms2insyb7s2y</link>
@@ -411,51 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>速さを美化し、理解や判断を飛ばす“スピード信仰”が組織の破綻を招く。真の速度は理解と決定が明確で実行可能なときに生まれ、急ぎすぎると後で修復コストが大きくなる。要点は、急ぐより先に理解と due diligence を重視し、慎重に進めることで初めて本当に速く動けるようになる、ということ。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>速さを美化し、理解や判断を飛ばす“スピード信仰”が組織の破綻を招く。真の速度は理解と決定が明確で実行可能なときに生まれ、急ぎすぎると後で修復コストが大きくなる。要点は、急ぐより先に理解と due diligence を重視し、慎重に進めることで初めて本当に速く動けるようになる、ということ。]]></content:encoded>
-    </item>
-    <item>
-      <title>速さの宗教 The Religion of Speed  🔺 281 💬 40 🔗 HN Post | Artic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrz6ndcbrm2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrz6ndcbrm2n</guid>
-      <pubDate>Sat, 01 Aug 2026 09:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[速さの宗教<br>The Religion of Speed<br><br>🔺 281<br>💬 40<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[速さの宗教<br>The Religion of Speed<br><br>🔺 281<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIの文章をASD-STE100「Simplified Technical English」…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxx3fahs2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxx3fahs2h</guid>
-      <pubDate>Sat, 01 Aug 2026 07:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIの文章をASD-STE100「Simplified Technical English」によって専門的に、読み間違いを防ぐように書かせる技能の紹介。実装・導入方法、適用例、ベンチマーク結果、よくある質問などを含み、MITライセンスで提供されている。結果として、モデルの出力がより短く、誤解の余地が少なくなると説明されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIの文章をASD-STE100「Simplified Technical English」によって専門的に、読み間違いを防ぐように書かせる技能の紹介。実装・導入方法、適用例、ベンチマーク結果、よくある質問などを含み、MITライセンスで提供されている。結果として、モデルの出力がより短く、誤解の余地が少なくなると説明されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル Agent Skill to Force Do…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxwu5w5x2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryxwu5w5x2s</guid>
-      <pubDate>Sat, 01 Aug 2026 07:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル<br>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English<br><br>🔺 325<br>💬 50<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ASD-STE100 簡易技術英語で文書を強制適用するエージェントスキル<br>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English<br><br>🔺 325<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表し…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryrafksd725</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryrafksd725</guid>
-      <pubDate>Sat, 01 Aug 2026 05:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表した。ポリシーは「法的に重要な貢献」にはLLM生成コンテンツ由来やLLM生成コンテンツを含むものを拒否する方針で、著作権上重要とされる閾値は約15行のコード／テキストとされる。ただし、研究・分析・バグ報告・パッチ審査などLLM出力を貢献物に含めない限り、LLMの利用を禁じるわけではなく、方針は今後も見直される予定である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GCCの理事会は、GCC AIポリシー作業部会が提案したAI貢献ポリシーを受け入れたと発表した。ポリシーは「法的に重要な貢献」にはLLM生成コンテンツ由来やLLM生成コンテンツを含むものを拒否する方針で、著作権上重要とされる閾値は約15行のコード／テキストとされる。ただし、研究・分析・バグ報告・パッチ審査などLLM出力を貢献物に含めない限り、LLMの利用を禁じるわけではなく、方針は今後も見直される予定である。]]></content:encoded>
-    </item>
-    <item>
-      <title>湾岸協力会議（GCC）の運営委員会がAI政策を発表 GCC steering committee announces A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryra7bay32u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mryra7bay32u</guid>
-      <pubDate>Sat, 01 Aug 2026 05:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[湾岸協力会議（GCC）の運営委員会がAI政策を発表<br>GCC steering committee announces AI policy<br><br>🔺 346<br>💬 47<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[湾岸協力会議（GCC）の運営委員会がAI政策を発表<br>GCC steering committee announces AI policy<br><br>🔺 346<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
