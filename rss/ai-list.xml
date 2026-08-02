@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 20:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:41:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Summary:   Agent Reach 是一个能力层级工具，负责为任意 AI Agent 自动选型、安装、诊…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms4vraio5n26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms4vraio5n26</guid>
+      <pubDate>Sun, 02 Aug 2026 21:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Agent Reach 是一个能力层级工具，负责为任意 AI Agent 自动选型、安装、诊断并路由到多渠道后端，以实现对网页、视频、社媒、RSS、GitHub 等全网信息的稳定读取和搜索，且支持安全模式、本地化存储和实时替换后端以应对平台变化。简单说：它帮你一键让 Agent 读网、搜网、看视频，且遇到平台改动时自动切换路线。]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Agent Reach 是一个能力层级工具，负责为任意 AI Agent 自动选型、安装、诊断并路由到多渠道后端，以实现对网页、视频、社媒、RSS、GitHub 等全网信息的稳定读取和搜索，且支持安全模式、本地化存储和实时替换后端以应对平台变化。简单说：它帮你一键让 Agent 读网、搜网、看视频，且遇到平台改动时自动切换路线。]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 Panniantong / Agent-…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms4vr5fq6a2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms4vr5fq6a2m</guid>
+      <pubDate>Sun, 02 Aug 2026 21:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Panniantong / Agent-Reach<br>⭐ 64,301 (+645)<br>🗒 Python<br><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Panniantong / Agent-Reach<br>⭐ 64,301 (+645)<br>🗒 Python<br><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   サマリ: 著者が自作したサイクロイド歯車ギアボックスと、それを生成するPythonスクリプト…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms4qnixlz62s</link>
@@ -441,24 +459,6 @@
       <author>GitHub (@github.com)</author>
       <description><![CDATA[Beats for your next work or study session 🎧]]></description>
       <content:encoded><![CDATA[Beats for your next work or study session 🎧]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   研究者2名が今夏にNeurIPS/WACV/TerraBytesの査読で、提出論文の約68–…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2guxwn5k2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2guxwn5k2s</guid>
-      <pubDate>Sat, 01 Aug 2026 21:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>研究者2名が今夏にNeurIPS/WACV/TerraBytesの査読で、提出論文の約68–82%が虚偽の引用・著者改ざん・LLM生成の文章を含むと報告。AI生成の文献引用の乱造は広範な問題で、査読時間の浪費や学術信頼性の低下につながっているとして、bib-auditという自動引用検証ツールを紹介・公開した。査読の公平性を保つため、著者側の開示や desk-reject の必要性が議論されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>研究者2名が今夏にNeurIPS/WACV/TerraBytesの査読で、提出論文の約68–82%が虚偽の引用・著者改ざん・LLM生成の文章を含むと報告。AI生成の文献引用の乱造は広範な問題で、査読時間の浪費や学術信頼性の低下につながっているとして、bib-auditという自動引用検証ツールを紹介・公開した。査読の公平性を保つため、著者側の開示や desk-reject の必要性が議論されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>偽の著者がいると疑われる2つの研究論文を指摘しましたが、いずれも口頭発表として採択されました。 I flagged tw…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2guqhbxs2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2guqhbxs2s</guid>
-      <pubDate>Sat, 01 Aug 2026 21:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[偽の著者がいると疑われる2つの研究論文を指摘しましたが、いずれも口頭発表として採択されました。<br>I flagged two research papers for fake authors and both were accepted as orals<br><br>🔺 271<br>💬 23<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[偽の著者がいると疑われる2つの研究論文を指摘しましたが、いずれも口頭発表として採択されました。<br>I flagged two research papers for fake authors and both were accepted as orals<br><br>🔺 271<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
