@@ -5,8 +5,170 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:48:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Go 1.27では型パラメータを受け取るメソッドが導入され、Box[T] の Map などが…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms4da5an3j23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms4da5an3j23</guid>
+      <pubDate>Sun, 02 Aug 2026 15:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Go 1.27では型パラメータを受け取るメソッドが導入され、Box[T] の Map などがメソッドとして汎用的に書けるようになったほか、宣言的なインタフェースの制約や構造体リテラル周りの挙動改善、JSON v2 の正式実装、UUID 生成の標準ライブラリ追加など多くの機能強化が行われました。これに伴い、コンパイラの最適化による小規模なパフォーマンス向上や、ポータブル SIMD、マップハッシュのカスタマイズ、後方互換性を保ちつつの新しいユーティリティ群も追加されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Go 1.27では型パラメータを受け取るメソッドが導入され、Box[T] の Map などがメソッドとして汎用的に書けるようになったほか、宣言的なインタフェースの制約や構造体リテラル周りの挙動改善、JSON v2 の正式実装、UUID 生成の標準ライブラリ追加など多くの機能強化が行われました。これに伴い、コンパイラの最適化による小規模なパフォーマンス向上や、ポータブル SIMD、マップハッシュのカスタマイズ、後方互換性を保ちつつの新しいユーティリティ群も追加されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Go 1.27 インタラクティブツアー Go 1.27 Interactive Tour  🔺 293 💬 28 �…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms4d7tvdnr2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms4d7tvdnr2n</guid>
+      <pubDate>Sun, 02 Aug 2026 15:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Go 1.27 インタラクティブツアー<br>Go 1.27 Interactive Tour<br><br>🔺 293<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Go 1.27 インタラクティブツアー<br>Go 1.27 Interactive Tour<br><br>🔺 293<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   NetBSD 11.0が公開され、アーキテクチャ別のインストール手順とCD/DVD/IMG形…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms44jjayef2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms44jjayef2j</guid>
+      <pubDate>Sun, 02 Aug 2026 13:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>NetBSD 11.0が公開され、アーキテクチャ別のインストール手順とCD/DVD/IMG形式の注意点、ARM向けのU-Boot搭載イメージ案内が提供されています。リリースにはオープンなセキュリティ課題があることを透明化しつつ、検証期間を確保するためリリース候補を経由して公開したと説明しています。今後2カ月以内に11.1のリリースを予定しており、安定ブランチへ関連修正を順次適用予定です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>NetBSD 11.0が公開され、アーキテクチャ別のインストール手順とCD/DVD/IMG形式の注意点、ARM向けのU-Boot搭載イメージ案内が提供されています。リリースにはオープンなセキュリティ課題があることを透明化しつつ、検証期間を確保するためリリース候補を経由して公開したと説明しています。今後2カ月以内に11.1のリリースを予定しており、安定ブランチへ関連修正を順次適用予定です。]]></content:encoded>
+    </item>
+    <item>
+      <title>NetBSD 11.0 NetBSD 11.0  🔺 295 💬 15 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms44jbtxjf2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms44jbtxjf2i</guid>
+      <pubDate>Sun, 02 Aug 2026 13:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[NetBSD 11.0<br>NetBSD 11.0<br><br>🔺 295<br>💬 15<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[NetBSD 11.0<br>NetBSD 11.0<br><br>🔺 295<br>💬 15<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 GitHub - microsoft/skill-recorder  🔖 153 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms43iwgi7i2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms43iwgi7i2e</guid>
+      <pubDate>Sun, 02 Aug 2026 13:26:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 GitHub - microsoft/skill-recorder<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 GitHub - microsoft/skill-recorder<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Here&apos;s my attempt at summarizing the various &quot;open letters&quot; …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3ms42wydw4k2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3ms42wydw4k2h</guid>
+      <pubDate>Sun, 02 Aug 2026 13:16:14 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Here's my attempt at summarizing the various "open letters" about AI development that have been doing the rounds over the past few weeks simonwillison.net/2026/Aug/2/o...]]></description>
+      <content:encoded><![CDATA[Here's my attempt at summarizing the various "open letters" about AI development that have been doing the rounds over the past few weeks simonwillison.net/2026/Aug/2/o...]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  different-ai/openwork OpenWorkは、AIワークフローを共有する…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wuxbc5l2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wuxbc5l2o</guid>
+      <pubDate>Sun, 02 Aug 2026 12:03:31 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>different-ai/openwork<br>OpenWorkは、AIワークフローを共有するためのオープンソースのデスクトップアプリです。<br>MCPを通じて、スキルや接続サービスを異なるAIエージェントやチーム、デバイス間で再利用可能にします。<br>専用アプリだけでなく、既存のエージェントから利用することもでき、組織向けには能力の公開やアクセス管理を行う管理機能も備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>different-ai/openwork<br>OpenWorkは、AIワークフローを共有するためのオープンソースのデスクトップアプリです。<br>MCPを通じて、スキルや接続サービスを異なるAIエージェントやチーム、デバイス間で再利用可能にします。<br>専用アプリだけでなく、既存のエージェントから利用することもでき、組織向けには能力の公開やアクセス管理を行う管理機能も備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  zhaoxuya520/reverse-skill AIエージェントがAPKやバイナリ、J…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wugth2t2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wugth2t2s</guid>
+      <pubDate>Sun, 02 Aug 2026 12:03:13 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>zhaoxuya520/reverse-skill<br>AIエージェントがAPKやバイナリ、JS暗号化、CTF、ペネトレーションテストなどの解析を行う際、適切な手法やツールへ誘導し、再現可能なワークフローを実行させるためのスキルルーターです。<br>コマンドの推測を避け、効率的な分析ルートを提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>zhaoxuya520/reverse-skill<br>AIエージェントがAPKやバイナリ、JS暗号化、CTF、ペネトレーションテストなどの解析を行う際、適切な手法やツールへ誘導し、再現可能なワークフローを実行させるためのスキルルーターです。<br>コマンドの推測を避け、効率的な分析ルートを提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  codecrafters-io/build-your-own-x 分散システムやデータベー…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wtkezbj2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wtkezbj2z</guid>
+      <pubDate>Sun, 02 Aug 2026 12:02:43 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>codecrafters-io/build-your-own-x<br>分散システムやデータベース、OSなど、様々な技術をゼロから再構築するためのステップバイステップガイドをまとめたリポジトリです。<br>自作を通じて技術への理解を深める学習を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>codecrafters-io/build-your-own-x<br>分散システムやデータベース、OSなど、様々な技術をゼロから再構築するためのステップバイステップガイドをまとめたリポジトリです。<br>自作を通じて技術への理解を深める学習を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  iv-org/invidious YouTubeのオープンソースな代替フロントエンドを提供…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wsjtttn2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3wsjtttn2s</guid>
+      <pubDate>Sun, 02 Aug 2026 12:02:09 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>iv-org/invidious<br>YouTubeのオープンソースな代替フロントエンドを提供することを目的としたリポジトリです。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>iv-org/invidious<br>YouTubeのオープンソースな代替フロントエンドを提供することを目的としたリポジトリです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  lyogavin/airllm AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3ws6z4652u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3ws6z4652u</guid>
+      <pubDate>Sun, 02 Aug 2026 12:01:58 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化や蒸留、プルーニングを行わずに巨大な大規模言語モデルを低スペックのGPUで動作させるためのライブラリです。<br>70Bモデルを4GBのGPUで動作させることが可能で、MoEモデルにおいてはエキスパートを順次読み込むことで、超大規模なモデルでも少量のメモリで実行することを目的に作成されました。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化や蒸留、プルーニングを行わずに巨大な大規模言語モデルを低スペックのGPUで動作させるためのライブラリです。<br>70Bモデルを4GBのGPUで動作させることが可能で、MoEモデルにおいてはエキスパートを順次読み込むことで、超大規模なモデルでも少量のメモリで実行することを目的に作成されました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vsyuxic2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vsyuxic2u</guid>
+      <pubDate>Sun, 02 Aug 2026 11:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプロンプトを用いると長期的には貯蓄増加や分散投資を促す一方、失業などのショック時の対応や積極的なリバランスには課題が残ると指摘しました。性別や金融リテラシー、AI経験の有無によって助言が異なり、結果として60歳時の富に約4–6%の差が生じる可能性があるため、プロンプト設計とライフサイクルに基づく運用が重要だと結論づけています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプロンプトを用いると長期的には貯蓄増加や分散投資を促す一方、失業などのショック時の対応や積極的なリバランスには課題が残ると指摘しました。性別や金融リテラシー、AI経験の有無によって助言が異なり、結果として60歳時の富に約4–6%の差が生じる可能性があるため、プロンプト設計とライフサイクルに基づく運用が重要だと結論づけています。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。 AI financial advice is sur…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vssallk2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vssallk2u</guid>
+      <pubDate>Sun, 02 Aug 2026 11:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。<br>AI financial advice is surprisingly good, especially if you ask right questions<br><br>🔺 310<br>💬 60<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。<br>AI financial advice is surprisingly good, especially if you ask right questions<br><br>🔺 310<br>💬 60<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  thinkingmachines/Inkling-Small Inkling-S…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7s6ovy2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7s6ovy2g</guid>
+      <pubDate>Sun, 02 Aug 2026 11:15:53 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling-Small<br>Inkling-Smallは、テキスト、画像、音声を入力としてテキストを出力する汎用マルチモーダルモデルです。<br>チャットボットやコーディングアシスタント、RAGシステムなどのAIアプリケーション開発を目的として設計されています。<br>研究やファインチューニング、外部製品への統合を可能にするため、オープンウェイトで公開されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling-Small<br>Inkling-Smallは、テキスト、画像、音声を入力としてテキストを出力する汎用マルチモーダルモデルです。<br>チャットボットやコーディングアシスタント、RAGシステムなどのAIアプリケーション開発を目的として設計されています。<br>研究やファインチューニング、外部製品への統合を可能にするため、オープンウェイトで公開されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  owensong/Inflect-Micro-v2 1000万パラメータ未満で動…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7a5p2m2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7a5p2m2b</guid>
+      <pubDate>Sun, 02 Aug 2026 11:15:34 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満で動作するローカル向けのテキスト読み上げモデルInflect-Micro-v2を提供することを目的としています。<br>英語の固定音声合成に対応し、CPUやCUDAでの推論が可能です。<br>あわせて音声や言語を適応させるためのツールキットも提供されており、軽量で効率的な音声合成を実現します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満で動作するローカル向けのテキスト読み上げモデルInflect-Micro-v2を提供することを目的としています。<br>英語の固定音声合成に対応し、CPUやCUDAでの推論が可能です。<br>あわせて音声や言語を適応させるためのツールキットも提供されており、軽量で効率的な音声合成を実現します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/Kimi-K3-GGUF Kimi K3は、2.8兆パラメータを…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5ur6hd26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5ur6hd26</guid>
+      <pubDate>Sun, 02 Aug 2026 11:14:49 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Kimi-K3-GGUF<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのマルチモーダル・エージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの最先端の知能を実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Kimi-K3-GGUF<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのマルチモーダル・エージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの最先端の知能を実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期的なタスクに対応した最新の…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5fy6m32h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5fy6m32h</guid>
+      <pubDate>Sun, 02 Aug 2026 11:14:33 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスクに対応した最新のフラグシップモデルです。<br>最大100万トークンのコンテキストウィンドウをサポートし、前世代のGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスクに対応した最新のフラグシップモデルです。<br>最大100万トークンのコンテキストウィンドウをサポートし、前世代のGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u4yrkcd26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u4yrkcd26</guid>
+      <pubDate>Sun, 02 Aug 2026 11:14:19 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階のファインチューニングとマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超える高い性能を実現し、GGUF形式の量子化モデルとして公開しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階のファインチューニングとマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超える高い性能を実現し、GGUF形式の量子化モデルとして公開しています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Diátaxisは、技術文書の作成を体系化する考え方で、学習用トTutorial、実用ガイド…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3p4j2brm2i</link>
@@ -294,168 +456,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[It emphasizes security, modularity, and multi-provider integration (LangGraph/LangChain, InfoQuest, Lark/Feishu, memory backends, and optional tracing). (2/2)]]></description>
       <content:encoded><![CDATA[It emphasizes security, modularity, and multi-provider integration (LangGraph/LangChain, InfoQuest, Lark/Feishu, memory backends, and optional tracing). (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   DeerFlow 2.0 is a ground-up rewrite of an open…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms23alq5jk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms23alq5jk2m</guid>
-      <pubDate>Sat, 01 Aug 2026 18:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>DeerFlow 2.0 is a ground-up rewrite of an open-source super-agent harness that orchestrates sub-agents, memory, and sandboxes with extensible skills, offering Docker/local deployment, multiple tracing options, IM channels, long-term memory, and a rich admin/configuration surface. (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>DeerFlow 2.0 is a ground-up rewrite of an open-source super-agent harness that orchestrates sub-agents, memory, and sandboxes with extensible skills, offering Docker/local deployment, multiple tracing options, IM channels, long-term memory, and a rich admin/configuration surface. (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 bytedance / deer-fl…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms23aisbqs2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms23aisbqs2m</guid>
-      <pubDate>Sat, 01 Aug 2026 18:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 78,536 (+204)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 78,536 (+204)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIは学術研究者向けにChatGPTの無料アクセスを提供しつつ、長年未解決だった数学…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzzhqefh423</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzzhqefh423</guid>
-      <pubDate>Sat, 01 Aug 2026 17:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIは学術研究者向けにChatGPTの無料アクセスを提供しつつ、長年未解決だった数学の問題に対する新たな解を多数発表した。高次元の球体パッキングやコード理論、非SOFIC群、Connesの剛性予想の反証、算術回路の下界、量子並列再生など、10件近くの成果をLean証明付きで提示し、AI研究支援と倫理的な帰属にも触れている。これによりAIが数学研究に具体的な寄与をする事例が示され、研究コミュニティのディスカッションと今後の発展を促している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIは学術研究者向けにChatGPTの無料アクセスを提供しつつ、長年未解決だった数学の問題に対する新たな解を多数発表した。高次元の球体パッキングやコード理論、非SOFIC群、Connesの剛性予想の反証、算術回路の下界、量子並列再生など、10件近くの成果をLean証明付きで提示し、AI研究支援と倫理的な帰属にも触れている。これによりAIが数学研究に具体的な寄与をする事例が示され、研究コミュニティのディスカッションと今後の発展を促している。]]></content:encoded>
-    </item>
-    <item>
-      <title>数学と理論計算機科学における十の進歩 Ten advances in mathematics and theoretic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzzhifzjv24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzzhifzjv24</guid>
-      <pubDate>Sat, 01 Aug 2026 17:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[数学と理論計算機科学における十の進歩<br>Ten advances in mathematics and theoretical computer science<br><br>🔺 336<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[数学と理論計算機科学における十の進歩<br>Ten advances in mathematics and theoretical computer science<br><br>🔺 336<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 宮本佳林『アイドルがAIと配信のシステムを全部作った話』  🔖 160 ブックマーク 💬 コメント 🔗 記事…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrzygx2bev25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrzygx2bev25</guid>
-      <pubDate>Sat, 01 Aug 2026 17:26:09 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 宮本佳林『アイドルがAIと配信のシステムを全部作った話』<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 宮本佳林『アイドルがAIと配信のシステムを全部作った話』<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve actually been working towards something like that recen…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrzy4e56gk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrzy4e56gk2n</guid>
-      <pubDate>Sat, 01 Aug 2026 17:20:13 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I've actually been working towards something like that recently - baskets, fish, sun in the background, which way the pelican is facing...]]></description>
-      <content:encoded><![CDATA[I've actually been working towards something like that recently - baskets, fish, sun in the background, which way the pelican is facing...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 github / gh-stack ⭐ 688 (+67) 🗒 Go  GitHub Stacked PRs</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzujyhkpo2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzujyhkpo2n</guid>
-      <pubDate>Sat, 01 Aug 2026 16:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 github / gh-stack<br>⭐ 688 (+67)<br>🗒 Go<br><br>GitHub Stacked PRs]]></description>
-      <content:encoded><![CDATA[📦 github / gh-stack<br>⭐ 688 (+67)<br>🗒 Go<br><br>GitHub Stacked PRs]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   演習として「何もしないで座る・3分間 exist を受け入れる」という体験を紹介。存在を受け…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzsrbjjd22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzsrbjjd22t</guid>
-      <pubDate>Sat, 01 Aug 2026 15:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>演習として「何もしないで座る・3分間 exist を受け入れる」という体験を紹介。存在を受け入れる訓練は難しく、私たちは常に現在を別の何かへ置き換えようとする衝動に支配されている。呼吸を手掛かりに、少しずつ「今ここ」に耐える練習を積むと、不安や退屈への対処が楽になり、日常の小さな不快も受け入れやすくなる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>演習として「何もしないで座る・3分間 exist を受け入れる」という体験を紹介。存在を受け入れる訓練は難しく、私たちは常に現在を別の何かへ置き換えようとする衝動に支配されている。呼吸を手掛かりに、少しずつ「今ここ」に耐える練習を積むと、不安や退屈への対処が楽になり、日常の小さな不快も受け入れやすくなる。]]></content:encoded>
-    </item>
-    <item>
-      <title>存在の仕方 How to Exist  🔺 299 💬 60 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzsqztbdu2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzsqztbdu2n</guid>
-      <pubDate>Sat, 01 Aug 2026 15:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[存在の仕方<br>How to Exist<br><br>🔺 299<br>💬 60<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[存在の仕方<br>How to Exist<br><br>🔺 299<br>💬 60<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 microsoft / generative-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzr6kocmi26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzr6kocmi26</guid>
-      <pubDate>Sat, 01 Aug 2026 15:16:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / generative-ai-for-beginners<br>⭐ 113,904 (+104)<br>🗒 Jupyter Notebook<br><br>21 Lessons, Get Started Building with Generative AI]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / generative-ai-for-beginners<br>⭐ 113,904 (+104)<br>🗒 Jupyter Notebook<br><br>21 Lessons, Get Started Building with Generative AI]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 microsoft / TRELLIS.2 ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzntg6pwe25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzntg6pwe25</guid>
-      <pubDate>Sat, 01 Aug 2026 14:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / TRELLIS.2<br>⭐ 9,782 (+167)<br>🗒 Python<br><br>Native and Compact Structured Latents for 3D Generation]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 microsoft / TRELLIS.2<br>⭐ 9,782 (+167)<br>🗒 Python<br><br>Native and Compact Structured Latents for 3D Generation]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   新世界のエージェント工学を探るため、約150,000行のRust/TypeScriptコード…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzm2orocm2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzm2orocm2i</guid>
-      <pubDate>Sat, 01 Aug 2026 13:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>新世界のエージェント工学を探るため、約150,000行のRust/TypeScriptコードからなる高度なアプリを自作。データアクセス層の巨大ファイルを分割・整理するリファクタリング実験を実施し、各ステップで投入トークン数と変化後のコード規模を測定。結果、ファイル分割と抽出によって同一変更のトークン消費が83%削減される可能性を示しつつ、エージェントのみの自動リファクタリングには限界があり、人間の介入が依然として必須であることを観察した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>新世界のエージェント工学を探るため、約150,000行のRust/TypeScriptコードからなる高度なアプリを自作。データアクセス層の巨大ファイルを分割・整理するリファクタリング実験を実施し、各ステップで投入トークン数と変化後のコード規模を測定。結果、ファイル分割と抽出によって同一変更のトークン消費が83%削減される可能性を示しつつ、エージェントのみの自動リファクタリングには限界があり、人間の介入が依然として必須であることを観察した。]]></content:encoded>
-    </item>
-    <item>
-      <title>リファクタリングの経済的効果 The Economic Benefit of Refactoring  🔺 280 �…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzm2hytsk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mrzm2hytsk2n</guid>
-      <pubDate>Sat, 01 Aug 2026 13:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[リファクタリングの経済的効果<br>The Economic Benefit of Refactoring<br><br>🔺 280<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[リファクタリングの経済的効果<br>The Economic Benefit of Refactoring<br><br>🔺 280<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Elevators  🔖 152 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrzkzvcq6t2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mrzkzvcq6t2s</guid>
-      <pubDate>Sat, 01 Aug 2026 13:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Elevators<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Elevators<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>improvement across multiple Agents and frameworks. It offers…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhzlb7g2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhzlb7g2c</guid>
-      <pubDate>Sat, 01 Aug 2026 13:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[improvement across multiple Agents and frameworks. It offers a one-click deployment (Memory Core/Hub/Proxy), a migration path from older versions, and tools to import codebases, documents, and past conversations into a centralized Memory Hub. (2/2)]]></description>
-      <content:encoded><![CDATA[improvement across multiple Agents and frameworks. It offers a one-click deployment (Memory Core/Hub/Proxy), a migration path from older versions, and tools to import codebases, documents, and past conversations into a centralized Memory Hub. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   TencentDB Agent Memory is a team-centered memo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhzjgk426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhzjgk426</guid>
-      <pubDate>Sat, 01 Aug 2026 13:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>TencentDB Agent Memory is a team-centered memory platform that captures and organizes conversations, documents, code, and skills into layered assets (Chat Memory, Skills, Wiki, CodeGraph) with access controls, enabling cross-team reuse, faster cold starts, and iterative (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>TencentDB Agent Memory is a team-centered memory platform that captures and organizes conversations, documents, code, and skills into layered assets (Chat Memory, Skills, Wiki, CodeGraph) with access controls, enabling cross-team reuse, faster cold starts, and iterative (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 TencentCloud / Tenc…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhw7fsa25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzkhw7fsa25</guid>
-      <pubDate>Sat, 01 Aug 2026 13:16:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / TencentDB-Agent-Memory<br>⭐ 9,991 (+250)<br>🗒 TypeScript<br><br>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) t...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / TencentDB-Agent-Memory<br>⭐ 9,991 (+250)<br>🗒 TypeScript<br><br>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) t...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 NomaDamas / k-skill ⭐ 6,649 (+64) 🗒 JavaScript  한국인을 위한 …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzh4rvjvi2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mrzh4rvjvi2m</guid>
-      <pubDate>Sat, 01 Aug 2026 12:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 NomaDamas / k-skill<br>⭐ 6,649 (+64)<br>🗒 JavaScript<br><br>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로]]></description>
-      <content:encoded><![CDATA[📦 NomaDamas / k-skill<br>⭐ 6,649 (+64)<br>🗒 JavaScript<br><br>한국인을 위한 스킬 모음집 - 에이전트를 한국인으로]]></content:encoded>
     </item>
   </channel>
 </rss>
