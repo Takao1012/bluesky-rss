@@ -5,8 +5,188 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 23:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:54:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIがプロトタイプ作成を劇的に加速した一方で、実運用に耐える設計や判断力といった“本物の開発…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5yupxeo62n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5yupxeo62n</guid>
+      <pubDate>Mon, 03 Aug 2026 07:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIがプロトタイプ作成を劇的に加速した一方で、実運用に耐える設計や判断力といった“本物の開発力”は依然として難しい、という点が核心です。AIは低レベルの作業を自動化して生産性を高める一方、分散システムやデータ設計、セキュリティといった本質的な課題の判断力を置換しません。結局は、 fundamentals を学んだ上で AI をツールとして活用し、設計思考とアーキテクチャの技能を磨くことが成功の鍵だ、と結論づけています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIがプロトタイプ作成を劇的に加速した一方で、実運用に耐える設計や判断力といった“本物の開発力”は依然として難しい、という点が核心です。AIは低レベルの作業を自動化して生産性を高める一方、分散システムやデータ設計、セキュリティといった本質的な課題の判断力を置換しません。結局は、 fundamentals を学んだ上で AI をツールとして活用し、設計思考とアーキテクチャの技能を磨くことが成功の鍵だ、と結論づけています。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIは動作する製品を生み出すことはできません。それはまだあなたの仕事です。 AI doesn&apos;t generate wo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5yuk5nvm2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5yuk5nvm2m</guid>
+      <pubDate>Mon, 03 Aug 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIは動作する製品を生み出すことはできません。それはまだあなたの仕事です。<br>AI doesn't generate working products, that's still your job<br><br>🔺 262<br>💬 53<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIは動作する製品を生み出すことはできません。それはまだあなたの仕事です。<br>AI doesn't generate working products, that's still your job<br><br>🔺 262<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Qwen 3.8-MaxはQwenファミリー最大級の2.4兆パラメータモデルで、コーディング…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5s6bacmf2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5s6bacmf2z</guid>
+      <pubDate>Mon, 03 Aug 2026 05:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen 3.8-MaxはQwenファミリー最大級の2.4兆パラメータモデルで、コーディングや研究、長期的タスクを自律的に進行・改善できる能力を大幅に拡張しました。自分で課題を設定・実行・評価し、10日以上の自律的コーディングや研究ループを通じて、実務レベルの成果物を人の介在なしに生成・最適化する事例を多数示しています。具体的には自動ハーネスの構築、論文の再現と改良、実世界の複数職種における生産性向上、長期的な設計最適化までを実証しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen 3.8-MaxはQwenファミリー最大級の2.4兆パラメータモデルで、コーディングや研究、長期的タスクを自律的に進行・改善できる能力を大幅に拡張しました。自分で課題を設定・実行・評価し、10日以上の自律的コーディングや研究ループを通じて、実務レベルの成果物を人の介在なしに生成・最適化する事例を多数示しています。具体的には自動ハーネスの構築、論文の再現と改良、実世界の複数職種における生産性向上、長期的な設計最適化までを実証しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen3.8-Max：コーディングとコワーキングの新しい基準 Qwen3.8-Max: A New Bar for C…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5s5zoaku2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5s5zoaku2u</guid>
+      <pubDate>Mon, 03 Aug 2026 05:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen3.8-Max：コーディングとコワーキングの新しい基準<br>Qwen3.8-Max: A New Bar for Coding and Cowork<br><br>🔺 310<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen3.8-Max：コーディングとコワーキングの新しい基準<br>Qwen3.8-Max: A New Bar for Coding and Cowork<br><br>🔺 310<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 脳の遺伝子編集治療で6歳女児死亡　1年以上公表されず　約1億3000万円は両親が負担　中国  🔖 175 ブック…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5ns3estf2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5ns3estf2c</guid>
+      <pubDate>Mon, 03 Aug 2026 04:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 脳の遺伝子編集治療で6歳女児死亡　1年以上公表されず　約1億3000万円は両親が負担　中国<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 脳の遺伝子編集治療で6歳女児死亡　1年以上公表されず　約1億3000万円は両親が負担　中国<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Microsoft ResearchのFlintは、データと意味カテゴリを元に自動で最適なチ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5lhijkeg2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5lhijkeg2u</guid>
+      <pubDate>Mon, 03 Aug 2026 03:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Microsoft ResearchのFlintは、データと意味カテゴリを元に自動で最適なチャート設定を生成するビジュアライゼーション中間言語。50種類のチャートをVega-Lite/ ECharts/ Chart.js/ Plotly/ Excelのバックエンドに統一インターフェースで出力でき、低レベルのパラメータ記述を省略して美しい図を作成する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Microsoft ResearchのFlintは、データと意味カテゴリを元に自動で最適なチャート設定を生成するビジュアライゼーション中間言語。50種類のチャートをVega-Lite/ ECharts/ Chart.js/ Plotly/ Excelのバックエンドに統一インターフェースで出力でき、低レベルのパラメータ記述を省略して美しい図を作成する。]]></content:encoded>
+    </item>
+    <item>
+      <title>Flint：AI時代の可視化言語 Flint: A Visualization Language for the AI …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5lhbpydp2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5lhbpydp2h</guid>
+      <pubDate>Mon, 03 Aug 2026 03:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Flint：AI時代の可視化言語<br>Flint: A Visualization Language for the AI Era<br><br>🔺 272<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Flint：AI時代の可視化言語<br>Flint: A Visualization Language for the AI Era<br><br>🔺 272<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査　「ゲームで社会復帰」に落とし穴？  🔖 196…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5kgrzb7m2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5kgrzb7m2o</guid>
+      <pubDate>Mon, 03 Aug 2026 03:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査　「ゲームで社会復帰」に落とし穴？<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査　「ゲームで社会復帰」に落とし穴？<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech  🔖 157 ブッ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5h3oythh2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5h3oythh2o</guid>
+      <pubDate>Mon, 03 Aug 2026 02:26:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>cross-tool collaboration, organization-wide management, and …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjukyhx26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjukyhx26</guid>
+      <pubDate>Mon, 03 Aug 2026 02:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[cross-tool collaboration, organization-wide management, and local/remote development workflows. (2/2)]]></description>
+      <content:encoded><![CDATA[cross-tool collaboration, organization-wide management, and local/remote development workflows. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenWork is a free, open-source desktop app th…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjujpjk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjujpjk2m</guid>
+      <pubDate>Mon, 03 Aug 2026 02:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenWork is a free, open-source desktop app that lets you share and reuse AI workflows across teams and devices, with an optional admin Den for centralized control and publishing capabilities. It integrates via MCPs with major agents (Codex, Claude Code, etc.) and supports (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenWork is a free, open-source desktop app that lets you share and reuse AI workflows across teams and devices, with an optional admin Den for centralized control and publishing capabilities. It integrates via MCPs with major agents (Codex, Claude Code, etc.) and supports (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 different-ai / openw…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjrswc42c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5gjrswc42c</guid>
+      <pubDate>Mon, 03 Aug 2026 02:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 different-ai / openwork<br>⭐ 20,116 (+585)<br>🗒 TypeScript<br><br>The open-source alternative to Claude Cowork (powered by opencode)]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 different-ai / openwork<br>⭐ 20,116 (+585)<br>🗒 TypeScript<br><br>The open-source alternative to Claude Cowork (powered by opencode)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenSUSE Tumbleweed 上で x86_64-unknown-linux-mu…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5er2ynt62t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5er2ynt62t</guid>
+      <pubDate>Mon, 03 Aug 2026 01:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenSUSE Tumbleweed 上で x86_64-unknown-linux-musl 用にビルドした ripgrep が、高度な並行性で非常に大きな検索ツリーを走らせると SIGSEGV を起こしてコアダンプする、というバグ報告です。崩壊箇所は MUSL の mallocng にある整合性アサーション付近で、opendir 経由のディレクトリ走査中に発生します。再現手順として、約20 GiB 1.8百万ファイルのツリーを生成し、存在しない文字列を検索するループを実行すると、1分程度でクラッシュします。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenSUSE Tumbleweed 上で x86_64-unknown-linux-musl 用にビルドした ripgrep が、高度な並行性で非常に大きな検索ツリーを走らせると SIGSEGV を起こしてコアダンプする、というバグ報告です。崩壊箇所は MUSL の mallocng にある整合性アサーション付近で、opendir 経由のディレクトリ走査中に発生します。再現手順として、約20 GiB 1.8百万ファイルのツリーを生成し、存在しない文字列を検索するループを実行すると、1分程度でクラッシュします。]]></content:encoded>
+    </item>
+    <item>
+      <title>RipGrep の musl バイナリは、非常に大規模な検索を実行しているときに、時々セグメンテーションフォルトを起こし…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5eqpi2vo2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms5eqpi2vo2t</guid>
+      <pubDate>Mon, 03 Aug 2026 01:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[RipGrep の musl バイナリは、非常に大規模な検索を実行しているときに、時々セグメンテーションフォルトを起こします。<br>RipGrep musl binaries occasionally segfault during very-large searches<br><br>🔺 278<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[RipGrep の musl バイナリは、非常に大規模な検索を実行しているときに、時々セグメンテーションフォルトを起こします。<br>RipGrep musl binaries occasionally segfault during very-large searches<br><br>🔺 278<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～  🔖 158 ブックマーク 💬 コメント �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5dqb4fzn2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5dqb4fzn2s</guid>
+      <pubDate>Mon, 03 Aug 2026 01:26:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>costs, modularity, and a community-driven open development m…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6ftbck2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6ftbck2n</guid>
+      <pubDate>Mon, 03 Aug 2026 01:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[costs, modularity, and a community-driven open development model. (2/2)]]></description>
+      <content:encoded><![CDATA[costs, modularity, and a community-driven open development model. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Reasonix is a config- and plugin-driven, singl…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6frqd22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6frqd22c</guid>
+      <pubDate>Mon, 03 Aug 2026 01:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Reasonix is a config- and plugin-driven, single-binary AI coding agent for the terminal, supporting multi-model orchestration, subprocess-based tools, and cache-aware context—delivered via CLI, desktop, or VS Code extension with cross-compile support. It emphasizes low token (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Reasonix is a config- and plugin-driven, single-binary AI coding agent for the terminal, supporting multi-model orchestration, subprocess-based tools, and cache-aware context—delivered via CLI, desktop, or VS Code extension with cross-compile support. It emphasizes low token (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 esengine / DeepSeek…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6cuycc25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms5d6cuycc25</guid>
+      <pubDate>Mon, 03 Aug 2026 01:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 esengine / DeepSeek-Reasonix<br>⭐ 28,726 (+274)<br>🗒 Go<br><br>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 esengine / DeepSeek-Reasonix<br>⭐ 28,726 (+274)<br>🗒 Go<br><br>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog  🔖 15…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5aeylcyw26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms5aeylcyw26</guid>
+      <pubDate>Mon, 03 Aug 2026 00:26:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 antirez / ds4 ⭐ 19,834 …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms57t5otg62m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3ms57t5otg62m</guid>
+      <pubDate>Mon, 03 Aug 2026 00:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 antirez / ds4<br>⭐ 19,834 (+150)<br>🗒 C<br><br>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 antirez / ds4<br>⭐ 19,834 (+150)<br>🗒 C<br><br>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Google Newsが機能不全に陥り、検索設定で期間・言語・地域を指定しても、インスタグラ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms562ebsom2i</link>
@@ -279,186 +459,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>iv-org/invidious<br>YouTubeのオープンソースな代替フロントエンドを提供することを目的としたリポジトリです。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>iv-org/invidious<br>YouTubeのオープンソースな代替フロントエンドを提供することを目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  lyogavin/airllm AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3ws6z4652u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3ms3ws6z4652u</guid>
-      <pubDate>Sun, 02 Aug 2026 12:01:58 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化や蒸留、プルーニングを行わずに巨大な大規模言語モデルを低スペックのGPUで動作させるためのライブラリです。<br>70Bモデルを4GBのGPUで動作させることが可能で、MoEモデルにおいてはエキスパートを順次読み込むことで、超大規模なモデルでも少量のメモリで実行することを目的に作成されました。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、推論時のメモリ使用量を大幅に削減し、量子化や蒸留、プルーニングを行わずに巨大な大規模言語モデルを低スペックのGPUで動作させるためのライブラリです。<br>70Bモデルを4GBのGPUで動作させることが可能で、MoEモデルにおいてはエキスパートを順次読み込むことで、超大規模なモデルでも少量のメモリで実行することを目的に作成されました。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vsyuxic2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vsyuxic2u</guid>
-      <pubDate>Sun, 02 Aug 2026 11:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプロンプトを用いると長期的には貯蓄増加や分散投資を促す一方、失業などのショック時の対応や積極的なリバランスには課題が残ると指摘しました。性別や金融リテラシー、AI経験の有無によって助言が異なり、結果として60歳時の富に約4–6%の差が生じる可能性があるため、プロンプト設計とライフサイクルに基づく運用が重要だと結論づけています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>MIT Sloanの研究チームは、大規模言語モデル（LLM）による金融助言を分析し、適切なプロンプトを用いると長期的には貯蓄増加や分散投資を促す一方、失業などのショック時の対応や積極的なリバランスには課題が残ると指摘しました。性別や金融リテラシー、AI経験の有無によって助言が異なり、結果として60歳時の富に約4–6%の差が生じる可能性があるため、プロンプト設計とライフサイクルに基づく運用が重要だと結論づけています。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。 AI financial advice is sur…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vssallk2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3vssallk2u</guid>
-      <pubDate>Sun, 02 Aug 2026 11:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。<br>AI financial advice is surprisingly good, especially if you ask right questions<br><br>🔺 310<br>💬 60<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIによる金融アドバイスは意外と的確だ。特に、適切な質問をすれば。<br>AI financial advice is surprisingly good, especially if you ask right questions<br><br>🔺 310<br>💬 60<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  thinkingmachines/Inkling-Small Inkling-S…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7s6ovy2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7s6ovy2g</guid>
-      <pubDate>Sun, 02 Aug 2026 11:15:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling-Small<br>Inkling-Smallは、テキスト、画像、音声を入力としてテキストを出力する汎用マルチモーダルモデルです。<br>チャットボットやコーディングアシスタント、RAGシステムなどのAIアプリケーション開発を目的として設計されています。<br>研究やファインチューニング、外部製品への統合を可能にするため、オープンウェイトで公開されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>thinkingmachines/Inkling-Small<br>Inkling-Smallは、テキスト、画像、音声を入力としてテキストを出力する汎用マルチモーダルモデルです。<br>チャットボットやコーディングアシスタント、RAGシステムなどのAIアプリケーション開発を目的として設計されています。<br>研究やファインチューニング、外部製品への統合を可能にするため、オープンウェイトで公開されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  owensong/Inflect-Micro-v2 1000万パラメータ未満で動…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7a5p2m2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u7a5p2m2b</guid>
-      <pubDate>Sun, 02 Aug 2026 11:15:34 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満で動作するローカル向けのテキスト読み上げモデルInflect-Micro-v2を提供することを目的としています。<br>英語の固定音声合成に対応し、CPUやCUDAでの推論が可能です。<br>あわせて音声や言語を適応させるためのツールキットも提供されており、軽量で効率的な音声合成を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>owensong/Inflect-Micro-v2<br>1000万パラメータ未満で動作するローカル向けのテキスト読み上げモデルInflect-Micro-v2を提供することを目的としています。<br>英語の固定音声合成に対応し、CPUやCUDAでの推論が可能です。<br>あわせて音声や言語を適応させるためのツールキットも提供されており、軽量で効率的な音声合成を実現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Kimi-K3-GGUF Kimi K3は、2.8兆パラメータを…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5ur6hd26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5ur6hd26</guid>
-      <pubDate>Sun, 02 Aug 2026 11:14:49 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Kimi-K3-GGUF<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのマルチモーダル・エージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの最先端の知能を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Kimi-K3-GGUF<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのマルチモーダル・エージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの最先端の知能を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.2 GLM-5.2は、長期的なタスクに対応した最新の…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5fy6m32h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u5fy6m32h</guid>
-      <pubDate>Sun, 02 Aug 2026 11:14:33 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスクに対応した最新のフラグシップモデルです。<br>最大100万トークンのコンテキストウィンドウをサポートし、前世代のGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.2<br>GLM-5.2は、長期的なタスクに対応した最新のフラグシップモデルです。<br>最大100万トークンのコンテキストウィンドウをサポートし、前世代のGLM-5.1から推論、コーディング、エージェント機能などの能力を大幅に向上させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u4yrkcd26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3ms3u4yrkcd26</guid>
-      <pubDate>Sun, 02 Aug 2026 11:14:19 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階のファインチューニングとマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超える高い性能を実現し、GGUF形式の量子化モデルとして公開しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階のファインチューニングとマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700点を超える高い性能を実現し、GGUF形式の量子化モデルとして公開しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Diátaxisは、技術文書の作成を体系化する考え方で、学習用トTutorial、実用ガイド…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3p4j2brm2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3p4j2brm2i</guid>
-      <pubDate>Sun, 02 Aug 2026 09:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Diátaxisは、技術文書の作成を体系化する考え方で、学習用トTutorial、実用ガイド、技術リファレンス、解説の4つのニーズと対応する4形式を結びつけ、内容・文体・構成を最適化する。実践で効果が検証されており、文書作成者や保守者にも価値がある。実例として、GatsbyやCloudflareの導入事例が挙げられ、ユーザーの目的に沿った情報設計を支えた。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Diátaxisは、技術文書の作成を体系化する考え方で、学習用トTutorial、実用ガイド、技術リファレンス、解説の4つのニーズと対応する4形式を結びつけ、内容・文体・構成を最適化する。実践で効果が検証されており、文書作成者や保守者にも価値がある。実例として、GatsbyやCloudflareの導入事例が挙げられ、ユーザーの目的に沿った情報設計を支えた。]]></content:encoded>
-    </item>
-    <item>
-      <title>ダイアタクシス Diátaxis  🔺 348 💬 22 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3p4cfpy32n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3p4cfpy32n</guid>
-      <pubDate>Sun, 02 Aug 2026 09:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ダイアタクシス<br>Diátaxis<br><br>🔺 348<br>💬 22<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ダイアタクシス<br>Diátaxis<br><br>🔺 348<br>💬 22<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Seedance 2.5は、従来のクリップ生成を超え、長尺な一連の映像制作を支える新世代の動…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3ifuce4q2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3ifuce4q2z</guid>
-      <pubDate>Sun, 02 Aug 2026 07:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Seedance 2.5は、従来のクリップ生成を超え、長尺な一連の映像制作を支える新世代の動画生成モデルとして登場。最大30秒の単発生成と多回伸長、30点までの画像・10点ずつの動画・音声を参照素材として一括入力可能な強化されたマルチモーダル参照、時間指定での精密編集やグリーンスクリーン等の高度編集機能を搭載し、長編ストーリーテリングと編集の一貫性・品質を大幅に向上させています。さらに教育・製造など産業分野での応用拡大を進め、実世界の場面再現やデータ生成を通じた教育・訓練・シミュレーションの支援を強化します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Seedance 2.5は、従来のクリップ生成を超え、長尺な一連の映像制作を支える新世代の動画生成モデルとして登場。最大30秒の単発生成と多回伸長、30点までの画像・10点ずつの動画・音声を参照素材として一括入力可能な強化されたマルチモーダル参照、時間指定での精密編集やグリーンスクリーン等の高度編集機能を搭載し、長編ストーリーテリングと編集の一貫性・品質を大幅に向上させています。さらに教育・製造など産業分野での応用拡大を進め、実世界の場面再現やデータ生成を通じた教育・訓練・シミュレーションの支援を強化します。]]></content:encoded>
-    </item>
-    <item>
-      <title>Seedance 2.5 Seedance 2.5  🔺 308 💬 45 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3ifkrggo2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3ifkrggo2h</guid>
-      <pubDate>Sun, 02 Aug 2026 07:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Seedance 2.5<br>Seedance 2.5<br><br>🔺 308<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Seedance 2.5<br>Seedance 2.5<br><br>🔺 308<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Playwrightで業務E2Eテストのアーキテクチャを設計する — Screen Object Model、Fl…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms3dzy2j2k2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms3dzy2j2k2r</guid>
-      <pubDate>Sun, 02 Aug 2026 06:26:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Playwrightで業務E2Eテストのアーキテクチャを設計する — Screen Object Model、Fluent Chaining、日本語メソッド名、ロケーター辞書の統合パターン | DevelopersIO<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Playwrightで業務E2Eテストのアーキテクチャを設計する — Screen Object Model、Fluent Chaining、日本語メソッド名、ロケーター辞書の統合パターン | DevelopersIO<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   世界の大手食品企業は、公共の健康を狙う規制に対して訴訟や法的抑止を通じて妨害しており、201…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3bpbqwdb2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3bpbqwdb2h</guid>
-      <pubDate>Sun, 02 Aug 2026 05:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>世界の大手食品企業は、公共の健康を狙う規制に対して訴訟や法的抑止を通じて妨害しており、2010-2025年に6か国で239件の訴訟が確認された。これらは前向きな政策の実施を遅延・阻止し、政府の法的費用と医療費を膨らませる一方、政策決定者への抑止効果をもたらしている。 Mexico、Brazil、Colombia、India、Britain、United Statesの6カ国を中心に、企業グループの影響力が顕著である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>世界の大手食品企業は、公共の健康を狙う規制に対して訴訟や法的抑止を通じて妨害しており、2010-2025年に6か国で239件の訴訟が確認された。これらは前向きな政策の実施を遅延・阻止し、政府の法的費用と医療費を膨らませる一方、政策決定者への抑止効果をもたらしている。 Mexico、Brazil、Colombia、India、Britain、United Statesの6カ国を中心に、企業グループの影響力が顕著である。]]></content:encoded>
-    </item>
-    <item>
-      <title>大手食品企業対国民 Big Food vs. the People  🔺 265 💬 14 🔗 HN Post |…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3bp3bslr2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms3bp3bslr2n</guid>
-      <pubDate>Sun, 02 Aug 2026 05:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[大手食品企業対国民<br>Big Food vs. the People<br><br>🔺 265<br>💬 14<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[大手食品企業対国民<br>Big Food vs. the People<br><br>🔺 265<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはか…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms35d5f4zr2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms35d5f4zr2n</guid>
-      <pubDate>Sun, 02 Aug 2026 04:26:09 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   カナダは国連サイバー犯罪条約へ署名したが、実際にはサイバー犯罪よりも跨境監視と電子証拠共有を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms32yxz2cs2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms32yxz2cs2s</guid>
-      <pubDate>Sun, 02 Aug 2026 03:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>カナダは国連サイバー犯罪条約へ署名したが、実際にはサイバー犯罪よりも跨境監視と電子証拠共有を拡大する枠組みであり、人権保護や透明性の懸念を指摘する声が多い。過去には同条約の適用対象が「重大犯罪」に広がることで国内の言論弾圧やジャーナリズムへの障害を招く恐れがあると警告され、署名を見送っていたが、今回の署名は何が変わったのか不透明だとの批判が続く。政府の説明不足と国際的な監視強化との兼ね合いが、夏季署名というタイミングを含め議論を呼んでいる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>カナダは国連サイバー犯罪条約へ署名したが、実際にはサイバー犯罪よりも跨境監視と電子証拠共有を拡大する枠組みであり、人権保護や透明性の懸念を指摘する声が多い。過去には同条約の適用対象が「重大犯罪」に広がることで国内の言論弾圧やジャーナリズムへの障害を招く恐れがあると警告され、署名を見送っていたが、今回の署名は何が変わったのか不透明だとの批判が続く。政府の説明不足と国際的な監視強化との兼ね合いが、夏季署名というタイミングを含め議論を呼んでいる。]]></content:encoded>
-    </item>
-    <item>
-      <title>偽装された監視条約：カナダが国連サイバー犯罪条約に署名 A Surveillance Treaty in Disguis…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms32yjievd24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms32yjievd24</guid>
-      <pubDate>Sun, 02 Aug 2026 03:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[偽装された監視条約：カナダが国連サイバー犯罪条約に署名<br>A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention<br><br>🔺 279<br>💬 11<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[偽装された監視条約：カナダが国連サイバー犯罪条約に署名<br>A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention<br><br>🔺 279<br>💬 11<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学D…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms2wmnj3jd2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3ms2wmnj3jd2a</guid>
-      <pubDate>Sun, 02 Aug 2026 02:26:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Cursorの使用ページで、従来 dollar（$）表示だったコストがトークン表示へ変更され…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2ubzzyba2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3ms2ubzzyba2r</guid>
-      <pubDate>Sun, 02 Aug 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Cursorの使用ページで、従来 dollar（$）表示だったコストがトークン表示へ変更され、個人プランでは$表示が見られなくなったことに対するユーザーの不満が相次いでいる。変更は意図的だと説明されているが、多くの利用者が日次・個別モデル別の費用追跡が困難になったとして、元のドル表示へ戻すか、少なくとも選択肢のトグル追加を要望している。 APIやダッシュボードのコストデータの非表示化にも不満が広がっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Cursorの使用ページで、従来 dollar（$）表示だったコストがトークン表示へ変更され、個人プランでは$表示が見られなくなったことに対するユーザーの不満が相次いでいる。変更は意図的だと説明されているが、多くの利用者が日次・個別モデル別の費用追跡が困難になったとして、元のドル表示へ戻すか、少なくとも選択肢のトグル追加を要望している。 APIやダッシュボードのコストデータの非表示化にも不満が広がっている。]]></content:encoded>
     </item>
   </channel>
 </rss>
