@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 21:55:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 23:56:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>きのうの万年筆雑記🖋️</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3ms7onqlxts2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3ms7onqlxts2k</guid>
+      <pubDate>Mon, 03 Aug 2026 23:46:58 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[きのうの万年筆雑記🖋️
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigusahyqzit2rnrioowds2rcu43ljqdaiwgmogq4777woto3gfrlq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[きのうの万年筆雑記🖋️
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigusahyqzit2rnrioowds2rcu43ljqdaiwgmogq4777woto3gfrlq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreigusahyqzit2rnrioowds2rcu43ljqdaiwgmogq4777woto3gfrlq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>このまえ髪を切りすぎたが、コミティアの頃には多分ちょうど良くなってると思うのでヨシ</title>
       <link>https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3ms74dnahks2k</link>
@@ -461,15 +473,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[おいし〜い 屋台〜が て〜んこもり〜]]></description>
       <content:encoded><![CDATA[おいし〜い 屋台〜が て〜んこもり〜]]></content:encoded>
-    </item>
-    <item>
-      <title>ぼえー</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3ms54ozdhdk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3ms54ozdhdk2m</guid>
-      <pubDate>Sun, 02 Aug 2026 23:20:14 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[ぼえー]]></description>
-      <content:encoded><![CDATA[ぼえー]]></content:encoded>
     </item>
   </channel>
 </rss>
