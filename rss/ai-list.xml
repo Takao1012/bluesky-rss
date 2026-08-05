@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 23:50:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:14:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Briefly tried out the new activity view in Codex. It’s an im…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mscdhmfmg22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mscdhmfmg22s</guid>
+      <pubDate>Wed, 05 Aug 2026 00:39:49 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Briefly tried out the new activity view in Codex. It’s an improvement, but still too buggy and quirky for daily use IMO.<br><br>T3 Code feels far ahead here. Probably time to move our new sidebar out of beta]]></description>
+      <content:encoded><![CDATA[Briefly tried out the new activity view in Codex. It’s an improvement, but still too buggy and quirky for daily use IMO.<br><br>T3 Code feels far ahead here. Probably time to move our new sidebar out of beta]]></content:encoded>
+    </item>
+    <item>
+      <title>multiple reverse engineering and security tooling via struct…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarfpftl2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarfpftl2a</guid>
+      <pubDate>Wed, 05 Aug 2026 00:16:27 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[multiple reverse engineering and security tooling via structured docs, scripts, and SOPs. (2/2)]]></description>
+      <content:encoded><![CDATA[multiple reverse engineering and security tooling via structured docs, scripts, and SOPs. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Reverse-skill is a modular cybersecurity frame…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarfk2pc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarfk2pc2d</guid>
+      <pubDate>Wed, 05 Aug 2026 00:16:27 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Reverse-skill is a modular cybersecurity framework that routes AI-driven analysis tasks (APK, binaries, JS, CTFs, pentesting, etc.) to the appropriate tools and repeatable workflows, backed by a master routing guide and tool index for consistent, scalable operations. It integrates (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Reverse-skill is a modular cybersecurity framework that routes AI-driven analysis tasks (APK, binaries, JS, CTFs, pentesting, etc.) to the appropriate tools and repeatable workflows, backed by a master routing guide and tool index for consistent, scalable operations. It integrates (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 zhaoxuya520 / revers…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarcmdh72m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mscarcmdh72m</guid>
+      <pubDate>Wed, 05 Aug 2026 00:16:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 zhaoxuya520 / reverse-skill<br>⭐ 17,311 (+2,310)<br>🗒 PowerShell<br><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Cla...]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 zhaoxuya520 / reverse-skill<br>⭐ 17,311 (+2,310)<br>🗒 PowerShell<br><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Cla...]]></content:encoded>
+    </item>
+    <item>
+      <title>Big new release of my LLM CLI tool and Python library for ta…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msc7zqolvk2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msc7zqolvk2b</guid>
+      <pubDate>Wed, 05 Aug 2026 00:03:14 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Big new release of my LLM CLI tool and Python library for talking to hundreds of different LLMs - reasoning traces, OpenAI Responses support, server-side tools, smarter logging and a whole lot more<br>simonwillison.net/2026/Aug/4/n...]]></description>
+      <content:encoded><![CDATA[Big new release of my LLM CLI tool and Python library for talking to hundreds of different LLMs - reasoning traces, OpenAI Responses support, server-side tools, smarter logging and a whole lot more<br>simonwillison.net/2026/Aug/4/n...]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   皮膚色の多様性を表現するため、RGB空間内の“包摂的な色域”を定義し、球面に近い形状を用いた…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msc6ycf4h723</link>
@@ -414,51 +459,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>MiniMax H3のモデルファイルをComfyUIで利用するために再パッケージ化したものです。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>MiniMax H3のモデルファイルをComfyUIで利用するために再パッケージ化したものです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msaxntb3iv2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msaxntb3iv2m</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:44 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超え、主要なクローズドソースモデルに匹敵する知能レベルを実現したGGUF形式の量子化モデルを配布しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>Qwen 3.6 27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超え、主要なクローズドソースモデルに匹敵する知能レベルを実現したGGUF形式の量子化モデルを配布しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pandocの成長と主要な転換点を振り返っている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqrgzuc2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqrgzuc2h</guid>
-      <pubDate>Tue, 04 Aug 2026 11:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Pandocの成長と主要な転換点を振り返っている。 (2/2)]]></description>
-      <content:encoded><![CDATA[Pandocの成長と主要な転換点を振り返っている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Pandocは2006年にJohn MacFarlaneがGPLで公開した文書変換ツールで、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqrdlj22h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqrdlj22h</guid>
-      <pubDate>Tue, 04 Aug 2026 11:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Pandocは2006年にJohn MacFarlaneがGPLで公開した文書変換ツールで、最初はMarkdown、reStructuredText、HTML、LaTeXなどを相互変換する3,000行程度のHaskell製品として始まった。その後、2008年の1.0以来、数多くの入力/出力形式の追加、共通仕様の議論と普及、LuaフィルターやウェブAPI、表現力の拡張などを経て、現在では複数の派生パッケージや大規模なエコシステムを持つ、Haskell界で最も人気のあるプログラムへと成長した。著者は自身の誕生日を機に、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Pandocは2006年にJohn MacFarlaneがGPLで公開した文書変換ツールで、最初はMarkdown、reStructuredText、HTML、LaTeXなどを相互変換する3,000行程度のHaskell製品として始まった。その後、2008年の1.0以来、数多くの入力/出力形式の追加、共通仕様の議論と普及、LuaフィルターやウェブAPI、表現力の拡張などを経て、現在では複数の派生パッケージや大規模なエコシステムを持つ、Haskell界で最も人気のあるプログラムへと成長した。著者は自身の誕生日を機に、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Pandocの20年 Twenty Years of Pandoc  🔺 288 💬 25 🔗 HN Post |…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqkh7ct2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msawqkh7ct2n</guid>
-      <pubDate>Tue, 04 Aug 2026 11:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Pandocの20年<br>Twenty Years of Pandoc<br><br>🔺 288<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Pandocの20年<br>Twenty Years of Pandoc<br><br>🔺 288<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>We&apos;ve been taking a weekly class</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msavrfeh3s2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msavrfeh3s2h</guid>
-      <pubDate>Tue, 04 Aug 2026 11:26:56 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[We've been taking a weekly class]]></description>
-      <content:encoded><![CDATA[We've been taking a weekly class]]></content:encoded>
     </item>
   </channel>
 </rss>
