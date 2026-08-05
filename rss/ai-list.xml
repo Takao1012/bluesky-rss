@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 22:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:44:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 ふとした出会いで生まれたSkillが、 社内利用1位になるまで  🔖 156 ブックマーク 💬 コメント 🔗…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mseogfcphr25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mseogfcphr25</guid>
+      <pubDate>Wed, 05 Aug 2026 23:26:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ふとした出会いで生まれたSkillが、 社内利用1位になるまで<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ふとした出会いで生まれたSkillが、 社内利用1位になるまで<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>It has literally no awareness of Muse at all lmfao</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msej2lhsik2b</link>
@@ -420,15 +429,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>esengine/DeepSeek-Reasonix<br>Reasonixは、ターミナルで動作するDeepSeek専用のAIコーディングエージェントです。<br>DeepSeekの接頭辞キャッシュの安定性を活用する設計により、長時間のセッションにおいてもトークンコストを低く抑えることを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>esengine/DeepSeek-Reasonix<br>Reasonixは、ターミナルで動作するDeepSeek専用のAIコーディングエージェントです。<br>DeepSeekの接頭辞キャッシュの安定性を活用する設計により、長時間のセッションにおいてもトークンコストを低く抑えることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  firecrawl/pdf-inspector PDFの分類とテキスト抽出を行う高速なRu…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msdkz2mpkb2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msdkz2mpkb2s</guid>
-      <pubDate>Wed, 05 Aug 2026 12:52:21 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>firecrawl/pdf-inspector<br>PDFの分類とテキスト抽出を行う高速なRustライブラリです。<br>PDFがテキストベースかスキャン済みかを判定し、位置情報を保持したままテキストを抽出してMarkdownに変換します。<br>OCRを使わずローカルで高速に処理することを目的としており、Python、Node.js、WebAssemblyへのバインディングを提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>firecrawl/pdf-inspector<br>PDFの分類とテキスト抽出を行う高速なRustライブラリです。<br>PDFがテキストベースかスキャン済みかを判定し、位置情報を保持したままテキストを抽出してMarkdownに変換します。<br>OCRを使わずローカルで高速に処理することを目的としており、Python、Node.js、WebAssemblyへのバインディングを提供しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
