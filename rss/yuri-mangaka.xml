@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:03:16 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>毎日のように学びがある〜 どんどん良くなってってるなって思う もっと良くできるようになりたい</title>
+      <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3msgbqg5hlk2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3msgbqg5hlk2l</guid>
+      <pubDate>Thu, 06 Aug 2026 14:44:27 GMT</pubDate>
+      <author>sheepD🐑 カナ綺羅3巻3月発売 (@sheepd.bsky.social)</author>
+      <description><![CDATA[毎日のように学びがある〜<br>どんどん良くなってってるなって思う<br>もっと良くできるようになりたい]]></description>
+      <content:encoded><![CDATA[毎日のように学びがある〜<br>どんどん良くなってってるなって思う<br>もっと良くできるようになりたい]]></content:encoded>
+    </item>
     <item>
       <title>赤いですねえ</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msfznvv2pk2c</link>
@@ -462,18 +471,6 @@
       <author>雪子 (@aoiyukiko.bsky.social)</author>
       <description><![CDATA[この間の韓国語の授業の時、日記にちいかわの映画見たって書いたら「ちいかわのキャラは知ってるけど内容は知らない、どんな内容？」って聞かれて、えーと…あの…可愛い絵柄なのに…残酷な世界の話です……ってなって説明が難しかったし映画の内容は全然説明できませんでした]]></description>
       <content:encoded><![CDATA[この間の韓国語の授業の時、日記にちいかわの映画見たって書いたら「ちいかわのキャラは知ってるけど内容は知らない、どんな内容？」って聞かれて、えーと…あの…可愛い絵柄なのに…残酷な世界の話です……ってなって説明が難しかったし映画の内容は全然説明できませんでした]]></content:encoded>
-    </item>
-    <item>
-      <title>今日もかわいいねえ</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msdejoadgk26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msdejoadgk26</guid>
-      <pubDate>Wed, 05 Aug 2026 10:56:23 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[今日もかわいいねえ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreicg7hqbjocbbjkmlm7urdfcwcsi5gb4yylwwd25myhddzix3syph4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[今日もかわいいねえ
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreicg7hqbjocbbjkmlm7urdfcwcsi5gb4yylwwd25myhddzix3syph4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreicg7hqbjocbbjkmlm7urdfcwcsi5gb4yylwwd25myhddzix3syph4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
