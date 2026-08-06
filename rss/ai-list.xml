@@ -5,8 +5,96 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 23:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:12:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The pelican beak definitely got better!</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseszwpw222p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseszwpw222p</guid>
+      <pubDate>Thu, 06 Aug 2026 00:48:40 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[The pelican beak definitely got better!]]></description>
+      <content:encoded><![CDATA[The pelican beak definitely got better!]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Gemini really need to catch up on the accidentally cy…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msergba4ck2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msergba4ck2u</guid>
+      <pubDate>Thu, 06 Aug 2026 00:19:47 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Google Gemini really need to catch up on the accidentally cyberattacking other companies thing]]></description>
+      <content:encoded><![CDATA[Google Gemini really need to catch up on the accidentally cyberattacking other companies thing]]></content:encoded>
+    </item>
+    <item>
+      <title>... and that makes 5   The CNN story assigns partial blame f…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msercok6sk2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msercok6sk2p</guid>
+      <pubDate>Thu, 06 Aug 2026 00:17:46 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[... and that makes 5 <br><br>The CNN story assigns partial blame for this Meta one to Irregular, who also featured in incidents reported by both OpenAI and Anthropic www.cnn.com/2026/08/05/t...<br><br>bsky.app/profile/zacb...]]></description>
+      <content:encoded><![CDATA[... and that makes 5 <br><br>The CNN story assigns partial blame for this Meta one to Irregular, who also featured in incidents reported by both OpenAI and Anthropic www.cnn.com/2026/08/05/t...<br><br>bsky.app/profile/zacb...]]></content:encoded>
+    </item>
+    <item>
+      <title>I think the explanation is that until the OpenAI + Hugging F…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseqz74dxk2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseqz74dxk2z</guid>
+      <pubDate>Thu, 06 Aug 2026 00:12:28 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I think the explanation is that until the OpenAI + Hugging Face thing people just hadn't been keeping nearly as close an eye on their logs as they should have - this has been happening undetected for months]]></description>
+      <content:encoded><![CDATA[I think the explanation is that until the OpenAI + Hugging Face thing people just hadn't been keeping nearly as close an eye on their logs as they should have - this has been happening undetected for months]]></content:encoded>
+    </item>
+    <item>
+      <title>One of the things the pelican benchmark is still useful for …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseqv5z4qk2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseqv5z4qk2z</guid>
+      <pubDate>Thu, 06 Aug 2026 00:10:13 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[One of the things the pelican benchmark is still useful for is visually representing (to a tiny extent) the improvements in a single model family<br><br>Here's Meta AI's Spark (8th April), Spark 1.1 (9th July), and Spark 1.2 (today, 5th August)<br><br>simonwillison.net/2026/Aug/5/m...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifg4olte4xce33gfypuq7vtgvxc36bwqc6hnfsymzxnlqtiz24oye" alt="Good bicycle. Pelican is a bunch of blobs that have pelican vibes to them, and a weird oval blue helmet." style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreigpxkhb6mpylezzkxfg4pgufqnkvadqsb4uj5yalaccdlt77alpby" alt="This pelican has a better beak than the last one but is pretty dumpy looking and has a neck extending from the middle of its oval body. It is wearing a red hat that looks a little bit like a French beret." style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifzyi5p23sef3gzptyzl7372u5okkrl5u5auyquktdticpdfzmqha" alt="The pelican has better shape and details than the last two but the bicycle frame is a bit distorted. The pelican's golden hat looks like that of a Roman centurion." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[One of the things the pelican benchmark is still useful for is visually representing (to a tiny extent) the improvements in a single model family<br><br>Here's Meta AI's Spark (8th April), Spark 1.1 (9th July), and Spark 1.2 (today, 5th August)<br><br>simonwillison.net/2026/Aug/5/m...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifg4olte4xce33gfypuq7vtgvxc36bwqc6hnfsymzxnlqtiz24oye" alt="Good bicycle. Pelican is a bunch of blobs that have pelican vibes to them, and a weird oval blue helmet." style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreigpxkhb6mpylezzkxfg4pgufqnkvadqsb4uj5yalaccdlt77alpby" alt="This pelican has a better beak than the last one but is pretty dumpy looking and has a neck extending from the middle of its oval body. It is wearing a red hat that looks a little bit like a French beret." style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifzyi5p23sef3gzptyzl7372u5okkrl5u5auyquktdticpdfzmqha" alt="The pelican has better shape and details than the last two but the bicycle frame is a bit distorted. The pelican's golden hat looks like that of a Roman centurion." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifg4olte4xce33gfypuq7vtgvxc36bwqc6hnfsymzxnlqtiz24oye" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>It&apos;s at the bottom edge of the map, about half way across - …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseprthoz226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mseprthoz226</guid>
+      <pubDate>Wed, 05 Aug 2026 23:50:27 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[It's at the bottom edge of the map, about half way across - it has a couple of trash pandas guarding it]]></description>
+      <content:encoded><![CDATA[It's at the bottom edge of the map, about half way across - it has a couple of trash pandas guarding it]]></content:encoded>
+    </item>
+    <item>
+      <title>Just had to create an &quot;accidental-cyberattacks&quot; tag on my bl…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msepngc2kk26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msepngc2kk26</guid>
+      <pubDate>Wed, 05 Aug 2026 23:47:59 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Just had to create an "accidental-cyberattacks" tag on my blog<br><br>We're up to four now: the original OpenAI+Hugging Face one, Anthropic's me-too attacks, then two new ones from the UK AI Safety Institute and Irregular that OpenAI reported yesterday simonwillison.net/tags/acciden...]]></description>
+      <content:encoded><![CDATA[Just had to create an "accidental-cyberattacks" tag on my blog<br><br>We're up to four now: the original OpenAI+Hugging Face one, Anthropic's me-too attacks, then two new ones from the UK AI Safety Institute and Irregular that OpenAI reported yesterday simonwillison.net/tags/acciden...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Cloudflare OSは、組織全体の業務を加速させるために「人それぞれのエージェントと作…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msephbyahi2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msephbyahi2n</guid>
+      <pubDate>Wed, 05 Aug 2026 23:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Cloudflare OSは、組織全体の業務を加速させるために「人それぞれのエージェントと作業空間」を提供するプラットフォームです。個人やチームが文書作成や自動化、データ可視化などの作業を、組織の文脈・ルール・ツールと結びつけて行えるほか、セキュリティとガバナンスを組み込み、アプリを作成・共有できる点が特徴です。オープンソースとして提供され、導入は自社環境に合わせてカスタマイズ可能です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Cloudflare OSは、組織全体の業務を加速させるために「人それぞれのエージェントと作業空間」を提供するプラットフォームです。個人やチームが文書作成や自動化、データ可視化などの作業を、組織の文脈・ルール・ツールと結びつけて行えるほか、セキュリティとガバナンスを組み込み、アプリを作成・共有できる点が特徴です。オープンソースとして提供され、導入は自社環境に合わせてカスタマイズ可能です。]]></content:encoded>
+    </item>
+    <item>
+      <title>クラウドフレア OS: エージェント、アプリ、そして業務のためのオープンなプラットフォーム Cloudflare OS:…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msepgz3eja2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msepgz3eja2j</guid>
+      <pubDate>Wed, 05 Aug 2026 23:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[クラウドフレア OS: エージェント、アプリ、そして業務のためのオープンなプラットフォーム<br>Cloudflare OS: an open platform for agents, apps, and work<br><br>🔺 441<br>💬 72<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[クラウドフレア OS: エージェント、アプリ、そして業務のためのオープンなプラットフォーム<br>Cloudflare OS: an open platform for agents, apps, and work<br><br>🔺 441<br>💬 72<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 ふとした出会いで生まれたSkillが、 社内利用1位になるまで  🔖 156 ブックマーク 💬 コメント 🔗…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mseogfcphr25</link>
@@ -348,87 +436,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>LoopX is a lightweight local control plane and state kernel for long-running AI agent work, keeping objectives, gates, todos, evidence, quota, and handoffs durable and reviewable across bounded turns without replacing the agent runtimes. It emphasizes human judgment, safe (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>LoopX is a lightweight local control plane and state kernel for long-running AI agent work, keeping objectives, gates, todos, evidence, quota, and handoffs durable and reviewable across bounded turns without replacing the agent runtimes. It emphasizes human judgment, safe (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 huangruiteng / loop…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdt2uqkqj2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdt2uqkqj2a</guid>
-      <pubDate>Wed, 05 Aug 2026 15:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 huangruiteng / loopx<br>⭐ 1,747 (+327)<br>🗒 Python<br><br>Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable t...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 huangruiteng / loopx<br>⭐ 1,747 (+327)<br>🗒 Python<br><br>Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable t...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 vercel / next.js ⭐ 141,394 (+58) 🗒 JavaScript  The React…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdpp22pyx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdpp22pyx2y</guid>
-      <pubDate>Wed, 05 Aug 2026 14:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 vercel / next.js<br>⭐ 141,394 (+58)<br>🗒 JavaScript<br><br>The React Framework]]></description>
-      <content:encoded><![CDATA[📦 vercel / next.js<br>⭐ 141,394 (+58)<br>🗒 JavaScript<br><br>The React Framework]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;d never heard that before, and it came out May 2024 - my f…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msdo4zyfy22m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msdo4zyfy22m</guid>
-      <pubDate>Wed, 05 Aug 2026 13:48:16 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I'd never heard that before, and it came out May 2024 - my first pelican riding a bicycle was October 2024!<br><br>Amazing coincidence]]></description>
-      <content:encoded><![CDATA[I'd never heard that before, and it came out May 2024 - my first pelican riding a bicycle was October 2024!<br><br>Amazing coincidence]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AppleがOpenAIに対して自社の技術を基にしたAI機器などの開発を阻止するための仮処分…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msdnwlw4ht2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msdnwlw4ht2h</guid>
-      <pubDate>Wed, 05 Aug 2026 13:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AppleがOpenAIに対して自社の技術を基にしたAI機器などの開発を阻止するための仮処分を求め、機密情報の窃取に関与した former Apple employees が増えている可能性があるとして、迅速な開示を求める新たな提出を行った。決裁には Chang Liu や Tang Yew Tan をはじめ、OpenAI側やIo創業者のJony Iveの元スタッフなどが名を連ね、追加の証拠があるとしている。一方、OpenAIはAppleの主張を否定し、誤った情報や不必要さを指摘して反論している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AppleがOpenAIに対して自社の技術を基にしたAI機器などの開発を阻止するための仮処分を求め、機密情報の窃取に関与した former Apple employees が増えている可能性があるとして、迅速な開示を求める新たな提出を行った。決裁には Chang Liu や Tang Yew Tan をはじめ、OpenAI側やIo創業者のJony Iveの元スタッフなどが名を連ね、追加の証拠があるとしている。一方、OpenAIはAppleの主張を否定し、誤った情報や不必要さを指摘して反論している。]]></content:encoded>
-    </item>
-    <item>
-      <title>アップルは、さらに多くの元従業員が機密データをOpenAIに持ち出した可能性があると述べている。 Apple says …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msdnwbtvze25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msdnwbtvze25</guid>
-      <pubDate>Wed, 05 Aug 2026 13:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[アップルは、さらに多くの元従業員が機密データをOpenAIに持ち出した可能性があると述べている。<br>Apple says more ex-employees may have taken confidential data to OpenAI<br><br>🔺 373<br>💬 36<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[アップルは、さらに多くの元従業員が機密データをOpenAIに持ち出した可能性があると述べている。<br>Apple says more ex-employees may have taken confidential data to OpenAI<br><br>🔺 373<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>and adapters for major AI tools to ensure consistent, verifi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmih2i5x2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmih2i5x2e</guid>
-      <pubDate>Wed, 05 Aug 2026 13:18:49 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[and adapters for major AI tools to ensure consistent, verifiable code quality and safe deployment. (2/2)]]></description>
-      <content:encoded><![CDATA[and adapters for major AI tools to ensure consistent, verifiable code quality and safe deployment. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A comprehensive, production-grade framework of…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmidmoi626</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmidmoi626</guid>
-      <pubDate>Wed, 05 Aug 2026 13:18:43 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A comprehensive, production-grade framework of 24 AI agent skills (defining, planning, building, verifying, reviewing, and shipping) that enforce structured, test-driven software engineering workflows across multiple SLAs, with meta-skills, agent personas, reference checklists, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A comprehensive, production-grade framework of 24 AI agent skills (defining, planning, building, verifying, reviewing, and shipping) that enforce structured, test-driven software engineering workflows across multiple SLAs, with meta-skills, agent personas, reference checklists, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 addyosmani / agent-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmf3o7hw2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msdmf3o7hw2n</guid>
-      <pubDate>Wed, 05 Aug 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 81,766 (+203)<br>🗒 JavaScript<br><br>Production-grade engineering skills for AI coding agents.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 81,766 (+203)<br>🗒 JavaScript<br><br>Production-grade engineering skills for AI coding agents.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  esengine/DeepSeek-Reasonix Reasonixは、ターミナルで動作…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msdkzinxm726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msdkzinxm726</guid>
-      <pubDate>Wed, 05 Aug 2026 12:52:36 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>esengine/DeepSeek-Reasonix<br>Reasonixは、ターミナルで動作するDeepSeek専用のAIコーディングエージェントです。<br>DeepSeekの接頭辞キャッシュの安定性を活用する設計により、長時間のセッションにおいてもトークンコストを低く抑えることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>esengine/DeepSeek-Reasonix<br>Reasonixは、ターミナルで動作するDeepSeek専用のAIコーディングエージェントです。<br>DeepSeekの接頭辞キャッシュの安定性を活用する設計により、長時間のセッションにおいてもトークンコストを低く抑えることを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
