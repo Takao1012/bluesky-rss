@@ -5,7 +5,7 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:39:08 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>💡 Summary:   AIを活用したソフト開発は、完璧な結果をいつも得られる“料理”にはまだ遠く、AIはレシピ通り…</title>
@@ -26,6 +26,123 @@
       <content:encoded><![CDATA[AIを活用したソフトウェア開発は、ステーキを焼くのに似てきたと感じ始めている。<br>Software development with AI is starting to feel like cooking steak<br><br>🔺 366<br>💬 84<br>🔗 HN Post | Article]]></content:encoded>
     </item>
     <item>
+      <title>I&apos;m probably going to regret this  https://testflight.apple.…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibubwuho23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibubwuho23</guid>
+      <pubDate>Fri, 07 Aug 2026 09:16:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I'm probably going to regret this<br><br>https://testflight.apple.com/join/MPQqgEu3]]></description>
+      <content:encoded><![CDATA[I'm probably going to regret this<br><br>https://testflight.apple.com/join/MPQqgEu3]]></content:encoded>
+    </item>
+    <item>
+      <title>terminal cursor not blinking - Fixed terminal font size rese…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtzmmh424</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtzmmh424</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:45 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[terminal cursor not blinking<br>- Fixed terminal font size resetting when splitting<br>- Another 100ish fixes across platforms (12/12)]]></description>
+      <content:encoded><![CDATA[terminal cursor not blinking<br>- Fixed terminal font size resetting when splitting<br>- Another 100ish fixes across platforms (12/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>desktop - Fixed the t3code:// scheme on Linux - Fixed Linux …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtwlvd72c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtwlvd72c</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:44 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[desktop<br>- Fixed the t3code:// scheme on Linux<br>- Fixed Linux workspace icons<br>- Fixed invisible T3 Connect devices being impossible to see or remove<br>- Fixed mobile server model, worktree, and origin preferences not applying to new tasks<br>- Fixed Android thread search crashing<br>- Fixed the (11/12)]]></description>
+      <content:encoded><![CDATA[desktop<br>- Fixed the t3code:// scheme on Linux<br>- Fixed Linux workspace icons<br>- Fixed invisible T3 Connect devices being impossible to see or remove<br>- Fixed mobile server model, worktree, and origin preferences not applying to new tasks<br>- Fixed Android thread search crashing<br>- Fixed the (11/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>stalls - Fixed scrolling up during a running thread snapping…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibttl4v22n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibttl4v22n</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[stalls<br>- Fixed scrolling up during a running thread snapping back to the bottom<br>- Fixed stopping a Claude thread showing an ede_diagnostic error<br>- Fixed stopped threads not settling immediately<br>- Fixed commit/push/PR notices showing as errors in the work log<br>- Fixed T3 Connect sign-in on (10/12)]]></description>
+      <content:encoded><![CDATA[stalls<br>- Fixed scrolling up during a running thread snapping back to the bottom<br>- Fixed stopping a Claude thread showing an ede_diagnostic error<br>- Fixed stopped threads not settling immediately<br>- Fixed commit/push/PR notices showing as errors in the work log<br>- Fixed T3 Connect sign-in on (10/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>drifting off their branch so PRs link to the right thread - …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtqkhro23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtqkhro23</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[drifting off their branch so PRs link to the right thread<br>- Fixed self-update rolling itself back on restart<br>- Fixed npx service updates silently leaving the old server running<br>- Fixed one disconnecting client blocking every other client's reconnect<br>- Fixed reconnect loops during server (9/12)]]></description>
+      <content:encoded><![CDATA[drifting off their branch so PRs link to the right thread<br>- Fixed self-update rolling itself back on restart<br>- Fixed npx service updates silently leaving the old server running<br>- Fixed one disconnecting client blocking every other client's reconnect<br>- Fixed reconnect loops during server (9/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>that never rendered - Made reconnects after remote server up…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtnjbkl2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtnjbkl2b</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:41 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[that never rendered<br>- Made reconnects after remote server updates much faster<br>- Made pairing QR codes actually scannable, with endpoint choice<br>- Made remote updates rollback-safe and able to run DB migrations<br>- Fixed threads with open PRs auto-settling out from under you<br>- Fixed threads (8/12)]]></description>
+      <content:encoded><![CDATA[that never rendered<br>- Made reconnects after remote server updates much faster<br>- Made pairing QR codes actually scannable, with endpoint choice<br>- Made remote updates rollback-safe and able to run DB migrations<br>- Fixed threads with open PRs auto-settling out from under you<br>- Fixed threads (8/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>renderer OOM crashes - Cut websocket throughput in half, plu…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtkil2g2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtkil2g2q</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:40 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[renderer OOM crashes<br>- Cut websocket throughput in half, plus permessage-deflate and gzipped thread snapshots<br>- Stopped shipping full MCP tool results in thread payloads<br>- Improved mobile: sends respond instantly, thread opens stopped freezing, scroll jank gone<br>- Fixed iOS streaming markdown (7/12)]]></description>
+      <content:encoded><![CDATA[renderer OOM crashes<br>- Cut websocket throughput in half, plus permessage-deflate and gzipped thread snapshots<br>- Stopped shipping full MCP tool results in thread payloads<br>- Improved mobile: sends respond instantly, thread opens stopped freezing, scroll jank gone<br>- Fixed iOS streaming markdown (7/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>sidebar v2 the default on nightly and dev builds - Removed t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibthhujn2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibthhujn2t</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[sidebar v2 the default on nightly and dev builds<br>- Removed the Build/Plan toggle; plans now fold into chat instead of hijacking the UI<br>- Folded legacy models into their own menus<br>- Cut ~300MB off the installed desktop app<br>- Contained renderer memory growth and made the app recover from (6/12)]]></description>
+      <content:encoded><![CDATA[sidebar v2 the default on nightly and dev builds<br>- Removed the Build/Plan toggle; plans now fold into chat instead of hijacking the UI<br>- Folded legacy models into their own menus<br>- Cut ~300MB off the installed desktop app<br>- Contained renderer memory growth and made the app recover from (6/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>PR review context and panel tabs - Added mobile update check…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibteh7dd2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibteh7dd2b</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:38 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[PR review context and panel tabs<br>- Added mobile update checks on launch and OTA updates in settings<br>- Added source control writing settings<br>- Added collapse-all and total +/- counts to the diff panel<br>- Shipped T3 Connect GA (no more waitlist)<br>- Made mobile Thread List v2 the default<br>- Made (5/12)]]></description>
+      <content:encoded><![CDATA[PR review context and panel tabs<br>- Added mobile update checks on launch and OTA updates in settings<br>- Added source control writing settings<br>- Added collapse-all and total +/- counts to the diff panel<br>- Shipped T3 Connect GA (no more waitlist)<br>- Made mobile Thread List v2 the default<br>- Made (5/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>stash (cmd+S saves the composer to a per-provider queue) - A…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtbgixm24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibtbgixm24</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:37 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[stash (cmd+S saves the composer to a per-provider queue)<br>- Added picture-in-picture and background preview capture<br>- Added Image View outputs rendered in chat<br>- Added thread title regeneration from the sidebar<br>- Added paginated thread loading with user-anchored turn windows<br>- Added expanded (4/12)]]></description>
+      <content:encoded><![CDATA[stash (cmd+S saves the composer to a per-provider queue)<br>- Added picture-in-picture and background preview capture<br>- Added Image View outputs rendered in chat<br>- Added thread title regeneration from the sidebar<br>- Added paginated thread loading with user-anchored turn windows<br>- Added expanded (4/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>conversation content, from the sidebar - Added search to set…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt6fu6u24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt6fu6u24</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:36 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[conversation content, from the sidebar<br>- Added search to settings<br>- Added thread pinning back to sidebar v2<br>- Added thread snoozing and collapsible settled threads to mobile<br>- Added npx t3 pair to generate a QR code from a running server<br>- Added per-device provider settings<br>- Added prompt (3/12)]]></description>
+      <content:encoded><![CDATA[conversation content, from the sidebar<br>- Added search to settings<br>- Added thread pinning back to sidebar v2<br>- Added thread snoozing and collapsible settled threads to mobile<br>- Added npx t3 pair to generate a QR code from a running server<br>- Added per-device provider settings<br>- Added prompt (3/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>- Added subagent and workflow observability, so you can see …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt3f7bo2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt3f7bo2q</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:35 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[- Added subagent and workflow observability, so you can see what your agents spawn<br>- Added libghostty-vt as the terminal renderer<br>- Added configurable fonts and sizes under Settings → Appearance<br>- Added project file picker (⌘P) and project content search (⇧⌘F)<br>- Added thread search by (2/12)]]></description>
+      <content:encoded><![CDATA[- Added subagent and workflow observability, so you can see what your agents spawn<br>- Added libghostty-vt as the terminal renderer<br>- Added configurable fonts and sizes under Settings → Appearance<br>- Added project file picker (⌘P) and project content search (⇧⌘F)<br>- Added thread search by (2/12)]]></content:encoded>
+    </item>
+    <item>
+      <title>In the last two weeks, we merged over 250 PRs into T3 Code. …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsyebqz2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsyebqz2s</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[In the last two weeks, we merged over 250 PRs into T3 Code. Here's an overview of the most important ones. (1/12)]]></description>
+      <content:encoded><![CDATA[In the last two weeks, we merged over 250 PRs into T3 Code. Here's an overview of the most important ones. (1/12)]]></content:encoded>
+    </item>
+    <item>
       <title>💡 Summary:   技術の道具が発達して「アイデア → 実体を作る壁」が低くなったが、評価や選択を担う「味（ティ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msi2qnrmcu2s</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msi2qnrmcu2s</guid>
@@ -42,6 +159,75 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[味だけが残っている<br>Taste Is All That's Left<br><br>🔺 370<br>💬 72<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[味だけが残っている<br>Taste Is All That's Left<br><br>🔺 370<br>💬 72<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I did it. Left a settings toggle for those who want &quot;legacy …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibstxlr32p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibstxlr32p</guid>
+      <pubDate>Fri, 07 Aug 2026 07:43:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I did it. Left a settings toggle for those who want "legacy plan mode" back https://github.com/pingdotgg/t3code/pull/5551]]></description>
+      <content:encoded><![CDATA[I did it. Left a settings toggle for those who want "legacy plan mode" back https://github.com/pingdotgg/t3code/pull/5551]]></content:encoded>
+    </item>
+    <item>
+      <title>Plan mode usage in T3 Code has dropped from 9% of sessions t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsl5fbd2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsl5fbd2b</guid>
+      <pubDate>Fri, 07 Aug 2026 07:41:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Plan mode usage in T3 Code has dropped from 9% of sessions to 2.5% of sessions<br><br>Can I remove it now? 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Plan mode usage in T3 Code has dropped from 9% of sessions to 2.5% of sessions<br><br>Can I remove it now? 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>/goal rebuild GitHub in literally anything at all. I don’t c…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsglpss22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsglpss22</guid>
+      <pubDate>Fri, 07 Aug 2026 07:09:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[/goal rebuild GitHub in literally anything at all. I don’t care. I just want something with reasonable uptime.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" alt="Quote Tweet: https://twitter.com/i/status/2085473886771306980" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[/goal rebuild GitHub in literally anything at all. I don’t care. I just want something with reasonable uptime.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" alt="Quote Tweet: https://twitter.com/i/status/2085473886771306980" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This is confusing because they announced a change months ago…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibs2zm2s22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibs2zm2s22</guid>
+      <pubDate>Fri, 07 Aug 2026 06:57:46 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This is confusing because they announced a change months ago that contradicts this. They decided to delay that change indefinitely]]></description>
+      <content:encoded><![CDATA[This is confusing because they announced a change months ago that contradicts this. They decided to delay that change indefinitely]]></content:encoded>
+    </item>
+    <item>
+      <title>Please help me spread the word about this. People still thin…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibruvg2t2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibruvg2t2b</guid>
+      <pubDate>Fri, 07 Aug 2026 06:57:24 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Please help me spread the word about this. People still think Claude Code subs won’t work in apps like T3 Code.<br><br>Anthropic’s ban is ONLY harnesses that aren’t Claude Code (see: Pi, OpenCode etc)]]></description>
+      <content:encoded><![CDATA[Please help me spread the word about this. People still think Claude Code subs won’t work in apps like T3 Code.<br><br>Anthropic’s ban is ONLY harnesses that aren’t Claude Code (see: Pi, OpenCode etc)]]></content:encoded>
+    </item>
+    <item>
+      <title>This is the SwiftUI build btw  We all have to be REALLY nice…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibrnbwc62q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibrnbwc62q</guid>
+      <pubDate>Fri, 07 Aug 2026 06:10:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This is the SwiftUI build btw<br><br>We all have to be REALLY nice to Julius so he'll let me merge this<br><br>https://github.com/pingdotgg/t3code/pull/5178]]></description>
+      <content:encoded><![CDATA[This is the SwiftUI build btw<br><br>We all have to be REALLY nice to Julius so he'll let me merge this<br><br>https://github.com/pingdotgg/t3code/pull/5178]]></content:encoded>
+    </item>
+    <item>
+      <title>Real world demo of the new T3 Code mobile build. Running on …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibrax4qm2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibrax4qm2m</guid>
+      <pubDate>Fri, 07 Aug 2026 06:05:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Real world demo of the new T3 Code mobile build. Running on awful 15mbps WiFi. Commanding computers across the country. Working in hell threads with 0 latency.<br><br>I’m so excited to ship this]]></description>
+      <content:encoded><![CDATA[Real world demo of the new T3 Code mobile build. Running on awful 15mbps WiFi. Commanding computers across the country. Working in hell threads with 0 latency.<br><br>I’m so excited to ship this]]></content:encoded>
     </item>
     <item>
       <title>💡 Summary:   Muse Code（β版）は、Muse Spark 1.2を核とする端末コード作成エージェン…</title>
@@ -285,177 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[skills focused on alignment, clarity, testing, and maintainable codebases. It also invites readers to join a newsletter for updates. (2/2)]]></description>
       <content:encoded><![CDATA[skills focused on alignment, clarity, testing, and maintainable codebases. It also invites readers to join a newsletter for updates. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Summary: The page promotes &quot;Skills For Real En…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgqy4yfkw22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgqy4yfkw22</guid>
-      <pubDate>Thu, 06 Aug 2026 19:17:08 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Summary: The page promotes "Skills For Real Engineers" by Matt Pocock, offering a modular, adaptable set of engineering skills for AI-assisted development, with two installation paths (Claude Code plugin or skills.sh), a setup flow, and sections detailing user- and model-invoked (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Summary: The page promotes "Skills For Real Engineers" by Matt Pocock, offering a modular, adaptable set of engineering skills for AI-assisted development, with two installation paths (Claude Code plugin or skills.sh), a setup flow, and sections detailing user- and model-invoked (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 mattpocock / skills …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgqwb67bp2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgqwb67bp2u</guid>
-      <pubDate>Thu, 06 Aug 2026 19:16:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 205,988 (+1,695)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 205,988 (+1,695)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 goauthentik / authentik…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgnl4tjal2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgnl4tjal2h</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 goauthentik / authentik<br>⭐ 22,812 (+123)<br>🗒 Python<br><br>The authentication glue you need.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 goauthentik / authentik<br>⭐ 22,812 (+123)<br>🗒 Python<br><br>The authentication glue you need.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   タイポグラフィは機能性と感情の両立を探る矛盾だが、実際には「感情がどれだけ必要か」がプロジェ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msglsoasqt2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msglsoasqt2z</guid>
-      <pubDate>Thu, 06 Aug 2026 17:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>タイポグラフィは機能性と感情の両立を探る矛盾だが、実際には「感情がどれだけ必要か」がプロジェクト次第で決まる。固定幅フォントやブレードランナーのタイポグラフィの事例を通じて、見た目の美しさよりも意味と雰囲気の両方をどう扱うかが重要だと説く。作品作りでは小さな決定の積み重ねが最終的な品質を左右する。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>タイポグラフィは機能性と感情の両立を探る矛盾だが、実際には「感情がどれだけ必要か」がプロジェクト次第で決まる。固定幅フォントやブレードランナーのタイポグラフィの事例を通じて、見た目の美しさよりも意味と雰囲気の両方をどう扱うかが重要だと説く。作品作りでは小さな決定の積み重ねが最終的な品質を左右する。]]></content:encoded>
-    </item>
-    <item>
-      <title>ブレードランナーのタイトルカードは素晴らしい。 The title cards in Blade Runner are …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msglsctqbu2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msglsctqbu2r</guid>
-      <pubDate>Thu, 06 Aug 2026 17:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ブレードランナーのタイトルカードは素晴らしい。<br>The title cards in Blade Runner are amazing<br><br>🔺 380<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ブレードランナーのタイトルカードは素晴らしい。<br>The title cards in Blade Runner are amazing<br><br>🔺 380<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 google / guava ⭐ 51,555 (+9) 🗒 Java  Google core librari…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgkat7yzz2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgkat7yzz2y</guid>
-      <pubDate>Thu, 06 Aug 2026 17:16:33 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 google / guava<br>⭐ 51,555 (+9)<br>🗒 Java<br><br>Google core libraries for Java]]></description>
-      <content:encoded><![CDATA[📦 google / guava<br>⭐ 51,555 (+9)<br>🗒 Java<br><br>Google core libraries for Java]]></content:encoded>
-    </item>
-    <item>
-      <title>The UK government AI Security Institute&apos;s paper is pretty cr…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgiyzm46c2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgiyzm46c2o</guid>
-      <pubDate>Thu, 06 Aug 2026 16:54:32 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The UK government AI Security Institute's paper is pretty credible too cdn.prod.website-files.com/663bd486c5e4...]]></description>
-      <content:encoded><![CDATA[The UK government AI Security Institute's paper is pretty credible too cdn.prod.website-files.com/663bd486c5e4...]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugging Face independently described the OpenAI attack in a …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgixljqic2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgixljqic2o</guid>
-      <pubDate>Thu, 06 Aug 2026 16:53:44 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Hugging Face independently described the OpenAI attack in a lot of detail huggingface.co/blog/agent-i...]]></description>
-      <content:encoded><![CDATA[Hugging Face independently described the OpenAI attack in a lot of detail huggingface.co/blog/agent-i...]]></content:encoded>
-    </item>
-    <item>
-      <title>community-driven development, cross-platform builds, and ext…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msggun7ymn2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msggun7ymn2a</guid>
-      <pubDate>Thu, 06 Aug 2026 16:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[community-driven development, cross-platform builds, and extensibility through MCP servers and the Extension Protocol. (2/2)]]></description>
-      <content:encoded><![CDATA[community-driven development, cross-platform builds, and extensibility through MCP servers and the Extension Protocol. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Reasonix is a config-driven, multi-model AI co…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msggun6ka426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msggun6ka426</guid>
-      <pubDate>Thu, 06 Aug 2026 16:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Reasonix is a config-driven, multi-model AI coding agent for the terminal and desktop, packaged as a single static Go binary with plugin and extension support, designed to minimize token costs and support various deployment paths (CLI/TUI, desktop, VS Code). It emphasizes (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Reasonix is a config-driven, multi-model AI coding agent for the terminal and desktop, packaged as a single static Go binary with plugin and extension support, designed to minimize token costs and support various deployment paths (CLI/TUI, desktop, VS Code). It emphasizes (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 esengine / DeepSeek-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgguklaxj2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgguklaxj2e</guid>
-      <pubDate>Thu, 06 Aug 2026 16:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 esengine / DeepSeek-Reasonix<br>⭐ 32,084 (+894)<br>🗒 Go<br><br>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 esengine / DeepSeek-Reasonix<br>⭐ 32,084 (+894)<br>🗒 Go<br><br>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   最適なドライバーは速度だけでなく加速も考慮して決めるべきで、パレート前線に乗る「効率的な」ド…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msgf43glpu2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msgf43glpu2i</guid>
-      <pubDate>Thu, 06 Aug 2026 15:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>最適なドライバーは速度だけでなく加速も考慮して決めるべきで、パレート前線に乗る「効率的な」ドライバーを探すのが要点。カーペ PeachやToadetteのように、速度と加速のいずれかが同等以上のものは前線上に残り、Koopaのように常に劣後する選択肢は除外される。最終的には自分のプレイスタイルに応じて、前線上のドライバーの中から自分に合うバランスを選ぶことになる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>最適なドライバーは速度だけでなく加速も考慮して決めるべきで、パレート前線に乗る「効率的な」ドライバーを探すのが要点。カーペ PeachやToadetteのように、速度と加速のいずれかが同等以上のものは前線上に残り、Koopaのように常に劣後する選択肢は除外される。最終的には自分のプレイスタイルに応じて、前線上のドライバーの中から自分に合うバランスを選ぶことになる。]]></content:encoded>
-    </item>
-    <item>
-      <title>マリオとパレート Mario Meets Pareto  🔺 364 💬 27 🔗 HN Post | Artic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msgf3sp7yb2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msgf3sp7yb2m</guid>
-      <pubDate>Thu, 06 Aug 2026 15:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[マリオとパレート<br>Mario Meets Pareto<br><br>🔺 364<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[マリオとパレート<br>Mario Meets Pareto<br><br>🔺 364<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ユーザー阿鼻叫喚？ Gmail、サードパーティの「送信元アドレス」のサポートを打ち切りへ【やじうまWatch】  …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msge4v23xu26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msge4v23xu26</guid>
-      <pubDate>Thu, 06 Aug 2026 15:27:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ユーザー阿鼻叫喚？ Gmail、サードパーティの「送信元アドレス」のサポートを打ち切りへ【やじうまWatch】<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ユーザー阿鼻叫喚？ Gmail、サードパーティの「送信元アドレス」のサポートを打ち切りへ【やじうまWatch】<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 Significant-Gravitas / AutoGPT ⭐ 185,853 (+28) 🗒 Python …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgdkrfsbt2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msgdkrfsbt2c</guid>
-      <pubDate>Thu, 06 Aug 2026 15:16:34 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 Significant-Gravitas / AutoGPT<br>⭐ 185,853 (+28)<br>🗒 Python<br><br>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.]]></description>
-      <content:encoded><![CDATA[📦 Significant-Gravitas / AutoGPT<br>⭐ 185,853 (+28)<br>🗒 Python<br><br>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.]]></content:encoded>
-    </item>
-    <item>
-      <title>It&apos;s all looking pretty true to me - I&apos;ve been using these m…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgampmobk2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msgampmobk2p</guid>
-      <pubDate>Thu, 06 Aug 2026 14:24:29 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It's all looking pretty true to me - I've been using these models to find security vulnerabilities in software for a few months now myself]]></description>
-      <content:encoded><![CDATA[It's all looking pretty true to me - I've been using these models to find security vulnerabilities in software for a few months now myself]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 TapXWorld / ChinaTextbo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msga6yzzoe2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msga6yzzoe2a</guid>
-      <pubDate>Thu, 06 Aug 2026 14:16:33 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 TapXWorld / ChinaTextbook<br>⭐ 76,921 (+157)<br>🗒 Roff<br><br>所有小初高、大学PDF教材。]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 TapXWorld / ChinaTextbook<br>⭐ 76,921 (+157)<br>🗒 Roff<br><br>所有小初高、大学PDF教材。]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   自分で植物学を学ぶ際の要点として、専門用語はインターネットで調べながら理解を深め、ラテン語の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msg6ffml6q2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msg6ffml6q2i</guid>
-      <pubDate>Thu, 06 Aug 2026 13:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>自分で植物学を学ぶ際の要点として、専門用語はインターネットで調べながら理解を深め、ラテン語の分類法は国際的共有のため重要であると説明しています。分類学は系統に基づくグルーピングの理解が鍵で、未知の植物でもその特徴から関連する家族や属を推定できると述べられています。参考となる教科書として「Plant Systematics」「Raven's Biology of Plants」などと、手頃な入手方法を含む補足書籍リストが紹介されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>自分で植物学を学ぶ際の要点として、専門用語はインターネットで調べながら理解を深め、ラテン語の分類法は国際的共有のため重要であると説明しています。分類学は系統に基づくグルーピングの理解が鍵で、未知の植物でもその特徴から関連する家族や属を推定できると述べられています。参考となる教科書として「Plant Systematics」「Raven's Biology of Plants」などと、手頃な入手方法を含む補足書籍リストが紹介されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>犯罪は儲かるが、植物学は儲からない。 Crime Pays but Botany Doesn&apos;t  🔺 365 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msg6f2sxec2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msg6f2sxec2u</guid>
-      <pubDate>Thu, 06 Aug 2026 13:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[犯罪は儲かるが、植物学は儲からない。<br>Crime Pays but Botany Doesn't<br><br>🔺 365<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[犯罪は儲かるが、植物学は儲からない。<br>Crime Pays but Botany Doesn't<br><br>🔺 365<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
