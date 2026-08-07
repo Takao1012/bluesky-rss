@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:25:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 semantica-agi / semanti…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msji4k77zh2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msji4k77zh2i</guid>
+      <pubDate>Fri, 07 Aug 2026 21:16:33 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></content:encoded>
+    </item>
+    <item>
+      <title>Merged and shipped 48 PRs in 2 days 💀</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjfrkg5yy2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjfrkg5yy2i</guid>
+      <pubDate>Fri, 07 Aug 2026 20:19:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Merged and shipped 48 PRs in 2 days 💀]]></description>
+      <content:encoded><![CDATA[Merged and shipped 48 PRs in 2 days 💀]]></content:encoded>
+    </item>
     <item>
       <title>Yeah, I wouldn&apos;t dream of showing up in real indie game deve…</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjdb73ksk2b</link>
@@ -441,24 +459,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[stash (cmd+S saves the composer to a per-provider queue)<br>- Added picture-in-picture and background preview capture<br>- Added Image View outputs rendered in chat<br>- Added thread title regeneration from the sidebar<br>- Added paginated thread loading with user-anchored turn windows<br>- Added expanded (4/12)]]></description>
       <content:encoded><![CDATA[stash (cmd+S saves the composer to a per-provider queue)<br>- Added picture-in-picture and background preview capture<br>- Added Image View outputs rendered in chat<br>- Added thread title regeneration from the sidebar<br>- Added paginated thread loading with user-anchored turn windows<br>- Added expanded (4/12)]]></content:encoded>
-    </item>
-    <item>
-      <title>conversation content, from the sidebar - Added search to set…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt6fu6u24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt6fu6u24</guid>
-      <pubDate>Fri, 07 Aug 2026 08:11:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[conversation content, from the sidebar<br>- Added search to settings<br>- Added thread pinning back to sidebar v2<br>- Added thread snoozing and collapsible settled threads to mobile<br>- Added npx t3 pair to generate a QR code from a running server<br>- Added per-device provider settings<br>- Added prompt (3/12)]]></description>
-      <content:encoded><![CDATA[conversation content, from the sidebar<br>- Added search to settings<br>- Added thread pinning back to sidebar v2<br>- Added thread snoozing and collapsible settled threads to mobile<br>- Added npx t3 pair to generate a QR code from a running server<br>- Added per-device provider settings<br>- Added prompt (3/12)]]></content:encoded>
-    </item>
-    <item>
-      <title>- Added subagent and workflow observability, so you can see …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt3f7bo2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibt3f7bo2q</guid>
-      <pubDate>Fri, 07 Aug 2026 08:11:35 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[- Added subagent and workflow observability, so you can see what your agents spawn<br>- Added libghostty-vt as the terminal renderer<br>- Added configurable fonts and sizes under Settings → Appearance<br>- Added project file picker (⌘P) and project content search (⇧⌘F)<br>- Added thread search by (2/12)]]></description>
-      <content:encoded><![CDATA[- Added subagent and workflow observability, so you can see what your agents spawn<br>- Added libghostty-vt as the terminal renderer<br>- Added configurable fonts and sizes under Settings → Appearance<br>- Added project file picker (⌘P) and project content search (⇧⌘F)<br>- Added thread search by (2/12)]]></content:encoded>
     </item>
   </channel>
 </rss>
