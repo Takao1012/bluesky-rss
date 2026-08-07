@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:37:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 19:41:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 chenyme / grok2api ⭐ 7,078 (+43) 🗒 Go  Multi-account API…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msj63274ta2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msj63274ta2t</guid>
+      <pubDate>Fri, 07 Aug 2026 18:16:45 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 chenyme / grok2api<br>⭐ 7,078 (+43)<br>🗒 Go<br><br>Multi-account API gateway for Grok Build, Grok Web, and Grok Console]]></description>
+      <content:encoded><![CDATA[📦 chenyme / grok2api<br>⭐ 7,078 (+43)<br>🗒 Go<br><br>Multi-account API gateway for Grok Build, Grok Web, and Grok Console]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bl7mpo2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bl7mpo2g</guid>
+      <pubDate>Fri, 07 Aug 2026 17:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></content:encoded>
+    </item>
+    <item>
+      <title>人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。 Huma…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bdibnw27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bdibnw27</guid>
+      <pubDate>Fri, 07 Aug 2026 17:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 666ghj / MiroFish ⭐ 70,…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msixdhhoze2m</link>
@@ -432,39 +459,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I did it. Left a settings toggle for those who want "legacy plan mode" back https://github.com/pingdotgg/t3code/pull/5551]]></description>
       <content:encoded><![CDATA[I did it. Left a settings toggle for those who want "legacy plan mode" back https://github.com/pingdotgg/t3code/pull/5551]]></content:encoded>
-    </item>
-    <item>
-      <title>Plan mode usage in T3 Code has dropped from 9% of sessions t…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsl5fbd2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsl5fbd2b</guid>
-      <pubDate>Fri, 07 Aug 2026 07:41:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Plan mode usage in T3 Code has dropped from 9% of sessions to 2.5% of sessions<br><br>Can I remove it now? 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Plan mode usage in T3 Code has dropped from 9% of sessions to 2.5% of sessions<br><br>Can I remove it now? 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbh76wbupkxegwoom5sfdrf6ynhhdlzdt2v2obl2hjthdxy6zzuu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>/goal rebuild GitHub in literally anything at all. I don’t c…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsglpss22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibsglpss22</guid>
-      <pubDate>Fri, 07 Aug 2026 07:09:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[/goal rebuild GitHub in literally anything at all. I don’t care. I just want something with reasonable uptime.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" alt="Quote Tweet: https://twitter.com/i/status/2085473886771306980" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[/goal rebuild GitHub in literally anything at all. I don’t care. I just want something with reasonable uptime.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" alt="Quote Tweet: https://twitter.com/i/status/2085473886771306980" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihfucdbl5o65t5rinx5noqneoba4rwp7cp36hsdhu4pdwdmuwz2e4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>This is confusing because they announced a change months ago…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibs2zm2s22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msibs2zm2s22</guid>
-      <pubDate>Fri, 07 Aug 2026 06:57:46 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This is confusing because they announced a change months ago that contradicts this. They decided to delay that change indefinitely]]></description>
-      <content:encoded><![CDATA[This is confusing because they announced a change months ago that contradicts this. They decided to delay that change indefinitely]]></content:encoded>
     </item>
   </channel>
 </rss>
