@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:18:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 TauricResearch / Tradin…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msll5nibg32k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msll5nibg32k</guid>
+      <pubDate>Sat, 08 Aug 2026 17:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 TauricResearch / TradingAgents<br>⭐ 96,140 (+126)<br>🗒 Python<br><br>TradingAgents: Multi-Agents LLM Financial Trading Framework]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 TauricResearch / TradingAgents<br>⭐ 96,140 (+126)<br>🗒 Python<br><br>TradingAgents: Multi-Agents LLM Financial Trading Framework]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 LadybirdBrowser / ladybird ⭐ 64,856 (+42) 🗒 C++  Truly i…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mslhsexf3m2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mslhsexf3m2n</guid>
+      <pubDate>Sat, 08 Aug 2026 16:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 LadybirdBrowser / ladybird<br>⭐ 64,856 (+42)<br>🗒 C++<br><br>Truly independent web browser]]></description>
+      <content:encoded><![CDATA[📦 LadybirdBrowser / ladybird<br>⭐ 64,856 (+42)<br>🗒 C++<br><br>Truly independent web browser]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   NASAの Voyager 2 は、半世紀近く稼働している機器の電力を温存するため、「ビッグ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mslfzxeceu2g</link>
@@ -478,27 +496,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>mise is a CLI that prepares a project's development environment by managing dev tools, environment variables, and tasks from a single mise.toml, enabling consistent tool versions and workflows across shells, CI, and deployments.]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>mise is a CLI that prepares a project's development environment by managing dev tools, environment variables, and tasks from a single mise.toml, enabling consistent tool versions and workflows across shells, CI, and deployments.]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 jdx / mise ⭐ 31,964…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs66gtzv2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs66gtzv2r</guid>
-      <pubDate>Sat, 08 Aug 2026 00:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jdx / mise<br>⭐ 31,964 (+258)<br>🗒 Rust<br><br>dev tools, env vars, task runner]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jdx / mise<br>⭐ 31,964 (+258)<br>🗒 Rust<br><br>dev tools, env vars, task runner]]></content:encoded>
-    </item>
-    <item>
-      <title>Here&apos;s where things get really fun, at 24m50s www.youtube.co…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjrcluuik2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjrcluuik2n</guid>
-      <pubDate>Sat, 08 Aug 2026 00:01:02 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Here's where things get really fun, at 24m50s www.youtube.com/watch?v=87Dy...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" alt="The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine **using this known Linux kernel privilege escalation CVE** — in this case, PTE fizzroot. Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They **obtain IAM credentials via IMDS**. They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and **they harvest cluster credentials, including Azure Key Vault**. Agents eventually obtain cluster admin on the cluster and associated credentials." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Here's where things get really fun, at 24m50s www.youtube.com/watch?v=87Dy...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" alt="The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine **using this known Linux kernel privilege escalation CVE** — in this case, PTE fizzroot. Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They **obtain IAM credentials via IMDS**. They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and **they harvest cluster credentials, including Azure Key Vault**. Agents eventually obtain cluster admin on the cluster and associated credentials." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
