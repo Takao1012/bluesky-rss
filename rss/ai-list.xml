@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:24:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   RAM価格高騰は続き、2027年のDRAM/HBMはすべて出荷済みとされ、AI向け長期契約で…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskl7ff5n52u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskl7ff5n52u</guid>
+      <pubDate>Sat, 08 Aug 2026 07:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>RAM価格高騰は続き、2027年のDRAM/HBMはすべて出荷済みとされ、AI向け長期契約で供給が事実上不透明化。NAND需要も増加しておりSSD価格も上昇傾向で、来年以降もRAMとNANDの供給不足が続く見込みなので、手頃な価格で入手するのは難しそう。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>RAM価格高騰は続き、2027年のDRAM/HBMはすべて出荷済みとされ、AI向け長期契約で供給が事実上不透明化。NAND需要も増加しておりSSD価格も上昇傾向で、来年以降もRAMとNANDの供給不足が続く見込みなので、手頃な価格で入手するのは難しそう。]]></content:encoded>
+    </item>
+    <item>
+      <title>2027年のメモリ容量は売り切れだと報じられている。 2027 memory capacity is reportedl…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskl7472dr2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskl7472dr2d</guid>
+      <pubDate>Sat, 08 Aug 2026 07:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[2027年のメモリ容量は売り切れだと報じられている。<br>2027 memory capacity is reportedly sold out<br><br>🔺 332<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[2027年のメモリ容量は売り切れだと報じられている。<br>2027 memory capacity is reportedly sold out<br><br>🔺 332<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 AI時代、アーキテクトやテックリードは死ぬ  🔖 153 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mskkamufcw26</link>
@@ -15,6 +33,18 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 AI時代、アーキテクトやテックリードは死ぬ<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 AI時代、アーキテクトやテックリードは死ぬ<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Now on T3 Code nightly: a special section for all the featur…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msklj2szxr2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msklj2szxr2e</guid>
+      <pubDate>Sat, 08 Aug 2026 07:21:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Now on T3 Code nightly: a special section for all the features I don't like
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidja6yiat43qfvpgi4y4ctegel5jnvwmcvztforeg7g6aqcvuw5ii" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Now on T3 Code nightly: a special section for all the features I don't like
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidja6yiat43qfvpgi4y4ctegel5jnvwmcvztforeg7g6aqcvuw5ii" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidja6yiat43qfvpgi4y4ctegel5jnvwmcvztforeg7g6aqcvuw5ii" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>It&apos;s been almost 1 year since we got a new Haiku model</title>
@@ -466,33 +496,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 666ghj / MiroFish ⭐ 70,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msixdhhoze2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msixdhhoze2m</guid>
-      <pubDate>Fri, 07 Aug 2026 16:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 666ghj / MiroFish<br>⭐ 70,265 (+126)<br>🗒 Python<br><br>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 666ghj / MiroFish<br>⭐ 70,265 (+126)<br>🗒 Python<br><br>A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Quakeの30周年を記念してMachineGamesと協力し、新エピソード「Dawn of…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msivldw2hg2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msivldw2hg2i</guid>
-      <pubDate>Fri, 07 Aug 2026 15:44:51 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Quakeの30周年を記念してMachineGamesと協力し、新エピソード「Dawn of the Machine」が追加無料アップデートとして配信。19の新規マップ、新敵・武器バリエーション、リプレイ性の高いエピソードループ、謎解き要素と新システム、そして各プラットフォーム対応の修正・追加機能が盛り込まれている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Quakeの30周年を記念してMachineGamesと協力し、新エピソード「Dawn of the Machine」が追加無料アップデートとして配信。19の新規マップ、新敵・武器バリエーション、リプレイ性の高いエピソードループ、謎解き要素と新システム、そして各プラットフォーム対応の修正・追加機能が盛り込まれている。]]></content:encoded>
-    </item>
-    <item>
-      <title>クエイク：30周年記念アップデート Quake – 30th Anniversary Update  🔺 364 💬…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msivkzr3zg2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msivkzr3zg2i</guid>
-      <pubDate>Fri, 07 Aug 2026 15:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[クエイク：30周年記念アップデート<br>Quake – 30th Anniversary Update<br><br>🔺 364<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[クエイク：30周年記念アップデート<br>Quake – 30th Anniversary Update<br><br>🔺 364<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
