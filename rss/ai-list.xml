@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 09:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 11:17:24 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepgrove/maple-preview Maple-Previewは、オ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskugsp7go2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskugsp7go2t</guid>
+      <pubDate>Sat, 08 Aug 2026 10:29:45 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepgrove/maple-preview<br>Maple-Previewは、オンデバイス推論向けに設計されたオープンソースの20B-A1B三値重み推論LLMです。<br>同等クラスで最高水準の推論性能を備え、IMOレベルの問題を解決可能です。<br>Mac mini M4などで非常に高速に動作し、メモリ効率と速度を両立しています。<br>現在は純粋な推論能力に焦点を当てたプレビュー版として公開されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepgrove/maple-preview<br>Maple-Previewは、オンデバイス推論向けに設計されたオープンソースの20B-A1B三値重み推論LLMです。<br>同等クラスで最高水準の推論性能を備え、IMOレベルの問題を解決可能です。<br>Mac mini M4などで非常に高速に動作し、メモリ効率と速度を両立しています。<br>現在は純粋な推論能力に焦点を当てたプレビュー版として公開されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-C…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskug5ljdr2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskug5ljdr2t</guid>
+      <pubDate>Sat, 08 Aug 2026 10:29:22 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot<br>ComfyUIで利用するためのQwen3-VL-32B Ultra Uncensored HereticベースのH3コンディショニングエンコーダーおよび生成テールを提供することを目的としています。<br>BF16やINT8 ConvRotなどの形式で提供されており、モデルのレイヤーを分割して効率的に利用できる構成になっています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot<br>ComfyUIで利用するためのQwen3-VL-32B Ultra Uncensored HereticベースのH3コンディショニングエンコーダーおよび生成テールを提供することを目的としています。<br>BF16やINT8 ConvRotなどの形式で提供されており、モデルのレイヤーを分割して効率的に利用できる構成になっています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  LiquidAI/LFM2.5-2.6B LFM2.5-2.6Bは、オンデバイス…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuflwzu22x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuflwzu22x</guid>
+      <pubDate>Sat, 08 Aug 2026 10:29:04 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bは、オンデバイス展開向けに設計された汎用的なテキスト生成ハイブリッドモデルです。<br>128Kのコンテキストウィンドウを備え、エージェント的なワークロード向けのポストトレーニングが施されています。<br>ファインチューニング用のベースモデルと、エージェント機能に最適化されたモデルが提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bは、オンデバイス展開向けに設計された汎用的なテキスト生成ハイブリッドモデルです。<br>128Kのコンテキストウィンドウを備え、エージェント的なワークロード向けのポストトレーニングが施されています。<br>ファインチューニング用のベースモデルと、エージェント機能に最適化されたモデルが提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuez7tzz2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuez7tzz2t</guid>
+      <pubDate>Sat, 08 Aug 2026 10:28:44 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Comfy-Org/MiniMax-H3 ComfyUIで利用するために再パッケ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuecpxvp2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuecpxvp2t</guid>
+      <pubDate>Sat, 08 Aug 2026 10:28:21 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するために再パッケージ化されたMiniMax H3のモデルファイルを提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するために再パッケージ化されたMiniMax H3のモデルファイルを提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrw6ycx52d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrw6ycx52d</guid>
+      <pubDate>Sat, 08 Aug 2026 09:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、fxrstor64をはじめとする重いMMIO読みを高 latencyのPCIe領域で実行させ、他コアが高遅延読と混雑を作り出して実行を遅延させる手法を披露している。現在の最下位は AMD Ryzen 7 5800H の fxrstor64（約1980億サイクル/62秒）で、xrstor64やvmovdqu/ fxrstor64の極端な遅延を競うランキングが掲載されている。著者は Christopher Domas 氏。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、fxrstor64をはじめとする重いMMIO読みを高 latencyのPCIe領域で実行させ、他コアが高遅延読と混雑を作り出して実行を遅延させる手法を披露している。現在の最下位は AMD Ryzen 7 5800H の fxrstor64（約1980億サイクル/62秒）で、xrstor64やvmovdqu/ fxrstor64の極端な遅延を競うランキングが掲載されている。著者は Christopher Domas 氏。]]></content:encoded>
+    </item>
+    <item>
+      <title>恥の議事堂 Assembly Hall of Shame  🔺 344 💬 26 🔗 HN Post | Arti…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrvw5q3427</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrvw5q3427</guid>
+      <pubDate>Sat, 08 Aug 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[恥の議事堂<br>Assembly Hall of Shame<br><br>🔺 344<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[恥の議事堂<br>Assembly Hall of Shame<br><br>🔺 344<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>I have over 40 Claude agents/subagents running right now and…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskougqnkr2m</link>
@@ -436,69 +499,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></description>
       <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></content:encoded>
-    </item>
-    <item>
-      <title>Merged and shipped 48 PRs in 2 days 💀</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjfrkg5yy2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjfrkg5yy2i</guid>
-      <pubDate>Fri, 07 Aug 2026 20:19:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Merged and shipped 48 PRs in 2 days 💀]]></description>
-      <content:encoded><![CDATA[Merged and shipped 48 PRs in 2 days 💀]]></content:encoded>
-    </item>
-    <item>
-      <title>Yeah, I wouldn&apos;t dream of showing up in real indie game deve…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjdb73ksk2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjdb73ksk2b</guid>
-      <pubDate>Fri, 07 Aug 2026 19:49:43 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Yeah, I wouldn't dream of showing up in real indie game developer spaces with this slop!]]></description>
-      <content:encoded><![CDATA[Yeah, I wouldn't dream of showing up in real indie game developer spaces with this slop!]]></content:encoded>
-    </item>
-    <item>
-      <title>I had Codex + GPT-5.6 Sol Ultra try the same prompt and the …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjd674w2s2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjd674w2s2b</guid>
-      <pubDate>Fri, 07 Aug 2026 19:48:02 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I had Codex + GPT-5.6 Sol Ultra try the same prompt and the result was a better game - it understood the "heist" and "team" aspects better, you have to rescue your two raccoon crewmates and then stack on top of each other to steal the Golden Sardine from a museum simonwillison.net/2026/Aug/7/m...]]></description>
-      <content:encoded><![CDATA[I had Codex + GPT-5.6 Sol Ultra try the same prompt and the result was a better game - it understood the "heist" and "team" aspects better, you have to rescue your two raccoon crewmates and then stack on top of each other to steal the Golden Sardine from a museum simonwillison.net/2026/Aug/7/m...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   7月の米雇用は23,000件の減少となり、労働市場は4か月連続の成長後に再び勢いを欠く兆候を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjcyeomh22d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjcyeomh22d</guid>
-      <pubDate>Fri, 07 Aug 2026 19:44:47 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>7月の米雇用は23,000件の減少となり、労働市場は4か月連続の成長後に再び勢いを欠く兆候を示した。失業率はわずかに4.1%へ低下したものの、賃金は前年同月比3.2%と予想を下回り、インフレ3.5%に追いつかない状況が続く。労働力参加率の低下や一部産業の雇用縮小も指摘され、市場は連邦準備制度の利上げ観測をやや後退させた。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>7月の米雇用は23,000件の減少となり、労働市場は4か月連続の成長後に再び勢いを欠く兆候を示した。失業率はわずかに4.1%へ低下したものの、賃金は前年同月比3.2%と予想を下回り、インフレ3.5%に追いつかない状況が続く。労働力参加率の低下や一部産業の雇用縮小も指摘され、市場は連邦準備制度の利上げ観測をやや後退させた。]]></content:encoded>
-    </item>
-    <item>
-      <title>米国経済は7月に雇用を23,000件失い、急転回を遂げた。 U.S. economy lost 23,000 jobs …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjcxx2dhe2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjcxx2dhe2i</guid>
-      <pubDate>Fri, 07 Aug 2026 19:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[米国経済は7月に雇用を23,000件失い、急転回を遂げた。<br>U.S. economy lost 23,000 jobs in July, a sudden reversal<br><br>🔺 327<br>💬 31<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[米国経済は7月に雇用を23,000件失い、急転回を遂げた。<br>U.S. economy lost 23,000 jobs in July, a sudden reversal<br><br>🔺 327<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 chenyme / grok2api ⭐ 7,078 (+43) 🗒 Go  Multi-account API…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msj63274ta2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msj63274ta2t</guid>
-      <pubDate>Fri, 07 Aug 2026 18:16:45 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 chenyme / grok2api<br>⭐ 7,078 (+43)<br>🗒 Go<br><br>Multi-account API gateway for Grok Build, Grok Web, and Grok Console]]></description>
-      <content:encoded><![CDATA[📦 chenyme / grok2api<br>⭐ 7,078 (+43)<br>🗒 Go<br><br>Multi-account API gateway for Grok Build, Grok Web, and Grok Console]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bl7mpo2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bl7mpo2g</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></content:encoded>
     </item>
   </channel>
 </rss>
