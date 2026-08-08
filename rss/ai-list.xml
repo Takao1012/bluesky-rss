@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:01:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   OracleはOpenJDKへのAI生成コードの貢献を禁じ、安全性・知財リスクを理由にAI生…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5s6atzz2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5s6atzz2m</guid>
+      <pubDate>Sat, 08 Aug 2026 03:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OracleはOpenJDKへのAI生成コードの貢献を禁じ、安全性・知財リスクを理由にAI生成素材のリポジトリ投稿を不可とした。一方で社内ではAIがコード作成に使われていると公言しており、エンジニアリング規模を縮小せずに迅速化を図っている。さらにOracleは今年700億ドルをデータセンター拡張に投資する一方、投資回収の不確実性を理由にS&Pから格付けがBBB-へ引き下げられた。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OracleはOpenJDKへのAI生成コードの貢献を禁じ、安全性・知財リスクを理由にAI生成素材のリポジトリ投稿を不可とした。一方で社内ではAIがコード作成に使われていると公言しており、エンジニアリング規模を縮小せずに迅速化を図っている。さらにOracleは今年700億ドルをデータセンター拡張に投資する一方、投資回収の不確実性を理由にS&Pから格付けがBBB-へ引き下げられた。]]></content:encoded>
+    </item>
+    <item>
+      <title>オラクルは OpenJDK から生成された AI コードを禁止する。 Oracle bans AI-generated …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5rwiqlj2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5rwiqlj2m</guid>
+      <pubDate>Sat, 08 Aug 2026 03:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オラクルは OpenJDK から生成された AI コードを禁止する。<br>Oracle bans AI-generated code from OpenJDK<br><br>🔺 410<br>💬 59<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オラクルは OpenJDK から生成された AI コードを禁止する。<br>Oracle bans AI-generated code from OpenJDK<br><br>🔺 410<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Don&apos;t miss the bit where OpenAI first found out they were re…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msk22xsjgc2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msk22xsjgc2a</guid>
+      <pubDate>Sat, 08 Aug 2026 02:37:50 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></description>
+      <content:encoded><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3liw6427</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3liw6427</guid>
+      <pubDate>Sat, 08 Aug 2026 01:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安を深めており、仕事に意味を見出す Workism に疑問が生じている。AIが作業の大半を代替する未来は、協働や創造性を重んじる「 messy middle」 を脅かし、経験重視の人々はキャリアの価値を見失う可能性がある。結果として、組織と社会は、労働の本質と人間関係の意味を再考する局面に直面する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安を深めており、仕事に意味を見出す Workism に疑問が生じている。AIが作業の大半を代替する未来は、協働や創造性を重んじる「 messy middle」 を脅かし、経験重視の人々はキャリアの価値を見失う可能性がある。結果として、組織と社会は、労働の本質と人間関係の意味を再考する局面に直面する。]]></content:encoded>
+    </item>
+    <item>
+      <title>労働者のある階級全体が自分たちのキャリアに対する信頼を失ったら、どうなるのだろう。 What happens if an…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3deqxt27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3deqxt27</guid>
+      <pubDate>Sat, 08 Aug 2026 01:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[労働者のある階級全体が自分たちのキャリアに対する信頼を失ったら、どうなるのだろう。<br>What happens if an entire class of workers loses faith in their careers<br><br>🔺 420<br>💬 99<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[労働者のある階級全体が自分たちのキャリアに対する信頼を失ったら、どうなるのだろう。<br>What happens if an entire class of workers loses faith in their careers<br><br>🔺 420<br>💬 99<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 Summary:   mise is a CLI that prepares a project&apos;s develo…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs7hk4xa2y</link>
@@ -420,51 +465,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>666ghj/MiroFish<br>MiroFishは、マルチエージェント技術を活用したAI予測エンジンです。<br>現実世界のデータからデジタル上の並列世界を構築し、自律的に行動する多数のエージェントによるシミュレーションを行います。<br>変数を投入して将来の軌跡を導き出すことで、意思決定を支援するデジタルサンドボックスを提供することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>666ghj/MiroFish<br>MiroFishは、マルチエージェント技術を活用したAI予測エンジンです。<br>現実世界のデータからデジタル上の並列世界を構築し、自律的に行動する多数のエージェントによるシミュレーションを行います。<br>変数を投入して将来の軌跡を導き出すことで、意思決定を支援するデジタルサンドボックスを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  semantica-agi/semantica AIエージェント向けのオープンソース基盤で…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiidghdox2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiidghdox2s</guid>
-      <pubDate>Fri, 07 Aug 2026 11:47:47 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>semantica-agi/semantica<br>AIエージェント向けのオープンソース基盤です。<br>企業データからナレッジグラフを構築し、グラフ分析や因果推論を行うことで、説明可能で信頼性の高い意思決定と追跡可能性を実現します。<br>規制の厳しい分野での利用に適した、決定論的な推論やコンテキスト管理を可能にするインフラを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>semantica-agi/semantica<br>AIエージェント向けのオープンソース基盤です。<br>企業データからナレッジグラフを構築し、グラフ分析や因果推論を行うことで、説明可能で信頼性の高い意思決定と追跡可能性を実現します。<br>規制の厳しい分野での利用に適した、決定論的な推論やコンテキスト管理を可能にするインフラを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  obra/superpowers Superpowersは、コーディングエージェントのため…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiicu7zfy2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiicu7zfy2s</guid>
-      <pubDate>Fri, 07 Aug 2026 11:47:28 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>Superpowersは、コーディングエージェントのためのソフトウェア開発手法です。<br>仕様の策定、実装計画の作成、サブエージェントによる自律的な開発プロセスを体系化しています。<br>TDDやYAGNI、DRYといった原則を重視し、設計の合意後に段階的に実装を進めることで、エージェントによる効率的で精度の高い開発を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>Superpowersは、コーディングエージェントのためのソフトウェア開発手法です。<br>仕様の策定、実装計画の作成、サブエージェントによる自律的な開発プロセスを体系化しています。<br>TDDやYAGNI、DRYといった原則を重視し、設計の合意後に段階的に実装を進めることで、エージェントによる効率的で精度の高い開発を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  PrimeIntellect-ai/prime-agent Prime Agentは、一般…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiiahjucl26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msiiahjucl26</guid>
-      <pubDate>Fri, 07 Aug 2026 11:46:07 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>PrimeIntellect-ai/prime-agent<br>Prime Agentは、一般的かつ長期的なタスク向けに設計されたオープンソースのコーディングおよびリサーチエージェントです。<br>永続的なPython制御環境と状態保持機能を備えており、単一のチャットセッションを超えて作業コンテキストや操作パターンを再利用できるのが特徴です。<br>指定したディレクトリ内でコマンドの実行やファイルの修正を行うことが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>PrimeIntellect-ai/prime-agent<br>Prime Agentは、一般的かつ長期的なタスク向けに設計されたオープンソースのコーディングおよびリサーチエージェントです。<br>永続的なPython制御環境と状態保持機能を備えており、単一のチャットセッションを超えて作業コンテキストや操作パターンを再利用できるのが特徴です。<br>指定したディレクトリ内でコマンドの実行やファイルの修正を行うことが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ニューメキシコ州裁判所は、Meta（Facebookの親会社）に対し、精神健康へ悪影響を与え…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msii5re3pj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msii5re3pj2t</guid>
-      <pubDate>Fri, 07 Aug 2026 11:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ニューメキシコ州裁判所は、Meta（Facebookの親会社）に対し、精神健康へ悪影響を与えた責任として5億6700万ドルを基金に支払うよう命じた。総額はすでに課せられた3億7500万ドルの罰金と併せて約9,420万ドルとなり、4200万ドルを若者の治療・支援に、残りを啓発・予防活動に充て、今後5年間で監視・報告を義務づける内容。裁判は同社の未成年者保護対策強化や年齢認証の改善を求めるもので、Metaは控訴の意向を示している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ニューメキシコ州裁判所は、Meta（Facebookの親会社）に対し、精神健康へ悪影響を与えた責任として5億6700万ドルを基金に支払うよう命じた。総額はすでに課せられた3億7500万ドルの罰金と併せて約9,420万ドルとなり、4200万ドルを若者の治療・支援に、残りを啓発・予防活動に充て、今後5年間で監視・報告を義務づける内容。裁判は同社の未成年者保護対策強化や年齢認証の改善を求めるもので、Metaは控訴の意向を示している。]]></content:encoded>
-    </item>
-    <item>
-      <title>ニューメキシコ州の裁判所が子どもたちの精神健康への被害をめぐってメタに5億6700万ドルの支払いを命じた New Mex…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msii5l2hnn24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msii5l2hnn24</guid>
-      <pubDate>Fri, 07 Aug 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ニューメキシコ州の裁判所が子どもたちの精神健康への被害をめぐってメタに5億6700万ドルの支払いを命じた<br>New Mexico court orders Meta to pay $567m over harms to children’s mental health<br><br>🔺 350<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ニューメキシコ州の裁判所が子どもたちの精神健康への被害をめぐってメタに5億6700万ドルの支払いを命じた<br>New Mexico court orders Meta to pay $567m over harms to children’s mental health<br><br>🔺 350<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
