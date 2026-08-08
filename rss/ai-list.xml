@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 20:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:14:32 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価で…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25opnxn2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25opnxn2u</guid>
+      <pubDate>Sat, 08 Aug 2026 21:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価であり、顧客理解と設計の重要性は変わらない。変化を前提に、技術知識を深めつつユーザー理解やビジネス視点も磨き、AIを利用しても判断と判断力は自分で担うべきだ、という論点を述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価であり、顧客理解と設計の重要性は変わらない。変化を前提に、技術知識を深めつつユーザー理解やビジネス視点も磨き、AIを利用しても判断と判断力は自分で担うべきだ、という論点を述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>「Code was never the hard part」はすべてのプログラマーへの侮辱だ。 &quot;Code was ne…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25jthwi2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25jthwi2t</guid>
+      <pubDate>Sat, 08 Aug 2026 21:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[「Code was never the hard part」はすべてのプログラマーへの侮辱だ。<br>"Code was never the hard part" is an insult to all programmers<br><br>🔺 397<br>💬 87<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[「Code was never the hard part」はすべてのプログラマーへの侮辱だ。<br>"Code was never the hard part" is an insult to all programmers<br><br>🔺 397<br>💬 87<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mslz6kykva2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mslz6kykva2d</guid>
+      <pubDate>Sat, 08 Aug 2026 21:27:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgre…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltguh3wr2u</link>
@@ -461,36 +488,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>OracleはOpenJDKへのAI生成コードの貢献を禁じ、安全性・知財リスクを理由にAI生成素材のリポジトリ投稿を不可とした。一方で社内ではAIがコード作成に使われていると公言しており、エンジニアリング規模を縮小せずに迅速化を図っている。さらにOracleは今年700億ドルをデータセンター拡張に投資する一方、投資回収の不確実性を理由にS&Pから格付けがBBB-へ引き下げられた。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>OracleはOpenJDKへのAI生成コードの貢献を禁じ、安全性・知財リスクを理由にAI生成素材のリポジトリ投稿を不可とした。一方で社内ではAIがコード作成に使われていると公言しており、エンジニアリング規模を縮小せずに迅速化を図っている。さらにOracleは今年700億ドルをデータセンター拡張に投資する一方、投資回収の不確実性を理由にS&Pから格付けがBBB-へ引き下げられた。]]></content:encoded>
-    </item>
-    <item>
-      <title>オラクルは OpenJDK から生成された AI コードを禁止する。 Oracle bans AI-generated …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5rwiqlj2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msk5rwiqlj2m</guid>
-      <pubDate>Sat, 08 Aug 2026 03:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[オラクルは OpenJDK から生成された AI コードを禁止する。<br>Oracle bans AI-generated code from OpenJDK<br><br>🔺 410<br>💬 59<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[オラクルは OpenJDK から生成された AI コードを禁止する。<br>Oracle bans AI-generated code from OpenJDK<br><br>🔺 410<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>:(</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbh2qoqe2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbh2qoqe2q</guid>
-      <pubDate>Sat, 08 Aug 2026 03:09:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[:(
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5yaitpm7lbbqu2qo5mszx6ddnp6jmmqn2m4pnvh32hkrp42j7jy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[:(
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5yaitpm7lbbqu2qo5mszx6ddnp6jmmqn2m4pnvh32hkrp42j7jy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5yaitpm7lbbqu2qo5mszx6ddnp6jmmqn2m4pnvh32hkrp42j7jy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Don&apos;t miss the bit where OpenAI first found out they were re…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msk22xsjgc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msk22xsjgc2a</guid>
-      <pubDate>Sat, 08 Aug 2026 02:37:50 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></description>
-      <content:encoded><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></content:encoded>
     </item>
   </channel>
 </rss>
