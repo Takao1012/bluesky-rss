@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 19:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:14:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgre…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltguh3wr2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltguh3wr2u</guid>
+      <pubDate>Sat, 08 Aug 2026 19:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgresの30%、Clickbenchでは300倍速くなるなど大幅な高速化を実現した。ボトルネックの多くを占めるVolcano型実行エンジンを改善するため、バッチ処理、演算子融合、SIMDなどの段階的最適化を適用し、最終的にPostgresより大幅に高速な分析クエリ処理を実現している。今後はJITやその他最適化の活用も検討している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgresの30%、Clickbenchでは300倍速くなるなど大幅な高速化を実現した。ボトルネックの多くを占めるVolcano型実行エンジンを改善するため、バッチ処理、演算子融合、SIMDなどの段階的最適化を適用し、最終的にPostgresより大幅に高速な分析クエリ処理を実現している。今後はJITやその他最適化の活用も検討している。]]></content:encoded>
+    </item>
+    <item>
+      <title>分析向けにPostgresを300倍高速化する：バッチ処理、演算子融合、そしてSIMD Making Postgres …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltgmvvyk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltgmvvyk2m</guid>
+      <pubDate>Sat, 08 Aug 2026 19:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[分析向けにPostgresを300倍高速化する：バッチ処理、演算子融合、そしてSIMD<br>Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD<br><br>🔺 315<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[分析向けにPostgresを300倍高速化する：バッチ処理、演算子融合、そしてSIMD<br>Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD<br><br>🔺 315<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   米エネルギー省（DOE）は、科学発見の加速を目的とするオープンウェイト基盤モデルの新設「Ge…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mslmqd4o2a2t</link>
@@ -473,29 +491,6 @@
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></description>
       <content:encoded><![CDATA[Don't miss the bit where OpenAI first found out they were responsible for the Hugging Face attack when they reached out to HF to get one of their credentials revoked and HF told them it had already been revoked because it had been used to attack them!]]></content:encoded>
-    </item>
-    <item>
-      <title>He&apos;s correct</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbgw5zid2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbgw5zid2e</guid>
-      <pubDate>Sat, 08 Aug 2026 02:27:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[He's correct
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggqnigo23pvgxcxcgj3gssn4folzayvf6z7fqjg7745zpaqrroy4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigthjxrf7bo3tmewf3cxvt6duklgmh4aufpboho4rn7afn66xy4ga" alt="Quote Tweet: https://twitter.com/i/status/2085845171363791135" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[He's correct
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggqnigo23pvgxcxcgj3gssn4folzayvf6z7fqjg7745zpaqrroy4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigthjxrf7bo3tmewf3cxvt6duklgmh4aufpboho4rn7afn66xy4ga" alt="Quote Tweet: https://twitter.com/i/status/2085845171363791135" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggqnigo23pvgxcxcgj3gssn4folzayvf6z7fqjg7745zpaqrroy4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3liw6427</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjx3liw6427</guid>
-      <pubDate>Sat, 08 Aug 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安を深めており、仕事に意味を見出す Workism に疑問が生じている。AIが作業の大半を代替する未来は、協働や創造性を重んじる「 messy middle」 を脅かし、経験重視の人々はキャリアの価値を見失う可能性がある。結果として、組織と社会は、労働の本質と人間関係の意味を再考する局面に直面する。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIが普及する時代において、知識労働者は「仕事の意味」を問う existential な不安を深めており、仕事に意味を見出す Workism に疑問が生じている。AIが作業の大半を代替する未来は、協働や創造性を重んじる「 messy middle」 を脅かし、経験重視の人々はキャリアの価値を見失う可能性がある。結果として、組織と社会は、労働の本質と人間関係の意味を再考する局面に直面する。]]></content:encoded>
     </item>
   </channel>
 </rss>
