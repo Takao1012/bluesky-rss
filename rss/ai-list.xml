@@ -5,8 +5,74 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 23:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:38:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Summary:   mise is a CLI that prepares a project&apos;s develo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs7hk4xa2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs7hk4xa2y</guid>
+      <pubDate>Sat, 08 Aug 2026 00:17:04 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>mise is a CLI that prepares a project's development environment by managing dev tools, environment variables, and tasks from a single mise.toml, enabling consistent tool versions and workflows across shells, CI, and deployments.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>mise is a CLI that prepares a project's development environment by managing dev tools, environment variables, and tasks from a single mise.toml, enabling consistent tool versions and workflows across shells, CI, and deployments.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 jdx / mise ⭐ 31,964…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs66gtzv2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjs66gtzv2r</guid>
+      <pubDate>Sat, 08 Aug 2026 00:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jdx / mise<br>⭐ 31,964 (+258)<br>🗒 Rust<br><br>dev tools, env vars, task runner]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jdx / mise<br>⭐ 31,964 (+258)<br>🗒 Rust<br><br>dev tools, env vars, task runner]]></content:encoded>
+    </item>
+    <item>
+      <title>Here&apos;s where things get really fun, at 24m50s www.youtube.co…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjrcluuik2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjrcluuik2n</guid>
+      <pubDate>Sat, 08 Aug 2026 00:01:02 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Here's where things get really fun, at 24m50s www.youtube.com/watch?v=87Dy...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" alt="The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine **using this known Linux kernel privilege escalation CVE** — in this case, PTE fizzroot. Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They **obtain IAM credentials via IMDS**. They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and **they harvest cluster credentials, including Azure Key Vault**. Agents eventually obtain cluster admin on the cluster and associated credentials." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Here's where things get really fun, at 24m50s www.youtube.com/watch?v=87Dy...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" alt="The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine **using this known Linux kernel privilege escalation CVE** — in this case, PTE fizzroot. Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They **obtain IAM credentials via IMDS**. They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and **they harvest cluster credentials, including Azure Key Vault**. Agents eventually obtain cluster admin on the cluster and associated credentials." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifosku5n62ku5hnkaidjyzgxqaa5ooh6acurrvvjyh263zywtbjiy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thanks to the video from the Black Hat security conference o…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjr3mlnz22x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3msjr3mlnz22x</guid>
+      <pubDate>Fri, 07 Aug 2026 23:57:08 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Thanks to the video from the Black Hat security conference of OpenAI's presentation about "The Hugging Face Incident" we now have a detailed timeline of what happened from OpenAI's perspective - I wrote up the details here, it's pretty wild <br>simonwillison.net/2026/Aug/7/o...]]></description>
+      <content:encoded><![CDATA[Thanks to the video from the Black Hat security conference of OpenAI's presentation about "The Hugging Face Incident" we now have a detailed timeline of what happened from OpenAI's perspective - I wrote up the details here, it's pretty wild <br>simonwillison.net/2026/Aug/7/o...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ARC Prize 2026に関する公式コンテストの開始と最新情報を受け取る案内。スパムなし…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjqfbxaep2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjqfbxaep2g</guid>
+      <pubDate>Fri, 07 Aug 2026 23:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ARC Prize 2026に関する公式コンテストの開始と最新情報を受け取る案内。スパムなしで、いつでも配信停止可能。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ARC Prize 2026に関する公式コンテストの開始と最新情報を受け取る案内。スパムなしで、いつでも配信停止可能。]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepSeek V4 フラッシュ 0731 DeepSeek V4 Flash 0731  🔺 389 💬 53 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjqewmhw527</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjqewmhw527</guid>
+      <pubDate>Fri, 07 Aug 2026 23:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DeepSeek V4 フラッシュ 0731<br>DeepSeek V4 Flash 0731<br><br>🔺 389<br>💬 53<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DeepSeek V4 フラッシュ 0731<br>DeepSeek V4 Flash 0731<br><br>🔺 389<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 KDDI、楽天へのローミングを9月末で終了  🔖 152 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msjphmymvx2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msjphmymvx2p</guid>
+      <pubDate>Fri, 07 Aug 2026 23:28:04 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 KDDI、楽天へのローミングを9月末で終了<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 KDDI、楽天へのローミングを9月末で終了<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>programmatic control, memory, and reusable skills with safeg…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjous3qsh2n</link>
@@ -399,69 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ニューメキシコ州の裁判所が子どもたちの精神健康への被害をめぐってメタに5億6700万ドルの支払いを命じた<br>New Mexico court orders Meta to pay $567m over harms to children’s mental health<br><br>🔺 350<br>💬 30<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ニューメキシコ州の裁判所が子どもたちの精神健康への被害をめぐってメタに5億6700万ドルの支払いを命じた<br>New Mexico court orders Meta to pay $567m over harms to children’s mental health<br><br>🔺 350<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 “現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース  🔖 156 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msih6sggte2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msih6sggte2s</guid>
-      <pubDate>Fri, 07 Aug 2026 11:27:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 “現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 “現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  larryvrh/MiniMax-H3-Turbo-Lora MiniMax-H…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif5pcdak2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif5pcdak2p</guid>
-      <pubDate>Fri, 07 Aug 2026 10:50:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3向けに、ビデオと同期ステレオオーディオの生成を4ステップで完結させ、サンプリング速度を約5倍に高速化するためのLoRAを提供することを目的に作成されました。<br>現在はプレビュー版であり、描写はシャープですが質感やノイズに課題がある段階です。<br>ComfyUIでの利用が推奨されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3向けに、ビデオと同期ステレオオーディオの生成を4ステップで完結させ、サンプリング速度を約5倍に高速化するためのLoRAを提供することを目的に作成されました。<br>現在はプレビュー版であり、描写はシャープですが質感やノイズに課題がある段階です。<br>ComfyUIでの利用が推奨されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/DeepSeek-V4-Flash-0731-GGUF Deep…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif55pgse2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif55pgse2q</guid>
-      <pubDate>Fri, 07 Aug 2026 10:50:35 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式リリース版であるDeepSeek-V4-Flash-0731の提供を目的としています。<br>プレビュー版からエージェント能力が大幅に向上しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数ながら、商用モデルに匹敵する高い性能を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式リリース版であるDeepSeek-V4-Flash-0731の提供を目的としています。<br>プレビュー版からエージェント能力が大幅に向上しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数ながら、商用モデルに匹敵する高い性能を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  moonshotai/Kimi-K3 Kimi K3は、2.8兆パラメータを持つ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif4jvy462i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif4jvy462i</guid>
-      <pubDate>Fri, 07 Aug 2026 10:50:14 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの領域で最先端の性能を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>テキストと画像に対応し、100万トークンの長いコンテキストウィンドウを備えています。<br>長期的なコーディング、知識作業、高度な推論などの領域で最先端の性能を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif44eg5d2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif44eg5d2x</guid>
-      <pubDate>Fri, 07 Aug 2026 10:50:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を公開するためのリポジトリです。<br>エージェント能力を大幅に強化し、投機的デコーディングモジュールを搭載しています。<br>少数の活性化パラメータ数で先行モデルや商用モデルに匹敵する性能を実現しており、特にエージェントタスクやコーディングにおいて高い能力を発揮します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を公開するためのリポジトリです。<br>エージェント能力を大幅に強化し、投機的デコーディングモジュールを搭載しています。<br>少数の活性化パラメータ数で先行モデルや商用モデルに匹敵する性能を実現しており、特にエージェントタスクやコーディングにおいて高い能力を発揮します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif3fqvtq2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msif3fqvtq2b</guid>
-      <pubDate>Fri, 07 Aug 2026 10:49:36 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、最長15秒で最大2K解像度のステレオ音声付きビデオを生成する汎用マルチモーダル生成システムです。<br>テキストや画像からのビデオ生成など、複雑なマルチモーダル指示への対応を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、最長15秒で最大2K解像度のステレオ音声付きビデオを生成する汎用マルチモーダル生成システムです。<br>テキストや画像からのビデオ生成など、複雑なマルチモーダル指示への対応を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIを活用したソフト開発は、完璧な結果をいつも得られる“料理”にはまだ遠く、AIはレシピ通り…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msibhqbfsj24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msibhqbfsj24</guid>
-      <pubDate>Fri, 07 Aug 2026 09:44:55 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIを活用したソフト開発は、完璧な結果をいつも得られる“料理”にはまだ遠く、AIはレシピ通りには作れても本当に望む品質を理解できない。結局は自分の判断力を磨き、要件や評価基準を自分で定義できるようになる必要がある。最終的には自分の小さなレストランを運営しつつ、AIを補助的に招く形が現実的だ、という主旨のエッセイです。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIを活用したソフト開発は、完璧な結果をいつも得られる“料理”にはまだ遠く、AIはレシピ通りには作れても本当に望む品質を理解できない。結局は自分の判断力を磨き、要件や評価基準を自分で定義できるようになる必要がある。最終的には自分の小さなレストランを運営しつつ、AIを補助的に招く形が現実的だ、という主旨のエッセイです。]]></content:encoded>
     </item>
   </channel>
 </rss>
