@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:36:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Dark Hoursという天文学アプリが astrolog y（占星術）と誤認され、Appl…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskymkqsfx2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskymkqsfx2i</guid>
+      <pubDate>Sat, 08 Aug 2026 11:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Dark Hoursという天文学アプリが astrolog y（占星術）と誤認され、AppleのApp Store審査で完全に不適切な理由で却下された。著者は審査 Board が誤解を認めるべきところを、占い機能があると誤解したまま却下し続けた点を批判し、暗闇 hours は天文学に特化した高品質なアプリであると強調している。結局、審査体制は機能不全であり、誤りが迅速に是正されるべきだと結論づけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Dark Hoursという天文学アプリが astrolog y（占星術）と誤認され、AppleのApp Store審査で完全に不適切な理由で却下された。著者は審査 Board が誤解を認めるべきところを、占い機能があると誤解したまま却下し続けた点を批判し、暗闇 hours は天文学に特化した高品質なアプリであると強調している。結局、審査体制は機能不全であり、誤りが迅速に是正されるべきだと結論づけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>今週のApp Store拒否事例：Dark Hours App Store Rejection of the Week:…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskymetnr22i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskymetnr22i</guid>
+      <pubDate>Sat, 08 Aug 2026 11:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[今週のApp Store拒否事例：Dark Hours<br>App Store Rejection of the Week: Dark Hours<br><br>🔺 323<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[今週のApp Store拒否事例：Dark Hours<br>App Store Rejection of the Week: Dark Hours<br><br>🔺 323<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  jdx/mise miseは、開発ツール、環境変数、タスクを一つのCLIで管理するツールで…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxqhu74q2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxqhu74q2p</guid>
+      <pubDate>Sat, 08 Aug 2026 11:28:50 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>jdx/mise<br>miseは、開発ツール、環境変数、タスクを一つのCLIで管理するツールです。<br>mise.tomlファイルに設定をまとめることで、シェル、リポジトリのチェックアウト、CIジョブなどの異なる環境で一貫した開発環境を簡単に構築・利用することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>jdx/mise<br>miseは、開発ツール、環境変数、タスクを一つのCLIで管理するツールです。<br>mise.tomlファイルに設定をまとめることで、シェル、リポジトリのチェックアウト、CIジョブなどの異なる環境で一貫した開発環境を簡単に構築・利用することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  goauthentik/authentik authentikは、モダンなSSOを実現する…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxq3ib6q2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxq3ib6q2c</guid>
+      <pubDate>Sat, 08 Aug 2026 11:28:37 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>goauthentik/authentik<br>authentikは、モダンなSSOを実現するためのオープンソースのアイデンティティプロバイダーです。<br>SAML、OAuth2/OIDC、LDAP、RADIUSなどのプロトコルをサポートし、小規模な環境から大規模な本番環境までセルフホスティングでの運用が可能です。<br>OktaやAuth0、Entra IDなどの既存のアイデンティティ管理ツールの代替として利用することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>goauthentik/authentik<br>authentikは、モダンなSSOを実現するためのオープンソースのアイデンティティプロバイダーです。<br>SAML、OAuth2/OIDC、LDAP、RADIUSなどのプロトコルをサポートし、小規模な環境から大規模な本番環境までセルフホスティングでの運用が可能です。<br>OktaやAuth0、Entra IDなどの既存のアイデンティティ管理ツールの代替として利用することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  mattpocock/skills AIエージェントが実用的かつ制御可能なエンジニアリング…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxpihriy2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxpihriy2c</guid>
+      <pubDate>Sat, 08 Aug 2026 11:28:17 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェントが実用的かつ制御可能なエンジニアリングを行うためのスキルセットを提供することを目的としています。<br>小規模で適応しやすく、組み合わせ可能なスキル群を定義しており、開発者がプロセスを制御しながらアプリケーション開発を行えるように設計されています。<br>Claude Codeなどのエージェントで利用でき、あらゆるモデルに対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェントが実用的かつ制御可能なエンジニアリングを行うためのスキルセットを提供することを目的としています。<br>小規模で適応しやすく、組み合わせ可能なスキル群を定義しており、開発者がプロセスを制御しながらアプリケーション開発を行えるように設計されています。<br>Claude Codeなどのエージェントで利用でき、あらゆるモデルに対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cloudflare/computer Cloudflare Computerは、Dura…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxoveprx2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxoveprx2j</guid>
+      <pubDate>Sat, 08 Aug 2026 11:27:57 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/computer<br>Cloudflare Computerは、Durable Object内で動作する仮想ファイルシステムです。<br>SQLiteを使用して状態を保持し、FUSEマウントやDynamic Workerなどのバックエンドを介して、シェルコマンドやECMAScriptモジュールの実行環境を提供します。<br>現在はプレビュー版として提供されており、実験やプロトタイプの開発を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/computer<br>Cloudflare Computerは、Durable Object内で動作する仮想ファイルシステムです。<br>SQLiteを使用して状態を保持し、FUSEマウントやDynamic Workerなどのバックエンドを介して、シェルコマンドやECMAScriptモジュールの実行環境を提供します。<br>現在はプレビュー版として提供されており、実験やプロトタイプの開発を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  addyosmani/agent-skills AIコーディングエージェントにシニアエンジ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxogpyri2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxogpyri2c</guid>
+      <pubDate>Sat, 08 Aug 2026 11:27:42 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用させるためのリポジトリです。<br>開発ライフサイクルに沿ったコマンドを提供することで、設計から実装、テスト、リリースまでの一連の工程をAIが品質を維持しながら一貫して実行できるようにします。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用させるためのリポジトリです。<br>開発ライフサイクルに沿ったコマンドを提供することで、設計から実装、テスト、リリースまでの一連の工程をAIが品質を維持しながら一貫して実行できるようにします。<br>]]></content:encoded>
+    </item>
     <item>
       <title>今日のHuggingFaceトレンド  deepgrove/maple-preview Maple-Previewは、オ…</title>
       <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskugsp7go2t</link>
@@ -436,69 +499,6 @@
       <content:encoded><![CDATA[Hey Discord, can you be un-down? Thanks
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigba4rnzpet7io5wlt24yczkhaff3h2vx7oteicni4mz5wy4d3jai" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigba4rnzpet7io5wlt24yczkhaff3h2vx7oteicni4mz5wy4d3jai" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>human-readable or JSON formats, with broad OS coverage and e…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjlie5twm2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjlie5twm2k</guid>
-      <pubDate>Fri, 07 Aug 2026 22:16:51 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[human-readable or JSON formats, with broad OS coverage and extensive installation options. (2/2)]]></description>
-      <content:encoded><![CDATA[human-readable or JSON formats, with broad OS coverage and extensive installation options. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   witr is a cross-platform tool (CLI and TUI) th…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjliavzmh2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjliavzmh2l</guid>
-      <pubDate>Fri, 07 Aug 2026 22:16:46 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>witr is a cross-platform tool (CLI and TUI) that answers “why is this running?” by tracing the causal chain from any process, port, container, or file back to its origin. It supports multiple targets, interactive spectrum (processes, ports, containers, locks), and outputs in (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>witr is a cross-platform tool (CLI and TUI) that answers “why is this running?” by tracing the causal chain from any process, port, container, or file back to its origin. It supports multiple targets, interactive spectrum (processes, ports, containers, locks), and outputs in (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 pranshuparmar / wit…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjlh5tth42n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msjlh5tth42n</guid>
-      <pubDate>Fri, 07 Aug 2026 22:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pranshuparmar / witr<br>⭐ 19,361 (+427)<br>🗒 Go<br><br>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 pranshuparmar / witr<br>⭐ 19,361 (+427)<br>🗒 Go<br><br>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.]]></content:encoded>
-    </item>
-    <item>
-      <title>Still using it a lot. Still an incredible model. Not the mos…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjksplx7c2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msjksplx7c2x</guid>
-      <pubDate>Fri, 07 Aug 2026 21:51:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Still using it a lot. Still an incredible model. Not the most "wise" but damn is it good at solving puzzles.<br><br>Had sol and fable debug a network issue in parallel. Fable took 85 minutes. Sol took 4.]]></description>
-      <content:encoded><![CDATA[Still using it a lot. Still an incredible model. Not the most "wise" but damn is it good at solving puzzles.<br><br>Had sol and fable debug a network issue in parallel. Fable took 85 minutes. Sol took 4.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ウェブサイトがボット対策のセキュリティサービスを使用しており、利用者がボットでないことを確認…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjjohsfgo2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjjohsfgo2w</guid>
-      <pubDate>Fri, 07 Aug 2026 21:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ウェブサイトがボット対策のセキュリティサービスを使用しており、利用者がボットでないことを確認するための検証ページが表示されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ウェブサイトがボット対策のセキュリティサービスを使用しており、利用者がボットでないことを確認するための検証ページが表示されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>私の150万ページ規模のウェブサイトを狙うスクレイパーとの1年間の戦い A year of fighting scrap…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjjocddsq27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msjjocddsq27</guid>
-      <pubDate>Fri, 07 Aug 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私の150万ページ規模のウェブサイトを狙うスクレイパーとの1年間の戦い<br>A year of fighting scrapers on my 1.5 million-page website<br><br>🔺 338<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私の150万ページ規模のウェブサイトを狙うスクレイパーとの1年間の戦い<br>A year of fighting scrapers on my 1.5 million-page website<br><br>🔺 338<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 semantica-agi / semanti…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msji4k77zh2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msji4k77zh2i</guid>
-      <pubDate>Fri, 07 Aug 2026 21:16:33 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 semantica-agi / semantica<br>⭐ 2,172 (+118)<br>🗒 Python<br><br>Graph-Native Infrastructure for Context and Accountable AI Systems]]></content:encoded>
     </item>
   </channel>
 </rss>
