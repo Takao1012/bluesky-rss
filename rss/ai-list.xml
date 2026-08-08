@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:24:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I have over 40 Claude agents/subagents running right now and…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskougqnkr2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskougqnkr2m</guid>
+      <pubDate>Sat, 08 Aug 2026 08:45:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I have over 40 Claude agents/subagents running right now and my Framework desktop is barely breaking a sweat.<br><br>Machine is a beast but the real star is Linux. I am so tired of MacOS for dev 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I have over 40 Claude agents/subagents running right now and my Framework desktop is barely breaking a sweat.<br><br>Machine is a beast but the real star is Linux. I am so tired of MacOS for dev 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   RAM価格高騰は続き、2027年のDRAM/HBMはすべて出荷済みとされ、AI向け長期契約で…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskl7ff5n52u</link>
@@ -487,15 +499,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>AIのコーディングエージェントに対する人間の承認判断を競技化した短いブラウザゲームを分析した結果、人間がThreatを見逃す率が高く、承認過多や安全なコマンドのブロック過多が生産性を下げるなど、人間の介入がセキュリティ境界として必ずしも信頼できないことが示唆された。特に「npm run analyze」といった innocuous に見えるコマンドが誤認されやすく、過度なブロックは作業を遅延させる一方で、文脈不足のまま判断を求められる点が課題として指摘されている。今後はサンドボックス化や厳密な文脈分離などのツール強化が必要だという結論に至った。]]></content:encoded>
-    </item>
-    <item>
-      <title>人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。 Huma…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bdibnw27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msj4bdibnw27</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[人間は、40,000回のゲーム実行において、AIエージェントの命令を承認する際に、脅威の約3分の1を見逃した。<br>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs<br><br>🔺 327<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
