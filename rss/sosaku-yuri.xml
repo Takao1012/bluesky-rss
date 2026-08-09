@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4</link>
     <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:38:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💕 #創作百合 #もちゅい #oc</title>
+      <link>https://bsky.app/profile/did:plc:p3bo7ee7oklmeopi66cjvras/post/3msnm3vyask2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:p3bo7ee7oklmeopi66cjvras/post/3msnm3vyask2p</guid>
+      <pubDate>Sun, 09 Aug 2026 12:38:28 GMT</pubDate>
+      <author>つゆ飴ふたつ🍬ｺﾐﾃｨｱD18a (@tsuyuame2tsu.bsky.social)</author>
+      <description><![CDATA[💕<br>#創作百合 #もちゅい #oc
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p3bo7ee7oklmeopi66cjvras/bafkreidkyq5zjp5ltvdw5uhjfalyq44arypkez2b4dcavr7wtcaukz4y5u" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[💕<br>#創作百合 #もちゅい #oc
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p3bo7ee7oklmeopi66cjvras/bafkreidkyq5zjp5ltvdw5uhjfalyq44arypkez2b4dcavr7wtcaukz4y5u" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p3bo7ee7oklmeopi66cjvras/bafkreidkyq5zjp5ltvdw5uhjfalyq44arypkez2b4dcavr7wtcaukz4y5u" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>へそ #創作百合 #スゥとアメ</title>
       <link>https://bsky.app/profile/did:plc:txzqzvquq4beb3cmifh5z2in/post/3msnjyneems2c</link>
@@ -590,18 +602,6 @@
       <content:encoded><![CDATA[歳月は人を変える<br>#創作百合
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:djbs5s3v36svohfenz6p7pk2/bafkreiexh2vo4o6xb46jgm23v7lft2fqly2p5nzbejkmwo7pz575ee6tly" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:djbs5s3v36svohfenz6p7pk2/bafkreiexh2vo4o6xb46jgm23v7lft2fqly2p5nzbejkmwo7pz575ee6tly" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>#創作百合 迷いがない</title>
-      <link>https://bsky.app/profile/did:plc:fxga4ta36admfg64yq6ylb6o/post/3mrzh7e3kfc2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fxga4ta36admfg64yq6ylb6o/post/3mrzh7e3kfc2f</guid>
-      <pubDate>Sat, 01 Aug 2026 12:17:40 GMT</pubDate>
-      <author>小袖(kosode) (@kosode353.bsky.social)</author>
-      <description><![CDATA[#創作百合 迷いがない
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fxga4ta36admfg64yq6ylb6o/bafkreihtlv7bdhvfeymjashpdv3fviumsztpdgou6ea6imz2wpge7rydvq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[#創作百合 迷いがない
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fxga4ta36admfg64yq6ylb6o/bafkreihtlv7bdhvfeymjashpdv3fviumsztpdgou6ea6imz2wpge7rydvq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fxga4ta36admfg64yq6ylb6o/bafkreihtlv7bdhvfeymjashpdv3fviumsztpdgou6ea6imz2wpge7rydvq" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
