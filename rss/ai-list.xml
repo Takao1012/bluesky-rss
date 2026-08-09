@@ -5,8 +5,83 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:06:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   RFC 10023で定義された「_for-sale」DNSリーフレコードを用い、ドメインが購…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmobeqtrx2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmobeqtrx2t</guid>
+      <pubDate>Sun, 09 Aug 2026 03:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>RFC 10023で定義された「_for-sale」DNSリーフレコードを用い、ドメインが購入可能であることをDNS上で示す仕組みの概要と実装手順を解説した記事です。TXTレコードに v=FORSALE1; と1つのタグ値ペアを含め、価格や連絡先URIなどを分割して公開する方法、注意点、よくある誤解、検証手順を説明しています。実装時の注意点としては、TTLは3600以下、葉ノードにのみ置く、DNSSECの署名推奨、1レコード1タグ値ペアなどが挙げられます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>RFC 10023で定義された「_for-sale」DNSリーフレコードを用い、ドメインが購入可能であることをDNS上で示す仕組みの概要と実装手順を解説した記事です。TXTレコードに v=FORSALE1; と1つのタグ値ペアを含め、価格や連絡先URIなどを分割して公開する方法、注意点、よくある誤解、検証手順を説明しています。実装時の注意点としては、TTLは3600以下、葉ノードにのみ置く、DNSSECの署名推奨、1レコード1タグ値ペアなどが挙げられます。]]></content:encoded>
+    </item>
+    <item>
+      <title>販売中の DNS レコード _for-sale DNS records  🔺 364 💬 32 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmob5dwuf2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmob5dwuf2x</guid>
+      <pubDate>Sun, 09 Aug 2026 03:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[販売中の DNS レコード<br>_for-sale DNS records<br><br>🔺 364<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[販売中の DNS レコード<br>_for-sale DNS records<br><br>🔺 364<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I no longer feel overwhelmed with all the work I&apos;m doing. I …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msml7q3s652i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msml7q3s652i</guid>
+      <pubDate>Sun, 09 Aug 2026 02:20:35 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I no longer feel overwhelmed with all the work I'm doing. I have regained parts of my brain that I thought the agents were going to take away forever.<br><br>Most importantly: I'm having so much fucking fun. (2/2)]]></description>
+      <content:encoded><![CDATA[I no longer feel overwhelmed with all the work I'm doing. I have regained parts of my brain that I thought the agents were going to take away forever.<br><br>Most importantly: I'm having so much fucking fun. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Like holy shit the number of threads I can run without getti…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msml7mnug42o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msml7mnug42o</guid>
+      <pubDate>Sun, 09 Aug 2026 02:20:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Like holy shit the number of threads I can run without getting "lost" is crazy.<br><br>So easy to spin something up, keep track of it, merge it and "poof", gone forever like it should be. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidarhgvuqj27fmpvlcpjp5hibkwehro5ezjamuhmzl2f2vvqqvrze" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Like holy shit the number of threads I can run without getting "lost" is crazy.<br><br>So easy to spin something up, keep track of it, merge it and "poof", gone forever like it should be. (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidarhgvuqj27fmpvlcpjp5hibkwehro5ezjamuhmzl2f2vvqqvrze" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidarhgvuqj27fmpvlcpjp5hibkwehro5ezjamuhmzl2f2vvqqvrze" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>T3 Code has affected my productivity more than any model or …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msmjjwo52h2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msmjjwo52h2r</guid>
+      <pubDate>Sun, 09 Aug 2026 02:17:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[T3 Code has affected my productivity more than any model or tool in my life.<br><br>I'm generating like 20% more code, but I'm merging 10x more.]]></description>
+      <content:encoded><![CDATA[T3 Code has affected my productivity more than any model or tool in my life.<br><br>I'm generating like 20% more code, but I'm merging 10x more.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   GoogleのWeatherNextチームは、台風・ハリケーン予測の精度を劇的に向上させ、予…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmhkl7umx2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmhkl7umx2u</guid>
+      <pubDate>Sun, 09 Aug 2026 01:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GoogleのWeatherNextチームは、台風・ハリケーン予測の精度を劇的に向上させ、予報リードタイムを約1日分拡大する最先端AIモデルをNature論文で報告しました。WeatherNext Cyclonesは3日予報で従来の2日分相当の情報を提供でき、全体で1万分の1秒単位の予測を可能とするエンセmblesを用いており、公開コード・重み付きモデルとしてオープンソース化されました。実際の運用でもハリケーン Melissa の早期警戒に寄与するなど、研究と現場の連携が進んでいます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GoogleのWeatherNextチームは、台風・ハリケーン予測の精度を劇的に向上させ、予報リードタイムを約1日分拡大する最先端AIモデルをNature論文で報告しました。WeatherNext Cyclonesは3日予報で従来の2日分相当の情報を提供でき、全体で1万分の1秒単位の予測を可能とするエンセmblesを用いており、公開コード・重み付きモデルとしてオープンソース化されました。実際の運用でもハリケーン Melissa の早期警戒に寄与するなど、研究と現場の連携が進んでいます。]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepMindのWeatherNextモデルがサイクロン予測で画期的な進歩を遂げる DeepMind&apos;s Weathe…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmhkeao3q2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmhkeao3q2u</guid>
+      <pubDate>Sun, 09 Aug 2026 01:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DeepMindのWeatherNextモデルがサイクロン予測で画期的な進歩を遂げる<br>DeepMind's WeatherNext model achieves breakthrough forecasting cyclones<br><br>🔺 386<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DeepMindのWeatherNextモデルがサイクロン予測で画期的な進歩を遂げる<br>DeepMind's WeatherNext model achieves breakthrough forecasting cyclones<br><br>🔺 386<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)  🔖 203 ブックマーク 💬 コメント �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msmgneypci2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msmgneypci2r</guid>
+      <pubDate>Sun, 09 Aug 2026 01:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)<br><br>🔖 203 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)<br><br>🔖 203 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   デンマーク政府は、AIを使ったカンニング対策として、家庭での主要な書面課題について口頭での防…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmauehzt32g</link>
@@ -396,92 +471,6 @@
       <content:encoded><![CDATA[It's been almost 1 year since we got a new Haiku model
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepwsx6uox5avis4otnjcfsu5wnh2ij74jqwbx6jznpgdavezey2i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepwsx6uox5avis4otnjcfsu5wnh2ij74jqwbx6jznpgdavezey2i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Should I ship this?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskjtm5n722r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskjtm5n722r</guid>
-      <pubDate>Sat, 08 Aug 2026 06:58:56 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Should I ship this?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemnl5tpmyyrm3mc6tsjl6q2z7ksuyzba6nttdzxywsc7zwv2ghsu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidmd4c6wbkjatobqxoquxbplir6kooyr5dqhrk6hjfnbhvz6bzd2a" alt="Quote Tweet: https://twitter.com/i/status/2085909149997531401" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Should I ship this?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemnl5tpmyyrm3mc6tsjl6q2z7ksuyzba6nttdzxywsc7zwv2ghsu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidmd4c6wbkjatobqxoquxbplir6kooyr5dqhrk6hjfnbhvz6bzd2a" alt="Quote Tweet: https://twitter.com/i/status/2085909149997531401" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemnl5tpmyyrm3mc6tsjl6q2z7ksuyzba6nttdzxywsc7zwv2ghsu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>oops</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskghzlrm62x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskghzlrm62x</guid>
-      <pubDate>Sat, 08 Aug 2026 05:59:56 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[oops
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigjm5lhhop5uzxgg5ezqspl5yw4nmhdk7hv7a7wsqxkg4pw72hx44" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[oops
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigjm5lhhop5uzxgg5ezqspl5yw4nmhdk7hv7a7wsqxkg4pw72hx44" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigjm5lhhop5uzxgg5ezqspl5yw4nmhdk7hv7a7wsqxkg4pw72hx44" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I&apos;m so desperate for tokens right now that I&apos;m using Opus ag…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskghsemwq2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskghsemwq2i</guid>
-      <pubDate>Sat, 08 Aug 2026 05:59:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I'm so desperate for tokens right now that I'm using Opus again]]></description>
-      <content:encoded><![CDATA[I'm so desperate for tokens right now that I'm using Opus again]]></content:encoded>
-    </item>
-    <item>
-      <title>I feel a tad cheated I won’t lie</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskescixqm2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskescixqm2t</guid>
-      <pubDate>Sat, 08 Aug 2026 05:48:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I feel a tad cheated I won’t lie
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig7alhygqcruy3wwlowtbd2mzsnublnhmz4rp67az243ai22ok4qe" alt="Quote Tweet: https://twitter.com/i/status/2085845171363791135" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I feel a tad cheated I won’t lie
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig7alhygqcruy3wwlowtbd2mzsnublnhmz4rp67az243ai22ok4qe" alt="Quote Tweet: https://twitter.com/i/status/2085845171363791135" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig7alhygqcruy3wwlowtbd2mzsnublnhmz4rp67az243ai22ok4qe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIは、全人類に利益をもたらす人工一般知能を目指し、ChatGPTの更新で日常対話を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskeiqnxb22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskeiqnxb22z</guid>
-      <pubDate>Sat, 08 Aug 2026 05:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIは、全人類に利益をもたらす人工一般知能を目指し、ChatGPTの更新で日常対話を改善しつつ無料ユーザーの利用を拡大します。 Plus/ProはGPT-5.6 Solを用いたより信頼性の高い回答と思考深度の調整機能（新しいThinkボタンとウェブ/デスクトップでの思考量調整スライダー）を提供、無料ユーザーはGPT-5.6 Lunaをデフォルトモデルとして無制限テキストチャットとThinkボタンを利用可能にします。 また、全体の回答の一貫性を高め、情報の正確性を向上させるとともに、18歳未満ユーザー向けの安全対策を強化しています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIは、全人類に利益をもたらす人工一般知能を目指し、ChatGPTの更新で日常対話を改善しつつ無料ユーザーの利用を拡大します。 Plus/ProはGPT-5.6 Solを用いたより信頼性の高い回答と思考深度の調整機能（新しいThinkボタンとウェブ/デスクトップでの思考量調整スライダー）を提供、無料ユーザーはGPT-5.6 Lunaをデフォルトモデルとして無制限テキストチャットとThinkボタンを利用可能にします。 また、全体の回答の一貫性を高め、情報の正確性を向上させるとともに、18歳未満ユーザー向けの安全対策を強化しています。]]></content:encoded>
-    </item>
-    <item>
-      <title>ChatGPTにおける GPT‑5.6 Sol の改善、無料ユーザー向けの GPT‑5.6 Luna へのアクセス拡大 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskeijhuw32i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskeijhuw32i</guid>
-      <pubDate>Sat, 08 Aug 2026 05:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ChatGPTにおける GPT‑5.6 Sol の改善、無料ユーザー向けの GPT‑5.6 Luna へのアクセス拡大<br>Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users<br><br>🔺 311<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ChatGPTにおける GPT‑5.6 Sol の改善、無料ユーザー向けの GPT‑5.6 Luna へのアクセス拡大<br>Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users<br><br>🔺 311<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Web API設計の現在地2026 - Qiita  🔖 174 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mskdjurfpc2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mskdjurfpc2r</guid>
-      <pubDate>Sat, 08 Aug 2026 05:27:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Web API設計の現在地2026 - Qiita<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Web API設計の現在地2026 - Qiita<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Scared to use my last manual reset because he might drop one…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbic2ilx2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskbic2ilx2i</guid>
-      <pubDate>Sat, 08 Aug 2026 04:45:58 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Scared to use my last manual reset because he might drop one right after
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigevfnzoed57w6eo35buux3c6ripcmbp2k5qpwazcoicwsxwsqake" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Scared to use my last manual reset because he might drop one right after
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigevfnzoed57w6eo35buux3c6ripcmbp2k5qpwazcoicwsxwsqake" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigevfnzoed57w6eo35buux3c6ripcmbp2k5qpwazcoicwsxwsqake" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
