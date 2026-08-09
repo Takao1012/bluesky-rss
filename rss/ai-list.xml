@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:21:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:18:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AI研修(Day1)【MIXI 26新卒技術研修】  🔖 184 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msnsak7c452t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msnsak7c452t</guid>
+      <pubDate>Sun, 09 Aug 2026 14:28:26 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI研修(Day1)【MIXI 26新卒技術研修】<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI研修(Day1)【MIXI 26新卒技術研修】<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>Quick Start, extensive reference materials, and cross-tool i…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msnrktrryw2s</link>
@@ -464,15 +473,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgre…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltguh3wr2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msltguh3wr2u</guid>
-      <pubDate>Sat, 08 Aug 2026 19:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgresの30%、Clickbenchでは300倍速くなるなど大幅な高速化を実現した。ボトルネックの多くを占めるVolcano型実行エンジンを改善するため、バッチ処理、演算子融合、SIMDなどの段階的最適化を適用し、最終的にPostgresより大幅に高速な分析クエリ処理を実現している。今後はJITやその他最適化の活用も検討している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Pgrustの0.2版は性能向上に焦点を当て、従来比で約10倍速く、OLTPでPostgresの30%、Clickbenchでは300倍速くなるなど大幅な高速化を実現した。ボトルネックの多くを占めるVolcano型実行エンジンを改善するため、バッチ処理、演算子融合、SIMDなどの段階的最適化を適用し、最終的にPostgresより大幅に高速な分析クエリ処理を実現している。今後はJITやその他最適化の活用も検討している。]]></content:encoded>
     </item>
   </channel>
 </rss>
