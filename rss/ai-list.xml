@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:26:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I think @PirateSoftware might actually be insane. Who opens …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msn4sm6koi2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msn4sm6koi2x</guid>
+      <pubDate>Sun, 09 Aug 2026 07:57:22 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I think @PirateSoftware might actually be insane. Who opens Oreos like this???
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicuztslaninsby47ojgenqqjt2am5nysgaepypr5pdngurtsirlsi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I think @PirateSoftware might actually be insane. Who opens Oreos like this???
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicuztslaninsby47ojgenqqjt2am5nysgaepypr5pdngurtsirlsi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicuztslaninsby47ojgenqqjt2am5nysgaepypr5pdngurtsirlsi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Fastmailがデータの保存場所をEUとUSのどちらか選べる新オプションを提供開始。EU選…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msn3oe35ln2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msn3oe35ln2c</guid>
+      <pubDate>Sun, 09 Aug 2026 07:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Fastmailがデータの保存場所をEUとUSのどちらか選べる新オプションを提供開始。EU選択時は主データがアムステルダムの自社サーバに置かれ、USとは地理的に分散されたバックアップも保持。EU/USいずれの地域を選んでもデータは暗号化され、アプリは各自の地域サーバに接続。地域変更は設定から移行可能で、利用者は自分のデータ居場所を選択できる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Fastmailがデータの保存場所をEUとUSのどちらか選べる新オプションを提供開始。EU選択時は主データがアムステルダムの自社サーバに置かれ、USとは地理的に分散されたバックアップも保持。EU/USいずれの地域を選んでもデータは暗号化され、アプリは各自の地域サーバに接続。地域変更は設定から移行可能で、利用者は自分のデータ居場所を選択できる。]]></content:encoded>
+    </item>
+    <item>
+      <title>FastmailはEU域内のデータ地域を提供しています。 Fastmail offers EU data region …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msn3o4oisp2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msn3o4oisp2i</guid>
+      <pubDate>Sun, 09 Aug 2026 07:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[FastmailはEU域内のデータ地域を提供しています。<br>Fastmail offers EU data region<br><br>🔺 388<br>💬 37<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[FastmailはEU域内のデータ地域を提供しています。<br>Fastmail offers EU data region<br><br>🔺 388<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Hugging Face側の credentialsが既に無効化されていたことを知り、両社の同一事件であると確定した。 …</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msmuxqnuut2x</link>
@@ -69,6 +99,18 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[販売中の DNS レコード<br>_for-sale DNS records<br><br>🔺 364<br>💬 32<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[販売中の DNS レコード<br>_for-sale DNS records<br><br>🔺 364<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>jfc. Just built and merged a dozen prs in 4 hours of locking…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msn4setbyx2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msn4setbyx2d</guid>
+      <pubDate>Sun, 09 Aug 2026 03:03:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[jfc. Just built and merged a dozen prs in 4 hours of locking in
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib7m3xgxfbceiyrcu2zokqi4ogdnf7v6niyebzsmlc3wvfkmxe4oe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[jfc. Just built and merged a dozen prs in 4 hours of locking in
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib7m3xgxfbceiyrcu2zokqi4ogdnf7v6niyebzsmlc3wvfkmxe4oe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib7m3xgxfbceiyrcu2zokqi4ogdnf7v6niyebzsmlc3wvfkmxe4oe" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>I no longer feel overwhelmed with all the work I&apos;m doing. I …</title>
@@ -426,45 +468,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Comfy-Org/MiniMax-H3 ComfyUIで利用するために再パッケ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuecpxvp2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuecpxvp2t</guid>
-      <pubDate>Sat, 08 Aug 2026 10:28:21 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するために再パッケージ化されたMiniMax H3のモデルファイルを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するために再パッケージ化されたMiniMax H3のモデルファイルを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrw6ycx52d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrw6ycx52d</guid>
-      <pubDate>Sat, 08 Aug 2026 09:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、fxrstor64をはじめとする重いMMIO読みを高 latencyのPCIe領域で実行させ、他コアが高遅延読と混雑を作り出して実行を遅延させる手法を披露している。現在の最下位は AMD Ryzen 7 5800H の fxrstor64（約1980億サイクル/62秒）で、xrstor64やvmovdqu/ fxrstor64の極端な遅延を競うランキングが掲載されている。著者は Christopher Domas 氏。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>アセンブリの「Hall of Shame」は、単一命令の絶対的な最小時間性能を競うリストで、fxrstor64をはじめとする重いMMIO読みを高 latencyのPCIe領域で実行させ、他コアが高遅延読と混雑を作り出して実行を遅延させる手法を披露している。現在の最下位は AMD Ryzen 7 5800H の fxrstor64（約1980億サイクル/62秒）で、xrstor64やvmovdqu/ fxrstor64の極端な遅延を競うランキングが掲載されている。著者は Christopher Domas 氏。]]></content:encoded>
-    </item>
-    <item>
-      <title>恥の議事堂 Assembly Hall of Shame  🔺 344 💬 26 🔗 HN Post | Arti…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrvw5q3427</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mskrvw5q3427</guid>
-      <pubDate>Sat, 08 Aug 2026 09:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[恥の議事堂<br>Assembly Hall of Shame<br><br>🔺 344<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[恥の議事堂<br>Assembly Hall of Shame<br><br>🔺 344<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I have over 40 Claude agents/subagents running right now and…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskougqnkr2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mskougqnkr2m</guid>
-      <pubDate>Sat, 08 Aug 2026 08:45:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I have over 40 Claude agents/subagents running right now and my Framework desktop is barely breaking a sweat.<br><br>Machine is a beast but the real star is Linux. I am so tired of MacOS for dev 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I have over 40 Claude agents/subagents running right now and my Framework desktop is barely breaking a sweat.<br><br>Machine is a beast but the real star is Linux. I am so tired of MacOS for dev 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihcuk3qwjsrptveni2ci5xkwn4pvxrqx2odbtlsf3di4adhijyf2y" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
