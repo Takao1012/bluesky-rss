@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:18:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 vitali87 / code-graph-rag ⭐ 2,676 (+59) 🗒 Python  The ul…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msnybi2v572n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msnybi2v572n</guid>
+      <pubDate>Sun, 09 Aug 2026 16:16:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 vitali87 / code-graph-rag<br>⭐ 2,676 (+59)<br>🗒 Python<br><br>The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs]]></description>
+      <content:encoded><![CDATA[📦 vitali87 / code-graph-rag<br>⭐ 2,676 (+59)<br>🗒 Python<br><br>The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   QRコードはデータを格子状のモジュールにエンコードするもので、読み取り用の機能パターンとデー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msnwio5u4r2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msnwio5u4r2t</guid>
+      <pubDate>Sun, 09 Aug 2026 15:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>QRコードはデータを格子状のモジュールにエンコードするもので、読み取り用の機能パターンとデータモジュールに分かれ、データモジュールを多少変更しても読み取り可能性を保つ工夫がされている。記事では、データモジュールを画像として表現する際の多様なダイザリング手法（ベイヤー・フィールド、誤差拡散、二段階の誤差拡散によるデータマスクなど）と、デザイン性を重視する際のトレードオフ、実使用時の注意点（余白・解像度・ロゴの影響）について解説している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>QRコードはデータを格子状のモジュールにエンコードするもので、読み取り用の機能パターンとデータモジュールに分かれ、データモジュールを多少変更しても読み取り可能性を保つ工夫がされている。記事では、データモジュールを画像として表現する際の多様なダイザリング手法（ベイヤー・フィールド、誤差拡散、二段階の誤差拡散によるデータマスクなど）と、デザイン性を重視する際のトレードオフ、実使用時の注意点（余白・解像度・ロゴの影響）について解説している。]]></content:encoded>
+    </item>
+    <item>
+      <title>ディザリングされたQRコード Dithered QR Codes  🔺 307 💬 21 🔗 HN Post | …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msnwihidzj2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msnwihidzj2i</guid>
+      <pubDate>Sun, 09 Aug 2026 15:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ディザリングされたQRコード<br>Dithered QR Codes<br><br>🔺 307<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ディザリングされたQRコード<br>Dithered QR Codes<br><br>🔺 307<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 AI研修(Day1)【MIXI 26新卒技術研修】  🔖 184 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msnsak7c452t</link>
@@ -446,33 +473,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Been in my hotel room working on T3 Code and solving puzzles for all of DEFCON. Still haven't even picked up a badge lol.<br><br>Should I go do that? Who should I meet on the floor?]]></description>
       <content:encoded><![CDATA[Been in my hotel room working on T3 Code and solving puzzles for all of DEFCON. Still haven't even picked up a badge lol.<br><br>Should I go do that? Who should I meet on the floor?]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価で…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25opnxn2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25opnxn2u</guid>
-      <pubDate>Sat, 08 Aug 2026 21:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価であり、顧客理解と設計の重要性は変わらない。変化を前提に、技術知識を深めつつユーザー理解やビジネス視点も磨き、AIを利用しても判断と判断力は自分で担うべきだ、という論点を述べている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AI時代の software 開発は大きく変わるが、「コードは簡単だ」という主張は過小評価であり、顧客理解と設計の重要性は変わらない。変化を前提に、技術知識を深めつつユーザー理解やビジネス視点も磨き、AIを利用しても判断と判断力は自分で担うべきだ、という論点を述べている。]]></content:encoded>
-    </item>
-    <item>
-      <title>「Code was never the hard part」はすべてのプログラマーへの侮辱だ。 &quot;Code was ne…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25jthwi2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msm25jthwi2t</guid>
-      <pubDate>Sat, 08 Aug 2026 21:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[「Code was never the hard part」はすべてのプログラマーへの侮辱だ。<br>"Code was never the hard part" is an insult to all programmers<br><br>🔺 397<br>💬 87<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[「Code was never the hard part」はすべてのプログラマーへの侮辱だ。<br>"Code was never the hard part" is an insult to all programmers<br><br>🔺 397<br>💬 87<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mslz6kykva2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mslz6kykva2d</guid>
-      <pubDate>Sat, 08 Aug 2026 21:27:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
