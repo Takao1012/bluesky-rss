@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:17:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/DeepSeek-V4-Flash-0731-GGUF Deep…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msnf27w5oy27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msnf27w5oy27</guid>
+      <pubDate>Sun, 09 Aug 2026 10:32:15 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としたリポジトリです。<br>プレビュー版からエージェント能力が大幅に強化されており、投機的デコードモジュールを搭載しています。<br>少ないパラメータ数ながらDeepSeek-V4-Pro (Preview) を上回る性能を持ち、商用モデルに匹敵する能力を備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としたリポジトリです。<br>プレビュー版からエージェント能力が大幅に強化されており、投機的デコードモジュールを搭載しています。<br>少ないパラメータ数ながらDeepSeek-V4-Pro (Preview) を上回る性能を持ち、商用モデルに匹敵する能力を備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  larryvrh/MiniMax-H3-Turbo-Lora MiniMax-H…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneziqcfh2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneziqcfh2g</guid>
+      <pubDate>Sun, 09 Aug 2026 10:31:51 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、ビデオと同期したステレオオーディオを少ないサンプリングステップ数で生成するためのLoRAです。<br>通常約20ステップかかる工程を最短4ステップに短縮し、約5倍の高速化を実現します。<br>用途に応じて、高精細なv4と激しい動きに適したv1のチェックポイントを選択して利用します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、ビデオと同期したステレオオーディオを少ないサンプリングステップ数で生成するためのLoRAです。<br>通常約20ステップかかる工程を最短4ステップに短縮し、約5倍の高速化を実現します。<br>用途に応じて、高精細なv4と激しい動きに適したv1のチェックポイントを選択して利用します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  moonshotai/Kimi-K3 Kimi K3は、2.8兆パラメータを持つ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyz6pkd2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyz6pkd2q</guid>
+      <pubDate>Sun, 09 Aug 2026 10:31:35 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダル・エージェンティックモデルです。<br>100万トークンの長いコンテキストウィンドウと視覚能力を備え、長期的なコーディング、知識作業、および高度な推論などの知的タスクを実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダル・エージェンティックモデルです。<br>100万トークンの長いコンテキストウィンドウと視覚能力を備え、長期的なコーディング、知識作業、および高度な推論などの知的タスクを実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyl3ut226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyl3ut226</guid>
+      <pubDate>Sun, 09 Aug 2026 10:31:20 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを提供するためのリポジトリです。<br>プレビュー版からエージェント機能を大幅に強化しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数でありながら、DeepSeek-V4-Pro (Preview)を上回る性能を持ち、商用モデルに匹敵する能力を備えたモデルの公開を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを提供するためのリポジトリです。<br>プレビュー版からエージェント機能を大幅に強化しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数でありながら、DeepSeek-V4-Pro (Preview)を上回る性能を持ち、商用モデルに匹敵する能力を備えたモデルの公開を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msnexxkvrd2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msnexxkvrd2q</guid>
+      <pubDate>Sun, 09 Aug 2026 10:30:59 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、ビデオを生成する汎用的なオムニモーダル生成システムです。<br>最大2Kの解像度と15秒までの動画およびステレオオーディオの生成が可能です。<br>テキストからビデオへの変換や、画像を用いたビデオ生成など、複雑なマルチモーダル指示への対応を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、ビデオを生成する汎用的なオムニモーダル生成システムです。<br>最大2Kの解像度と15秒までの動画およびステレオオーディオの生成が可能です。<br>テキストからビデオへの変換や、画像を用いたビデオ生成など、複雑なマルチモーダル指示への対応を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   project:rosenbridgeは、一部のデスクトップ/ノートPC及び組み込み系x86…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msncfg263a2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msncfg263a2d</guid>
+      <pubDate>Sun, 09 Aug 2026 09:44:50 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>project:rosenbridgeは、一部のデスクトップ/ノートPC及び組み込み系x86CPUに存在するハードウェア对バックドアを暴露する研究。特定のモデル固有レジスタの制御ビットを利用して有効化され、隠れたコアがx86の命令を受けてカーネル空間へ無許可にアクセス可能となる。このリポジトリは影響判定ツール、バックドアの除去手順、研究で用いたツール類を提供する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>project:rosenbridgeは、一部のデスクトップ/ノートPC及び組み込み系x86CPUに存在するハードウェア对バックドアを暴露する研究。特定のモデル固有レジスタの制御ビットを利用して有効化され、隠れたコアがx86の命令を受けてカーネル空間へ無許可にアクセス可能となる。このリポジトリは影響判定ツール、バックドアの除去手順、研究で用いたツール類を提供する。]]></content:encoded>
+    </item>
+    <item>
+      <title>一部のx86 CPUにおけるハードウェアのバックドア Hardware backdoors in some x86 CP…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msncf7juxo2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msncf7juxo2t</guid>
+      <pubDate>Sun, 09 Aug 2026 09:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[一部のx86 CPUにおけるハードウェアのバックドア<br>Hardware backdoors in some x86 CPUs<br><br>🔺 359<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[一部のx86 CPUにおけるハードウェアのバックドア<br>Hardware backdoors in some x86 CPUs<br><br>🔺 359<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>I think @PirateSoftware might actually be insane. Who opens …</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msn4sm6koi2x</link>
@@ -405,69 +468,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>goauthentik/authentik<br>authentikは、モダンなSSOを実現するためのオープンソースのアイデンティティプロバイダーです。<br>SAML、OAuth2/OIDC、LDAP、RADIUSなどのプロトコルをサポートし、小規模な環境から大規模な本番環境までセルフホスティングでの運用が可能です。<br>OktaやAuth0、Entra IDなどの既存のアイデンティティ管理ツールの代替として利用することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>goauthentik/authentik<br>authentikは、モダンなSSOを実現するためのオープンソースのアイデンティティプロバイダーです。<br>SAML、OAuth2/OIDC、LDAP、RADIUSなどのプロトコルをサポートし、小規模な環境から大規模な本番環境までセルフホスティングでの運用が可能です。<br>OktaやAuth0、Entra IDなどの既存のアイデンティティ管理ツールの代替として利用することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mattpocock/skills AIエージェントが実用的かつ制御可能なエンジニアリング…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxpihriy2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxpihriy2c</guid>
-      <pubDate>Sat, 08 Aug 2026 11:28:17 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェントが実用的かつ制御可能なエンジニアリングを行うためのスキルセットを提供することを目的としています。<br>小規模で適応しやすく、組み合わせ可能なスキル群を定義しており、開発者がプロセスを制御しながらアプリケーション開発を行えるように設計されています。<br>Claude Codeなどのエージェントで利用でき、あらゆるモデルに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェントが実用的かつ制御可能なエンジニアリングを行うためのスキルセットを提供することを目的としています。<br>小規模で適応しやすく、組み合わせ可能なスキル群を定義しており、開発者がプロセスを制御しながらアプリケーション開発を行えるように設計されています。<br>Claude Codeなどのエージェントで利用でき、あらゆるモデルに対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cloudflare/computer Cloudflare Computerは、Dura…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxoveprx2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxoveprx2j</guid>
-      <pubDate>Sat, 08 Aug 2026 11:27:57 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/computer<br>Cloudflare Computerは、Durable Object内で動作する仮想ファイルシステムです。<br>SQLiteを使用して状態を保持し、FUSEマウントやDynamic Workerなどのバックエンドを介して、シェルコマンドやECMAScriptモジュールの実行環境を提供します。<br>現在はプレビュー版として提供されており、実験やプロトタイプの開発を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/computer<br>Cloudflare Computerは、Durable Object内で動作する仮想ファイルシステムです。<br>SQLiteを使用して状態を保持し、FUSEマウントやDynamic Workerなどのバックエンドを介して、シェルコマンドやECMAScriptモジュールの実行環境を提供します。<br>現在はプレビュー版として提供されており、実験やプロトタイプの開発を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  addyosmani/agent-skills AIコーディングエージェントにシニアエンジ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxogpyri2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mskxogpyri2c</guid>
-      <pubDate>Sat, 08 Aug 2026 11:27:42 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用させるためのリポジトリです。<br>開発ライフサイクルに沿ったコマンドを提供することで、設計から実装、テスト、リリースまでの一連の工程をAIが品質を維持しながら一貫して実行できるようにします。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用させるためのリポジトリです。<br>開発ライフサイクルに沿ったコマンドを提供することで、設計から実装、テスト、リリースまでの一連の工程をAIが品質を維持しながら一貫して実行できるようにします。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepgrove/maple-preview Maple-Previewは、オ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskugsp7go2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskugsp7go2t</guid>
-      <pubDate>Sat, 08 Aug 2026 10:29:45 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepgrove/maple-preview<br>Maple-Previewは、オンデバイス推論向けに設計されたオープンソースの20B-A1B三値重み推論LLMです。<br>同等クラスで最高水準の推論性能を備え、IMOレベルの問題を解決可能です。<br>Mac mini M4などで非常に高速に動作し、メモリ効率と速度を両立しています。<br>現在は純粋な推論能力に焦点を当てたプレビュー版として公開されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepgrove/maple-preview<br>Maple-Previewは、オンデバイス推論向けに設計されたオープンソースの20B-A1B三値重み推論LLMです。<br>同等クラスで最高水準の推論性能を備え、IMOレベルの問題を解決可能です。<br>Mac mini M4などで非常に高速に動作し、メモリ効率と速度を両立しています。<br>現在は純粋な推論能力に焦点を当てたプレビュー版として公開されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-C…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskug5ljdr2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskug5ljdr2t</guid>
-      <pubDate>Sat, 08 Aug 2026 10:29:22 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot<br>ComfyUIで利用するためのQwen3-VL-32B Ultra Uncensored HereticベースのH3コンディショニングエンコーダーおよび生成テールを提供することを目的としています。<br>BF16やINT8 ConvRotなどの形式で提供されており、モデルのレイヤーを分割して効率的に利用できる構成になっています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot<br>ComfyUIで利用するためのQwen3-VL-32B Ultra Uncensored HereticベースのH3コンディショニングエンコーダーおよび生成テールを提供することを目的としています。<br>BF16やINT8 ConvRotなどの形式で提供されており、モデルのレイヤーを分割して効率的に利用できる構成になっています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  LiquidAI/LFM2.5-2.6B LFM2.5-2.6Bは、オンデバイス…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuflwzu22x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuflwzu22x</guid>
-      <pubDate>Sat, 08 Aug 2026 10:29:04 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bは、オンデバイス展開向けに設計された汎用的なテキスト生成ハイブリッドモデルです。<br>128Kのコンテキストウィンドウを備え、エージェント的なワークロード向けのポストトレーニングが施されています。<br>ファインチューニング用のベースモデルと、エージェント機能に最適化されたモデルが提供されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bは、オンデバイス展開向けに設計された汎用的なテキスト生成ハイブリッドモデルです。<br>128Kのコンテキストウィンドウを備え、エージェント的なワークロード向けのポストトレーニングが施されています。<br>ファインチューニング用のベースモデルと、エージェント機能に最適化されたモデルが提供されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuez7tzz2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mskuez7tzz2t</guid>
-      <pubDate>Sat, 08 Aug 2026 10:28:44 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>消費者向けハードウェアで構築された高性能なオープンソースモデルの提供が目的です。<br>Qwen3.6-27Bをベースに多段階の微調整とマージを行い、指示追従能力と問題解決能力を向上させました。<br>ARC-Cベンチマークで700を超えるスコアを達成し、主要なクローズドソースモデルに匹敵する知能の実現を目指しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
