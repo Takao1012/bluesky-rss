@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:39:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 paperclipai / paperclip…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqismd4e62l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqismd4e62l</guid>
+      <pubDate>Mon, 10 Aug 2026 16:16:47 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 76,176 (+167)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 76,176 (+167)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></content:encoded>
+    </item>
     <item>
       <title>それに伴う現場の窮屈さや不満が顕在化している点です。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msqgxqli342w</link>
@@ -453,15 +462,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 Cloudflareの学習教材<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 Cloudflareの学習教材<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>strategies, automated scheduling, and deploys via GitHub Act…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msoizohrgd2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msoizohrgd2u</guid>
-      <pubDate>Sun, 09 Aug 2026 21:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[strategies, automated scheduling, and deploys via GitHub Actions, Docker, or local/desktop setups with extensive configuration. (2/2)]]></description>
-      <content:encoded><![CDATA[strategies, automated scheduling, and deploys via GitHub Actions, Docker, or local/desktop setups with extensive configuration. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
