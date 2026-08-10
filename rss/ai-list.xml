@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:42:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>My first black badge :)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msou4ppcd52x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msou4ppcd52x</guid>
+      <pubDate>Mon, 10 Aug 2026 00:08:27 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[My first black badge :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihougguz4dhp3ibmghmhzf6lfl527yom6d77c6f4al3vyeczaveuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[My first black badge :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihougguz4dhp3ibmghmhzf6lfl527yom6d77c6f4al3vyeczaveuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihougguz4dhp3ibmghmhzf6lfl527yom6d77c6f4al3vyeczaveuu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcsewva2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcsewva2t</guid>
+      <pubDate>Sun, 09 Aug 2026 23:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告されている。これはアプリが完全なネイティブ製品ではなくWebView2を使ったMSN Weatherベースであり、複数のChromium系プロセスが同時に動作するためメモリ使用量が増えるとされる。高性能PCには影響は少ないが、8–16GBの構成ではメモリ圧迫でパフォーマンス低下の可能性があるほか、アプリ内に広告が表示される点も批判されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告されている。これはアプリが完全なネイティブ製品ではなくWebView2を使ったMSN Weatherベースであり、複数のChromium系プロセスが同時に動作するためメモリ使用量が増えるとされる。高性能PCには影響は少ないが、8–16GBの構成ではメモリ圧迫でパフォーマンス低下の可能性があるほか、アプリ内に広告が表示される点も批判されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。 Windows 11&apos;s b…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcmdraq2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcmdraq2t</guid>
+      <pubDate>Sun, 09 Aug 2026 23:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。<br>Windows 11's built-in Weather app wastes more than 1 GB of RAM<br><br>🔺 326<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。<br>Windows 11's built-in Weather app wastes more than 1 GB of RAM<br><br>🔺 326<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   著者は、自身が公開した「App Store Rejection of the Week: D…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msokmdjoev2t</link>
@@ -449,33 +479,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としたリポジトリです。<br>プレビュー版からエージェント能力が大幅に強化されており、投機的デコードモジュールを搭載しています。<br>少ないパラメータ数ながらDeepSeek-V4-Pro (Preview) を上回る性能を持ち、商用モデルに匹敵する能力を備えています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/DeepSeek-V4-Flash-0731-GGUF<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としたリポジトリです。<br>プレビュー版からエージェント能力が大幅に強化されており、投機的デコードモジュールを搭載しています。<br>少ないパラメータ数ながらDeepSeek-V4-Pro (Preview) を上回る性能を持ち、商用モデルに匹敵する能力を備えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  larryvrh/MiniMax-H3-Turbo-Lora MiniMax-H…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneziqcfh2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneziqcfh2g</guid>
-      <pubDate>Sun, 09 Aug 2026 10:31:51 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、ビデオと同期したステレオオーディオを少ないサンプリングステップ数で生成するためのLoRAです。<br>通常約20ステップかかる工程を最短4ステップに短縮し、約5倍の高速化を実現します。<br>用途に応じて、高精細なv4と激しい動きに適したv1のチェックポイントを選択して利用します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、ビデオと同期したステレオオーディオを少ないサンプリングステップ数で生成するためのLoRAです。<br>通常約20ステップかかる工程を最短4ステップに短縮し、約5倍の高速化を実現します。<br>用途に応じて、高精細なv4と激しい動きに適したv1のチェックポイントを選択して利用します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  moonshotai/Kimi-K3 Kimi K3は、2.8兆パラメータを持つ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyz6pkd2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyz6pkd2q</guid>
-      <pubDate>Sun, 09 Aug 2026 10:31:35 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダル・エージェンティックモデルです。<br>100万トークンの長いコンテキストウィンドウと視覚能力を備え、長期的なコーディング、知識作業、および高度な推論などの知的タスクを実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダル・エージェンティックモデルです。<br>100万トークンの長いコンテキストウィンドウと視覚能力を備え、長期的なコーディング、知識作業、および高度な推論などの知的タスクを実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyl3ut226</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msneyl3ut226</guid>
-      <pubDate>Sun, 09 Aug 2026 10:31:20 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを提供するためのリポジトリです。<br>プレビュー版からエージェント機能を大幅に強化しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数でありながら、DeepSeek-V4-Pro (Preview)を上回る性能を持ち、商用モデルに匹敵する能力を備えたモデルの公開を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを提供するためのリポジトリです。<br>プレビュー版からエージェント機能を大幅に強化しており、投機的デコードモジュールを搭載しています。<br>少ない活性パラメータ数でありながら、DeepSeek-V4-Pro (Preview)を上回る性能を持ち、商用モデルに匹敵する能力を備えたモデルの公開を目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
