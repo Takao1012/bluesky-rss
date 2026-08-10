@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:22:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 「エンジニアのための自己管理入門」に救われた話 - expajp&apos;s Permanent Way  🔖 158 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msr5jdd7y62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msr5jdd7y62k</guid>
+      <pubDate>Mon, 10 Aug 2026 22:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   このサイトは悪意あるボットを防ぐためのセキュリティ検証を行っており、あなたがボットでないこと…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msr33j4qzw24</link>
@@ -464,15 +473,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 とんでもない動画生成AIが出てきた　無料で試し放題の「MiniMax H3」を徹底検証 (1/5)<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 とんでもない動画生成AIが出てきた　無料で試し放題の「MiniMax H3」を徹底検証 (1/5)<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>“DEFCON puzzles are the closest thing I’ve experienced to a …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mspbkbmc372y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mspbkbmc372y</guid>
-      <pubDate>Mon, 10 Aug 2026 04:26:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[“DEFCON puzzles are the closest thing I’ve experienced to a day 1 Destiny raid” - @davis7]]></description>
-      <content:encoded><![CDATA[“DEFCON puzzles are the closest thing I’ve experienced to a day 1 Destiny raid” - @davis7]]></content:encoded>
     </item>
   </channel>
 </rss>
