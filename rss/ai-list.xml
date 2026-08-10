@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:37:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:45:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquesnpyw2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquesnpyw2x</guid>
+      <pubDate>Mon, 10 Aug 2026 19:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工国家」が私たちの民主制を脅かし、アルゴリズムや企業が国家機能を代替しつつあると警告する。彼女は技術そのものを否定するのではなく、私企業が政府の役割を担うようになることの危険性と、それが生み出す支配の形を歴史とSFの伝統から分析している。結論として、人工国家は最終的には自然環境と民主的統治の崩壊を招くとし、その打破には民主的プロセスと市民の参加を取り戻す必要があると説く。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工国家」が私たちの民主制を脅かし、アルゴリズムや企業が国家機能を代替しつつあると警告する。彼女は技術そのものを否定するのではなく、私企業が政府の役割を担うようになることの危険性と、それが生み出す支配の形を歴史とSFの伝統から分析している。結論として、人工国家は最終的には自然環境と民主的統治の崩壊を招くとし、その打破には民主的プロセスと市民の参加を取り戻す必要があると説く。]]></content:encoded>
+    </item>
+    <item>
+      <title>シリコンバレーはSFを読み違え、民主主義を蝕む Silicon Valley misreads science fict…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquei5nyf2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquei5nyf2t</guid>
+      <pubDate>Mon, 10 Aug 2026 19:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[シリコンバレーはSFを読み違え、民主主義を蝕む<br>Silicon Valley misreads science fiction and undermines democracy<br><br>🔺 288<br>💬 35<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[シリコンバレーはSFを読み違え、民主主義を蝕む<br>Silicon Valley misreads science fiction and undermines democracy<br><br>🔺 288<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 danielmiessler / LifeOS…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqphjmkxa2n</link>
@@ -444,24 +462,6 @@
       <content:encoded><![CDATA[My first black badge :)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihougguz4dhp3ibmghmhzf6lfl527yom6d77c6f4al3vyeczaveuu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihougguz4dhp3ibmghmhzf6lfl527yom6d77c6f4al3vyeczaveuu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcsewva2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcsewva2t</guid>
-      <pubDate>Sun, 09 Aug 2026 23:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告されている。これはアプリが完全なネイティブ製品ではなくWebView2を使ったMSN Weatherベースであり、複数のChromium系プロセスが同時に動作するためメモリ使用量が増えるとされる。高性能PCには影響は少ないが、8–16GBの構成ではメモリ圧迫でパフォーマンス低下の可能性があるほか、アプリ内に広告が表示される点も批判されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Windows 11の内蔵天気アプリが、操作が少なくても1GB超のRAMを消費することが報告されている。これはアプリが完全なネイティブ製品ではなくWebView2を使ったMSN Weatherベースであり、複数のChromium系プロセスが同時に動作するためメモリ使用量が増えるとされる。高性能PCには影響は少ないが、8–16GBの構成ではメモリ圧迫でパフォーマンス低下の可能性があるほか、アプリ内に広告が表示される点も批判されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。 Windows 11&apos;s b…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcmdraq2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msorcmdraq2t</guid>
-      <pubDate>Sun, 09 Aug 2026 23:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。<br>Windows 11's built-in Weather app wastes more than 1 GB of RAM<br><br>🔺 326<br>💬 47<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Windows 11に標準搭載されている天気アプリは、1GBを超えるRAMを消費している。<br>Windows 11's built-in Weather app wastes more than 1 GB of RAM<br><br>🔺 326<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
