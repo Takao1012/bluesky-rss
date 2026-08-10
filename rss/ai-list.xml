@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:40:56 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ruvnet / RuView ⭐ 89,16…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqmbvrp4u2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqmbvrp4u2r</guid>
+      <pubDate>Mon, 10 Aug 2026 17:19:45 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 89,169 (+156)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 89,169 (+156)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 paperclipai / paperclip…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqismd4e62l</link>
@@ -453,15 +462,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Snuck a new "draft" feature into the T3 Code nightly release :)<br><br>Fixes the "oh shoot I need more info before starting this thread" problem. Surprised how much I've been liking this small change.]]></description>
       <content:encoded><![CDATA[Snuck a new "draft" feature into the T3 Code nightly release :)<br><br>Fixes the "oh shoot I need more info before starting this thread" problem. Surprised how much I've been liking this small change.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Cloudflareの学習教材  🔖 165 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msojp6min32h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msojp6min32h</guid>
-      <pubDate>Sun, 09 Aug 2026 21:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Cloudflareの学習教材<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Cloudflareの学習教材<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
