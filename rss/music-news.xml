@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 05:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:41:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The shift comes as U.S. stockpiles of key weapons have dwind…</title>
+      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3msrwrgoymw2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3msrwrgoymw2a</guid>
+      <pubDate>Tue, 11 Aug 2026 06:00:07 GMT</pubDate>
+      <author>NPR (@npr.org)</author>
+      <description><![CDATA[The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. n.pr/4za7Ont]]></description>
+      <content:encoded><![CDATA[The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough. n.pr/4za7Ont]]></content:encoded>
+    </item>
     <item>
       <title>黒沢健一の生前最後のソロアルバム「BANDING TOGETHER in Dreams」がアナログ化  没後10年の…</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3msrq33zc2f2r</link>
@@ -479,15 +488,6 @@
       <author>Stereogum (@stereogum.com)</author>
       <description><![CDATA[Hear Black Duck and Elena Setién's lovely new six-minute reverie "Funeral In My Brain"]]></description>
       <content:encoded><![CDATA[Hear Black Duck and Elena Setién's lovely new six-minute reverie "Funeral In My Brain"]]></content:encoded>
-    </item>
-    <item>
-      <title>Hear Rustie&apos;s maximalist new club track &quot;AVATARA888&quot;</title>
-      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3msqm4aqo6s2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3msqm4aqo6s2p</guid>
-      <pubDate>Mon, 10 Aug 2026 17:16:39 GMT</pubDate>
-      <author>Stereogum (@stereogum.com)</author>
-      <description><![CDATA[Hear Rustie's maximalist new club track "AVATARA888"]]></description>
-      <content:encoded><![CDATA[Hear Rustie's maximalist new club track "AVATARA888"]]></content:encoded>
     </item>
   </channel>
 </rss>
