@@ -5,8 +5,83 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 20:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:28:08 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   CHICKEN Schemeの新バージョン系列のリリースノート。5系の各リリース（6.0.0…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstlkkdcd72u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstlkkdcd72u</guid>
+      <pubDate>Tue, 11 Aug 2026 21:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>CHICKEN Schemeの新バージョン系列のリリースノート。5系の各リリース（6.0.0、5.x系の段階的改良を含む）で、コアライブラリのUnicode対応強化、SRFI互換性の拡張、FFIの改善、ツール・ビルド・コンパイラ・ランタイムの機能追加と不具合修正、セキュリティ対策、モジュールシステムの再構成などが一括して行われたことを要約している。特にR7RS準拠の機能拡張、読み書きポートの仕様変更、パス表現の統一、パフォーマンス向上のための最適化オプション追加、eggインストール周りの信頼性向上が目立つ。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>CHICKEN Schemeの新バージョン系列のリリースノート。5系の各リリース（6.0.0、5.x系の段階的改良を含む）で、コアライブラリのUnicode対応強化、SRFI互換性の拡張、FFIの改善、ツール・ビルド・コンパイラ・ランタイムの機能追加と不具合修正、セキュリティ対策、モジュールシステムの再構成などが一括して行われたことを要約している。特にR7RS準拠の機能拡張、読み書きポートの仕様変更、パス表現の統一、パフォーマンス向上のための最適化オプション追加、eggインストール周りの信頼性向上が目立つ。]]></content:encoded>
+    </item>
+    <item>
+      <title>チキン・スキーム 6.0 Chicken Scheme 6.0  🔺 293 💬 14 🔗 HN Post | A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstlkcqd322t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstlkcqd322t</guid>
+      <pubDate>Tue, 11 Aug 2026 21:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[チキン・スキーム 6.0<br>Chicken Scheme 6.0<br><br>🔺 293<br>💬 14<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[チキン・スキーム 6.0<br>Chicken Scheme 6.0<br><br>🔺 293<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>refinement of workflows. It emphasizes programmatic control …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxkmdow2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxkmdow2l</guid>
+      <pubDate>Tue, 11 Aug 2026 21:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[refinement of workflows. It emphasizes programmatic control via IPython, durable state, and safety considerations, with commands for managing sessions, updates, and diagnostics. (2/2)]]></description>
+      <content:encoded><![CDATA[refinement of workflows. It emphasizes programmatic control via IPython, durable state, and safety considerations, with commands for managing sessions, updates, and diagnostics. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Prime Agent is an open-source, long-running co…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxkkzdz2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxkkzdz2n</guid>
+      <pubDate>Tue, 11 Aug 2026 21:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Prime Agent is an open-source, long-running coding and research agent that uses a Recursive Language Model and a continual harness to manage persistent context, subagents, skills, and autonomous sessions, enabling background execution, agent-to-agent communication, and iterative (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Prime Agent is an open-source, long-running coding and research agent that uses a Recursive Language Model and a continual harness to manage persistent context, subagents, skills, and autonomous sessions, enabling background execution, agent-to-agent communication, and iterative (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 PrimeIntellect-ai / …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxhat7b27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstjxhat7b27</guid>
+      <pubDate>Tue, 11 Aug 2026 21:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 PrimeIntellect-ai / prime-agent<br>⭐ 13,738 (+1,148)<br>🗒 TypeScript<br><br>A self-improving RLM agent for coding workflows and long-running autonomous tasks.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 PrimeIntellect-ai / prime-agent<br>⭐ 13,738 (+1,148)<br>🗒 TypeScript<br><br>A self-improving RLM agent for coding workflows and long-running autonomous tasks.]]></content:encoded>
+    </item>
+    <item>
+      <title>Finally! Codex getting closer to feature parity with T3 Code…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstk6ebdsj2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstk6ebdsj2q</guid>
+      <pubDate>Tue, 11 Aug 2026 21:15:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Finally! Codex getting closer to feature parity with T3 Code 🫡
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihf2go5hu3lfrobo4o7aweik42ykqffakubucuwr43glvskp7ccfm" alt="Quote Tweet: https://twitter.com/i/status/2087231350134980830" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Finally! Codex getting closer to feature parity with T3 Code 🫡
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihf2go5hu3lfrobo4o7aweik42ykqffakubucuwr43glvskp7ccfm" alt="Quote Tweet: https://twitter.com/i/status/2087231350134980830" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihf2go5hu3lfrobo4o7aweik42ykqffakubucuwr43glvskp7ccfm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I was never a big fan of MCP. That might change now. The new…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijtqgd42u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijtqgd42u</guid>
+      <pubDate>Tue, 11 Aug 2026 20:49:13 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I was never a big fan of MCP. That might change now. The new version is genuinely really good, but it comes with a big catch... <br><br>Video: https://twitter.com/theo/status/2087280199406903762]]></description>
+      <content:encoded><![CDATA[I was never a big fan of MCP. That might change now. The new version is genuinely really good, but it comes with a big catch... <br><br>Video: https://twitter.com/theo/status/2087280199406903762]]></content:encoded>
+    </item>
+    <item>
+      <title>gpt-5.6-sol is so good at building iOS apps it&apos;s crazy.  Giv…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijnu24w2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijnu24w2r</guid>
+      <pubDate>Tue, 11 Aug 2026 20:37:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[gpt-5.6-sol is so good at building iOS apps it's crazy.<br><br>Give it a dedicated Mac with computer use and let it run the simulator. Quality you get out is nuts.]]></description>
+      <content:encoded><![CDATA[gpt-5.6-sol is so good at building iOS apps it's crazy.<br><br>Give it a dedicated Mac with computer use and let it run the simulator. Quality you get out is nuts.]]></content:encoded>
+    </item>
     <item>
       <title>cross-platform downloads. It supports many CLI agents and of…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgpwncyx2t</link>
@@ -33,6 +108,30 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 stablyai / orca<br>⭐ 42,180 (+881)<br>🗒 TypeScript<br><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.]]></description>
       <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 stablyai / orca<br>⭐ 42,180 (+881)<br>🗒 TypeScript<br><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.]]></content:encoded>
+    </item>
+    <item>
+      <title>Oh yeah we have themes now</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijfb3if2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstijfb3if2m</guid>
+      <pubDate>Tue, 11 Aug 2026 20:11:37 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Oh yeah we have themes now
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiae6z7uqpwclpvfqzu7yg4dfp4ulm5c2nxw4kout3nuqevuixhzxi" alt="Quote Tweet: https://twitter.com/i/status/2087269224553070717" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Oh yeah we have themes now
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiae6z7uqpwclpvfqzu7yg4dfp4ulm5c2nxw4kout3nuqevuixhzxi" alt="Quote Tweet: https://twitter.com/i/status/2087269224553070717" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiae6z7uqpwclpvfqzu7yg4dfp4ulm5c2nxw4kout3nuqevuixhzxi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This would have went so hard in like 2022</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstiix2hge2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mstiix2hge2q</guid>
+      <pubDate>Tue, 11 Aug 2026 20:08:35 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This would have went so hard in like 2022
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiafbdmirgaq23ekgt4r2ur5xyuytiz6wvmm7rrtyp4txpmnehcn6y" alt="Quote Tweet: https://twitter.com/i/status/2086987724037185547" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This would have went so hard in like 2022
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiafbdmirgaq23ekgt4r2ur5xyuytiz6wvmm7rrtyp4txpmnehcn6y" alt="Quote Tweet: https://twitter.com/i/status/2086987724037185547" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiafbdmirgaq23ekgt4r2ur5xyuytiz6wvmm7rrtyp4txpmnehcn6y" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>- この問題は O(n²) 程度の総当たりでは解けるが、n が大きい場合は、b = index of L、c = ind…</title>
@@ -366,96 +465,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>ZhuLinsen/daily_stock_analysis<br>AIを活用した多国籍市場（米・日・港・韓・台・中国）対応の株価分析システムです。<br>日次でAIによる分析レポートを作成し、チャットツールやメールへ自動的に配信します。<br>テクニカルやファンダメンタル分析、15種類の投資戦略を用いたAIエージェントによる問い合わせ機能、管理用ワークベンチなどを提供します。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ZhuLinsen/daily_stock_analysis<br>AIを活用した多国籍市場（米・日・港・韓・台・中国）対応の株価分析システムです。<br>日次でAIによる分析レポートを作成し、チャットツールやメールへ自動的に配信します。<br>テクニカルやファンダメンタル分析、15種類の投資戦略を用いたAIエージェントによる問い合わせ機能、管理用ワークベンチなどを提供します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  nvm-sh/nvm Node.jsのバージョン管理ツールです。 コマンドラインから異なる…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mssjw3f3eq2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mssjw3f3eq2d</guid>
-      <pubDate>Tue, 11 Aug 2026 11:42:44 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>nvm-sh/nvm<br>Node.jsのバージョン管理ツールです。<br>コマンドラインから異なるバージョンのNode.jsを迅速にインストールし、切り替えて利用することを目的としています。<br>Unix、macOS、Windows WSLなどのPOSIX準拠シェルで動作し、ユーザー単位で導入可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>nvm-sh/nvm<br>Node.jsのバージョン管理ツールです。<br>コマンドラインから異なるバージョンのNode.jsを迅速にインストールし、切り替えて利用することを目的としています。<br>Unix、macOS、Windows WSLなどのPOSIX準拠シェルで動作し、ユーザー単位で導入可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  msitarzewski/agency-agents ワークフローを改善するための専門的な…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mssjvopowd2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mssjvopowd2q</guid>
-      <pubDate>Tue, 11 Aug 2026 11:42:30 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>msitarzewski/agency-agents<br>ワークフローを改善するための専門的なAIエージェントのパーソナリティ集を提供することを目的としたリポジトリです。<br>フロントエンド開発などの専門知識を持つAIエージェントを、Claude CodeやCursorなどのツールに導入して活用できます。<br>専用アプリにより簡単にインストールと更新が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>msitarzewski/agency-agents<br>ワークフローを改善するための専門的なAIエージェントのパーソナリティ集を提供することを目的としたリポジトリです。<br>フロントエンド開発などの専門知識を持つAIエージェントを、Claude CodeやCursorなどのツールに導入して活用できます。<br>専用アプリにより簡単にインストールと更新が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  moonshotai/Kimi-K3 Kimi K3は、2.8兆パラメータを持つ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgvht3lk27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgvht3lk27</guid>
-      <pubDate>Tue, 11 Aug 2026 10:48:42 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンのコンテキストウィンドウと画像認識能力を備え、高度な推論、知識作業、および長期的なコーディングにおける最先端の知能を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>moonshotai/Kimi-K3<br>Kimi K3は、2.8兆パラメータを持つオープンウェイトのネイティブマルチモーダルエージェントモデルです。<br>100万トークンのコンテキストウィンドウと画像認識能力を備え、高度な推論、知識作業、および長期的なコーディングにおける最先端の知能を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  larryvrh/MiniMax-H3-Turbo-Lora MiniMax-H…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssguy5lto2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssguy5lto2j</guid>
-      <pubDate>Tue, 11 Aug 2026 10:48:25 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、MiniMax-H3モデル向けのLoRAです。<br>ビデオと同期したステレオオーディオの生成におけるサンプリングステップ数を、通常約20回から最短4回に削減し、生成速度を約5倍に向上させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3 Turbo LoRAは、MiniMax-H3モデル向けのLoRAです。<br>ビデオと同期したステレオオーディオの生成におけるサンプリングステップ数を、通常約20回から最短4回に削減し、生成速度を約5倍に向上させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgujwuxo2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgujwuxo2x</guid>
-      <pubDate>Tue, 11 Aug 2026 10:48:11 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としています。<br>投機的デコーディングモジュールを搭載し、プレビュー版からエージェント能力を大幅に向上させています。<br>少ないパラメータ数ながら、DeepSeek-V4-Pro (Preview) を上回る性能を実現し、商用モデルに匹敵する競争力を備えています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flashの正式版であるDeepSeek-V4-Flash-0731を提供することを目的としています。<br>投機的デコーディングモジュールを搭載し、プレビュー版からエージェント能力を大幅に向上させています。<br>少ないパラメータ数ながら、DeepSeek-V4-Pro (Preview) を上回る性能を実現し、商用モデルに匹敵する競争力を備えています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  meta-models/Muse-Glimmer-30B Muse Glimme…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgttpt7q2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgttpt7q2t</guid>
-      <pubDate>Tue, 11 Aug 2026 10:47:47 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>Muse Glimmerは、コンシューマー向けハードウェアで動作する自律エージェントタスク向けに開発された300億パラメータの因果言語モデルです。<br>マルチモーダル理解、マルチステップ推論、ツール利用、失敗からの回復機能を統合し、クラウドやネットワークに依存せずローカル環境で動作することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>Muse Glimmerは、コンシューマー向けハードウェアで動作する自律エージェントタスク向けに開発された300億パラメータの因果言語モデルです。<br>マルチモーダル理解、マルチステップ推論、ツール利用、失敗からの回復機能を統合し、クラウドやネットワークに依存せずローカル環境で動作することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgtdhbtk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mssgtdhbtk2o</guid>
-      <pubDate>Tue, 11 Aug 2026 10:47:30 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、動画、音声を統合的に理解し、動画を生成する汎用オムニモーダル生成システムです。<br>最大2K解像度で最長15秒の動画をステレオ音声付きで生成可能であり、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからの動画生成や、画像を用いた動画生成をサポートしています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、動画、音声を統合的に理解し、動画を生成する汎用オムニモーダル生成システムです。<br>最大2K解像度で最長15秒の動画をステレオ音声付きで生成可能であり、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからの動画生成や、画像を用いた動画生成をサポートしています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GoogleのAI要約が誤情報を生み出す事例が増え、検索の依存が崩れつつある中で、インターネ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssdd7kihl2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssdd7kihl2i</guid>
-      <pubDate>Tue, 11 Aug 2026 09:44:48 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GoogleのAI要約が誤情報を生み出す事例が増え、検索の依存が崩れつつある中で、インターネット上の知識の「記憶」をどう保存・管理するかが重要な課題となっている。政府や国際機関がデジタル sovereigntyを強化するため欧州の動きや代替プラットフォームを推進する一方で、WikipediaやInternet Archiveなど公共インフラの存続と透明性が脅かされている。長期的には公共のデジタルインフラとしての情報保存・アクセスの仕組みを強化する必要がある。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GoogleのAI要約が誤情報を生み出す事例が増え、検索の依存が崩れつつある中で、インターネット上の知識の「記憶」をどう保存・管理するかが重要な課題となっている。政府や国際機関がデジタル sovereigntyを強化するため欧州の動きや代替プラットフォームを推進する一方で、WikipediaやInternet Archiveなど公共インフラの存続と透明性が脅かされている。長期的には公共のデジタルインフラとしての情報保存・アクセスの仕組みを強化する必要がある。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIがウェブを食い尽くす中で、インターネットの集合的記憶は消えつつある。 As AI eats the web, the…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssdcwdswm2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssdcwdswm2i</guid>
-      <pubDate>Tue, 11 Aug 2026 09:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIがウェブを食い尽くす中で、インターネットの集合的記憶は消えつつある。<br>As AI eats the web, the internet’s collective memory is disappearing<br><br>🔺 285<br>💬 36<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIがウェブを食い尽くす中で、インターネットの集合的記憶は消えつつある。<br>As AI eats the web, the internet’s collective memory is disappearing<br><br>🔺 285<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Needle 2は、45Mパラメータのオンデバイス用ツール呼び出し・デバイス操作・構造化抽出…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mss4mgqfsj2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mss4mgqfsj2g</guid>
-      <pubDate>Tue, 11 Aug 2026 07:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Needle 2は、45Mパラメータのオンデバイス用ツール呼び出し・デバイス操作・構造化抽出モデルで、14MBのバイナリと28MBのセッションRAMで実行。CQ2ビット圧縮と専用エンジンを組み合わせ、低RAM・低電力デバイス上で高い推論効率を実現し、スマートウォッチや家電など<$200デバイスでも動作可能と主張している。評価では同規模・同条件の競合モデルと比較してツール呼び出しの正確さを維持しつつ、オンデバイスでの低コスト動作を強調している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Needle 2は、45Mパラメータのオンデバイス用ツール呼び出し・デバイス操作・構造化抽出モデルで、14MBのバイナリと28MBのセッションRAMで実行。CQ2ビット圧縮と専用エンジンを組み合わせ、低RAM・低電力デバイス上で高い推論効率を実現し、スマートウォッチや家電など<$200デバイスでも動作可能と主張している。評価では同規模・同条件の競合モデルと比較してツール呼び出しの正確さを維持しつつ、オンデバイスでの低コスト動作を強調している。]]></content:encoded>
     </item>
   </channel>
 </rss>
