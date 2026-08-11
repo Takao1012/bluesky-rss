@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:46:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>低気圧だるすぎる～</title>
+      <link>https://bsky.app/profile/did:plc:zke2sq3jv3eb5grzyfegidf2/post/3mssbpspks223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zke2sq3jv3eb5grzyfegidf2/post/3mssbpspks223</guid>
+      <pubDate>Tue, 11 Aug 2026 09:16:03 GMT</pubDate>
+      <author>観乃ふみ (@kannno23.bsky.social)</author>
+      <description><![CDATA[低気圧だるすぎる～]]></description>
+      <content:encoded><![CDATA[低気圧だるすぎる～]]></content:encoded>
+    </item>
     <item>
       <title>レアデコ切符が2枚に増えた☺️ #ピクミンブルーム</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msrxayzs722o</link>
@@ -466,18 +475,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[完全にカツカレーで胃が死んでる]]></description>
       <content:encoded><![CDATA[完全にカツカレーで胃が死んでる]]></content:encoded>
-    </item>
-    <item>
-      <title>お昼にカツカレーを食べたせいでもう眠くて眠くて無理です</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mspahuasec2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mspahuasec2t</guid>
-      <pubDate>Mon, 10 Aug 2026 04:15:44 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[お昼にカツカレーを食べたせいでもう眠くて眠くて無理です
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiduiossywiewhrvn27pvtdreolmptzg7olk4v7v5u73z5cbm7gjpe" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[お昼にカツカレーを食べたせいでもう眠くて眠くて無理です
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiduiossywiewhrvn27pvtdreolmptzg7olk4v7v5u73z5cbm7gjpe" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiduiossywiewhrvn27pvtdreolmptzg7olk4v7v5u73z5cbm7gjpe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
