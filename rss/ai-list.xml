@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 17:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:41:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>My hunch is this will be trivial to defeat: generate text, r…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mstakhmwr22o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mstakhmwr22o</guid>
+      <pubDate>Tue, 11 Aug 2026 18:27:50 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[My hunch is this will be trivial to defeat: generate text, run it through Anthropic's own AI detector tool, then modify words until that AI detector passes]]></description>
+      <content:encoded><![CDATA[My hunch is this will be trivial to defeat: generate text, run it through Anthropic's own AI detector tool, then modify words until that AI detector passes]]></content:encoded>
+    </item>
+    <item>
+      <title>manimgl and provides usage tips, dependencies, and contribut…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtl65j2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtl65j2s</guid>
+      <pubDate>Tue, 11 Aug 2026 18:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[manimgl and provides usage tips, dependencies, and contribution guidance. (2/2)]]></description>
+      <content:encoded><![CDATA[manimgl and provides usage tips, dependencies, and contribution guidance. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   ManimGL is a Python-based engine for creating …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtjxap2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtjxap2n</guid>
+      <pubDate>Tue, 11 Aug 2026 18:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>ManimGL is a Python-based engine for creating precise programmatic mathematical animations (originating from 3Blue1Brown), with installation guides for multiple platforms and notes distinguishing it from the community edition. It emphasizes pip installation under the package name (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>ManimGL is a Python-based engine for creating precise programmatic mathematical animations (originating from 3Blue1Brown), with installation guides for multiple platforms and notes distinguishing it from the community edition. It emphasizes pip installation under the package name (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 3b1b / manim ⭐ 89,9…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vqj5gj2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vqj5gj2s</guid>
+      <pubDate>Tue, 11 Aug 2026 18:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 3b1b / manim<br>⭐ 89,954 (+381)<br>🗒 Python<br><br>Animation engine for explanatory math videos]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 3b1b / manim<br>⭐ 89,954 (+381)<br>🗒 Python<br><br>Animation engine for explanatory math videos]]></content:encoded>
+    </item>
+    <item>
+      <title>A dozen Dependabot pull requests on a Monday morning is how …</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mst7fahh7p2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mst7fahh7p2e</guid>
+      <pubDate>Tue, 11 Aug 2026 18:07:01 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[A dozen Dependabot pull requests on a Monday morning is how important updates get ignored. On Microsoft's GCToolkit, roughly one in six commits were single-dependency version bumps.<br><br>Three small changes to dependabot.yml fixed it 👇]]></description>
+      <content:encoded><![CDATA[A dozen Dependabot pull requests on a Monday morning is how important updates get ignored. On Microsoft's GCToolkit, roughly one in six commits were single-dependency version bumps.<br><br>Three small changes to dependabot.yml fixed it 👇]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   イングランドでは2015年以降、C型肝炎の診断と治療を受けた人が10万人超に達し、2030年…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mst65eh3x42i</link>
@@ -416,56 +461,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>1991年製のMars Barが見つかり、現在の40gと比べて62.5gと約20g大きかったことが話題になっている。発見したVictoria Gordonは、清掃中に年代物の品を見つけ「手のひらくらいの大きさだった」と語り、SNSで拡散されている。メーカー側は過去35年間でサイズやパッケージの変更を行っていると説明している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>1991年製のMars Barが見つかり、現在の40gと比べて62.5gと約20g大きかったことが話題になっている。発見したVictoria Gordonは、清掃中に年代物の品を見つけ「手のひらくらいの大きさだった」と語り、SNSで拡散されている。メーカー側は過去35年間でサイズやパッケージの変更を行っていると説明している。]]></content:encoded>
-    </item>
-    <item>
-      <title>1991年のマースバーが見つかり、現在のものより20g重い。 Mars Bar from 1991 found – an…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msriigwrqr2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msriigwrqr2j</guid>
-      <pubDate>Tue, 11 Aug 2026 01:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[1991年のマースバーが見つかり、現在のものより20g重い。<br>Mars Bar from 1991 found – and it's 20g bigger than today's<br><br>🔺 299<br>💬 68<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[1991年のマースバーが見つかり、現在のものより20g重い。<br>Mars Bar from 1991 found – and it's 20g bigger than today's<br><br>🔺 299<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This reset just dropped :)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msrfgichff2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msrfgichff2t</guid>
-      <pubDate>Tue, 11 Aug 2026 00:30:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This reset just dropped :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictu7wbdogqueuevi7gz7wq6mnmiktafb7su47ksh6lsqlbyhc6um" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib6vtfujzvdgn7p4cxqudx632wiuq6loac2nq3bjq4ir2xefpgtvq" alt="Quote Tweet: https://twitter.com/i/status/2086189414292865249" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This reset just dropped :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictu7wbdogqueuevi7gz7wq6mnmiktafb7su47ksh6lsqlbyhc6um" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib6vtfujzvdgn7p4cxqudx632wiuq6loac2nq3bjq4ir2xefpgtvq" alt="Quote Tweet: https://twitter.com/i/status/2086189414292865249" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreictu7wbdogqueuevi7gz7wq6mnmiktafb7su47ksh6lsqlbyhc6um" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   記事は、FTの複数のデジタル購読プランと料金を案内しており、個人向け・組織向けに分かれ、試用…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrbs5slpw2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrbs5slpw2g</guid>
-      <pubDate>Mon, 10 Aug 2026 23:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>記事は、FTの複数のデジタル購読プランと料金を案内しており、個人向け・組織向けに分かれ、試用期間や年額割引などの特典もある。主要プランにはStandard Digital、Essential Digital、Premium Digital、FT Digital Editionがあり、それぞれアクセス範囲と料金が異なる。国や同時閲覧者数に応じたプランも用意されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>記事は、FTの複数のデジタル購読プランと料金を案内しており、個人向け・組織向けに分かれ、試用期間や年額割引などの特典もある。主要プランにはStandard Digital、Essential Digital、Premium Digital、FT Digital Editionがあり、それぞれアクセス範囲と料金が異なる。国や同時閲覧者数に応じたプランも用意されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>マーク・ザッカーバーグ、『閉鎖的』なAIライバルを批判—メタはオープンモデルへ回帰 Mark Zuckerberg at…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrbrxi2dh2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrbrxi2dh2d</guid>
-      <pubDate>Mon, 10 Aug 2026 23:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[マーク・ザッカーバーグ、『閉鎖的』なAIライバルを批判—メタはオープンモデルへ回帰<br>Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models<br><br>🔺 332<br>💬 38<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[マーク・ザッカーバーグ、『閉鎖的』なAIライバルを批判—メタはオープンモデルへ回帰<br>Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models<br><br>🔺 332<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「エンジニアのための自己管理入門」に救われた話 - expajp&apos;s Permanent Way  🔖 158 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msr5jdd7y62k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msr5jdd7y62k</guid>
-      <pubDate>Mon, 10 Aug 2026 22:28:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
