@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:45:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AnthropicはEUのAI法第50条2項に基づく透明性コードを遵守するため、Claude…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssxgtdi452t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssxgtdi452t</guid>
+      <pubDate>Tue, 11 Aug 2026 15:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AnthropicはEUのAI法第50条2項に基づく透明性コードを遵守するため、Claudeが生成するコンテンツに機械可読マーキングを導入する計画を公表しました。具体的には、テキストには不可視のウォーターマークを、画像ファイルには署名付きのプロVENANCEメタデータを埋め込み、検出可能なマーキングを将来の技術文書で詳述するとしています。ただし、マーキングには限界があり、導入企業が自製品で法令要件を評価・補完する必要がある点にも言及しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AnthropicはEUのAI法第50条2項に基づく透明性コードを遵守するため、Claudeが生成するコンテンツに機械可読マーキングを導入する計画を公表しました。具体的には、テキストには不可視のウォーターマークを、画像ファイルには署名付きのプロVENANCEメタデータを埋め込み、検出可能なマーキングを将来の技術文書で詳述するとしています。ただし、マーキングには限界があり、導入企業が自製品で法令要件を評価・補完する必要がある点にも言及しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>ClaudeはAI生成コンテンツをどうマークするか How Claude marks AI-generated cont…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssxgliyby2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssxgliyby2g</guid>
+      <pubDate>Tue, 11 Aug 2026 15:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ClaudeはAI生成コンテンツをどうマークするか<br>How Claude marks AI-generated content<br><br>🔺 318<br>💬 73<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ClaudeはAI生成コンテンツをどうマークするか<br>How Claude marks AI-generated content<br><br>🔺 318<br>💬 73<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   A curated collection of project-based programm…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssvttisnq2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssvttisnq2y</guid>
+      <pubDate>Tue, 11 Aug 2026 15:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>A curated collection of project-based programming tutorials across many languages and technologies, organized by language and topic (e.g., C/C++, JavaScript, Python, ML, OpenGL, game dev), with links to hands-on build guides and example projects.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>A curated collection of project-based programming tutorials across many languages and technologies, organized by language and topic (e.g., C/C++, JavaScript, Python, ML, OpenGL, game dev), with links to hands-on build guides and example projects.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 practical-tutorials…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssvtqpxfg2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssvtqpxfg2t</guid>
+      <pubDate>Tue, 11 Aug 2026 15:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 practical-tutorials / project-based-learning<br>⭐ 278,155 (+394)<br>🗒 Python<br><br>Curated list of project-based tutorials]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 practical-tutorials / project-based-learning<br>⭐ 278,155 (+394)<br>🗒 Python<br><br>Curated list of project-based tutorials]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;m looking forward to more details, but the most likely imp…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mssupovius2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mssupovius2x</guid>
+      <pubDate>Tue, 11 Aug 2026 14:56:01 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I'm looking forward to more details, but the most likely implementation is that they bias the random token selection such that there's a detectable pattern in the token IDs.<br><br>Won’t work for short text, but longer text would have the watermark invisibly baked into the selection of words]]></description>
+      <content:encoded><![CDATA[I'm looking forward to more details, but the most likely implementation is that they bias the random token selection such that there's a detectable pattern in the token IDs.<br><br>Won’t work for short text, but longer text would have the watermark invisibly baked into the selection of words]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   This is a comprehensive, crowdsourced catalog …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msssipjaai2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msssipjaai2k</guid>
+      <pubDate>Tue, 11 Aug 2026 14:16:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>This is a comprehensive, crowdsourced catalog of macOS software across categories (text editors, IDEs, office, design, AI, browsers, utilities, security, etc.), highlighting OSS, freeware, App Store apps, and native tools, with links and badges to aid discovery and contribution.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>This is a comprehensive, crowdsourced catalog of macOS software across categories (text editors, IDEs, office, design, AI, browsers, utilities, security, etc.), highlighting OSS, freeware, App Store apps, and native tools, with links and badges to aid discovery and contribution.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 jaywcjlove / awesom…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msssikwg3f2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msssikwg3f2t</guid>
+      <pubDate>Tue, 11 Aug 2026 14:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jaywcjlove / awesome-mac<br>⭐ 110,185 (+414)<br>🗒 Swift<br><br> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jaywcjlove / awesome-mac<br>⭐ 110,185 (+414)<br>🗒 Swift<br><br> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Native MiniMax-H3をApple Silicon向けに動作させる手法と使い方の…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mssqqb5od52x</link>
@@ -420,69 +483,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I did not think I would love this feature so much]]></description>
       <content:encoded><![CDATA[I did not think I would love this feature so much]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquesnpyw2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquesnpyw2x</guid>
-      <pubDate>Mon, 10 Aug 2026 19:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工国家」が私たちの民主制を脅かし、アルゴリズムや企業が国家機能を代替しつつあると警告する。彼女は技術そのものを否定するのではなく、私企業が政府の役割を担うようになることの危険性と、それが生み出す支配の形を歴史とSFの伝統から分析している。結論として、人工国家は最終的には自然環境と民主的統治の崩壊を招くとし、その打破には民主的プロセスと市民の参加を取り戻す必要があると説く。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ジャーナリストのリポートによれば、ハーバード historianのジル・リポアは新著で「人工国家」が私たちの民主制を脅かし、アルゴリズムや企業が国家機能を代替しつつあると警告する。彼女は技術そのものを否定するのではなく、私企業が政府の役割を担うようになることの危険性と、それが生み出す支配の形を歴史とSFの伝統から分析している。結論として、人工国家は最終的には自然環境と民主的統治の崩壊を招くとし、その打破には民主的プロセスと市民の参加を取り戻す必要があると説く。]]></content:encoded>
-    </item>
-    <item>
-      <title>シリコンバレーはSFを読み違え、民主主義を蝕む Silicon Valley misreads science fict…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquei5nyf2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msquei5nyf2t</guid>
-      <pubDate>Mon, 10 Aug 2026 19:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[シリコンバレーはSFを読み違え、民主主義を蝕む<br>Silicon Valley misreads science fiction and undermines democracy<br><br>🔺 288<br>💬 35<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[シリコンバレーはSFを読み違え、民主主義を蝕む<br>Silicon Valley misreads science fiction and undermines democracy<br><br>🔺 288<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 danielmiessler / LifeOS…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqphjmkxa2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqphjmkxa2n</guid>
-      <pubDate>Mon, 10 Aug 2026 18:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 danielmiessler / LifeOS<br>⭐ 17,650 (+143)<br>🗒 TypeScript<br><br>⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 danielmiessler / LifeOS<br>⭐ 17,650 (+143)<br>🗒 TypeScript<br><br>⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:    tl;dvのFirestoreにおけるテナント分離の欠如により、認証済みユーザーが全会議の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msqnofdqev2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msqnofdqev2t</guid>
-      <pubDate>Mon, 10 Aug 2026 17:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br> tl;dvのFirestoreにおけるテナント分離の欠如により、認証済みユーザーが全会議のメタデータにアクセス可能な状態が半年間放置されていた。著者は複数の実例で機密性の高い会議情報が露出していると指摘し、CTOからの対応がなく、セキュリティ研究者への対応も不十分と批判している。記事は脆弱性の修正を求め、世界中の政府・教育機関・企業の会議データの保護を訴えている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br> tl;dvのFirestoreにおけるテナント分離の欠如により、認証済みユーザーが全会議のメタデータにアクセス可能な状態が半年間放置されていた。著者は複数の実例で機密性の高い会議情報が露出していると指摘し、CTOからの対応がなく、セキュリティ研究者への対応も不十分と批判している。記事は脆弱性の修正を求め、世界中の政府・教育機関・企業の会議データの保護を訴えている。]]></content:encoded>
-    </item>
-    <item>
-      <title>要約版: 18万件を超えるミーティングがそのまま放置されている Tl;dv: Over 180k meetings le…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msqno5qzvk2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msqno5qzvk2d</guid>
-      <pubDate>Mon, 10 Aug 2026 17:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[要約版: 18万件を超えるミーティングがそのまま放置されている<br>Tl;dv: Over 180k meetings left wide open<br><br>🔺 357<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[要約版: 18万件を超えるミーティングがそのまま放置されている<br>Tl;dv: Over 180k meetings left wide open<br><br>🔺 357<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ruvnet / RuView ⭐ 89,16…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqmbvrp4u2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqmbvrp4u2r</guid>
-      <pubDate>Mon, 10 Aug 2026 17:19:45 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 89,169 (+156)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 89,169 (+156)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 paperclipai / paperclip…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqismd4e62l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msqismd4e62l</guid>
-      <pubDate>Mon, 10 Aug 2026 16:16:47 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 76,176 (+167)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 76,176 (+167)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></content:encoded>
     </item>
   </channel>
 </rss>
