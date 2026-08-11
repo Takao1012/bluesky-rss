@@ -5,8 +5,107 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 18:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:30:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>cross-platform downloads. It supports many CLI agents and of…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgpwncyx2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgpwncyx2t</guid>
+      <pubDate>Tue, 11 Aug 2026 20:18:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[cross-platform downloads. It supports many CLI agents and offers continuous feature updates. (2/2)]]></description>
+      <content:encoded><![CDATA[cross-platform downloads. It supports many CLI agents and offers continuous feature updates. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Orca is an MIT-licensed desktop app that orche…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgpwl63j2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgpwl63j2r</guid>
+      <pubDate>Tue, 11 Aug 2026 20:18:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Orca is an MIT-licensed desktop app that orchestrates multiple AI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees, with features like a mobile companion, terminal splits, design mode, integrated task workflows, and CLI automation, plus extensive community support and (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Orca is an MIT-licensed desktop app that orchestrates multiple AI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees, with features like a mobile companion, terminal splits, design mode, integrated task workflows, and CLI automation, plus extensive community support and (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 stablyai / orca ⭐ 42…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgptlwnu2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstgptlwnu2n</guid>
+      <pubDate>Tue, 11 Aug 2026 20:18:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 stablyai / orca<br>⭐ 42,180 (+881)<br>🗒 TypeScript<br><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 stablyai / orca<br>⭐ 42,180 (+881)<br>🗒 TypeScript<br><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.]]></content:encoded>
+    </item>
+    <item>
+      <title>- この問題は O(n²) 程度の総当たりでは解けるが、n が大きい場合は、b = index of L、c = ind…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetuuom524</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetuuom524</guid>
+      <pubDate>Tue, 11 Aug 2026 19:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[- この問題は O(n²) 程度の総当たりでは解けるが、n が大きい場合は、b = index of L、c = index of R の二重ループで、左側の条件のカウントを事前に累積配列として管理し、右側の条件のカウントを動的に更新する方法が有効。具体的には b を動かすごとに左側の値の頻度配列を更新して左カウントを O(1) で取得し、c を進めるごとに右の条件のカウントを一回ずつ調整することで O(n²) 時間で解ける。 (2/2)]]></description>
+      <content:encoded><![CDATA[- この問題は O(n²) 程度の総当たりでは解けるが、n が大きい場合は、b = index of L、c = index of R の二重ループで、左側の条件のカウントを事前に累積配列として管理し、右側の条件のカウントを動的に更新する方法が有効。具体的には b を動かすごとに左側の値の頻度配列を更新して左カウントを O(1) で取得し、c を進めるごとに右の条件のカウントを一回ずつ調整することで O(n²) 時間で解ける。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - 問題は、選択された労働者の集合 S の全員 i に対して li ≤ vj ≤ ri が成…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetuqagr2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetuqagr2g</guid>
+      <pubDate>Tue, 11 Aug 2026 19:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 問題は、選択された労働者の集合 S の全員 i に対して li ≤ vj ≤ ri が成り立つような最大の集合を求めること。結局、S の全員の v 値の最小値を L、最大値を R とすると、全員の li ≤ L かつ ri ≥ R かつ L ≤ vi ≤ R が成り立つような集合を最大化することになる。<br>- 有効な解は任意の L ≤ R に対して「li ≤ L, ri ≥ R, L ≤ vi ≤ R」を満たすすべての労働者を集めることで得られ、このときの人数を最大化する。最適な L, R は実際の v 値（つまり vi/T の値）を用いることが多い。 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 問題は、選択された労働者の集合 S の全員 i に対して li ≤ vj ≤ ri が成り立つような最大の集合を求めること。結局、S の全員の v 値の最小値を L、最大値を R とすると、全員の li ≤ L かつ ri ≥ R かつ L ≤ vi ≤ R が成り立つような集合を最大化することになる。<br>- 有効な解は任意の L ≤ R に対して「li ≤ L, ri ≥ R, L ≤ vi ≤ R」を満たすすべての労働者を集めることで得られ、このときの人数を最大化する。最適な L, R は実際の v 値（つまり vi/T の値）を用いることが多い。 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>独自仕様のLLM APIから推論の痕跡を盗む Stealing Reasoning Traces from Propri…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetiulho2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mstetiulho2c</guid>
+      <pubDate>Tue, 11 Aug 2026 19:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[独自仕様のLLM APIから推論の痕跡を盗む<br>Stealing Reasoning Traces from Proprietary LLM APIs<br><br>🔺 331<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[独自仕様のLLM APIから推論の痕跡を盗む<br>Stealing Reasoning Traces from Proprietary LLM APIs<br><br>🔺 331<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mstdwn3vz52h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mstdwn3vz52h</guid>
+      <pubDate>Tue, 11 Aug 2026 19:28:20 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📣 MAI-Code-1.1-Flash is now available in VS Code, featuring…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mstdezy2xk24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mstdezy2xk24</guid>
+      <pubDate>Tue, 11 Aug 2026 19:18:29 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📣 MAI-Code-1.1-Flash is now available in VS Code, featuring native vision support, improved coding quality, and 73% lower pricing. Give it a try!<br><br>github.blog/changelog/20...]]></description>
+      <content:encoded><![CDATA[📣 MAI-Code-1.1-Flash is now available in VS Code, featuring native vision support, improved coding quality, and 73% lower pricing. Give it a try!<br><br>github.blog/changelog/20...]]></content:encoded>
+    </item>
+    <item>
+      <title>try or implement skills via Claude Code, Claude.ai, or the A…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb2rqlo2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb2rqlo2y</guid>
+      <pubDate>Tue, 11 Aug 2026 19:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[try or implement skills via Claude Code, Claude.ai, or the API. (2/2)]]></description>
+      <content:encoded><![CDATA[try or implement skills via Claude Code, Claude.ai, or the API. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Concise summary: The repository hosts Claude s…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb27k2j27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb27k2j27</guid>
+      <pubDate>Tue, 11 Aug 2026 19:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Concise summary: The repository hosts Claude skills—self-contained folders with SKILL.md files that define instructions and metadata to teach Claude specialized tasks (creative, technical, enterprise, and document workflows). It includes usage guidance, licensing notes, and how to (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Concise summary: The repository hosts Claude skills—self-contained folders with SKILL.md files that define instructions and metadata to teach Claude specialized tasks (creative, technical, enterprise, and document workflows). It includes usage guidance, licensing notes, and how to (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 anthropics / skills…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdaxfj5w2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdaxfj5w2n</guid>
+      <pubDate>Tue, 11 Aug 2026 19:16:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></content:encoded>
+    </item>
     <item>
       <title>My hunch is this will be trivial to defeat: generate text, r…</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mstakhmwr22o</link>
@@ -357,110 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Needle 2は、45Mパラメータのオンデバイス用ツール呼び出し・デバイス操作・構造化抽出モデルで、14MBのバイナリと28MBのセッションRAMで実行。CQ2ビット圧縮と専用エンジンを組み合わせ、低RAM・低電力デバイス上で高い推論効率を実現し、スマートウォッチや家電など<$200デバイスでも動作可能と主張している。評価では同規模・同条件の競合モデルと比較してツール呼び出しの正確さを維持しつつ、オンデバイスでの低コスト動作を強調している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Needle 2は、45Mパラメータのオンデバイス用ツール呼び出し・デバイス操作・構造化抽出モデルで、14MBのバイナリと28MBのセッションRAMで実行。CQ2ビット圧縮と専用エンジンを組み合わせ、低RAM・低電力デバイス上で高い推論効率を実現し、スマートウォッチや家電など<$200デバイスでも動作可能と主張している。評価では同規模・同条件の競合モデルと比較してツール呼び出しの正確さを維持しつつ、オンデバイスでの低コスト動作を強調している。]]></content:encoded>
-    </item>
-    <item>
-      <title>Show HN: Needle2 — スマートフォン、ウェアラブル、スマートホーム、ロボット向けの14MBのエージェント…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mss4mahl7r2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mss4mahl7r2x</guid>
-      <pubDate>Tue, 11 Aug 2026 07:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Show HN: Needle2 — スマートフォン、ウェアラブル、スマートホーム、ロボット向けの14MBのエージェント型LLM<br>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots<br><br>🔺 300<br>💬 39<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Show HN: Needle2 — スマートフォン、ウェアラブル、スマートホーム、ロボット向けの14MBのエージェント型LLM<br>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots<br><br>🔺 300<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブロ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mss3p3nvhl2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mss3p3nvhl2e</guid>
-      <pubDate>Tue, 11 Aug 2026 07:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Hot take: Meta&apos;s new Muse Spark and Muse Code stuff is actua…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mss2evlwbr25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mss2evlwbr25</guid>
-      <pubDate>Tue, 11 Aug 2026 06:45:42 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Hot take: Meta's new Muse Spark and Muse Code stuff is actually pretty good, and Spark 1.2 going open weight is awesome <br><br>Video: https://twitter.com/theo/status/2087067918077182384]]></description>
-      <content:encoded><![CDATA[Hot take: Meta's new Muse Spark and Muse Code stuff is actually pretty good, and Spark 1.2 going open weight is awesome <br><br>Video: https://twitter.com/theo/status/2087067918077182384]]></content:encoded>
-    </item>
-    <item>
-      <title>施行は州 Attorney General の取り締まりの下で、違反に対する罰金は条文と矛盾するように見えるが最大7,5…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvvcrkj2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvvcrkj2d</guid>
-      <pubDate>Tue, 11 Aug 2026 05:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[施行は州 Attorney General の取り締まりの下で、違反に対する罰金は条文と矛盾するように見えるが最大7,500ドル（意図的違反での上限）と説明されています。 (2/2)]]></description>
-      <content:encoded><![CDATA[施行は州 Attorney General の取り締まりの下で、違反に対する罰金は条文と矛盾するように見えるが最大7,500ドル（意図的違反での上限）と説明されています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   HB5511（現在のPublic Act 104-0664）は、児童向けソーシャルメディアの…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvv7c7z2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvv7c7z2d</guid>
-      <pubDate>Tue, 11 Aug 2026 05:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>HB5511（現在のPublic Act 104-0664）は、児童向けソーシャルメディアの規制と同時に「オペレーティングシステム提供者」も新たに定義し、OSが年齢層を示す信号を2028年までに提供する仕組みを全OSメーカーやアプリストアに義務付ける法案です。ソーシャルメディア部分は未成年のデフォルトを時系列フィードへ、深夜の通知停止、成人者の連絡制限などを求め、OS関連は年齢宣言とAPI経由の信号提供、最小限のデータ共有に限定することを求めます。ただし、Open Sourceの例外は設けられておらず、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>HB5511（現在のPublic Act 104-0664）は、児童向けソーシャルメディアの規制と同時に「オペレーティングシステム提供者」も新たに定義し、OSが年齢層を示す信号を2028年までに提供する仕組みを全OSメーカーやアプリストアに義務付ける法案です。ソーシャルメディア部分は未成年のデフォルトを時系列フィードへ、深夜の通知停止、成人者の連絡制限などを求め、OS関連は年齢宣言とAPI経由の信号提供、最小限のデータ共有に限定することを求めます。ただし、Open Sourceの例外は設けられておらず、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>イリノイ州は、年齢認証の責任をLinuxに負わせる法案を可決した。 Illinois just passed a law…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvonjvb24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrvvonjvb24</guid>
-      <pubDate>Tue, 11 Aug 2026 05:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[イリノイ州は、年齢認証の責任をLinuxに負わせる法案を可決した。<br>Illinois just passed a law that puts Linux on the hook for age verification<br><br>🔺 310<br>💬 62<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[イリノイ州は、年齢認証の責任をLinuxに負わせる法案を可決した。<br>Illinois just passed a law that puts Linux on the hook for age verification<br><br>🔺 310<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I yap so much I broke the dashboard. They just fixed it :)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msrx2iclga2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msrx2iclga2y</guid>
-      <pubDate>Tue, 11 Aug 2026 05:27:44 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I yap so much I broke the dashboard. They just fixed it :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignzjxtrqqkp4llvpnnudy23ksuwim2ldfr3a4dyomiaaoyeo4obm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidisisviyj46grwtkhcwmt3agtsdtvt5m3vkbriynn3qlxjo5ze2e" alt="Quote Tweet: https://twitter.com/i/status/2086979562588553628" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I yap so much I broke the dashboard. They just fixed it :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignzjxtrqqkp4llvpnnudy23ksuwim2ldfr3a4dyomiaaoyeo4obm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidisisviyj46grwtkhcwmt3agtsdtvt5m3vkbriynn3qlxjo5ze2e" alt="Quote Tweet: https://twitter.com/i/status/2086979562588553628" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignzjxtrqqkp4llvpnnudy23ksuwim2ldfr3a4dyomiaaoyeo4obm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   英国を拠点とする複数のNGOとその米国代理組織が連携し、デジタルID法を通じて大人の匿名性を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrp6wdkkq2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrp6wdkkq2c</guid>
-      <pubDate>Tue, 11 Aug 2026 03:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>英国を拠点とする複数のNGOとその米国代理組織が連携し、デジタルID法を通じて大人の匿名性を奪う動きを米国で推進していると指摘する報告。5Rightsを中心に、英国の年齢適正設計コードを米国の法案に展開する動きが複数州と連邦議会で進行中で、ISDやReset Techなどの団体が政府機関との契約・ロビー活動を通じて影響を及ぼしているとされる。これらの活動は言論統制や検閲の正当化に資する可能性があるとして警鐘を鳴らしている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>英国を拠点とする複数のNGOとその米国代理組織が連携し、デジタルID法を通じて大人の匿名性を奪う動きを米国で推進していると指摘する報告。5Rightsを中心に、英国の年齢適正設計コードを米国の法案に展開する動きが複数州と連邦議会で進行中で、ISDやReset Techなどの団体が政府機関との契約・ロビー活動を通じて影響を及ぼしているとされる。これらの活動は言論統制や検閲の正当化に資する可能性があるとして警鐘を鳴らしている。]]></content:encoded>
-    </item>
-    <item>
-      <title>英国の匿名性への戦いがアメリカにも上陸した The UK&apos;s War on Anonymity Has Come to …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrp6pxn6a2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msrp6pxn6a2c</guid>
-      <pubDate>Tue, 11 Aug 2026 03:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[英国の匿名性への戦いがアメリカにも上陸した<br>The UK's War on Anonymity Has Come to America<br><br>🔺 353<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[英国の匿名性への戦いがアメリカにも上陸した<br>The UK's War on Anonymity Has Come to America<br><br>🔺 353<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表 - Qiita …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msrobpnlaa2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msrobpnlaa2h</guid>
-      <pubDate>Tue, 11 Aug 2026 03:28:09 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表 - Qiita<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表 - Qiita<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   1991年製のMars Barが見つかり、現在の40gと比べて62.5gと約20g大きかった…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msriin4l7m2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msriin4l7m2w</guid>
-      <pubDate>Tue, 11 Aug 2026 01:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>1991年製のMars Barが見つかり、現在の40gと比べて62.5gと約20g大きかったことが話題になっている。発見したVictoria Gordonは、清掃中に年代物の品を見つけ「手のひらくらいの大きさだった」と語り、SNSで拡散されている。メーカー側は過去35年間でサイズやパッケージの変更を行っていると説明している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>1991年製のMars Barが見つかり、現在の40gと比べて62.5gと約20g大きかったことが話題になっている。発見したVictoria Gordonは、清掃中に年代物の品を見つけ「手のひらくらいの大きさだった」と語り、SNSで拡散されている。メーカー側は過去35年間でサイズやパッケージの変更を行っていると説明している。]]></content:encoded>
     </item>
   </channel>
 </rss>
