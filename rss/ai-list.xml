@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:36:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.6-27B-Fable-Fusion-711-Unc…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxx3bgoc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxx3bgoc2o</guid>
+      <pubDate>Wed, 12 Aug 2026 10:59:09 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>多段階の微調整とマージにより、ARC-Cスコア700超えという高い知能を実現し、指示追従能力と問題解決能力の向上を図っています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF<br>コンシューマー向けハードウェアで動作する高性能なオープンソースモデルの提供を目的としています。<br>多段階の微調整とマージにより、ARC-Cスコア700超えという高い知能を実現し、指示追従能力と問題解決能力の向上を図っています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  LiquidAI/LFM2.5-2.6B LFM2.5-2.6Bはデバイス上での…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxwecj5s2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxwecj5s2g</guid>
+      <pubDate>Wed, 12 Aug 2026 10:58:45 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bはデバイス上での展開を目的に設計されたハイブリッドモデルです。<br>LFM2アーキテクチャを採用し、128Kのコンテキストウィンドウとエージェント向けのポストトレーニングを特徴としています。<br>汎用的なテキスト生成モデルであり、ファインチューニング用のベースモデルとエージェント業務向けモデルが提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-2.6B<br>LFM2.5-2.6Bはデバイス上での展開を目的に設計されたハイブリッドモデルです。<br>LFM2アーキテクチャを採用し、128Kのコンテキストウィンドウとエージェント向けのポストトレーニングを特徴としています。<br>汎用的なテキスト生成モデルであり、ファインチューニング用のベースモデルとエージェント業務向けモデルが提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  lightx2v/Minimax-h3-Turbo 画像から動画を生成するima…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxvuayng2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxvuayng2t</guid>
+      <pubDate>Wed, 12 Aug 2026 10:58:28 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>lightx2v/Minimax-h3-Turbo<br>画像から動画を生成するimage-to-videoモデルの提供を目的としています。<br>diffusersライブラリを利用しており、Minimax-H3-TurboやLightX2Vに関連しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>lightx2v/Minimax-h3-Turbo<br>画像から動画を生成するimage-to-videoモデルの提供を目的としています。<br>diffusersライブラリを利用しており、Minimax-H3-TurboやLightX2Vに関連しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxvfkvl22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxvfkvl22g</guid>
+      <pubDate>Wed, 12 Aug 2026 10:58:13 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提供ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提供ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Comfy-Org/MiniMax-H3 ComfyUIで利用するためにリパッケ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxuqbwns2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msuxuqbwns2h</guid>
+      <pubDate>Wed, 12 Aug 2026 10:57:50 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するためにリパッケージされたMiniMax H3のモデルファイルを提供することを目的としています。<br>拡散モデル、テキストエンコーダー、VAEなどの各種形式のファイルが含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/MiniMax-H3<br>ComfyUIで利用するためにリパッケージされたMiniMax H3のモデルファイルを提供することを目的としています。<br>拡散モデル、テキストエンコーダー、VAEなどの各種形式のファイルが含まれています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>📝 「一太郎」に圧倒されていた「ワード」、マイクロソフトはエクセル人気を武器に「抱き合わせ」でシェア獲得  🔖 15…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuw7xatqo2r</link>
@@ -432,51 +477,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[独自仕様のLLM APIから推論の痕跡を盗む<br>Stealing Reasoning Traces from Proprietary LLM APIs<br><br>🔺 331<br>💬 41<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[独自仕様のLLM APIから推論の痕跡を盗む<br>Stealing Reasoning Traces from Proprietary LLM APIs<br><br>🔺 331<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mstdwn3vz52h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mstdwn3vz52h</guid>
-      <pubDate>Tue, 11 Aug 2026 19:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 MAI-Code-1.1-Flash is now available in VS Code, featuring…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mstdezy2xk24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mstdezy2xk24</guid>
-      <pubDate>Tue, 11 Aug 2026 19:18:29 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📣 MAI-Code-1.1-Flash is now available in VS Code, featuring native vision support, improved coding quality, and 73% lower pricing. Give it a try!<br><br>github.blog/changelog/20...]]></description>
-      <content:encoded><![CDATA[📣 MAI-Code-1.1-Flash is now available in VS Code, featuring native vision support, improved coding quality, and 73% lower pricing. Give it a try!<br><br>github.blog/changelog/20...]]></content:encoded>
-    </item>
-    <item>
-      <title>try or implement skills via Claude Code, Claude.ai, or the A…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb2rqlo2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb2rqlo2y</guid>
-      <pubDate>Tue, 11 Aug 2026 19:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[try or implement skills via Claude Code, Claude.ai, or the API. (2/2)]]></description>
-      <content:encoded><![CDATA[try or implement skills via Claude Code, Claude.ai, or the API. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Concise summary: The repository hosts Claude s…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb27k2j27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdb27k2j27</guid>
-      <pubDate>Tue, 11 Aug 2026 19:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Concise summary: The repository hosts Claude skills—self-contained folders with SKILL.md files that define instructions and metadata to teach Claude specialized tasks (creative, technical, enterprise, and document workflows). It includes usage guidance, licensing notes, and how to (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Concise summary: The repository hosts Claude skills—self-contained folders with SKILL.md files that define instructions and metadata to teach Claude specialized tasks (creative, technical, enterprise, and document workflows). It includes usage guidance, licensing notes, and how to (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 anthropics / skills…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdaxfj5w2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mstdaxfj5w2n</guid>
-      <pubDate>Tue, 11 Aug 2026 19:16:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></content:encoded>
     </item>
   </channel>
 </rss>
