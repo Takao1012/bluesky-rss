@@ -5,8 +5,56 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:54:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   昨年末から今年にかけての不安定さは、SQLiteの奥深くに潜む稀なレース条件が原因の長期的な…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvvct5cbt2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvvct5cbt2l</guid>
+      <pubDate>Wed, 12 Aug 2026 19:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>昨年末から今年にかけての不安定さは、SQLiteの奥深くに潜む稀なレース条件が原因の長期的なデータベース不正で、約半年間に19件の障害を引き起こしていました。問題の根本原因はSQLiteのWALリセット時のデータ競合で、SQLite本体の修正（3.52.0など）と我々の運用改善を経て解決、現在は再発なく安定しています。今後に向けて、健康なバックアップ/リカバリ手順と監視を強化し、オープンソースへの貢献も拡大しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>昨年末から今年にかけての不安定さは、SQLiteの奥深くに潜む稀なレース条件が原因の長期的なデータベース不正で、約半年間に19件の障害を引き起こしていました。問題の根本原因はSQLiteのWALリセット時のデータ競合で、SQLite本体の修正（3.52.0など）と我々の運用改善を経て解決、現在は再発なく安定しています。今後に向けて、健康なバックアップ/リカバリ手順と監視を強化し、オープンソースへの貢献も拡大しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Tailscale、データベースの破損を16年前のSQLite WALリセットバグに起因すると特定した Tailscal…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvvclns7m2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvvclns7m2y</guid>
+      <pubDate>Wed, 12 Aug 2026 19:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Tailscale、データベースの破損を16年前のSQLite WALリセットバグに起因すると特定した<br>Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug<br><br>🔺 545<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Tailscale、データベースの破損を16年前のSQLite WALリセットバグに起因すると特定した<br>Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug<br><br>🔺 545<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Okay fine, AI definitely wasted a bunch of water here</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msvvmitn742v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msvvmitn742v</guid>
+      <pubDate>Wed, 12 Aug 2026 19:42:41 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Okay fine, AI definitely wasted a bunch of water here
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicewhcyzzo7mfo3j4f6rd7pmdjpnpvl7rbcgktm3toucx5t7oaxmi" alt="Quote Tweet: https://twitter.com/i/status/2087343329771991340" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Okay fine, AI definitely wasted a bunch of water here
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicewhcyzzo7mfo3j4f6rd7pmdjpnpvl7rbcgktm3toucx5t7oaxmi" alt="Quote Tweet: https://twitter.com/i/status/2087343329771991340" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicewhcyzzo7mfo3j4f6rd7pmdjpnpvl7rbcgktm3toucx5t7oaxmi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 ZuodaoTech / everyone-can-use-english ⭐ 35,935 (+53) 🗒 T…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msvtpvopso2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msvtpvopso2r</guid>
+      <pubDate>Wed, 12 Aug 2026 19:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 ZuodaoTech / everyone-can-use-english<br>⭐ 35,935 (+53)<br>🗒 TypeScript<br><br>人人都能用英语]]></description>
+      <content:encoded><![CDATA[📦 ZuodaoTech / everyone-can-use-english<br>⭐ 35,935 (+53)<br>🗒 TypeScript<br><br>人人都能用英语]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub case-folds every byte of code search at over 45 GiB/s…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3msvsjynzgy2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3msvsjynzgy2e</guid>
+      <pubDate>Wed, 12 Aug 2026 18:55:01 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[GitHub case-folds every byte of code search at over 45 GiB/s on one core. The biggest win came from removing an early-exit branch, not adding one.<br>https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/]]></description>
+      <content:encoded><![CDATA[GitHub case-folds every byte of code search at over 45 GiB/s on one core. The biggest win came from removing an early-exit branch, not adding one.<br>https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AI時代のソフトウェア開発は、判断力ある優秀なエンジニアが少数でものを回す一方、悪質な設計や…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvolzwswn2w</link>
@@ -420,54 +468,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 BM25を使用してCodexのトークンの消費を30%抑える<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 BM25を使用してCodexのトークンの消費を30%抑える<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？  🔖 155 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuc47r5go2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuc47r5go2b</guid>
-      <pubDate>Wed, 12 Aug 2026 04:28:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: - FTのデジタル購読には複数のプランが用意されており、個人向けと組織向けがある。料…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msu7nuu64o2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msu7nuu64o2w</guid>
-      <pubDate>Wed, 12 Aug 2026 03:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>- FTのデジタル購読には複数のプランが用意されており、個人向けと組織向けがある。料金は月額または年額一括払いで、特典内容は「Standard Digital」「Premium Digital」「FT Edit」など異なる。地域ごとに利用プランを確認でき、試用期間や解約条件も案内されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- FTのデジタル購読には複数のプランが用意されており、個人向けと組織向けがある。料金は月額または年額一括払いで、特典内容は「Standard Digital」「Premium Digital」「FT Edit」など異なる。地域ごとに利用プランを確認でき、試用期間や解約条件も案内されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAIの倫理部門のトップ、入社から1年未満で退任 OpenAI’s head of ethics leaves l…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msu7no5haz2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msu7no5haz2z</guid>
-      <pubDate>Wed, 12 Aug 2026 03:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[OpenAIの倫理部門のトップ、入社から1年未満で退任<br>OpenAI’s head of ethics leaves less than a year after joining<br><br>🔺 323<br>💬 59<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[OpenAIの倫理部門のトップ、入社から1年未満で退任<br>OpenAI’s head of ethics leaves less than a year after joining<br><br>🔺 323<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Tbh I think this one’s dumber</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msu75bvf3d2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msu75bvf3d2y</guid>
-      <pubDate>Wed, 12 Aug 2026 02:34:30 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Tbh I think this one’s dumber]]></description>
-      <content:encoded><![CDATA[Tbh I think this one’s dumber]]></content:encoded>
-    </item>
-    <item>
-      <title>This is the 2026 version of “make no mistakes”</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msu7527qfk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msu7527qfk2m</guid>
-      <pubDate>Wed, 12 Aug 2026 02:34:21 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This is the 2026 version of “make no mistakes”
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicde3mi5dfw7l6u3bplnqk3kyvjimhmscat7i46bj3fq7e2svwile" alt="Quote Tweet: https://twitter.com/i/status/2087228354399265125" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is the 2026 version of “make no mistakes”
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicde3mi5dfw7l6u3bplnqk3kyvjimhmscat7i46bj3fq7e2svwile" alt="Quote Tweet: https://twitter.com/i/status/2087228354399265125" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicde3mi5dfw7l6u3bplnqk3kyvjimhmscat7i46bj3fq7e2svwile" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
