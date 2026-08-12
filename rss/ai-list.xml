@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:47:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 「一太郎」に圧倒されていた「ワード」、マイクロソフトはエクセル人気を武器に「抱き合わせ」でシェア獲得  🔖 15…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuw7xatqo2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuw7xatqo2r</guid>
+      <pubDate>Wed, 12 Aug 2026 10:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「一太郎」に圧倒されていた「ワード」、マイクロソフトはエクセル人気を武器に「抱き合わせ」でシェア獲得<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「一太郎」に圧倒されていた「ワード」、マイクロソフトはエクセル人気を武器に「抱き合わせ」でシェア獲得<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Goは単なる言語ではなく、AI時代の大規模共同作業を前提としたエンドツーローンプラットフォー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msutrv3osd2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msutrv3osd2c</guid>
+      <pubDate>Wed, 12 Aug 2026 09:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Goは単なる言語ではなく、AI時代の大規模共同作業を前提としたエンドツーローンプラットフォームである。読みやすさと一貫性、堅牢な型安全性・セキュリティ機能、標準ツールチェーンによる統一性が、AIが生成するコードの検証・保守・拡張を円滑にし、長期運用可能性とセキュリティを確保する。結論として、AI時代にはGoの設計思想が最適な開発基盤となり得る。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Goは単なる言語ではなく、AI時代の大規模共同作業を前提としたエンドツーローンプラットフォームである。読みやすさと一貫性、堅牢な型安全性・セキュリティ機能、標準ツールチェーンによる統一性が、AIが生成するコードの検証・保守・拡張を円滑にし、長期運用可能性とセキュリティを確保する。結論として、AI時代にはGoの設計思想が最適な開発基盤となり得る。]]></content:encoded>
+    </item>
+    <item>
+      <title>GoはAIを活用したソフトウェア工学に最適な言語だ。 Go is an ideal language for AI-as…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msutrnvo6n2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msutrnvo6n2z</guid>
+      <pubDate>Wed, 12 Aug 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GoはAIを活用したソフトウェア工学に最適な言語だ。<br>Go is an ideal language for AI-assisted software engineering<br><br>🔺 381<br>💬 98<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GoはAIを活用したソフトウェア工学に最適な言語だ。<br>Go is an ideal language for AI-assisted software engineering<br><br>🔺 381<br>💬 98<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ  🔖 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msupj5qyco2p</link>
@@ -450,33 +477,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / skills<br>⭐ 167,813 (+468)<br>🗒 Python<br><br>Public repository for Agent Skills]]></content:encoded>
-    </item>
-    <item>
-      <title>My hunch is this will be trivial to defeat: generate text, r…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mstakhmwr22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mstakhmwr22o</guid>
-      <pubDate>Tue, 11 Aug 2026 18:27:50 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[My hunch is this will be trivial to defeat: generate text, run it through Anthropic's own AI detector tool, then modify words until that AI detector passes]]></description>
-      <content:encoded><![CDATA[My hunch is this will be trivial to defeat: generate text, run it through Anthropic's own AI detector tool, then modify words until that AI detector passes]]></content:encoded>
-    </item>
-    <item>
-      <title>manimgl and provides usage tips, dependencies, and contribut…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtl65j2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtl65j2s</guid>
-      <pubDate>Tue, 11 Aug 2026 18:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[manimgl and provides usage tips, dependencies, and contribution guidance. (2/2)]]></description>
-      <content:encoded><![CDATA[manimgl and provides usage tips, dependencies, and contribution guidance. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   ManimGL is a Python-based engine for creating …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtjxap2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst7vtjxap2n</guid>
-      <pubDate>Tue, 11 Aug 2026 18:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>ManimGL is a Python-based engine for creating precise programmatic mathematical animations (originating from 3Blue1Brown), with installation guides for multiple platforms and notes distinguishing it from the community edition. It emphasizes pip installation under the package name (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>ManimGL is a Python-based engine for creating precise programmatic mathematical animations (originating from 3Blue1Brown), with installation guides for multiple platforms and notes distinguishing it from the community edition. It emphasizes pip installation under the package name (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
