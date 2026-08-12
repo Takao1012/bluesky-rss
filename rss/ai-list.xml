@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 05:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:01:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   データ圧縮は、単なるデータ削減以上に、冗長性と確率モデルを活用して「最小ビット数で表現する」…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msugelnlf42j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msugelnlf42j</guid>
+      <pubDate>Wed, 12 Aug 2026 05:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>データ圧縮は、単なるデータ削減以上に、冗長性と確率モデルを活用して「最小ビット数で表現する」技術であり、 transforms、models、entropy coders の三要素で成り立つと解説しています。特にエントロピーコーダーとしての算術符号化やヒュフマン符号化、さらに文脈依存のモデルを組み合わせることで圧縮効率が劇的に向上する点を、LLMs（言語モデル）との深い関係として説明しています。要するに、言語予測とデータ圧縮は同じ情報理論の原理を共有しており、予測精度が圧縮効率を決定づける鍵だという主張です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>データ圧縮は、単なるデータ削減以上に、冗長性と確率モデルを活用して「最小ビット数で表現する」技術であり、 transforms、models、entropy coders の三要素で成り立つと解説しています。特にエントロピーコーダーとしての算術符号化やヒュフマン符号化、さらに文脈依存のモデルを組み合わせることで圧縮効率が劇的に向上する点を、LLMs（言語モデル）との深い関係として説明しています。要するに、言語予測とデータ圧縮は同じ情報理論の原理を共有しており、予測精度が圧縮効率を決定づける鍵だという主張です。]]></content:encoded>
+    </item>
+    <item>
+      <title>圧縮は予測である Compression is prediction  🔺 415 💬 56 🔗 HN Post …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msugeeqw6f2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msugeeqw6f2x</guid>
+      <pubDate>Wed, 12 Aug 2026 05:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[圧縮は予測である<br>Compression is prediction<br><br>🔺 415<br>💬 56<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[圧縮は予測である<br>Compression is prediction<br><br>🔺 415<br>💬 56<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 BM25を使用してCodexのトークンの消費を30%抑える  🔖 151 ブックマーク 💬 コメント 🔗 記…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msufhi4onb2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msufhi4onb2k</guid>
+      <pubDate>Wed, 12 Aug 2026 05:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 BM25を使用してCodexのトークンの消費を30%抑える<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 BM25を使用してCodexのトークンの消費を30%抑える<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📝 新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？  🔖 155 ブックマーク …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msuc47r5go2b</link>
@@ -450,33 +477,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>イングランドでは2015年以降、C型肝炎の診断と治療を受けた人が10万人超に達し、2030年目標に向けて大幅な進展を見せている。一方で2015年比のC型肝炎関連死亡の65%削減という目標はまだ達成されておらず、現在の推計では約50,200人が感染者で、診断率は84.6%と目標の90%にわずかに及ばない。保健当局は「世界をリードする eliminations の取り組み」として今後も検査・治療の普及を進める意向を示している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>イングランドでは2015年以降、C型肝炎の診断と治療を受けた人が10万人超に達し、2030年目標に向けて大幅な進展を見せている。一方で2015年比のC型肝炎関連死亡の65%削減という目標はまだ達成されておらず、現在の推計では約50,200人が感染者で、診断率は84.6%と目標の90%にわずかに及ばない。保健当局は「世界をリードする eliminations の取り組み」として今後も検査・治療の普及を進める意向を示している。]]></content:encoded>
-    </item>
-    <item>
-      <title>英国はC型肝炎を撲滅する最初の国の一つになる見込みだ。 England set to be one of the fir…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mst64zfavj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mst64zfavj2t</guid>
-      <pubDate>Tue, 11 Aug 2026 17:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[英国はC型肝炎を撲滅する最初の国の一つになる見込みだ。<br>England set to be one of the first countries to eliminate hepatitis C<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[英国はC型肝炎を撲滅する最初の国の一つになる見込みだ。<br>England set to be one of the first countries to eliminate hepatitis C<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 huggingface / transformers ⭐ 163,595 (+69) 🗒 Python  🤗 …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst4kcfvf627</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mst4kcfvf627</guid>
-      <pubDate>Tue, 11 Aug 2026 17:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 huggingface / transformers<br>⭐ 163,595 (+69)<br>🗒 Python<br><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.]]></description>
-      <content:encoded><![CDATA[📦 huggingface / transformers<br>⭐ 163,595 (+69)<br>🗒 Python<br><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.]]></content:encoded>
-    </item>
-    <item>
-      <title>CLI), a zero-trust import safety gate, EduHub/ClawHub skills…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssz7clott2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mssz7clott2s</guid>
-      <pubDate>Tue, 11 Aug 2026 16:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[CLI), a zero-trust import safety gate, EduHub/ClawHub skills, and a community-driven ecosystem for lifelong personalized tutoring. (2/2)]]></description>
-      <content:encoded><![CDATA[CLI), a zero-trust import safety gate, EduHub/ClawHub skills, and a community-driven ecosystem for lifelong personalized tutoring. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
