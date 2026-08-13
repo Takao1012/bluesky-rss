@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:59:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る  🔖 151 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msxgonnp622j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msxgonnp622j</guid>
+      <pubDate>Thu, 13 Aug 2026 10:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   このページは悪意のあるボットを防ぐためのセキュリティ検証を行っており、あなたがボットでないこ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxeafa7wn27</link>
@@ -462,18 +471,6 @@
       <author>Visual Studio Code (@vscode.dev)</author>
       <description><![CDATA[🌐 Local HTML previews now reload automatically when the file changes on disk.<br><br>Toggle auto-reload per tab or set it as the default.]]></description>
       <content:encoded><![CDATA[🌐 Local HTML previews now reload automatically when the file changes on disk.<br><br>Toggle auto-reload per tab or set it as the default.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔓 Experimental: Use Claude in the Agents window without sig…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng6s3n72z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng6s3n72z</guid>
-      <pubDate>Wed, 12 Aug 2026 17:23:25 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🔓 Experimental: Use Claude in the Agents window without signing in to GitHub.<br><br>Enable the setting to skip the sign-in prompt.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreieagwzzlr4xch4hmk5wifnnkucooe46rey7mixb3fvhq46sjikrsi" alt="Screenshot showing the Agents window opened while signed out of GitHub, with a notification that reads "We've discovered your existing Claude configuration" and a Sign in to GitHub button." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[🔓 Experimental: Use Claude in the Agents window without signing in to GitHub.<br><br>Enable the setting to skip the sign-in prompt.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreieagwzzlr4xch4hmk5wifnnkucooe46rey7mixb3fvhq46sjikrsi" alt="Screenshot showing the Agents window opened while signed out of GitHub, with a notification that reads "We've discovered your existing Claude configuration" and a Sign in to GitHub button." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreieagwzzlr4xch4hmk5wifnnkucooe46rey7mixb3fvhq46sjikrsi" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
