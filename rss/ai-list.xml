@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:50:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 03:19:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 infiniflow / ragflow ⭐ 87,371 (+85) 🗒 Go  RAGFlow is a l…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswok5jlz52g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswok5jlz52g</guid>
+      <pubDate>Thu, 13 Aug 2026 03:16:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 infiniflow / ragflow<br>⭐ 87,371 (+85)<br>🗒 Go<br><br>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs]]></description>
+      <content:encoded><![CDATA[📦 infiniflow / ragflow<br>⭐ 87,371 (+85)<br>🗒 Go<br><br>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita  🔖 190 ブック…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mswlugtpyh2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mswlugtpyh2j</guid>
+      <pubDate>Thu, 13 Aug 2026 02:28:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita<br><br>🔖 190 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita<br><br>🔖 190 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>reasoning_effortなどのパラメータ調整が案内されています。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjgcupap27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjgcupap27</guid>
+      <pubDate>Thu, 13 Aug 2026 01:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[reasoning_effortなどのパラメータ調整が案内されています。 (2/2)]]></description>
+      <content:encoded><![CDATA[reasoning_effortなどのパラメータ調整が案内されています。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Qwen3.8-Maxは、Qwen3.5出自の大型オープンモデルを強化した2.4T規模の因果…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjgcr4322l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjgcr4322l</guid>
+      <pubDate>Thu, 13 Aug 2026 01:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen3.8-Maxは、Qwen3.5出自の大型オープンモデルを強化した2.4T規模の因果言語モデルで、長い文脈(最大262,144トークン、拡張で1,010,000まで)と高度な推論・計画能力を備え、コード・専門作業・長期タスクにおいて高性能を発揮します。API経由の利用を推奨しており、推論効率はフレームワークによって異なるため、SGLang/vLLM/TokenSpeedなどの専用サービングエンジンの利用が推奨されています。チャットAPIではthinkingを組み込んだ推論付き出力がデフォルトで有効で、設定例としてtemperatureやtop_p、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen3.8-Maxは、Qwen3.5出自の大型オープンモデルを強化した2.4T規模の因果言語モデルで、長い文脈(最大262,144トークン、拡張で1,010,000まで)と高度な推論・計画能力を備え、コード・専門作業・長期タスクにおいて高性能を発揮します。API経由の利用を推奨しており、推論効率はフレームワークによって異なるため、SGLang/vLLM/TokenSpeedなどの専用サービングエンジンの利用が推奨されています。チャットAPIではthinkingを組み込んだ推論付き出力がデフォルトで有効で、設定例としてtemperatureやtop_p、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen3.8-2.4T Qwen3.8-2.4T  🔺 495 💬 20 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjfzungv2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswjfzungv2g</guid>
+      <pubDate>Thu, 13 Aug 2026 01:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen3.8-2.4T<br>Qwen3.8-2.4T<br><br>🔺 495<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen3.8-2.4T<br>Qwen3.8-2.4T<br><br>🔺 495<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>export, designed for tiny devices and zero-network inference…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtntzg42j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtntzg42j</guid>
+      <pubDate>Thu, 13 Aug 2026 01:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[export, designed for tiny devices and zero-network inference. (2/2)]]></description>
+      <content:encoded><![CDATA[export, designed for tiny devices and zero-network inference. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Needle 2 is a compact 45M-parameter tool-calli…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtnsnkt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtnsnkt24</guid>
+      <pubDate>Thu, 13 Aug 2026 01:16:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Needle 2 is a compact 45M-parameter tool-calling model delivered as a single 14MB engine that runs fully offline with a calibrated confidence head, structured tool calls, and a built-in retrieval and memory system; it includes a Python package for inference, LoRA fine-tuning, and (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Needle 2 is a compact 45M-parameter tool-calling model delivered as a single 14MB engine that runs fully offline with a calibrated confidence head, structured tool calls, and a built-in retrieval and memory system; it includes a Python package for inference, LoRA fine-tuning, and (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 cactus-compute / ne…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtlfnm42j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mswhtlfnm42j</guid>
+      <pubDate>Thu, 13 Aug 2026 01:16:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cactus-compute / needle<br>⭐ 3,871 (+248)<br>🗒 Python<br><br>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cactus-compute / needle<br>⭐ 3,871 (+248)<br>🗒 Python<br><br>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.]]></content:encoded>
+    </item>
     <item>
       <title>私的カメラを含むすべての監視映像の歴史的検索にも一律のワ warrant基準を適用すべきだとも提案している。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mswcplu5bf24</link>
@@ -405,78 +477,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>この記事は「CringeBot 3000」というAIツールの紹介で、最新トレンドを分析して LinkedIn向けの“思考リーダー的投稿”を自動作成する機能を謳っている。出力は1時間あたり最大6,000件までと制限があり、さまざまな“Cringe Style”を選んでテーマを投稿として生成できる。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>この記事は「CringeBot 3000」というAIツールの紹介で、最新トレンドを分析して LinkedIn向けの“思考リーダー的投稿”を自動作成する機能を謳っている。出力は1時間あたり最大6,000件までと制限があり、さまざまな“Cringe Style”を選んでテーマを投稿として生成できる。]]></content:encoded>
-    </item>
-    <item>
-      <title>リンクトイン クリンジボット3000 LinkedIn CringeBot 3000  🔺 383 💬 68 🔗 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvb6tkk3w2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvb6tkk3w2t</guid>
-      <pubDate>Wed, 12 Aug 2026 13:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[リンクトイン クリンジボット3000<br>LinkedIn CringeBot 3000<br><br>🔺 383<br>💬 68<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[リンクトイン クリンジボット3000<br>LinkedIn CringeBot 3000<br><br>🔺 383<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 smicallef / spiderfoot ⭐ 20,217 (+40) 🗒 Python  SpiderFo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv7mc65jf2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv7mc65jf2u</guid>
-      <pubDate>Wed, 12 Aug 2026 13:16:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 smicallef / spiderfoot<br>⭐ 20,217 (+40)<br>🗒 Python<br><br>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.]]></description>
-      <content:encoded><![CDATA[📦 smicallef / spiderfoot<br>⭐ 20,217 (+40)<br>🗒 Python<br><br>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治  🔖 160 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msv4wk2v4426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msv4wk2v4426</guid>
-      <pubDate>Wed, 12 Aug 2026 12:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>offers multiple pre-trained models, a live demo, batch predi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4bbppyv2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4bbppyv2s</guid>
-      <pubDate>Wed, 12 Aug 2026 12:16:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[offers multiple pre-trained models, a live demo, batch prediction capabilities, and a finetuning pipeline leveraging Qlib, with emphasis on handling high-noise market data. (2/2)]]></description>
-      <content:encoded><![CDATA[offers multiple pre-trained models, a live demo, batch prediction capabilities, and a finetuning pipeline leveraging Qlib, with emphasis on handling high-noise market data. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Kronos is the first open-source foundation mod…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4bbogdj2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4bbogdj2l</guid>
-      <pubDate>Wed, 12 Aug 2026 12:16:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Kronos is the first open-source foundation model tailored for the language of financial markets (K-line data), using a two-stage approach that tokenizes OHLCV sequences into discrete tokens and trains a decoder-only Transformer for versatile forecasting and quantitative tasks. It (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Kronos is the first open-source foundation model tailored for the language of financial markets (K-line data), using a two-stage approach that tokenizes OHLCV sequences into discrete tokens and trains a decoder-only Transformer for versatile forecasting and quantitative tasks. It (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 shiyu-coder / Krono…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4b4olk22u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msv4b4olk22u</guid>
-      <pubDate>Wed, 12 Aug 2026 12:16:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 shiyu-coder / Kronos<br>⭐ 36,821 (+238)<br>🗒 Python<br><br>Kronos: A Foundation Model for the Language of Financial Markets]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 shiyu-coder / Kronos<br>⭐ 36,821 (+238)<br>🗒 Python<br><br>Kronos: A Foundation Model for the Language of Financial Markets]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  shiyu-coder/Kronos Kronosは、世界45以上の取引所データを用いて学…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msv2lgb3ga2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msv2lgb3ga2g</guid>
-      <pubDate>Wed, 12 Aug 2026 11:46:19 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>shiyu-coder/Kronos<br>Kronosは、世界45以上の取引所データを用いて学習した、金融ローソク足（K線）向けの初のオープンソース基盤モデルです。<br>OHLCVデータを階層的な離散トークンに量子化し、自己回帰型Transformerで事前学習させることで、ノイズの多い金融データへの対応を実現しています。<br>多様な計量分析タスクに活用できる統一モデルを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>shiyu-coder/Kronos<br>Kronosは、世界45以上の取引所データを用いて学習した、金融ローソク足（K線）向けの初のオープンソース基盤モデルです。<br>OHLCVデータを階層的な離散トークンに量子化し、自己回帰型Transformerで事前学習させることで、ノイズの多い金融データへの対応を実現しています。<br>多様な計量分析タスクに活用できる統一モデルを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  stablyai/orca Orcaは、複数のAIエージェントを同時に実行・管理するための…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msv2kuobos2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3msv2kuobos2m</guid>
-      <pubDate>Wed, 12 Aug 2026 11:46:01 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを同時に実行・管理するためのAIオーケストレーターです。<br>個別のGitワークツリーでエージェントを並列動作させ、結果を比較して統合することが可能です。<br>モバイル連携、ターミナル分割、GitHubやLinearとの連携、SSHリモート実行などの機能を備え、開発者の生産性を向上させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを同時に実行・管理するためのAIオーケストレーターです。<br>個別のGitワークツリーでエージェントを並列動作させ、結果を比較して統合することが可能です。<br>モバイル連携、ターミナル分割、GitHubやLinearとの連携、SSHリモート実行などの機能を備え、開発者の生産性を向上させることを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
