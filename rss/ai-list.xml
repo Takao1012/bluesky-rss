@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:44:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Forgot that posting employment-related things at midnight re…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msxkfzzskj24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msxkfzzskj24</guid>
+      <pubDate>Thu, 13 Aug 2026 11:32:24 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Forgot that posting employment-related things at midnight results in the most unemployed people in the world replying the stupidest shit possible]]></description>
+      <content:encoded><![CDATA[Forgot that posting employment-related things at midnight results in the most unemployed people in the world replying the stupidest shit possible]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  larryvrh/MiniMax-H3-Turbo-Lora MiniMax-H…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxirwa52o22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxirwa52o22</guid>
+      <pubDate>Thu, 13 Aug 2026 11:05:49 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3向けのLoRAで、ビデオと同期したステレオオーディオを少ないサンプリングステップで生成することを目的としています。<br>通常は約20ステップ必要ですが、これを4から8ステップに短縮し、生成速度を約5倍に高速化します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>larryvrh/MiniMax-H3-Turbo-Lora<br>MiniMax-H3向けのLoRAで、ビデオと同期したステレオオーディオを少ないサンプリングステップで生成することを目的としています。<br>通常は約20ステップ必要ですが、これを4から8ステップに短縮し、生成速度を約5倍に高速化します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msximjnldi2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msximjnldi2s</guid>
+      <pubDate>Thu, 13 Aug 2026 11:02:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを目的としたリポジトリです。<br>プレビュー版からエージェント能力を大幅に強化し、投機的デコーディングモジュールを搭載しています。<br>少ない活性化パラメータ数でありながら、多くのベンチマークで高い性能を示し、商用モデルに匹敵する能力を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731の公式リリースを目的としたリポジトリです。<br>プレビュー版からエージェント能力を大幅に強化し、投機的デコーディングモジュールを搭載しています。<br>少ない活性化パラメータ数でありながら、多くのベンチマークで高い性能を示し、商用モデルに匹敵する能力を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-2.4T-A95B Qwen3.8-2.4T-A95B…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxijgn2rm2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxijgn2rm2a</guid>
+      <pubDate>Thu, 13 Aug 2026 11:01:04 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-2.4T-A95B<br>Qwen3.8-2.4T-A95Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>Hugging Face Transformers形式で公開されており、vLLMやSGLangなどの推論エンジンに対応しています。<br>コーディング、専門業務、研究、複雑なマルチステップタスクにおける性能を向上させた、Qwen-Maxクラスのオープンモデルの配布を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-2.4T-A95B<br>Qwen3.8-2.4T-A95Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>Hugging Face Transformers形式で公開されており、vLLMやSGLangなどの推論エンジンに対応しています。<br>コーディング、専門業務、研究、複雑なマルチステップタスクにおける性能を向上させた、Qwen-Maxクラスのオープンモデルの配布を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxiiwtpuu2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxiiwtpuu2a</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:48 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、最大2K解像度で最大15秒のステレオ音声付きビデオを生成する汎用オムニモーダル生成システムです。<br>複雑なマルチモーダル指示への高い追従性を持ち、テキストのみ、または画像を用いたビデオ生成が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、最大2K解像度で最大15秒のステレオ音声付きビデオを生成する汎用オムニモーダル生成システムです。<br>複雑なマルチモーダル指示への高い追従性を持ち、テキストのみ、または画像を用いたビデオ生成が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  meta-models/Muse-Glimmer-30B コンシューマー向けハー…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxihjf5xm2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3msxihjf5xm2x</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>コンシューマー向けハードウェアで動作する自律型エージェント用モデルMuse Glimmerの公開を目的としています。<br>マルチステップ推論、ツール利用、マルチモーダル理解、エラー回復機能を統合しており、クラウドやネットワークを介さずローカル環境で動作する300億パラメータのモデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>コンシューマー向けハードウェアで動作する自律型エージェント用モデルMuse Glimmerの公開を目的としています。<br>マルチステップ推論、ツール利用、マルチモーダル理解、エラー回復機能を統合しており、クラウドやネットワークを介さずローカル環境で動作する300億パラメータのモデルです。<br>]]></content:encoded>
+    </item>
     <item>
       <title>📝 Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る  🔖 151 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msxgonnp622j</link>
@@ -417,60 +471,6 @@
       <author>GitHub (@github.com)</author>
       <description><![CDATA[GitHub case-folds every byte of code search at over 45 GiB/s on one core. The biggest win came from removing an early-exit branch, not adding one.<br>https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/]]></description>
       <content:encoded><![CDATA[GitHub case-folds every byte of code search at over 45 GiB/s on one core. The biggest win came from removing an early-exit branch, not adding one.<br>https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AI時代のソフトウェア開発は、判断力ある優秀なエンジニアが少数でものを回す一方、悪質な設計や…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvolzwswn2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvolzwswn2w</guid>
-      <pubDate>Wed, 12 Aug 2026 17:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AI時代のソフトウェア開発は、判断力ある優秀なエンジニアが少数でものを回す一方、悪質な設計や過度な自動化が増幅される危険性が高い。過剰なAI依存は複雑性と理解不能性を拡大し、最終的には「データの出所が不明」な状態を招くため、人間の設計判断とコード品質の重要性が再認識されるべきだという主張を述べている。結局のところ、良いエンジニアが価値を持ち続け、判断力のない行動は高コスト化して排除される時代になる、という展望である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AI時代のソフトウェア開発は、判断力ある優秀なエンジニアが少数でものを回す一方、悪質な設計や過度な自動化が増幅される危険性が高い。過剰なAI依存は複雑性と理解不能性を拡大し、最終的には「データの出所が不明」な状態を招くため、人間の設計判断とコード品質の重要性が再認識されるべきだという主張を述べている。結局のところ、良いエンジニアが価値を持ち続け、判断力のない行動は高コスト化して排除される時代になる、という展望である。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIはソフトウェアエンジニアリングの中堅層を排除している。 AI is removing the middle clas…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvoltc7is2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msvoltc7is2u</guid>
-      <pubDate>Wed, 12 Aug 2026 17:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIはソフトウェアエンジニアリングの中堅層を排除している。<br>AI is removing the middle class of software engineering<br><br>🔺 409<br>💬 59<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIはソフトウェアエンジニアリングの中堅層を排除している。<br>AI is removing the middle class of software engineering<br><br>🔺 409<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk&apos;s log はてな別館  🔖 154 ブッ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msvnoy4tsr2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msvnoy4tsr2b</guid>
-      <pubDate>Wed, 12 Aug 2026 17:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk's log はてな別館<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk's log はてな別館<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔎 Explore everything that&apos;s new in the full release notes: …</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnhtooq722</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnhtooq722</guid>
-      <pubDate>Wed, 12 Aug 2026 17:24:20 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/133<br><br>Happy coding! 💙]]></description>
-      <content:encoded><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/133<br><br>Happy coding! 💙]]></content:encoded>
-    </item>
-    <item>
-      <title>📌 Don&apos;t lose track of which prompt a chat response belongs …</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnht57cx2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnht57cx2v</guid>
-      <pubDate>Wed, 12 Aug 2026 17:24:19 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📌 Don't lose track of which prompt a chat response belongs to with sticky scroll.<br><br>The current prompt stays pinned at the top as you scroll, making it clear which response it belongs to.]]></description>
-      <content:encoded><![CDATA[📌 Don't lose track of which prompt a chat response belongs to with sticky scroll.<br><br>The current prompt stays pinned at the top as you scroll, making it clear which response it belongs to.]]></content:encoded>
-    </item>
-    <item>
-      <title>🌐 Local HTML previews now reload automatically when the fil…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnhhezwl23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvnhhezwl23</guid>
-      <pubDate>Wed, 12 Aug 2026 17:24:07 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🌐 Local HTML previews now reload automatically when the file changes on disk.<br><br>Toggle auto-reload per tab or set it as the default.]]></description>
-      <content:encoded><![CDATA[🌐 Local HTML previews now reload automatically when the file changes on disk.<br><br>Toggle auto-reload per tab or set it as the default.]]></content:encoded>
     </item>
   </channel>
 </rss>

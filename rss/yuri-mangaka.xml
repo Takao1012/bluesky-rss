@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:44:16 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>久しぶりにはっきりとラテさんの夢見た。夢の中でも、このラテさんは幻みたいなものってわかっていて、消える前に触りたい、撫で…</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3msxj2mwsdc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3msxj2mwsdc2k</guid>
+      <pubDate>Thu, 13 Aug 2026 11:10:41 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[久しぶりにはっきりとラテさんの夢見た。夢の中でも、このラテさんは幻みたいなものってわかっていて、消える前に触りたい、撫でなきゃ！って思って急いで撫でた。]]></description>
+      <content:encoded><![CDATA[久しぶりにはっきりとラテさんの夢見た。夢の中でも、このラテさんは幻みたいなものってわかっていて、消える前に触りたい、撫でなきゃ！って思って急いで撫でた。]]></content:encoded>
+    </item>
     <item>
       <title>前回かみのけ、草くらい真緑にしたらぜんぜん色落ちしてくれなくて、ずっとうっすら髪の毛が苔緑</title>
       <link>https://bsky.app/profile/did:plc:mteuj6cflo3pgwkxtti7tfoy/post/3msxi4p6qzk2m</link>
@@ -471,18 +480,6 @@
       <content:encoded><![CDATA[の後に追加ポテチ
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiherc2eskt2ap2nhjcknztuzigbpwbh4ing62pcidniwqxkdwswwu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiherc2eskt2ap2nhjcknztuzigbpwbh4ing62pcidniwqxkdwswwu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>健康的な夜ごはん</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msuzy6ngkc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3msuzy6ngkc23</guid>
-      <pubDate>Wed, 12 Aug 2026 11:35:34 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[健康的な夜ごはん
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifnw2gfpnoenrf4e3pefmgnwxfoei3qum3xd7eqg7du4q27ae2cmq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[健康的な夜ごはん
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifnw2gfpnoenrf4e3pefmgnwxfoei3qum3xd7eqg7du4q27ae2cmq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreifnw2gfpnoenrf4e3pefmgnwxfoei3qum3xd7eqg7du4q27ae2cmq" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
