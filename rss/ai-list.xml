@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:59:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   このページは悪意のあるボットを防ぐためのセキュリティ検証を行っており、あなたがボットでないこ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxeafa7wn27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxeafa7wn27</guid>
+      <pubDate>Thu, 13 Aug 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>このページは悪意のあるボットを防ぐためのセキュリティ検証を行っており、あなたがボットでないことを確認している最中に表示されます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>このページは悪意のあるボットを防ぐためのセキュリティ検証を行っており、あなたがボットでないことを確認している最中に表示されます。]]></content:encoded>
+    </item>
+    <item>
+      <title>uBlock OriginはFacebook上の広告を排除する戦いを諦めている uBlock Origin Is Giv…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxeaatxo72b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxeaatxo72b</guid>
+      <pubDate>Thu, 13 Aug 2026 09:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[uBlock OriginはFacebook上の広告を排除する戦いを諦めている<br>uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook<br><br>🔺 498<br>💬 120<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[uBlock OriginはFacebook上の広告を排除する戦いを諦めている<br>uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook<br><br>🔺 498<br>💬 120<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Deltaは、エージェントと共にコードを作成・検討するためのマルチプレイヤー環境で、Delt…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msx5jx5z4h27</link>
@@ -456,30 +474,6 @@
       <content:encoded><![CDATA[🔓 Experimental: Use Claude in the Agents window without signing in to GitHub.<br><br>Enable the setting to skip the sign-in prompt.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreieagwzzlr4xch4hmk5wifnnkucooe46rey7mixb3fvhq46sjikrsi" alt="Screenshot showing the Agents window opened while signed out of GitHub, with a notification that reads "We've discovered your existing Claude configuration" and a Sign in to GitHub button." style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreieagwzzlr4xch4hmk5wifnnkucooe46rey7mixb3fvhq46sjikrsi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🤖 Switch between Claude BYOK and Copilot models from one tu…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng5ekmy2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng5ekmy2s</guid>
-      <pubDate>Wed, 12 Aug 2026 17:23:23 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🤖 Switch between Claude BYOK and Copilot models from one turn to the next in the same Claude session.<br><br>The model picker lets you choose the model for your next turn from both providers.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreib2qey4qlppjhpbjhsjqo4mvfncywjs2335fgllpjfzzotplf7kg4" alt="Screenshot showing the model picker in a Claude session, with models grouped under an Anthropic heading and a Copilot heading" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[🤖 Switch between Claude BYOK and Copilot models from one turn to the next in the same Claude session.<br><br>The model picker lets you choose the model for your next turn from both providers.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreib2qey4qlppjhpbjhsjqo4mvfncywjs2335fgllpjfzzotplf7kg4" alt="Screenshot showing the model picker in a Claude session, with models grouped under an Anthropic heading and a Copilot heading" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreib2qey4qlppjhpbjhsjqo4mvfncywjs2335fgllpjfzzotplf7kg4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🚀 The latest VS Code release brings more flexibility to Cla…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng426c52b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msvng426c52b</guid>
-      <pubDate>Wed, 12 Aug 2026 17:23:22 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🚀 The latest VS Code release brings more flexibility to Claude sessions and auto-reload for local HTML previews.<br><br>🧵 Here's what's new:
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifx2j46ijjjwmlnrh4zfcsltrgulpmqaugijuwxpapw6jvp7uj6f4" alt="Visual Studio Code release announcement graphic featuring the blue VS Code logo centered on a dark, textured background. Below the logo, large white text reads “VS Code v1.133,” with smaller text underneath that says “New release.” The design uses a minimalist, high-contrast layout with Microsoft branding colors." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[🚀 The latest VS Code release brings more flexibility to Claude sessions and auto-reload for local HTML previews.<br><br>🧵 Here's what's new:
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifx2j46ijjjwmlnrh4zfcsltrgulpmqaugijuwxpapw6jvp7uj6f4" alt="Visual Studio Code release announcement graphic featuring the blue VS Code logo centered on a dark, textured background. Below the logo, large white text reads “VS Code v1.133,” with smaller text underneath that says “New release.” The design uses a minimalist, high-contrast layout with Microsoft branding colors." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifx2j46ijjjwmlnrh4zfcsltrgulpmqaugijuwxpapw6jvp7uj6f4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
