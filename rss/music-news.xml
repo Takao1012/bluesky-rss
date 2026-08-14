@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:18:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The scrappy, melodic Ohio indie rockers Smug Brothers will s…</title>
+      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt2w7d33ss2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt2w7d33ss2j</guid>
+      <pubDate>Fri, 14 Aug 2026 19:43:57 GMT</pubDate>
+      <author>Stereogum (@stereogum.com)</author>
+      <description><![CDATA[The scrappy, melodic Ohio indie rockers Smug Brothers will soon release new album 'Pinhole To Vortex'; check out lead single "Extra All The Time" and its non-album B-side "Bingo Diagram"]]></description>
+      <content:encoded><![CDATA[The scrappy, melodic Ohio indie rockers Smug Brothers will soon release new album 'Pinhole To Vortex'; check out lead single "Extra All The Time" and its non-album B-side "Bingo Diagram"]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://bsky.app/profile/did:plc:p7j43z7ddksswtmobrbafrnt/post/3mt2vupxx4zf2</link>
@@ -533,15 +542,6 @@
       <content:encoded><![CDATA[File this under things that don’t surprise us in the least: Secretary of State Marco Rubio has rather batshit taste in music.<br><br>Read: www.rollingstone.com/music/music-...
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vf32tdeunh3ra6nvclxhmeuo/bafkreifrcby2wvdleuzicohb654h63o7dumgpdesyq3aqoed3rq4wf6tma" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vf32tdeunh3ra6nvclxhmeuo/bafkreifrcby2wvdleuzicohb654h63o7dumgpdesyq3aqoed3rq4wf6tma" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I thought they were gonna say Noah Kahan concert  stereogum.…</title>
-      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt2iroiprk2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt2iroiprk2s</guid>
-      <pubDate>Fri, 14 Aug 2026 15:43:40 GMT</pubDate>
-      <author>Stereogum (@stereogum.com)</author>
-      <description><![CDATA[I thought they were gonna say Noah Kahan concert<br><br>stereogum.com/2508138/man-...]]></description>
-      <content:encoded><![CDATA[I thought they were gonna say Noah Kahan concert<br><br>stereogum.com/2508138/man-...]]></content:encoded>
     </item>
   </channel>
 </rss>
