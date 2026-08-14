@@ -5,8 +5,31 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:12:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>It did take nearly 21 minutes to generate, and used 22,276 r…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynr2gks2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynr2gks2z</guid>
+      <pubDate>Fri, 14 Aug 2026 20:27:49 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[It did take nearly 21 minutes to generate, and used 22,276 reasoning tokens to produce 3,223 tokens of output. Here's the full transcript: tools.simonwillison.net/markdown-svg...]]></description>
+      <content:encoded><![CDATA[It did take nearly 21 minutes to generate, and used 22,276 reasoning tokens to produce 3,223 tokens of output. Here's the full transcript: tools.simonwillison.net/markdown-svg...]]></content:encoded>
+    </item>
+    <item>
+      <title>The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynhrlk22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynhrlk22z</guid>
+      <pubDate>Fri, 14 Aug 2026 20:27:39 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on my M5 Max MacBook Pro, just drew me the best pelican riding a bicycle I've seen from any model that runs on my laptop
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" alt="The pelican has the right shaped beak. The red bicycle has the correct shape of frame. The pelican's wing reaches the handlebars. It has legs on both side of the bicycle. There is a pleasing set of clouds, birds, sun, grass and shadow on the image, plus motion lines behind but not in front of the bird.
+" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on my M5 Max MacBook Pro, just drew me the best pelican riding a bicycle I've seen from any model that runs on my laptop
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" alt="The pelican has the right shaped beak. The red bicycle has the correct shape of frame. The pelican's wing reaches the handlebars. It has legs on both side of the bicycle. There is a pleasing set of clouds, birds, sun, grass and shadow on the image, plus motion lines behind but not in front of the bird.
+" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   Opus 5は機能的にはOpus 4.7/4.8やFableより上だが、使い勝手は劣り、曖昧…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2wa6fofk2o</link>
@@ -441,27 +464,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I’m not gonna lie, I wanted this since Windows Recall/Rewind/whatever was announced. It got panned so hard that I kept my mouth shut.<br><br>Enough time has passed that I’m gonna say fuck it and try this]]></description>
       <content:encoded><![CDATA[I’m not gonna lie, I wanted this since Windows Recall/Rewind/whatever was announced. It got panned so hard that I kept my mouth shut.<br><br>Enough time has passed that I’m gonna say fuck it and try this]]></content:encoded>
-    </item>
-    <item>
-      <title>I’m so deep in my AI psychosis that I think this sounds grea…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvz5x2z32v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvz5x2z32v</guid>
-      <pubDate>Fri, 14 Aug 2026 00:27:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I’m so deep in my AI psychosis that I think this sounds great
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy2c7j33a32wwu3eo2uo5zavpufk2xi2prnbgjovmpkkiusbajwm" alt="Quote Tweet: https://twitter.com/i/status/2087996496088297746" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I’m so deep in my AI psychosis that I think this sounds great
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy2c7j33a32wwu3eo2uo5zavpufk2xi2prnbgjovmpkkiusbajwm" alt="Quote Tweet: https://twitter.com/i/status/2087996496088297746" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy2c7j33a32wwu3eo2uo5zavpufk2xi2prnbgjovmpkkiusbajwm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Gotta say that Matt&apos;s &quot;grill-me&quot; skill is exceptional and he…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvyrvzpt2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvyrvzpt2v</guid>
-      <pubDate>Fri, 14 Aug 2026 00:16:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Gotta say that Matt's "grill-me" skill is exceptional and helps a ton with getting agents aligned with my brain]]></description>
-      <content:encoded><![CDATA[Gotta say that Matt's "grill-me" skill is exceptional and helps a ton with getting agents aligned with my brain]]></content:encoded>
     </item>
   </channel>
 </rss>
