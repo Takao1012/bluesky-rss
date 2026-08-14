@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 16:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:41:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>executable specifications, multi-agent integrations, and ent…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxr33sg2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxr33sg2j</guid>
+      <pubDate>Fri, 14 Aug 2026 17:16:33 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[executable specifications, multi-agent integrations, and enterprise-ready customization. (2/2)]]></description>
+      <content:encoded><![CDATA[executable specifications, multi-agent integrations, and enterprise-ready customization. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Spec Kit is an open source, spec-driven develo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxqzjbn2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxqzjbn2f</guid>
+      <pubDate>Fri, 14 Aug 2026 17:16:33 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Spec Kit is an open source, spec-driven development toolkit that lets you define and execute software specifications with any AI coding agent, offering extensible extensions, presets, bundles, and a structured CLI workflow to plan, implement, and validate software. It emphasizes (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Spec Kit is an open source, spec-driven development toolkit that lets you define and execute software specifications with any AI coding agent, offering extensible extensions, presets, bundles, and a structured CLI workflow to plan, implement, and validate software. It emphasizes (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 github / spec-kit ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxnyw5m2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2nxnyw5m2k</guid>
+      <pubDate>Fri, 14 Aug 2026 17:16:30 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 github / spec-kit<br>⭐ 127,973 (+1,147)<br>🗒 Python<br><br>💫 Toolkit to help you get started with Spec-Driven Development]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 github / spec-kit<br>⭐ 127,973 (+1,147)<br>🗒 Python<br><br>💫 Toolkit to help you get started with Spec-Driven Development]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   エージェントが書くコードを理解することは、検証だけでなく創造的な参加を可能にする重要な能力だ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2itlraqt27</link>
@@ -438,33 +465,6 @@
       <author>GitHub (@github.com)</author>
       <description><![CDATA[In Session 4 of the GitHub Secure Open Source Fund, 50 projects upgraded their security posture through AI-assisted workflows, maintainer expertise, GitHub security tools, and more.<br><br>As AI changes how software is built, maintainers remain at the center of protecting the open source ecosystem. 👇]]></description>
       <content:encoded><![CDATA[In Session 4 of the GitHub Secure Open Source Fund, 50 projects upgraded their security posture through AI-assisted workflows, maintainer expertise, GitHub security tools, and more.<br><br>As AI changes how software is built, maintainers remain at the center of protecting the open source ecosystem. 👇]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Google Gemini 3.7 Flashは、3.6 Flashと比べてデバッグ・問題解…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msymhx45fy27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msymhx45fy27</guid>
-      <pubDate>Thu, 13 Aug 2026 21:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Google Gemini 3.7 Flashは、3.6 Flashと比べてデバッグ・問題解決などのコーディング作業やウェブ開発、知識ワークで大幅な性能向上を実現しつつ、初期価格を3.6 Flashの半額で提供します。特に生産準備コードの生成精度が向上し、設計一貫性や多段階計画の実行性が強化されています。Sparkなど既存サービスにも適用され、セーフガードを強化した上で広く展開予定です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Google Gemini 3.7 Flashは、3.6 Flashと比べてデバッグ・問題解決などのコーディング作業やウェブ開発、知識ワークで大幅な性能向上を実現しつつ、初期価格を3.6 Flashの半額で提供します。特に生産準備コードの生成精度が向上し、設計一貫性や多段階計画の実行性が強化されています。Sparkなど既存サービスにも適用され、セーフガードを強化した上で広く展開予定です。]]></content:encoded>
-    </item>
-    <item>
-      <title>ジェミニ 3.7 フラッシュ Gemini 3.7 Flash  🔺 474 💬 66 🔗 HN Post | A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msymhqa2a62c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msymhqa2a62c</guid>
-      <pubDate>Thu, 13 Aug 2026 21:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ジェミニ 3.7 フラッシュ<br>Gemini 3.7 Flash<br><br>🔺 474<br>💬 66<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ジェミニ 3.7 フラッシュ<br>Gemini 3.7 Flash<br><br>🔺 474<br>💬 66<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>It is insane how much happier I am now that I’ve moved most …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msymr64ct22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msymr64ct22v</guid>
-      <pubDate>Thu, 13 Aug 2026 21:32:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[It is insane how much happier I am now that I’ve moved most of my dev work to Linux]]></description>
-      <content:encoded><![CDATA[It is insane how much happier I am now that I’ve moved most of my dev work to Linux]]></content:encoded>
     </item>
   </channel>
 </rss>
