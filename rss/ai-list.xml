@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:37:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   エージェントが書くコードを理解することは、検証だけでなく創造的な参加を可能にする重要な能力だ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2itlraqt27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2itlraqt27</guid>
+      <pubDate>Fri, 14 Aug 2026 15:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>エージェントが書くコードを理解することは、検証だけでなく創造的な参加を可能にする重要な能力だとして、理解を深める三つの実践を紹介しています。1) コード説明資料とクイズを組み合わせた「説明(diffを読み解く)」方式、2) 微小世界を使ってシステムを直感的に学ぶ「マイクロワールド」手法、3) チームで共通の理解を育む「共有スペース」の活用。これらを通じて、人間がAIと協働してより深く関与できる未来を描いています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>エージェントが書くコードを理解することは、検証だけでなく創造的な参加を可能にする重要な能力だとして、理解を深める三つの実践を紹介しています。1) コード説明資料とクイズを組み合わせた「説明(diffを読み解く)」方式、2) 微小世界を使ってシステムを直感的に学ぶ「マイクロワールド」手法、3) チームで共通の理解を育む「共有スペース」の活用。これらを通じて、人間がAIと協働してより深く関与できる未来を描いています。]]></content:encoded>
+    </item>
+    <item>
+      <title>理解が新たなボトルネックとなっている Understanding is the new bottleneck  🔺 4…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2itazbe22m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2itazbe22m</guid>
+      <pubDate>Fri, 14 Aug 2026 15:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[理解が新たなボトルネックとなっている<br>Understanding is the new bottleneck<br><br>🔺 403<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[理解が新たなボトルネックとなっている<br>Understanding is the new bottleneck<br><br>🔺 403<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>version available and community channels for discussion. (2/…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2hapkzoz2s</link>
@@ -447,24 +465,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[It is insane how much happier I am now that I’ve moved most of my dev work to Linux]]></description>
       <content:encoded><![CDATA[It is insane how much happier I am now that I’ve moved most of my dev work to Linux]]></content:encoded>
-    </item>
-    <item>
-      <title>📣 Gemini 3.7 Flash is now available in VS Code. Give it a t…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msygcyvh422s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3msygcyvh422s</guid>
-      <pubDate>Thu, 13 Aug 2026 19:54:21 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📣 Gemini 3.7 Flash is now available in VS Code. Give it a try!<br><br>github.blog/changelog/20...]]></description>
-      <content:encoded><![CDATA[📣 Gemini 3.7 Flash is now available in VS Code. Give it a try!<br><br>github.blog/changelog/20...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   中国が Deutsche Bank にフランクフルト拠点からの人民元清算を認可し、欧州初の国…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msyfsdkaq62o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msyfsdkaq62o</guid>
-      <pubDate>Thu, 13 Aug 2026 19:45:02 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>中国が Deutsche Bank にフランクフルト拠点からの人民元清算を認可し、欧州初の国外機関として人民元決済の一部を担当させることになった。これで欧州企業は中国企業との取引で直接人民元決済を利用できる可能性が広がり、欧中の貿易・投資決済インフラが拡大する。なお、本件はドル・ユーロの支配的地位を直ちに覆すものではないが、人民元の国際利用拡大に向けた実務的な布石となる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>中国が Deutsche Bank にフランクフルト拠点からの人民元清算を認可し、欧州初の国外機関として人民元決済の一部を担当させることになった。これで欧州企業は中国企業との取引で直接人民元決済を利用できる可能性が広がり、欧中の貿易・投資決済インフラが拡大する。なお、本件はドル・ユーロの支配的地位を直ちに覆すものではないが、人民元の国際利用拡大に向けた実務的な布石となる。]]></content:encoded>
     </item>
   </channel>
 </rss>
