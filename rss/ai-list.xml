@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 07:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:48:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupkivfe27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupkivfe27</guid>
+      <pubDate>Fri, 14 Aug 2026 09:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></content:encoded>
+    </item>
+    <item>
+      <title>GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング GLM-5.3: Frontier coding w…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupcqayj2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupcqayj2m</guid>
+      <pubDate>Fri, 14 Aug 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyxbu3o27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyxbu3o27</guid>
+      <pubDate>Fri, 14 Aug 2026 07:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、全解凍して縮小する従来の手法を回避しているため、表示サイズによっては画像が期待と違って見えることがある。具体的には、8の倍数比の縮小時に低周波成分だけをデコードしてから、後で通常の縮小処理を行うことで高速化を実現している。結果として、同じ画像でもChromeと他のブラウザで見え方が異なることがある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、全解凍して縮小する従来の手法を回避しているため、表示サイズによっては画像が期待と違って見えることがある。具体的には、8の倍数比の縮小時に低周波成分だけをデコードしてから、後で通常の縮小処理を行うことで高速化を実現している。結果として、同じ画像でもChromeと他のブラウザで見え方が異なることがある。]]></content:encoded>
+    </item>
+    <item>
+      <title>Chrome で小さな JPEG が違って見える理由 Why tiny JPEGs look different in …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyptrjt2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyptrjt2c</guid>
+      <pubDate>Fri, 14 Aug 2026 07:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   SpaceXAIのGrok 4.6はArtificial Analysis Intellig…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszhckbp2z27</link>
@@ -435,42 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 msitarzewski / agency-agents<br>⭐ 144,977 (+1,873)<br>🗒 Shell<br><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, proc...]]></description>
       <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 msitarzewski / agency-agents<br>⭐ 144,977 (+1,873)<br>🗒 Shell<br><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, proc...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 altic-dev / FluidVoice ⭐ 9,666 (+83) 🗒 Swift  Fastest an…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msxtgjktol2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3msxtgjktol2w</guid>
-      <pubDate>Thu, 13 Aug 2026 14:16:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 altic-dev / FluidVoice<br>⭐ 9,666 (+83)<br>🗒 Swift<br><br>Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.]]></description>
-      <content:encoded><![CDATA[📦 altic-dev / FluidVoice<br>⭐ 9,666 (+83)<br>🗒 Swift<br><br>Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.]]></content:encoded>
-    </item>
-    <item>
-      <title>Grok Botは Ultraに含まれ、デバイス横断で使用可能。Botはアカウントの調査、コンタクトのスコアリング、メー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxroi7pwc2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxroi7pwc2g</guid>
-      <pubDate>Thu, 13 Aug 2026 13:44:57 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Grok Botは Ultraに含まれ、デバイス横断で使用可能。Botはアカウントの調査、コンタクトのスコアリング、メール/LinkedIn下書きなどを自動化し、最終承認用のリストを提供します。 (2/2)]]></description>
-      <content:encoded><![CDATA[Grok Botは Ultraに含まれ、デバイス横断で使用可能。Botはアカウントの調査、コンタクトのスコアリング、メール/LinkedIn下書きなどを自動化し、最終承認用のリストを提供します。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - Bot群はあなたの同僚のように動き、タスクを一連のプロジェクトとして処理し、必要時にはあ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxroi47mz24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxroi47mz24</guid>
-      <pubDate>Thu, 13 Aug 2026 13:44:57 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- Bot群はあなたの同僚のように動き、タスクを一連のプロジェクトとして処理し、必要時にはあなたの承認を求めつつ24/7で動作します。複数のBotsを同時に作成・運用し、並行して協力させ、ワークフローを覚えて自動化します。<br>- Grok Botはあなたのアプリとウェブサイトを使い、日常の作業を補助します。ワークフローを一度見せると、以後は自動的に実行するルーティンとして繰り返します。チーム内でBots同士がタスクをやり取りすることも可能です。<br>- 料金プランとしてCursor UltraとCursor Premium Teamsがあり、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- Bot群はあなたの同僚のように動き、タスクを一連のプロジェクトとして処理し、必要時にはあなたの承認を求めつつ24/7で動作します。複数のBotsを同時に作成・運用し、並行して協力させ、ワークフローを覚えて自動化します。<br>- Grok Botはあなたのアプリとウェブサイトを使い、日常の作業を補助します。ワークフローを一度見せると、以後は自動的に実行するルーティンとして繰り返します。チーム内でBots同士がタスクをやり取りすることも可能です。<br>- 料金プランとしてCursor UltraとCursor Premium Teamsがあり、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>グローク・ボット Grok Bot  🔺 339 💬 53 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxro5khwc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msxro5khwc2a</guid>
-      <pubDate>Thu, 13 Aug 2026 13:44:46 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[グローク・ボット<br>Grok Bot<br><br>🔺 339<br>💬 53<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[グローク・ボット<br>Grok Bot<br><br>🔺 339<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
