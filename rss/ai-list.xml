@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:09:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Argh correction, that was Qwen 3.8 27B, not 3.7!</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt367x5tls2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt367x5tls2a</guid>
+      <pubDate>Fri, 14 Aug 2026 22:07:28 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Argh correction, that was Qwen 3.8 27B, not 3.7!]]></description>
+      <content:encoded><![CDATA[Argh correction, that was Qwen 3.8 27B, not 3.7!]]></content:encoded>
+    </item>
+    <item>
+      <title>思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wrft7j24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wrft7j24</guid>
+      <pubDate>Fri, 14 Aug 2026 21:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)]]></description>
+      <content:encoded><![CDATA[思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wr4kpq2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wr4kpq2c</guid>
+      <pubDate>Fri, 14 Aug 2026 21:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Qwen 3.8 27B  🔺 721 💬 90 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wip3oa2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wip3oa2c</guid>
+      <pubDate>Fri, 14 Aug 2026 21:44:17 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen 3.8 27B<br>Qwen 3.8 27B<br><br>🔺 721<br>💬 90<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen 3.8 27B<br>Qwen 3.8 27B<br><br>🔺 721<br>💬 90<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>It did take nearly 21 minutes to generate, and used 22,276 r…</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynr2gks2z</link>
@@ -425,45 +461,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[GPT-5.6を加速させる ソル・ウルトラファスト<br>Accelerating GPT-5.6 Sol Ultrafast<br><br>🔺 420<br>💬 42<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[GPT-5.6を加速させる ソル・ウルトラファスト<br>Accelerating GPT-5.6 Sol Ultrafast<br><br>🔺 420<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ― - Qii…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msyyyaszxd26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3msyyyaszxd26</guid>
-      <pubDate>Fri, 14 Aug 2026 01:28:21 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ― - Qiita<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ― - Qiita<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Just did a long grill and the 27th question made me realize …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyxojhy4a2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyxojhy4a2y</guid>
-      <pubDate>Fri, 14 Aug 2026 00:39:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Just did a long grill and the 27th question made me realize what I really want. Ended up cutting scope by like 90%]]></description>
-      <content:encoded><![CDATA[Just did a long grill and the 27th question made me realize what I really want. Ended up cutting scope by like 90%]]></content:encoded>
-    </item>
-    <item>
-      <title>ngl this one feature is enough to ease most of my concerns</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyxodme2j2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyxodme2j2w</guid>
-      <pubDate>Fri, 14 Aug 2026 00:36:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[ngl this one feature is enough to ease most of my concerns
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib4f6dvqpmfl7z67qhhxaxsmsmtolzthunk7p53wdzomtpiqahp5i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[ngl this one feature is enough to ease most of my concerns
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib4f6dvqpmfl7z67qhhxaxsmsmtolzthunk7p53wdzomtpiqahp5i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib4f6dvqpmfl7z67qhhxaxsmsmtolzthunk7p53wdzomtpiqahp5i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I’m not gonna lie, I wanted this since Windows Recall/Rewind…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvzf5qv42g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3msyvzf5qv42g</guid>
-      <pubDate>Fri, 14 Aug 2026 00:28:15 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I’m not gonna lie, I wanted this since Windows Recall/Rewind/whatever was announced. It got panned so hard that I kept my mouth shut.<br><br>Enough time has passed that I’m gonna say fuck it and try this]]></description>
-      <content:encoded><![CDATA[I’m not gonna lie, I wanted this since Windows Recall/Rewind/whatever was announced. It got panned so hard that I kept my mouth shut.<br><br>Enough time has passed that I’m gonna say fuck it and try this]]></content:encoded>
     </item>
   </channel>
 </rss>
