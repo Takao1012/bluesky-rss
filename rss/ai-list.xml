@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:12:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   HEIRはオープンソースのコンパイラで、暗号化データ上での推論を可能にするホモモルフィックエ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt46hrmkxk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt46hrmkxk2o</guid>
+      <pubDate>Sat, 15 Aug 2026 07:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>HEIRはオープンソースのコンパイラで、暗号化データ上での推論を可能にするホモモルフィックエンcryptionを活用したAI推論を実現するツールです。これにより、データを露出させずにクラウド側で計算を行い、機密性と機能性を両立させることが目指されています。Googleと研究機関が協力して実用例を拡大し、エンジニアでなくても encrypted inference を導入できる「ワンクリック解決」を目指しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>HEIRはオープンソースのコンパイラで、暗号化データ上での推論を可能にするホモモルフィックエンcryptionを活用したAI推論を実現するツールです。これにより、データを露出させずにクラウド側で計算を行い、機密性と機能性を両立させることが目指されています。Googleと研究機関が協力して実用例を拡大し、エンジニアでなくても encrypted inference を導入できる「ワンクリック解決」を目指しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Googleは同型暗号を用いて、プライバシーを保護するAIを実用的なものにしている。 Google is making …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt46hm5ilm2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt46hm5ilm2y</guid>
+      <pubDate>Sat, 15 Aug 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Googleは同型暗号を用いて、プライバシーを保護するAIを実用的なものにしている。<br>Google is making private AI practical with homomorphic encryption<br><br>🔺 365<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Googleは同型暗号を用いて、プライバシーを保護するAIを実用的なものにしている。<br>Google is making private AI practical with homomorphic encryption<br><br>🔺 365<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Just one-shot from a single prompt, no feedback loop  I expe…</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3xxrkiek2m</link>
@@ -449,24 +467,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Muse-Glimmer-30B-GGUF<br>Muse Glimmerは、Meta Superintelligence Labが開発した300億パラメータの因果言語モデルです。<br>消費者向けハードウェアでの自律的なエージェントタスク向けに設計されており、マルチステップ推論、ツール利用、マルチモーダル理解、故障復旧機能を備えています。<br>クラウドやネットワークを必要とせず、ローカル環境で動作することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Muse-Glimmer-30B-GGUF<br>Muse Glimmerは、Meta Superintelligence Labが開発した300億パラメータの因果言語モデルです。<br>消費者向けハードウェアでの自律的なエージェントタスク向けに設計されており、マルチステップ推論、ツール利用、マルチモーダル理解、故障復旧機能を備えています。<br>クラウドやネットワークを必要とせず、ローカル環境で動作することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  lightx2v/Minimax-h3-Turbo このリポジトリは、diffu…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszypftcin23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszypftcin23</guid>
-      <pubDate>Fri, 14 Aug 2026 10:56:04 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>lightx2v/Minimax-h3-Turbo<br>このリポジトリは、diffusersライブラリを用いた画像から動画への変換（image-to-video）モデルであるMinimax-H3-Turboを提供することを目的としています。<br>詳細な仕様や再現方法については、リンク先のGitHubリポジトリで確認できます。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>lightx2v/Minimax-h3-Turbo<br>このリポジトリは、diffusersライブラリを用いた画像から動画への変換（image-to-video）モデルであるMinimax-H3-Turboを提供することを目的としています。<br>詳細な仕様や再現方法については、リンク先のGitHubリポジトリで確認できます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszyovy3322y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszyovy3322y</guid>
-      <pubDate>Fri, 14 Aug 2026 10:55:48 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述に基づき、最長5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と表現力豊かなボーカル、詳細な音響品質を両立しています。<br>導入からアウトロまでの一貫した楽曲構成を維持し、32kHzのステレオWAV形式で出力します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述に基づき、最長5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と表現力豊かなボーカル、詳細な音響品質を両立しています。<br>導入からアウトロまでの一貫した楽曲構成を維持し、32kHzのステレオWAV形式で出力します。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
