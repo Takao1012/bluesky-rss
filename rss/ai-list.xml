@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:15:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Just one-shot from a single prompt, no feedback loop  I expe…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3xxrkiek2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3xxrkiek2m</guid>
+      <pubDate>Sat, 15 Aug 2026 05:48:11 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Just one-shot from a single prompt, no feedback loop<br><br>I experimented last year with letting the models adjust after seeing a rendered image and it was a bit disappointing, but it's about time I gave that another go with more recent models]]></description>
+      <content:encoded><![CDATA[Just one-shot from a single prompt, no feedback loop<br><br>I experimented last year with letting the models adjust after seeing a rendered image and it was a bit disappointing, but it's about time I gave that another go with more recent models]]></content:encoded>
+    </item>
+    <item>
+      <title>Nine PBSはIron Mountainを相手取り、アーカイブデータへのアクセス遮断を巡って訴えを起こす。 Nine…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3xr24tq22m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3xr24tq22m</guid>
+      <pubDate>Sat, 15 Aug 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Nine PBSはIron Mountainを相手取り、アーカイブデータへのアクセス遮断を巡って訴えを起こす。<br>Nine PBS sues Iron Mountain over blocked access to archival data<br><br>🔺 377<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Nine PBSはIron Mountainを相手取り、アーカイブデータへのアクセス遮断を巡って訴えを起こす。<br>Nine PBS sues Iron Mountain over blocked access to archival data<br><br>🔺 377<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 概念設計が、その後のコードの命運を左右する  🔖 163 ブックマーク 💬 コメント 🔗 記事リンク</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt3tisljyr22</link>
@@ -449,24 +467,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述に基づき、最長5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と表現力豊かなボーカル、詳細な音響品質を両立しています。<br>導入からアウトロまでの一貫した楽曲構成を維持し、32kHzのステレオWAV形式で出力します。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述に基づき、最長5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と表現力豊かなボーカル、詳細な音響品質を両立しています。<br>導入からアウトロまでの一貫した楽曲構成を維持し、32kHzのステレオWAV形式で出力します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszyodi2lf2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mszyodi2lf2s</guid>
-      <pubDate>Fri, 14 Aug 2026 10:55:28 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容を提示してください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容を提示してください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupkivfe27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupkivfe27</guid>
-      <pubDate>Fri, 14 Aug 2026 09:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></content:encoded>
     </item>
   </channel>
 </rss>
