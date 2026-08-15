@@ -5,8 +5,77 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 15:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:08:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zcdqrn624</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zcdqrn624</guid>
+      <pubDate>Sat, 15 Aug 2026 15:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上を設置。これにより卸売電力価格を約半額に引き下げ、国内の蓄電池普及数は米国を上回る規模となった。蓄電池とスマート需要対策で、太陽光過剰を活用しつつ電力網の安定化とコスト低減に寄与している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上を設置。これにより卸売電力価格を約半額に引き下げ、国内の蓄電池普及数は米国を上回る規模となった。蓄電池とスマート需要対策で、太陽光過剰を活用しつつ電力網の安定化とコスト低減に寄与している。]]></content:encoded>
+    </item>
+    <item>
+      <title>オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。 In Australia, a home b…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zc5zzkx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zc5zzkx2c</guid>
+      <pubDate>Sat, 15 Aug 2026 15:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。<br>In Australia, a home battery boom has helped cut wholesale power prices<br><br>🔺 343<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。<br>In Australia, a home battery boom has helped cut wholesale power prices<br><br>🔺 343<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>... disaster! I forgot to bump up the context length from th…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt4yaxdd5s2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt4yaxdd5s2c</guid>
+      <pubDate>Sat, 15 Aug 2026 15:25:58 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[... disaster! I forgot to bump up the context length from the default and the server rejected it before it could draw its no-doubt beautiful circle
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiasmmn4flj2j5zumdmazjscqjx7aju4jw7iizhtadahwgrjb3dmlq" alt="Screenshot of an AI chat interface showing a user prompt, an expanded assistant reasoning trace, and a red error message. USER: draw an svg of a circle ASSISTANT: ▼ Reasoning trace .../></circle> . Also a faint ghost ring at r=70? Between core 54 and dotted 86 — adds depth: stroke #9FD8CB opacity .12 width 1, static. And outer frame r=172 stroke #A9CDE0 opacity .16 width 1. Order (z): bg rect → stars → translate group { halo (pulsing) → ghost ring r70 → core + specular + rim → tick group → cardinal ticks → outer frame? The outer frame is static and can go before the halo? It's at r=172, no overlap; place it early. Ring A group, Ring B group, satellites }. Ring drawing order: rings after core so they overlay? They don't spatially overlap with core (r≥86 > 54). Order doesn't matter much; put halo first (biggest), then rings, then core on top for crispness. Halo r up to ~82 vs ring A at 86 — no problem. Let me write it out. Final colors: bg gradient: #1B4368 → #0E2A49 → #081A30 core: #FFF7DC, #FFD469, #F59B2C, #D96418 (cx 36% cy 30%) halo stop color #FFC94D opacity .5→.15→0 Engine protocol predict stream returned an error: {"code":500,"message":"Context size has been exceeded.","type":"server_error"}" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[... disaster! I forgot to bump up the context length from the default and the server rejected it before it could draw its no-doubt beautiful circle
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiasmmn4flj2j5zumdmazjscqjx7aju4jw7iizhtadahwgrjb3dmlq" alt="Screenshot of an AI chat interface showing a user prompt, an expanded assistant reasoning trace, and a red error message. USER: draw an svg of a circle ASSISTANT: ▼ Reasoning trace .../></circle> . Also a faint ghost ring at r=70? Between core 54 and dotted 86 — adds depth: stroke #9FD8CB opacity .12 width 1, static. And outer frame r=172 stroke #A9CDE0 opacity .16 width 1. Order (z): bg rect → stars → translate group { halo (pulsing) → ghost ring r70 → core + specular + rim → tick group → cardinal ticks → outer frame? The outer frame is static and can go before the halo? It's at r=172, no overlap; place it early. Ring A group, Ring B group, satellites }. Ring drawing order: rings after core so they overlay? They don't spatially overlap with core (r≥86 > 54). Order doesn't matter much; put halo first (biggest), then rings, then core on top for crispness. Halo r up to ~82 vs ring A at 86 — no problem. Let me write it out. Final colors: bg gradient: #1B4368 → #0E2A49 → #081A30 core: #FFF7DC, #FFD469, #F59B2C, #D96418 (cx 36% cy 30%) halo stop color #FFC94D opacity .5→.15→0 Engine protocol predict stream returned an error: {"code":500,"message":"Context size has been exceeded.","type":"server_error"}" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiasmmn4flj2j5zumdmazjscqjx7aju4jw7iizhtadahwgrjb3dmlq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B in its default reasoning settings in LM Studio …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt4xrhnjz225</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt4xrhnjz225</guid>
+      <pubDate>Sat, 15 Aug 2026 15:17:19 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Qwen 3.8 27B in its default reasoning settings in LM Studio of "extra high" is a chronic over-thinker and I kind of love it
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreid2g7il3qi234ndnjoej442iyywjbgrkijdvkdsgmqqwudkhf5yyy" alt="Screenshot of an LLM playground chat interface. Header: draw an svg of a circle, qwen3.8-27b · saved in this browser, with Copy JSON and Delete buttons. USER: draw an svg of a circle. ASSISTANT panel titled ▼ Reasoning trace reads: The user wants me to draw a circle as SVG. This looks like a simple request, but I can make it something with personality — not just a bland <circle>. Let's design a rich, animated, characterful SVG where the circle is the star: an orbiting ring, rotating dashed rings, pulsating glow, tick marks, satellite dots orbiting on circular paths, subtle gradient background. Since they said "draw me an svg of a circle," I'll provide SVG code. It should be self-contained with CSS animations inside the SVG so it works standalone. Design direction: let's pick something distinctive — deep teal/ink background? Or a light paper feel? Let's go for a "cosmic/orbital" theme — circles as celestial bodies. Palette ideas: warm amber/gold circle on deep blue-green, or a bold two-tone look like vermilion and cream. Alternative: an "atom/orbit diagram" style — a central circle with concentric dashed rings rotating at different speeds, small satellite dots orbiting along the paths, tick marks like a clock face or compass rose, subtle radial gradient glow on the main circle. This is lively yet clearly a "circle." (final line partially cut off by the scrollable panel). Below the panel: Thinking..." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Qwen 3.8 27B in its default reasoning settings in LM Studio of "extra high" is a chronic over-thinker and I kind of love it
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreid2g7il3qi234ndnjoej442iyywjbgrkijdvkdsgmqqwudkhf5yyy" alt="Screenshot of an LLM playground chat interface. Header: draw an svg of a circle, qwen3.8-27b · saved in this browser, with Copy JSON and Delete buttons. USER: draw an svg of a circle. ASSISTANT panel titled ▼ Reasoning trace reads: The user wants me to draw a circle as SVG. This looks like a simple request, but I can make it something with personality — not just a bland <circle>. Let's design a rich, animated, characterful SVG where the circle is the star: an orbiting ring, rotating dashed rings, pulsating glow, tick marks, satellite dots orbiting on circular paths, subtle gradient background. Since they said "draw me an svg of a circle," I'll provide SVG code. It should be self-contained with CSS animations inside the SVG so it works standalone. Design direction: let's pick something distinctive — deep teal/ink background? Or a light paper feel? Let's go for a "cosmic/orbital" theme — circles as celestial bodies. Palette ideas: warm amber/gold circle on deep blue-green, or a bold two-tone look like vermilion and cream. Alternative: an "atom/orbit diagram" style — a central circle with concentric dashed rings rotating at different speeds, small satellite dots orbiting along the paths, tick marks like a clock face or compass rose, subtle radial gradient glow on the main circle. This is lively yet clearly a "circle." (final line partially cut off by the scrollable panel). Below the panel: Thinking..." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreid2g7il3qi234ndnjoej442iyywjbgrkijdvkdsgmqqwudkhf5yyy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>training, evaluation, and deployment. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpj37le2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpj37le2j</guid>
+      <pubDate>Sat, 15 Aug 2026 15:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[training, evaluation, and deployment. (2/2)]]></description>
+      <content:encoded><![CDATA[training, evaluation, and deployment. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Soup is a streamlined CLI to fine-tune and pos…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpizxx62h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpizxx62h</guid>
+      <pubDate>Sat, 15 Aug 2026 15:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Soup is a streamlined CLI to fine-tune and post-train LLMs in one config and one command, eliminating SSH and config hassles while streaming layers to keep VRAM usage low. It supports local training (with optional [train] extras), multiple templates, and comprehensive docs for (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Soup is a streamlined CLI to fine-tune and post-train LLMs in one config and one command, eliminating SSH and config hassles while streaming layers to keep VRAM usage low. It supports local training (with optional [train] extras), multiple templates, and comprehensive docs for (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 MakazhanAlpamys / S…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpfybwx2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4xpfybwx2p</guid>
+      <pubDate>Sat, 15 Aug 2026 15:16:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MakazhanAlpamys / Soup<br>⭐ 1,434 (+303)<br>🗒 Python<br><br>Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MakazhanAlpamys / Soup<br>⭐ 1,434 (+303)<br>🗒 Python<br><br>Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.]]></content:encoded>
+    </item>
     <item>
       <title>the public-apis index for further exploration. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4ueff5i62j</link>
@@ -399,74 +468,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Qwen 3.8 27B  🔺 721 💬 90 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wip3oa2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wip3oa2c</guid>
-      <pubDate>Fri, 14 Aug 2026 21:44:17 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Qwen 3.8 27B<br>Qwen 3.8 27B<br><br>🔺 721<br>💬 90<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Qwen 3.8 27B<br>Qwen 3.8 27B<br><br>🔺 721<br>💬 90<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>It did take nearly 21 minutes to generate, and used 22,276 r…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynr2gks2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynr2gks2z</guid>
-      <pubDate>Fri, 14 Aug 2026 20:27:49 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It did take nearly 21 minutes to generate, and used 22,276 reasoning tokens to produce 3,223 tokens of output. Here's the full transcript: tools.simonwillison.net/markdown-svg...]]></description>
-      <content:encoded><![CDATA[It did take nearly 21 minutes to generate, and used 22,276 reasoning tokens to produce 3,223 tokens of output. Here's the full transcript: tools.simonwillison.net/markdown-svg...]]></content:encoded>
-    </item>
-    <item>
-      <title>The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynhrlk22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt2ynhrlk22z</guid>
-      <pubDate>Fri, 14 Aug 2026 20:27:39 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on my M5 Max MacBook Pro, just drew me the best pelican riding a bicycle I've seen from any model that runs on my laptop
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" alt="The pelican has the right shaped beak. The red bicycle has the correct shape of frame. The pelican's wing reaches the handlebars. It has legs on both side of the bicycle. There is a pleasing set of clouds, birds, sun, grass and shadow on the image, plus motion lines behind but not in front of the bird.
-" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on my M5 Max MacBook Pro, just drew me the best pelican riding a bicycle I've seen from any model that runs on my laptop
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" alt="The pelican has the right shaped beak. The red bicycle has the correct shape of frame. The pelican's wing reaches the handlebars. It has legs on both side of the bicycle. There is a pleasing set of clouds, birds, sun, grass and shadow on the image, plus motion lines behind but not in front of the bird.
-" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreifkeyroeaj4y7ejbzr3eq3zta6kkpaowiyriqiiov5ge4tcgciluq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Opus 5は機能的にはOpus 4.7/4.8やFableより上だが、使い勝手は劣り、曖昧…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2wa6fofk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2wa6fofk2o</guid>
-      <pubDate>Fri, 14 Aug 2026 19:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Opus 5は機能的にはOpus 4.7/4.8やFableより上だが、使い勝手は劣り、曖昧な意図に対して質問をせず推測して勝手に計画を更新する点が煩雑だと感じている。著者は、ベンチマーク志向の開発方針と自己改善を目指す設計が原因で、現実の業務では明確な指示を待つ柔軟さが欠けるAIになりがちだと指摘する。実務では文脈不足や判断の余地が多く、必ずしも最適解が一義的でないため、確認を重ねるエージェントが望ましい、と主張している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Opus 5は機能的にはOpus 4.7/4.8やFableより上だが、使い勝手は劣り、曖昧な意図に対して質問をせず推測して勝手に計画を更新する点が煩雑だと感じている。著者は、ベンチマーク志向の開発方針と自己改善を目指す設計が原因で、現実の業務では明確な指示を待つ柔軟さが欠けるAIになりがちだと指摘する。実務では文脈不足や判断の余地が多く、必ずしも最適解が一義的でないため、確認を重ねるエージェントが望ましい、と主張している。]]></content:encoded>
-    </item>
-    <item>
-      <title>Opus 5はなぜ使いにくく感じるのですか？ Why does Opus 5 feel worse to work wi…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2w7xxwms24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2w7xxwms24</guid>
-      <pubDate>Fri, 14 Aug 2026 19:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Opus 5はなぜ使いにくく感じるのですか？<br>Why does Opus 5 feel worse to work with?<br><br>🔺 573<br>💬 122<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Opus 5はなぜ使いにくく感じるのですか？<br>Why does Opus 5 feel worse to work with?<br><br>🔺 573<br>💬 122<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 rustdesk / rustdesk ⭐ 1…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2unnxce42f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2unnxce42f</guid>
-      <pubDate>Fri, 14 Aug 2026 19:16:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 rustdesk / rustdesk<br>⭐ 120,429 (+130)<br>🗒 Rust<br><br>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 rustdesk / rustdesk<br>⭐ 120,429 (+130)<br>🗒 Rust<br><br>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 citrolabs / ego-lite ⭐ …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2rck3ai42k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2rck3ai42k</guid>
-      <pubDate>Fri, 14 Aug 2026 18:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 citrolabs / ego-lite<br>⭐ 10,083 (+153)<br>🗒 JavaScript<br><br>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero confi...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 citrolabs / ego-lite<br>⭐ 10,083 (+153)<br>🗒 JavaScript<br><br>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero confi...]]></content:encoded>
     </item>
   </channel>
 </rss>
