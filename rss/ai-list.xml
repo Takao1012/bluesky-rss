@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:16:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   人類の歴史の中で、かつては手にも届かなかった技術や快適さが現在では日常となっている。音楽、電…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3r2impgd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3r2impgd2l</guid>
+      <pubDate>Sat, 15 Aug 2026 03:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>人類の歴史の中で、かつては手にも届かなかった技術や快適さが現在では日常となっている。音楽、電力、印刷、清潔な水、遠距離通信、室内生活の利便性など、過去の偉業が現代の暮らしを形作っており、私たちはその驚異を忘れず、未来へ新たな発展を追求し続けるべきだ、という趣旨のコレクション。各項は、過去の人々の描いた理想と現代の現実を対比させ、技術革新がいかに日常の体験を変えてきたかを示している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>人類の歴史の中で、かつては手にも届かなかった技術や快適さが現在では日常となっている。音楽、電力、印刷、清潔な水、遠距離通信、室内生活の利便性など、過去の偉業が現代の暮らしを形作っており、私たちはその驚異を忘れず、未来へ新たな発展を追求し続けるべきだ、という趣旨のコレクション。各項は、過去の人々の描いた理想と現代の現実を対比させ、技術革新がいかに日常の体験を変えてきたかを示している。]]></content:encoded>
+    </item>
+    <item>
+      <title>日常の豊かさ Ordinary Abundance  🔺 380 💬 34 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3r2dm4lk24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3r2dm4lk24</guid>
+      <pubDate>Sat, 15 Aug 2026 03:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[日常の豊かさ<br>Ordinary Abundance<br><br>🔺 380<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[日常の豊かさ<br>Ordinary Abundance<br><br>🔺 380<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Got a photo of Morris, a local celebrity: the only known Nor…</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3pp4emz222</link>
@@ -449,24 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyxbu3o27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyxbu3o27</guid>
-      <pubDate>Fri, 14 Aug 2026 07:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、全解凍して縮小する従来の手法を回避しているため、表示サイズによっては画像が期待と違って見えることがある。具体的には、8の倍数比の縮小時に低周波成分だけをデコードしてから、後で通常の縮小処理を行うことで高速化を実現している。結果として、同じ画像でもChromeと他のブラウザで見え方が異なることがある。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ChromeがJPEGの小サイズ表示時に部分IDCTスケーリングを使う最適化を採用しており、全解凍して縮小する従来の手法を回避しているため、表示サイズによっては画像が期待と違って見えることがある。具体的には、8の倍数比の縮小時に低周波成分だけをデコードしてから、後で通常の縮小処理を行うことで高速化を実現している。結果として、同じ画像でもChromeと他のブラウザで見え方が異なることがある。]]></content:encoded>
-    </item>
-    <item>
-      <title>Chrome で小さな JPEG が違って見える理由 Why tiny JPEGs look different in …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyptrjt2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3msznyptrjt2c</guid>
-      <pubDate>Fri, 14 Aug 2026 07:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
