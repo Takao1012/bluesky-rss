@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:07:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Happy 80th birthday to Jimmy Webb, seen here performing his …</title>
+      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt5mazyzu225</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt5mazyzu225</guid>
+      <pubDate>Sat, 15 Aug 2026 21:23:56 GMT</pubDate>
+      <author>Stereogum (@stereogum.com)</author>
+      <description><![CDATA[Happy 80th birthday to Jimmy Webb, seen here performing his perfect song "Wichita Lineman" on BBC In Concert in 1971. Yesterday Webb announced 'Yours For The Taking: The Found Songs Of Jimmy Webb,' a collection of previously unreleased tracks coming Oct. 23 via Sun Records.]]></description>
+      <content:encoded><![CDATA[Happy 80th birthday to Jimmy Webb, seen here performing his perfect song "Wichita Lineman" on BBC In Concert in 1971. Yesterday Webb announced 'Yours For The Taking: The Found Songs Of Jimmy Webb,' a collection of previously unreleased tracks coming Oct. 23 via Sun Records.]]></content:encoded>
+    </item>
     <item>
       <title>GENERATIONS片寄涼太 「おしゃれクリップ」で明かす 上京後の苦難の日々  「お母さんがおらへんかったら…</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mt5kwplomm2h</link>
@@ -529,15 +538,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreihr63n37iunaynutyf4hlzkqsue55j3iytqqk4eagpic6g4svvy7m" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreifhnbrc2tj4igmiz3evdqqramzi5umeini6jlrft3goyfm3ycde2y" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreib65n6qvb6eh4cmw25i56bl3lec6e7dlhu3y6rcroxlkglu2npfbq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>A powerful magnitude 7.7 earthquake struck off the coast of …</title>
-      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mt4can2jxk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mt4can2jxk2w</guid>
-      <pubDate>Sat, 15 Aug 2026 08:52:05 GMT</pubDate>
-      <author>NPR (@npr.org)</author>
-      <description><![CDATA[A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. n.pr/4wUNSDI]]></description>
-      <content:encoded><![CDATA[A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. n.pr/4wUNSDI]]></content:encoded>
     </item>
   </channel>
 </rss>
