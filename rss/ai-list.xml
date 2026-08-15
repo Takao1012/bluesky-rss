@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:13:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 概念設計が、その後のコードの命運を左右する  🔖 163 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt3tisljyr22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt3tisljyr22</guid>
+      <pubDate>Sat, 15 Aug 2026 04:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 概念設計が、その後のコードの命運を左右する<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 概念設計が、その後のコードの命運を左右する<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   人類の歴史の中で、かつては手にも届かなかった技術や快適さが現在では日常となっている。音楽、電…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3r2impgd2l</link>
@@ -458,15 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを使用し、post-trainingの改善のみで大きな性能向上を達成。長期的なタスク環境の拡張とRLスケーリングを進め、コード能力と長期課題処理、サイバーセキュリティ関連の能力が顕著に向上。公開前提の重み公開は安全評価完了後の予定。]]></content:encoded>
-    </item>
-    <item>
-      <title>GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング GLM-5.3: Frontier coding w…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupcqayj2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszupcqayj2m</guid>
-      <pubDate>Fri, 14 Aug 2026 09:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GLM-5.3: 出現するサイバー能力を備えた最前線のコーディング<br>GLM-5.3: Frontier coding with emergent cyber capabilities<br><br>🔺 455<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
