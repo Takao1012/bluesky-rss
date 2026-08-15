@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 16:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:09:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I bumped up the context limit and let it have another go and…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt555krsp223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt555krsp223</guid>
+      <pubDate>Sat, 15 Aug 2026 16:53:33 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I bumped up the context limit and let it have another go and it sure did produce a beautiful (animated) circle gist.github.com/simonw/39977...]]></description>
+      <content:encoded><![CDATA[I bumped up the context limit and let it have another go and it sure did produce a beautiful (animated) circle gist.github.com/simonw/39977...]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude/Codex/Pi plugins. It emphasizes brand-consistent outp…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532wylvv24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532wylvv24</guid>
+      <pubDate>Sat, 15 Aug 2026 16:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Claude/Codex/Pi plugins. It emphasizes brand-consistent output, accessibility, and rigorous governance with extensive references, templates, and CI checks. (2/2)]]></description>
+      <content:encoded><![CDATA[Claude/Codex/Pi plugins. It emphasizes brand-consistent output, accessibility, and rigorous governance with extensive references, templates, and CI checks. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   A comprehensive design system and editor for e…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532wxdwx2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532wxdwx2s</guid>
+      <pubDate>Sat, 15 Aug 2026 16:16:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>A comprehensive design system and editor for editorial-quality diagrams, offering 27 visual types that render statically by default, with optional motion, semantic patterns, brand onboarding, and full import/export workflows (Draw.io/Mermaid, PNG/SVG) all configurable via (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>A comprehensive design system and editor for editorial-quality diagrams, offering 27 visual types that render statically by default, with optional motion, semantic patterns, brand onboarding, and full import/export workflows (Draw.io/Mermaid, PNG/SVG) all configurable via (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 cathrynlavery / diag…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532ufm5g2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532ufm5g2k</guid>
+      <pubDate>Sat, 15 Aug 2026 16:16:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 cathrynlavery / diagram-design<br>⭐ 18,267 (+1,619)<br>🗒 HTML<br><br>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 cathrynlavery / diagram-design<br>⭐ 18,267 (+1,619)<br>🗒 HTML<br><br>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zcdqrn624</link>
@@ -429,45 +465,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Reminder that this doesn’t even cover 1/10th of my media team payroll. We have 8 employees now!]]></description>
       <content:encoded><![CDATA[Reminder that this doesn’t even cover 1/10th of my media team payroll. We have 8 employees now!]]></content:encoded>
-    </item>
-    <item>
-      <title>One of the final payouts before the upcoming changes in the …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt36wg36vm2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt36wg36vm2o</guid>
-      <pubDate>Fri, 14 Aug 2026 22:17:44 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[One of the final payouts before the upcoming changes in the creator revenue share program
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapqsxhnuxj7htdzg6xin7rvggwdzrxr2umkdrd2cqtt76st4tn2e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[One of the final payouts before the upcoming changes in the creator revenue share program
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapqsxhnuxj7htdzg6xin7rvggwdzrxr2umkdrd2cqtt76st4tn2e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapqsxhnuxj7htdzg6xin7rvggwdzrxr2umkdrd2cqtt76st4tn2e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Argh correction, that was Qwen 3.8 27B, not 3.7!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt367x5tls2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt367x5tls2a</guid>
-      <pubDate>Fri, 14 Aug 2026 22:07:28 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Argh correction, that was Qwen 3.8 27B, not 3.7!]]></description>
-      <content:encoded><![CDATA[Argh correction, that was Qwen 3.8 27B, not 3.7!]]></content:encoded>
-    </item>
-    <item>
-      <title>思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wrft7j24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wrft7j24</guid>
-      <pubDate>Fri, 14 Aug 2026 21:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)]]></description>
-      <content:encoded><![CDATA[思考モードの有効化/無効化、YaRNによる長文処理などの最適化設定が案内されている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wr4kpq2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt34wr4kpq2c</guid>
-      <pubDate>Fri, 14 Aug 2026 21:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen3.8-27BはFP8量子化済みの27Bモデルと設定ファイルを提供し、Hugging Face TransformersやvLLM、SGLang、TokenSpeedなどに対応する。 Vision-Language対応の64層モデルで、長い文脈長（デフォルト262,144、最大1,000,000トークン）と強化された推論・思考モード、思考の保持機能を特徴とし、複数のインフェレンスフレームワークとAPIサービス（Qwen Cloud経由の提供予定）と連携する。使い方としては、APIを通じたチャットや画像・動画入力対応のマルチモーダル機能、 (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
