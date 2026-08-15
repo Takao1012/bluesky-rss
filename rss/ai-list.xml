@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 02:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:27:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Got a photo of Morris, a local celebrity: the only known Nor…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3pp4emz222</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt3pp4emz222</guid>
+      <pubDate>Sat, 15 Aug 2026 03:20:10 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Got a photo of Morris, a local celebrity: the only known Northern Gannet in the entire Pacific Ocean simonwillison.net/2026/Aug/15/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidj6lf7bbmnbs3m7b6tckmeqa2juqbqkt5kgmrqshx75djgbypqxu" alt="Dusk. A white bird with a yellowish head preens himself on the rocks in the harbor, near a diamond sign and surrounded by smaller black Brandt's cormorants" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Got a photo of Morris, a local celebrity: the only known Northern Gannet in the entire Pacific Ocean simonwillison.net/2026/Aug/15/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidj6lf7bbmnbs3m7b6tckmeqa2juqbqkt5kgmrqshx75djgbypqxu" alt="Dusk. A white bird with a yellowish head preens himself on the rocks in the harbor, near a diamond sign and surrounded by smaller black Brandt's cormorants" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreidj6lf7bbmnbs3m7b6tckmeqa2juqbqkt5kgmrqshx75djgbypqxu" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   FirefoxはuBlock Originのサポートを維持すると発表。Chromiumベース…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt3kdyp7ug2q</link>
@@ -455,15 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Chrome で小さな JPEG が違って見える理由<br>Why tiny JPEGs look different in Chrome<br><br>🔺 333<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   SpaceXAIのGrok 4.6はArtificial Analysis Intellig…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszhckbp2z27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mszhckbp2z27</guid>
-      <pubDate>Fri, 14 Aug 2026 05:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>SpaceXAIのGrok 4.6はArtificial Analysis Intelligence Indexで61点を獲得し、前世代比で上昇、GPT-5.6 Solと同等クラスの Frontier に位置。低コストで高いエージェント性能を示し、Claude Opus 5系と比較してコスト対性能のパレートフロンティアを形成する。長期的な知識作業でも高い安定性を示し、53ターン・約0.5Bトークンで解決する効率性が特徴。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>SpaceXAIのGrok 4.6はArtificial Analysis Intelligence Indexで61点を獲得し、前世代比で上昇、GPT-5.6 Solと同等クラスの Frontier に位置。低コストで高いエージェント性能を示し、Claude Opus 5系と比較してコスト対性能のパレートフロンティアを形成する。長期的な知識作業でも高い安定性を示し、53ターン・約0.5Bトークンで解決する効率性が特徴。]]></content:encoded>
     </item>
   </channel>
 </rss>
