@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:11:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIがソフトウェアを非常に安全にすることで、法執行機関が重大な情報源を失い「 going d…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4lv4cq5g2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4lv4cq5g2l</guid>
+      <pubDate>Sat, 15 Aug 2026 11:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIがソフトウェアを非常に安全にすることで、法執行機関が重大な情報源を失い「 going dark」状態が起こる恐れがある。その結果、攻撃者対策が難しくなる一方、政府の“例外的アクセス” backdoor推進や新たな設計改善の圧力が高まり、国際的なサプライチェーンにも影響が及ぶ可能性がある。著者はこの局面に対して明確な解決策は示せず、正しい選択をすることを祈るのみだと述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIがソフトウェアを非常に安全にすることで、法執行機関が重大な情報源を失い「 going dark」状態が起こる恐れがある。その結果、攻撃者対策が難しくなる一方、政府の“例外的アクセス” backdoor推進や新たな設計改善の圧力が高まり、国際的なサプライチェーンにも影響が及ぶ可能性がある。著者はこの局面に対して明確な解決策は示せず、正しい選択をすることを祈るのみだと述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>闇へと沈む時代――捜査機関によるハッキングの時代 Going Dark, and the era of law enfo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4luwhzna2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4luwhzna2a</guid>
+      <pubDate>Sat, 15 Aug 2026 11:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[闇へと沈む時代――捜査機関によるハッキングの時代<br>Going Dark, and the era of law enforcement hacking<br><br>🔺 358<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[闇へと沈む時代――捜査機関によるハッキングの時代<br>Going Dark, and the era of law enforcement hacking<br><br>🔺 358<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  public-apis/public-apis 様々な分野の公開APIをコミュニティが手動…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjzvv442v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjzvv442v</guid>
+      <pubDate>Sat, 15 Aug 2026 11:20:31 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>public-apis/public-apis<br>様々な分野の公開APIをコミュニティが手動で収集し、リスト化したリポジトリです。<br>開発者が自身の製品に組み込むためのAPIを簡単に見つけられるようにすることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>public-apis/public-apis<br>様々な分野の公開APIをコミュニティが手動で収集し、リスト化したリポジトリです。<br>開発者が自身の製品に組み込むためのAPIを簡単に見つけられるようにすることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  unslothai/unsloth Unslothは、AIモデルをローカル環境で実行、学習…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjmi6662g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjmi6662g</guid>
+      <pubDate>Sat, 15 Aug 2026 11:20:17 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>unslothai/unsloth<br>Unslothは、AIモデルをローカル環境で実行、学習、デプロイするためのツールです。<br>あらゆる種類のモデルに対応しており、Claude CodeやCodexなどのAIエージェントをローカルモデルに連携させることができます。<br>提供形態は、デスクトップアプリ、ウェブUI、コードベースの3種類があります。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>unslothai/unsloth<br>Unslothは、AIモデルをローカル環境で実行、学習、デプロイするためのツールです。<br>あらゆる種類のモデルに対応しており、Claude CodeやCodexなどのAIエージェントをローカルモデルに連携させることができます。<br>提供形態は、デスクトップアプリ、ウェブUI、コードベースの3種類があります。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cactus-compute/needle Needle 2は、ツール呼び出し、デバイス操…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kitahan2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kitahan2p</guid>
+      <pubDate>Sat, 15 Aug 2026 11:19:50 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cursor/plugins 人気の開発ツール、フレームワーク、SaaS製品向けの公式Cu…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kieb4mz2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kieb4mz2h</guid>
+      <pubDate>Sat, 15 Aug 2026 11:19:34 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気の開発ツール、フレームワーク、SaaS製品向けの公式Cursorプラグインを提供するためのリポジトリです。<br>エージェントの機能拡張、チームワークフローの効率化、コードレビューの高度化など、開発体験を向上させるための多様なプラグインを管理しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気の開発ツール、フレームワーク、SaaS製品向けの公式Cursorプラグインを提供するためのリポジトリです。<br>エージェントの機能拡張、チームワークフローの効率化、コードレビューの高度化など、開発体験を向上させるための多様なプラグインを管理しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cordiverse/cordis Cordisは、時空間的な構成可能性を実現するためのメ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4khs5fr52z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4khs5fr52z</guid>
+      <pubDate>Sat, 15 Aug 2026 11:19:15 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cordiverse/cordis<br>Cordisは、時空間的な構成可能性を実現するためのメタフレームワークです。<br>現在開発中のため、APIは不安定であり変更される可能性があります。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cordiverse/cordis<br>Cordisは、時空間的な構成可能性を実現するためのメタフレームワークです。<br>現在開発中のため、APIは不安定であり変更される可能性があります。<br>]]></content:encoded>
+    </item>
     <item>
       <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
       <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt4h6eiufw25</link>
@@ -404,69 +467,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 deepseek-ai / awesome-deepseek-agent<br>⭐ 5,519 (+171)]]></description>
       <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 deepseek-ai / awesome-deepseek-agent<br>⭐ 5,519 (+171)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Kellanの指導のもとで技術判断を学び、データ駆動型の製品開発へと繋がった経験を振り返りつ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2c4psysw2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2c4psysw2g</guid>
-      <pubDate>Fri, 14 Aug 2026 13:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Kellanの指導のもとで技術判断を学び、データ駆動型の製品開発へと繋がった経験を振り返りつつ、技術選択は「退屈で信頼できる技術を優先する」べきだという考えを提示している。新技術の導入には組織全体での可視化と計画的な移行が必要で、現状の課題を解決するためにはまず現状の技術スタックでの工夫を検討することが有効だと主張している。結局、目的は「最悪の状況を最小化する選択」をし、無闇に新技術を投入するべきではないというメッセージで締めくくられている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Kellanの指導のもとで技術判断を学び、データ駆動型の製品開発へと繋がった経験を振り返りつつ、技術選択は「退屈で信頼できる技術を優先する」べきだという考えを提示している。新技術の導入には組織全体での可視化と計画的な移行が必要で、現状の課題を解決するためにはまず現状の技術スタックでの工夫を検討することが有効だと主張している。結局、目的は「最悪の状況を最小化する選択」をし、無闇に新技術を投入するべきではないというメッセージで締めくくられている。]]></content:encoded>
-    </item>
-    <item>
-      <title>退屈な技術を選ぶ（2015年） Choose Boring Technology (2015)  🔺 385 💬 5…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2c4g3jk22b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt2c4g3jk22b</guid>
-      <pubDate>Fri, 14 Aug 2026 13:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[退屈な技術を選ぶ（2015年）<br>Choose Boring Technology (2015)<br><br>🔺 385<br>💬 52<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[退屈な技術を選ぶ（2015年）<br>Choose Boring Technology (2015)<br><br>🔺 385<br>💬 52<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ToolJet / ToolJet ⭐ 38,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2ajyvd7w2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt2ajyvd7w2w</guid>
-      <pubDate>Fri, 14 Aug 2026 13:16:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ToolJet / ToolJet<br>⭐ 38,756 (+115)<br>🗒 JavaScript<br><br>ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ToolJet / ToolJet<br>⭐ 38,756 (+115)<br>🗒 JavaScript<br><br>ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO  🔖 159 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt25ubfu7f2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt25ubfu7f2b</guid>
-      <pubDate>Fri, 14 Aug 2026 12:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 cursor / plugins ⭐ 2,719 (+54) 🗒 TypeScript  Cursor plug…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt256qv2gk2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt256qv2gk2p</guid>
-      <pubDate>Fri, 14 Aug 2026 12:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 cursor / plugins<br>⭐ 2,719 (+54)<br>🗒 TypeScript<br><br>Cursor plugin specification and official plugins]]></description>
-      <content:encoded><![CDATA[📦 cursor / plugins<br>⭐ 2,719 (+54)<br>🗒 TypeScript<br><br>Cursor plugin specification and official plugins]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   最新のOCRサービスv4.1公開プレビュー。文書AIスタックに組み込み、段落レベルの境界ボッ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt23g2nlrp2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt23g2nlrp2c</guid>
-      <pubDate>Fri, 14 Aug 2026 11:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>最新のOCRサービスv4.1公開プレビュー。文書AIスタックに組み込み、段落レベルの境界ボックス抽出、構造ブロックラベル、ブロック単位の信頼度スコアを提供します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>最新のOCRサービスv4.1公開プレビュー。文書AIスタックに組み込み、段落レベルの境界ボックス抽出、構造ブロックラベル、ブロック単位の信頼度スコアを提供します。]]></content:encoded>
-    </item>
-    <item>
-      <title>ミストラル OCR 4.1 Mistral OCR 4.1  🔺 366 💬 22 🔗 HN Post | Art…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt23ftgywc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt23ftgywc2o</guid>
-      <pubDate>Fri, 14 Aug 2026 11:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ミストラル OCR 4.1<br>Mistral OCR 4.1<br><br>🔺 366<br>💬 22<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ミストラル OCR 4.1<br>Mistral OCR 4.1<br><br>🔺 366<br>💬 22<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
