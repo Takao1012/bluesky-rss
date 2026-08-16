@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 05:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:17:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6ia3brzj2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6ia3brzj2y</guid>
+      <pubDate>Sun, 16 Aug 2026 05:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力トークン）」の2段階で費用が発生し、出力が入力の約5倍の料金になる。キャッシュ機能（プロンプトキャッシュ）やモデル/effort/高速モード/コンパクト化/時間経過などの設定がコストに影響し、会話の前後関係や文脈の量がトータルコストを左右する。長いセッションほど再計算が増え、頻繁な切り替えや大規模出力はコストを高めるため、適切なセッション設計（新規開始/クリア/コンパクト/サブエージェント活用などが有効）を推奨。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力トークン）」の2段階で費用が発生し、出力が入力の約5倍の料金になる。キャッシュ機能（プロンプトキャッシュ）やモデル/effort/高速モード/コンパクト化/時間経過などの設定がコストに影響し、会話の前後関係や文脈の量がトータルコストを左右する。長いセッションほど再計算が増え、頻繁な切り替えや大規模出力はコストを高めるため、適切なセッション設計（新規開始/クリア/コンパクト/サブエージェント活用などが有効）を推奨。]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Codeセッションの価値を最大化する Maximizing the value of your Claud…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6i7ud2un2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6i7ud2un2q</guid>
+      <pubDate>Sun, 16 Aug 2026 05:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Claude Codeセッションの価値を最大化する<br>Maximizing the value of your Claude Code sessions<br><br>🔺 306<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Claude Codeセッションの価値を最大化する<br>Maximizing the value of your Claude Code sessions<br><br>🔺 306<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bjetrh427</link>
@@ -461,24 +479,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>public-apis/public-apis<br>様々な分野の公開APIをコミュニティが手動で収集し、リスト化したリポジトリです。<br>開発者が自身の製品に組み込むためのAPIを簡単に見つけられるようにすることを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>public-apis/public-apis<br>様々な分野の公開APIをコミュニティが手動で収集し、リスト化したリポジトリです。<br>開発者が自身の製品に組み込むためのAPIを簡単に見つけられるようにすることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  unslothai/unsloth Unslothは、AIモデルをローカル環境で実行、学習…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjmi6662g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kjmi6662g</guid>
-      <pubDate>Sat, 15 Aug 2026 11:20:17 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>unslothai/unsloth<br>Unslothは、AIモデルをローカル環境で実行、学習、デプロイするためのツールです。<br>あらゆる種類のモデルに対応しており、Claude CodeやCodexなどのAIエージェントをローカルモデルに連携させることができます。<br>提供形態は、デスクトップアプリ、ウェブUI、コードベースの3種類があります。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>unslothai/unsloth<br>Unslothは、AIモデルをローカル環境で実行、学習、デプロイするためのツールです。<br>あらゆる種類のモデルに対応しており、Claude CodeやCodexなどのAIエージェントをローカルモデルに連携させることができます。<br>提供形態は、デスクトップアプリ、ウェブUI、コードベースの3種類があります。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cactus-compute/needle Needle 2は、ツール呼び出し、デバイス操…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kitahan2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kitahan2p</guid>
-      <pubDate>Sat, 15 Aug 2026 11:19:50 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
