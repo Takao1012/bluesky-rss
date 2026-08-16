@@ -5,8 +5,52 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 22:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:07:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>My conclusions from the end of the post</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaci4u4ys2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaci4u4ys2b</guid>
+      <pubDate>Sun, 16 Aug 2026 23:06:56 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[My conclusions from the end of the post
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" alt="Some observations #
+The fact that a 17GB file can do all of this stuff on my home machines is a miracle. Once again, I’m delighted and amazed at how much progress local models have made this year. A year ago this would have been competitive with the best and most expensive of the proprietary models—today it can run on a capable laptop.
+
+The only thing holding this back from being a daily driver is performance. It feels pretty slow on both the M5 Mac and the DGX Spark. That’s the catch with these dense (non-Mixture-of-Experts) models—they require a whole lot of memory bandwidth to perform well, and neither of the machines I have access to are top performers in that regard.
+
+The most important thing about Qwen 3.8 27B is what it demonstrates. We can have an open weights general purpose model with a long context, effective tool calling, strong vision ability, and competent code generation, and we can fit the whole thing in just a 17GB file.
+
+The models at this size continue to get better at an impressive rate. We don’t need to spend half a million dollars on datacenter-class hardware just to run a competent model." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[My conclusions from the end of the post
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" alt="Some observations #
+The fact that a 17GB file can do all of this stuff on my home machines is a miracle. Once again, I’m delighted and amazed at how much progress local models have made this year. A year ago this would have been competitive with the best and most expensive of the proprietary models—today it can run on a capable laptop.
+
+The only thing holding this back from being a daily driver is performance. It feels pretty slow on both the M5 Mac and the DGX Spark. That’s the catch with these dense (non-Mixture-of-Experts) models—they require a whole lot of memory bandwidth to perform well, and neither of the machines I have access to are top performers in that regard.
+
+The most important thing about Qwen 3.8 27B is what it demonstrates. We can have an open weights general purpose model with a long context, effective tool calling, strong vision ability, and competent code generation, and we can fit the whole thing in just a 17GB file.
+
+The models at this size continue to get better at an impressive rate. We don’t need to spend half a million dollars on datacenter-class hardware just to run a competent model." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaazhrsqs2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaazhrsqs2b</guid>
+      <pubDate>Sun, 16 Aug 2026 22:40:50 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a script for transforming its own .jsonl transcripts to Markdown... which it did!<br><br>Here's the transcript of it building the tool I then used to share that transcript gist.github.com/simonw/491e5...]]></description>
+      <content:encoded><![CDATA[Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a script for transforming its own .jsonl transcripts to Markdown... which it did!<br><br>Here's the transcript of it building the tool I then used to share that transcript gist.github.com/simonw/491e5...]]></content:encoded>
+    </item>
+    <item>
+      <title>Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaayqc33k2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaayqc33k2b</guid>
+      <pubDate>Sun, 16 Aug 2026 22:40:25 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a script for transforming its own .jsonl transcripts to Markdown... which it did!<br><br>Here's the transcript of it building the tool I then used to share that transcript gist.github.com/simonw/491e5...]]></description>
+      <content:encoded><![CDATA[Fun bonus: I set Pi up with Qwen 3.8 27B and had it build a script for transforming its own .jsonl transcripts to Markdown... which it did!<br><br>Here's the transcript of it building the tool I then used to share that transcript gist.github.com/simonw/491e5...]]></content:encoded>
+    </item>
     <item>
       <title>Heees my review of Qwen 3.8 27B - I can&apos;t remember the last …</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mta6urbgf22b</link>
@@ -440,33 +484,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Anthropic's been so quiet lately, kinda dig it]]></description>
       <content:encoded><![CDATA[Anthropic's been so quiet lately, kinda dig it]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIは人間よりも「作業記憶」の制約が緩いため、長い数式や前提条件を外部の巨大な記録空間に書き…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5u4dvk6i2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5u4dvk6i2b</guid>
-      <pubDate>Sat, 15 Aug 2026 23:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIは人間よりも「作業記憶」の制約が緩いため、長い数式や前提条件を外部の巨大な記録空間に書き留めて推論を進められる点が数学で優位に働く、という主張を述べる。これにより、AIが“思考を外部ノートに書き出す”形で長い証明や多岐のケース分析をこなせる一方、純粋な洞察力の深さや概念の全面的な再構成力では未熟な場合がある。結局のところ、AIの数学的優位は計算力と記憶空間の組み合わせによるもので、真の創発的洞察にはまだ人間の独自性が残る、という結論に至る。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIは人間よりも「作業記憶」の制約が緩いため、長い数式や前提条件を外部の巨大な記録空間に書き留めて推論を進められる点が数学で優位に働く、という主張を述べる。これにより、AIが“思考を外部ノートに書き出す”形で長い証明や多岐のケース分析をこなせる一方、純粋な洞察力の深さや概念の全面的な再構成力では未熟な場合がある。結局のところ、AIの数学的優位は計算力と記憶空間の組み合わせによるもので、真の創発的洞察にはまだ人間の独自性が残る、という結論に至る。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIは人間の脳よりはるかに大きな作業記憶にアクセスできる。 AI has access to a vastly larg…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5u446ui42q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5u446ui42q</guid>
-      <pubDate>Sat, 15 Aug 2026 23:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIは人間の脳よりはるかに大きな作業記憶にアクセスできる。<br>AI has access to a vastly larger working memory than the human brain<br><br>🔺 369<br>💬 52<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIは人間の脳よりはるかに大きな作業記憶にアクセスできる。<br>AI has access to a vastly larger working memory than the human brain<br><br>🔺 369<br>💬 52<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   サイトは悪意あるボット対策としてセキュリティサービスを利用しており、あなたがボットでないこと…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5nfs2qqy2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5nfs2qqy2q</guid>
-      <pubDate>Sat, 15 Aug 2026 21:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>サイトは悪意あるボット対策としてセキュリティサービスを利用しており、あなたがボットでないことを検証している最中にこのページが表示されます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>サイトは悪意あるボット対策としてセキュリティサービスを利用しており、あなたがボットでないことを検証している最中にこのページが表示されます。]]></content:encoded>
     </item>
   </channel>
 </rss>
