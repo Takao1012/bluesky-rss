@@ -5,8 +5,101 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 14:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:07:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>…people use o3 still?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt7zymhviv2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt7zymhviv2x</guid>
+      <pubDate>Sun, 16 Aug 2026 20:33:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[…people use o3 still?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" alt="Quote Tweet: https://twitter.com/i/status/2088967076182388987" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[…people use o3 still?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" alt="Quote Tweet: https://twitter.com/i/status/2088967076182388987" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5xipfw27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5xipfw27</guid>
+      <pubDate>Sun, 16 Aug 2026 19:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の可能性があるため、接続を確認し、広告ブロックを無効化するか別のブラウザを試してください。さらに画像の認識キャプチャを解答して進行します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の可能性があるため、接続を確認し、広告ブロックを無効化するか別のブラウザを試してください。さらに画像の認識キャプチャを解答して進行します。]]></content:encoded>
+    </item>
+    <item>
+      <title>iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。 Firefox for iOS now ha…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5sx6u624</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5sx6u624</guid>
+      <pubDate>Sun, 16 Aug 2026 19:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。<br>Firefox for iOS now has a native adblocker<br><br>🔺 387<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。<br>Firefox for iOS now has a native adblocker<br><br>🔺 387<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:    claude.ai と Claude iOS/Android アプリの核心プロンプトが定期…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhi3rnx2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhi3rnx2y</guid>
+      <pubDate>Sun, 16 Aug 2026 17:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></content:encoded>
+    </item>
+    <item>
+      <title>クロード：システムプロンプト Claude: System Prompts  🔺 324 💬 43 🔗 HN Po…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhatxz32m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhatxz32m</guid>
+      <pubDate>Sun, 16 Aug 2026 17:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[クロード：システムプロンプト<br>Claude: System Prompts<br><br>🔺 324<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[クロード：システムプロンプト<br>Claude: System Prompts<br><br>🔺 324<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jra7l2d2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jra7l2d2m</guid>
+      <pubDate>Sun, 16 Aug 2026 15:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確になることが大規模追跡Studyで示された。BMIが正常範囲でも中央肥満が高い人は、九つのアウトカムの多くでリスクが15–50%高くなるケースがあり、臨床評価では腹部 fat の分布を考慮すべきだと結論づけられた。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確になることが大規模追跡Studyで示された。BMIが正常範囲でも中央肥満が高い人は、九つのアウトカムの多くでリスクが15–50%高くなるケースがあり、臨床評価では腹部 fat の分布を考慮すべきだと結論づけられた。]]></content:encoded>
+    </item>
+    <item>
+      <title>腹部の脂肪はBMIよりも心臓病リスクを予測する Abdominal fat predicts heart disease…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jquvrne27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jquvrne27</guid>
+      <pubDate>Sun, 16 Aug 2026 15:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[腹部の脂肪はBMIよりも心臓病リスクを予測する<br>Abdominal fat predicts heart disease risk better than BMI<br><br>🔺 301<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[腹部の脂肪はBMIよりも心臓病リスクを予測する<br>Abdominal fat predicts heart disease risk better than BMI<br><br>🔺 301<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>package for tool integration, fine-tuning with LoRA, and exp…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et7tk6a2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et7tk6a2s</guid>
+      <pubDate>Sun, 16 Aug 2026 14:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[package for tool integration, fine-tuning with LoRA, and export for offline/air-gapped use. (2/2)]]></description>
+      <content:encoded><![CDATA[package for tool integration, fine-tuning with LoRA, and export for offline/air-gapped use. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Needle 2 is a 45M-parameter, self-contained to…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et7sbjv2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et7sbjv2t</guid>
+      <pubDate>Sun, 16 Aug 2026 14:16:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Needle 2 is a 45M-parameter, self-contained tool-calling model that runs a full inference session in ~28MB RAM, using a compact CQ2-bit Simple Attention Network; it ships as a single .cact or 14MB engine, supports structured tool calls with confidence gating, and includes a Python (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Needle 2 is a 45M-parameter, self-contained tool-calling model that runs a full inference session in ~28MB RAM, using a compact CQ2-bit Simple Attention Network; it ships as a single .cact or 14MB engine, supports structured tool calls with confidence gating, and includes a Python (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 cactus-compute / ne…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et52bkj2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7et52bkj2t</guid>
+      <pubDate>Sun, 16 Aug 2026 14:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cactus-compute / needle<br>⭐ 6,335 (+447)<br>🗒 Python<br><br>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cactus-compute / needle<br>⭐ 6,335 (+447)<br>🗒 Python<br><br>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   2026/2027年の「スーパー・エルニーニョ」は、西風ブロウと深部海洋温度の大規模な上昇に…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7d2mmqtx24</link>
@@ -377,102 +470,6 @@
       <content:encoded><![CDATA[Recording the podcast in a bit. What should we talk about? Give us some fun questions to answer and you might end up in the episode :)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihtsx7j52qqur2cnrvrsifkywp5kdzboboivgidrb7blhefbhscku" alt="Quote Tweet: https://twitter.com/i/status/2088432858230919375" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihtsx7j52qqur2cnrvrsifkywp5kdzboboivgidrb7blhefbhscku" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Similar to how it’s easy for a robot arm to throw a ball tha…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tldetov2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tldetov2v</guid>
-      <pubDate>Sat, 15 Aug 2026 21:01:05 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Similar to how it’s easy for a robot arm to throw a ball than it is to thread a needle. There’s no dexterity shown here. Only brute force.<br><br>Most skateboarding dogs are more impressive than this (2/2)]]></description>
-      <content:encoded><![CDATA[Similar to how it’s easy for a robot arm to throw a ball than it is to thread a needle. There’s no dexterity shown here. Only brute force.<br><br>Most skateboarding dogs are more impressive than this (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Tbh barely a “pop” shuvit, mostly just back foot moving back…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tl7ww7z2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tl7ww7z2x</guid>
-      <pubDate>Sat, 15 Aug 2026 21:01:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Tbh barely a “pop” shuvit, mostly just back foot moving backwards fast to force board to spin.<br><br>This is easier than riding the board, much easier than an Ollie. Only requires one leg to do a very general motion. (1/2)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiefygmm67cx76onmryhy5hneqho32llapkrpc7uilvrcbyjk4f6sq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Tbh barely a “pop” shuvit, mostly just back foot moving backwards fast to force board to spin.<br><br>This is easier than riding the board, much easier than an Ollie. Only requires one leg to do a very general motion. (1/2)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiefygmm67cx76onmryhy5hneqho32llapkrpc7uilvrcbyjk4f6sq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiefygmm67cx76onmryhy5hneqho32llapkrpc7uilvrcbyjk4f6sq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I can pop shuvit with my eyes closed too. Call me when it ca…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tkz4kce27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tkz4kce27</guid>
-      <pubDate>Sat, 15 Aug 2026 20:59:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I can pop shuvit with my eyes closed too. Call me when it can kickflip
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaegezs77wqct32r6sh2syqxfkh6ilnm4myoju5qr3sl3u25ox3ia" alt="Quote Tweet: https://twitter.com/i/status/2088555528385400837" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I can pop shuvit with my eyes closed too. Call me when it can kickflip
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaegezs77wqct32r6sh2syqxfkh6ilnm4myoju5qr3sl3u25ox3ia" alt="Quote Tweet: https://twitter.com/i/status/2088555528385400837" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaegezs77wqct32r6sh2syqxfkh6ilnm4myoju5qr3sl3u25ox3ia" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>企業側がバックグラウンドチェックを早期に実施する新しい審査モードの普及が進んでいることを指摘している。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5gp6rtzb2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5gp6rtzb2m</guid>
-      <pubDate>Sat, 15 Aug 2026 19:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[企業側がバックグラウンドチェックを早期に実施する新しい審査モードの普及が進んでいることを指摘している。 (2/2)]]></description>
-      <content:encoded><![CDATA[企業側がバックグラウンドチェックを早期に実施する新しい審査モードの普及が進んでいることを指摘している。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   アップルが米政府の制裁リストと一致すると判断して私をApp Store Connectへアク…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5gp6odpv24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5gp6odpv24</guid>
-      <pubDate>Sat, 15 Aug 2026 19:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>アップルが米政府の制裁リストと一致すると判断して私をApp Store Connectへアクセス拒否したが、私の個人情報を提出しても誤認の是正を求めても回答が得られなかった。問題の元になった「Sean Byrne」は実在しない可能性が高く、米政府のEntity Listに名前が紐づくのはMac Aviationの虚偽の従業員名に由来していたことが後日判明した。結果として、私のような同名・同地を持つ人がfalse positiveに永遠に引っかかり得る現状と、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>アップルが米政府の制裁リストと一致すると判断して私をApp Store Connectへアクセス拒否したが、私の個人情報を提出しても誤認の是正を求めても回答が得られなかった。問題の元になった「Sean Byrne」は実在しない可能性が高く、米政府のEntity Listに名前が紐づくのはMac Aviationの虚偽の従業員名に由来していたことが後日判明した。結果として、私のような同名・同地を持つ人がfalse positiveに永遠に引っかかり得る現状と、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>もう一人のショーン・バーンは存在しない。 The other Sean Byrne doesn&apos;t exist  🔺 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5goyvwiq27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5goyvwiq27</guid>
-      <pubDate>Sat, 15 Aug 2026 19:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[もう一人のショーン・バーンは存在しない。<br>The other Sean Byrne doesn't exist<br><br>🔺 340<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[もう一人のショーン・バーンは存在しない。<br>The other Sean Byrne doesn't exist<br><br>🔺 340<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AI by Handは、Tom Yeh教授によるAI関連の講義・セミナーのアーカイブで、機械…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt57yt3qrh2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt57yt3qrh2b</guid>
-      <pubDate>Sat, 15 Aug 2026 17:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AI by Handは、Tom Yeh教授によるAI関連の講義・セミナーのアーカイブで、機械学習の数学・アルゴリズム・アーキテクチャといったテーマの解説や、対話的な学習教材（Interactive Math Workbookや注意機構の図解など）を提供している。最新の投稿では、ファインチューニングや自己注意機構、PPO系アルゴリズムなどAI技術の実装解説が中心。また、OpenClawやGANなど実例を交えた解説記事も掲載されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AI by Handは、Tom Yeh教授によるAI関連の講義・セミナーのアーカイブで、機械学習の数学・アルゴリズム・アーキテクチャといったテーマの解説や、対話的な学習教材（Interactive Math Workbookや注意機構の図解など）を提供している。最新の投稿では、ファインチューニングや自己注意機構、PPO系アルゴリズムなどAI技術の実装解説が中心。また、OpenClawやGANなど実例を交えた解説記事も掲載されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>手作りのAI AI by Hand  🔺 342 💬 14 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt57ykjjux2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt57ykjjux2g</guid>
-      <pubDate>Sat, 15 Aug 2026 17:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[手作りのAI<br>AI by Hand<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[手作りのAI<br>AI by Hand<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>It has one of those, I&apos;ve been running it on default of &quot;ext…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt577buhdk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt577buhdk2l</guid>
-      <pubDate>Sat, 15 Aug 2026 17:30:19 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It has one of those, I've been running it on default of "extra high" - the lower reasoning levels are much more, well, reasonable]]></description>
-      <content:encoded><![CDATA[It has one of those, I've been running it on default of "extra high" - the lower reasoning levels are much more, well, reasonable]]></content:encoded>
-    </item>
-    <item>
-      <title>Yep, my home computer spent at least 10 minutes on this!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt575r7us22l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mt575r7us22l</guid>
-      <pubDate>Sat, 15 Aug 2026 17:29:28 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Yep, my home computer spent at least 10 minutes on this!]]></description>
-      <content:encoded><![CDATA[Yep, my home computer spent at least 10 minutes on this!]]></content:encoded>
     </item>
   </channel>
 </rss>
