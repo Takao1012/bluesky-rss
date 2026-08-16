@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:09:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnblbyc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnblbyc2q</guid>
+      <pubDate>Sun, 16 Aug 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)]]></description>
+      <content:encoded><![CDATA[その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   RISC-V の設計には「全てをオプション化する」方針や、低コストの組み込み用途と高性能サー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnbhvnd24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnbhvnd24</guid>
+      <pubDate>Sun, 16 Aug 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>RISC-V の設計には「全てをオプション化する」方針や、低コストの組み込み用途と高性能サーバ用途を両立させようとする際の非現実的な前提が混在しており、結果として組み込み向けは遅さとコード密度の問題、サーバ向けは拡張性とデコードの難しさが生じていると批判している。特に、圧縮命令の設計の不備、Zicsr/ misa などのオプション性、そして最も基本的な機能さえオプションにしてしまう点が一貫性を欠くと指摘されている。著者は、RISC-V が「全ての用途に適合する」ことを目指すこと自体が誤っており、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>RISC-V の設計には「全てをオプション化する」方針や、低コストの組み込み用途と高性能サーバ用途を両立させようとする際の非現実的な前提が混在しており、結果として組み込み向けは遅さとコード密度の問題、サーバ向けは拡張性とデコードの難しさが生じていると批判している。特に、圧縮命令の設計の不備、Zicsr/ misa などのオプション性、そして最も基本的な機能さえオプションにしてしまう点が一貫性を欠くと指摘されている。著者は、RISC-V が「全ての用途に適合する」ことを目指すこと自体が誤っており、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>RISC-V：彼らはもっとよく知っておくべきだった RISC-V: They Should Have Known Bet…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vn4kmgm2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vn4kmgm2b</guid>
+      <pubDate>Sun, 16 Aug 2026 09:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[RISC-V：彼らはもっとよく知っておくべきだった<br>RISC-V: They Should Have Known Better<br><br>🔺 309<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[RISC-V：彼らはもっとよく知っておくべきだった<br>RISC-V: They Should Have Known Better<br><br>🔺 309<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々  🔖 159 ブックマーク 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt6uq3hnk62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt6uq3hnk62k</guid>
+      <pubDate>Sun, 16 Aug 2026 09:28:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AIとの協働は「指示を出す」能力だけでなく、文脈の共有や期待する成果の説明、境界設定などリー…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6owpd2dx27</link>
@@ -443,42 +479,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>この文章は、筆者が机の横に置く7冊の本を紹介し、それぞれの魅力と使い方を語る自己紹介的なリストです。具体的には Roget's Thesaurus、Sir Thomas Browneの prose、Boccaccioの Decameron、From Frege to Gödel（van Heijenoort 編）、Orbis Sensualium Pictis（Comenius）、新改訳聖書（NIV）、そして聖書や中世美術に関連する他の本を挙げ、それぞれが執筆や知識探究にどう影響するかを説明しています。同时、各本の個人的な思い出や学術的な見解、 (1/2)]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>この文章は、筆者が机の横に置く7冊の本を紹介し、それぞれの魅力と使い方を語る自己紹介的なリストです。具体的には Roget's Thesaurus、Sir Thomas Browneの prose、Boccaccioの Decameron、From Frege to Gödel（van Heijenoort 編）、Orbis Sensualium Pictis（Comenius）、新改訳聖書（NIV）、そして聖書や中世美術に関連する他の本を挙げ、それぞれが執筆や知識探究にどう影響するかを説明しています。同时、各本の個人的な思い出や学術的な見解、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>私が愛しているから、手元に置いてある七冊の本 Seven books I keep close because I lo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slk6duj2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slk6duj2o</guid>
-      <pubDate>Sat, 15 Aug 2026 13:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私が愛しているから、手元に置いてある七冊の本<br>Seven books I keep close because I love them<br><br>🔺 354<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私が愛しているから、手元に置いてある七冊の本<br>Seven books I keep close because I love them<br><br>🔺 354<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt4rohpain22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt4rohpain22</guid>
-      <pubDate>Sat, 15 Aug 2026 13:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Cordis is a developing meta-framework for spat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4qyzjhwp2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4qyzjhwp2v</guid>
-      <pubDate>Sat, 15 Aug 2026 13:16:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Cordis is a developing meta-framework for spatiotemporal composability, offering a programming paradigm designed around combining spatial and temporal constructs, with an evolving API and accompanying paper and primer documentation.]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Cordis is a developing meta-framework for spatiotemporal composability, offering a programming paradigm designed around combining spatial and temporal constructs, with an evolving API and accompanying paper and primer documentation.]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 cordiverse / cordis …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4qyx55dg2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4qyx55dg2f</guid>
-      <pubDate>Sat, 15 Aug 2026 13:16:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 cordiverse / cordis<br>⭐ 3,708 (+616)<br>🗒 TypeScript<br><br>Meta-Framework of Spatiotemporal Composability]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 cordiverse / cordis<br>⭐ 3,708 (+616)<br>🗒 TypeScript<br><br>Meta-Framework of Spatiotemporal Composability]]></content:encoded>
     </item>
   </channel>
 </rss>

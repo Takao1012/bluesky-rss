@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:09:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>PIGGS、解散前に全国5都市巡るラストツアー開催 https://natalie.mu/music/news/685…</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mt6wjhi6ej2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mt6wjhi6ej2e</guid>
+      <pubDate>Sun, 16 Aug 2026 10:00:13 GMT</pubDate>
+      <author>音楽ナタリー (@music.natalie.mu)</author>
+      <description><![CDATA[PIGGS、解散前に全国5都市巡るラストツアー開催<br>https://natalie.mu/music/news/685364?utm_source=bluesky&utm_medium=social<br><br>#PIGGS
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreicnymug6hylhykb7cd4ljefysrcnqobxza2bibunploovqbkjqiuy" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[PIGGS、解散前に全国5都市巡るラストツアー開催<br>https://natalie.mu/music/news/685364?utm_source=bluesky&utm_medium=social<br><br>#PIGGS
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreicnymug6hylhykb7cd4ljefysrcnqobxza2bibunploovqbkjqiuy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreicnymug6hylhykb7cd4ljefysrcnqobxza2bibunploovqbkjqiuy" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>The high-profile murder trial of Lindsay Clancy&apos;s has put th…</title>
       <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mt6tqlpwo424</link>
@@ -516,15 +528,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreifh3mbyru3ykytznkvpmiuen4dql73blviplw2c7npaprioibaibm" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreiejbvue5j5wsdhldg74shszqv6347jcicyjkalkimequgpthmvn5e" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreihot6bzplswnvqfnpjphf7sokn52bq6qh63q3jflzqdh3tohdhjse" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The company that makes the gloves, Compliant Technologies, s…</title>
-      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mt4qjdahpt2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mt4qjdahpt2v</guid>
-      <pubDate>Sat, 15 Aug 2026 13:07:29 GMT</pubDate>
-      <author>NPR (@npr.org)</author>
-      <description><![CDATA[The company that makes the gloves, Compliant Technologies, says they're a nonlethal tool to make individuals compliant during arrests.]]></description>
-      <content:encoded><![CDATA[The company that makes the gloves, Compliant Technologies, says they're a nonlethal tool to make individuals compliant during arrests.]]></content:encoded>
     </item>
   </channel>
 </rss>
