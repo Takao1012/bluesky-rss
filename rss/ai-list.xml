@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 03:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 04:22:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bjetrh427</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bjetrh427</guid>
+      <pubDate>Sun, 16 Aug 2026 03:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追加したプレビュー版をx86_64 Debian/Ubuntu系で提供開始。初期設定後、リモート機の現地不在時や再起動後のログイン画面からも接続可能になるが、Waylandは未完成部分があり今後他のディストリビューションへ拡大予定。注意喚起メッセージも併記されているため、公式の不審な勧誘には注意。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追加したプレビュー版をx86_64 Debian/Ubuntu系で提供開始。初期設定後、リモート機の現地不在時や再起動後のログイン画面からも接続可能になるが、Waylandは未完成部分があり今後他のディストリビューションへ拡大予定。注意喚起メッセージも併記されているため、公式の不審な勧誘には注意。]]></content:encoded>
+    </item>
+    <item>
+      <title>RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。 RustDesk now su…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bj6o5wu2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bj6o5wu2o</guid>
+      <pubDate>Sun, 16 Aug 2026 03:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。<br>RustDesk now supports true unattended remote access on Wayland<br><br>🔺 337<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。<br>RustDesk now supports true unattended remote access on Wayland<br><br>🔺 337<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   申し訳ありませんが、提供されたテキストは記事ではなく、ウェブサイトのセキュリティ検証画面です…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt62szsql52l</link>
@@ -461,24 +479,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cactus-compute/needle<br>Needle 2は、ツール呼び出し、デバイス操作、構造化抽出を目的とした45Mパラメータの超軽量モデルです。<br>Simple Attention Networkを採用し、極めて少ないメモリ消費で動作します。<br>本リポジトリは、このモデルの推論、LoRA微調整、およびエクスポートを行うためのPythonパッケージを提供します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cursor/plugins 人気の開発ツール、フレームワーク、SaaS製品向けの公式Cu…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kieb4mz2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4kieb4mz2h</guid>
-      <pubDate>Sat, 15 Aug 2026 11:19:34 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気の開発ツール、フレームワーク、SaaS製品向けの公式Cursorプラグインを提供するためのリポジトリです。<br>エージェントの機能拡張、チームワークフローの効率化、コードレビューの高度化など、開発体験を向上させるための多様なプラグインを管理しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気の開発ツール、フレームワーク、SaaS製品向けの公式Cursorプラグインを提供するためのリポジトリです。<br>エージェントの機能拡張、チームワークフローの効率化、コードレビューの高度化など、開発体験を向上させるための多様なプラグインを管理しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cordiverse/cordis Cordisは、時空間的な構成可能性を実現するためのメ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4khs5fr52z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mt4khs5fr52z</guid>
-      <pubDate>Sat, 15 Aug 2026 11:19:15 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cordiverse/cordis<br>Cordisは、時空間的な構成可能性を実現するためのメタフレームワークです。<br>現在開発中のため、APIは不安定であり変更される可能性があります。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cordiverse/cordis<br>Cordisは、時空間的な構成可能性を実現するためのメタフレームワークです。<br>現在開発中のため、APIは不安定であり変更される可能性があります。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
