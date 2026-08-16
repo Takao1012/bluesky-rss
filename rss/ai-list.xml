@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:08:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B-FP8 本リポジトリは、Qwen3.8-27B…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xnucrqf2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xnucrqf2a</guid>
+      <pubDate>Sun, 16 Aug 2026 10:20:37 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>本リポジトリは、Qwen3.8-27BモデルのFP8量子化済み重みと設定ファイルを提供することを目的としています。<br>Qwen3.8-27Bは画像や動画を理解できる視覚言語モデルで、コーディングや専門業務、複雑なエージェントタスクに最適化されています。<br>FP8量子化により、元のモデルと同等の性能を維持したまま、vLLMやHugging Face Transformersなどの環境で効率的に導入・運用することが可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>本リポジトリは、Qwen3.8-27BモデルのFP8量子化済み重みと設定ファイルを提供することを目的としています。<br>Qwen3.8-27Bは画像や動画を理解できる視覚言語モデルで、コーディングや専門業務、複雑なエージェントタスクに最適化されています。<br>FP8量子化により、元のモデルと同等の性能を維持したまま、vLLMやHugging Face Transformersなどの環境で効率的に導入・運用することが可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-0731 DeepS…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xnb6zkv2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xnb6zkv2a</guid>
+      <pubDate>Sun, 16 Aug 2026 10:20:17 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731は、DeepSeek-V4-Flashの正式版モデルを公開するためのリポジトリです。<br>推測デコーディングモジュールを搭載し、エージェント能力を大幅に強化しています。<br>少ない活性化パラメータ数でありながら、商用モデルに匹敵する性能を実現し、特にコーディングエージェント等のタスクにおいて高い効率と精度を提供することを目的にしています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731は、DeepSeek-V4-Flashの正式版モデルを公開するためのリポジトリです。<br>推測デコーディングモジュールを搭載し、エージェント能力を大幅に強化しています。<br>少ない活性化パラメータ数でありながら、商用モデルに匹敵する性能を実現し、特にコーディングエージェント等のタスクにおいて高い効率と精度を提供することを目的にしています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Pro-0813 DeepSee…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xmmpova2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xmmpova2d</guid>
+      <pubDate>Sun, 16 Aug 2026 10:19:56 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版をベースにDSpark投機的デコーディングモジュールを追加し、エージェント能力や実運用環境での性能を向上させています。<br>多様なベンチマークにおいてプレビュー版を上回り、高性能な商用モデルに匹敵する性能を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版をベースにDSpark投機的デコーディングモジュールを追加し、エージェント能力や実運用環境での性能を向上させています。<br>多様なベンチマークにおいてプレビュー版を上回り、高性能な商用モデルに匹敵する性能を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xm2hqb72j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xm2hqb72j</guid>
+      <pubDate>Sun, 16 Aug 2026 10:19:36 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xlimlyq2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xlimlyq2d</guid>
+      <pubDate>Sun, 16 Aug 2026 10:19:18 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容を記載して再度ご依頼ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容を記載して再度ご依頼ください。<br>]]></content:encoded>
+    </item>
     <item>
       <title>その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnblbyc2q</link>
@@ -434,51 +479,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MakazhanAlpamys / Soup<br>⭐ 1,434 (+303)<br>🗒 Python<br><br>Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MakazhanAlpamys / Soup<br>⭐ 1,434 (+303)<br>🗒 Python<br><br>Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.]]></content:encoded>
-    </item>
-    <item>
-      <title>the public-apis index for further exploration. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4ueff5i62j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4ueff5i62j</guid>
-      <pubDate>Sat, 15 Aug 2026 14:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[the public-apis index for further exploration. (2/2)]]></description>
-      <content:encoded><![CDATA[the public-apis index for further exploration. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   APILayer has launched a unified suite offering…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4uefdvrm2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4uefdvrm2h</guid>
-      <pubDate>Sat, 15 Aug 2026 14:16:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>APILayer has launched a unified suite offering production-grade REST APIs accessible with one account and one API key, covering services like IP geolocation, email validation, weather, finance, aviation, and more. The post also invites signup, a Postman collection, and points to (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>APILayer has launched a unified suite offering production-grade REST APIs accessible with one account and one API key, covering services like IP geolocation, email validation, weather, finance, aviation, and more. The post also invites signup, a Postman collection, and points to (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 public-apis / public…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4uebt4ax2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt4uebt4ax2f</guid>
-      <pubDate>Sat, 15 Aug 2026 14:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 public-apis / public-apis<br>⭐ 459,302 (+2,476)<br>🗒 Python<br><br>A collective list of free APIs]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 public-apis / public-apis<br>⭐ 459,302 (+2,476)<br>🗒 Python<br><br>A collective list of free APIs]]></content:encoded>
-    </item>
-    <item>
-      <title>翻訳や版の違いにも触れています。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slptsoa2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slptsoa2m</guid>
-      <pubDate>Sat, 15 Aug 2026 13:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[翻訳や版の違いにも触れています。 (2/2)]]></description>
-      <content:encoded><![CDATA[翻訳や版の違いにも触れています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   この文章は、筆者が机の横に置く7冊の本を紹介し、それぞれの魅力と使い方を語る自己紹介的なリス…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slpq6by2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4slpq6by2l</guid>
-      <pubDate>Sat, 15 Aug 2026 13:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>この文章は、筆者が机の横に置く7冊の本を紹介し、それぞれの魅力と使い方を語る自己紹介的なリストです。具体的には Roget's Thesaurus、Sir Thomas Browneの prose、Boccaccioの Decameron、From Frege to Gödel（van Heijenoort 編）、Orbis Sensualium Pictis（Comenius）、新改訳聖書（NIV）、そして聖書や中世美術に関連する他の本を挙げ、それぞれが執筆や知識探究にどう影響するかを説明しています。同时、各本の個人的な思い出や学術的な見解、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>この文章は、筆者が机の横に置く7冊の本を紹介し、それぞれの魅力と使い方を語る自己紹介的なリストです。具体的には Roget's Thesaurus、Sir Thomas Browneの prose、Boccaccioの Decameron、From Frege to Gödel（van Heijenoort 編）、Orbis Sensualium Pictis（Comenius）、新改訳聖書（NIV）、そして聖書や中世美術に関連する他の本を挙げ、それぞれが執筆や知識探究にどう影響するかを説明しています。同时、各本の個人的な思い出や学術的な見解、 (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
