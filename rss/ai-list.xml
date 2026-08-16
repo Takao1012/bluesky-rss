@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 22:06:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Heees my review of Qwen 3.8 27B - I can&apos;t remember the last …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mta6urbgf22b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mta6urbgf22b</guid>
+      <pubDate>Sun, 16 Aug 2026 22:02:25 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Heees my review of Qwen 3.8 27B - I can't remember the last time I've had this much fun playing with a local model that runs on my own computers simonwillison.net/2026/Aug/16/...]]></description>
+      <content:encoded><![CDATA[Heees my review of Qwen 3.8 27B - I can't remember the last time I've had this much fun playing with a local model that runs on my own computers simonwillison.net/2026/Aug/16/...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   この文章は、ネットワーク上の異常なトラフィックを検知したため、リクエストを後で再試行するよう…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mta5uk42x42l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mta5uk42x42l</guid>
+      <pubDate>Sun, 16 Aug 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>この文章は、ネットワーク上の異常なトラフィックを検知したため、リクエストを後で再試行するよう案内する警告です。表示情報には、発信元IPとアクセスURL、時刻が含まれています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>この文章は、ネットワーク上の異常なトラフィックを検知したため、リクエストを後で再試行するよう案内する警告です。表示情報には、発信元IPとアクセスURL、時刻が含まれています。]]></content:encoded>
+    </item>
+    <item>
+      <title>『kidney disappointment』を『kidney failure』の代わりに用いている研究論文 Resea…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mta5ufuhvj27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mta5ufuhvj27</guid>
+      <pubDate>Sun, 16 Aug 2026 21:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[『kidney disappointment』を『kidney failure』の代わりに用いている研究論文<br>Research papers using "kidney disappointment" instead of "kidney failure"<br><br>🔺 340<br>💬 41<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[『kidney disappointment』を『kidney failure』の代わりに用いている研究論文<br>Research papers using "kidney disappointment" instead of "kidney failure"<br><br>🔺 340<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>…people use o3 still?</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt7zymhviv2x</link>
@@ -440,36 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>サイトは悪意あるボット対策としてセキュリティサービスを利用しており、あなたがボットでないことを検証している最中にこのページが表示されます。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>サイトは悪意あるボット対策としてセキュリティサービスを利用しており、あなたがボットでないことを検証している最中にこのページが表示されます。]]></content:encoded>
-    </item>
-    <item>
-      <title>Codexを用いた自動リサーチ：私が232倍速いカーネルを実現した方法 Auto-research with codex…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5nfncp3m2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt5nfncp3m2o</guid>
-      <pubDate>Sat, 15 Aug 2026 21:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Codexを用いた自動リサーチ：私が232倍速いカーネルを実現した方法<br>Auto-research with codex: How I achieved a 232x Faster Kernel<br><br>🔺 353<br>💬 20<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Codexを用いた自動リサーチ：私が232倍速いカーネルを実現した方法<br>Auto-research with codex: How I achieved a 232x Faster Kernel<br><br>🔺 353<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 メール確認コードを不要にする Email Verification Protocol (EVP)  🔖 151 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt5mivrrtd2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mt5mivrrtd2k</guid>
-      <pubDate>Sat, 15 Aug 2026 21:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 メール確認コードを不要にする Email Verification Protocol (EVP)<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 メール確認コードを不要にする Email Verification Protocol (EVP)<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Recording the podcast in a bit. What should we talk about? G…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tltoydl2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5tltoydl2y</guid>
-      <pubDate>Sat, 15 Aug 2026 21:04:19 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Recording the podcast in a bit. What should we talk about? Give us some fun questions to answer and you might end up in the episode :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihtsx7j52qqur2cnrvrsifkywp5kdzboboivgidrb7blhefbhscku" alt="Quote Tweet: https://twitter.com/i/status/2088432858230919375" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Recording the podcast in a bit. What should we talk about? Give us some fun questions to answer and you might end up in the episode :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihtsx7j52qqur2cnrvrsifkywp5kdzboboivgidrb7blhefbhscku" alt="Quote Tweet: https://twitter.com/i/status/2088432858230919375" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihtsx7j52qqur2cnrvrsifkywp5kdzboboivgidrb7blhefbhscku" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
