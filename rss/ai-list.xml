@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 12:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:21:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Summary:   Omarchy is a modern, opinionated Linux distrib…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7bhu65ji2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7bhu65ji2w</guid>
+      <pubDate>Sun, 16 Aug 2026 13:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Omarchy is a modern, opinionated Linux distribution by DHH, with a comprehensive manual hosted locally and online (learn.omacom.io), covering setup, usage, applications, configuration, troubleshooting, and more, all under the MIT license.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Omarchy is a modern, opinionated Linux distribution by DHH, with a comprehensive manual hosted locally and online (learn.omacom.io), covering setup, usage, applications, configuration, troubleshooting, and more, all under the MIT license.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 basecamp / omarchy …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7bhqpu6u2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt7bhqpu6u2t</guid>
+      <pubDate>Sun, 16 Aug 2026 13:16:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 basecamp / omarchy<br>⭐ 25,082 (+225)<br>🗒 Shell<br><br>Beautiful, Modern &amp; Opinionated Linux]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 basecamp / omarchy<br>⭐ 25,082 (+225)<br>🗒 Shell<br><br>Beautiful, Modern &amp; Opinionated Linux]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 akitaonrails / ai-memory ⭐ 1,539 (+41) 🗒 Rust  Solution …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt764lbjuz2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt764lbjuz2s</guid>
+      <pubDate>Sun, 16 Aug 2026 12:16:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 akitaonrails / ai-memory<br>⭐ 1,539 (+41)<br>🗒 Rust<br><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors]]></description>
+      <content:encoded><![CDATA[📦 akitaonrails / ai-memory<br>⭐ 1,539 (+41)<br>🗒 Rust<br><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors]]></content:encoded>
+    </item>
     <item>
       <title>Qwen3.8-27B Qwen3.8-27B  🔺 298 💬 5 🔗 HN Post | Article</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt74don34g2c</link>
@@ -446,33 +473,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>A comprehensive design system and editor for editorial-quality diagrams, offering 27 visual types that render statically by default, with optional motion, semantic patterns, brand onboarding, and full import/export workflows (Draw.io/Mermaid, PNG/SVG) all configurable via (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>A comprehensive design system and editor for editorial-quality diagrams, offering 27 visual types that render statically by default, with optional motion, semantic patterns, brand onboarding, and full import/export workflows (Draw.io/Mermaid, PNG/SVG) all configurable via (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 cathrynlavery / diag…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532ufm5g2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mt532ufm5g2k</guid>
-      <pubDate>Sat, 15 Aug 2026 16:16:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 cathrynlavery / diagram-design<br>⭐ 18,267 (+1,619)<br>🗒 HTML<br><br>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 cathrynlavery / diagram-design<br>⭐ 18,267 (+1,619)<br>🗒 HTML<br><br>29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zcdqrn624</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zcdqrn624</guid>
-      <pubDate>Sat, 15 Aug 2026 15:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上を設置。これにより卸売電力価格を約半額に引き下げ、国内の蓄電池普及数は米国を上回る規模となった。蓄電池とスマート需要対策で、太陽光過剰を活用しつつ電力網の安定化とコスト低減に寄与している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>オーストラリアは自宅用蓄電池の大規模 subsidizing を進め、1年以上で50万台以上を設置。これにより卸売電力価格を約半額に引き下げ、国内の蓄電池普及数は米国を上回る規模となった。蓄電池とスマート需要対策で、太陽光過剰を活用しつつ電力網の安定化とコスト低減に寄与している。]]></content:encoded>
-    </item>
-    <item>
-      <title>オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。 In Australia, a home b…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zc5zzkx2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt4zc5zzkx2c</guid>
-      <pubDate>Sat, 15 Aug 2026 15:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。<br>In Australia, a home battery boom has helped cut wholesale power prices<br><br>🔺 343<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[オーストラリアでは、家庭用蓄電池の普及が卸売電力価格の低下に寄与している。<br>In Australia, a home battery boom has helped cut wholesale power prices<br><br>🔺 343<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
