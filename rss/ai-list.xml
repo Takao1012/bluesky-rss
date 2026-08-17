@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 23:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:27:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Yeah I wish I had a 5090 to run this on!</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtagjnqkac26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtagjnqkac26</guid>
+      <pubDate>Mon, 17 Aug 2026 00:19:22 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Yeah I wish I had a 5090 to run this on!]]></description>
+      <content:encoded><![CDATA[Yeah I wish I had a 5090 to run this on!]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点か…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaelbxs7h2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaelbxs7h2b</guid>
+      <pubDate>Sun, 16 Aug 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点から反論を展開している。低コストのRV32EC/CH32V003の実例を挙げ、安価なマイクロコントローラ領域でもRISC-Vが成立すると主張し、普及と教育機会の拡大こそがISA選択の本質だと述べる。さらに、アーキテクチャ単体の議論よりも、世界の実情に即した普及性と自由度が重要だと論じている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点から反論を展開している。低コストのRV32EC/CH32V003の実例を挙げ、安価なマイクロコントローラ領域でもRISC-Vが成立すると主張し、普及と教育機会の拡大こそがISA選択の本質だと述べる。さらに、アーキテクチャ単体の議論よりも、世界の実情に即した普及性と自由度が重要だと論じている。]]></content:encoded>
+    </item>
+    <item>
+      <title>途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する A …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtael4svuf27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtael4svuf27</guid>
+      <pubDate>Sun, 16 Aug 2026 23:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する<br>A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"<br><br>🔺 316<br>💬 36<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する<br>A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"<br><br>🔺 316<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>My conclusions from the end of the post</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaci4u4ys2b</link>
@@ -449,41 +476,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[セマグルチドは、予測される認知症リスクを低下させることと関連付けられている。<br>Semaglutide linked to lower predicted dementia risk<br><br>🔺 347<br>💬 26<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[セマグルチドは、予測される認知症リスクを低下させることと関連付けられている。<br>Semaglutide linked to lower predicted dementia risk<br><br>🔺 347<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Kinda wild to see Dario blaming social media algorithms for …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt62bopkbw2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt62bopkbw2y</guid>
-      <pubDate>Sun, 16 Aug 2026 01:30:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Kinda wild to see Dario blaming social media algorithms for hurting the public reputation of their text generation algorithms
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidt2nbg3x5ty4plit5ywkydgddm6lcfvr72ixvxvxfaodpuzzqlx4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Kinda wild to see Dario blaming social media algorithms for hurting the public reputation of their text generation algorithms
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidt2nbg3x5ty4plit5ywkydgddm6lcfvr72ixvxvxfaodpuzzqlx4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidt2nbg3x5ty4plit5ywkydgddm6lcfvr72ixvxvxfaodpuzzqlx4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>&quot;I&apos;m impressed that your brain runs on only 15-20 watts tbh&quot;</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5ym4g2v32w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5ym4g2v32w</guid>
-      <pubDate>Sun, 16 Aug 2026 01:03:44 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA["I'm impressed that your brain runs on only 15-20 watts tbh"
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihalzz6wzdqqv67o5qp7h7o3jfv6gzdtjvdmer4rbcpolaearw73q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibkkgb2u4p3szgooftc26sbehkgea2uba7vt6bwwj3yq7revjdt3i" alt="Quote Tweet: https://twitter.com/i/status/2088684251441254666" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA["I'm impressed that your brain runs on only 15-20 watts tbh"
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihalzz6wzdqqv67o5qp7h7o3jfv6gzdtjvdmer4rbcpolaearw73q" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibkkgb2u4p3szgooftc26sbehkgea2uba7vt6bwwj3yq7revjdt3i" alt="Quote Tweet: https://twitter.com/i/status/2088684251441254666" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihalzz6wzdqqv67o5qp7h7o3jfv6gzdtjvdmer4rbcpolaearw73q" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Anthropic&apos;s been so quiet lately, kinda dig it</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5vagfzuh2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt5vagfzuh2v</guid>
-      <pubDate>Sun, 16 Aug 2026 00:04:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Anthropic's been so quiet lately, kinda dig it]]></description>
-      <content:encoded><![CDATA[Anthropic's been so quiet lately, kinda dig it]]></content:encoded>
     </item>
   </channel>
 </rss>
