@@ -5,8 +5,65 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:11:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>My wife Natalie says she&apos;s never related so much to a model …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtalsnbyfs26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtalsnbyfs26</guid>
+      <pubDate>Mon, 17 Aug 2026 01:53:52 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[My wife Natalie says she's never related so much to a model in her life]]></description>
+      <content:encoded><![CDATA[My wife Natalie says she's never related so much to a model in her life]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve been enjoying that so much - I tried &quot;render an svg of …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtallgcbas26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtallgcbas26</guid>
+      <pubDate>Mon, 17 Aug 2026 01:49:50 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I've been enjoying that so much - I tried "render an svg of five intersecting squares. don't overthink this" at one point and yeah...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiazryzetksmo4kd66hhlznxwedatcibsdbg47els2wvi3qardcwni" alt="Screenshot of a web app called CORS Chat, showing a chat with a local LLM including its reasoning trace and a rendered SVG preview. Header bar: CORS Chat - green dot ENDPOINT Spark - MODEL qwen3.8-27b - New chat. Left sidebar: CONVERSATIONS + with three items, each labeled qwen3.8-27b and 6h: draw an svg of a circle, render an svg of five interse... (selected), render an svg of three inter... Main panel title: render an svg of five intersecting squares. don't over - qwen3.8-27b · saved in this browser - buttons Copy JSON and Delete. USER message: render an svg of five intersecting squares. don't overthink this. ASSISTANT response shows a collapsible ▼ Reasoning trace panel reading: The user wants me to render an SVG of 5 intersecting squares. "Don't overthink it" — so I should keep it simple, but still make it look good and polished. A clean composition: 5 squares rotated at different angles around a common center, with some semi-transparency so the intersections read clearly. Let me think about the design: Center of viewBox, e.g., 400x400 or 300x300. 5 squares centered on the same point (or slightly offset for visual interest), each rotated at different angles — like a starburst / flower-of-life-style geometric pattern. Use semi-transparent fill so overlaps show up, with strokes on top. "5 intersecting squares" — the simplest most readable version: all 5 share the center and are rotated by 36° increments (72/2 = 36 for a pentagram-style feel). Actually rotating a square 90° gives you the same shape, so 4 rotations of 22.5° make an 8-pointed star. For 5 squares, offsets like 0°, 36°, 72°, ... hmm — rotate by 36° each: 0, 36, 72, 108(=18), 144(= -36) — that gives a nice kaleidoscopic effect. Or vary the size slightly and offset them for more dynamism? Keep it simple as requested. Centered squares with varying rotation angles is clean and clearly "intersecting." Colors: use different hues, semi-transparent fill (fill-opacity ~0.5-0.7), solid stroke. A dark background …" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I've been enjoying that so much - I tried "render an svg of five intersecting squares. don't overthink this" at one point and yeah...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiazryzetksmo4kd66hhlznxwedatcibsdbg47els2wvi3qardcwni" alt="Screenshot of a web app called CORS Chat, showing a chat with a local LLM including its reasoning trace and a rendered SVG preview. Header bar: CORS Chat - green dot ENDPOINT Spark - MODEL qwen3.8-27b - New chat. Left sidebar: CONVERSATIONS + with three items, each labeled qwen3.8-27b and 6h: draw an svg of a circle, render an svg of five interse... (selected), render an svg of three inter... Main panel title: render an svg of five intersecting squares. don't over - qwen3.8-27b · saved in this browser - buttons Copy JSON and Delete. USER message: render an svg of five intersecting squares. don't overthink this. ASSISTANT response shows a collapsible ▼ Reasoning trace panel reading: The user wants me to render an SVG of 5 intersecting squares. "Don't overthink it" — so I should keep it simple, but still make it look good and polished. A clean composition: 5 squares rotated at different angles around a common center, with some semi-transparency so the intersections read clearly. Let me think about the design: Center of viewBox, e.g., 400x400 or 300x300. 5 squares centered on the same point (or slightly offset for visual interest), each rotated at different angles — like a starburst / flower-of-life-style geometric pattern. Use semi-transparent fill so overlaps show up, with strokes on top. "5 intersecting squares" — the simplest most readable version: all 5 share the center and are rotated by 36° increments (72/2 = 36 for a pentagram-style feel). Actually rotating a square 90° gives you the same shape, so 4 rotations of 22.5° make an 8-pointed star. For 5 squares, offsets like 0°, 36°, 72°, ... hmm — rotate by 36° each: 0, 36, 72, 108(=18), 144(= -36) — that gives a nice kaleidoscopic effect. Or vary the size slightly and offset them for more dynamism? Keep it simple as requested. Centered squares with varying rotation angles is clean and clearly "intersecting." Colors: use different hues, semi-transparent fill (fill-opacity ~0.5-0.7), solid stroke. A dark background …" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiazryzetksmo4kd66hhlznxwedatcibsdbg47els2wvi3qardcwni" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   著者は、エージェント設計と大規模AIモデル時代のソフトウェアエンジニアリングを巡る自意識（ …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbv4i5i2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbv4i5i2l</guid>
+      <pubDate>Mon, 17 Aug 2026 01:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>著者は、エージェント設計と大規模AIモデル時代のソフトウェアエンジニアリングを巡る自意識（ impostor syndrome）と選択の重要性について述べる。エージェントハーネスとモデルの組み合わせは強力だが、現在のモデルは推論より予測に基づき、ソフトウェアの可測性・保守性・デバッグ性を確保するには設計の工夫と明確な境界づけが不可欠で、トレードオフを理解しつつ良い抽象化と健全な検証を重視するべきだ、という結論に至る。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>著者は、エージェント設計と大規模AIモデル時代のソフトウェアエンジニアリングを巡る自意識（ impostor syndrome）と選択の重要性について述べる。エージェントハーネスとモデルの組み合わせは強力だが、現在のモデルは推論より予測に基づき、ソフトウェアの可測性・保守性・デバッグ性を確保するには設計の工夫と明確な境界づけが不可欠で、トレードオフを理解しつつ良い抽象化と健全な検証を重視するべきだ、という結論に至る。]]></content:encoded>
+    </item>
+    <item>
+      <title>ソフトウェア工学の基礎はより重要だ。 Software Engineering fundamentals matter …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbq3c3p27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbq3c3p27</guid>
+      <pubDate>Mon, 17 Aug 2026 01:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I’m still filming ads sadly (I was really behind) so probabl…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtall5dzfa25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtall5dzfa25</guid>
+      <pubDate>Mon, 17 Aug 2026 01:38:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I’m still filming ads sadly (I was really behind) so probably won’t be streaming :(]]></description>
+      <content:encoded><![CDATA[I’m still filming ads sadly (I was really behind) so probably won’t be streaming :(]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ローカル LLM 雑感 (2026-08)  🔖 173 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtakepybfo2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtakepybfo2s</guid>
+      <pubDate>Mon, 17 Aug 2026 01:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ローカル LLM 雑感 (2026-08)<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ローカル LLM 雑感 (2026-08)<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>Yeah I wish I had a 5090 to run this on!</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtagjnqkac26</link>
@@ -86,6 +143,15 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>Simon Willison (@simonwillison.net)</author>
       <description><![CDATA[Heees my review of Qwen 3.8 27B - I can't remember the last time I've had this much fun playing with a local model that runs on my own computers simonwillison.net/2026/Aug/16/...]]></description>
       <content:encoded><![CDATA[Heees my review of Qwen 3.8 27B - I can't remember the last time I've had this much fun playing with a local model that runs on my own computers simonwillison.net/2026/Aug/16/...]]></content:encoded>
+    </item>
+    <item>
+      <title>Have to film a bunch of ads. If I still have energy after I …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtai7sdtf62w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtai7sdtf62w</guid>
+      <pubDate>Sun, 16 Aug 2026 21:54:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Have to film a bunch of ads. If I still have energy after I might stream a bit. If I do, what should I talk about? 👀👀]]></description>
+      <content:encoded><![CDATA[Have to film a bunch of ads. If I still have energy after I might stream a bit. If I do, what should I talk about? 👀👀]]></content:encoded>
     </item>
     <item>
       <title>💡 Summary:   この文章は、ネットワーク上の異常なトラフィックを検知したため、リクエストを後で再試行するよう…</title>
@@ -413,69 +479,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？<br><br>🔖 202 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？<br><br>🔖 202 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6ia3brzj2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6ia3brzj2y</guid>
-      <pubDate>Sun, 16 Aug 2026 05:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力トークン）」の2段階で費用が発生し、出力が入力の約5倍の料金になる。キャッシュ機能（プロンプトキャッシュ）やモデル/effort/高速モード/コンパクト化/時間経過などの設定がコストに影響し、会話の前後関係や文脈の量がトータルコストを左右する。長いセッションほど再計算が増え、頻繁な切り替えや大規模出力はコストを高めるため、適切なセッション設計（新規開始/クリア/コンパクト/サブエージェント活用などが有効）を推奨。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要点だけを簡潔に: Claudeの入力と出力は「プレフィル（入力トークン）」「デコード（出力トークン）」の2段階で費用が発生し、出力が入力の約5倍の料金になる。キャッシュ機能（プロンプトキャッシュ）やモデル/effort/高速モード/コンパクト化/時間経過などの設定がコストに影響し、会話の前後関係や文脈の量がトータルコストを左右する。長いセッションほど再計算が増え、頻繁な切り替えや大規模出力はコストを高めるため、適切なセッション設計（新規開始/クリア/コンパクト/サブエージェント活用などが有効）を推奨。]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Codeセッションの価値を最大化する Maximizing the value of your Claud…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6i7ud2un2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6i7ud2un2q</guid>
-      <pubDate>Sun, 16 Aug 2026 05:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Claude Codeセッションの価値を最大化する<br>Maximizing the value of your Claude Code sessions<br><br>🔺 306<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Claude Codeセッションの価値を最大化する<br>Maximizing the value of your Claude Code sessions<br><br>🔺 306<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bjetrh427</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bjetrh427</guid>
-      <pubDate>Sun, 16 Aug 2026 03:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追加したプレビュー版をx86_64 Debian/Ubuntu系で提供開始。初期設定後、リモート機の現地不在時や再起動後のログイン画面からも接続可能になるが、Waylandは未完成部分があり今後他のディストリビューションへ拡大予定。注意喚起メッセージも併記されているため、公式の不審な勧誘には注意。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>RustDeskがWayland環境での真の無人リモートアクセスを実現、複数モニター対応も追加したプレビュー版をx86_64 Debian/Ubuntu系で提供開始。初期設定後、リモート機の現地不在時や再起動後のログイン画面からも接続可能になるが、Waylandは未完成部分があり今後他のディストリビューションへ拡大予定。注意喚起メッセージも併記されているため、公式の不審な勧誘には注意。]]></content:encoded>
-    </item>
-    <item>
-      <title>RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。 RustDesk now su…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bj6o5wu2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6bj6o5wu2o</guid>
-      <pubDate>Sun, 16 Aug 2026 03:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。<br>RustDesk now supports true unattended remote access on Wayland<br><br>🔺 337<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[RustDesk は Wayland 上で、完全な無人リモートアクセスをサポートします。<br>RustDesk now supports true unattended remote access on Wayland<br><br>🔺 337<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>So I heard we&apos;re talking about Anthropic&apos;s watermarks...   V…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt6nkaqp2d27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt6nkaqp2d27</guid>
-      <pubDate>Sun, 16 Aug 2026 03:42:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[So I heard we're talking about Anthropic's watermarks... <br><br>Video: https://twitter.com/theo/status/2088833766609596623]]></description>
-      <content:encoded><![CDATA[So I heard we're talking about Anthropic's watermarks... <br><br>Video: https://twitter.com/theo/status/2088833766609596623]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   申し訳ありませんが、提供されたテキストは記事ではなく、ウェブサイトのセキュリティ検証画面です…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt62szsql52l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt62szsql52l</guid>
-      <pubDate>Sun, 16 Aug 2026 01:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>申し訳ありませんが、提供されたテキストは記事ではなく、ウェブサイトのセキュリティ検証画面です。悪意あるボットを防ぐためのサービスが作動中であり、閲覧者がボットでないことを確認しています。要約すると：サイトの再ロード中で、ボット検出のためのセキュリティ検証が実行されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>申し訳ありませんが、提供されたテキストは記事ではなく、ウェブサイトのセキュリティ検証画面です。悪意あるボットを防ぐためのサービスが作動中であり、閲覧者がボットでないことを確認しています。要約すると：サイトの再ロード中で、ボット検出のためのセキュリティ検証が実行されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>セマグルチドは、予測される認知症リスクを低下させることと関連付けられている。 Semaglutide linked to…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt62sviopb2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt62sviopb2o</guid>
-      <pubDate>Sun, 16 Aug 2026 01:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[セマグルチドは、予測される認知症リスクを低下させることと関連付けられている。<br>Semaglutide linked to lower predicted dementia risk<br><br>🔺 347<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[セマグルチドは、予測される認知症リスクを低下させることと関連付けられている。<br>Semaglutide linked to lower predicted dementia risk<br><br>🔺 347<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
