@@ -5,8 +5,29 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 22:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:10:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪  🔖 151 ブックマーク…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtcqrugy552z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtcqrugy552z</guid>
+      <pubDate>Mon, 17 Aug 2026 22:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Agreed. Codex is far ahead of the other labs with their remo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcqcw34df2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcqcw34df2v</guid>
+      <pubDate>Mon, 17 Aug 2026 22:10:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Agreed. Codex is far ahead of the other labs with their remote stuff.<br><br>That said - I'd argue T3 Code is even further. Project creation, multi-pc management, remote configuration, and also open source :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkrymlphwfw5w42jm3ncedzepsp2wtdalxc7jwebjoorc3vljbcy" alt="Quote Tweet: https://twitter.com/i/status/2089420425193202065" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Agreed. Codex is far ahead of the other labs with their remote stuff.<br><br>That said - I'd argue T3 Code is even further. Project creation, multi-pc management, remote configuration, and also open source :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkrymlphwfw5w42jm3ncedzepsp2wtdalxc7jwebjoorc3vljbcy" alt="Quote Tweet: https://twitter.com/i/status/2089420425193202065" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkrymlphwfw5w42jm3ncedzepsp2wtdalxc7jwebjoorc3vljbcy" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   新たなプレプリント研究（査読前）によると、全米をカバーする単一 payer の普遍的医療制度…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcodw53zt2y</link>
@@ -444,24 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ロー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fiz5t227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fiz5t227</guid>
-      <pubDate>Mon, 17 Aug 2026 07:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ローカル機でも動作可能な点が評価されている。デフォルトの高い推論設定は過剰で使いづらく、長いコンテキストや速度の課題がありつつも、17GB程度のサイズで精度の高い応答・コード生成・ツール連携・ bounding box検出などを実現しており、ローカル運用の可能性と性能改善の余地を示している。今後、推論効率を高める工夫（MTPなど）の普及で実用性が高まると期待されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ローカル機でも動作可能な点が評価されている。デフォルトの高い推論設定は過剰で使いづらく、長いコンテキストや速度の課題がありつつも、17GB程度のサイズで精度の高い応答・コード生成・ツール連携・ bounding box検出などを実現しており、ローカル運用の可能性と性能改善の余地を示している。今後、推論効率を高める工夫（MTPなど）の普及で実用性が高まると期待されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。 Qwen 3.8 27B is excellen…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fcunda2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fcunda2o</guid>
-      <pubDate>Mon, 17 Aug 2026 07:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
