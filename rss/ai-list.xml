@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:18:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。Open…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg4asqj327</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg4asqj327</guid>
+      <pubDate>Mon, 17 Aug 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。OpenRouterはAIモデルの選択を一元化するプラットフォームで、8百万人以上のユーザーと400以上のモデルへアクセスを提供している。取引金額は70億ドル超と伝えられているが、ストライプは正式なコメントを控えている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。OpenRouterはAIモデルの選択を一元化するプラットフォームで、8百万人以上のユーザーと400以上のモデルへアクセスを提供している。取引金額は70億ドル超と伝えられているが、ストライプは正式なコメントを控えている。]]></content:encoded>
+    </item>
+    <item>
+      <title>StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。 Stripe will repor…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg42bddl27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg42bddl27</guid>
+      <pubDate>Mon, 17 Aug 2026 09:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ロー…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fiz5t227</link>
@@ -461,24 +479,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731は、DeepSeek-V4-Flashの正式版モデルを公開するためのリポジトリです。<br>推測デコーディングモジュールを搭載し、エージェント能力を大幅に強化しています。<br>少ない活性化パラメータ数でありながら、商用モデルに匹敵する性能を実現し、特にコーディングエージェント等のタスクにおいて高い効率と精度を提供することを目的にしています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-0731<br>DeepSeek-V4-Flash-0731は、DeepSeek-V4-Flashの正式版モデルを公開するためのリポジトリです。<br>推測デコーディングモジュールを搭載し、エージェント能力を大幅に強化しています。<br>少ない活性化パラメータ数でありながら、商用モデルに匹敵する性能を実現し、特にコーディングエージェント等のタスクにおいて高い効率と精度を提供することを目的にしています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Pro-0813 DeepSee…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xmmpova2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xmmpova2d</guid>
-      <pubDate>Sun, 16 Aug 2026 10:19:56 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版をベースにDSpark投機的デコーディングモジュールを追加し、エージェント能力や実運用環境での性能を向上させています。<br>多様なベンチマークにおいてプレビュー版を上回り、高性能な商用モデルに匹敵する性能を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版をベースにDSpark投機的デコーディングモジュールを追加し、エージェント能力や実運用環境での性能を向上させています。<br>多様なベンチマークにおいてプレビュー版を上回り、高性能な商用モデルに匹敵する性能を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xm2hqb72j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xm2hqb72j</guid>
-      <pubDate>Sun, 16 Aug 2026 10:19:36 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
