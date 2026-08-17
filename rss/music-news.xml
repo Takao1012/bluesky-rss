@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:40:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Oh you mean for upcoming release announcements? &quot;Artist will…</title>
+      <link>https://bsky.app/profile/did:plc:sa7z2gna2p335gtmgup7r6yl/post/3mtb32u5ups23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sa7z2gna2p335gtmgup7r6yl/post/3mtb32u5ups23</guid>
+      <pubDate>Mon, 17 Aug 2026 06:26:54 GMT</pubDate>
+      <author>Record Club (@record.club)</author>
+      <description><![CDATA[Oh you mean for upcoming release announcements? "Artist will release album on Sept 6", etc? It should work for releases that were just released. But it doesn't for upcoming releases – we'll fix that!]]></description>
+      <content:encoded><![CDATA[Oh you mean for upcoming release announcements? "Artist will release album on Sept 6", etc? It should work for releases that were just released. But it doesn't for upcoming releases – we'll fix that!]]></content:encoded>
+    </item>
     <item>
       <title>GANG PARADEキャン・GP・マイカがマレーシアKLP48の振付を担当、作詞は千秋＆作曲はパッパラー河合（動画あり…</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtazsav2n42z</link>
@@ -572,15 +581,6 @@
       <author>NPR (@npr.org)</author>
       <description><![CDATA[Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. n.pr/3Si7tyH]]></description>
       <content:encoded><![CDATA[Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. n.pr/3Si7tyH]]></content:encoded>
-    </item>
-    <item>
-      <title>A good stoner movie needs good music, and &apos;The Wrong Girls&apos; …</title>
-      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt7lencfj22x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mt7lencfj22x</guid>
-      <pubDate>Sun, 16 Aug 2026 16:13:23 GMT</pubDate>
-      <author>Stereogum (@stereogum.com)</author>
-      <description><![CDATA[A good stoner movie needs good music, and 'The Wrong Girls' understood the assignment.<br><br>The Kristen Stewart and Alia Shawkat film has a Ty Segall score, a Mannequin Pussy cameo, plus music from Sheer Mag and Tacocat.]]></description>
-      <content:encoded><![CDATA[A good stoner movie needs good music, and 'The Wrong Girls' understood the assignment.<br><br>The Kristen Stewart and Alia Shawkat film has a Ty Segall score, a Mannequin Pussy cameo, plus music from Sheer Mag and Tacocat.]]></content:encoded>
     </item>
   </channel>
 </rss>
