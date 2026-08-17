@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 20:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:13:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 immich-app / immich ⭐ 1…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtcjhkuubp2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtcjhkuubp2v</guid>
+      <pubDate>Mon, 17 Aug 2026 20:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 immich-app / immich<br>⭐ 110,846 (+140)<br>🗒 TypeScript<br><br>High performance self-hosted photo and video management solution.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 immich-app / immich<br>⭐ 110,846 (+140)<br>🗒 TypeScript<br><br>High performance self-hosted photo and video management solution.]]></content:encoded>
+    </item>
     <item>
       <title>💪🏽 Control your Android &amp; iOS apps directly in VS Code wit…</title>
       <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtcizprya62o</link>
@@ -15,6 +24,39 @@
       <author>Visual Studio Code (@vscode.dev)</author>
       <description><![CDATA[💪🏽 Control your Android & iOS apps directly in VS Code with Mobile Canvas extension!]]></description>
       <content:encoded><![CDATA[💪🏽 Control your Android & iOS apps directly in VS Code with Mobile Canvas extension!]]></content:encoded>
+    </item>
+    <item>
+      <title>I get why they’re doing it though. I had a brand decline wor…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjmqqr422y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjmqqr422y</guid>
+      <pubDate>Mon, 17 Aug 2026 19:58:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I get why they’re doing it though. I had a brand decline working with me because “you only get 100,000 views, this other guy is half your price and gets 70,000 views”<br><br>The “other guy” was getting those views on X, where “views” count API responds with your post ID.]]></description>
+      <content:encoded><![CDATA[I get why they’re doing it though. I had a brand decline working with me because “you only get 100,000 views, this other guy is half your price and gets 70,000 views”<br><br>The “other guy” was getting those views on X, where “views” count API responds with your post ID.]]></content:encoded>
+    </item>
+    <item>
+      <title>I don’t like this change. YouTube view counts are the only v…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjmkxr6k2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjmkxr6k2y</guid>
+      <pubDate>Mon, 17 Aug 2026 19:56:16 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I don’t like this change. YouTube view counts are the only view counts that mean anything.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6su7axfdv5dykz3pknjyjcnnt5tctd7ofphmvohvwfwh3mspeqm" alt="Quote Tweet: https://twitter.com/i/status/2089382301960388854" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I don’t like this change. YouTube view counts are the only view counts that mean anything.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6su7axfdv5dykz3pknjyjcnnt5tctd7ofphmvohvwfwh3mspeqm" alt="Quote Tweet: https://twitter.com/i/status/2089382301960388854" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih6su7axfdv5dykz3pknjyjcnnt5tctd7ofphmvohvwfwh3mspeqm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>“[our internal framework] actually bans useEffect outright a…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjm5fz672u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtcjm5fz672u</guid>
+      <pubDate>Mon, 17 Aug 2026 19:47:32 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[“[our internal framework] actually bans useEffect outright and only exposes it indirectly through framework-provided hooks. Highly recommend setting something like that up for yourself!” - Lauren, core contributor to React Compiler
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihrqhgqjep4gne254s7lyyizbzl6wvh7f52oyg7elwrfj3tjiqmka" alt="Quote Tweet: https://twitter.com/i/status/2089227731305464150" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[“[our internal framework] actually bans useEffect outright and only exposes it indirectly through framework-provided hooks. Highly recommend setting something like that up for yourself!” - Lauren, core contributor to React Compiler
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihrqhgqjep4gne254s7lyyizbzl6wvh7f52oyg7elwrfj3tjiqmka" alt="Quote Tweet: https://twitter.com/i/status/2089227731305464150" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihrqhgqjep4gne254s7lyyizbzl6wvh7f52oyg7elwrfj3tjiqmka" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>💡 Summary:   現在、GitHubの複数のサービスで高エラー率と degraded/ degraded av…</title>
@@ -420,42 +462,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtaugmeo5t2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtaugmeo5t2z</guid>
-      <pubDate>Mon, 17 Aug 2026 04:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。<br><br>🔖 188 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。<br><br>🔖 188 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>感染したダニの自宅検査は、ライム病の診断を改善する可能性がある。 At-home test for infected t…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaryfu2vc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaryfu2vc2c</guid>
-      <pubDate>Mon, 17 Aug 2026 03:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[感染したダニの自宅検査は、ライム病の診断を改善する可能性がある。<br>At-home test for infected ticks could improve Lyme Disease diagnosis<br><br>🔺 290<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[感染したダニの自宅検査は、ライム病の診断を改善する可能性がある。<br>At-home test for infected ticks could improve Lyme Disease diagnosis<br><br>🔺 290<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞  🔖 166 ブックマーク 💬 コ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtar3f6g232d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtar3f6g232d</guid>
-      <pubDate>Mon, 17 Aug 2026 03:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita  🔖 1…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtanq6yes525</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtanq6yes525</guid>
-      <pubDate>Mon, 17 Aug 2026 02:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita<br><br>🔖 195 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita<br><br>🔖 195 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
