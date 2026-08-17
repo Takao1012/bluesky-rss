@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:27:24 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ロー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fiz5t227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fiz5t227</guid>
+      <pubDate>Mon, 17 Aug 2026 07:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ローカル機でも動作可能な点が評価されている。デフォルトの高い推論設定は過剰で使いづらく、長いコンテキストや速度の課題がありつつも、17GB程度のサイズで精度の高い応答・コード生成・ツール連携・ bounding box検出などを実現しており、ローカル運用の可能性と性能改善の余地を示している。今後、推論効率を高める工夫（MTPなど）の普及で実用性が高まると期待されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen 3.8 27Bは、27BパラメータのオープンウェイトVision対応モデルで、ローカル機でも動作可能な点が評価されている。デフォルトの高い推論設定は過剰で使いづらく、長いコンテキストや速度の課題がありつつも、17GB程度のサイズで精度の高い応答・コード生成・ツール連携・ bounding box検出などを実現しており、ローカル運用の可能性と性能改善の余地を示している。今後、推論効率を高める工夫（MTPなど）の普及で実用性が高まると期待されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。 Qwen 3.8 27B is excellen…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fcunda2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtb7fcunda2o</guid>
+      <pubDate>Mon, 17 Aug 2026 07:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   モデルはパラメータ数あたりの推論能力は向上している一方、事実知識の保持は依然として困難で、知…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtayozpvxg2q</link>
@@ -461,24 +479,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽説明から最大5分間の楽曲を生成する高精度な音楽生成モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構造により、曲全体の構成的な一貫性と詳細な音響表現を両立しています。<br>イントロからアウトロまでの一連の流れを持つ、表現力豊かなボーカルを含むステレオ音源の作成を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xlimlyq2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mt6xlimlyq2d</guid>
-      <pubDate>Sun, 16 Aug 2026 10:19:18 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容を記載して再度ご依頼ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容を記載して再度ご依頼ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnblbyc2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt6vnblbyc2q</guid>
-      <pubDate>Sun, 16 Aug 2026 09:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)]]></description>
-      <content:encoded><![CDATA[その結果として標準の一貫性と実用性が損なわれていると主張している。 (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
