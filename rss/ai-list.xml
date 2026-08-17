@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:29:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:14:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjkaz2u27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjkaz2u27</guid>
+      <pubDate>Mon, 17 Aug 2026 13:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」市場が実務レベルで広がっており、ブローカーを介して高額ディスカウントでのクレジット取引が行われていることを報告しています。AI Credits や AICreditMart などのクレジット市場サイト、CheapCredits などの“バルク割引”型プラットフォームが存在し、TelegramやRedditのミニ市場も活発化していると指摘。総額規模は数千万ドル相当と推定される一方、乱用リスクも高まり、今後取締りが強化される可能性があると結論づけています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」市場が実務レベルで広がっており、ブローカーを介して高額ディスカウントでのクレジット取引が行われていることを報告しています。AI Credits や AICreditMart などのクレジット市場サイト、CheapCredits などの“バルク割引”型プラットフォームが存在し、TelegramやRedditのミニ市場も活発化していると指摘。総額規模は数千万ドル相当と推定される一方、乱用リスクも高まり、今後取締りが強化される可能性があると結論づけています。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIクレジットの再販経済 The AI Credit Resale Economy  🔺 313 💬 37 🔗 H…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjd3bnf27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjd3bnf27</guid>
+      <pubDate>Mon, 17 Aug 2026 13:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIクレジットの再販経済<br>The AI Credit Resale Economy<br><br>🔺 313<br>💬 37<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIクレジットの再販経済<br>The AI Credit Resale Economy<br><br>🔺 313<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>multi-language scripts, various TTS options, subtitles, back…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbrylvvmi2s</link>
@@ -461,24 +479,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></content:encoded>
-    </item>
-    <item>
-      <title>クロード：システムプロンプト Claude: System Prompts  🔺 324 💬 43 🔗 HN Po…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhatxz32m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhatxz32m</guid>
-      <pubDate>Sun, 16 Aug 2026 17:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[クロード：システムプロンプト<br>Claude: System Prompts<br><br>🔺 324<br>💬 43<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[クロード：システムプロンプト<br>Claude: System Prompts<br><br>🔺 324<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jra7l2d2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7jra7l2d2m</guid>
-      <pubDate>Sun, 16 Aug 2026 15:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確になることが大規模追跡Studyで示された。BMIが正常範囲でも中央肥満が高い人は、九つのアウトカムの多くでリスクが15–50%高くなるケースがあり、臨床評価では腹部 fat の分布を考慮すべきだと結論づけられた。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>BMIだけではなく腰囲WCや腰-臀比WHRを併用することで、心血管疾患リスクの予測がより正確になることが大規模追跡Studyで示された。BMIが正常範囲でも中央肥満が高い人は、九つのアウトカムの多くでリスクが15–50%高くなるケースがあり、臨床評価では腹部 fat の分布を考慮すべきだと結論づけられた。]]></content:encoded>
     </item>
   </channel>
 </rss>
