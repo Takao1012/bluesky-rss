@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:18:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 AlexsJones / llmfit ⭐ 3…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtccqzm7f22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtccqzm7f22h</guid>
+      <pubDate>Mon, 17 Aug 2026 18:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 AlexsJones / llmfit<br>⭐ 32,010 (+187)<br>🗒 Rust<br><br>Hundreds of models &amp; providers. One command to find what runs on your hardware.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 AlexsJones / llmfit<br>⭐ 32,010 (+187)<br>🗒 Rust<br><br>Hundreds of models &amp; providers. One command to find what runs on your hardware.]]></content:encoded>
+    </item>
+    <item>
+      <title>Took it over an hour but here it is! tools.simonwillison.net…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtcbhn3cs22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtcbhn3cs22a</guid>
+      <pubDate>Mon, 17 Aug 2026 17:54:05 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Took it over an hour but here it is! tools.simonwillison.net/markdown-svg...]]></description>
+      <content:encoded><![CDATA[Took it over an hour but here it is! tools.simonwillison.net/markdown-svg...]]></content:encoded>
+    </item>
+    <item>
+      <title>安定したC APIの公開と拡張リポジトリの導入、将来的なフォーカスとしてDuckDB Foundationの諮問委員会設…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawtknoz2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawtknoz2b</guid>
+      <pubDate>Mon, 17 Aug 2026 17:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[安定したC APIの公開と拡張リポジトリの導入、将来的なフォーカスとしてDuckDB Foundationの諮問委員会設置も予定されています。 (2/2)]]></description>
+      <content:encoded><![CDATA[安定したC APIの公開と拡張リポジトリの導入、将来的なフォーカスとしてDuckDB Foundationの諮問委員会設置も予定されています。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   DuckDB v2.0（コードネーム Cyanoptera）は秋にリリース予定で、サーバー機…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawth5yn2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawth5yn2g</guid>
+      <pubDate>Mon, 17 Aug 2026 17:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DuckDB v2.0（コードネーム Cyanoptera）は秋にリリース予定で、サーバー機能、トリガ、VARIANT型、非同期I/O、独自のSQLパーサーと新しいストレージ形式など多数の新機能を搭載します。主なポイントは、サーバーモードの導入と CONNECT/Quack、VARIANTの第一-class化、トリガの追加、拡張性を高めたC APIと安定化した拡張機能、非 ICU ベースのタイムゾーン・カレンダー・コレーション、パフォーマンス向上とストレージ・パーシステンスの改善です。さらに拡張機構の強化として、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DuckDB v2.0（コードネーム Cyanoptera）は秋にリリース予定で、サーバー機能、トリガ、VARIANT型、非同期I/O、独自のSQLパーサーと新しいストレージ形式など多数の新機能を搭載します。主なポイントは、サーバーモードの導入と CONNECT/Quack、VARIANTの第一-class化、トリガの追加、拡張性を高めたC APIと安定化した拡張機能、非 ICU ベースのタイムゾーン・カレンダー・コレーション、パフォーマンス向上とストレージ・パーシステンスの改善です。さらに拡張機構の強化として、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>DuckDB v2.0のプレビュー A Preview of DuckDB v2.0  🔺 288 💬 19 🔗 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawlqckb2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcawlqckb2a</guid>
+      <pubDate>Mon, 17 Aug 2026 17:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DuckDB v2.0のプレビュー<br>A Preview of DuckDB v2.0<br><br>🔺 288<br>💬 19<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DuckDB v2.0のプレビュー<br>A Preview of DuckDB v2.0<br><br>🔺 288<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 mukul975 / Anthropic-Cy…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtc7fm2vkt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtc7fm2vkt24</guid>
+      <pubDate>Mon, 17 Aug 2026 17:17:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mukul975 / Anthropic-Cybersecurity-Skills<br>⭐ 28,102 (+156)<br>🗒 Python<br><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills....]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mukul975 / Anthropic-Cybersecurity-Skills<br>⭐ 28,102 (+156)<br>🗒 Python<br><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills....]]></content:encoded>
+    </item>
     <item>
       <title>📦 jundot / omlx ⭐ 18,844 (+60) 🗒 Python  LLM inference ser…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtc42fkcew2j</link>
@@ -405,77 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I’m still filming ads sadly (I was really behind) so probabl…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtall5dzfa25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtall5dzfa25</guid>
-      <pubDate>Mon, 17 Aug 2026 01:38:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I’m still filming ads sadly (I was really behind) so probably won’t be streaming :(]]></description>
-      <content:encoded><![CDATA[I’m still filming ads sadly (I was really behind) so probably won’t be streaming :(]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ローカル LLM 雑感 (2026-08)  🔖 173 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtakepybfo2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtakepybfo2s</guid>
-      <pubDate>Mon, 17 Aug 2026 01:28:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ローカル LLM 雑感 (2026-08)<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ローカル LLM 雑感 (2026-08)<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Yeah I wish I had a 5090 to run this on!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtagjnqkac26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtagjnqkac26</guid>
-      <pubDate>Mon, 17 Aug 2026 00:19:22 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Yeah I wish I had a 5090 to run this on!]]></description>
-      <content:encoded><![CDATA[Yeah I wish I had a 5090 to run this on!]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点か…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaelbxs7h2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtaelbxs7h2b</guid>
-      <pubDate>Sun, 16 Aug 2026 23:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点から反論を展開している。低コストのRV32EC/CH32V003の実例を挙げ、安価なマイクロコントローラ領域でもRISC-Vが成立すると主張し、普及と教育機会の拡大こそがISA選択の本質だと述べる。さらに、アーキテクチャ単体の議論よりも、世界の実情に即した普及性と自由度が重要だと論じている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>著者は Dmitry Grinberg の RISC-V 批判に対して、価格と入手性の観点から反論を展開している。低コストのRV32EC/CH32V003の実例を挙げ、安価なマイクロコントローラ領域でもRISC-Vが成立すると主張し、普及と教育機会の拡大こそがISA選択の本質だと述べる。さらに、アーキテクチャ単体の議論よりも、世界の実情に即した普及性と自由度が重要だと論じている。]]></content:encoded>
-    </item>
-    <item>
-      <title>途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する A …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtael4svuf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtael4svuf27</guid>
-      <pubDate>Sun, 16 Aug 2026 23:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する<br>A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"<br><br>🔺 316<br>💬 36<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[途上国の組み込みエンジニアが「RISC-V They Should Have Known Better」に反論する<br>A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"<br><br>🔺 316<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>My conclusions from the end of the post</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaci4u4ys2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtaci4u4ys2b</guid>
-      <pubDate>Sun, 16 Aug 2026 23:06:56 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[My conclusions from the end of the post
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" alt="Some observations #
-The fact that a 17GB file can do all of this stuff on my home machines is a miracle. Once again, I’m delighted and amazed at how much progress local models have made this year. A year ago this would have been competitive with the best and most expensive of the proprietary models—today it can run on a capable laptop.
-
-The only thing holding this back from being a daily driver is performance. It feels pretty slow on both the M5 Mac and the DGX Spark. That’s the catch with these dense (non-Mixture-of-Experts) models—they require a whole lot of memory bandwidth to perform well, and neither of the machines I have access to are top performers in that regard.
-
-The most important thing about Qwen 3.8 27B is what it demonstrates. We can have an open weights general purpose model with a long context, effective tool calling, strong vision ability, and competent code generation, and we can fit the whole thing in just a 17GB file.
-
-The models at this size continue to get better at an impressive rate. We don’t need to spend half a million dollars on datacenter-class hardware just to run a competent model." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[My conclusions from the end of the post
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" alt="Some observations #
-The fact that a 17GB file can do all of this stuff on my home machines is a miracle. Once again, I’m delighted and amazed at how much progress local models have made this year. A year ago this would have been competitive with the best and most expensive of the proprietary models—today it can run on a capable laptop.
-
-The only thing holding this back from being a daily driver is performance. It feels pretty slow on both the M5 Mac and the DGX Spark. That’s the catch with these dense (non-Mixture-of-Experts) models—they require a whole lot of memory bandwidth to perform well, and neither of the machines I have access to are top performers in that regard.
-
-The most important thing about Qwen 3.8 27B is what it demonstrates. We can have an open weights general purpose model with a long context, effective tool calling, strong vision ability, and competent code generation, and we can fit the whole thing in just a 17GB file.
-
-The models at this size continue to get better at an impressive rate. We don’t need to spend half a million dollars on datacenter-class hardware just to run a competent model." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiesptrr4xmt7hwwmq7rvucje72dp2fkvgus5buswamerrnae4izde" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
