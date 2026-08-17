@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:13:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>This is the genuine logo used by the Amazon location that de…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtbxjub6ms26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtbxjub6ms26</guid>
+      <pubDate>Mon, 17 Aug 2026 14:56:22 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[This is the genuine logo used by the Amazon location that destructively scans books]]></description>
+      <content:encoded><![CDATA[This is the genuine logo used by the Amazon location that destructively scans books]]></content:encoded>
+    </item>
+    <item>
+      <title>extensive usage from CLI to cloud platform app.strix.ai and …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbve72dsv2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbve72dsv2f</guid>
+      <pubDate>Mon, 17 Aug 2026 14:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[extensive usage from CLI to cloud platform app.strix.ai and various LLM providers for scalable, developer-friendly security testing. (2/2)]]></description>
+      <content:encoded><![CDATA[extensive usage from CLI to cloud platform app.strix.ai and various LLM providers for scalable, developer-friendly security testing. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Strix is an open-source autonomous AI penetrat…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbve6x4fo2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbve6x4fo2p</guid>
+      <pubDate>Mon, 17 Aug 2026 14:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Strix is an open-source autonomous AI penetration testing platform that dynamically tests applications, validates vulnerabilities with working PoCs, and auto-generates fixes and reports, with multi-agent orchestration, CI/CD integration, and a local web viewer. It supports (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Strix is an open-source autonomous AI penetration testing platform that dynamically tests applications, validates vulnerabilities with working PoCs, and auto-generates fixes and reports, with multi-agent orchestration, CI/CD integration, and a local web viewer. It supports (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 usestrix / strix ⭐ 5…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbvdt2tyw2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbvdt2tyw2w</guid>
+      <pubDate>Mon, 17 Aug 2026 14:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 usestrix / strix<br>⭐ 53,623 (+856)<br>🗒 Python<br><br>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 usestrix / strix<br>⭐ 53,623 (+856)<br>🗒 Python<br><br>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjkaz2u27</link>
@@ -440,45 +476,6 @@ The models at this size continue to get better at an impressive rate. We don’t
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[『kidney disappointment』を『kidney failure』の代わりに用いている研究論文<br>Research papers using "kidney disappointment" instead of "kidney failure"<br><br>🔺 340<br>💬 41<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[『kidney disappointment』を『kidney failure』の代わりに用いている研究論文<br>Research papers using "kidney disappointment" instead of "kidney failure"<br><br>🔺 340<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>…people use o3 still?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt7zymhviv2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mt7zymhviv2x</guid>
-      <pubDate>Sun, 16 Aug 2026 20:33:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[…people use o3 still?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" alt="Quote Tweet: https://twitter.com/i/status/2088967076182388987" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[…people use o3 still?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" alt="Quote Tweet: https://twitter.com/i/status/2088967076182388987" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfyupjb5xfn7oec3it3x4z3tgoluixahf5fyqkmmvct3htjyilcu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5xipfw27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5xipfw27</guid>
-      <pubDate>Sun, 16 Aug 2026 19:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の可能性があるため、接続を確認し、広告ブロックを無効化するか別のブラウザを試してください。さらに画像の認識キャプチャを解答して進行します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ウェブサイトの必須要素が読み込めず、ブラウザ拡張機能やネットワーク設定、広告ブロックが原因の可能性があるため、接続を確認し、広告ブロックを無効化するか別のブラウザを試してください。さらに画像の認識キャプチャを解答して進行します。]]></content:encoded>
-    </item>
-    <item>
-      <title>iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。 Firefox for iOS now ha…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5sx6u624</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7x5sx6u624</guid>
-      <pubDate>Sun, 16 Aug 2026 19:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。<br>Firefox for iOS now has a native adblocker<br><br>🔺 387<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[iOS版のFirefoxにはネイティブの広告ブロック機能が搭載されました。<br>Firefox for iOS now has a native adblocker<br><br>🔺 387<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:    claude.ai と Claude iOS/Android アプリの核心プロンプトが定期…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhi3rnx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mt7qhi3rnx2y</guid>
-      <pubDate>Sun, 16 Aug 2026 17:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br> claude.ai と Claude iOS/Android アプリの核心プロンプトが定期的に更新され、会話開始時に最新情報（現在日付など）を提供し、コードをMarkdownで必ず返すなどの挙動を促す。これらのシステムプロンプトの更新は Claude API には適用されず、更新履歴は日付入りエントリとして示され、4.6以降はモデルIDが固定スナップショットとなる。]]></content:encoded>
     </item>
   </channel>
 </rss>
