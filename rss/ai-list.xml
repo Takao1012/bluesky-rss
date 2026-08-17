@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:10:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   新たなプレプリント研究（査読前）によると、全米をカバーする単一 payer の普遍的医療制度…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcodw53zt2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcodw53zt2y</guid>
+      <pubDate>Mon, 17 Aug 2026 21:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>新たなプレプリント研究（査読前）によると、全米をカバーする単一 payer の普遍的医療制度は、年間約114,000人の命を救い、現在の制度よりも総支出を1兆ドル削減できる可能性がある。推計は薬価引下げ、医療提供者への Medicare レベルの支払い、事務コスト削減、詐欺請求の減少、避けられる救急外来・入院の減少の5要因に基づき、未保険・低所得層の医療ニーズにも対応する仮定を含む。なお本研究はまだ査読中で、移行コストや制度変更に伴う影響は考慮されていない。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>新たなプレプリント研究（査読前）によると、全米をカバーする単一 payer の普遍的医療制度は、年間約114,000人の命を救い、現在の制度よりも総支出を1兆ドル削減できる可能性がある。推計は薬価引下げ、医療提供者への Medicare レベルの支払い、事務コスト削減、詐欺請求の減少、避けられる救急外来・入院の減少の5要因に基づき、未保険・低所得層の医療ニーズにも対応する仮定を含む。なお本研究はまだ査読中で、移行コストや制度変更に伴う影響は考慮されていない。]]></content:encoded>
+    </item>
+    <item>
+      <title>ユニバーサル・ヘルスケアは年間1兆ドルと11万4千人の命を救える可能性――イェール大学の研究 Universal Hea…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcodmsfwl2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcodmsfwl2l</guid>
+      <pubDate>Mon, 17 Aug 2026 21:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ユニバーサル・ヘルスケアは年間1兆ドルと11万4千人の命を救える可能性――イェール大学の研究<br>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study<br><br>🔺 366<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ユニバーサル・ヘルスケアは年間1兆ドルと11万4千人の命を救える可能性――イェール大学の研究<br>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study<br><br>🔺 366<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 攻撃手法から学ぶ OAuth セキュリティベストプラクティス  🔖 154 ブックマーク 💬 コメント 🔗 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtcngpxf2j2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtcngpxf2j2i</guid>
+      <pubDate>Mon, 17 Aug 2026 21:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 攻撃手法から学ぶ OAuth セキュリティベストプラクティス<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 攻撃手法から学ぶ OAuth セキュリティベストプラクティス<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 immich-app / immich ⭐ 1…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtcjhkuubp2v</link>
@@ -435,33 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Qwen 3.8 27B は素晴らしいが、物事をつい考えすぎてしまう。<br>Qwen 3.8 27B is excellent, but it defaults to overthinking things<br><br>🔺 366<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   モデルはパラメータ数あたりの推論能力は向上している一方、事実知識の保持は依然として困難で、知…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtayozpvxg2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtayozpvxg2q</guid>
-      <pubDate>Mon, 17 Aug 2026 05:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>モデルはパラメータ数あたりの推論能力は向上している一方、事実知識の保持は依然として困難で、知識は外部ハーネス（検索・ツール連携）で補う形が現実的。将来は13B級の活性パラメータで推論できる frontier モデルが個人用GPUで実現可能になり、事実は重みにはなく外部知識源に格納される設計が普及して、 hallucination の抑制と最新性の保持が改善される見込み。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>モデルはパラメータ数あたりの推論能力は向上している一方、事実知識の保持は依然として困難で、知識は外部ハーネス（検索・ツール連携）で補う形が現実的。将来は13B級の活性パラメータで推論できる frontier モデルが個人用GPUで実現可能になり、事実は重みにはなく外部知識源に格納される設計が普及して、 hallucination の抑制と最新性の保持が改善される見込み。]]></content:encoded>
-    </item>
-    <item>
-      <title>モデルは意図的に賢さを落としている Models Are Getting Dumber on Purpose  🔺 2…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtayou2wjd2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtayou2wjd2o</guid>
-      <pubDate>Mon, 17 Aug 2026 05:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[モデルは意図的に賢さを落としている<br>Models Are Getting Dumber on Purpose<br><br>🔺 299<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[モデルは意図的に賢さを落としている<br>Models Are Getting Dumber on Purpose<br><br>🔺 299<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog  🔖 168 ブッ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtaxrvcm4522</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtaxrvcm4522</guid>
-      <pubDate>Mon, 17 Aug 2026 05:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
