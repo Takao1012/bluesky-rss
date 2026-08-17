@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 18:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 19:18:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 santifer / career-ops ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtcg4oqbzs2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtcg4oqbzs2h</guid>
+      <pubDate>Mon, 17 Aug 2026 19:17:26 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 santifer / career-ops<br>⭐ 64,209 (+147)<br>🗒 JavaScript<br><br>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, ...]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 santifer / career-ops<br>⭐ 64,209 (+147)<br>🗒 JavaScript<br><br>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, ...]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 AlexsJones / llmfit ⭐ 3…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtccqzm7f22h</link>
@@ -450,15 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>著者は、エージェント設計と大規模AIモデル時代のソフトウェアエンジニアリングを巡る自意識（ impostor syndrome）と選択の重要性について述べる。エージェントハーネスとモデルの組み合わせは強力だが、現在のモデルは推論より予測に基づき、ソフトウェアの可測性・保守性・デバッグ性を確保するには設計の工夫と明確な境界づけが不可欠で、トレードオフを理解しつつ良い抽象化と健全な検証を重視するべきだ、という結論に至る。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>著者は、エージェント設計と大規模AIモデル時代のソフトウェアエンジニアリングを巡る自意識（ impostor syndrome）と選択の重要性について述べる。エージェントハーネスとモデルの組み合わせは強力だが、現在のモデルは推論より予測に基づき、ソフトウェアの可測性・保守性・デバッグ性を確保するには設計の工夫と明確な境界づけが不可欠で、トレードオフを理解しつつ良い抽象化と健全な検証を重視するべきだ、という結論に至る。]]></content:encoded>
-    </item>
-    <item>
-      <title>ソフトウェア工学の基礎はより重要だ。 Software Engineering fundamentals matter …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbq3c3p27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtalbq3c3p27</guid>
-      <pubDate>Mon, 17 Aug 2026 01:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ソフトウェア工学の基礎はより重要だ。<br>Software Engineering fundamentals matter more<br><br>🔺 292<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
