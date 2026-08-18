@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:19:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Thanks, just fixed that</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtdttxh6js2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtdttxh6js2t</guid>
+      <pubDate>Tue, 18 Aug 2026 08:55:46 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Thanks, just fixed that]]></description>
+      <content:encoded><![CDATA[Thanks, just fixed that]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   ハノーファー研究所という新設の「イスラエル・パレスチナ問題専門シンクタンク」は実在せず、同団…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdpuumcav2a</link>
@@ -465,15 +474,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is a one-stop AI video creation tool that generates scripts, finds assets, adds subtitles and music, and composes high-quality short videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options across Windows, macOS, and Linux. It supports (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is a one-stop AI video creation tool that generates scripts, finds assets, adds subtitles and music, and composes high-quality short videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options across Windows, macOS, and Linux. It supports (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 harry0703 / MoneyPr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbryhsrzy2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbryhsrzy2f</guid>
-      <pubDate>Mon, 17 Aug 2026 13:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 harry0703 / MoneyPrinterTurbo<br>⭐ 105,266 (+494)<br>🗒 Python<br><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 harry0703 / MoneyPrinterTurbo<br>⭐ 105,266 (+494)<br>🗒 Python<br><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.]]></content:encoded>
     </item>
   </channel>
 </rss>
