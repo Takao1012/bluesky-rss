@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:17:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>YouTubeが再生回数のカウント方法変更、ミュージックビデオも再生開始した時点で1再生 https://natali…</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtdgp4zeoj2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtdgp4zeoj2h</guid>
+      <pubDate>Tue, 18 Aug 2026 05:00:23 GMT</pubDate>
+      <author>音楽ナタリー (@music.natalie.mu)</author>
+      <description><![CDATA[YouTubeが再生回数のカウント方法変更、ミュージックビデオも再生開始した時点で1再生<br>https://natalie.mu/music/news/685592?utm_source=bluesky&utm_medium=social]]></description>
+      <content:encoded><![CDATA[YouTubeが再生回数のカウント方法変更、ミュージックビデオも再生開始した時点で1再生<br>https://natalie.mu/music/news/685592?utm_source=bluesky&utm_medium=social]]></content:encoded>
+    </item>
     <item>
       <title>森高千里とアップフロント 熊本地震の被災地支援で1億2000万円寄付  故郷に思いを寄せ 「苦しい思いでいっぱい…</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtddisxew52e</link>
@@ -507,15 +516,6 @@
       <author>Rolling Stone (@rollingstone.com)</author>
       <description><![CDATA[Timothy Olyphant on the actors he tries to emulate: <br><br>"De Niro and Pacino. I was a huge fan of Nic Cage, Gary Oldman. Miss Streep, as always. The usual list of amazingness."]]></description>
       <content:encoded><![CDATA[Timothy Olyphant on the actors he tries to emulate: <br><br>"De Niro and Pacino. I was a huge fan of Nic Cage, Gary Oldman. Miss Streep, as always. The usual list of amazingness."]]></content:encoded>
-    </item>
-    <item>
-      <title>Hayden Panettiere’s Death Under Investigation After Apparent…</title>
-      <link>https://bsky.app/profile/did:plc:vf32tdeunh3ra6nvclxhmeuo/post/3mtc7ijd2ek2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vf32tdeunh3ra6nvclxhmeuo/post/3mtc7ijd2ek2g</guid>
-      <pubDate>Mon, 17 Aug 2026 17:18:47 GMT</pubDate>
-      <author>Rolling Stone (@rollingstone.com)</author>
-      <description><![CDATA[Hayden Panettiere’s Death Under Investigation After Apparent Overdose]]></description>
-      <content:encoded><![CDATA[Hayden Panettiere’s Death Under Investigation After Apparent Overdose]]></content:encoded>
     </item>
   </channel>
 </rss>

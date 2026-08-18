@@ -5,7 +5,7 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:17:22 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>💡 Summary:   AIインデックスの最新版v4.1.1は、GDPval-AA v2、𝜏³-Banking、T…</title>
@@ -24,6 +24,30 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Qwen3.8 27BはArtificial Analysisで52点を獲得した。<br>Qwen3.8 27B scores 52 on Artificial Analysis<br><br>🔺 316<br>💬 33<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Qwen3.8 27BはArtificial Analysisで52点を獲得した。<br>Qwen3.8 27B scores 52 on Artificial Analysis<br><br>🔺 316<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>It&apos;s legit trippy to use T3 Code on a bad network. You forge…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtdgxdssld2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtdgxdssld2y</guid>
+      <pubDate>Tue, 18 Aug 2026 02:54:46 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[It's legit trippy to use T3 Code on a bad network. You forget the connection is terrible until you alt-tab back to your browser and everything is slow again
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreice7apdrygqrkxsligwuaysakm2tkjohj4jlh7bhl35s6llxhy2ty" alt="Quote Tweet: https://twitter.com/i/status/2089535513216581969" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[It's legit trippy to use T3 Code on a bad network. You forget the connection is terrible until you alt-tab back to your browser and everything is slow again
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreice7apdrygqrkxsligwuaysakm2tkjohj4jlh7bhl35s6llxhy2ty" alt="Quote Tweet: https://twitter.com/i/status/2089535513216581969" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreice7apdrygqrkxsligwuaysakm2tkjohj4jlh7bhl35s6llxhy2ty" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This is a really good tweet</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtdgwvp6d72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtdgwvp6d72x</guid>
+      <pubDate>Tue, 18 Aug 2026 01:54:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This is a really good tweet
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaidisu6augfv4bejytt47qmumhzbxmltmbfkrix4f5peiao4xbie" alt="Quote Tweet: https://twitter.com/i/status/2089418150831869981" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This is a really good tweet
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaidisu6augfv4bejytt47qmumhzbxmltmbfkrix4f5peiao4xbie" alt="Quote Tweet: https://twitter.com/i/status/2089418150831869981" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaidisu6augfv4bejytt47qmumhzbxmltmbfkrix4f5peiao4xbie" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>監査ログで露出期間中の外部アクセスはなかったとしています。 (2/2)</title>
@@ -447,24 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>mukul975/Anthropic-Cybersecurity-Skills<br>AIエージェント向けの最大規模のオープンソース・サイバーセキュリティスキルライブラリです。<br>29のセキュリティドメインや6つのフレームワークなど、幅広いサイバーセキュリティスキルをAIエージェントに提供することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mukul975/Anthropic-Cybersecurity-Skills<br>AIエージェント向けの最大規模のオープンソース・サイバーセキュリティスキルライブラリです。<br>29のセキュリティドメインや6つのフレームワークなど、幅広いサイバーセキュリティスキルをAIエージェントに提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  nautechsystems/nautilus_trader Pythonベースのトレーデ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblqkmqcb2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblqkmqcb2h</guid>
-      <pubDate>Mon, 17 Aug 2026 11:25:22 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>nautechsystems/nautilus_trader<br>PythonベースのトレーディングプラットフォームであるNautilus Traderの提供を目的としたリポジトリです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>nautechsystems/nautilus_trader<br>PythonベースのトレーディングプラットフォームであるNautilus Traderの提供を目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  usestrix/strix Strixは、アプリケーションの脆弱性を自動的に発見し修正す…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblpq7bsr2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblpq7bsr2a</guid>
-      <pubDate>Mon, 17 Aug 2026 11:24:54 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが実際のハッカーのようにコードを動的に実行して脆弱性を特定し、PoCで検証します。<br>静的解析の誤検知や手動テストの負担を軽減し、高速で正確なセキュリティテストを実現することを目的としています。<br>CI/CDパイプラインへの統合や外部コーディングエージェントからの利用も可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが実際のハッカーのようにコードを動的に実行して脆弱性を特定し、PoCで検証します。<br>静的解析の誤検知や手動テストの負担を軽減し、高速で正確なセキュリティテストを実現することを目的としています。<br>CI/CDパイプラインへの統合や外部コーディングエージェントからの利用も可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
