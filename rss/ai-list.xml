@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 21:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:08:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sv7p4t24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sv7p4t24</guid>
+      <pubDate>Tue, 18 Aug 2026 21:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始しました。CodebaseタブのOrigin Reposを中心に、GitHubリポジトリの同期、プルリクエストの管理、エージェント機能、Vercel/Depot/Buildkiteなどのアプリ連携が統合され、リポジトリ間の双方向同期とリアルタイム更新が利用可能になります。設定やアクセス管理、アプリ接続も各リポジトリごとに行えます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始しました。CodebaseタブのOrigin Reposを中心に、GitHubリポジトリの同期、プルリクエストの管理、エージェント機能、Vercel/Depot/Buildkiteなどのアプリ連携が統合され、リポジトリ間の双方向同期とリアルタイム更新が利用可能になります。設定やアクセス管理、アプリ接続も各リポジトリごとに行えます。]]></content:encoded>
+    </item>
+    <item>
+      <title>CursorがGitHubの代替となるOriginをローンチ Cursor launches Origin, GitHu…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sojbbi2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sojbbi2m</guid>
+      <pubDate>Tue, 18 Aug 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   GPUのVRAM過剰割り当て時の挙動とその影響を詳述。VRAMを失うと性能低下だけでなく安定…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtey4cge3n2o</link>
@@ -456,24 +474,6 @@ marketplaces, cut the spines off the books, and scan them. It's possible to scan
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Blueskyアプリが、スクショ時にロゴを見えさせないようにする裏技を公開コードで説明してい…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdj5unwfm24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdj5unwfm24</guid>
-      <pubDate>Tue, 18 Aug 2026 05:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Blueskyアプリが、スクショ時にロゴを見えさせないようにする裏技を公開コードで説明している。具体的には UITextField の isSecureTextEntry を利用し、内容をその層に描画してスクショ時に iOS が層をブランク化してロゴを表示しないようにしている、という仕組みを解説している。TelegramやSignalの「秘密チャット」でも似た手法が知られている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Blueskyアプリが、スクショ時にロゴを見えさせないようにする裏技を公開コードで説明している。具体的には UITextField の isSecureTextEntry を利用し、内容をその層に描画してスクショ時に iOS が層をブランク化してロゴを表示しないようにしている、という仕組みを解説している。TelegramやSignalの「秘密チャット」でも似た手法が知られている。]]></content:encoded>
-    </item>
-    <item>
-      <title>Blueskyがスクリーンショットに自社のロゴを描く方法 How Bluesky draws its logo on s…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdj5q5hn727</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdj5q5hn727</guid>
-      <pubDate>Tue, 18 Aug 2026 05:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Blueskyがスクリーンショットに自社のロゴを描く方法<br>How Bluesky draws its logo on screenshots<br><br>🔺 367<br>💬 46<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Blueskyがスクリーンショットに自社のロゴを描く方法<br>How Bluesky draws its logo on screenshots<br><br>🔺 367<br>💬 46<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
