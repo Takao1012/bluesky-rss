@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:26:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡  🔖 163 ブックマーク …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdlmg2bi322</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdlmg2bi322</guid>
+      <pubDate>Tue, 18 Aug 2026 06:28:22 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Blueskyアプリが、スクショ時にロゴを見えさせないようにする裏技を公開コードで説明してい…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdj5unwfm24</link>
@@ -465,15 +474,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>AnthropicがClaudeの出力全体に水印を施すと公表した件について、著者は従来の「不可感的だが意味を変えない」という説明を疑い、実際には語彙選択を通じた秘密鍵付きのステガノグラフィー的水印を用いると説明する。水印は検出可能だが読者には分からず、EUの規制に対応するための全出力一括適用は有害な副作用を生むと批判し、GoogleのSynthIDの事例も同様に文章の質を微妙に歪めうると指摘している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>AnthropicがClaudeの出力全体に水印を施すと公表した件について、著者は従来の「不可感的だが意味を変えない」という説明を疑い、実際には語彙選択を通じた秘密鍵付きのステガノグラフィー的水印を用いると説明する。水印は検出可能だが読者には分からず、EUの規制に対応するための全出力一括適用は有害な副作用を生むと批判し、GoogleのSynthIDの事例も同様に文章の質を微妙に歪めうると指摘している。]]></content:encoded>
-    </item>
-    <item>
-      <title>AnthropicのClaudeにおける『ウォーターマーク』テキストの改ざんは、文章表現の歪みだ。 Anthropic&apos;…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbmssvnlk24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbmssvnlk24</guid>
-      <pubDate>Mon, 17 Aug 2026 11:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AnthropicのClaudeにおける『ウォーターマーク』テキストの改ざんは、文章表現の歪みだ。<br>Anthropic's 'watermark' text adulteration in Claude is a perversion of writing<br><br>🔺 347<br>💬 94<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AnthropicのClaudeにおける『ウォーターマーク』テキストの改ざんは、文章表現の歪みだ。<br>Anthropic's 'watermark' text adulteration in Claude is a perversion of writing<br><br>🔺 347<br>💬 94<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
