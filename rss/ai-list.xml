@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:14:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwl5emof24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwl5emof24</guid>
+      <pubDate>Tue, 18 Aug 2026 09:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード（Balanced、Nitro、Exacto）に応じてリクエストを最適な提供元へ分配します。性能指標としてはスループット、レイテンシ、TTFT、稼働率、過去3日間の可用性などを公開し、実際の料金は提供元が表示する価格と異なりキャッシュや割引で安くなることがあります。加えて、各提供元の実績データ、ベンチマーク、よく使われるアプリ例、コードの導入サンプル（OpenRouter APIはOpenAI互換）も提供しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード（Balanced、Nitro、Exacto）に応じてリクエストを最適な提供元へ分配します。性能指標としてはスループット、レイテンシ、TTFT、稼働率、過去3日間の可用性などを公開し、実際の料金は提供元が表示する価格と異なりキャッシュや割引で安くなることがあります。加えて、各提供元の実績データ、ベンチマーク、よく使われるアプリ例、コードの導入サンプル（OpenRouter APIはOpenAI互換）も提供しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT-5.6 Solの価格を50％に引き下げ GPT-5.6 Sol Pricing Cut by 50%  🔺 4…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwkv46a527</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwkv46a527</guid>
+      <pubDate>Tue, 18 Aug 2026 09:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GPT-5.6 Solの価格を50％に引き下げ<br>GPT-5.6 Sol Pricing Cut by 50%<br><br>🔺 433<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GPT-5.6 Solの価格を50％に引き下げ<br>GPT-5.6 Sol Pricing Cut by 50%<br><br>🔺 433<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com  🔖 150 ブックマーク…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdvo3w6c62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdvo3w6c62k</guid>
+      <pubDate>Tue, 18 Aug 2026 09:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>Thanks, just fixed that</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtdttxh6js2t</link>
@@ -447,33 +474,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」市場が実務レベルで広がっており、ブローカーを介して高額ディスカウントでのクレジット取引が行われていることを報告しています。AI Credits や AICreditMart などのクレジット市場サイト、CheapCredits などの“バルク割引”型プラットフォームが存在し、TelegramやRedditのミニ市場も活発化していると指摘。総額規模は数千万ドル相当と推定される一方、乱用リスクも高まり、今後取締りが強化される可能性があると結論づけています。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>起業家たちが使わなくなったAIインフラのクレジットを買い取り・再販する「トークンブローカー」市場が実務レベルで広がっており、ブローカーを介して高額ディスカウントでのクレジット取引が行われていることを報告しています。AI Credits や AICreditMart などのクレジット市場サイト、CheapCredits などの“バルク割引”型プラットフォームが存在し、TelegramやRedditのミニ市場も活発化していると指摘。総額規模は数千万ドル相当と推定される一方、乱用リスクも高まり、今後取締りが強化される可能性があると結論づけています。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIクレジットの再販経済 The AI Credit Resale Economy  🔺 313 💬 37 🔗 H…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjd3bnf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbtjd3bnf27</guid>
-      <pubDate>Mon, 17 Aug 2026 13:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIクレジットの再販経済<br>The AI Credit Resale Economy<br><br>🔺 313<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIクレジットの再販経済<br>The AI Credit Resale Economy<br><br>🔺 313<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>multi-language scripts, various TTS options, subtitles, back…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbrylvvmi2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbrylvvmi2s</guid>
-      <pubDate>Mon, 17 Aug 2026 13:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multi-language scripts, various TTS options, subtitles, background music, local or online素材, cloud models, and one-click publishing to TikTok, Instagram, and YouTube Shorts. (2/2)]]></description>
-      <content:encoded><![CDATA[multi-language scripts, various TTS options, subtitles, background music, local or online素材, cloud models, and one-click publishing to TikTok, Instagram, and YouTube Shorts. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   MoneyPrinterTurbo is a one-stop AI video creat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbrylu2qy2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtbrylu2qy2f</guid>
-      <pubDate>Mon, 17 Aug 2026 13:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is a one-stop AI video creation tool that generates scripts, finds assets, adds subtitles and music, and composes high-quality short videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options across Windows, macOS, and Linux. It supports (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is a one-stop AI video creation tool that generates scripts, finds assets, adds subtitles and music, and composes high-quality short videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options across Windows, macOS, and Linux. It supports (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
