@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:33:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:21:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIインデックスの最新版v4.1.1は、GDPval-AA v2、𝜏³-Banking、T…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdchjcf2b2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdchjcf2b2m</guid>
+      <pubDate>Tue, 18 Aug 2026 03:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIインデックスの最新版v4.1.1は、GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam など計9評価を含み、AA-Omniscience/AA-LCRなどの推論型モデル指標やコスト・トークン使用量・オープン性指標を併せて評価する。評価は独立機関の定量分析で、正解数や知識信頼性、幻覚の抑制、オープン性、コスト等を総合して「高いほど良い」基準で比較され、モデルの重量値の公開有無や商用利用制限にも言及される。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIインデックスの最新版v4.1.1は、GDPval-AA v2、𝜏³-Banking、Terminal-Bench v2.1、SciCode、 Humanity's Last Exam など計9評価を含み、AA-Omniscience/AA-LCRなどの推論型モデル指標やコスト・トークン使用量・オープン性指標を併せて評価する。評価は独立機関の定量分析で、正解数や知識信頼性、幻覚の抑制、オープン性、コスト等を総合して「高いほど良い」基準で比較され、モデルの重量値の公開有無や商用利用制限にも言及される。]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen3.8 27BはArtificial Analysisで52点を獲得した。 Qwen3.8 27B scores…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdch6fhxr24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdch6fhxr24</guid>
+      <pubDate>Tue, 18 Aug 2026 03:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen3.8 27BはArtificial Analysisで52点を獲得した。<br>Qwen3.8 27B scores 52 on Artificial Analysis<br><br>🔺 316<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen3.8 27BはArtificial Analysisで52点を獲得した。<br>Qwen3.8 27B scores 52 on Artificial Analysis<br><br>🔺 316<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>監査ログで露出期間中の外部アクセスはなかったとしています。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtd3qzkv4p27</link>
@@ -447,24 +465,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが実際のハッカーのようにコードを動的に実行して脆弱性を特定し、PoCで検証します。<br>静的解析の誤検知や手動テストの負担を軽減し、高速で正確なセキュリティテストを実現することを目的としています。<br>CI/CDパイプラインへの統合や外部コーディングエージェントからの利用も可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>usestrix/strix<br>Strixは、アプリケーションの脆弱性を自動的に発見し修正するオープンソースのAIペネトレーションテストツールです。<br>AIエージェントが実際のハッカーのようにコードを動的に実行して脆弱性を特定し、PoCで検証します。<br>静的解析の誤検知や手動テストの負担を軽減し、高速で正確なセキュリティテストを実現することを目的としています。<br>CI/CDパイプラインへの統合や外部コーディングエージェントからの利用も可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  harry0703/MoneyPrinterTurbo MoneyPrinterTurbo…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblp37wij2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtblp37wij2r</guid>
-      <pubDate>Mon, 17 Aug 2026 11:24:32 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIを活用した短尺動画の自動生成ツールです。<br>動画のテーマやキーワードを入力するだけで、台本の作成、素材の選定、字幕とBGMの生成、そして高画質動画への合成までをワンストップで提供します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIを活用した短尺動画の自動生成ツールです。<br>動画のテーマやキーワードを入力するだけで、台本の作成、素材の選定、字幕とBGMの生成、そして高画質動画への合成までをワンストップで提供します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtbindm4us2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtbindm4us2x</guid>
-      <pubDate>Mon, 17 Aug 2026 10:29:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、ビデオを生成する汎用的なマルチモーダル生成システムです。<br>最大2K解像度でステレオ音声を含む最大15秒のビデオを生成でき、複雑な指示への対応が可能です。<br>テキストからビデオへの変換や、画像を用いたビデオ生成などの機能を備えています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し、ビデオを生成する汎用的なマルチモーダル生成システムです。<br>最大2K解像度でステレオ音声を含む最大15秒のビデオを生成でき、複雑な指示への対応が可能です。<br>テキストからビデオへの変換や、画像を用いたビデオ生成などの機能を備えています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
