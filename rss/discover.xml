@@ -5,73 +5,16 @@
     <link>https://bsky.app/profile/bsky.app/feed/whats-hot</link>
     <description>Trending content from your personal network</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 02:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:33:14 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>おひるー</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtattjgtxc2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtattjgtxc2t</guid>
-      <pubDate>Mon, 17 Aug 2026 04:17:32 GMT</pubDate>
+      <title>第三弾…ッ  x.com/chiikawa_mov...</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtaxnfsqgc2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtaxnfsqgc2v</guid>
+      <pubDate>Mon, 17 Aug 2026 05:25:41 GMT</pubDate>
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[おひるー
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreibtlo7o34yt527frd5zs5giut2judip5cwx66fur6ksve7x3y477e" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[おひるー
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreibtlo7o34yt527frd5zs5giut2judip5cwx66fur6ksve7x3y477e" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreibtlo7o34yt527frd5zs5giut2judip5cwx66fur6ksve7x3y477e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mtd4xpnjwb2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:revzr2gf3oh75vu2fdtf7jws/post/3mtd4xpnjwb2g</guid>
-      <pubDate>Tue, 18 Aug 2026 02:06:15 GMT</pubDate>
-      <author>茨城新聞社 (@ibarakinews.jp)</author>
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>天理7―0三重 天理が13安打で快勝</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mtd4tv243n2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mtd4tv243n2b</guid>
-      <pubDate>Tue, 18 Aug 2026 02:04:07 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[天理7―0三重 天理が13安打で快勝]]></description>
-      <content:encoded><![CDATA[天理7―0三重 天理が13安打で快勝]]></content:encoded>
-    </item>
-    <item>
-      <title>Shattered skeleton is first confirmed death from trebuchet  …</title>
-      <link>https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtd4tsibzl2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtd4tsibzl2w</guid>
-      <pubDate>Tue, 18 Aug 2026 02:04:04 GMT</pubDate>
-      <author>Hacker News Top 100 Bot (Unofficial) (@hn100.bsky.social)</author>
-      <description><![CDATA[Shattered skeleton is first confirmed death from trebuchet<br><br>Discussion]]></description>
-      <content:encoded><![CDATA[Shattered skeleton is first confirmed death from trebuchet<br><br>Discussion]]></content:encoded>
-    </item>
-    <item>
-      <title>Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファ…</title>
-      <link>https://bsky.app/profile/did:plc:2ow4s6cci5ylwwdedvx3qtkx/post/3mtd4trbwes2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ow4s6cci5ylwwdedvx3qtkx/post/3mtd4trbwes2q</guid>
-      <pubDate>Tue, 18 Aug 2026 02:04:03 GMT</pubDate>
-      <author>Tech Trending (@tech-trending.bsky.social)</author>
-      <description><![CDATA[Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能<br>https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html]]></description>
-      <content:encoded><![CDATA[Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能<br>https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html]]></content:encoded>
-    </item>
-    <item>
-      <title>ICE is pitching a plan to help shield local police officers …</title>
-      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mtd4odvgqn2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mtd4odvgqn2d</guid>
-      <pubDate>Tue, 18 Aug 2026 02:01:01 GMT</pubDate>
-      <author>CNN (@cnn.com)</author>
-      <description><![CDATA[ICE is pitching a plan to help shield local police officers who make immigration arrests from possible financial consequences if they are accused of on-duty misconduct.]]></description>
-      <content:encoded><![CDATA[ICE is pitching a plan to help shield local police officers who make immigration arrests from possible financial consequences if they are accused of on-duty misconduct.]]></content:encoded>
-    </item>
-    <item>
-      <title>「那珂川町馬頭広重美術館」が再生、木ルーバー劣化に隈研吾氏が出した答え www.nikkei.com/article/D…</title>
-      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mtd4o3p75t2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mtd4o3p75t2v</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:52 GMT</pubDate>
-      <author>日経電子版 (@nikkei.com)</author>
-      <description><![CDATA[「那珂川町馬頭広重美術館」が再生、木ルーバー劣化に隈研吾氏が出した答え<br>www.nikkei.com/article/DGXZQO...]]></description>
-      <content:encoded><![CDATA[「那珂川町馬頭広重美術館」が再生、木ルーバー劣化に隈研吾氏が出した答え<br>www.nikkei.com/article/DGXZQO...]]></content:encoded>
+      <description><![CDATA[第三弾…ッ<br><br>x.com/chiikawa_mov...]]></description>
+      <content:encoded><![CDATA[第三弾…ッ<br><br>x.com/chiikawa_mov...]]></content:encoded>
     </item>
     <item>
       <title>高校生活でのお昼休みの私の様子です。 トイレの前でご飯を食べて、そのあとは何か用事がある風に校内をひたすら歩く。 お友達…</title>
@@ -86,29 +29,16 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:s7o2av5xegojiofm3atepyo4/bafkreif4s2ydf7wtnqownr5iq5ge55j7h2sawyktk532xjjy5wdg42zoum" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>＝LOVEが今夜「夜の音」出演🩷 ブレイクまでの日々を振り返る https://natalie.mu/music/…</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtd4nioehr2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtd4nioehr2l</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:30 GMT</pubDate>
-      <author>音楽ナタリー (@music.natalie.mu)</author>
-      <description><![CDATA[＝LOVEが今夜「夜の音」出演🩷<br>ブレイクまでの日々を振り返る<br>https://natalie.mu/music/news/685559?utm_source=bluesky&utm_medium=social<br><br>スタジオライブでは<br>新曲「恋、はじめました。」含む3曲を披露<br><br>#夜の音 #イコラブ]]></description>
-      <content:encoded><![CDATA[＝LOVEが今夜「夜の音」出演🩷<br>ブレイクまでの日々を振り返る<br>https://natalie.mu/music/news/685559?utm_source=bluesky&utm_medium=social<br><br>スタジオライブでは<br>新曲「恋、はじめました。」含む3曲を披露<br><br>#夜の音 #イコラブ]]></content:encoded>
-    </item>
-    <item>
-      <title>「さとこはいつも」有村架純が映画宣伝会議で論争、“恋人”オダギリジョーにはつい本音も（本編映像あり）  映画ポスター…</title>
-      <link>https://bsky.app/profile/did:plc:zhpk4gd7cisxryg6b6ttl5e4/post/3mtd4nbhqoz2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zhpk4gd7cisxryg6b6ttl5e4/post/3mtd4nbhqoz2x</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:20 GMT</pubDate>
-      <author>映画ナタリー (@eiga.natalie.mu)</author>
-      <description><![CDATA[「さとこはいつも」有村架純が映画宣伝会議で論争、“恋人”オダギリジョーにはつい本音も（本編映像あり）<br><br>映画ポスター完成までには果てしない葛藤<br>宣伝マンたちがリアル事情語る<br>https://natalie.mu/eiga/news/685529?utm_source=bluesky&utm_medium=social<br><br>#さとこはいつも
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreicfr5q67qcrbltjesptmxou27qcg6xjvg73fga5o3t5loq4nq5wlq" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreifz6dknrgk47ahv6jveytid6wi3a4gc4niron5g5aoaw6xgz2s6zy" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreifwxw34pwjouyi6wjbho4uvi54ewgrl5acrym74fsgaz6korh5ooq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[「さとこはいつも」有村架純が映画宣伝会議で論争、“恋人”オダギリジョーにはつい本音も（本編映像あり）<br><br>映画ポスター完成までには果てしない葛藤<br>宣伝マンたちがリアル事情語る<br>https://natalie.mu/eiga/news/685529?utm_source=bluesky&utm_medium=social<br><br>#さとこはいつも
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreicfr5q67qcrbltjesptmxou27qcg6xjvg73fga5o3t5loq4nq5wlq" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreifz6dknrgk47ahv6jveytid6wi3a4gc4niron5g5aoaw6xgz2s6zy" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreifwxw34pwjouyi6wjbho4uvi54ewgrl5acrym74fsgaz6korh5ooq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreicfr5q67qcrbltjesptmxou27qcg6xjvg73fga5o3t5loq4nq5wlq" type="image/jpeg" length="0"/>
+      <title>20年前ぐらいの写真のデータがMOディスク（若い人わかりますかね！）に入っていて取り出せなかった。 思い切ってUSBつき…</title>
+      <link>https://bsky.app/profile/did:plc:g27kidip2b3bf7q6o3pzo4xi/post/3mtcyxzvdzc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g27kidip2b3bf7q6o3pzo4xi/post/3mtcyxzvdzc2w</guid>
+      <pubDate>Tue, 18 Aug 2026 00:54:51 GMT</pubDate>
+      <author>有賀薫／Kaoru Ariga (@kaorun6.bsky.social)</author>
+      <description><![CDATA[20年前ぐらいの写真のデータがMOディスク（若い人わかりますかね！）に入っていて取り出せなかった。<br>思い切ってUSBつきの中古のMOドライブを買ったのだが、はたと気づく。20年前、私はWindowsではなくMacを使ってたんだということに…<br><br>誰か助けてー🥲
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g27kidip2b3bf7q6o3pzo4xi/bafkreiggdhixjub76w3bxum74szt3dlmihxbxetliqqyid2fe6goiw6l7e" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[20年前ぐらいの写真のデータがMOディスク（若い人わかりますかね！）に入っていて取り出せなかった。<br>思い切ってUSBつきの中古のMOドライブを買ったのだが、はたと気づく。20年前、私はWindowsではなくMacを使ってたんだということに…<br><br>誰か助けてー🥲
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g27kidip2b3bf7q6o3pzo4xi/bafkreiggdhixjub76w3bxum74szt3dlmihxbxetliqqyid2fe6goiw6l7e" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g27kidip2b3bf7q6o3pzo4xi/bafkreiggdhixjub76w3bxum74szt3dlmihxbxetliqqyid2fe6goiw6l7e" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>イングヴェイクッキング  貴族の俺が「ちくわの磯辺揚げ」を伝授しよう。 ちくわをカットしろ。スウィープで確実にやるんだ。…</title>
@@ -123,28 +53,43 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:k4tgit2odovx6bp6srpj4dq5/bafkreieollipecd6v7edqafnowm6l77pbyc2eqttucm7ttxielzccpduoa" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>綺麗な空</title>
-      <link>https://bsky.app/profile/did:plc:qr74jcihlfsipyqz2ttxj5as/post/3mtcxlo36hk2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qr74jcihlfsipyqz2ttxj5as/post/3mtcxlo36hk2k</guid>
-      <pubDate>Tue, 18 Aug 2026 00:30:02 GMT</pubDate>
-      <author>yastoro (@yastoro.com)</author>
-      <description><![CDATA[綺麗な空
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[綺麗な空
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" type="image/jpeg" length="0"/>
+      <title>The president is losing ground with key voting blocs as conc…</title>
+      <link>https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mtdbsr65s52l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aonrplpou355iyrtvtimbj2q/post/3mtdbsr65s52l</guid>
+      <pubDate>Tue, 18 Aug 2026 03:32:58 GMT</pubDate>
+      <author>Newsweek (@newsweek.com)</author>
+      <description><![CDATA[The president is losing ground with key voting blocs as concerns over the Iran war and cost of living mount.]]></description>
+      <content:encoded><![CDATA[The president is losing ground with key voting blocs as concerns over the Iran war and cost of living mount.]]></content:encoded>
     </item>
     <item>
-      <title>おはようございます！はい！ #そら</title>
-      <link>https://bsky.app/profile/did:plc:6cw4hiktrllr3ignvk4vrz6x/post/3mtcuquhmr22m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6cw4hiktrllr3ignvk4vrz6x/post/3mtcuquhmr22m</guid>
-      <pubDate>Mon, 17 Aug 2026 23:39:16 GMT</pubDate>
-      <author>ぴかっとさん（休憩中） (@pikattos34425.bsky.social)</author>
-      <description><![CDATA[おはようございます！はい！ #そら
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[おはようございます！はい！ #そら
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" type="image/jpeg" length="0"/>
+      <title>Someone tell NASA that we found a short cut.</title>
+      <link>https://bsky.app/profile/did:plc:uwaez2rueg5uk2ysoivsxegq/post/3mtbzdub6l22y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uwaez2rueg5uk2ysoivsxegq/post/3mtbzdub6l22y</guid>
+      <pubDate>Mon, 17 Aug 2026 15:28:48 GMT</pubDate>
+      <author>JewInACanoe.bsky.social 🎗️ (@jewinacanoe.bsky.social)</author>
+      <description><![CDATA[Someone tell NASA that we found a short cut.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Someone tell NASA that we found a short cut.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>TONIGHT: ROSIE O&apos;DONNELL guest host for vacationing Jimmy Ki…</title>
+      <link>https://bsky.app/profile/did:plc:p2xkho6dhokpvx5yr67wwwnj/post/3mtd6l6wqqc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:p2xkho6dhokpvx5yr67wwwnj/post/3mtd6l6wqqc2o</guid>
+      <pubDate>Tue, 18 Aug 2026 02:35:03 GMT</pubDate>
+      <author>KAMALA NATION (@kamalanation.bsky.social)</author>
+      <description><![CDATA[TONIGHT:<br>ROSIE O'DONNELL guest host for vacationing Jimmy Kimmel. <br>Can't wait!<br>Photo below from her Rosie daytime talk show with guest- a young Hayden Panettiere singing Britney's song. 🥺]]></description>
+      <content:encoded><![CDATA[TONIGHT:<br>ROSIE O'DONNELL guest host for vacationing Jimmy Kimmel. <br>Can't wait!<br>Photo below from her Rosie daytime talk show with guest- a young Hayden Panettiere singing Britney's song. 🥺]]></content:encoded>
+    </item>
+    <item>
+      <title>Columbia House Is Shutting Down  Discussion</title>
+      <link>https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtdbr5ndcx2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtdbr5ndcx2y</guid>
+      <pubDate>Tue, 18 Aug 2026 03:32:04 GMT</pubDate>
+      <author>Hacker News Top 100 Bot (Unofficial) (@hn100.bsky.social)</author>
+      <description><![CDATA[Columbia House Is Shutting Down<br><br>Discussion]]></description>
+      <content:encoded><![CDATA[Columbia House Is Shutting Down<br><br>Discussion]]></content:encoded>
     </item>
     <item>
       <title>おはようございます。  昨日のおうちごはんは、ダンナが絶対唐揚げ！！ってリクエストでしたので、  ケイジャン唐揚げ。  …</title>
@@ -163,13 +108,43 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p3wls662t4edbmvuslcxxgk4/bafkreifspkpmlkj2gvpz2pvsue3odaz25kz62bz6sfcplghtna4l46eucy" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>A New Jersey man surrenders to authorities on charges that h…</title>
-      <link>https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mtd4muzubu2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wmho6q2uiyktkam3jsvrms3s/post/3mtd4muzubu2c</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:12 GMT</pubDate>
-      <author>NBC News (@nbcnews.com)</author>
-      <description><![CDATA[A New Jersey man surrenders to authorities on charges that he was operating a boat under the influence in connection with a July incident where two children, ages 7 and 9, were thrown into the water and died, police say.]]></description>
-      <content:encoded><![CDATA[A New Jersey man surrenders to authorities on charges that he was operating a boat under the influence in connection with a July incident where two children, ages 7 and 9, were thrown into the water and died, police say.]]></content:encoded>
+      <title>ルチルクォーツネックレス✨【京都ジュエリーショップ】  #亀岡市 #閉店セール #ジュエリー #デザイン #金運アップ …</title>
+      <link>https://bsky.app/profile/did:plc:6daf7etuoxdiebpmyk2yqiur/post/3mtdbq2stg22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6daf7etuoxdiebpmyk2yqiur/post/3mtdbq2stg22g</guid>
+      <pubDate>Tue, 18 Aug 2026 03:31:27 GMT</pubDate>
+      <author>有限会社マツヤマ【公式】宝石・時計 松山/雅-miyabiｰ/CENTREMILE (@jw-matsuyama.bsky.social)</author>
+      <description><![CDATA[ルチルクォーツネックレス✨【京都ジュエリーショップ】<br><br>#亀岡市<br>#閉店セール<br>#ジュエリー<br>#デザイン<br>#金運アップ<br>#ネックレス<br>#いつもありがとうございます<br>#売り尽くし<br>#厄除け<br>#ルチルクォーツ<br><br>ameblo.jp/matsuyama-ho...]]></description>
+      <content:encoded><![CDATA[ルチルクォーツネックレス✨【京都ジュエリーショップ】<br><br>#亀岡市<br>#閉店セール<br>#ジュエリー<br>#デザイン<br>#金運アップ<br>#ネックレス<br>#いつもありがとうございます<br>#売り尽くし<br>#厄除け<br>#ルチルクォーツ<br><br>ameblo.jp/matsuyama-ho...]]></content:encoded>
+    </item>
+    <item>
+      <title>Bee  Everybody quiet down now and get some sleep.  Lost to t…</title>
+      <link>https://bsky.app/profile/did:plc:a3ekktfqlxcjhddlvxosaus6/post/3mtcwlignwc2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:a3ekktfqlxcjhddlvxosaus6/post/3mtcwlignwc2s</guid>
+      <pubDate>Tue, 18 Aug 2026 00:12:03 GMT</pubDate>
+      <author>The Bee Guy (@thebeeguy.bsky.social)</author>
+      <description><![CDATA[Bee<br><br>Everybody quiet down now and get some sleep.<br><br>Lost to the scroll we neglected to dream…<br><br>#bee #goodnight #dream]]></description>
+      <content:encoded><![CDATA[Bee<br><br>Everybody quiet down now and get some sleep.<br><br>Lost to the scroll we neglected to dream…<br><br>#bee #goodnight #dream]]></content:encoded>
+    </item>
+    <item>
+      <title>サイゼリヤ前社長の堀埜一成氏、長野のリンゴ農家と新会社 www.nikkei.com/article/DGXZQO...…</title>
+      <link>https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mtdboyus2i2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pkypwfeznavoxxfhabonvy6v/post/3mtdboyus2i2v</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:52 GMT</pubDate>
+      <author>日経電子版 (@nikkei.com)</author>
+      <description><![CDATA[サイゼリヤ前社長の堀埜一成氏、長野のリンゴ農家と新会社<br>www.nikkei.com/article/DGXZQO...<br><br>廃棄されてきた未熟果を使ってリンゴ100%のピューレを製造。<br><br>「サイゼリヤ流」で、温暖化の影響を受ける農家の収益安定と、消費者が買いやすい価格の両立を目指します。]]></description>
+      <content:encoded><![CDATA[サイゼリヤ前社長の堀埜一成氏、長野のリンゴ農家と新会社<br>www.nikkei.com/article/DGXZQO...<br><br>廃棄されてきた未熟果を使ってリンゴ100%のピューレを製造。<br><br>「サイゼリヤ流」で、温暖化の影響を受ける農家の収益安定と、消費者が買いやすい価格の両立を目指します。]]></content:encoded>
+    </item>
+    <item>
+      <title>おはようございます！はい！ #そら</title>
+      <link>https://bsky.app/profile/did:plc:6cw4hiktrllr3ignvk4vrz6x/post/3mtcuquhmr22m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6cw4hiktrllr3ignvk4vrz6x/post/3mtcuquhmr22m</guid>
+      <pubDate>Mon, 17 Aug 2026 23:39:16 GMT</pubDate>
+      <author>ぴかっとさん（休憩中） (@pikattos34425.bsky.social)</author>
+      <description><![CDATA[おはようございます！はい！ #そら
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[おはようございます！はい！ #そら
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6cw4hiktrllr3ignvk4vrz6x/bafkreibaiqazjfsgj3tfvydiuvt4wyirreoxt7r7vnk6qnl6cbj3ohea2a" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>おはようございます‼️ 今日は火曜日、アマプラで観たドラマのお話を🎞️  週末に観終わりました、掛け値なしに良いかと …</title>
@@ -184,25 +159,34 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:q4d6cxdcssdut27l4bmkhcws/bafkreifceayryndmbcx5i4rzh646yaeo6yksvlzwx4jgnagltpcnmqgjha" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>「フラレた後のファンタジー」がマンガ化、失意の冒険者の再生を描いた新連載 https://natalie.mu/com…</title>
-      <link>https://bsky.app/profile/did:plc:5ttg43yfww3kidboxtclpxct/post/3mtd4mvbo6q2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5ttg43yfww3kidboxtclpxct/post/3mtd4mvbo6q2b</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:10 GMT</pubDate>
-      <author>コミックナタリー (@comic.natalie.mu)</author>
-      <description><![CDATA[「フラレた後のファンタジー」がマンガ化、失意の冒険者の再生を描いた新連載<br>https://natalie.mu/comic/news/685176?utm_source=bluesky&utm_medium=social
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreigqim6q4qe2rvytxw5bhtk64mmg4iswzywkvdxxhzdc62n5s77vve" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[「フラレた後のファンタジー」がマンガ化、失意の冒険者の再生を描いた新連載<br>https://natalie.mu/comic/news/685176?utm_source=bluesky&utm_medium=social
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreigqim6q4qe2rvytxw5bhtk64mmg4iswzywkvdxxhzdc62n5s77vve" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreigqim6q4qe2rvytxw5bhtk64mmg4iswzywkvdxxhzdc62n5s77vve" type="image/jpeg" length="0"/>
+      <title>外から見えないすけすけのゲストハウスなら興味持つ人多くなりそう</title>
+      <link>https://bsky.app/profile/did:plc:3n2skdgfq6wsacljrakxejkn/post/3mtdbo4k2uc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3n2skdgfq6wsacljrakxejkn/post/3mtdbo4k2uc2q</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:22 GMT</pubDate>
+      <author>花森@異ノ祭C-2 (@hanamori00.bsky.social)</author>
+      <description><![CDATA[外から見えないすけすけのゲストハウスなら興味持つ人多くなりそう]]></description>
+      <content:encoded><![CDATA[外から見えないすけすけのゲストハウスなら興味持つ人多くなりそう]]></content:encoded>
     </item>
     <item>
-      <title>Luigi Mangione’s murder trial in New York, which was schedul…</title>
-      <link>https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mtd4mqu7pn2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eclio37ymobqex2ncko63h4r/post/3mtd4mqu7pn2v</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:08 GMT</pubDate>
-      <author>The New York Times (@nytimes.com)</author>
-      <description><![CDATA[Luigi Mangione’s murder trial in New York, which was scheduled to begin next month, will be postponed as he pushes to get the case dismissed, according to an order from the judge on Monday.]]></description>
-      <content:encoded><![CDATA[Luigi Mangione’s murder trial in New York, which was scheduled to begin next month, will be postponed as he pushes to get the case dismissed, according to an order from the judge on Monday.]]></content:encoded>
+      <title>綺麗な空</title>
+      <link>https://bsky.app/profile/did:plc:qr74jcihlfsipyqz2ttxj5as/post/3mtcxlo36hk2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qr74jcihlfsipyqz2ttxj5as/post/3mtcxlo36hk2k</guid>
+      <pubDate>Tue, 18 Aug 2026 00:30:02 GMT</pubDate>
+      <author>yastoro (@yastoro.com)</author>
+      <description><![CDATA[綺麗な空
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[綺麗な空
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr74jcihlfsipyqz2ttxj5as/bafkreifgjo3ey2v3f5ryevudetpqui6alqllb7buiw45dgwrtbpgek4cyu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>These are the Asian companies you should keep an eye on over…</title>
+      <link>https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mtdbntjlrt22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uewxgchsjy4kmtu7dcxa77us/post/3mtdbntjlrt22</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:13 GMT</pubDate>
+      <author>Bloomberg News (@bloomberg.com)</author>
+      <description><![CDATA[These are the Asian companies you should keep an eye on over the next few months.]]></description>
+      <content:encoded><![CDATA[These are the Asian companies you should keep an eye on over the next few months.]]></content:encoded>
     </item>
     <item>
       <title>おはひな！！本日もよろしくお願いします！！！🥳🙏✨✨✨✨✨✨✨ #ブルアカ   #水着イラスト</title>
@@ -217,39 +201,6 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mdtmqjsuaa47u3zkfmomx4sf/bafkreiec6ojmesyi26snrkvf7wqz4gqmt3xcvlar7pyu4cmckrh2mjoa6e" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>　通院の前にLAWSONへ寄り、ヴィクトワールピサと集合絵のクリアファイルを確保。 　菓子だけじゃなくて、カップスープや…</title>
-      <link>https://bsky.app/profile/did:plc:o4jourlem25kvf3oz65uodrz/post/3mtcvjtcgjk2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o4jourlem25kvf3oz65uodrz/post/3mtcvjtcgjk2s</guid>
-      <pubDate>Mon, 17 Aug 2026 23:53:13 GMT</pubDate>
-      <author>いしのなかにもさんねん (@fukuhenshucho.bsky.social)</author>
-      <description><![CDATA[　通院の前にLAWSONへ寄り、ヴィクトワールピサと集合絵のクリアファイルを確保。<br>　菓子だけじゃなくて、カップスープや春雨も対象商品だったらコンプするだけ買い込んだんだけどな。<br>#ウマ娘
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:o4jourlem25kvf3oz65uodrz/bafkreifwcovgvrswy6gbiicqp4ieyvzyj5gednzimutb2mziremwni3hvm" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[　通院の前にLAWSONへ寄り、ヴィクトワールピサと集合絵のクリアファイルを確保。<br>　菓子だけじゃなくて、カップスープや春雨も対象商品だったらコンプするだけ買い込んだんだけどな。<br>#ウマ娘
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:o4jourlem25kvf3oz65uodrz/bafkreifwcovgvrswy6gbiicqp4ieyvzyj5gednzimutb2mziremwni3hvm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:o4jourlem25kvf3oz65uodrz/bafkreifwcovgvrswy6gbiicqp4ieyvzyj5gednzimutb2mziremwni3hvm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>#オールドレンズ #タムキュー52BB  おはようございます☀ すでに疲れている火曜日 灼熱復活？ 体調管理が難しい💦…</title>
-      <link>https://bsky.app/profile/did:plc:ep4paplknphfixmcivvum5qz/post/3mtcti5mfmk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ep4paplknphfixmcivvum5qz/post/3mtcti5mfmk2o</guid>
-      <pubDate>Mon, 17 Aug 2026 23:16:30 GMT</pubDate>
-      <author>サイクロイド⚙️ (@cyclemotors.bsky.social)</author>
-      <description><![CDATA[#オールドレンズ<br>#タムキュー52BB<br><br>おはようございます☀<br>すでに疲れている火曜日<br>灼熱復活？<br>体調管理が難しい💦<br><br>ソフトな緑イガイガ<br><br>火曜日🍀一歩ずつ👣🚶<br>(●´ω｀)ﾉ~~ｲｯﾃﾗｧ～ｼｬｲ👋
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[#オールドレンズ<br>#タムキュー52BB<br><br>おはようございます☀<br>すでに疲れている火曜日<br>灼熱復活？<br>体調管理が難しい💦<br><br>ソフトな緑イガイガ<br><br>火曜日🍀一歩ずつ👣🚶<br>(●´ω｀)ﾉ~~ｲｯﾃﾗｧ～ｼｬｲ👋
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>【共産圏ってすごいなって】  《ヒット作『ドーベルマン刑事（デカ）』の連載が昭和54年に終了。漫画原作者・武論尊さんは、…</title>
-      <link>https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mtd4mpeapm2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqv2k5usgdwzgvkgbh3nters/post/3mtd4mpeapm2m</guid>
-      <pubDate>Tue, 18 Aug 2026 02:00:05 GMT</pubDate>
-      <author>産経ニュース (@sankei.com)</author>
-      <description><![CDATA[【共産圏ってすごいなって】<br><br>《ヒット作『ドーベルマン刑事（デカ）』の連載が昭和54年に終了。漫画原作者・武論尊さんは、内戦状態にあったカンボジアへ出かけた》<br>💬　国境の検問もめちゃくちゃ厳しかったですね。腕時計など飾り物は全部外せ、後で返すからって言われて。なんか、共産圏ってすごいなって思いました。<br>西側の方が経済的に裕福だということも知らせたくなかったでしょうからね。]]></description>
-      <content:encoded><![CDATA[【共産圏ってすごいなって】<br><br>《ヒット作『ドーベルマン刑事（デカ）』の連載が昭和54年に終了。漫画原作者・武論尊さんは、内戦状態にあったカンボジアへ出かけた》<br>💬　国境の検問もめちゃくちゃ厳しかったですね。腕時計など飾り物は全部外せ、後で返すからって言われて。なんか、共産圏ってすごいなって思いました。<br>西側の方が経済的に裕福だということも知らせたくなかったでしょうからね。]]></content:encoded>
-    </item>
-    <item>
       <title>おはようございます 蒸し暑い一日になりそうです いい加減散歩を再開しないと 筋力が落ちてしまいそう・・・・・  オスカー…</title>
       <link>https://bsky.app/profile/did:plc:unr32mqc5ehcd5xkfnt6d5lz/post/3mtcnjjyc3k2i</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:unr32mqc5ehcd5xkfnt6d5lz/post/3mtcnjjyc3k2i</guid>
@@ -257,6 +208,27 @@
       <author>独居老人 (@qrzqrpp.bsky.social)</author>
       <description><![CDATA[おはようございます<br>蒸し暑い一日になりそうです<br>いい加減散歩を再開しないと<br>筋力が落ちてしまいそう・・・・・<br><br>オスカー・ピーターソン<br>圧倒的な技巧 怒涛のスウィング感<br>www.youtube.com/watch?v=rZ7P...<br>＃jazz<br>安全な良い一日を・・・・・]]></description>
       <content:encoded><![CDATA[おはようございます<br>蒸し暑い一日になりそうです<br>いい加減散歩を再開しないと<br>筋力が落ちてしまいそう・・・・・<br><br>オスカー・ピーターソン<br>圧倒的な技巧 怒涛のスウィング感<br>www.youtube.com/watch?v=rZ7P...<br>＃jazz<br>安全な良い一日を・・・・・]]></content:encoded>
+    </item>
+    <item>
+      <title>【ランキング13位】【密着×囁き実況】地雷系彼女の大好きホールド発動中ッ♡ 耳元であざと～く実況H開始します。 [ふわふ…</title>
+      <link>https://bsky.app/profile/did:plc:2zqpu2y2uokkukwgdcxdmxj6/post/3mtdbnskxwm2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2zqpu2y2uokkukwgdcxdmxj6/post/3mtdbnskxwm2e</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:11 GMT</pubDate>
+      <author>音声作品アンテナ (@saimins-collect.bsky.social)</author>
+      <description><![CDATA[【ランキング13位】【密着×囁き実況】地雷系彼女の大好きホールド発動中ッ♡ 耳元であざと～く実況H開始します。 [ふわふわ将軍]]]></description>
+      <content:encoded><![CDATA[【ランキング13位】【密着×囁き実況】地雷系彼女の大好きホールド発動中ッ♡ 耳元であざと～く実況H開始します。 [ふわふわ将軍]]]></content:encoded>
+    </item>
+    <item>
+      <title>ゼンデイヤ＆ロバート・パティンソンW主演！A24が贈る「ドラマなふたり」試写会感想まとめ💍 https://nata…</title>
+      <link>https://bsky.app/profile/did:plc:zhpk4gd7cisxryg6b6ttl5e4/post/3mtdbntvqci2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zhpk4gd7cisxryg6b6ttl5e4/post/3mtdbntvqci2o</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:10 GMT</pubDate>
+      <author>映画ナタリー (@eiga.natalie.mu)</author>
+      <description><![CDATA[ゼンデイヤ＆ロバート・パティンソンW主演！A24が贈る「ドラマなふたり」試写会感想まとめ💍<br>https://natalie.mu/eiga/film_preview/684866?utm_source=bluesky&utm_medium=social<br><br>・シリアスと笑いの絶妙な織り交ぜ方は文句なし<br>・お互いをより理解したくなる作品<br>・情けないダメ男パティンソン、頼もしいゼンデイヤ<br><br>#ドラマなふたり #ナタリー試写会 #PR
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreiet2mt7yabd2ag2ybpvl2wqryg6kjegssv4bzk5mlx6rnlevq7xdm" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[ゼンデイヤ＆ロバート・パティンソンW主演！A24が贈る「ドラマなふたり」試写会感想まとめ💍<br>https://natalie.mu/eiga/film_preview/684866?utm_source=bluesky&utm_medium=social<br><br>・シリアスと笑いの絶妙な織り交ぜ方は文句なし<br>・お互いをより理解したくなる作品<br>・情けないダメ男パティンソン、頼もしいゼンデイヤ<br><br>#ドラマなふたり #ナタリー試写会 #PR
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreiet2mt7yabd2ag2ybpvl2wqryg6kjegssv4bzk5mlx6rnlevq7xdm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhpk4gd7cisxryg6b6ttl5e4/bafkreiet2mt7yabd2ag2ybpvl2wqryg6kjegssv4bzk5mlx6rnlevq7xdm" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>起きました！おはようございます😊 8月18日 230/365 1年のおよそ63.0% 4月1日から140日目  #イマ…</title>
@@ -273,237 +245,85 @@
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ztef4egl3g2qwjmyhyqrbehv/bafkreibidzfd2gqxolu55kecbnehs2igckmwgfwyiceavgjgikkqtsn4wq" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>【速報】赤い羽根、議事録偽造し1.9億円借り入れ</title>
-      <link>https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mtd4iapdmv2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2glsctd3tl6sj2o2jun4yae2/post/3mtd4iapdmv2b</guid>
-      <pubDate>Tue, 18 Aug 2026 01:57:36 GMT</pubDate>
-      <author>47NEWS (@47news.jp)</author>
-      <description><![CDATA[【速報】赤い羽根、議事録偽造し1.9億円借り入れ]]></description>
-      <content:encoded><![CDATA[【速報】赤い羽根、議事録偽造し1.9億円借り入れ]]></content:encoded>
+      <title>#オールドレンズ #タムキュー52BB  おはようございます☀ すでに疲れている火曜日 灼熱復活？ 体調管理が難しい💦…</title>
+      <link>https://bsky.app/profile/did:plc:ep4paplknphfixmcivvum5qz/post/3mtcti5mfmk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ep4paplknphfixmcivvum5qz/post/3mtcti5mfmk2o</guid>
+      <pubDate>Mon, 17 Aug 2026 23:16:30 GMT</pubDate>
+      <author>サイクロイド⚙️ (@cyclemotors.bsky.social)</author>
+      <description><![CDATA[#オールドレンズ<br>#タムキュー52BB<br><br>おはようございます☀<br>すでに疲れている火曜日<br>灼熱復活？<br>体調管理が難しい💦<br><br>ソフトな緑イガイガ<br><br>火曜日🍀一歩ずつ👣🚶<br>(●´ω｀)ﾉ~~ｲｯﾃﾗｧ～ｼｬｲ👋
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[#オールドレンズ<br>#タムキュー52BB<br><br>おはようございます☀<br>すでに疲れている火曜日<br>灼熱復活？<br>体調管理が難しい💦<br><br>ソフトな緑イガイガ<br><br>火曜日🍀一歩ずつ👣🚶<br>(●´ω｀)ﾉ~~ｲｯﾃﾗｧ～ｼｬｲ👋
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ep4paplknphfixmcivvum5qz/bafkreihvovwbftmvii2wd6u4r4aoytmc46pibs5c3zjv6pvvwnj5cdwzgu" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>A video found in the macOS Tahoe 26.7 release candidate appe…</title>
-      <link>https://bsky.app/profile/did:plc:pv7fudnt4dspurzdnyq73pfe/post/3mtd4geikty23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pv7fudnt4dspurzdnyq73pfe/post/3mtd4geikty23</guid>
-      <pubDate>Tue, 18 Aug 2026 01:56:33 GMT</pubDate>
-      <author>Techmeme (@techmeme.com)</author>
-      <description><![CDATA[A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence (Juli Clover/MacRumors)<br><br>Main Link | Techmeme Permalink]]></description>
-      <content:encoded><![CDATA[A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence (Juli Clover/MacRumors)<br><br>Main Link | Techmeme Permalink]]></content:encoded>
+      <title>【ランキング12位】ウシ娘のホルスタインJKがチンカス汚ちんぽにラブ媚びご奉仕してくれるお話♡【KU100】 [ホロクサ…</title>
+      <link>https://bsky.app/profile/did:plc:2zqpu2y2uokkukwgdcxdmxj6/post/3mtdbnrn4262p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2zqpu2y2uokkukwgdcxdmxj6/post/3mtdbnrn4262p</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:09 GMT</pubDate>
+      <author>音声作品アンテナ (@saimins-collect.bsky.social)</author>
+      <description><![CDATA[【ランキング12位】ウシ娘のホルスタインJKがチンカス汚ちんぽにラブ媚びご奉仕してくれるお話♡【KU100】 [ホロクサミドリ]]]></description>
+      <content:encoded><![CDATA[【ランキング12位】ウシ娘のホルスタインJKがチンカス汚ちんぽにラブ媚びご奉仕してくれるお話♡【KU100】 [ホロクサミドリ]]]></content:encoded>
     </item>
     <item>
-      <title>I still owe them Money from 1984</title>
-      <link>https://bsky.app/profile/did:plc:fttb6kx6irhzofpnfoskrnpe/post/3mtcyfzgwuc2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fttb6kx6irhzofpnfoskrnpe/post/3mtcyfzgwuc2u</guid>
-      <pubDate>Tue, 18 Aug 2026 00:44:47 GMT</pubDate>
-      <author>The Handsome Hobo🇨🇦 (@thehobo.bsky.social)</author>
-      <description><![CDATA[I still owe them Money from 1984
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I still owe them Money from 1984
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" type="image/jpeg" length="0"/>
+      <title>#🔖アニメとゲーム 「姫野 かのん」キャスト変更に関するお知らせ  いつも『アイドルマスター SideM』を応援いただ…</title>
+      <link>https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mtdbnp23jp25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o2emdvvgo6ov7r4gpljdordf/post/3mtdbnp23jp25</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:07 GMT</pubDate>
+      <author>はてなブックマーク 人気エントリー (@hatena-bookmark.bsky.social)</author>
+      <description><![CDATA[#🔖アニメとゲーム<br>「姫野 かのん」キャスト変更に関するお知らせ<br><br>いつも『アイドルマスター SideM』を応援いただき、誠にありがとうございます。 この度、これまで長きにわたり『姫野 かのん』役としてアイドルを支えてくださいました村瀬 歩さんが、『アイドルマスター SideM』をご卒業されることとなりました。 村瀬さんには、10年もの長い間、『姫野 かのん』として『アイドルマスタ...]]></description>
+      <content:encoded><![CDATA[#🔖アニメとゲーム<br>「姫野 かのん」キャスト変更に関するお知らせ<br><br>いつも『アイドルマスター SideM』を応援いただき、誠にありがとうございます。 この度、これまで長きにわたり『姫野 かのん』役としてアイドルを支えてくださいました村瀬 歩さんが、『アイドルマスター SideM』をご卒業されることとなりました。 村瀬さんには、10年もの長い間、『姫野 かのん』として『アイドルマスタ...]]></content:encoded>
     </item>
     <item>
-      <title>ニュース「Cursorから利用できるコードホスティングプラットフォーム「Origin」初期ベータ版の提供開始」公開 gi…</title>
-      <link>https://bsky.app/profile/did:plc:lsa2mmqktueq62o4arytp7sz/post/3mtd4f2dtcm25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lsa2mmqktueq62o4arytp7sz/post/3mtd4f2dtcm25</guid>
-      <pubDate>Tue, 18 Aug 2026 01:55:48 GMT</pubDate>
-      <author>🔷gihyo.jp (@gihyo.jp)</author>
-      <description><![CDATA[ニュース「Cursorから利用できるコードホスティングプラットフォーム「Origin」初期ベータ版の提供開始」公開<br>gihyo.jp/article/2026...]]></description>
-      <content:encoded><![CDATA[ニュース「Cursorから利用できるコードホスティングプラットフォーム「Origin」初期ベータ版の提供開始」公開<br>gihyo.jp/article/2026...]]></content:encoded>
+      <title>Caffeine and Cardiovascular Disease: A Scientific Statement …</title>
+      <link>https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtdbnl7t7x2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s4xmseub4a4pwwetg2xxmcyy/post/3mtdbnl7t7x2w</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:04 GMT</pubDate>
+      <author>Hacker News Top 100 Bot (Unofficial) (@hn100.bsky.social)</author>
+      <description><![CDATA[Caffeine and Cardiovascular Disease: A Scientific Statement from the AHA<br><br>Discussion]]></description>
+      <content:encoded><![CDATA[Caffeine and Cardiovascular Disease: A Scientific Statement from the AHA<br><br>Discussion]]></content:encoded>
     </item>
     <item>
-      <title>From the garden, we had BLT&apos;s tonight. It&apos;s harvest time for…</title>
-      <link>https://bsky.app/profile/did:plc:zj2n7vbnmlr6eygu6zajj5pf/post/3mtcvfdf5f22f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zj2n7vbnmlr6eygu6zajj5pf/post/3mtcvfdf5f22f</guid>
-      <pubDate>Mon, 17 Aug 2026 23:50:42 GMT</pubDate>
-      <author>Gary (@gary3519.bsky.social)</author>
-      <description><![CDATA[From the garden, we had BLT's tonight. It's harvest time for much of the garden. This tomatoe was big, one slice covered a whole slice of bread.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[From the garden, we had BLT's tonight. It's harvest time for much of the garden. This tomatoe was big, one slice covered a whole slice of bread.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" type="image/jpeg" length="0"/>
+      <title>When your dad is a neurologist, this is what you get on your…</title>
+      <link>https://bsky.app/profile/did:plc:ctljvhqirrb56rko2rysxkgg/post/3mtcrhavxms2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ctljvhqirrb56rko2rysxkgg/post/3mtcrhavxms2g</guid>
+      <pubDate>Mon, 17 Aug 2026 22:40:12 GMT</pubDate>
+      <author>Jonathan Howard (@joho.bsky.social)</author>
+      <description><![CDATA[When your dad is a neurologist, this is what you get on your 21st birthday.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ctljvhqirrb56rko2rysxkgg/bafkreiamdpw67mf7xpyvtuysedqwshur67jfsx3jng4n3myiig5uff2via" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[When your dad is a neurologist, this is what you get on your 21st birthday.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ctljvhqirrb56rko2rysxkgg/bafkreiamdpw67mf7xpyvtuysedqwshur67jfsx3jng4n3myiig5uff2via" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ctljvhqirrb56rko2rysxkgg/bafkreiamdpw67mf7xpyvtuysedqwshur67jfsx3jng4n3myiig5uff2via" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>This is going well...  &quot;Streisand argues in the letter that …</title>
-      <link>https://bsky.app/profile/did:plc:4vziktoq7p6jd3i5l3wtmfab/post/3mtcphn6m642w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4vziktoq7p6jd3i5l3wtmfab/post/3mtcphn6m642w</guid>
-      <pubDate>Mon, 17 Aug 2026 22:04:36 GMT</pubDate>
-      <author>CJ Fogler (@cjzero.bsky.social)</author>
-      <description><![CDATA[This is going well...<br><br>"Streisand argues in the letter that Jeanie Buss remains the controlling shareholder of the Lakers, pursuant to a 2017 court order, and that no sale can take place without her consent."]]></description>
-      <content:encoded><![CDATA[This is going well...<br><br>"Streisand argues in the letter that Jeanie Buss remains the controlling shareholder of the Lakers, pursuant to a 2017 court order, and that no sale can take place without her consent."]]></content:encoded>
+      <title>More than a dozen people were criminally charged Monday over…</title>
+      <link>https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mtdbnkewls2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzezcmpb3fhcpns4n4xm4ur5/post/3mtdbnkewls2x</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:03 GMT</pubDate>
+      <author>CNN (@cnn.com)</author>
+      <description><![CDATA[More than a dozen people were criminally charged Monday over their alleged ties to a cocaine-trafficking ring in Pennsylvania that involved two fraternities and students. https://cnn.it/4gcoXV2
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreictuqiydjut26k6ownrces6mh6qet5xbifuecn2kgksrralwqu7oe" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[More than a dozen people were criminally charged Monday over their alleged ties to a cocaine-trafficking ring in Pennsylvania that involved two fraternities and students. https://cnn.it/4gcoXV2
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreictuqiydjut26k6ownrces6mh6qet5xbifuecn2kgksrralwqu7oe" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreictuqiydjut26k6ownrces6mh6qet5xbifuecn2kgksrralwqu7oe" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>My painting GRAZING CATTLE</title>
-      <link>https://bsky.app/profile/did:plc:2p6idfgjfe3easltiwmnofw6/post/3mtcjws2lfk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2p6idfgjfe3easltiwmnofw6/post/3mtcjws2lfk2x</guid>
-      <pubDate>Mon, 17 Aug 2026 20:25:43 GMT</pubDate>
-      <author>Jim Musil Painter (@jimmusilpainter.bsky.social)</author>
-      <description><![CDATA[My painting GRAZING CATTLE
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2p6idfgjfe3easltiwmnofw6/bafkreielz3fpadmakkdop7khgwzm63d6askfwdwmuo2evmm35u3uaa7eyu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[My painting GRAZING CATTLE
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2p6idfgjfe3easltiwmnofw6/bafkreielz3fpadmakkdop7khgwzm63d6askfwdwmuo2evmm35u3uaa7eyu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2p6idfgjfe3easltiwmnofw6/bafkreielz3fpadmakkdop7khgwzm63d6askfwdwmuo2evmm35u3uaa7eyu" type="image/jpeg" length="0"/>
+      <title>【特集：台風の急発達に迫る 　「ひまわり」が捉えた目の秘密】  台風の発達を左右する新しいメカニズムが見え始めている。将…</title>
+      <link>https://bsky.app/profile/did:plc:licoiqxqzf54tfvwnvln6r3r/post/3mtdbnmu2ty2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:licoiqxqzf54tfvwnvln6r3r/post/3mtdbnmu2ty2q</guid>
+      <pubDate>Tue, 18 Aug 2026 03:30:02 GMT</pubDate>
+      <author>日経サイエンス (@nikkei-science.com)</author>
+      <description><![CDATA[【特集：台風の急発達に迫る<br>　「ひまわり」が捉えた目の秘密】 <br>台風の発達を左右する新しいメカニズムが見え始めている。将来的には強度予報の精度向上につながる可能性がある。<br><br>📗8月25日発売！<br>日経サイエンス2026年10月号<br>www.nikkei-science.com/202610_070.h...]]></description>
+      <content:encoded><![CDATA[【特集：台風の急発達に迫る<br>　「ひまわり」が捉えた目の秘密】 <br>台風の発達を左右する新しいメカニズムが見え始めている。将来的には強度予報の精度向上につながる可能性がある。<br><br>📗8月25日発売！<br>日経サイエンス2026年10月号<br>www.nikkei-science.com/202610_070.h...]]></content:encoded>
     </item>
     <item>
-      <title>Spotted this on Instagram  What Bands were paid to play at W…</title>
-      <link>https://bsky.app/profile/did:plc:va5i4i4pl6qla76sd7jxbfma/post/3mtd2kmcwmk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:va5i4i4pl6qla76sd7jxbfma/post/3mtd2kmcwmk2x</guid>
-      <pubDate>Tue, 18 Aug 2026 01:23:08 GMT</pubDate>
-      <author>Therese 88 (@therese88.bsky.social)</author>
-      <description><![CDATA[Spotted this on Instagram <br>What Bands were paid to play at Woodstock...Wow!! 🎶🎸🔥🎶✨
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Spotted this on Instagram <br>What Bands were paid to play at Woodstock...Wow!! 🎶🎸🔥🎶✨
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Someone tell NASA that we found a short cut.</title>
-      <link>https://bsky.app/profile/did:plc:uwaez2rueg5uk2ysoivsxegq/post/3mtbzdub6l22y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uwaez2rueg5uk2ysoivsxegq/post/3mtbzdub6l22y</guid>
-      <pubDate>Mon, 17 Aug 2026 15:28:48 GMT</pubDate>
-      <author>JewInACanoe.bsky.social 🎗️ (@jewinacanoe.bsky.social)</author>
-      <description><![CDATA[Someone tell NASA that we found a short cut.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Someone tell NASA that we found a short cut.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uwaez2rueg5uk2ysoivsxegq/bafkreifeeyxrdzu7la3xflo4qjgexqjxxzde2pw5hcskjxo2n4t3m53rzu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>&quot;You only live once, but if you do it right, once is enough.…</title>
-      <link>https://bsky.app/profile/did:plc:2xisupj43xdq7uvffzigis5p/post/3mtct7isy2x2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xisupj43xdq7uvffzigis5p/post/3mtct7isy2x2o</guid>
-      <pubDate>Mon, 17 Aug 2026 23:11:39 GMT</pubDate>
-      <author>Admirable Women (@admirablewomen.bsky.social)</author>
-      <description><![CDATA["You only live once, but if you do it right, once is enough." ~Mae West<br><br>The actress, singer, playwright, screenwriter, and comedian, known for her lighthearted bawdy double entendres and breezy sexual independence, was born #OTD in 1893. <br><br>#FilmSky #MovieSky
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" alt="A glamorous black-and-white studio portrait of iconic American actress, playwright, and comedian Mae West (1893–1980), a trailblazer celebrated for her sharp wit and breezy sexual independence. Photographed from the shoulders up, she poses with her body turned away from the camera, glancing back over her bare shoulder with a knowing, seductive expression characterized by arched eyebrows and a subtle smile. Her platinum blonde hair is coiffed into tight, sculptural curls along her hairline. She wears a massive, dark picture hat decorated with intricate swirl embroidery and shimmering sequins, framed by a soft, fluffy white fur stole near her shoulder. A large, ornate dangling diamond earring catches the light, adding to her dramatic look. The close-up composition emphasizes her stylized Hollywood glamour against a softly lit, non-descript background, evoking a confident and cinematic mood that reflects her historic legacy as an early cinematic sex symbol." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA["You only live once, but if you do it right, once is enough." ~Mae West<br><br>The actress, singer, playwright, screenwriter, and comedian, known for her lighthearted bawdy double entendres and breezy sexual independence, was born #OTD in 1893. <br><br>#FilmSky #MovieSky
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" alt="A glamorous black-and-white studio portrait of iconic American actress, playwright, and comedian Mae West (1893–1980), a trailblazer celebrated for her sharp wit and breezy sexual independence. Photographed from the shoulders up, she poses with her body turned away from the camera, glancing back over her bare shoulder with a knowing, seductive expression characterized by arched eyebrows and a subtle smile. Her platinum blonde hair is coiffed into tight, sculptural curls along her hairline. She wears a massive, dark picture hat decorated with intricate swirl embroidery and shimmering sequins, framed by a soft, fluffy white fur stole near her shoulder. A large, ornate dangling diamond earring catches the light, adding to her dramatic look. The close-up composition emphasizes her stylized Hollywood glamour against a softly lit, non-descript background, evoking a confident and cinematic mood that reflects her historic legacy as an early cinematic sex symbol." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bee  Everybody quiet down now and get some sleep.  Lost to t…</title>
-      <link>https://bsky.app/profile/did:plc:a3ekktfqlxcjhddlvxosaus6/post/3mtcwlignwc2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:a3ekktfqlxcjhddlvxosaus6/post/3mtcwlignwc2s</guid>
-      <pubDate>Tue, 18 Aug 2026 00:12:03 GMT</pubDate>
-      <author>The Bee Guy (@thebeeguy.bsky.social)</author>
-      <description><![CDATA[Bee<br><br>Everybody quiet down now and get some sleep.<br><br>Lost to the scroll we neglected to dream…<br><br>#bee #goodnight #dream]]></description>
-      <content:encoded><![CDATA[Bee<br><br>Everybody quiet down now and get some sleep.<br><br>Lost to the scroll we neglected to dream…<br><br>#bee #goodnight #dream]]></content:encoded>
-    </item>
-    <item>
-      <title>Texas counties sue feds for trying to tie election security …</title>
-      <link>https://bsky.app/profile/did:plc:e5tpuleqbitliydj7npaotqg/post/3mtctzux2tk2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e5tpuleqbitliydj7npaotqg/post/3mtctzux2tk2s</guid>
-      <pubDate>Mon, 17 Aug 2026 23:26:24 GMT</pubDate>
-      <author>Texas Tribune (@texastribune.org)</author>
-      <description><![CDATA[Texas counties sue feds for trying to tie election security policies to anti-terrorism funding.]]></description>
-      <content:encoded><![CDATA[Texas counties sue feds for trying to tie election security policies to anti-terrorism funding.]]></content:encoded>
-    </item>
-    <item>
-      <title>A campanha da @dudasalabert.bsky.social  tomou a decisão POL…</title>
-      <link>https://bsky.app/profile/did:plc:ubji6txf3gdzwztlt2zegzdi/post/3mtc6wkspk226</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ubji6txf3gdzwztlt2zegzdi/post/3mtc6wkspk226</guid>
-      <pubDate>Mon, 17 Aug 2026 17:08:45 GMT</pubDate>
-      <author>Cris (@crisvector.com)</author>
-      <description><![CDATA[A campanha da @dudasalabert.bsky.social  tomou a decisão POLÍTICA de não utilizar IA na produção de suas peças e procurar valorizar o trabalho de artistas e designers. ❤️<br><br>Seria muito bom se todos compartilhassem porque as redes entregam mais conteúdo de IA, como sabemos.]]></description>
-      <content:encoded><![CDATA[A campanha da @dudasalabert.bsky.social  tomou a decisão POLÍTICA de não utilizar IA na produção de suas peças e procurar valorizar o trabalho de artistas e designers. ❤️<br><br>Seria muito bom se todos compartilhassem porque as redes entregam mais conteúdo de IA, como sabemos.]]></content:encoded>
-    </item>
-    <item>
-      <title>Lakers controlling owner Jeanie Buss opposes sale of family&apos;…</title>
-      <link>https://bsky.app/profile/did:plc:i2jc6ogikn53jkny6y4ii2xd/post/3mtct7zi3os2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:i2jc6ogikn53jkny6y4ii2xd/post/3mtct7zi3os2s</guid>
-      <pubDate>Mon, 17 Aug 2026 23:11:57 GMT</pubDate>
-      <author>Raymond Norman (@raymondnorman.bsky.social)</author>
-      <description><![CDATA[Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner<br><br>www.cnbc.com/2026/08/17/j...]]></description>
-      <content:encoded><![CDATA[Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner<br><br>www.cnbc.com/2026/08/17/j...]]></content:encoded>
-    </item>
-    <item>
-      <title>Ukrainian high jumper Yaroslava Mahuchikh won gold at the 20…</title>
-      <link>https://bsky.app/profile/did:plc:vhuuz22ixmikwdnxx7xemjvl/post/3mtd2jtqya22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vhuuz22ixmikwdnxx7xemjvl/post/3mtd2jtqya22n</guid>
-      <pubDate>Tue, 18 Aug 2026 01:22:43 GMT</pubDate>
-      <author>Inside Ukraine 🇺🇦 (@insideukraine.bsky.social)</author>
-      <description><![CDATA[Ukrainian high jumper Yaroslava Mahuchikh won gold at the 2026 European Championships in Birmingham, clearing 1.97 meters.<br><br>This marks her third consecutive European title following victories in 2022 and 2024. <br><br>Congratulations! <br><br>📹: Suspilne]]></description>
-      <content:encoded><![CDATA[Ukrainian high jumper Yaroslava Mahuchikh won gold at the 2026 European Championships in Birmingham, clearing 1.97 meters.<br><br>This marks her third consecutive European title following victories in 2022 and 2024. <br><br>Congratulations! <br><br>📹: Suspilne]]></content:encoded>
-    </item>
-    <item>
-      <title>Óscar Puente, sobre el posado del rey con Negre: “El jefe de…</title>
-      <link>https://bsky.app/profile/did:plc:sv2ivxvf7fxchmo2xamo3wwx/post/3mtc3vyvcfc2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sv2ivxvf7fxchmo2xamo3wwx/post/3mtc3vyvcfc2r</guid>
-      <pubDate>Mon, 17 Aug 2026 16:14:45 GMT</pubDate>
-      <author>elDiario.es (@eldiario.es)</author>
-      <description><![CDATA[Óscar Puente, sobre el posado del rey con Negre: “El jefe del Estado que yo tengo en mi cabeza no le tocaría ni con un palo”<br>www.eldiario.es/politica/ult...]]></description>
-      <content:encoded><![CDATA[Óscar Puente, sobre el posado del rey con Negre: “El jefe del Estado que yo tengo en mi cabeza no le tocaría ni con un palo”<br>www.eldiario.es/politica/ult...]]></content:encoded>
-    </item>
-    <item>
-      <title>The most perfect Baja shrimp tacos on the planet. Heaven.  B…</title>
-      <link>https://bsky.app/profile/did:plc:nynpwibxh6xxyh2dxpoyhzbk/post/3mtcxcowq6s24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:nynpwibxh6xxyh2dxpoyhzbk/post/3mtcxcowq6s24</guid>
-      <pubDate>Tue, 18 Aug 2026 00:25:01 GMT</pubDate>
-      <author>Sarah Writtenhouse (@sarahwrittenhouse.bsky.social)</author>
-      <description><![CDATA[The most perfect Baja shrimp tacos on the planet. Heaven.<br><br>Brought to you by our neighborhood Mexican immigrants who are the soul of Arizona.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" alt="Delicious shrimp street tacos with cabbage, onion and cilantro mix, and avocado and adobo salsa." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The most perfect Baja shrimp tacos on the planet. Heaven.<br><br>Brought to you by our neighborhood Mexican immigrants who are the soul of Arizona.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" alt="Delicious shrimp street tacos with cabbage, onion and cilantro mix, and avocado and adobo salsa." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>painter for a season  #art</title>
-      <link>https://bsky.app/profile/did:plc:joj4fmsxbvu6jelkam6bdwij/post/3mtcllkiy2k26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:joj4fmsxbvu6jelkam6bdwij/post/3mtcllkiy2k26</guid>
-      <pubDate>Mon, 17 Aug 2026 20:55:14 GMT</pubDate>
-      <author>maru (@koyamori.bsky.social)</author>
-      <description><![CDATA[painter for a season<br><br>#art
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:joj4fmsxbvu6jelkam6bdwij/bafkreihyvzqkehgxhjws63d3d54led2lgc5ca7y53o3fcosua2v2mjd6ge" alt="A winged bug applies yellow paint on a green gingko leaf,
-to welcome in the coming season..." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[painter for a season<br><br>#art
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:joj4fmsxbvu6jelkam6bdwij/bafkreihyvzqkehgxhjws63d3d54led2lgc5ca7y53o3fcosua2v2mjd6ge" alt="A winged bug applies yellow paint on a green gingko leaf,
-to welcome in the coming season..." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:joj4fmsxbvu6jelkam6bdwij/bafkreihyvzqkehgxhjws63d3d54led2lgc5ca7y53o3fcosua2v2mjd6ge" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Jimothy Mosaic Art  #jimothy #seattle #jimothyraccoon #Art</title>
-      <link>https://bsky.app/profile/did:plc:ygsdwx4gx6njq2hlvf2ogwna/post/3mtbiw45izc2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ygsdwx4gx6njq2hlvf2ogwna/post/3mtbiw45izc2g</guid>
-      <pubDate>Mon, 17 Aug 2026 10:34:47 GMT</pubDate>
-      <author>Jimothy the Raccoon (@jimothythe-raccoon.bsky.social)</author>
-      <description><![CDATA[Jimothy Mosaic Art<br><br>#jimothy #seattle #jimothyraccoon #Art
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ygsdwx4gx6njq2hlvf2ogwna/bafkreihrcnywb2usezkoii3ibsadjn7zf6jcf275nkxemu43jq4amsleoy" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Jimothy Mosaic Art<br><br>#jimothy #seattle #jimothyraccoon #Art
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ygsdwx4gx6njq2hlvf2ogwna/bafkreihrcnywb2usezkoii3ibsadjn7zf6jcf275nkxemu43jq4amsleoy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ygsdwx4gx6njq2hlvf2ogwna/bafkreihrcnywb2usezkoii3ibsadjn7zf6jcf275nkxemu43jq4amsleoy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Se llama Manila Esposito y acaba de hacer historia proclamán…</title>
-      <link>https://bsky.app/profile/did:plc:jovtjmtwcuc4vvsxyndgxzrg/post/3mtcaz5j4hc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jovtjmtwcuc4vvsxyndgxzrg/post/3mtcaz5j4hc2z</guid>
-      <pubDate>Mon, 17 Aug 2026 17:45:59 GMT</pubDate>
-      <author>Fonsi Loaiza (@fonsiloaizap.bsky.social)</author>
-      <description><![CDATA[Se llama Manila Esposito y acaba de hacer historia proclamándose campeona de Europa de gimnasia artística. Ha sido víctima de una brutal campaña de acoso de bodyshaming por su físico con todo tipo de insultos como "piernas gordas". Hizo este magistral ejercicio.]]></description>
-      <content:encoded><![CDATA[Se llama Manila Esposito y acaba de hacer historia proclamándose campeona de Europa de gimnasia artística. Ha sido víctima de una brutal campaña de acoso de bodyshaming por su físico con todo tipo de insultos como "piernas gordas". Hizo este magistral ejercicio.]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:mx6rytey7k2tvqby4kawji6e/post/3mtcmarapck2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mx6rytey7k2tvqby4kawji6e/post/3mtcmarapck2w</guid>
-      <pubDate>Mon, 17 Aug 2026 21:07:06 GMT</pubDate>
-      <author>Kaitlin Kal Lee🌸 (@kaitlinkallee.bsky.social)</author>
-      <description><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mx6rytey7k2tvqby4kawji6e/bafkreifqfh3uqgzsziq4ulyzm2bk7au4mj55cvpm62pvwsjvagmqgdeqwa" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mx6rytey7k2tvqby4kawji6e/bafkreifqfh3uqgzsziq4ulyzm2bk7au4mj55cvpm62pvwsjvagmqgdeqwa" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mx6rytey7k2tvqby4kawji6e/bafkreifqfh3uqgzsziq4ulyzm2bk7au4mj55cvpm62pvwsjvagmqgdeqwa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mossy nurse log  ##MossyMonday  #forest</title>
-      <link>https://bsky.app/profile/did:plc:paidgok7dvpxjsmr434nzygi/post/3mtcrqisxgs2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:paidgok7dvpxjsmr434nzygi/post/3mtcrqisxgs2g</guid>
-      <pubDate>Mon, 17 Aug 2026 22:45:22 GMT</pubDate>
-      <author>Colleen Miller (@colleenmiller.bsky.social)</author>
-      <description><![CDATA[Mossy nurse log <br>##MossyMonday  #forest
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" alt="A mossy log with several trees growing on it " style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Mossy nurse log <br>##MossyMonday  #forest
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" alt="A mossy log with several trees growing on it " style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" type="image/jpeg" length="0"/>
+      <title>すけすけのゲストハウス建てよう</title>
+      <link>https://bsky.app/profile/did:plc:3n2skdgfq6wsacljrakxejkn/post/3mtdblyqd7s2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3n2skdgfq6wsacljrakxejkn/post/3mtdblyqd7s2q</guid>
+      <pubDate>Tue, 18 Aug 2026 03:29:11 GMT</pubDate>
+      <author>花森@異ノ祭C-2 (@hanamori00.bsky.social)</author>
+      <description><![CDATA[すけすけのゲストハウス建てよう]]></description>
+      <content:encoded><![CDATA[すけすけのゲストハウス建てよう]]></content:encoded>
     </item>
     <item>
       <title>THIS IS FANTASTIC…. for all humans !!</title>
@@ -518,6 +338,72 @@ to welcome in the coming season..." style="max-width:100%;margin-top:8px;">]]></
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qodtzf4km5xdjvuija6fwah4/bafkreic2uwiba6bu3pficstf33rdykn5777bjizyx7qgk7gr7cp6jmlg4m" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>BONNIE PINKが「DayDay.」生出演 「A Perfect Sky」から始まる1日 https://na…</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtdbiggokv2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtdbiggokv2l</guid>
+      <pubDate>Tue, 18 Aug 2026 03:27:09 GMT</pubDate>
+      <author>音楽ナタリー (@music.natalie.mu)</author>
+      <description><![CDATA[BONNIE PINKが「DayDay.」生出演<br>「A Perfect Sky」から始まる1日<br>https://natalie.mu/music/news/685481?utm_source=bluesky&utm_medium=social<br><br>#DayDay<br>@BONNIE_official]]></description>
+      <content:encoded><![CDATA[BONNIE PINKが「DayDay.」生出演<br>「A Perfect Sky」から始まる1日<br>https://natalie.mu/music/news/685481?utm_source=bluesky&utm_medium=social<br><br>#DayDay<br>@BONNIE_official]]></content:encoded>
+    </item>
+    <item>
+      <title>I still owe them Money from 1984</title>
+      <link>https://bsky.app/profile/did:plc:fttb6kx6irhzofpnfoskrnpe/post/3mtcyfzgwuc2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fttb6kx6irhzofpnfoskrnpe/post/3mtcyfzgwuc2u</guid>
+      <pubDate>Tue, 18 Aug 2026 00:44:47 GMT</pubDate>
+      <author>The Handsome Hobo🇨🇦 (@thehobo.bsky.social)</author>
+      <description><![CDATA[I still owe them Money from 1984
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I still owe them Money from 1984
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fttb6kx6irhzofpnfoskrnpe/bafkreiaoru7rlybuczqidohp2j6jr2w3wnzbmm5eigxhsq6xfu667nwtia" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>From the garden, we had BLT&apos;s tonight. It&apos;s harvest time for…</title>
+      <link>https://bsky.app/profile/did:plc:zj2n7vbnmlr6eygu6zajj5pf/post/3mtcvfdf5f22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zj2n7vbnmlr6eygu6zajj5pf/post/3mtcvfdf5f22f</guid>
+      <pubDate>Mon, 17 Aug 2026 23:50:42 GMT</pubDate>
+      <author>Gary (@gary3519.bsky.social)</author>
+      <description><![CDATA[From the garden, we had BLT's tonight. It's harvest time for much of the garden. This tomatoe was big, one slice covered a whole slice of bread.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[From the garden, we had BLT's tonight. It's harvest time for much of the garden. This tomatoe was big, one slice covered a whole slice of bread.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zj2n7vbnmlr6eygu6zajj5pf/bafkreigcv24wkpw6acv3evyvbalg7mrrxidfbwjflfiuuadrqjvbdjtkzu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spotted this on Instagram  What Bands were paid to play at W…</title>
+      <link>https://bsky.app/profile/did:plc:va5i4i4pl6qla76sd7jxbfma/post/3mtd2kmcwmk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:va5i4i4pl6qla76sd7jxbfma/post/3mtd2kmcwmk2x</guid>
+      <pubDate>Tue, 18 Aug 2026 01:23:08 GMT</pubDate>
+      <author>Therese 88 (@therese88.bsky.social)</author>
+      <description><![CDATA[Spotted this on Instagram <br>What Bands were paid to play at Woodstock...Wow!! 🎶🎸🔥🎶✨
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Spotted this on Instagram <br>What Bands were paid to play at Woodstock...Wow!! 🎶🎸🔥🎶✨
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:va5i4i4pl6qla76sd7jxbfma/bafkreig3vqaacbqgqnigv2gvnobmkyv2qhdz7bc46gt4i4p4ftfryw6uri" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This is going well...  &quot;Streisand argues in the letter that …</title>
+      <link>https://bsky.app/profile/did:plc:4vziktoq7p6jd3i5l3wtmfab/post/3mtcphn6m642w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4vziktoq7p6jd3i5l3wtmfab/post/3mtcphn6m642w</guid>
+      <pubDate>Mon, 17 Aug 2026 22:04:36 GMT</pubDate>
+      <author>CJ Fogler (@cjzero.bsky.social)</author>
+      <description><![CDATA[This is going well...<br><br>"Streisand argues in the letter that Jeanie Buss remains the controlling shareholder of the Lakers, pursuant to a 2017 court order, and that no sale can take place without her consent."]]></description>
+      <content:encoded><![CDATA[This is going well...<br><br>"Streisand argues in the letter that Jeanie Buss remains the controlling shareholder of the Lakers, pursuant to a 2017 court order, and that no sale can take place without her consent."]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;You only live once, but if you do it right, once is enough.…</title>
+      <link>https://bsky.app/profile/did:plc:2xisupj43xdq7uvffzigis5p/post/3mtct7isy2x2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xisupj43xdq7uvffzigis5p/post/3mtct7isy2x2o</guid>
+      <pubDate>Mon, 17 Aug 2026 23:11:39 GMT</pubDate>
+      <author>Admirable Women (@admirablewomen.bsky.social)</author>
+      <description><![CDATA["You only live once, but if you do it right, once is enough." ~Mae West<br><br>The actress, singer, playwright, screenwriter, and comedian, known for her lighthearted bawdy double entendres and breezy sexual independence, was born #OTD in 1893. <br><br>#FilmSky #MovieSky
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" alt="A glamorous black-and-white studio portrait of iconic American actress, playwright, and comedian Mae West (1893–1980), a trailblazer celebrated for her sharp wit and breezy sexual independence. Photographed from the shoulders up, she poses with her body turned away from the camera, glancing back over her bare shoulder with a knowing, seductive expression characterized by arched eyebrows and a subtle smile. Her platinum blonde hair is coiffed into tight, sculptural curls along her hairline. She wears a massive, dark picture hat decorated with intricate swirl embroidery and shimmering sequins, framed by a soft, fluffy white fur stole near her shoulder. A large, ornate dangling diamond earring catches the light, adding to her dramatic look. The close-up composition emphasizes her stylized Hollywood glamour against a softly lit, non-descript background, evoking a confident and cinematic mood that reflects her historic legacy as an early cinematic sex symbol." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA["You only live once, but if you do it right, once is enough." ~Mae West<br><br>The actress, singer, playwright, screenwriter, and comedian, known for her lighthearted bawdy double entendres and breezy sexual independence, was born #OTD in 1893. <br><br>#FilmSky #MovieSky
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" alt="A glamorous black-and-white studio portrait of iconic American actress, playwright, and comedian Mae West (1893–1980), a trailblazer celebrated for her sharp wit and breezy sexual independence. Photographed from the shoulders up, she poses with her body turned away from the camera, glancing back over her bare shoulder with a knowing, seductive expression characterized by arched eyebrows and a subtle smile. Her platinum blonde hair is coiffed into tight, sculptural curls along her hairline. She wears a massive, dark picture hat decorated with intricate swirl embroidery and shimmering sequins, framed by a soft, fluffy white fur stole near her shoulder. A large, ornate dangling diamond earring catches the light, adding to her dramatic look. The close-up composition emphasizes her stylized Hollywood glamour against a softly lit, non-descript background, evoking a confident and cinematic mood that reflects her historic legacy as an early cinematic sex symbol." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xisupj43xdq7uvffzigis5p/bafkreig4mgppgtio4klvrdwikt5qxb4boqnxy2rq4uql56647dtx7utgqi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Tyler Muehl approached a resting California sea lion at La J…</title>
       <link>https://bsky.app/profile/did:plc:mpso3qabvtupgwrqi6wo5hlo/post/3mtcqbzph5n2y</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:mpso3qabvtupgwrqi6wo5hlo/post/3mtcqbzph5n2y</guid>
@@ -525,6 +411,60 @@ to welcome in the coming season..." style="max-width:100%;margin-top:8px;">]]></
       <author>Boing Boing (@boingboing.net)</author>
       <description><![CDATA[Tyler Muehl approached a resting California sea lion at La Jolla Cove, invoked the UFC fighter's name, and started kicking. NOAA prosecuted. The federal penalty for what he pleaded guilty to runs up to a year in prison and a $100,000 fine.]]></description>
       <content:encoded><![CDATA[Tyler Muehl approached a resting California sea lion at La Jolla Cove, invoked the UFC fighter's name, and started kicking. NOAA prosecuted. The federal penalty for what he pleaded guilty to runs up to a year in prison and a $100,000 fine.]]></content:encoded>
+    </item>
+    <item>
+      <title>Texas counties sue feds for trying to tie election security …</title>
+      <link>https://bsky.app/profile/did:plc:e5tpuleqbitliydj7npaotqg/post/3mtctzux2tk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e5tpuleqbitliydj7npaotqg/post/3mtctzux2tk2s</guid>
+      <pubDate>Mon, 17 Aug 2026 23:26:24 GMT</pubDate>
+      <author>Texas Tribune (@texastribune.org)</author>
+      <description><![CDATA[Texas counties sue feds for trying to tie election security policies to anti-terrorism funding.]]></description>
+      <content:encoded><![CDATA[Texas counties sue feds for trying to tie election security policies to anti-terrorism funding.]]></content:encoded>
+    </item>
+    <item>
+      <title>The most perfect Baja shrimp tacos on the planet. Heaven.  B…</title>
+      <link>https://bsky.app/profile/did:plc:nynpwibxh6xxyh2dxpoyhzbk/post/3mtcxcowq6s24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:nynpwibxh6xxyh2dxpoyhzbk/post/3mtcxcowq6s24</guid>
+      <pubDate>Tue, 18 Aug 2026 00:25:01 GMT</pubDate>
+      <author>Sarah Writtenhouse (@sarahwrittenhouse.bsky.social)</author>
+      <description><![CDATA[The most perfect Baja shrimp tacos on the planet. Heaven.<br><br>Brought to you by our neighborhood Mexican immigrants who are the soul of Arizona.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" alt="Delicious shrimp street tacos with cabbage, onion and cilantro mix, and avocado and adobo salsa." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The most perfect Baja shrimp tacos on the planet. Heaven.<br><br>Brought to you by our neighborhood Mexican immigrants who are the soul of Arizona.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" alt="Delicious shrimp street tacos with cabbage, onion and cilantro mix, and avocado and adobo salsa." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nynpwibxh6xxyh2dxpoyhzbk/bafkreia3qv7ibuckhvgo3ioikqsnqcyvnw3owabxtglafeyb4exvbgzhbu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Everything is connected .</title>
+      <link>https://bsky.app/profile/did:plc:7knipmiokgq2burctkh43xhz/post/3mtcyzqn3ok2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7knipmiokgq2burctkh43xhz/post/3mtcyzqn3ok2d</guid>
+      <pubDate>Tue, 18 Aug 2026 00:55:49 GMT</pubDate>
+      <author>Gracie12 📎 (@gracienlucy.bsky.social)</author>
+      <description><![CDATA[Everything is connected<br>.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7knipmiokgq2burctkh43xhz/bafkreiasfwsbeg4g57sut23oherniqragkmci7xwjrnaxpghwzwi4vxvjq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Everything is connected<br>.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7knipmiokgq2burctkh43xhz/bafkreiasfwsbeg4g57sut23oherniqragkmci7xwjrnaxpghwzwi4vxvjq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7knipmiokgq2burctkh43xhz/bafkreiasfwsbeg4g57sut23oherniqragkmci7xwjrnaxpghwzwi4vxvjq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mary Isobel Catherine Bernadette O&apos;Brien, better known by he…</title>
+      <link>https://bsky.app/profile/did:plc:3zfcjrvskqxjksbcfapyefyb/post/3mtcffp7lw222</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3zfcjrvskqxjksbcfapyefyb/post/3mtcffp7lw222</guid>
+      <pubDate>Mon, 17 Aug 2026 19:04:35 GMT</pubDate>
+      <author>ContempraInn 🌹 (@contemprainn.bsky.social)</author>
+      <description><![CDATA[Mary Isobel Catherine Bernadette O'Brien, better known by her stage name Dusty Springfield, was an English singer “You Don’t have to say you love me” from 1966]]></description>
+      <content:encoded><![CDATA[Mary Isobel Catherine Bernadette O'Brien, better known by her stage name Dusty Springfield, was an English singer “You Don’t have to say you love me” from 1966]]></content:encoded>
+    </item>
+    <item>
+      <title>Mossy nurse log  ##MossyMonday  #forest</title>
+      <link>https://bsky.app/profile/did:plc:paidgok7dvpxjsmr434nzygi/post/3mtcrqisxgs2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:paidgok7dvpxjsmr434nzygi/post/3mtcrqisxgs2g</guid>
+      <pubDate>Mon, 17 Aug 2026 22:45:22 GMT</pubDate>
+      <author>Colleen Miller (@colleenmiller.bsky.social)</author>
+      <description><![CDATA[Mossy nurse log <br>##MossyMonday  #forest
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" alt="A mossy log with several trees growing on it " style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Mossy nurse log <br>##MossyMonday  #forest
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" alt="A mossy log with several trees growing on it " style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:paidgok7dvpxjsmr434nzygi/bafkreidc2lmg66edgwwwr2by54pc3cwufherkr4dfif2gmnn7e3d42bvnu" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title></title>
@@ -539,16 +479,64 @@ to welcome in the coming season..." style="max-width:100%;margin-top:8px;">]]></
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ldkg34k34cwvlfohdoumrnyn/bafkreidxoaachmevd7a2vumhke2rfuohd2e2bczzouqdh4mrjqmro3mbkm" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>the current transpanic can literally only properly be descri…</title>
-      <link>https://bsky.app/profile/did:plc:mf5dzzqkp7fnmby6blfeljwj/post/3mtcibsbiy22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mf5dzzqkp7fnmby6blfeljwj/post/3mtcibsbiy22w</guid>
-      <pubDate>Mon, 17 Aug 2026 19:56:05 GMT</pubDate>
-      <author>onion person (@junlper.beer)</author>
-      <description><![CDATA[the current transpanic can literally only properly be described as fabricated mass hysteria at this point
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mf5dzzqkp7fnmby6blfeljwj/bafkreictlxhv4nqonjn25tn6fh45xxpuhajrwc5b627zeg4vi3wbyvbcza" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[the current transpanic can literally only properly be described as fabricated mass hysteria at this point
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mf5dzzqkp7fnmby6blfeljwj/bafkreictlxhv4nqonjn25tn6fh45xxpuhajrwc5b627zeg4vi3wbyvbcza" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mf5dzzqkp7fnmby6blfeljwj/bafkreictlxhv4nqonjn25tn6fh45xxpuhajrwc5b627zeg4vi3wbyvbcza" type="image/jpeg" length="0"/>
+      <title>A Belted Kingfisher watches over the lake from a shoreline p…</title>
+      <link>https://bsky.app/profile/did:plc:7z6ecty3w4vsovvvhlv7nnee/post/3mtcopnxotc2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7z6ecty3w4vsovvvhlv7nnee/post/3mtcopnxotc2n</guid>
+      <pubDate>Mon, 17 Aug 2026 21:51:13 GMT</pubDate>
+      <author>Jocelyn Anderson Photography (@jocelynanderson.bsky.social)</author>
+      <description><![CDATA[A Belted Kingfisher watches over the lake from a shoreline perch.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7z6ecty3w4vsovvvhlv7nnee/bafkreidqk6vruypojluewnmsswt5ruc4bi3ohqdhi5wx5zqx2eymaizk4m" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[A Belted Kingfisher watches over the lake from a shoreline perch.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7z6ecty3w4vsovvvhlv7nnee/bafkreidqk6vruypojluewnmsswt5ruc4bi3ohqdhi5wx5zqx2eymaizk4m" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7z6ecty3w4vsovvvhlv7nnee/bafkreidqk6vruypojluewnmsswt5ruc4bi3ohqdhi5wx5zqx2eymaizk4m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lakers controlling owner Jeanie Buss opposes sale of family&apos;…</title>
+      <link>https://bsky.app/profile/did:plc:i2jc6ogikn53jkny6y4ii2xd/post/3mtct7zi3os2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:i2jc6ogikn53jkny6y4ii2xd/post/3mtct7zi3os2s</guid>
+      <pubDate>Mon, 17 Aug 2026 23:11:57 GMT</pubDate>
+      <author>Raymond Norman (@raymondnorman.bsky.social)</author>
+      <description><![CDATA[Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner<br><br>www.cnbc.com/2026/08/17/j...]]></description>
+      <content:encoded><![CDATA[Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner<br><br>www.cnbc.com/2026/08/17/j...]]></content:encoded>
+    </item>
+    <item>
+      <title>Sausage, pepper and onions and mozzarella Stromboli’s for di…</title>
+      <link>https://bsky.app/profile/did:plc:tkzfrswm2ik6mj7smgwaq5mb/post/3mtcr6qnvik22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tkzfrswm2ik6mj7smgwaq5mb/post/3mtcr6qnvik22</guid>
+      <pubDate>Mon, 17 Aug 2026 22:35:27 GMT</pubDate>
+      <author>feralcatgang (@feralcatgang.bsky.social)</author>
+      <description><![CDATA[Sausage, pepper and onions and mozzarella Stromboli’s for dinner. I had everything in the house. Instead of pizza dough, I used puff pastry sheets.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tkzfrswm2ik6mj7smgwaq5mb/bafkreiaownqrnp3kval22qdwgkdaq3zawta4usa565ebvdpsowadlqvvzm" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Sausage, pepper and onions and mozzarella Stromboli’s for dinner. I had everything in the house. Instead of pizza dough, I used puff pastry sheets.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tkzfrswm2ik6mj7smgwaq5mb/bafkreiaownqrnp3kval22qdwgkdaq3zawta4usa565ebvdpsowadlqvvzm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tkzfrswm2ik6mj7smgwaq5mb/bafkreiaownqrnp3kval22qdwgkdaq3zawta4usa565ebvdpsowadlqvvzm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Se llama Manila Esposito y acaba de hacer historia proclamán…</title>
+      <link>https://bsky.app/profile/did:plc:jovtjmtwcuc4vvsxyndgxzrg/post/3mtcaz5j4hc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jovtjmtwcuc4vvsxyndgxzrg/post/3mtcaz5j4hc2z</guid>
+      <pubDate>Mon, 17 Aug 2026 17:45:59 GMT</pubDate>
+      <author>Fonsi Loaiza (@fonsiloaizap.bsky.social)</author>
+      <description><![CDATA[Se llama Manila Esposito y acaba de hacer historia proclamándose campeona de Europa de gimnasia artística. Ha sido víctima de una brutal campaña de acoso de bodyshaming por su físico con todo tipo de insultos como "piernas gordas". Hizo este magistral ejercicio.]]></description>
+      <content:encoded><![CDATA[Se llama Manila Esposito y acaba de hacer historia proclamándose campeona de Europa de gimnasia artística. Ha sido víctima de una brutal campaña de acoso de bodyshaming por su físico con todo tipo de insultos como "piernas gordas". Hizo este magistral ejercicio.]]></content:encoded>
+    </item>
+    <item>
+      <title>Óscar Puente, sobre el posado del rey con Negre: “El jefe de…</title>
+      <link>https://bsky.app/profile/did:plc:sv2ivxvf7fxchmo2xamo3wwx/post/3mtc3vyvcfc2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sv2ivxvf7fxchmo2xamo3wwx/post/3mtc3vyvcfc2r</guid>
+      <pubDate>Mon, 17 Aug 2026 16:14:45 GMT</pubDate>
+      <author>elDiario.es (@eldiario.es)</author>
+      <description><![CDATA[Óscar Puente, sobre el posado del rey con Negre: “El jefe del Estado que yo tengo en mi cabeza no le tocaría ni con un palo”<br>www.eldiario.es/politica/ult...]]></description>
+      <content:encoded><![CDATA[Óscar Puente, sobre el posado del rey con Negre: “El jefe del Estado que yo tengo en mi cabeza no le tocaría ni con un palo”<br>www.eldiario.es/politica/ult...]]></content:encoded>
+    </item>
+    <item>
+      <title>Right now Jerry Seinfeld is on a podcast somewhere wheezily …</title>
+      <link>https://bsky.app/profile/did:plc:bumu6s332o24fppobse7j3ms/post/3mtcwmci4t22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bumu6s332o24fppobse7j3ms/post/3mtcwmci4t22g</guid>
+      <pubDate>Tue, 18 Aug 2026 00:12:30 GMT</pubDate>
+      <author>ℳatt (@matttomic.bsky.social)</author>
+      <description><![CDATA[Right now Jerry Seinfeld is on a podcast somewhere wheezily whining "you could never make Seinfeld today! we'd be canceled!" all while It's Always Sunny, a show that was and is 10x "edgier" or "un-PC" or whatever you want to say, quietly enters its 21st year on television]]></description>
+      <content:encoded><![CDATA[Right now Jerry Seinfeld is on a podcast somewhere wheezily whining "you could never make Seinfeld today! we'd be canceled!" all while It's Always Sunny, a show that was and is 10x "edgier" or "un-PC" or whatever you want to say, quietly enters its 21st year on television]]></content:encoded>
     </item>
   </channel>
 </rss>
