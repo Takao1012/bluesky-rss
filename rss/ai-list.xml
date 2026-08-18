@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 23:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:26:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIで書かれた文の乱用に対する新方針を提案。読み手に配慮せずAI生成をそのまま出す人には読ま…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcv2gzttt2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcv2gzttt2c</guid>
+      <pubDate>Mon, 17 Aug 2026 23:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIで書かれた文の乱用に対する新方針を提案。読み手に配慮せずAI生成をそのまま出す人には読まない、という「人間の手直し・編集を重視する」ポリシーを掲げ、社内コミュニケーションやニュースレターなどにも適用すべきだと訴えている。要は「AIでの大量出力をそのまま渡さず、編集を経たものだけを受け取るべき」という主張。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIで書かれた文の乱用に対する新方針を提案。読み手に配慮せずAI生成をそのまま出す人には読まない、という「人間の手直し・編集を重視する」ポリシーを掲げ、社内コミュニケーションやニュースレターなどにも適用すべきだと訴えている。要は「AIでの大量出力をそのまま渡さず、編集を経たものだけを受け取るべき」という主張。]]></content:encoded>
+    </item>
+    <item>
+      <title>AI;DR（AI; 読んでいない） AI;DR (AI; Didn&apos;t Read)  🔺 519 💬 71 🔗 H…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcv27dpoe27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtcv27dpoe27</guid>
+      <pubDate>Mon, 17 Aug 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AI;DR（AI; 読んでいない）<br>AI;DR (AI; Didn't Read)<br><br>🔺 519<br>💬 71<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AI;DR（AI; 読んでいない）<br>AI;DR (AI; Didn't Read)<br><br>🔺 519<br>💬 71<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;m tired of terminals.   Video: https://twitter.com/theo/st…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtctobgndt2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtctobgndt2g</guid>
+      <pubDate>Mon, 17 Aug 2026 23:00:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I'm tired of terminals. <br><br>Video: https://twitter.com/theo/status/2089487653741949073]]></description>
+      <content:encoded><![CDATA[I'm tired of terminals. <br><br>Video: https://twitter.com/theo/status/2089487653741949073]]></content:encoded>
+    </item>
     <item>
       <title>📝 「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪  🔖 151 ブックマーク…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtcqrugy552z</link>
@@ -438,33 +465,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>コンシューマー向けハードウェアで動作する自律型エージェントタスクのための300億パラメータの因果言語モデルです。<br>マルチモーダル理解、マルチステップ推論、ツール利用、エラーリカバリ機能を備え、クラウドやネットワーク接続なしでローカル環境での動作を目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Glimmer-30B<br>コンシューマー向けハードウェアで動作する自律型エージェントタスクのための300億パラメータの因果言語モデルです。<br>マルチモーダル理解、マルチステップ推論、ツール利用、エラーリカバリ機能を備え、クラウドやネットワーク接続なしでローカル環境での動作を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデル重みと設定ファイ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtbikvo5ap23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtbikvo5ap23</guid>
-      <pubDate>Mon, 17 Aug 2026 10:28:31 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供され、vLLMやSGLangなどの推論エンジンと互換性があります。<br>画像やビデオを理解できる視覚言語モデルであり、コーディングや専門業務、複雑なマルチステップタスクを完遂させる高い信頼性とデプロイのしやすさを兼ね備えたコンパクトなモデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供され、vLLMやSGLangなどの推論エンジンと互換性があります。<br>画像やビデオを理解できる視覚言語モデルであり、コーディングや専門業務、複雑なマルチステップタスクを完遂させる高い信頼性とデプロイのしやすさを兼ね備えたコンパクトなモデルです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。Open…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg4asqj327</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg4asqj327</guid>
-      <pubDate>Mon, 17 Aug 2026 09:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。OpenRouterはAIモデルの選択を一元化するプラットフォームで、8百万人以上のユーザーと400以上のモデルへアクセスを提供している。取引金額は70億ドル超と伝えられているが、ストライプは正式なコメントを控えている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ストライプがOpenRouterを買収する契約を結んだとBloombergが報じた。OpenRouterはAIモデルの選択を一元化するプラットフォームで、8百万人以上のユーザーと400以上のモデルへアクセスを提供している。取引金額は70億ドル超と伝えられているが、ストライプは正式なコメントを控えている。]]></content:encoded>
-    </item>
-    <item>
-      <title>StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。 Stripe will repor…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg42bddl27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtbg42bddl27</guid>
-      <pubDate>Mon, 17 Aug 2026 09:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[StripeはOpenRouterを70億ドル超で買収する見込みだと報じられている。<br>Stripe will reportedly acquire OpenRouter for $7B+<br><br>🔺 351<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
