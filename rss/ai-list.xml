@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:14:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>auto-updates and daemon startup, plus configuration tweaks f…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4yfkods24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4yfkods24</guid>
+      <pubDate>Wed, 19 Aug 2026 16:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[auto-updates and daemon startup, plus configuration tweaks for non-root users and “computor” auto-start modes. (2/2)]]></description>
+      <content:encoded><![CDATA[auto-updates and daemon startup, plus configuration tweaks for non-root users and “computor” auto-start modes. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Concise summary: This document provides instru…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4yfjfdf2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4yfjfdf2g</guid>
+      <pubDate>Wed, 19 Aug 2026 16:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Concise summary:<br>This document provides instructions to build, run, test, and deploy a local AmadeusD testnet on Linux (via Podman/Docker), including setup steps for RPC access, a local Chrome with disabled security features, port permissions, and a systemd service for (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Concise summary:<br>This document provides instructions to build, run, test, and deploy a local AmadeusD testnet on Linux (via Podman/Docker), including setup steps for RPC access, a local Chrome with disabled security features, port permissions, and a systemd service for (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 amadeusprotocol / no…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4ycr3pb2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mth4ycr3pb2k</guid>
+      <pubDate>Wed, 19 Aug 2026 16:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 amadeusprotocol / node<br>⭐ 4,219 (+1,415)<br>🗒 Rust]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 amadeusprotocol / node<br>⭐ 4,219 (+1,415)<br>🗒 Rust]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   2011年初頭のエジプトで、 Vodafoneなどの通信事業者を通じて政府管理下の緊急メッセ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mth36c7sh624</link>
@@ -440,36 +467,6 @@
       <content:encoded><![CDATA[As a very early investor in @poteto stocks, it's been awesome seeing y'all realize how great she is
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicnjpwjaodsljxokjwo7egywgzxyluareohhywhn23x2g7yzlcgga" alt="Quote Tweet: https://twitter.com/i/status/2089734854095016431" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicnjpwjaodsljxokjwo7egywgzxyluareohhywhn23x2g7yzlcgga" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Here’s an example of some critical but very good feedback fo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjz2kxa72x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjz2kxa72x</guid>
-      <pubDate>Wed, 19 Aug 2026 00:59:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Here’s an example of some critical but very good feedback for reference<br><br>https://x.com/ggsimm/status/2087212920564306398?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn6zvn3jig2es3ucxcwhlvyxh77ea6wago4cseowx2bnjnl6tsue" alt="Quote Tweet: https://x.com/ggsimm/status/2087212920564306398?s=46" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Here’s an example of some critical but very good feedback for reference<br><br>https://x.com/ggsimm/status/2087212920564306398?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn6zvn3jig2es3ucxcwhlvyxh77ea6wago4cseowx2bnjnl6tsue" alt="Quote Tweet: https://x.com/ggsimm/status/2087212920564306398?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn6zvn3jig2es3ucxcwhlvyxh77ea6wago4cseowx2bnjnl6tsue" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>If you think both of these are &quot;feedback&quot; and they should be…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjyotgph2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjyotgph2k</guid>
-      <pubDate>Wed, 19 Aug 2026 00:37:29 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[If you think both of these are "feedback" and they should be addressed the same way, please just block me. Easier for both of us that way.]]></description>
-      <content:encoded><![CDATA[If you think both of these are "feedback" and they should be addressed the same way, please just block me. Easier for both of us that way.]]></content:encoded>
-    </item>
-    <item>
-      <title>People seem to be struggling with understanding &quot;feedback&quot; a…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjyiygxt2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfjyiygxt2c</guid>
-      <pubDate>Wed, 19 Aug 2026 00:37:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[People seem to be struggling with understanding "feedback" again, here let me help:<br><br>✅ "tried out [product], it didn't work for me. here's 3 issues I had"<br><br>❌ "idk why everyone is using [product], I tried it and it sucked. it's ugly and bad. their users must be paid grifters"]]></description>
-      <content:encoded><![CDATA[People seem to be struggling with understanding "feedback" again, here let me help:<br><br>✅ "tried out [product], it didn't work for me. here's 3 issues I had"<br><br>❌ "idk why everyone is using [product], I tried it and it sucked. it's ugly and bad. their users must be paid grifters"]]></content:encoded>
     </item>
   </channel>
 </rss>
