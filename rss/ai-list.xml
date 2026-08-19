@@ -5,8 +5,70 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:20:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   2023年にFrameworkの修理可能な設計に魅かれて購入した筆者は、BIOS 3.20へ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfzmvox4h2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfzmvox4h2g</guid>
+      <pubDate>Wed, 19 Aug 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>2023年にFrameworkの修理可能な設計に魅かれて購入した筆者は、BIOS 3.20への更新後に起動不能となり、1年保証を過ぎたためマザーボード交換を提案されるも高額で自己修復を決意。自力でBIOSチップを外部からフラッシュする方法を検討・実践し、CH341A/CH347等のプログラマーとポゴピンを使う手法、Winbond 25R256JWEQの特性と必要な電圧・形状に関する詳細を丁寧に記録している。結論として、 Frameworkの「修理可能」主張に対する現実の制約と自力修復の手順を詳述している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>2023年にFrameworkの修理可能な設計に魅かれて購入した筆者は、BIOS 3.20への更新後に起動不能となり、1年保証を過ぎたためマザーボード交換を提案されるも高額で自己修復を決意。自力でBIOSチップを外部からフラッシュする方法を検討・実践し、CH341A/CH347等のプログラマーとポゴピンを使う手法、Winbond 25R256JWEQの特性と必要な電圧・形状に関する詳細を丁寧に記録している。結論として、 Frameworkの「修理可能」主張に対する現実の制約と自力修復の手順を詳述している。]]></content:encoded>
+    </item>
+    <item>
+      <title>ブリック化した Framework ノートパソコンの修理 Fixing a bricked Framework lapt…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfzmpuezl2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfzmpuezl2c</guid>
+      <pubDate>Wed, 19 Aug 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ブリック化した Framework ノートパソコンの修理<br>Fixing a bricked Framework laptop<br><br>🔺 396<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ブリック化した Framework ノートパソコンの修理<br>Fixing a bricked Framework laptop<br><br>🔺 396<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」  🔖 154 ブックマーク 💬 コ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtfypulb3y22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtfypulb3y22</guid>
+      <pubDate>Wed, 19 Aug 2026 05:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>This has continued to haunt us to this day. Just had to patc…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfxgfwx7t2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfxgfwx7t2v</guid>
+      <pubDate>Wed, 19 Aug 2026 04:45:08 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This has continued to haunt us to this day. Just had to patch yet another regression that caused arm mac users to download the intel build accidentally.<br><br>If you're building an app for Mac today, I highly recommend you drop Intel support entirely. I have regretted it for months.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif3vmzpfhg4vawcueysizemor5l5hamh7lkq7hmnmjiz2nchllgt4" alt="Quote Tweet: https://twitter.com/i/status/2030922009295937961" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This has continued to haunt us to this day. Just had to patch yet another regression that caused arm mac users to download the intel build accidentally.<br><br>If you're building an app for Mac today, I highly recommend you drop Intel support entirely. I have regretted it for months.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif3vmzpfhg4vawcueysizemor5l5hamh7lkq7hmnmjiz2nchllgt4" alt="Quote Tweet: https://twitter.com/i/status/2030922009295937961" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif3vmzpfhg4vawcueysizemor5l5hamh7lkq7hmnmjiz2nchllgt4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>He was fiercely loyal, incredibly kind, and one of the harde…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfvqviv4z2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfvqviv4z2v</guid>
+      <pubDate>Wed, 19 Aug 2026 04:22:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[He was fiercely loyal, incredibly kind, and one of the hardest workers I ever knew. Truly a man on the grind.<br><br>We miss you Flip. Thanks for making this space way less lonely. (2/2)]]></description>
+      <content:encoded><![CDATA[He was fiercely loyal, incredibly kind, and one of the hardest workers I ever knew. Truly a man on the grind.<br><br>We miss you Flip. Thanks for making this space way less lonely. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>3 years ago I was going through it. Flip reached out and sta…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfvqrpmyn2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfvqrpmyn2x</guid>
+      <pubDate>Wed, 19 Aug 2026 04:22:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[3 years ago I was going through it. Flip reached out and started nerding out about hip hop stuff with me. Turned out we had a few niche favorites in common.<br><br>He shipped me a "care package" with a rare @KirbLaGoop shirt (iykyk) (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreienhg3nj7db5aubjbnebqfoq2vhvae6qlaxnrfmqkmycsj42clcvy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidrv4jjzlhp33xzjct4imjgfdv3djspdp3hp2ocrmojqybzisszae" alt="Quote Tweet: https://twitter.com/i/status/2089883527982862640" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[3 years ago I was going through it. Flip reached out and started nerding out about hip hop stuff with me. Turned out we had a few niche favorites in common.<br><br>He shipped me a "care package" with a rare @KirbLaGoop shirt (iykyk) (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreienhg3nj7db5aubjbnebqfoq2vhvae6qlaxnrfmqkmycsj42clcvy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidrv4jjzlhp33xzjct4imjgfdv3djspdp3hp2ocrmojqybzisszae" alt="Quote Tweet: https://twitter.com/i/status/2089883527982862640" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreienhg3nj7db5aubjbnebqfoq2vhvae6qlaxnrfmqkmycsj42clcvy" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   長距離の写真を撮るため、移動する車両の外に向けて高速の直線走査カメラを取り付け、連続する縦線…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfsw4gxzl2l</link>
@@ -443,60 +505,6 @@ Anthropic, which revealed Anthropic's "Project Panama." The goal of the project 
 marketplaces, cut the spines off the books, and scan them. It's possible to scan books without destroying them, but cutting the spine makes it cheaper and faster. Additionally, the judge in the lawsuit ruled it was fair use and not a copyright violation for Anthropic to scan a book for training data in part because it destroyed the original, printed copy. Essentially, it's the customer's right to take physical media and store it digitally, and destroying the original copy means that copy isn't duplicated and resold, and isn't cutting into the publisher's business.
 " style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreigdjldqpk4johup4tkzfzvqukmlo7molp3fkx5emtgkobmiqp4jgi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>provides comprehensive hardware schematics, firmware, and do…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej7wt26h2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej7wt26h2v</guid>
-      <pubDate>Tue, 18 Aug 2026 15:18:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[provides comprehensive hardware schematics, firmware, and documentation for researchers and hobbyists to build, modify, and experiment with radar systems. (2/2)]]></description>
-      <content:encoded><![CDATA[provides comprehensive hardware schematics, firmware, and documentation for researchers and hobbyists to build, modify, and experiment with radar systems. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   AERIS-10 is an open-source, dual-version 10.5 …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej7sgnf52h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej7sgnf52h</guid>
-      <pubDate>Tue, 18 Aug 2026 15:18:07 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>AERIS-10 is an open-source, dual-version 10.5 GHz phased-array radar (3 km Nexus and 20 km Extended) with FPGA-assisted processing, full beamforming, LFM chirp modulation, GPS/IMU integration, and a Python GUI, licensed under CERN-OHL-P for hardware and MIT for software. It (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>AERIS-10 is an open-source, dual-version 10.5 GHz phased-array radar (3 km Nexus and 20 km Extended) with FPGA-assisted processing, full beamforming, LFM chirp modulation, GPS/IMU integration, and a Python GUI, licensed under CERN-OHL-P for hardware and MIT for software. It (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 NawfalMotii79 / PLF…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej6d7wmf2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtej6d7wmf2h</guid>
-      <pubDate>Tue, 18 Aug 2026 15:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 NawfalMotii79 / PLFM_RADAR<br>⭐ 24,154 (+204)<br>🗒 PLSQL<br><br>Open-source, low-cost 10.5 GHz PLFM phased array RADAR system]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 NawfalMotii79 / PLFM_RADAR<br>⭐ 24,154 (+204)<br>🗒 PLSQL<br><br>Open-source, low-cost 10.5 GHz PLFM phased array RADAR system]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 genlayerlabs / genla…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtefu6gqq32w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtefu6gqq32w</guid>
-      <pubDate>Tue, 18 Aug 2026 14:17:57 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 genlayerlabs / genlayer-project-boilerplate<br>⭐ 15,724 (+543)<br>🗒 TypeScript]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 genlayerlabs / genlayer-project-boilerplate<br>⭐ 15,724 (+543)<br>🗒 TypeScript]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenAIのGPT-5.6（Sol、Terra、Luna）は、ビジョン機能が大幅に向上し、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtedys2t7g27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtedys2t7g27</guid>
-      <pubDate>Tue, 18 Aug 2026 13:44:47 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenAIのGPT-5.6（Sol、Terra、Luna）は、ビジョン機能が大幅に向上し、物体検出とカウントで特に大きな進歩を示した。Solは検出精度とカウント性能でリーダー格だが、コスト・レイテンシ・大画像での安定性に課題があり、TerraとLunaもGPT-5.5を上回るがSolほどではない。総じて、検出・逐次抽出・ドキュメント処理などの実用性が高まり、OpenAIはビジョン機能を本格的に強化している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIのGPT-5.6（Sol、Terra、Luna）は、ビジョン機能が大幅に向上し、物体検出とカウントで特に大きな進歩を示した。Solは検出精度とカウント性能でリーダー格だが、コスト・レイテンシ・大画像での安定性に課題があり、TerraとLunaもGPT-5.5を上回るがSolほどではない。総じて、検出・逐次抽出・ドキュメント処理などの実用性が高まり、OpenAIはビジョン機能を本格的に強化している。]]></content:encoded>
-    </item>
-    <item>
-      <title>GPT 5.6 Sol は、OpenAI がこれまで公開した中で最も優れた「ビジョン」モデルだ。 GPT 5.6 Sol…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtedykovoc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtedykovoc2o</guid>
-      <pubDate>Tue, 18 Aug 2026 13:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GPT 5.6 Sol は、OpenAI がこれまで公開した中で最も優れた「ビジョン」モデルだ。<br>GPT 5.6 Sol is the best "vision" model OpenAI ever released<br><br>🔺 355<br>💬 62<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GPT 5.6 Sol は、OpenAI がこれまで公開した中で最も優れた「ビジョン」モデルだ。<br>GPT 5.6 Sol is the best "vision" model OpenAI ever released<br><br>🔺 355<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
