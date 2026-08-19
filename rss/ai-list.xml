@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 03:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:23:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   長距離の写真を撮るため、移動する車両の外に向けて高速の直線走査カメラを取り付け、連続する縦線…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfsw4gxzl2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfsw4gxzl2l</guid>
+      <pubDate>Wed, 19 Aug 2026 03:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>長距離の写真を撮るため、移動する車両の外に向けて高速の直線走査カメラを取り付け、連続する縦線をシ Stitchして巨大な横長画像を生成する試みを詳述している。スリットスキャンの原理、使用機材（Basler ruL2048-19gm等）、加速度計・GPSを使った速度推定と、ポストプロセシングの工夫（grindstone、NumPy化、線の選択と距離 per pixel の調整）を通じ、 Boston や Montréal など実地での試行錯誤の経緯と課題を描く。カラー化やGUI開発、法的・安全面の留意点も交えつつ、最終的な画像生成の工程と経験を共有している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>長距離の写真を撮るため、移動する車両の外に向けて高速の直線走査カメラを取り付け、連続する縦線をシ Stitchして巨大な横長画像を生成する試みを詳述している。スリットスキャンの原理、使用機材（Basler ruL2048-19gm等）、加速度計・GPSを使った速度推定と、ポストプロセシングの工夫（grindstone、NumPy化、線の選択と距離 per pixel の調整）を通じ、 Boston や Montréal など実地での試行錯誤の経緯と課題を描く。カラー化やGUI開発、法的・安全面の留意点も交えつつ、最終的な画像生成の工程と経験を共有している。]]></content:encoded>
+    </item>
+    <item>
+      <title>鉄道網をフラットベッドスキャナーとして利用する。 Using the railway network as a flat…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfsvwlmsu2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtfsvwlmsu2a</guid>
+      <pubDate>Wed, 19 Aug 2026 03:44:17 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[鉄道網をフラットベッドスキャナーとして利用する。<br>Using the railway network as a flatbed scanner<br><br>🔺 412<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[鉄道網をフラットベッドスキャナーとして利用する。<br>Using the railway network as a flatbed scanner<br><br>🔺 412<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>So I finally tried out @mattpocockuk&apos;s skills...   Video: ht…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfsf4s5bu27</link>
@@ -479,24 +497,6 @@ marketplaces, cut the spines off the books, and scan them. It's possible to scan
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[GPT 5.6 Sol は、OpenAI がこれまで公開した中で最も優れた「ビジョン」モデルだ。<br>GPT 5.6 Sol is the best "vision" model OpenAI ever released<br><br>🔺 355<br>💬 62<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[GPT 5.6 Sol は、OpenAI がこれまで公開した中で最も優れた「ビジョン」モデルだ。<br>GPT 5.6 Sol is the best "vision" model OpenAI ever released<br><br>🔺 355<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」  🔖 174 ブックマーク 💬 コ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mted3c2z762i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mted3c2z762i</guid>
-      <pubDate>Tue, 18 Aug 2026 13:28:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>local LLMs, is open source under MIT, and offers a full arch…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtechj3j4x2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtechj3j4x2t</guid>
-      <pubDate>Tue, 18 Aug 2026 13:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[local LLMs, is open source under MIT, and offers a full architecture for agent orchestration, memory, and human oversight. (2/2)]]></description>
-      <content:encoded><![CDATA[local LLMs, is open source under MIT, and offers a full architecture for agent orchestration, memory, and human oversight. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
