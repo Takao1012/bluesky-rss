@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:26:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>New &amp; Notable: Electrifying and borderless, the Pakistan-bor…</title>
+      <link>https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtfgnvgbe32t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtfgnvgbe32t</guid>
+      <pubDate>Wed, 19 Aug 2026 00:05:03 GMT</pubDate>
+      <author>Bandcamp (@bandcamp.com)</author>
+      <description><![CDATA[New & Notable: Electrifying and borderless, the Pakistan-born, New York-based producer's debut takes diasporic club music to euphoric new heights.]]></description>
+      <content:encoded><![CDATA[New & Notable: Electrifying and borderless, the Pakistan-born, New York-based producer's debut takes diasporic club music to euphoric new heights.]]></content:encoded>
+    </item>
     <item>
       <title>Today, Angélique Kidjo became the first African musician to …</title>
       <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mtfdh6nris2n</link>
@@ -461,15 +470,6 @@
       <author>Stereogum (@stereogum.com)</author>
       <description><![CDATA[Hear God's Hate make their grand return with the brutally heavy new EP 'Won't Be Disgraced']]></description>
       <content:encoded><![CDATA[Hear God's Hate make their grand return with the brutally heavy new EP 'Won't Be Disgraced']]></content:encoded>
-    </item>
-    <item>
-      <title>Wishy&apos;s newest single is &quot;Sensational&quot;</title>
-      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mtee7xb3tk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mtee7xb3tk2g</guid>
-      <pubDate>Tue, 18 Aug 2026 13:48:48 GMT</pubDate>
-      <author>Stereogum (@stereogum.com)</author>
-      <description><![CDATA[Wishy's newest single is "Sensational"]]></description>
-      <content:encoded><![CDATA[Wishy's newest single is "Sensational"]]></content:encoded>
     </item>
   </channel>
 </rss>

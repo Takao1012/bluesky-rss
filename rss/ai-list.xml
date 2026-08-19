@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:26:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   DDR5メモリの価格が異常に高騰しており、特に高容量キットは昨年の10倍近い価格に。DDR5…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtffjasl4y2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtffjasl4y2y</guid>
+      <pubDate>Tue, 18 Aug 2026 23:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DDR5メモリの価格が異常に高騰しており、特に高容量キットは昨年の10倍近い価格に。DDR5だけでなくDDR4も上昇傾向で、全体的にPCメモリの供給不足が深刻化。AI需要と市場動向の影響で、安価なメモリの復活は当分見込めず、今すぐ RAM が必要なら高値を覚悟する必要がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DDR5メモリの価格が異常に高騰しており、特に高容量キットは昨年の10倍近い価格に。DDR5だけでなくDDR4も上昇傾向で、全体的にPCメモリの供給不足が深刻化。AI需要と市場動向の影響で、安価なメモリの復活は当分見込めず、今すぐ RAM が必要なら高値を覚悟する必要がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>メモリ価格が12か月で500％上昇 Memory prices climb 500% in 12 months  🔺 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtffixgv4k24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtffixgv4k24</guid>
+      <pubDate>Tue, 18 Aug 2026 23:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[メモリ価格が12か月で500％上昇<br>Memory prices climb 500% in 12 months<br><br>🔺 428<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[メモリ価格が12か月で500％上昇<br>Memory prices climb 500% in 12 months<br><br>🔺 428<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Any guesses where I am right now?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgp2zwi72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgp2zwi72x</guid>
+      <pubDate>Tue, 18 Aug 2026 22:05:38 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Any guesses where I am right now?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihe75gg2qv5zpaxjnlio6sjvyshahzy6rwgcq5nsiacvuf6d34kaa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Any guesses where I am right now?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihe75gg2qv5zpaxjnlio6sjvyshahzy6rwgcq5nsiacvuf6d34kaa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihe75gg2qv5zpaxjnlio6sjvyshahzy6rwgcq5nsiacvuf6d34kaa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sv7p4t24</link>
@@ -24,6 +54,101 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Fix for passkeys is in, cc @clerk I cut an issue for the ele…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgoupypi2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgoupypi2w</guid>
+      <pubDate>Tue, 18 Aug 2026 21:09:36 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Fix for passkeys is in, cc @clerk I cut an issue for the electron package (ty for rushing that out for us!)<br><br>Built, filled and merged all from my phone with T3 Code
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbizkcsb4xbn2k2ljuroozetrl5xuvri5lwf6lcxknvutzonowqe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Fix for passkeys is in, cc @clerk I cut an issue for the electron package (ty for rushing that out for us!)<br><br>Built, filled and merged all from my phone with T3 Code
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbizkcsb4xbn2k2ljuroozetrl5xuvri5lwf6lcxknvutzonowqe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lmao https://x.com/dhruvalgolakiya/status/208981495724022180…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgokuu3g27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgokuu3g27</guid>
+      <pubDate>Tue, 18 Aug 2026 20:44:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Lmao https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" alt="Quote Tweet: https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Lmao https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" alt="Quote Tweet: https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Will still address the small pieces of feedback hidden deep …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgo5p4ih2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgo5p4ih2x</guid>
+      <pubDate>Tue, 18 Aug 2026 20:43:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Will still address the small pieces of feedback hidden deep in this bait post. Just want to put my foot down when someone is clearly hating for attention, not giving useful information for the team to work on. (2/2)]]></description>
+      <content:encoded><![CDATA[Will still address the small pieces of feedback hidden deep in this bait post. Just want to put my foot down when someone is clearly hating for attention, not giving useful information for the team to work on. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Forgot to address the “vibe coded design” portion.  After lo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnzwqbh2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnzwqbh2o</guid>
+      <pubDate>Tue, 18 Aug 2026 20:43:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Forgot to address the “vibe coded design” portion.<br><br>After looking at his site, probably best I skip that part huh? (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamjg45mk3edijtezth5i6xjhkew6hxdmc462s754mnbbj5jhk3ru" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Forgot to address the “vibe coded design” portion.<br><br>After looking at his site, probably best I skip that part huh? (1/2)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamjg45mk3edijtezth5i6xjhkew6hxdmc462s754mnbbj5jhk3ru" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamjg45mk3edijtezth5i6xjhkew6hxdmc462s754mnbbj5jhk3ru" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Not sure what Valerii’s goal was, but I hope his post doesn’…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnr62ni2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnr62ni2w</guid>
+      <pubDate>Tue, 18 Aug 2026 20:29:54 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Not sure what Valerii’s goal was, but I hope his post doesn’t discourage others from trying something we’ve put so much work into. We have rough edges to fix, but very little of what was said here is true. (5/5)]]></description>
+      <content:encoded><![CDATA[Not sure what Valerii’s goal was, but I hope his post doesn’t discourage others from trying something we’ve put so much work into. We have rough edges to fix, but very little of what was said here is true. (5/5)]]></content:encoded>
+    </item>
+    <item>
+      <title>I can’t do anything about your 6 month old OpenCode install …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgno5dyk24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgno5dyk24</guid>
+      <pubDate>Tue, 18 Aug 2026 20:29:53 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I can’t do anything about your 6 month old OpenCode install with a broken path<br><br>> passkeys<br>You know you can click “cancel” on the passkey pop up right?<br><br>> worse results than Claude code<br>…? You can just use Claude code? T3 Code isn’t a harness. We have no influence on how the code comes out. (4/5)]]></description>
+      <content:encoded><![CDATA[I can’t do anything about your 6 month old OpenCode install with a broken path<br><br>> passkeys<br>You know you can click “cancel” on the passkey pop up right?<br><br>> worse results than Claude code<br>…? You can just use Claude code? T3 Code isn’t a harness. We have no influence on how the code comes out. (4/5)]]></content:encoded>
+    </item>
+    <item>
+      <title>&gt; OpenCode loading forever This sounds like you have a reall…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnl4lai2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnl4lai2w</guid>
+      <pubDate>Tue, 18 Aug 2026 20:29:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[> OpenCode loading forever<br>This sounds like you have a really old install of OpenCode and your bash setup is unable to update it. We try to use the harnesses available on your machine. We even help you keep them updated. (3/5)]]></description>
+      <content:encoded><![CDATA[> OpenCode loading forever<br>This sounds like you have a really old install of OpenCode and your bash setup is unable to update it. We try to use the harnesses available on your machine. We even help you keep them updated. (3/5)]]></content:encoded>
+    </item>
+    <item>
+      <title>&gt; 404 error We had a few of these with auth, but they’re all…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgni3oj72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgni3oj72x</guid>
+      <pubDate>Tue, 18 Aug 2026 20:29:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[> 404 error<br>We had a few of these with auth, but they’re all addressed as of the latest nightly. Never had one that happens on launch. Suggests you had a really old install and deleted legacy data. Totally fine! We should handle this better (2/5)]]></description>
+      <content:encoded><![CDATA[> 404 error<br>We had a few of these with auth, but they’re all addressed as of the latest nightly. Never had one that happens on launch. Suggests you had a really old install and deleted legacy data. Totally fine! We should handle this better (2/5)]]></content:encoded>
+    </item>
+    <item>
+      <title>I love that all the replies are saying “wtf are you sure you…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnemrop2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgnemrop2x</guid>
+      <pubDate>Tue, 18 Aug 2026 20:29:50 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I love that all the replies are saying “wtf are you sure you tried the same app?”<br><br>T3 Code has had its rough parts. We put it out as an early alpha for a reason. That said, most of what was listed here is just outright wrong.<br><br>Let’s go through his report (1/5)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigj73vqqn2hz3vcjhk2d75cacca2fduoxuzdtiohxtfupivva5igu" alt="Quote Tweet: https://twitter.com/i/status/2089720174890922101" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I love that all the replies are saying “wtf are you sure you tried the same app?”<br><br>T3 Code has had its rough parts. We put it out as an early alpha for a reason. That said, most of what was listed here is just outright wrong.<br><br>Let’s go through his report (1/5)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigj73vqqn2hz3vcjhk2d75cacca2fduoxuzdtiohxtfupivva5igu" alt="Quote Tweet: https://twitter.com/i/status/2089720174890922101" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigj73vqqn2hz3vcjhk2d75cacca2fduoxuzdtiohxtfupivva5igu" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>💡 Summary:   GPUのVRAM過剰割り当て時の挙動とその影響を詳述。VRAMを失うと性能低下だけでなく安定…</title>
@@ -366,114 +491,6 @@ marketplaces, cut the spines off the books, and scan them. It's possible to scan
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 米Amazon、規約で集団訴訟を禁止--利用で「同意」扱いに<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 米Amazon、規約で集団訴訟を禁止--利用で「同意」扱いに<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  orcarouter/Qwen3.8-27B-Uncensored-FP8 RE…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyv4blst2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyv4blst2x</guid>
-      <pubDate>Tue, 18 Aug 2026 10:25:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容を記載した状態で再度ご依頼ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容を記載した状態で再度ご依頼ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B-FP8 Qwen3.8-27BのFP8量子化済…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyuqsvms2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyuqsvms2y</guid>
-      <pubDate>Tue, 18 Aug 2026 10:25:41 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>Qwen3.8-27BのFP8量子化済みモデル重みと設定ファイルを提供することを目的としています。<br>本モデルは画像や動画を理解する視覚言語モデルで、コーディングや研究などの複雑なタスクに対応します。<br>FP8量子化によって元の性能を維持しつつ、vLLMやSGLang等の環境で効率的にデプロイすることが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>Qwen3.8-27BのFP8量子化済みモデル重みと設定ファイルを提供することを目的としています。<br>本モデルは画像や動画を理解する視覚言語モデルで、コーディングや研究などの複雑なタスクに対応します。<br>FP8量子化によって元の性能を維持しつつ、vLLMやSGLang等の環境で効率的にデプロイすることが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Pro-0813 DeepSee…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyto4le22y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyto4le22y</guid>
-      <pubDate>Tue, 18 Aug 2026 10:25:04 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版からエージェント能力と性能が大幅に向上しており、特に本番環境での活用を目的としています。<br>DSpark投機的デコーディングモジュールを搭載し、商用モデルに匹敵する高い性能を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版からエージェント能力と性能が大幅に向上しており、特に本番環境での活用を目的としています。<br>DSpark投機的デコーディングモジュールを搭載し、商用モデルに匹敵する高い性能を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyt4zs4k24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdyt4zs4k24</guid>
-      <pubDate>Tue, 18 Aug 2026 10:24:47 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と音楽の説明から最大5分間の完全な楽曲を生成する高性能なモデルです。<br>グローバルLLMで楽曲構造を、ローカルLLMで音響詳細を制御するハイブリッド構成を採用し、イントロからアウトロまで一貫した構成と表現力豊かなボーカルを持つ高品質なステレオオーディオの生成を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と音楽の説明から最大5分間の完全な楽曲を生成する高性能なモデルです。<br>グローバルLLMで楽曲構造を、ローカルLLMで音響詳細を制御するハイブリッド構成を採用し、イントロからアウトロまで一貫した構成と表現力豊かなボーカルを持つ高品質なステレオオーディオの生成を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdysju4kv2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtdysju4kv2h</guid>
-      <pubDate>Tue, 18 Aug 2026 10:24:26 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwl5emof24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwl5emof24</guid>
-      <pubDate>Tue, 18 Aug 2026 09:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード（Balanced、Nitro、Exacto）に応じてリクエストを最適な提供元へ分配します。性能指標としてはスループット、レイテンシ、TTFT、稼働率、過去3日間の可用性などを公開し、実際の料金は提供元が表示する価格と異なりキャッシュや割引で安くなることがあります。加えて、各提供元の実績データ、ベンチマーク、よく使われるアプリ例、コードの導入サンプル（OpenRouter APIはOpenAI互換）も提供しています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenRouterは同じモデルを複数の提供企業がホストしており、選択したルーティングモード（Balanced、Nitro、Exacto）に応じてリクエストを最適な提供元へ分配します。性能指標としてはスループット、レイテンシ、TTFT、稼働率、過去3日間の可用性などを公開し、実際の料金は提供元が表示する価格と異なりキャッシュや割引で安くなることがあります。加えて、各提供元の実績データ、ベンチマーク、よく使われるアプリ例、コードの導入サンプル（OpenRouter APIはOpenAI互換）も提供しています。]]></content:encoded>
-    </item>
-    <item>
-      <title>GPT-5.6 Solの価格を50％に引き下げ GPT-5.6 Sol Pricing Cut by 50%  🔺 4…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwkv46a527</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdwkv46a527</guid>
-      <pubDate>Tue, 18 Aug 2026 09:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GPT-5.6 Solの価格を50％に引き下げ<br>GPT-5.6 Sol Pricing Cut by 50%<br><br>🔺 433<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GPT-5.6 Solの価格を50％に引き下げ<br>GPT-5.6 Sol Pricing Cut by 50%<br><br>🔺 433<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com  🔖 150 ブックマーク…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdvo3w6c62k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdvo3w6c62k</guid>
-      <pubDate>Tue, 18 Aug 2026 09:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Thanks, just fixed that</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtdttxh6js2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtdttxh6js2t</guid>
-      <pubDate>Tue, 18 Aug 2026 08:55:46 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Thanks, just fixed that]]></description>
-      <content:encoded><![CDATA[Thanks, just fixed that]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ハノーファー研究所という新設の「イスラエル・パレスチナ問題専門シンクタンク」は実在せず、同団…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdpuumcav2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdpuumcav2a</guid>
-      <pubDate>Tue, 18 Aug 2026 07:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ハノーファー研究所という新設の「イスラエル・パレスチナ問題専門シンクタンク」は実在せず、同団体の報告はすべてイスラエル政府の影響力工作の一環としてAIチャットボットを欺く目的で作られている。報告は学術風で信頼性を装い、AIや検索エンジンを通じて米国の読者に拡散されることを狙っており、創設元のPiro, Inc.は「AIストーリー最適化」を謳い、政府資金を受けつつ多数の記事を公開している。これらの活動は、イスラエル政府の見解を広めつつ、反ユダヤ主義の論点にも結びつけるなど、AIを介したプロパガンダの疑いが指摘されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ハノーファー研究所という新設の「イスラエル・パレスチナ問題専門シンクタンク」は実在せず、同団体の報告はすべてイスラエル政府の影響力工作の一環としてAIチャットボットを欺く目的で作られている。報告は学術風で信頼性を装い、AIや検索エンジンを通じて米国の読者に拡散されることを狙っており、創設元のPiro, Inc.は「AIストーリー最適化」を謳い、政府資金を受けつつ多数の記事を公開している。これらの活動は、イスラエル政府の見解を広めつつ、反ユダヤ主義の論点にも結びつけるなど、AIを介したプロパガンダの疑いが指摘されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>イスラエルはAIチャットボットを欺くことを目的とした偽のシンクタンクを設立した。 Israel creates fake…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdpunaesa27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtdpunaesa27</guid>
-      <pubDate>Tue, 18 Aug 2026 07:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[イスラエルはAIチャットボットを欺くことを目的とした偽のシンクタンクを設立した。<br>Israel creates fake think tank in likely attempt to dupe AI chatbots<br><br>🔺 396<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[イスラエルはAIチャットボットを欺くことを目的とした偽のシンクタンクを設立した。<br>Israel creates fake think tank in likely attempt to dupe AI chatbots<br><br>🔺 396<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡  🔖 163 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdlmg2bi322</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtdlmg2bi322</guid>
-      <pubDate>Tue, 18 Aug 2026 06:28:22 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
