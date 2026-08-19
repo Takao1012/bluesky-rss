@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:10:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The former Meta employee testified that the company culture …</title>
+      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mthrcuaci72y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mthrcuaci72y</guid>
+      <pubDate>Wed, 19 Aug 2026 22:21:03 GMT</pubDate>
+      <author>NPR (@npr.org)</author>
+      <description><![CDATA[The former Meta employee testified that the company culture prioritized user numbers over child safety measures. n.pr/4qqsfbX]]></description>
+      <content:encoded><![CDATA[The former Meta employee testified that the company culture prioritized user numbers over child safety measures. n.pr/4qqsfbX]]></content:encoded>
+    </item>
+    <item>
+      <title>New &amp; Notable: Leaping, noisy guitar pop from better living …</title>
+      <link>https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mthrazuelv2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mthrazuelv2b</guid>
+      <pubDate>Wed, 19 Aug 2026 22:20:02 GMT</pubDate>
+      <author>Bandcamp (@bandcamp.com)</author>
+      <description><![CDATA[New & Notable: Leaping, noisy guitar pop from better living that lands squarely believe alt-rock and shoegaze.]]></description>
+      <content:encoded><![CDATA[New & Notable: Leaping, noisy guitar pop from better living that lands squarely believe alt-rock and shoegaze.]]></content:encoded>
+    </item>
     <item>
       <title>Hear Strawberry Hands&apos; hypnotic new tune &quot;What Plant Jumps O…</title>
       <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mthq4plwgk2z</link>
@@ -476,24 +494,6 @@
       <author>Stereogum (@stereogum.com)</author>
       <description><![CDATA[Cameron Winter announces 'Live At Carnegie Hall' album]]></description>
       <content:encoded><![CDATA[Cameron Winter announces 'Live At Carnegie Hall' album]]></content:encoded>
-    </item>
-    <item>
-      <title>FKA twigs defeats trademark lawsuit from indie band the Twig…</title>
-      <link>https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mtgvq2hub22p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r5qqbgz6n5huvcsvzzm6fsit/post/3mtgvq2hub22p</guid>
-      <pubDate>Wed, 19 Aug 2026 14:07:21 GMT</pubDate>
-      <author>Stereogum (@stereogum.com)</author>
-      <description><![CDATA[FKA twigs defeats trademark lawsuit from indie band the Twigs]]></description>
-      <content:encoded><![CDATA[FKA twigs defeats trademark lawsuit from indie band the Twigs]]></content:encoded>
-    </item>
-    <item>
-      <title>Hear Black Marble’s “Life in Small Spaces” two days before i…</title>
-      <link>https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtguniosvj2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtguniosvj2r</guid>
-      <pubDate>Wed, 19 Aug 2026 13:48:02 GMT</pubDate>
-      <author>Bandcamp (@bandcamp.com)</author>
-      <description><![CDATA[Hear Black Marble’s “Life in Small Spaces” two days before its release at today’s free Listening Party. Listen together, hang out in the live chat, and bring your questions for Chris Stewart. See you at 2pm EDT.]]></description>
-      <content:encoded><![CDATA[Hear Black Marble’s “Life in Small Spaces” two days before its release at today’s free Listening Party. Listen together, hang out in the live chat, and bring your questions for Chris Stewart. See you at 2pm EDT.]]></content:encoded>
     </item>
   </channel>
 </rss>
