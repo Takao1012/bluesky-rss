@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:20:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 marceloprates / prettymaps ⭐ 12,825 (+58) 🗒 Python  Draw…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgwbtug4i2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgwbtug4i2s</guid>
+      <pubDate>Wed, 19 Aug 2026 14:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 marceloprates / prettymaps<br>⭐ 12,825 (+58)<br>🗒 Python<br><br>Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely]]></description>
+      <content:encoded><![CDATA[📦 marceloprates / prettymaps<br>⭐ 12,825 (+58)<br>🗒 Python<br><br>Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spar…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtguhyraic2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtguhyraic2d</guid>
+      <pubDate>Wed, 19 Aug 2026 13:44:57 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I've run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spark DGX]]></description>
+      <content:encoded><![CDATA[I've run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spark DGX]]></content:encoded>
+    </item>
+    <item>
+      <title>賃金の粘着性と予期せぬインフレの実質賃金コスト Sticky wage norms and the real wage …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtguh7tvzk2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtguh7tvzk2a</guid>
+      <pubDate>Wed, 19 Aug 2026 13:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[賃金の粘着性と予期せぬインフレの実質賃金コスト<br>Sticky wage norms and the real wage cost of unexpected inflation<br><br>🔺 371<br>💬 29<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[賃金の粘着性と予期せぬインフレの実質賃金コスト<br>Sticky wage norms and the real wage cost of unexpected inflation<br><br>🔺 371<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>lists numerous APIs across categories for quick integration.…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgpmjjl4o2k</link>
@@ -446,41 +473,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始しました。CodebaseタブのOrigin Reposを中心に、GitHubリポジトリの同期、プルリクエストの管理、エージェント機能、Vercel/Depot/Buildkiteなどのアプリ連携が統合され、リポジトリ間の双方向同期とリアルタイム更新が利用可能になります。設定やアクセス管理、アプリ接続も各リポジトリごとに行えます。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Cursorがコードをホストできるようになり、Originが有料プランで早期ベータ展開を開始しました。CodebaseタブのOrigin Reposを中心に、GitHubリポジトリの同期、プルリクエストの管理、エージェント機能、Vercel/Depot/Buildkiteなどのアプリ連携が統合され、リポジトリ間の双方向同期とリアルタイム更新が利用可能になります。設定やアクセス管理、アプリ接続も各リポジトリごとに行えます。]]></content:encoded>
-    </item>
-    <item>
-      <title>CursorがGitHubの代替となるOriginをローンチ Cursor launches Origin, GitHu…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sojbbi2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtf6sojbbi2m</guid>
-      <pubDate>Tue, 18 Aug 2026 21:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[CursorがGitHubの代替となるOriginをローンチ<br>Cursor launches Origin, GitHub alternative<br><br>🔺 380<br>💬 87<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Fix for passkeys is in, cc @clerk I cut an issue for the ele…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgoupypi2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgoupypi2w</guid>
-      <pubDate>Tue, 18 Aug 2026 21:09:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Fix for passkeys is in, cc @clerk I cut an issue for the electron package (ty for rushing that out for us!)<br><br>Built, filled and merged all from my phone with T3 Code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbizkcsb4xbn2k2ljuroozetrl5xuvri5lwf6lcxknvutzonowqe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Fix for passkeys is in, cc @clerk I cut an issue for the electron package (ty for rushing that out for us!)<br><br>Built, filled and merged all from my phone with T3 Code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbizkcsb4xbn2k2ljuroozetrl5xuvri5lwf6lcxknvutzonowqe" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidloay5qyff5y2twexdyppslymyxopwvhmumu7hothiilthyzmv2i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Lmao https://x.com/dhruvalgolakiya/status/208981495724022180…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgokuu3g27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtfgokuu3g27</guid>
-      <pubDate>Tue, 18 Aug 2026 20:44:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Lmao https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" alt="Quote Tweet: https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Lmao https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" alt="Quote Tweet: https://x.com/dhruvalgolakiya/status/2089814957240221809?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigs6bolxx23blcu3qmaz2v5p25dhp2nw3ublehxupt3nwj6gjj374" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
