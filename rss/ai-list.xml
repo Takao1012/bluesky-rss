@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:21:16 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>input paths (Logi Bolt, Unifying, Bluetooth, wired) and incl…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43fe6d2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43fe6d2v</guid>
+      <pubDate>Thu, 20 Aug 2026 15:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[input paths (Logi Bolt, Unifying, Bluetooth, wired) and includes camera controls for Logitech UVC webcams. (2/2)]]></description>
+      <content:encoded><![CDATA[input paths (Logi Bolt, Unifying, Bluetooth, wired) and includes camera controls for Logitech UVC webcams. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenLogi is a native, Rust-based, cross-platfo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43e33x2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43e33x2j</guid>
+      <pubDate>Thu, 20 Aug 2026 15:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenLogi is a native, Rust-based, cross-platform replacement for Logitech Options+ that runs on macOS, Linux, and Windows, offering per-device remapping, per-application overlays, gesture support on any button, a plain TOML config, and a CLI alongside the GUI. It supports various (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenLogi is a native, Rust-based, cross-platform replacement for Logitech Options+ that runs on macOS, Linux, and Windows, offering per-device remapping, per-application overlays, gesture support on any button, a plain TOML config, and a CLI alongside the GUI. It supports various (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 AprilNEA / OpenLogi …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk3yehcu2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk3yehcu2h</guid>
+      <pubDate>Thu, 20 Aug 2026 15:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 AprilNEA / OpenLogi<br>⭐ 11,093 (+1,225)<br>🗒 Rust<br><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 AprilNEA / OpenLogi<br>⭐ 11,093 (+1,225)<br>🗒 Rust<br><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.]]></content:encoded>
+    </item>
     <item>
       <title>support and events. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjgqr575m2t</link>
@@ -444,33 +471,6 @@
       <author>Visual Studio Code (@vscode.dev)</author>
       <description><![CDATA[📄 Working with files in the Agents window? <br><br>Navigate files with file breadcrumbs in the editor header when using the single-pane layout.]]></description>
       <content:encoded><![CDATA[📄 Working with files in the Agents window? <br><br>Navigate files with file breadcrumbs in the editor header when using the single-pane layout.]]></content:encoded>
-    </item>
-    <item>
-      <title>🌐 Prefer to preview HTML instead of editing it?   Open loca…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhnobgj72n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhnobgj72n</guid>
-      <pubDate>Wed, 19 Aug 2026 19:28:08 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🌐 Prefer to preview HTML instead of editing it? <br><br>Open local HTML files in the integrated browser by default. Configure this with workbench editor associations or from the editor header.]]></description>
-      <content:encoded><![CDATA[🌐 Prefer to preview HTML instead of editing it? <br><br>Open local HTML files in the integrated browser by default. Configure this with workbench editor associations or from the editor header.]]></content:encoded>
-    </item>
-    <item>
-      <title>📌 Long agent session? See where your prompts are in the con…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhncewq72n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhncewq72n</guid>
-      <pubDate>Wed, 19 Aug 2026 19:27:56 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📌 Long agent session? See where your prompts are in the conversation. <br><br>Use the prompt timeline in the Agents window to revisit earlier prompts and review their file changes.]]></description>
-      <content:encoded><![CDATA[📌 Long agent session? See where your prompts are in the conversation. <br><br>Use the prompt timeline in the Agents window to revisit earlier prompts and review their file changes.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔍 Looking for something from earlier in a conversation?   P…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhlzougx2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhlzougx2c</guid>
-      <pubDate>Wed, 19 Aug 2026 19:27:13 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🔍 Looking for something from earlier in a conversation? <br><br>Prompts that changed files also show the number of lines added and removed, with the option to review those changes directly.]]></description>
-      <content:encoded><![CDATA[🔍 Looking for something from earlier in a conversation? <br><br>Prompts that changed files also show the number of lines added and removed, with the option to review those changes directly.]]></content:encoded>
     </item>
   </channel>
 </rss>
