@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:16:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   要約: - グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixivwqh627</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixivwqh627</guid>
+      <pubDate>Thu, 20 Aug 2026 09:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。 Geolocating a random…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixiptxhm27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixiptxhm27</guid>
+      <pubDate>Thu, 20 Aug 2026 09:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。<br>Geolocating a random island using geometry and CUDA programming<br><br>🔺 475<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。<br>Geolocating a random island using geometry and CUDA programming<br><br>🔺 475<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>I wonder how hard it would be to detect pastes like that</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtirjehjds2d</link>
@@ -462,24 +480,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 222,966 (+1,214)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></description>
       <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 222,966 (+1,214)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 marceloprates / prettymaps ⭐ 12,825 (+58) 🗒 Python  Draw…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgwbtug4i2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgwbtug4i2s</guid>
-      <pubDate>Wed, 19 Aug 2026 14:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 marceloprates / prettymaps<br>⭐ 12,825 (+58)<br>🗒 Python<br><br>Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely]]></description>
-      <content:encoded><![CDATA[📦 marceloprates / prettymaps<br>⭐ 12,825 (+58)<br>🗒 Python<br><br>Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spar…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtguhyraic2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtguhyraic2d</guid>
-      <pubDate>Wed, 19 Aug 2026 13:44:57 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I've run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spark DGX]]></description>
-      <content:encoded><![CDATA[I've run it on a 128GB M5 Mac MacBook Pro and an NVIDIA Spark DGX]]></content:encoded>
     </item>
   </channel>
 </rss>
