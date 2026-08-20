@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:15:24 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>New &amp; Notable: The Melbourne artist projects heartbreak, ali…</title>
+      <link>https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtk5sx2iwo2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qfno2hq7u4n2vrka3iebvexh/post/3mtk5sx2iwo2w</guid>
+      <pubDate>Thu, 20 Aug 2026 21:10:07 GMT</pubDate>
+      <author>Bandcamp (@bandcamp.com)</author>
+      <description><![CDATA[New & Notable: The Melbourne artist projects heartbreak, alienation, and disorder onto raw, poetic alternative folk.]]></description>
+      <content:encoded><![CDATA[New & Notable: The Melbourne artist projects heartbreak, alienation, and disorder onto raw, poetic alternative folk.]]></content:encoded>
+    </item>
     <item>
       <title>From state and local food-safety response to the federal hea…</title>
       <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mtk2dmxxgm2v</link>
@@ -493,15 +502,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreie236jvrincvrgvt7qors7qiu4e5zyxyuqp6snabyxuegu72arlau" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreiaxupfbidlhbbg5gkjdgkvgr3s3z2zn25fmeffcvso4ethn4nghui" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreie236jvrincvrgvt7qors7qiu4e5zyxyuqp6snabyxuegu72arlau" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>SHANK主催フェス 「BLAZE UP NAGASAKI 2026」 第1弾出演アーティスト📣  ラスベガス…</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtj3xhoojw2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtj3xhoojw2a</guid>
-      <pubDate>Thu, 20 Aug 2026 11:04:09 GMT</pubDate>
-      <author>音楽ナタリー (@music.natalie.mu)</author>
-      <description><![CDATA[SHANK主催フェス<br>「BLAZE UP NAGASAKI 2026」<br>第1弾出演アーティスト📣<br><br>ラスベガス、Hump Back、ハルカミライ、フォーリミ、ヘイスミ、KUZIRA<br>https://natalie.mu/music/news/685997?utm_source=bluesky&utm_medium=social<br><br>#BUN26]]></description>
-      <content:encoded><![CDATA[SHANK主催フェス<br>「BLAZE UP NAGASAKI 2026」<br>第1弾出演アーティスト📣<br><br>ラスベガス、Hump Back、ハルカミライ、フォーリミ、ヘイスミ、KUZIRA<br>https://natalie.mu/music/news/685997?utm_source=bluesky&utm_medium=social<br><br>#BUN26]]></content:encoded>
     </item>
   </channel>
 </rss>

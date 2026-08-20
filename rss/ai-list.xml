@@ -5,8 +5,101 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:15:24 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔗 VS Code issue tracker: github.com/microsoft/vs...</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4ady3nk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4ady3nk2s</guid>
+      <pubDate>Thu, 20 Aug 2026 20:41:48 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔗 VS Code issue tracker:<br>github.com/microsoft/vs...]]></description>
+      <content:encoded><![CDATA[🔗 VS Code issue tracker:<br>github.com/microsoft/vs...]]></content:encoded>
+    </item>
+    <item>
+      <title>🔗 Agent Host Protocol: microsoft.github.io/agent-host-p...</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4adxzp22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4adxzp22s</guid>
+      <pubDate>Thu, 20 Aug 2026 20:41:48 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔗 Agent Host Protocol: microsoft.github.io/agent-host-p...]]></description>
+      <content:encoded><![CDATA[🔗 Agent Host Protocol: microsoft.github.io/agent-host-p...]]></content:encoded>
+    </item>
+    <item>
+      <title>🔗 Agent Host in VS Code: code.visualstudio.com/docs/agents/…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4adeokk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4adeokk2s</guid>
+      <pubDate>Thu, 20 Aug 2026 20:41:48 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔗 Agent Host in VS Code: code.visualstudio.com/docs/agents/...]]></description>
+      <content:encoded><![CDATA[🔗 Agent Host in VS Code: code.visualstudio.com/docs/agents/...]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Discover Agent Host in VS Code and see how your agent ses…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4ac6tmk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4ac6tmk2s</guid>
+      <pubDate>Thu, 20 Aug 2026 20:41:48 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🚀 Discover Agent Host in VS Code and see how your agent sessions persist across projects and run across multiple environments.<br><br>From VS Code to the web and across machines, your sessions stay in sync wherever you work.<br><br>🧵 Check out the resources below 👇<br>youtu.be/k91ejc3G1YM?...]]></description>
+      <content:encoded><![CDATA[🚀 Discover Agent Host in VS Code and see how your agent sessions persist across projects and run across multiple environments.<br><br>From VS Code to the web and across machines, your sessions stay in sync wherever you work.<br><br>🧵 Check out the resources below 👇<br>youtu.be/k91ejc3G1YM?...]]></content:encoded>
+    </item>
+    <item>
+      <title>MIT-licensed. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2uoxuww2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2uoxuww2f</guid>
+      <pubDate>Thu, 20 Aug 2026 20:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[MIT-licensed. (2/2)]]></description>
+      <content:encoded><![CDATA[MIT-licensed. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   The repository hosts a multi-plugin Cursor mar…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2uowjmn2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2uowjmn2w</guid>
+      <pubDate>Thu, 20 Aug 2026 20:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>The repository hosts a multi-plugin Cursor marketplace with a root marketplace manifest and per-plugin manifests, detailing plugins (name, folder, author, category, and description), plus standard plugin structure (skills, rules, MCP, readme, changelog, license). All plugins are (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>The repository hosts a multi-plugin Cursor marketplace with a root marketplace manifest and per-plugin manifests, detailing plugins (name, folder, author, category, and description), plus standard plugin structure (skills, rules, MCP, readme, changelog, license). All plugins are (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 cursor / plugins ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2ul7cfk2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk2ul7cfk2h</guid>
+      <pubDate>Thu, 20 Aug 2026 20:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cursor / plugins<br>⭐ 3,869 (+473)<br>🗒 TypeScript<br><br>Cursor plugin specification and official plugins]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 cursor / plugins<br>⭐ 3,869 (+473)<br>🗒 TypeScript<br><br>Cursor plugin specification and official plugins]]></content:encoded>
+    </item>
+    <item>
+      <title>Link to register: https://luma.com/mega-its-time?tk=YPszF9</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3updl6a2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3updl6a2y</guid>
+      <pubDate>Thu, 20 Aug 2026 20:10:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Link to register:<br>https://luma.com/mega-its-time?tk=YPszF9]]></description>
+      <content:encoded><![CDATA[Link to register:<br>https://luma.com/mega-its-time?tk=YPszF9]]></content:encoded>
+    </item>
+    <item>
+      <title>Doing a fun lil free workshop with Mega next week. They&apos;re l…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3ugmujo2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3ugmujo2k</guid>
+      <pubDate>Thu, 20 Aug 2026 20:10:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Doing a fun lil free workshop with Mega next week. They're letting me rant about surviving the slop-ocalypse ;)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicyqqaiwfot7tatorah2bor5wdmuzbndubcbgq3ryq3fhmbpcpewa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Doing a fun lil free workshop with Mega next week. They're letting me rant about surviving the slop-ocalypse ;)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicyqqaiwfot7tatorah2bor5wdmuzbndubcbgq3ryq3fhmbpcpewa" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicyqqaiwfot7tatorah2bor5wdmuzbndubcbgq3ryq3fhmbpcpewa" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Mac is slowing you down. Moving to Linux has exponentia…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3u7i4cw2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtk3u7i4cw2v</guid>
+      <pubDate>Thu, 20 Aug 2026 19:56:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Your Mac is slowing you down. Moving to Linux has exponentially improved performance for my agents, in particular on the file system side. <br><br>Video: https://twitter.com/theo/status/2090528543746965991]]></description>
+      <content:encoded><![CDATA[Your Mac is slowing you down. Moving to Linux has exponentially improved performance for my agents, in particular on the file system side. <br><br>Video: https://twitter.com/theo/status/2090528543746965991]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   PostgreSQLは単なるRDBMSを超え、全文検索、JSON/JSONB、時系列データ、…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjyzzvur22a</link>
@@ -366,96 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></content:encoded>
-    </item>
-    <item>
-      <title>幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。 Geolocating a random…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixiptxhm27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixiptxhm27</guid>
-      <pubDate>Thu, 20 Aug 2026 09:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。<br>Geolocating a random island using geometry and CUDA programming<br><br>🔺 475<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[幾何学と CUDA プログラミングを用いてランダムな島の地理的位置を特定する。<br>Geolocating a random island using geometry and CUDA programming<br><br>🔺 475<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I wonder how hard it would be to detect pastes like that</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtirjehjds2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mtirjehjds2d</guid>
-      <pubDate>Thu, 20 Aug 2026 07:57:21 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I wonder how hard it would be to detect pastes like that]]></description>
-      <content:encoded><![CDATA[I wonder how hard it would be to detect pastes like that]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   この文章は、派生物を再配布する際の条件を定めており、オブジェクトコードで配布する場合には、(…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtiqsexizy27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtiqsexizy27</guid>
-      <pubDate>Thu, 20 Aug 2026 07:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>この文章は、派生物を再配布する際の条件を定めており、オブジェクトコードで配布する場合には、(1) 完全な機械可読ソースコードを同時に付ける、(2) 完全なソースコードの提供を第三者に対して有料で提供するオファーを3年以上有効に付ける、(3) 配布時にソースコード提供のオファー情報を同梱する、のいずれかを満たす必要がある、という3つの選択肢が示されています。これには時間制限はなく、Google Drive が「ソフトウェア交換に通常用いられる媒体」かどうかが争点になり得ます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>この文章は、派生物を再配布する際の条件を定めており、オブジェクトコードで配布する場合には、(1) 完全な機械可読ソースコードを同時に付ける、(2) 完全なソースコードの提供を第三者に対して有料で提供するオファーを3年以上有効に付ける、(3) 配布時にソースコード提供のオファー情報を同梱する、のいずれかを満たす必要がある、という3つの選択肢が示されています。これには時間制限はなく、Google Drive が「ソフトウェア交換に通常用いられる媒体」かどうかが争点になり得ます。]]></content:encoded>
-    </item>
-    <item>
-      <title>Googleは、一部のAndroidソースコードに対してGitタグのプッシュを停止した。 Google has stop…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtiqs2ueww2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtiqs2ueww2o</guid>
-      <pubDate>Thu, 20 Aug 2026 07:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Googleは、一部のAndroidソースコードに対してGitタグのプッシュを停止した。<br>Google has stopped pushing Git tags for some Android source code<br><br>🔺 484<br>💬 35<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Googleは、一部のAndroidソースコードに対してGitタグのプッシュを停止した。<br>Google has stopped pushing Git tags for some Android source code<br><br>🔺 484<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3qok432y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3qok432y</guid>
-      <pubDate>Thu, 20 Aug 2026 05:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケールAIプラットフォームで、GPU比最大30倍の推論速度と高いスループットを実現する革新的な設計。3つのWSE-3ターボとモジュラー構造のCompute/Power/I/Oを組み合わせ、 wafer-to-waferの低遅延や高密度電力供給、I/Oの新設計により大規模モデルでもインタラクティブ性を維持する。初回出荷は今期開始予定。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケールAIプラットフォームで、GPU比最大30倍の推論速度と高いスループットを実現する革新的な設計。3つのWSE-3ターボとモジュラー構造のCompute/Power/I/Oを組み合わせ、 wafer-to-waferの低遅延や高密度電力供給、I/Oの新設計により大規模モデルでもインタラクティブ性を維持する。初回出荷は今期開始予定。]]></content:encoded>
-    </item>
-    <item>
-      <title>Cerebras CS-4 Cerebras CS-4  🔺 454 💬 29 🔗 HN Post | Artic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3kh5xq27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3kh5xq27</guid>
-      <pubDate>Thu, 20 Aug 2026 05:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Cerebras CS-4<br>Cerebras CS-4<br><br>🔺 454<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Cerebras CS-4<br>Cerebras CS-4<br><br>🔺 454<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtij6nrxrj25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtij6nrxrj25</guid>
-      <pubDate>Thu, 20 Aug 2026 05:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャパン<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャパン<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>T3 Code just hit 200,000 users :&apos;)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtijkngmpl2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtijkngmpl2v</guid>
-      <pubDate>Thu, 20 Aug 2026 05:05:42 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[T3 Code just hit 200,000 users :')]]></description>
-      <content:encoded><![CDATA[T3 Code just hit 200,000 users :')]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Go 1.27が公開され、言語・ツールチェーン・ランタイム・標準ライブラリに大幅な強化が導入…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtidf2zyi624</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtidf2zyi624</guid>
-      <pubDate>Thu, 20 Aug 2026 03:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Go 1.27が公開され、言語・ツールチェーン・ランタイム・標準ライブラリに大幅な強化が導入されました。主なポイントは、ジェネリックメソッドの追加、構造体リテラルのフィールドキーの柔軟化、関数型推論の全代入文での適用、複数のモダナイザーとライブラリ改良、パフォーマンス向上、Standard Libraryの新機能（JSON v2、ML-DSA、UUID、SIMDなど）です。詳細はリリースノートを参照してください。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Go 1.27が公開され、言語・ツールチェーン・ランタイム・標準ライブラリに大幅な強化が導入されました。主なポイントは、ジェネリックメソッドの追加、構造体リテラルのフィールドキーの柔軟化、関数型推論の全代入文での適用、複数のモダナイザーとライブラリ改良、パフォーマンス向上、Standard Libraryの新機能（JSON v2、ML-DSA、UUID、SIMDなど）です。詳細はリリースノートを参照してください。]]></content:encoded>
-    </item>
-    <item>
-      <title>Go 1.27版 Go 1.27  🔺 493 💬 32 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtidevsfc62m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtidevsfc62m</guid>
-      <pubDate>Thu, 20 Aug 2026 03:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Go 1.27版<br>Go 1.27<br><br>🔺 493<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Go 1.27版<br>Go 1.27<br><br>🔺 493<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
