@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:18:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>generator and clear setup/install guidance. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhes7qt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhes7qt24</guid>
+      <pubDate>Thu, 20 Aug 2026 16:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[generator and clear setup/install guidance. (2/2)]]></description>
+      <content:encoded><![CDATA[generator and clear setup/install guidance. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Timeline Visualizer lets you turn Google Timel…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnheqvqx2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnheqvqx2t</guid>
+      <pubDate>Thu, 20 Aug 2026 16:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Timeline Visualizer lets you turn Google Timeline JSON files into animated MP4 travel videos on Android or via a web iPhone app, with configurable dates, camera movement, and export options, while preserving privacy (no sign-in or data upload). It also provides a desktop Python (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Timeline Visualizer lets you turn Google Timeline JSON files into animated MP4 travel videos on Android or via a web iPhone app, with configurable dates, camera movement, and export options, while preserving privacy (no sign-in or data upload). It also provides a desktop Python (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 mahlernim / google-t…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhc3bkj2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhc3bkj2w</guid>
+      <pubDate>Thu, 20 Aug 2026 16:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mahlernim / google-timeline-visualizer<br>⭐ 955 (+575)<br>🗒 Kotlin<br><br>Visualize your year in travel using your Google Location History (Timeline) data]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mahlernim / google-timeline-visualizer<br>⭐ 955 (+575)<br>🗒 Kotlin<br><br>Visualize your year in travel using your Google Location History (Timeline) data]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjln2pkjv27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjln2pkjv27</guid>
+      <pubDate>Thu, 20 Aug 2026 15:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を行い、最終的にゼロゲインの経路でシステム音声へ接続することで、Bluetoothのマルチポイント接続を崩さず音声再生を止めてしまう現象を引き起こしていた。これは通常のオーディオ要素はなく、監視用の指紋採取やデバイス情報収集の一部として機能している可能性が高い。対策として、該当スクリプト collina.js と fireyejs.js を uBlock Origin でブロックすることで問題を回避できる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を行い、最終的にゼロゲインの経路でシステム音声へ接続することで、Bluetoothのマルチポイント接続を崩さず音声再生を止めてしまう現象を引き起こしていた。これは通常のオーディオ要素はなく、監視用の指紋採取やデバイス情報収集の一部として機能している可能性が高い。対策として、該当スクリプト collina.js と fireyejs.js を uBlock Origin でブロックすることで問題を回避できる。]]></content:encoded>
+    </item>
+    <item>
+      <title>アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjlmrsxol2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjlmrsxol2l</guid>
+      <pubDate>Thu, 20 Aug 2026 15:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを実行している。<br>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint<br><br>🔺 457<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを実行している。<br>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint<br><br>🔺 457<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>input paths (Logi Bolt, Unifying, Bluetooth, wired) and incl…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43fe6d2v</link>
@@ -423,54 +468,6 @@
       <content:encoded><![CDATA[First confirmed production outage caused by T3 Code? Let’s go 🎉🎉
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidulaoh3uiu5dnw67w6leh4gcwp4v2m6ubcvuwbsptb7pn37yb7sq" alt="Quote Tweet: https://twitter.com/i/status/2089857096435339518" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidulaoh3uiu5dnw67w6leh4gcwp4v2m6ubcvuwbsptb7pn37yb7sq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>First public fix from triage!  https://x.com/shasko/status/2…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mthlfn2yxu27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mthlfn2yxu27</guid>
-      <pubDate>Wed, 19 Aug 2026 20:09:32 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[First public fix from triage!<br><br>https://x.com/shasko/status/2090163197407830031?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibmir36ym3ntuk3f57wdq4krai6lu73idkny2bbztiq7dv37cql4i" alt="Quote Tweet: https://x.com/shasko/status/2090163197407830031?s=46" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[First public fix from triage!<br><br>https://x.com/shasko/status/2090163197407830031?s=46
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibmir36ym3ntuk3f57wdq4krai6lu73idkny2bbztiq7dv37cql4i" alt="Quote Tweet: https://x.com/shasko/status/2090163197407830031?s=46" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibmir36ym3ntuk3f57wdq4krai6lu73idkny2bbztiq7dv37cql4i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: - SondeHubの創設と成長を通じて、気球携帯衛星データの取り込み・公開、逆予測…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthilbargq2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthilbargq2l</guid>
-      <pubDate>Wed, 19 Aug 2026 19:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>- SondeHubの創設と成長を通じて、気球携帯衛星データの取り込み・公開、逆予測などの技術開発が進む一方、軍事利用や政府機関からの問い合わせ・圧力、データの公開と商用利用の葛藤が生じた。<br>- 中国のスパイ風 balloon事件や軍・航空産業からのアクセス増大、AWS経由のアクセス制約対応、データの保護と倫理・法的懸念が頻繁に浮上した。<br>- 結局、民間の市民科学的取り組みとしての発展と同時に、軍事・政府用途への関心・介入、規制・責任の境界を巡る課題が続いている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- SondeHubの創設と成長を通じて、気球携帯衛星データの取り込み・公開、逆予測などの技術開発が進む一方、軍事利用や政府機関からの問い合わせ・圧力、データの公開と商用利用の葛藤が生じた。<br>- 中国のスパイ風 balloon事件や軍・航空産業からのアクセス増大、AWS経由のアクセス制約対応、データの保護と倫理・法的懸念が頻繁に浮上した。<br>- 結局、民間の市民科学的取り組みとしての発展と同時に、軍事・政府用途への関心・介入、規制・責任の境界を巡る課題が続いている。]]></content:encoded>
-    </item>
-    <item>
-      <title>冗談のドメイン購入が地政学的な戦争へと転じた。 A joke domain purchase turned in geo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthil2mcwk27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthil2mcwk27</guid>
-      <pubDate>Wed, 19 Aug 2026 19:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[冗談のドメイン購入が地政学的な戦争へと転じた。<br>A joke domain purchase turned in geopolitical warfare<br><br>🔺 548<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[冗談のドメイン購入が地政学的な戦争へと転じた。<br>A joke domain purchase turned in geopolitical warfare<br><br>🔺 548<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔎 Explore everything that&apos;s new in the full release notes: …</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthho2mxzl2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthho2mxzl2t</guid>
-      <pubDate>Wed, 19 Aug 2026 19:28:22 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/134<br><br>Happy coding! 💙]]></description>
-      <content:encoded><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/134<br><br>Happy coding! 💙]]></content:encoded>
-    </item>
-    <item>
-      <title>📄 Working with files in the Agents window?   Navigate files…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhnzyw7h22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mthhnzyw7h22</guid>
-      <pubDate>Wed, 19 Aug 2026 19:28:21 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📄 Working with files in the Agents window? <br><br>Navigate files with file breadcrumbs in the editor header when using the single-pane layout.]]></description>
-      <content:encoded><![CDATA[📄 Working with files in the Agents window? <br><br>Navigate files with file breadcrumbs in the editor header when using the single-pane layout.]]></content:encoded>
     </item>
   </channel>
 </rss>
