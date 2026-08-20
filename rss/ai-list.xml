@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:36:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 数学をやめたはずが、AIと論文を書いていた。  🔖 151 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtjdyyevfp2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtjdyyevfp2d</guid>
+      <pubDate>Thu, 20 Aug 2026 13:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 数学をやめたはずが、AIと論文を書いていた。<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 数学をやめたはずが、AIと論文を書いていた。<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   - AIの出力をそのまま渡すのではなく、自分の考えを加えて3文程度で要点を伝えることが推奨さ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtj67k3z3s2c</link>
@@ -471,15 +480,6 @@
       <content:encoded><![CDATA[Wait what
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidnphmveuizq5lrfzngvirtxhu2ld6f5x2toiplgks5suha6xhc7u" alt="Quote Tweet: https://twitter.com/i/status/2090124335642038766" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidnphmveuizq5lrfzngvirtxhu2ld6f5x2toiplgks5suha6xhc7u" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>長期サポートの体制を整える意向を示している。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthbupitox27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mthbupitox27</guid>
-      <pubDate>Wed, 19 Aug 2026 17:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[長期サポートの体制を整える意向を示している。 (2/2)]]></description>
-      <content:encoded><![CDATA[長期サポートの体制を整える意向を示している。 (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
