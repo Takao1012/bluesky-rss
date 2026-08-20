@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:14:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   PostgreSQLは単なるRDBMSを超え、全文検索、JSON/JSONB、時系列データ、…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjyzzvur22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjyzzvur22a</guid>
+      <pubDate>Thu, 20 Aug 2026 19:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PostgreSQLは単なるRDBMSを超え、全文検索、JSON/JSONB、時系列データ、キュー、ベクトルデータベース、キャッシュ、ファイルシステム代替、グラフ/マイクロサービスの機能まで統合的に提供できる「万能データベース」として、さまざまな用途で他の技術を置換・統合できる柔軟性を持つと主張している。この記事は、同ツールの安定性・導入の容易さ・IT環境の大幅な簡素化を強調し、PostgreSQLの活用事例と拡張性を具体例とともに紹介している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PostgreSQLは単なるRDBMSを超え、全文検索、JSON/JSONB、時系列データ、キュー、ベクトルデータベース、キャッシュ、ファイルシステム代替、グラフ/マイクロサービスの機能まで統合的に提供できる「万能データベース」として、さまざまな用途で他の技術を置換・統合できる柔軟性を持つと主張している。この記事は、同ツールの安定性・導入の容易さ・IT環境の大幅な簡素化を強調し、PostgreSQLの活用事例と拡張性を具体例とともに紹介している。]]></content:encoded>
+    </item>
+    <item>
+      <title>すべての用途に対応する PostgreSQL PostgreSQL for Everything  🔺 422 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjyztqxoq2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjyztqxoq2o</guid>
+      <pubDate>Thu, 20 Aug 2026 19:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[すべての用途に対応する PostgreSQL<br>PostgreSQL for Everything<br><br>🔺 422<br>💬 76<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[すべての用途に対応する PostgreSQL<br>PostgreSQL for Everything<br><br>🔺 422<br>💬 76<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>install paths and supports 30+ agents with governance to mea…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjxjitkpk2h</link>
@@ -438,27 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Go 1.27版<br>Go 1.27<br><br>🔺 493<br>💬 32<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Go 1.27版<br>Go 1.27<br><br>🔺 493<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Heads up: the /config command only edits the claude config f…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mti5svzpqv2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mti5svzpqv2y</guid>
-      <pubDate>Thu, 20 Aug 2026 01:52:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Heads up: the /config command only edits the claude config for THE CURRENT PROJECT, NOT your global config.<br><br>The UI really should indicate this, super annoying.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic6dmtir4ai4mdogd6m2u75uv37266uvzlcwgzio3h6fwvnvbyvri" alt="Quote Tweet: https://twitter.com/i/status/2090245922685063634" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Heads up: the /config command only edits the claude config for THE CURRENT PROJECT, NOT your global config.<br><br>The UI really should indicate this, super annoying.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic6dmtir4ai4mdogd6m2u75uv37266uvzlcwgzio3h6fwvnvbyvri" alt="Quote Tweet: https://twitter.com/i/status/2090245922685063634" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic6dmtir4ai4mdogd6m2u75uv37266uvzlcwgzio3h6fwvnvbyvri" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   在宅勤務が孤立を招くという懸念に反し、新しい研究では完全リモートの従業員が最も幸福度が高く、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mti4olntfz2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mti4olntfz2g</guid>
-      <pubDate>Thu, 20 Aug 2026 01:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>在宅勤務が孤立を招くという懸念に反し、新しい研究では完全リモートの従業員が最も幸福度が高く、対面勤務の従業員が最も低いことが判明した。リモート勤務は従業員の結束感よりも幸福度と離職率の低下に関連しており、柔軟性と自己管理が高いほど良い結果を生む可能性がある。つまり、雇用者は従業員の働く場所よりも幸福度に投資する方が長期的な成果につながる、という結論だ。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>在宅勤務が孤立を招くという懸念に反し、新しい研究では完全リモートの従業員が最も幸福度が高く、対面勤務の従業員が最も低いことが判明した。リモート勤務は従業員の結束感よりも幸福度と離職率の低下に関連しており、柔軟性と自己管理が高いほど良い結果を生む可能性がある。つまり、雇用者は従業員の働く場所よりも幸福度に投資する方が長期的な成果につながる、という結論だ。]]></content:encoded>
     </item>
   </channel>
 </rss>
