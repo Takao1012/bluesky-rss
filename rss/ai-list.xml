@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:21:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3qok432y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3qok432y</guid>
+      <pubDate>Thu, 20 Aug 2026 05:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケールAIプラットフォームで、GPU比最大30倍の推論速度と高いスループットを実現する革新的な設計。3つのWSE-3ターボとモジュラー構造のCompute/Power/I/Oを組み合わせ、 wafer-to-waferの低遅延や高密度電力供給、I/Oの新設計により大規模モデルでもインタラクティブ性を維持する。初回出荷は今期開始予定。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Cerebras CS-4は、WSE-3 Turboを搭載した新世代のNexusラックスケールAIプラットフォームで、GPU比最大30倍の推論速度と高いスループットを実現する革新的な設計。3つのWSE-3ターボとモジュラー構造のCompute/Power/I/Oを組み合わせ、 wafer-to-waferの低遅延や高密度電力供給、I/Oの新設計により大規模モデルでもインタラクティブ性を維持する。初回出荷は今期開始予定。]]></content:encoded>
+    </item>
+    <item>
+      <title>Cerebras CS-4 Cerebras CS-4  🔺 454 💬 29 🔗 HN Post | Artic…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3kh5xq27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtik3kh5xq27</guid>
+      <pubDate>Thu, 20 Aug 2026 05:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Cerebras CS-4<br>Cerebras CS-4<br><br>🔺 454<br>💬 29<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Cerebras CS-4<br>Cerebras CS-4<br><br>🔺 454<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtij6nrxrj25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtij6nrxrj25</guid>
+      <pubDate>Thu, 20 Aug 2026 05:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャパン<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャパン<br><br>🔖 169 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>T3 Code just hit 200,000 users :&apos;)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtijkngmpl2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtijkngmpl2v</guid>
+      <pubDate>Thu, 20 Aug 2026 05:05:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[T3 Code just hit 200,000 users :')]]></description>
+      <content:encoded><![CDATA[T3 Code just hit 200,000 users :')]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Go 1.27が公開され、言語・ツールチェーン・ランタイム・標準ライブラリに大幅な強化が導入…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtidf2zyi624</link>
@@ -444,42 +480,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>APILayer has launched a Unified Suite offering production-grade REST APIs under one account, dashboard, and API key, covering services like IP geolocation, weather, flight data, currency, and more. The repository promotes sign-up, a Postman collection, a Discord community, and (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>APILayer has launched a Unified Suite offering production-grade REST APIs under one account, dashboard, and API key, covering services like IP geolocation, weather, flight data, currency, and more. The repository promotes sign-up, a Postman collection, a Discord community, and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 public-apis / public…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgplgksm224</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtgplgksm224</guid>
-      <pubDate>Wed, 19 Aug 2026 12:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 public-apis / public-apis<br>⭐ 465,366 (+1,005)<br>🗒 Python<br><br>A collective list of free APIs]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 public-apis / public-apis<br>⭐ 465,366 (+1,005)<br>🗒 Python<br><br>A collective list of free APIs]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   IKEAの製品名には独自の命名ルールがあり、ブランドとしての一貫性と遊び心を生むために2つの…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtgnqqujbh2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtgnqqujbh2l</guid>
-      <pubDate>Wed, 19 Aug 2026 11:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>IKEAの製品名には独自の命名ルールがあり、ブランドとしての一貫性と遊び心を生むために2つの基本原則を厳守しています。名前はスウェーデン語の実在名詞で、4–12文字、Å/Ä/Öを含むことを推奨し、地名・自然・感情などをカテゴリー別に割り当て、他言語でのネガティブな意味を避けるよう厳しく検査します。例として、ソファはスウェーデンの地名、棚は男性名、子ども用品は動植物・自然を用いるなど、用途ごとに分類されています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>IKEAの製品名には独自の命名ルールがあり、ブランドとしての一貫性と遊び心を生むために2つの基本原則を厳守しています。名前はスウェーデン語の実在名詞で、4–12文字、Å/Ä/Öを含むことを推奨し、地名・自然・感情などをカテゴリー別に割り当て、他言語でのネガティブな意味を避けるよう厳しく検査します。例として、ソファはスウェーデンの地名、棚は男性名、子ども用品は動植物・自然を用いるなど、用途ごとに分類されています。]]></content:encoded>
-    </item>
-    <item>
-      <title>IKEAは製品名をどうやって決めているのですか？ How does IKEA come up with names fo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtgnqkdrsh27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtgnqkdrsh27</guid>
-      <pubDate>Wed, 19 Aug 2026 11:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[IKEAは製品名をどうやって決めているのですか？<br>How does IKEA come up with names for its products?<br><br>🔺 368<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[IKEAは製品名をどうやって決めているのですか？<br>How does IKEA come up with names for its products?<br><br>🔺 368<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  jundot/omlx oMLXはMac向けに最適化されたLLM推論サーバーです。 メモリ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtgmo3wi3g2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtgmo3wi3g2z</guid>
-      <pubDate>Wed, 19 Aug 2026 11:25:12 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>jundot/omlx<br>oMLXはMac向けに最適化されたLLM推論サーバーです。<br>メモリとSSDを組み合わせた階層的なKVキャッシュ管理と継続的なバッチ処理により、効率的な推論を実現します。<br>メニューバーから簡単に操作でき、過去のコンテキストを保持して再利用できるため、ローカルLLMをコーディングなどの実務で快適に利用することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>jundot/omlx<br>oMLXはMac向けに最適化されたLLM推論サーバーです。<br>メモリとSSDを組み合わせた階層的なKVキャッシュ管理と継続的なバッチ処理により、効率的な推論を実現します。<br>メニューバーから簡単に操作でき、過去のコンテキストを保持して再利用できるため、ローカルLLMをコーディングなどの実務で快適に利用することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
