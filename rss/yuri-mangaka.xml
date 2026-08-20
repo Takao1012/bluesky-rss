@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:13:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>月末に仕事終わってて元気だったらディズニー行きたいな</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkay7c64s2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkay7c64s2d</guid>
+      <pubDate>Thu, 20 Aug 2026 22:06:45 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[月末に仕事終わってて元気だったらディズニー行きたいな]]></description>
+      <content:encoded><![CDATA[月末に仕事終わってて元気だったらディズニー行きたいな]]></content:encoded>
+    </item>
     <item>
       <title>ねこあつめ2、壊れたグッズを直して使うと見た目がツギハギだったりしてテンション下がるから、壊れるたびに買い直すことにした…</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtjur3ril22g</link>
@@ -479,15 +488,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[お酒メモ！！！]]></description>
       <content:encoded><![CDATA[お酒メモ！！！]]></content:encoded>
-    </item>
-    <item>
-      <title>こんな時間に帰ったらもう酒飲んでポテチ食べるしかないじゃん</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtgm5xvshs2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtgm5xvshs2r</guid>
-      <pubDate>Wed, 19 Aug 2026 11:16:11 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[こんな時間に帰ったらもう酒飲んでポテチ食べるしかないじゃん]]></description>
-      <content:encoded><![CDATA[こんな時間に帰ったらもう酒飲んでポテチ食べるしかないじゃん]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,49 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:13:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   HTMLだけで実現できる動的機能を紹介するページで、popoverやdialog、detai…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtk7qjmp7m2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtk7qjmp7m2a</guid>
+      <pubDate>Thu, 20 Aug 2026 21:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>HTMLだけで実現できる動的機能を紹介するページで、popoverやdialog、detailsのグループ化、command/commandfor、loading lazy、hidden until-found、ブラウザ組み込みの入力要素などを解説しています。ただし、実装の Accessibilityやブラウザ実装の不足・不安定さには注意が必要と述べられています。開発者のクリス・バーネル氏がHTML Day 2026で作成・更新したものです。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>HTMLだけで実現できる動的機能を紹介するページで、popoverやdialog、detailsのグループ化、command/commandfor、loading lazy、hidden until-found、ブラウザ組み込みの入力要素などを解説しています。ただし、実装の Accessibilityやブラウザ実装の不足・不安定さには注意が必要と述べられています。開発者のクリス・バーネル氏がHTML Day 2026で作成・更新したものです。]]></content:encoded>
+    </item>
+    <item>
+      <title>HTMLはそれができる。 HTML Can Do That  🔺 476 💬 43 🔗 HN Post | Art…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtk7qcv6m524</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtk7qcv6m524</guid>
+      <pubDate>Thu, 20 Aug 2026 21:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[HTMLはそれができる。<br>HTML Can Do That<br><br>🔺 476<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[HTMLはそれができる。<br>HTML Can Do That<br><br>🔺 476<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>This comment just sent me down the wildest rabbit hole</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkaujgp372g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkaujgp372g</guid>
+      <pubDate>Thu, 20 Aug 2026 21:44:09 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This comment just sent me down the wildest rabbit hole
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreido5m7usuilrdcxdskso6nck2kbvwefckpqtveu6bazhq6hyusob4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib75deloc7jipsoan3xlhcy4nvmwgtuctvgwftcb2zf3vq646vd3e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This comment just sent me down the wildest rabbit hole
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreido5m7usuilrdcxdskso6nck2kbvwefckpqtveu6bazhq6hyusob4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib75deloc7jipsoan3xlhcy4nvmwgtuctvgwftcb2zf3vq646vd3e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreido5m7usuilrdcxdskso6nck2kbvwefckpqtveu6bazhq6hyusob4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 agent-substrate / substrate ⭐ 1,284 (+26) 🗒 Go  Agent Su…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk67l57lb2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtk67l57lb2t</guid>
+      <pubDate>Thu, 20 Aug 2026 21:17:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 agent-substrate / substrate<br>⭐ 1,284 (+26)<br>🗒 Go<br><br>Agent Substrate: the core system]]></description>
+      <content:encoded><![CDATA[📦 agent-substrate / substrate<br>⭐ 1,284 (+26)<br>🗒 Go<br><br>Agent Substrate: the core system]]></content:encoded>
+    </item>
     <item>
       <title>🔗 VS Code issue tracker: github.com/microsoft/vs...</title>
       <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtk4ady3nk2s</link>
@@ -423,42 +464,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、要約を作成することができません。<br>内容を提示してください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、要約を作成することができません。<br>内容を提示してください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B-FP8 本リポジトリは、Qwen3.8-27B…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtizudb7ki2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtizudb7ki2a</guid>
-      <pubDate>Thu, 20 Aug 2026 10:26:39 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>本リポジトリは、Qwen3.8-27BモデルのFP8量子化済み重みと設定ファイルを提供することを目的としています。<br>このモデルは画像と動画を理解できる視覚言語モデルであり、コーディングや研究、エージェントタスクなどの複雑な処理に適しています。<br>Hugging Face TransformersやvLLM、SGLangなどで利用可能で、量子化後も元のモデルと同等の性能を維持しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B-FP8<br>本リポジトリは、Qwen3.8-27BモデルのFP8量子化済み重みと設定ファイルを提供することを目的としています。<br>このモデルは画像と動画を理解できる視覚言語モデルであり、コーディングや研究、エージェントタスクなどの複雑な処理に適しています。<br>Hugging Face TransformersやvLLM、SGLangなどで利用可能で、量子化後も元のモデルと同等の性能を維持しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Pro-0813 DeepSee…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtizttgeib2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtizttgeib2m</guid>
-      <pubDate>Thu, 20 Aug 2026 10:26:22 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版からエージェント能力と性能が大幅に向上し、DSpark投機的デコードモジュールが搭載されています。<br>商用モデルに匹敵する性能を持ち、特にプロダクション環境での利用を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Pro-0813<br>DeepSeek-V4-Proの正式リリース版であるDeepSeek-V4-Pro-0813を提供するためのリポジトリです。<br>プレビュー版からエージェント能力と性能が大幅に向上し、DSpark投機的デコードモジュールが搭載されています。<br>商用モデルに匹敵する性能を持ち、特にプロダクション環境での利用を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtiztcm36b2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtiztcm36b2y</guid>
-      <pubDate>Thu, 20 Aug 2026 10:26:05 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な説明から最大5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>ハイブリッドLLM構成を採用し、楽曲全体の構造やボーカル、アレンジの整合性を維持した高品質なステレオ音声を生成することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な説明から最大5分間の完全な楽曲を生成する高性能な音楽生成モデルです。<br>ハイブリッドLLM構成を採用し、楽曲全体の構造やボーカル、アレンジの整合性を維持した高品質なステレオ音声を生成することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: - グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixivwqh627</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtixivwqh627</guid>
-      <pubDate>Thu, 20 Aug 2026 09:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>- グラルヒックス004のチャレンジは、島にあるリゾートの特定と周辺座標・撮影方位を数学とGPUプログラミングで推定するOSINT課題。著者はメタデータ確認から始め、島々の幾何 fingerprint を作成して地図データと照合。最終的にOanリゾートを特定し、座標は7°21′48.4″N 151°45′20.7″E、方位はNWと結論づけている。]]></content:encoded>
     </item>
   </channel>
 </rss>
