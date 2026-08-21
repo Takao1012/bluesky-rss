@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:10:08 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日からセイレーンだ…ソワソワ……</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmqferrkc2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmqferrkc2g</guid>
+      <pubDate>Fri, 21 Aug 2026 21:47:53 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[今日からセイレーンだ…ソワソワ……]]></description>
+      <content:encoded><![CDATA[今日からセイレーンだ…ソワソワ……]]></content:encoded>
+    </item>
     <item>
       <title>夜な夜なクジ引き景品の準備中😴</title>
       <link>https://bsky.app/profile/did:plc:sr2bgulnyuzmvaqnlzgqyojf/post/3mtmdh2ojnk2y</link>
@@ -533,15 +542,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[しゅっきんじゅんび！いそげ！]]></description>
       <content:encoded><![CDATA[しゅっきんじゅんび！いそげ！]]></content:encoded>
-    </item>
-    <item>
-      <title>今日はおすし！</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkf7chmv22d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkf7chmv22d</guid>
-      <pubDate>Thu, 20 Aug 2026 23:22:18 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[今日はおすし！]]></description>
-      <content:encoded><![CDATA[今日はおすし！]]></content:encoded>
     </item>
   </channel>
 </rss>

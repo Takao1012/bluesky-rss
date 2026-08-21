@@ -5,8 +5,47 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:10:08 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ファイルは最大 64 MiB までなどの制限がある。 - 画像トークンはサイズに基づいて計算され、推論前にリサイズされる…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq7emprn2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq7emprn2k</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ファイルは最大 64 MiB までなどの制限がある。<br>- 画像トークンはサイズに基づいて計算され、推論前にリサイズされる。最大画像サイズや1画像あたりのトークン上限、複数画像時の扱い、Files API の利点、Responses API や Anthropic API での利用方法など、利用時の細かな仕様と制限も詳述されている。 (2/2)]]></description>
+      <content:encoded><![CDATA[ファイルは最大 64 MiB までなどの制限がある。<br>- 画像トークンはサイズに基づいて計算され、推論前にリサイズされる。最大画像サイズや1画像あたりのトークン上限、複数画像時の扱い、Files API の利点、Responses API や Anthropic API での利用方法など、利用時の細かな仕様と制限も詳述されている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - deepseek-v4-flash-vision-exp は画像とテキストを同時に受け取…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq7eit3g2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq7eit3g2i</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- deepseek-v4-flash-vision-exp は画像とテキストを同時に受け取れるモデルで、画像の説明、スクリーンショットの文字読取、グラフ分析などに使える。対応フォーマットは JPEG/PNG/GIF/WebP で、ファイル内容から形式を判定する。<br>- 画像の提供方法は3通りあり、いずれも OpenAI 同様の Chat Completions 形式を用いる（base64 inline、外部URL、Files API でアップロードしたファイルの参照）。Inline は 48 MiB 制限、外部URL は URL 長さ8192文字、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- deepseek-v4-flash-vision-exp は画像とテキストを同時に受け取れるモデルで、画像の説明、スクリーンショットの文字読取、グラフ分析などに使える。対応フォーマットは JPEG/PNG/GIF/WebP で、ファイル内容から形式を判定する。<br>- 画像の提供方法は3通りあり、いずれも OpenAI 同様の Chat Completions 形式を用いる（base64 inline、外部URL、Files API でアップロードしたファイルの参照）。Inline は 48 MiB 制限、外部URL は URL 長さ8192文字、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepSeek-v4 フラッシュ・ビジョン実験 DeepSeek-v4-flash-vision-exp  🔺 42…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq765a5x2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq765a5x2c</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DeepSeek-v4 フラッシュ・ビジョン実験<br>DeepSeek-v4-flash-vision-exp<br><br>🔺 425<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DeepSeek-v4 フラッシュ・ビジョン実験<br>DeepSeek-v4-flash-vision-exp<br><br>🔺 425<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📢  GPT-5.6 Sol has a new lower price + 50% until Sept 3rd!</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtmon5hxcs2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtmon5hxcs2x</guid>
+      <pubDate>Fri, 21 Aug 2026 21:16:26 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📢  GPT-5.6 Sol has a new lower price + 50% until Sept 3rd!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreicbpvxd4zjzdhk5gpwmvi3lv7crmjfd5o5hxwnhilv2vuv3ih4zoe" alt="Graphic announcing lower GPT-5.6 Sol pricing and a 50% discount through Sept. 3, with a table showing updated token, cache read, and cache write credit costs for default and long-context usage." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[📢  GPT-5.6 Sol has a new lower price + 50% until Sept 3rd!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreicbpvxd4zjzdhk5gpwmvi3lv7crmjfd5o5hxwnhilv2vuv3ih4zoe" alt="Graphic announcing lower GPT-5.6 Sol pricing and a 50% discount through Sept. 3, with a table showing updated token, cache read, and cache write credit costs for default and long-context usage." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreicbpvxd4zjzdhk5gpwmvi3lv7crmjfd5o5hxwnhilv2vuv3ih4zoe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   オハイオ州のグランド juryは、Flockの自動ナンバープレート読取カメラを破壊した疑いの…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmjj3zshh25</link>
@@ -448,42 +487,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidh7l2mrjycoacghpxfe6vmpbfdqsehu6calnig42pd4zzxbjgjtm" alt="Quote Tweet: https://twitter.com/i/status/2090123048921796890" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Rust crates.ioで配布された arrayref 0.3.10 が、proc-ma…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkttzpx7b25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkttzpx7b25</guid>
-      <pubDate>Fri, 21 Aug 2026 03:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Rust crates.ioで配布された arrayref 0.3.10 が、proc-macro1 というタイポスクワット脅威を依存として取り込み、ビルド時にリモートバイナリをダウンロード実行する悪質なビルドスクリプトを含んでいました。attack は proc-macro1 の内部でのみ発生し、arrayref 自体には悪意はなく、脆弱なビルドスクリプトが実行される構成になっています。現在、配布元・リポジトリはいずれも削除・404となっています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Rust crates.ioで配布された arrayref 0.3.10 が、proc-macro1 というタイポスクワット脅威を依存として取り込み、ビルド時にリモートバイナリをダウンロード実行する悪質なビルドスクリプトを含んでいました。attack は proc-macro1 の内部でのみ発生し、arrayref 自体には悪意はなく、脆弱なビルドスクリプトが実行される構成になっています。現在、配布元・リポジトリはいずれも削除・404となっています。]]></content:encoded>
-    </item>
-    <item>
-      <title>悪意のある Rust クレート Arrayref はビルド時にペイロードを実行する。 Malicious Rust cr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtktttxa2f2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtktttxa2f2k</guid>
-      <pubDate>Fri, 21 Aug 2026 03:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[悪意のある Rust クレート Arrayref はビルド時にペイロードを実行する。<br>Malicious Rust crate Arrayref runs a build-time payload<br><br>🔺 415<br>💬 50<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[悪意のある Rust クレート Arrayref はビルド時にペイロードを実行する。<br>Malicious Rust crate Arrayref runs a build-time payload<br><br>🔺 415<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>@LundukeJournal I&apos;m pretty sure you&apos;ll dig this</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqscyf7i2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqscyf7i2y</guid>
-      <pubDate>Fri, 21 Aug 2026 02:37:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[@LundukeJournal I'm pretty sure you'll dig this]]></description>
-      <content:encoded><![CDATA[@LundukeJournal I'm pretty sure you'll dig this]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve seen a handful of people concerned about Rust&apos;s growing…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqs5on3d25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqs5on3d25</guid>
-      <pubDate>Fri, 21 Aug 2026 02:37:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></description>
-      <content:encoded><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></content:encoded>
     </item>
   </channel>
 </rss>
