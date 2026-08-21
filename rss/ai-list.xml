@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:16:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   - AGENTS.mdという統一されたMarkdownファイルを使ってコードベースを理解する…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtlhy2dtuy2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtlhy2dtuy2m</guid>
+      <pubDate>Fri, 21 Aug 2026 09:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- AGENTS.mdという統一されたMarkdownファイルを使ってコードベースを理解する動きが広がっており、Codex/Amp/Cursorなどのエージェントが標準化を進めている。  <br>- 一方、CLAUDE.mdはClaude Codeに特化しすぎており、他の開発者と協業する際には適さないと指摘されている。  <br>- この記事には複数のリアクションユーザー名が列挙されており、広範な賛同・コメントが付いている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- AGENTS.mdという統一されたMarkdownファイルを使ってコードベースを理解する動きが広がっており、Codex/Amp/Cursorなどのエージェントが標準化を進めている。  <br>- 一方、CLAUDE.mdはClaude Codeに特化しすぎており、他の開発者と協業する際には適さないと指摘されている。  <br>- この記事には複数のリアクションユーザー名が列挙されており、広範な賛同・コメントが付いている。]]></content:encoded>
+    </item>
+    <item>
+      <title>機能リクエスト: AGENTS.md のサポート Feature Request: Support AGENTS.md …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtlhxnyjgu2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtlhxnyjgu2t</guid>
+      <pubDate>Fri, 21 Aug 2026 09:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[機能リクエスト: AGENTS.md のサポート<br>Feature Request: Support AGENTS.md<br><br>🔺 361<br>💬 54<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[機能リクエスト: AGENTS.md のサポート<br>Feature Request: Support AGENTS.md<br><br>🔺 361<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん  🔖 158 ブック…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtlh2otw4p2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtlh2otw4p2a</guid>
+      <pubDate>Fri, 21 Aug 2026 09:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>You know the analytics are good when @posthog likes them</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtle3423hw2v</link>
@@ -465,33 +492,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Caveman 2 reduces the tokens an agent reads and writes by applying aggressive content compression, proxying provider traffic locally, and adding optional modes (pixel rendering, wrap, and memory) to keep answers concise while preserving exact bytes where needed. It offers multiple (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Caveman 2 reduces the tokens an agent reads and writes by applying aggressive content compression, proxying provider traffic locally, and adding optional modes (pixel rendering, wrap, and memory) to keep answers concise while preserving exact bytes where needed. It offers multiple (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 JuliusBrussee / cav…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjxjfmtil2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjxjfmtil2v</guid>
-      <pubDate>Thu, 20 Aug 2026 19:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 JuliusBrussee / caveman<br>⭐ 99,364 (+286)<br>🗒 Go<br><br>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 JuliusBrussee / caveman<br>⭐ 99,364 (+286)<br>🗒 Go<br><br>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman]]></content:encoded>
-    </item>
-    <item>
-      <title>locally with durable saves and support for integration with …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5wjbd42f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5wjbd42f</guid>
-      <pubDate>Thu, 20 Aug 2026 18:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[locally with durable saves and support for integration with LangChain, LlamaIndex, Haystack, and more. It promises strong performance vs FAISS across 2-4 bit quantization, with small-footprint storage and flexible persistence. (2/2)]]></description>
-      <content:encoded><![CDATA[locally with durable saves and support for integration with LangChain, LlamaIndex, Haystack, and more. It promises strong performance vs FAISS across 2-4 bit quantization, with small-footprint storage and flexible persistence. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   turbovec is a Rust/Python vector index impleme…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5whrl32k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5whrl32k</guid>
-      <pubDate>Thu, 20 Aug 2026 18:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>turbovec is a Rust/Python vector index implementing Google's TurboQuant-based online quantization for fast, memory-efficient high-dimensional similarity search with no training phase, enabling incremental ingestion, SIMD-powered search, and optional result filtering—all running (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>turbovec is a Rust/Python vector index implementing Google's TurboQuant-based online quantization for fast, memory-efficient high-dimensional similarity search with no training phase, enabling incremental ingestion, SIMD-powered search, and optional result filtering—all running (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
