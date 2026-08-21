@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:20:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>力強く生地をこねてます🐾🍞</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtlxine73s2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtlxine73s2j</guid>
+      <pubDate>Fri, 21 Aug 2026 14:22:19 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[力強く生地をこねてます🐾🍞]]></description>
+      <content:encoded><![CDATA[力強く生地をこねてます🐾🍞]]></content:encoded>
+    </item>
     <item>
       <title>コナたんは抱っこが嫌いだからあまりしないようにしてたんだけど、ラテさんがいなくなってから私の猫抱っこ欲が満たされなくて、…</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtlwo4eb322j</link>
@@ -527,15 +536,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[起きる！]]></description>
       <content:encoded><![CDATA[起きる！]]></content:encoded>
-    </item>
-    <item>
-      <title>起きたい</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkcankv3k2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtkcankv3k2d</guid>
-      <pubDate>Thu, 20 Aug 2026 22:29:22 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[起きたい]]></description>
-      <content:encoded><![CDATA[起きたい]]></content:encoded>
     </item>
   </channel>
 </rss>
