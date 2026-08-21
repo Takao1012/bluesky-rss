@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:29:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:14:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリR…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5keqsz2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5keqsz2k</guid>
+      <pubDate>Fri, 21 Aug 2026 01:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></content:encoded>
+    </item>
+    <item>
+      <title>Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました Show HN: I tra…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5e3dkp2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5e3dkp2u</guid>
+      <pubDate>Fri, 21 Aug 2026 01:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました<br>Show HN: I trained a 125M model to autocomplete piano on-device<br><br>🔺 503<br>💬 54<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました<br>Show HN: I trained a 125M model to autocomplete piano on-device<br><br>🔺 503<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtkmaqi5br2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtkmaqi5br2k</guid>
+      <pubDate>Fri, 21 Aug 2026 01:28:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📦 PostHog / posthog ⭐ 37,821 (+41) 🗒 Python  🦔 PostHog is…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtkiblfb7322</link>
@@ -440,33 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[市民衛生 — 警察国家に利用され得る技術の開発を避ける（2013）<br>Civic Hygiene – avoid building technologies that could be used by a police state (2013)<br><br>🔺 441<br>💬 58<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[市民衛生 — 警察国家に利用され得る技術の開発を避ける（2013）<br>Civic Hygiene – avoid building technologies that could be used by a police state (2013)<br><br>🔺 441<br>💬 58<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 数学をやめたはずが、AIと論文を書いていた。  🔖 151 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtjdyyevfp2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtjdyyevfp2d</guid>
-      <pubDate>Thu, 20 Aug 2026 13:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 数学をやめたはずが、AIと論文を書いていた。<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 数学をやめたはずが、AIと論文を書いていた。<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - AIの出力をそのまま渡すのではなく、自分の考えを加えて3文程度で要点を伝えることが推奨さ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtj67k3z3s2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtj67k3z3s2c</guid>
-      <pubDate>Thu, 20 Aug 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- AIの出力をそのまま渡すのではなく、自分の考えを加えて3文程度で要点を伝えることが推奨されている。  <br>- AIの回答を参考にする際は、実際に自分の見解を加え、的確な部分だけを抜き出して活用するのが良い。  <br>- もし言いたくない場合は「特に意見なし」など短い丁寧な返答で十分であり、相手に伝えるための実用的な方法が紹介されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- AIの出力をそのまま渡すのではなく、自分の考えを加えて3文程度で要点を伝えることが推奨されている。  <br>- AIの回答を参考にする際は、実際に自分の見解を加え、的確な部分だけを抜き出して活用するのが良い。  <br>- もし言いたくない場合は「特に意見なし」など短い丁寧な返答で十分であり、相手に伝えるための実用的な方法が紹介されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIを貼り付けないでください。 Don&apos;t Paste the AI, please  🔺 443 💬 81 🔗 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtj67erzrx2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtj67erzrx2o</guid>
-      <pubDate>Thu, 20 Aug 2026 11:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIを貼り付けないでください。<br>Don't Paste the AI, please<br><br>🔺 443<br>💬 81<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIを貼り付けないでください。<br>Don't Paste the AI, please<br><br>🔺 443<br>💬 81<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
