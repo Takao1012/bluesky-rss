@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:16:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Cod…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtm6jsejl32r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtm6jsejl32r</guid>
+      <pubDate>Fri, 21 Aug 2026 16:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案<br><br>🔖 164 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AI企業が大量の中古本を買い取り、スキャン後に破棄して訓練データを独占取得していると主張し、…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtm43zkv3i2u</link>
@@ -478,15 +487,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 PostHog / posthog ⭐ 37,821 (+41) 🗒 Python  🦔 PostHog is…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtkiblfb7322</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtkiblfb7322</guid>
-      <pubDate>Fri, 21 Aug 2026 00:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 PostHog / posthog<br>⭐ 37,821 (+41)<br>🗒 Python<br><br>🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose prob...]]></description>
-      <content:encoded><![CDATA[📦 PostHog / posthog<br>⭐ 37,821 (+41)<br>🗒 Python<br><br>🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose prob...]]></content:encoded>
     </item>
   </channel>
 </rss>
