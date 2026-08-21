@@ -5,8 +5,82 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:21:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GitHubは8月17日に7時間47分の大規模障害を経験し、認証やGitHub Action…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtl2kouk5y2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtl2kouk5y2m</guid>
+      <pubDate>Fri, 21 Aug 2026 05:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GitHubは8月17日に7時間47分の大規模障害を経験し、認証やGitHub Actions、Copilotなど多数のサービスが影響を受けた。原因はコード変更ではなく容量不足によるスケーリング障害で、トラフィック急増に対応するためのリソース拡張と運用改善を進めてきたが、今回のインシデントで信頼性強化の加速が必要と認識した。今後は容量増強・効率化・アーキテクチャボトルネックの解消を優先し、Azure移行の拡大とリトライ制御の統一など再発防止策を実施していく。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GitHubは8月17日に7時間47分の大規模障害を経験し、認証やGitHub Actions、Copilotなど多数のサービスが影響を受けた。原因はコード変更ではなく容量不足によるスケーリング障害で、トラフィック急増に対応するためのリソース拡張と運用改善を進めてきたが、今回のインシデントで信頼性強化の加速が必要と認識した。今後は容量増強・効率化・アーキテクチャボトルネックの解消を優先し、Azure移行の拡大とリトライ制御の統一など再発防止策を実施していく。]]></content:encoded>
+    </item>
+    <item>
+      <title>8月17日の障害 The August 17 outage  🔺 427 💬 70 🔗 HN Post | Art…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtl2kiijse2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtl2kiijse2c</guid>
+      <pubDate>Fri, 21 Aug 2026 05:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[8月17日の障害<br>The August 17 outage<br><br>🔺 427<br>💬 70<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[8月17日の障害<br>The August 17 outage<br><br>🔺 427<br>💬 70<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I just merged 8 PRs without reading the code because ox alph…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qn34562v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qn34562v</guid>
+      <pubDate>Fri, 21 Aug 2026 05:17:44 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I just merged 8 PRs without reading the code because ox alpha said they were good to go]]></description>
+      <content:encoded><![CDATA[I just merged 8 PRs without reading the code because ox alpha said they were good to go]]></content:encoded>
+    </item>
+    <item>
+      <title>It&apos;s not good at design but it&apos;s surprisingly good at copy? …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qf6m2z2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qf6m2z2k</guid>
+      <pubDate>Fri, 21 Aug 2026 05:02:46 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[It's not good at design but it's surprisingly good at copy? wtf is this
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiawn3px4hs3iyzwiuy2rhi6utyvz5mckw7bzvvxrktgnrjvdrp5g4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[It's not good at design but it's surprisingly good at copy? wtf is this
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiawn3px4hs3iyzwiuy2rhi6utyvz5mckw7bzvvxrktgnrjvdrp5g4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiawn3px4hs3iyzwiuy2rhi6utyvz5mckw7bzvvxrktgnrjvdrp5g4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>This model is slaughtering all our internal benchmarks. What…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qasirh27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qasirh27</guid>
+      <pubDate>Fri, 21 Aug 2026 04:28:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This model is slaughtering all our internal benchmarks. What the actual fuck is it??]]></description>
+      <content:encoded><![CDATA[This model is slaughtering all our internal benchmarks. What the actual fuck is it??]]></content:encoded>
+    </item>
+    <item>
+      <title>“We have capacity for 100T tokens per day”  Okay who the fuc…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3q3jnss2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3q3jnss2w</guid>
+      <pubDate>Fri, 21 Aug 2026 03:58:25 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[“We have capacity for 100T tokens per day”<br><br>Okay who the fuck made this model and where did they get this much compute?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" alt="Quote Tweet: https://twitter.com/i/status/2090544355824038300" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[“We have capacity for 100T tokens per day”<br><br>Okay who the fuck made this model and where did they get this much compute?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" alt="Quote Tweet: https://twitter.com/i/status/2090544355824038300" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thankful for journalists like Lunduke that report on pressin…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3prhqkz2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3prhqkz2k</guid>
+      <pubDate>Fri, 21 Aug 2026 03:52:40 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Thankful for journalists like Lunduke that report on pressing issues like Linux dropping support for a 37 year old CPU. Accountability matters!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidh7l2mrjycoacghpxfe6vmpbfdqsehu6calnig42pd4zzxbjgjtm" alt="Quote Tweet: https://twitter.com/i/status/2090123048921796890" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Thankful for journalists like Lunduke that report on pressing issues like Linux dropping support for a 37 year old CPU. Accountability matters!
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidh7l2mrjycoacghpxfe6vmpbfdqsehu6calnig42pd4zzxbjgjtm" alt="Quote Tweet: https://twitter.com/i/status/2090123048921796890" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   Rust crates.ioで配布された arrayref 0.3.10 が、proc-ma…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkttzpx7b25</link>
@@ -407,69 +481,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[generator and clear setup/install guidance. (2/2)]]></description>
       <content:encoded><![CDATA[generator and clear setup/install guidance. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Timeline Visualizer lets you turn Google Timel…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnheqvqx2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnheqvqx2t</guid>
-      <pubDate>Thu, 20 Aug 2026 16:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Timeline Visualizer lets you turn Google Timeline JSON files into animated MP4 travel videos on Android or via a web iPhone app, with configurable dates, camera movement, and export options, while preserving privacy (no sign-in or data upload). It also provides a desktop Python (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Timeline Visualizer lets you turn Google Timeline JSON files into animated MP4 travel videos on Android or via a web iPhone app, with configurable dates, camera movement, and export options, while preserving privacy (no sign-in or data upload). It also provides a desktop Python (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 mahlernim / google-t…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhc3bkj2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjnhc3bkj2w</guid>
-      <pubDate>Thu, 20 Aug 2026 16:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mahlernim / google-timeline-visualizer<br>⭐ 955 (+575)<br>🗒 Kotlin<br><br>Visualize your year in travel using your Google Location History (Timeline) data]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mahlernim / google-timeline-visualizer<br>⭐ 955 (+575)<br>🗒 Kotlin<br><br>Visualize your year in travel using your Google Location History (Timeline) data]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjln2pkjv27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjln2pkjv27</guid>
-      <pubDate>Thu, 20 Aug 2026 15:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を行い、最終的にゼロゲインの経路でシステム音声へ接続することで、Bluetoothのマルチポイント接続を崩さず音声再生を止めてしまう現象を引き起こしていた。これは通常のオーディオ要素はなく、監視用の指紋採取やデバイス情報収集の一部として機能している可能性が高い。対策として、該当スクリプト collina.js と fireyejs.js を uBlock Origin でブロックすることで問題を回避できる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AliExpressのトップページが、隠れたWeb Audioグラフを二つ作成して音声処理を行い、最終的にゼロゲインの経路でシステム音声へ接続することで、Bluetoothのマルチポイント接続を崩さず音声再生を止めてしまう現象を引き起こしていた。これは通常のオーディオ要素はなく、監視用の指紋採取やデバイス情報収集の一部として機能している可能性が高い。対策として、該当スクリプト collina.js と fireyejs.js を uBlock Origin でブロックすることで問題を回避できる。]]></content:encoded>
-    </item>
-    <item>
-      <title>アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjlmrsxol2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjlmrsxol2l</guid>
-      <pubDate>Thu, 20 Aug 2026 15:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを実行している。<br>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint<br><br>🔺 457<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[アリエクスプレスは、Bluetoothマルチポイント機能を壊す静かなWeb Audio APIによるフィンガープリントを実行している。<br>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint<br><br>🔺 457<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>input paths (Logi Bolt, Unifying, Bluetooth, wired) and incl…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43fe6d2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43fe6d2v</guid>
-      <pubDate>Thu, 20 Aug 2026 15:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[input paths (Logi Bolt, Unifying, Bluetooth, wired) and includes camera controls for Logitech UVC webcams. (2/2)]]></description>
-      <content:encoded><![CDATA[input paths (Logi Bolt, Unifying, Bluetooth, wired) and includes camera controls for Logitech UVC webcams. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OpenLogi is a native, Rust-based, cross-platfo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43e33x2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk43e33x2j</guid>
-      <pubDate>Thu, 20 Aug 2026 15:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OpenLogi is a native, Rust-based, cross-platform replacement for Logitech Options+ that runs on macOS, Linux, and Windows, offering per-device remapping, per-application overlays, gesture support on any button, a plain TOML config, and a CLI alongside the GUI. It supports various (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OpenLogi is a native, Rust-based, cross-platform replacement for Logitech Options+ that runs on macOS, Linux, and Windows, offering per-device remapping, per-application overlays, gesture support on any button, a plain TOML config, and a CLI alongside the GUI. It supports various (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 AprilNEA / OpenLogi …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk3yehcu2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjk3yehcu2h</guid>
-      <pubDate>Thu, 20 Aug 2026 15:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 AprilNEA / OpenLogi<br>⭐ 11,093 (+1,225)<br>🗒 Rust<br><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 AprilNEA / OpenLogi<br>⭐ 11,093 (+1,225)<br>🗒 Rust<br><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.]]></content:encoded>
     </item>
   </channel>
 </rss>
