@@ -5,8 +5,29 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:10:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hey @verge, what’s going on here? I’m a paid sub and I’m get…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmsztxbfh2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmsztxbfh2x</guid>
+      <pubDate>Fri, 21 Aug 2026 22:17:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Hey @verge, what’s going on here? I’m a paid sub and I’m getting this broken view every time I open an article
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifrbe2tdx5bbhufv6efekgcx42vj76yg3eea4wyzv3d37b2kmqtqq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Hey @verge, what’s going on here? I’m a paid sub and I’m getting this broken view every time I open an article
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifrbe2tdx5bbhufv6efekgcx42vj76yg3eea4wyzv3d37b2kmqtqq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifrbe2tdx5bbhufv6efekgcx42vj76yg3eea4wyzv3d37b2kmqtqq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 microsoft / TypeScript ⭐ 110,369 (+65) 🗒 Go  TypeScript …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtms2dfolj2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtms2dfolj2m</guid>
+      <pubDate>Fri, 21 Aug 2026 22:17:29 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 microsoft / TypeScript<br>⭐ 110,369 (+65)<br>🗒 Go<br><br>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.]]></description>
+      <content:encoded><![CDATA[📦 microsoft / TypeScript<br>⭐ 110,369 (+65)<br>🗒 Go<br><br>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.]]></content:encoded>
+    </item>
     <item>
       <title>ファイルは最大 64 MiB までなどの制限がある。 - 画像トークンはサイズに基づいて計算され、推論前にリサイズされる…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmq7emprn2k</link>
@@ -33,6 +54,15 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[DeepSeek-v4 フラッシュ・ビジョン実験<br>DeepSeek-v4-flash-vision-exp<br><br>🔺 425<br>💬 28<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[DeepSeek-v4 フラッシュ・ビジョン実験<br>DeepSeek-v4-flash-vision-exp<br><br>🔺 425<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>“Wow Theo is so hypocritical, he was just complaining about …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmszlttat2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmszlttat2o</guid>
+      <pubDate>Fri, 21 Aug 2026 21:30:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[“Wow Theo is so hypocritical, he was just complaining about bad feedback”<br><br>Where did I imply I was trying to give feedback to Plex? That ship sailed long ago.]]></description>
+      <content:encoded><![CDATA[“Wow Theo is so hypocritical, he was just complaining about bad feedback”<br><br>Where did I imply I was trying to give feedback to Plex? That ship sailed long ago.]]></content:encoded>
     </item>
     <item>
       <title>📢  GPT-5.6 Sol has a new lower price + 50% until Sept 3rd!</title>
@@ -452,41 +482,6 @@
       <content:encoded><![CDATA[It's not good at design but it's surprisingly good at copy? wtf is this
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiawn3px4hs3iyzwiuy2rhi6utyvz5mckw7bzvvxrktgnrjvdrp5g4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiawn3px4hs3iyzwiuy2rhi6utyvz5mckw7bzvvxrktgnrjvdrp5g4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>This model is slaughtering all our internal benchmarks. What…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qasirh27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3qasirh27</guid>
-      <pubDate>Fri, 21 Aug 2026 04:28:30 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This model is slaughtering all our internal benchmarks. What the actual fuck is it??]]></description>
-      <content:encoded><![CDATA[This model is slaughtering all our internal benchmarks. What the actual fuck is it??]]></content:encoded>
-    </item>
-    <item>
-      <title>“We have capacity for 100T tokens per day”  Okay who the fuc…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3q3jnss2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3q3jnss2w</guid>
-      <pubDate>Fri, 21 Aug 2026 03:58:25 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[“We have capacity for 100T tokens per day”<br><br>Okay who the fuck made this model and where did they get this much compute?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" alt="Quote Tweet: https://twitter.com/i/status/2090544355824038300" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[“We have capacity for 100T tokens per day”<br><br>Okay who the fuck made this model and where did they get this much compute?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" alt="Quote Tweet: https://twitter.com/i/status/2090544355824038300" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai7ux64fvnyopimvtnmdywdv45szt3247oazy5tlcf3o3tatsguy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Thankful for journalists like Lunduke that report on pressin…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3prhqkz2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtl3prhqkz2k</guid>
-      <pubDate>Fri, 21 Aug 2026 03:52:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Thankful for journalists like Lunduke that report on pressing issues like Linux dropping support for a 37 year old CPU. Accountability matters!
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidh7l2mrjycoacghpxfe6vmpbfdqsehu6calnig42pd4zzxbjgjtm" alt="Quote Tweet: https://twitter.com/i/status/2090123048921796890" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Thankful for journalists like Lunduke that report on pressing issues like Linux dropping support for a 37 year old CPU. Accountability matters!
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidh7l2mrjycoacghpxfe6vmpbfdqsehu6calnig42pd4zzxbjgjtm" alt="Quote Tweet: https://twitter.com/i/status/2090123048921796890" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7b7h4dqxvql2jgqv6reo7bvf6llkyoqeqikypn6gmqd5xiqiq2a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
