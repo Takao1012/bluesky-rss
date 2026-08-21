@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:10:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   オハイオ州のグランド juryは、Flockの自動ナンバープレート読取カメラを破壊した疑いの…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmjj3zshh25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmjj3zshh25</guid>
+      <pubDate>Fri, 21 Aug 2026 19:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>オハイオ州のグランド juryは、Flockの自動ナンバープレート読取カメラを破壊した疑いの男性を起訴しませんでした。カメラの破損は1,000ドル以上の損害とされ、逮捕後に拘束されていたが正式には不起訴となりました。Flockのカメラを巡る反発は高まっており、警察の乱用疑惑やデータ利用の懸念を背景に、同社は対策を発表しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>オハイオ州のグランド juryは、Flockの自動ナンバープレート読取カメラを破壊した疑いの男性を起訴しませんでした。カメラの破損は1,000ドル以上の損害とされ、逮捕後に拘束されていたが正式には不起訴となりました。Flockのカメラを巡る反発は高まっており、警察の乱用疑惑やデータ利用の懸念を背景に、同社は対策を発表しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>大陪審は、Flock社のカメラを破壊したとして起訴されたオハイオ州の男性に対する起訴を見送った。 Grand jury …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmjiuuvem2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmjiuuvem2u</guid>
+      <pubDate>Fri, 21 Aug 2026 19:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[大陪審は、Flock社のカメラを破壊したとして起訴されたオハイオ州の男性に対する起訴を見送った。<br>Grand jury declines to indict Ohio man charged with destroying Flock camera<br><br>🔺 577<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[大陪審は、Flock社のカメラを破壊したとして起訴されたオハイオ州の男性に対する起訴を見送った。<br>Grand jury declines to indict Ohio man charged with destroying Flock camera<br><br>🔺 577<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   2026年8月21日の投稿では、株式関連の新機能を強化した Stocks ウィジェットに加え…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmcskbcdo2b</link>
@@ -466,27 +484,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></description>
       <content:encoded><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></content:encoded>
-    </item>
-    <item>
-      <title>You can kind of abuse this with Codex. I had a long running …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkp4twepv2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkp4twepv2v</guid>
-      <pubDate>Fri, 21 Aug 2026 02:04:27 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[You can kind of abuse this with Codex. I had a long running goal that did at least $800 of tokens after I hit 0% remaining
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" alt="Quote Tweet: https://twitter.com/i/status/2090217172739973318" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[You can kind of abuse this with Codex. I had a long running goal that did at least $800 of tokens after I hit 0% remaining
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" alt="Quote Tweet: https://twitter.com/i/status/2090217172739973318" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリR…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5keqsz2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5keqsz2k</guid>
-      <pubDate>Fri, 21 Aug 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></content:encoded>
     </item>
   </channel>
 </rss>
