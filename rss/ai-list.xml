@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:38:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>@LundukeJournal I&apos;m pretty sure you&apos;ll dig this</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqscyf7i2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqscyf7i2y</guid>
+      <pubDate>Fri, 21 Aug 2026 02:37:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[@LundukeJournal I'm pretty sure you'll dig this]]></description>
+      <content:encoded><![CDATA[@LundukeJournal I'm pretty sure you'll dig this]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve seen a handful of people concerned about Rust&apos;s growing…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqs5on3d25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkqs5on3d25</guid>
+      <pubDate>Fri, 21 Aug 2026 02:37:07 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></description>
+      <content:encoded><![CDATA[I've seen a handful of people concerned about Rust's growing popularity. I think I found a solution.<br><br>There's a project that will automatically convert all Rust code for you, all without AI :)<br><br>It's called "rustc", and it transforms Rust to machine code]]></content:encoded>
+    </item>
+    <item>
+      <title>You can kind of abuse this with Codex. I had a long running …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkp4twepv2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtkp4twepv2v</guid>
+      <pubDate>Fri, 21 Aug 2026 02:04:27 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[You can kind of abuse this with Codex. I had a long running goal that did at least $800 of tokens after I hit 0% remaining
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" alt="Quote Tweet: https://twitter.com/i/status/2090217172739973318" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[You can kind of abuse this with Codex. I had a long running goal that did at least $800 of tokens after I hit 0% remaining
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" alt="Quote Tweet: https://twitter.com/i/status/2090217172739973318" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieg4udbapdrdbyv3slgtjdfvoimlfnpb4vss2zsipjvuwaf4cvvbu" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリR…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5keqsz2k</link>
@@ -440,33 +470,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Modular Platform is an open-source ecosystem for AI development and deployment, covering Mojo language, MAX framework/libs, and model deployment tools, with guides, docs, and contribution paths. It invites community involvement, outlines license terms, and provides channels for (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Modular Platform is an open-source ecosystem for AI development and deployment, covering Mojo language, MAX framework/libs, and model deployment tools, with guides, docs, and contribution paths. It invites community involvement, outlines license terms, and provides channels for (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 modular / modular ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjgqojrxv2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtjgqojrxv2j</guid>
-      <pubDate>Thu, 20 Aug 2026 14:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 modular / modular<br>⭐ 27,511 (+340)<br>🗒 Mojo<br><br>The Modular Platform (includes MAX &amp; Mojo)]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 modular / modular<br>⭐ 27,511 (+340)<br>🗒 Mojo<br><br>The Modular Platform (includes MAX &amp; Mojo)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   政府が全員の性指向を記録するデータベースを作る可能性と、それが悪用されて市民に被害が及ぶ危険…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjewgubt62m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjewgubt62m</guid>
-      <pubDate>Thu, 20 Aug 2026 13:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>政府が全員の性指向を記録するデータベースを作る可能性と、それが悪用されて市民に被害が及ぶ危険性を警鐘。監視社会の拡大が政府転覆時に悪用され得る点を指摘し、シビック・ハイジーン（公民の健全性）は「現政権を信じること」ではなく「次の政権にも悪用されにくい仕組みを作ること」だと訴えている。政治的データの過度な蓄積とそのリスクについて警告する内容。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>政府が全員の性指向を記録するデータベースを作る可能性と、それが悪用されて市民に被害が及ぶ危険性を警鐘。監視社会の拡大が政府転覆時に悪用され得る点を指摘し、シビック・ハイジーン（公民の健全性）は「現政権を信じること」ではなく「次の政権にも悪用されにくい仕組みを作ること」だと訴えている。政治的データの過度な蓄積とそのリスクについて警告する内容。]]></content:encoded>
-    </item>
-    <item>
-      <title>市民衛生 — 警察国家に利用され得る技術の開発を避ける（2013） Civic Hygiene – avoid buil…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjewa4tu52l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtjewa4tu52l</guid>
-      <pubDate>Thu, 20 Aug 2026 13:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[市民衛生 — 警察国家に利用され得る技術の開発を避ける（2013）<br>Civic Hygiene – avoid building technologies that could be used by a police state (2013)<br><br>🔺 441<br>💬 58<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[市民衛生 — 警察国家に利用され得る技術の開発を避ける（2013）<br>Civic Hygiene – avoid building technologies that could be used by a police state (2013)<br><br>🔺 441<br>💬 58<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
