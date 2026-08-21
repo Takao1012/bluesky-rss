@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:17:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   2026年8月21日の投稿では、株式関連の新機能を強化した Stocks ウィジェットに加え…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmcskbcdo2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmcskbcdo2b</guid>
+      <pubDate>Fri, 21 Aug 2026 17:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>2026年8月21日の投稿では、株式関連の新機能を強化した Stocks ウィジェットに加え、支払い済みリンク除去設定やKagi Assistant の機能強化、検索体験の改善が発表されています。また、7月30日には iOS/Android向け公式アプリの提供開始と、アシスタントのエクスポート機能や設定の拡充、検索のAI機能のオフ切替オプションなどが案内されています。さらに、過去の更新では Orion ブラウザの新機能や、翻訳・ニュース機能の料金体系変更も言及されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>2026年8月21日の投稿では、株式関連の新機能を強化した Stocks ウィジェットに加え、支払い済みリンク除去設定やKagi Assistant の機能強化、検索体験の改善が発表されています。また、7月30日には iOS/Android向け公式アプリの提供開始と、アシスタントのエクスポート機能や設定の拡充、検索のAI機能のオフ切替オプションなどが案内されています。さらに、過去の更新では Orion ブラウザの新機能や、翻訳・ニュース機能の料金体系変更も言及されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Kagiは検索結果から有料記事へのリンクを除外する設定を追加しました。 Kagi added a setting for…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmcsbf7ir2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtmcsbf7ir2m</guid>
+      <pubDate>Fri, 21 Aug 2026 17:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Kagiは検索結果から有料記事へのリンクを除外する設定を追加しました。<br>Kagi added a setting for removing paywalled links from search results<br><br>🔺 659<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Kagiは検索結果から有料記事へのリンクを除外する設定を追加しました。<br>Kagi added a setting for removing paywalled links from search results<br><br>🔺 659<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Cod…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtm6jsejl32r</link>
@@ -469,24 +487,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>125Mパラメータのトランスフォーマーを使い、リアルタイムにピアノ演奏を自動補完するアプリRollTabを開発。 MIDI表現を工夫し、データ洗浄とDPO後学習で性能を大きく向上させ、iPhoneで約108 notes/秒の速度を実現。データ整備・表現設計・評価手法が成功の決め手で、現状は完璧ではないが実用レベルに達した。]]></content:encoded>
-    </item>
-    <item>
-      <title>Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました Show HN: I tra…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5e3dkp2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtkn5e3dkp2u</guid>
-      <pubDate>Fri, 21 Aug 2026 01:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました<br>Show HN: I trained a 125M model to autocomplete piano on-device<br><br>🔺 503<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Show HN: ピアノのオンデバイス自動補完用に125Mパラメータのモデルを訓練しました<br>Show HN: I trained a 125M model to autocomplete piano on-device<br><br>🔺 503<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtkmaqi5br2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtkmaqi5br2k</guid>
-      <pubDate>Fri, 21 Aug 2026 01:28:23 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
