@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:22:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>You know the analytics are good when @posthog likes them</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtle3423hw2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtle3423hw2v</guid>
+      <pubDate>Fri, 21 Aug 2026 08:21:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[You know the analytics are good when @posthog likes them
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreider65wucgdjnyoqtf6ies6n3whq35gyaayb7unxy7oskjybnnq74" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[You know the analytics are good when @posthog likes them
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreider65wucgdjnyoqtf6ies6n3whq35gyaayb7unxy7oskjybnnq74" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreider65wucgdjnyoqtf6ies6n3whq35gyaayb7unxy7oskjybnnq74" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>CIAの資金提供が80年代にNeXTを生き延びさせた。 CIA funding helped keep NeXT afl…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtlbba7rep2m</link>
@@ -480,15 +492,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>turbovec is a Rust/Python vector index implementing Google's TurboQuant-based online quantization for fast, memory-efficient high-dimensional similarity search with no training phase, enabling incremental ingestion, SIMD-powered search, and optional result filtering—all running (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>turbovec is a Rust/Python vector index implementing Google's TurboQuant-based online quantization for fast, memory-efficient high-dimensional similarity search with no training phase, enabling incremental ingestion, SIMD-powered search, and optional result filtering—all running (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 RyanCodrai / turbove…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5sp4ow2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtju5sp4ow2t</guid>
-      <pubDate>Thu, 20 Aug 2026 18:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 RyanCodrai / turbovec<br>⭐ 15,764 (+736)<br>🗒 Rust<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 RyanCodrai / turbovec<br>⭐ 15,764 (+736)<br>🗒 Rust<br><br>A vector index built on TurboQuant, written in Rust with Python bindings]]></content:encoded>
     </item>
   </channel>
 </rss>
