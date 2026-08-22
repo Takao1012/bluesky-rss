@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:07:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Claude の前回の返答を翻訳する標準的なワークフローを提供。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpaoedx5u2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpaoedx5u2t</guid>
+      <pubDate>Sat, 22 Aug 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Claude の前回の返答を翻訳する標準的なワークフローを提供。 (2/2)]]></description>
+      <content:encoded><![CDATA[Claude の前回の返答を翻訳する標準的なワークフローを提供。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - アンソロフィックの claude を「Claudette」という翻訳デベロッパーツールを…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpaoeaao323</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpaoeaao323</guid>
+      <pubDate>Sat, 22 Aug 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- アンソロフィックの claude を「Claudette」という翻訳デベロッパーツールを使い、Claude の出力を人間の語り口に正確に翻訳する仕組みを紹介。Antigravity CLI を介して Gemini に翻訳を任せ、元の声を保持する方針。<br>- 目的は、Claudette が「話し方を整える」ことで、テック系の過剰な説明癖や声の癖を排除し、実用的な英語に変換すること。翻訳は元の出力をそのまま出力する前提。<br>- 使い方は、クローン・技能配置、agy のインストール、モード選択（colleague/manager/director）と、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- アンソロフィックの claude を「Claudette」という翻訳デベロッパーツールを使い、Claude の出力を人間の語り口に正確に翻訳する仕組みを紹介。Antigravity CLI を介して Gemini に翻訳を任せ、元の声を保持する方針。<br>- 目的は、Claudette が「話し方を整える」ことで、テック系の過剰な説明癖や声の癖を排除し、実用的な英語に変換すること。翻訳は元の出力をそのまま出力する前提。<br>- 使い方は、クローン・技能配置、agy のインストール、モード選択（colleague/manager/director）と、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>クラウデット: クロードがBuzzFeedの記事のように話すのをやめさせて。 Claudette: Make Claud…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpao5akhl23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpao5akhl23</guid>
+      <pubDate>Sat, 22 Aug 2026 21:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[クラウデット: クロードがBuzzFeedの記事のように話すのをやめさせて。<br>Claudette: Make Claude stop talking like a BuzzFeed article<br><br>🔺 342<br>💬 67<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[クラウデット: クロードがBuzzFeedの記事のように話すのをやめさせて。<br>Claudette: Make Claude stop talking like a BuzzFeed article<br><br>🔺 342<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   著者は、端末やCLI/TUIへのこだわりを再考し、ネイティブUIの可能性を強く推す。自分が手…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtozxrnzpw25</link>
@@ -429,33 +456,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 TryGhost / Ghost<br>⭐ 54,861 (+32)<br>🗒 JavaScript<br><br>Independent technology for modern publishing, memberships, subscriptions and newsletters.]]></description>
       <content:encoded><![CDATA[📦 TryGhost / Ghost<br>⭐ 54,861 (+32)<br>🗒 JavaScript<br><br>Independent technology for modern publishing, memberships, subscriptions and newsletters.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecxtciy2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecxtciy2b</guid>
-      <pubDate>Sat, 22 Aug 2026 03:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.2.e164.arpa、6.4.2.e164.arpa、7.4.2.e164.arpaを乗っ取り、軍事基地への通話を中継可能な状態にしていたが、最初は放置されていた。後にNCSCに通報して対応が進み、実際には多くの通話番号とリクエストが記録されていたことが判明、国家的関心を引く事態に発展した。最終的にゾーンの管理権をNCSCへ移管し、事案は落ち着いた。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.2.e164.arpa、6.4.2.e164.arpa、7.4.2.e164.arpaを乗っ取り、軍事基地への通話を中継可能な状態にしていたが、最初は放置されていた。後にNCSCに通報して対応が進み、実際には多くの通話番号とリクエストが記録されていたことが判明、国家的関心を引く事態に発展した。最終的にゾーンの管理権をNCSCへ移管し、事案は落ち着いた。]]></content:encoded>
-    </item>
-    <item>
-      <title>誤って、軍事基地宛ての電話を数十万件も記録してしまいました。 I accidentally logged hundred…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecrnibp26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecrnibp26</guid>
-      <pubDate>Sat, 22 Aug 2026 03:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[誤って、軍事基地宛ての電話を数十万件も記録してしまいました。<br>I accidentally logged hundreds of thousands of phone calls to military bases<br><br>🔺 471<br>💬 21<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[誤って、軍事基地宛ての電話を数十万件も記録してしまいました。<br>I accidentally logged hundreds of thousands of phone calls to military bases<br><br>🔺 471<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ruvnet / ruflo ⭐ 68,621…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtncs6rf3q25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtncs6rf3q25</guid>
-      <pubDate>Sat, 22 Aug 2026 03:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / ruflo<br>⭐ 68,621 (+140)<br>🗒 TypeScript<br><br>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG int...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / ruflo<br>⭐ 68,621 (+140)<br>🗒 TypeScript<br><br>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG int...]]></content:encoded>
     </item>
   </channel>
 </rss>
