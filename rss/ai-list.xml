@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:10:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Rust Glancerは、低メモリ使用を重視したRust LSP実装の代替で、合理的な規模…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtotazeehw25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtotazeehw25</guid>
+      <pubDate>Sat, 22 Aug 2026 17:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Rust Glancerは、低メモリ使用を重視したRust LSP実装の代替で、合理的な規模のプロジェクトで<100MB程度のRAMを目標に動作し、再起動後の即時インデックス再利用を特徴としています。Rust-analyzerと比較してメモリ消費を抑える設計で、全インデックス作成後にファイルシステムに分析結果を保存・再利用する「凍結分析」方式を採用している点が最大の違いです。現在は未完成だが、型推論やトレイト解決（Chalk）を備え、GOTO定義・ホバー・補完などの多くの通常的なLSP機能を提供し、旧機種でも実用可能な性能を目指しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Rust Glancerは、低メモリ使用を重視したRust LSP実装の代替で、合理的な規模のプロジェクトで<100MB程度のRAMを目標に動作し、再起動後の即時インデックス再利用を特徴としています。Rust-analyzerと比較してメモリ消費を抑える設計で、全インデックス作成後にファイルシステムに分析結果を保存・再利用する「凍結分析」方式を採用している点が最大の違いです。現在は未完成だが、型推論やトレイト解決（Chalk）を備え、GOTO定義・ホバー・補完などの多くの通常的なLSP機能を提供し、旧機種でも実用可能な性能を目指しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Rust Glancer: RAMを100分の1に抑えたRust LSP Rust Glancer: Rust LSP …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtotau5oc62u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtotau5oc62u</guid>
+      <pubDate>Sat, 22 Aug 2026 17:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Rust Glancer: RAMを100分の1に抑えたRust LSP<br>Rust Glancer: Rust LSP using 100x less RAM<br><br>🔺 365<br>💬 18<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Rust Glancer: RAMを100分の1に抑えたRust LSP<br>Rust Glancer: Rust LSP using 100x less RAM<br><br>🔺 365<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 n8n-io / n8n ⭐ 201,616 …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtorqcyiy522</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtorqcyiy522</guid>
+      <pubDate>Sat, 22 Aug 2026 17:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 n8n-io / n8n<br>⭐ 201,616 (+193)<br>🗒 TypeScript<br><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 n8n-io / n8n<br>⭐ 201,616 (+193)<br>🗒 TypeScript<br><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]]></content:encoded>
+    </item>
     <item>
       <title>📝 Summary:   Codex CLI is OpenAI’s local coding agent with …</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoof6ulib22</link>
@@ -432,33 +459,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[米国の国境で携帯電話のデータを削除した市民に対する重罪の起訴<br>Felony charges for citizen deleting phone data at US Border<br><br>🔺 475<br>💬 57<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[米国の国境で携帯電話のデータを削除した市民に対する重罪の起訴<br>Felony charges for citizen deleting phone data at US Border<br><br>🔺 475<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I won’t lie I’m pretty bummed about this. Hopefully won’t ha…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmwej2mkx2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtmwej2mkx2o</guid>
-      <pubDate>Fri, 21 Aug 2026 23:25:55 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I won’t lie I’m pretty bummed about this. Hopefully won’t have to spend long in the cast. Might have to do another surgery for my thumb if it doesn’t go well though 🙃]]></description>
-      <content:encoded><![CDATA[I won’t lie I’m pretty bummed about this. Hopefully won’t have to spend long in the cast. Might have to do another surgery for my thumb if it doesn’t go well though 🙃]]></content:encoded>
-    </item>
-    <item>
-      <title>cross-harness adapters, memory vaults, and a guided setup (c…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtmvf7splf2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtmvf7splf2h</guid>
-      <pubDate>Fri, 21 Aug 2026 23:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[cross-harness adapters, memory vaults, and a guided setup (coming in 2.2), plus security, memory sharing, and platform support details. (2/2)]]></description>
-      <content:encoded><![CDATA[cross-harness adapters, memory vaults, and a guided setup (coming in 2.2), plus security, memory sharing, and platform support details. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   ECC is an open-source agent-harness system tha…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtmvf7rgo62a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtmvf7rgo62a</guid>
-      <pubDate>Fri, 21 Aug 2026 23:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>ECC is an open-source agent-harness system that provides a planning, testing, review, memory, and security toolkit (68 agents, 286 skills, 94 commands) to orchestrate complex development workflows across Claude Code, Codex, and other harnesses. It offers modular install paths, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an open-source agent-harness system that provides a planning, testing, review, memory, and security toolkit (68 agents, 286 skills, 94 commands) to orchestrate complex development workflows across Claude Code, Codex, and other harnesses. It offers modular install paths, (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
