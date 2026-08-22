@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 19:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:08:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   著者は、端末やCLI/TUIへのこだわりを再考し、ネイティブUIの可能性を強く推す。自分が手…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtozxrnzpw25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtozxrnzpw25</guid>
+      <pubDate>Sat, 22 Aug 2026 19:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>著者は、端末やCLI/TUIへのこだわりを再考し、ネイティブUIの可能性を強く推す。自分が手掛けた複数のネイティブUIプロジェクト（例: MDV、SageMath連携の電卓風フロントエンド、LLM搭載のDJ Roombaなど）を挙げつつ、ネイティブUIが現代において作業効率と体験を著しく向上させる一方で、TUIsは目的を問わず推奨されるべきではないと論じている。結論として、ソフトウェア開発者は自分の領域を再評価し、ネイティブUIの構築へシフトすべきだと説く。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>著者は、端末やCLI/TUIへのこだわりを再考し、ネイティブUIの可能性を強く推す。自分が手掛けた複数のネイティブUIプロジェクト（例: MDV、SageMath連携の電卓風フロントエンド、LLM搭載のDJ Roombaなど）を挙げつつ、ネイティブUIが現代において作業効率と体験を著しく向上させる一方で、TUIsは目的を問わず推奨されるべきではないと論じている。結論として、ソフトウェア開発者は自分の領域を再評価し、ネイティブUIの構築へシフトすべきだと説く。]]></content:encoded>
+    </item>
+    <item>
+      <title>テキストユーザーインターフェースを作るのをやめろ。 Stop Making TUIs  🔺 356 💬 156 🔗…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtozxlhp2g2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtozxlhp2g2i</guid>
+      <pubDate>Sat, 22 Aug 2026 19:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[テキストユーザーインターフェースを作るのをやめろ。<br>Stop Making TUIs<br><br>🔺 356<br>💬 156<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[テキストユーザーインターフェースを作るのをやめろ。<br>Stop Making TUIs<br><br>🔺 356<br>💬 156<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>emphasizes true free tiers (not just trials) and ongoing ava…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwzt4n2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwzt4n2m</guid>
+      <pubDate>Sat, 22 Aug 2026 19:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[emphasizes true free tiers (not just trials) and ongoing availability, plus guidance on adding or removing services via PRs. (2/2)]]></description>
+      <content:encoded><![CDATA[emphasizes true free tiers (not just trials) and ongoing availability, plus guidance on adding or removing services via PRs. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Free-for-.dev is a community-curated Awesome L…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwyky72d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwyky72d</guid>
+      <pubDate>Sat, 22 Aug 2026 19:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Free-for-.dev is a community-curated Awesome List of open-as-a-service options offering free developer tiers across cloud, APIs, databases, CI/CD, monitoring, and more—targeted at infrastructure developers, with contributions from thousands of open-source-minded peers. It (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Free-for-.dev is a community-curated Awesome List of open-as-a-service options offering free developer tiers across cloud, APIs, databases, CI/CD, monitoring, and more—targeted at infrastructure developers, with contributions from thousands of open-source-minded peers. It (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 ripienaar / free-for…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygsxrtb2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygsxrtb2a</guid>
+      <pubDate>Sat, 22 Aug 2026 19:17:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 ripienaar / free-for-dev<br>⭐ 133,655 (+915)<br>🗒 HTML<br><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 ripienaar / free-for-dev<br>⭐ 133,655 (+915)<br>🗒 HTML<br><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev]]></content:encoded>
+    </item>
     <item>
       <title>alignment with Cursor. It emphasizes avoiding assumptions, m…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtov3xqbuu24</link>
@@ -411,54 +456,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / ruflo<br>⭐ 68,621 (+140)<br>🗒 TypeScript<br><br>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG int...]]></description>
       <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ruvnet / ruflo<br>⭐ 68,621 (+140)<br>🗒 TypeScript<br><br>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG int...]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 microsoft / onnxruntime ⭐ 21,420 (+5) 🗒 C++  ONNX Runtim…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtn7h2fyda2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtn7h2fyda2m</guid>
-      <pubDate>Sat, 22 Aug 2026 02:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 microsoft / onnxruntime<br>⭐ 21,420 (+5)<br>🗒 C++<br><br>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator]]></description>
-      <content:encoded><![CDATA[📦 microsoft / onnxruntime<br>⭐ 21,420 (+5)<br>🗒 C++<br><br>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   企業の違法行為を示すスコアと具体的な事件の一覧。スコアは各社の違法行為の件数を示し、例として…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtn5mh5zas2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtn5mh5zas2t</guid>
-      <pubDate>Sat, 22 Aug 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>企業の違法行為を示すスコアと具体的な事件の一覧。スコアは各社の違法行為の件数を示し、例としてOpenAIやAnthropicの複数の内部アカウント侵害やGitHub資格情報の不正使用などが挙げられている。測定方法として、サンドボックス脱出や故意の悪用はカウント対象外とする。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>企業の違法行為を示すスコアと具体的な事件の一覧。スコアは各社の違法行為の件数を示し、例としてOpenAIやAnthropicの複数の内部アカウント侵害やGitHub資格情報の不正使用などが挙げられている。測定方法として、サンドボックス脱出や故意の悪用はカウント対象外とする。]]></content:encoded>
-    </item>
-    <item>
-      <title>重罪の法廷 Felony Bench  🔺 523 💬 34 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtn5mc4he52u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtn5mc4he52u</guid>
-      <pubDate>Sat, 22 Aug 2026 01:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[重罪の法廷<br>Felony Bench<br><br>🔺 523<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[重罪の法廷<br>Felony Bench<br><br>🔺 523<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 apache / maka ⭐ 1,995 (…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtn43qaaod2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtn43qaaod2l</guid>
-      <pubDate>Sat, 22 Aug 2026 01:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 apache / maka<br>⭐ 1,995 (+141)<br>🗒 TypeScript<br><br>Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 apache / maka<br>⭐ 1,995 (+141)<br>🗒 TypeScript<br><br>Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.]]></content:encoded>
-    </item>
-    <item>
-      <title>Wow I can’t believe Claude is copying T3 Code</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtn2l5xkft2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtn2l5xkft2v</guid>
-      <pubDate>Sat, 22 Aug 2026 00:36:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Wow I can’t believe Claude is copying T3 Code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhlc2wfbim4c5niqgbb3imu4tdxdwe6zw7iothtqmbwmema4nb4q" alt="Quote Tweet: https://twitter.com/i/status/2090933157243863142" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Wow I can’t believe Claude is copying T3 Code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhlc2wfbim4c5niqgbb3imu4tdxdwe6zw7iothtqmbwmema4nb4q" alt="Quote Tweet: https://twitter.com/i/status/2090933157243863142" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidhlc2wfbim4c5niqgbb3imu4tdxdwe6zw7iothtqmbwmema4nb4q" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
