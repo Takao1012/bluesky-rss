@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:15:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ  🔖 152 ブックマーク…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtngrb74vn2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtngrb74vn2v</guid>
+      <pubDate>Sat, 22 Aug 2026 04:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📦 TryGhost / Ghost ⭐ 54,861 (+32) 🗒 JavaScript  Independen…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtng5vev752h</link>
@@ -462,15 +471,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに、回答の拒絶反応を排除したアンセンサード版の提供を目的としています。<br>直接的な回答を行うAggressive設定を適用し、FastMTPによって推論やドキュメント生成の高速化を実現しています。<br>元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持されており、GGUF形式で配布されています。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに、回答の拒絶反応を排除したアンセンサード版の提供を目的としています。<br>直接的な回答を行うAggressive設定を適用し、FastMTPによって推論やドキュメント生成の高速化を実現しています。<br>元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持されており、GGUF形式で配布されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkeimstp2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkeimstp2m</guid>
-      <pubDate>Fri, 21 Aug 2026 10:27:21 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容を追記して再度ご依頼ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容を追記して再度ご依頼ください。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
