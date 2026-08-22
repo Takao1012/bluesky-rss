@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:21:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNativ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtnni4pbxb2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtnni4pbxb2q</guid>
+      <pubDate>Sat, 22 Aug 2026 06:28:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>3 prompts btw. Streaming straight from my nas over tailscale…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtnpk5wgmj2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtnpk5wgmj2v</guid>
+      <pubDate>Sat, 22 Aug 2026 06:20:22 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[3 prompts btw. Streaming straight from my nas over tailscale.]]></description>
+      <content:encoded><![CDATA[3 prompts btw. Streaming straight from my nas over tailscale.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Kobo Clara BW上で動作するオープンソースのアプリプラットフォーム「Cobalt」…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnkzmttdr2c</link>
@@ -453,24 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>chaitanyagiri/munder-difflin<br>Munder Difflinは、Claude CodeやGitHub Copilot CLIなどのターミナルベースのコーディングCLIを統合し、自律的に連携するマルチエージェントチームを構築するデスクトップアプリです。<br>ユーザーのクローンとなるエージェントが司令塔となり、記憶や通信機能を備えた複数のエージェントを調整します。<br>各エージェントの活動状況は2Dの仮想オフィス内のアバターとして視覚的に管理できます。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>chaitanyagiri/munder-difflin<br>Munder Difflinは、Claude CodeやGitHub Copilot CLIなどのターミナルベースのコーディングCLIを統合し、自律的に連携するマルチエージェントチームを構築するデスクトップアプリです。<br>ユーザーのクローンとなるエージェントが司令塔となり、記憶や通信機能を備えた複数のエージェントを調整します。<br>各エージェントの活動状況は2Dの仮想オフィス内のアバターとして視覚的に管理できます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  agent-substrate/substrate Agent Substrateは、大規…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnmfx4ms2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnmfx4ms2h</guid>
-      <pubDate>Fri, 21 Aug 2026 11:25:28 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>agent-substrate/substrate<br>Agent Substrateは、大規模なエージェント展開のための高性能で高密度なランタイム環境です。<br>サンドボックスのライフサイクル管理を行い、高速な再開・停止や同一インフラへの効率的な集約を実現します。<br>microVMやgVisorをサポートし、Kubernetesをベースに構築されています。<br>エージェント構築用のSDKではなく、大規模に実行するための基盤システムです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>agent-substrate/substrate<br>Agent Substrateは、大規模なエージェント展開のための高性能で高密度なランタイム環境です。<br>サンドボックスのライフサイクル管理を行い、高速な再開・停止や同一インフラへの効率的な集約を実現します。<br>microVMやgVisorをサポートし、Kubernetesをベースに構築されています。<br>エージェント構築用のSDKではなく、大規模に実行するための基盤システムです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  harry0703/MoneyPrinterTurbo MoneyPrinterTurbo…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnlualps2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnlualps2h</guid>
-      <pubDate>Fri, 21 Aug 2026 11:25:09 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIによる短尺動画生成ツールです。<br>テーマやキーワードを入力するだけで、脚本作成、素材選定、字幕およびBGMの生成、高画質な動画合成までを自動的に行います。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIによる短尺動画生成ツールです。<br>テーマやキーワードを入力するだけで、脚本作成、素材選定、字幕およびBGMの生成、高画質な動画合成までを自動的に行います。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
