@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:09:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   最近の議論は、性能最適化が以前よりはるかに安価に行えるようになり、個人でも特定のワークロード…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnygod6rq2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnygod6rq2u</guid>
+      <pubDate>Sat, 22 Aug 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>最近の議論は、性能最適化が以前よりはるかに安価に行えるようになり、個人でも特定のワークロードに特化した最適化やJITなどの技術を用いた高速化が現実的になってきた、という点に focusしています。実際に著者は日常的なテキスト検索ツールや正規表現エンジンの最適化を短時間で試せる事例を挙げ、個別のワークロードに適した動的最適化や高速化のための小規模実験を推奨しています。結果として、待望される「動的にカスタム化されたソフトウェア」の普及が現実味を帯びてきており、個人レベルの実装でも顕著な効果を得られるケースが増えていると述べています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>最近の議論は、性能最適化が以前よりはるかに安価に行えるようになり、個人でも特定のワークロードに特化した最適化やJITなどの技術を用いた高速化が現実的になってきた、という点に focusしています。実際に著者は日常的なテキスト検索ツールや正規表現エンジンの最適化を短時間で試せる事例を挙げ、個別のワークロードに適した動的最適化や高速化のための小規模実験を推奨しています。結果として、待望される「動的にカスタム化されたソフトウェア」の普及が現実味を帯びてきており、個人レベルの実装でも顕著な効果を得られるケースが増えていると述べています。]]></content:encoded>
+    </item>
+    <item>
+      <title>もうソフトウェアが遅くなる理由はない。 There&apos;s no reason for software to be slo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnygizfyq23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnygizfyq23</guid>
+      <pubDate>Sat, 22 Aug 2026 09:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[もうソフトウェアが遅くなる理由はない。<br>There's no reason for software to be slow anymore<br><br>🔺 401<br>💬 80<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[もうソフトウェアが遅くなる理由はない。<br>There's no reason for software to be slow anymore<br><br>🔺 401<br>💬 80<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ソフトウェアエンジニアリングの基礎  🔖 158 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtnxjqgsj22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtnxjqgsj22q</guid>
+      <pubDate>Sat, 22 Aug 2026 09:28:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ソフトウェアエンジニアリングの基礎<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ソフトウェアエンジニアリングの基礎<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   ソフトウェア開発でAIコード生成に飽きた筆者は、 prompting の可搬性と意図の記録不…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnrq73yje25</link>
@@ -441,36 +468,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>career-ops is an open-source CLI system that turns any AI coding CLI into a job-search cockpit, offering auto-evaluation, ATS-optimized PDFs, portal scanning, batch processing, and a tracking dashboard to help candidates identify strong offers while minimizing wasted applications. (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>career-ops is an open-source CLI system that turns any AI coding CLI into a job-search cockpit, offering auto-evaluation, ATS-optimized PDFs, portal scanning, batch processing, and a tracking dashboard to help candidates identify strong offers while minimizing wasted applications. (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 santifer / career-op…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqj6uf3q24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqj6uf3q24</guid>
-      <pubDate>Fri, 21 Aug 2026 12:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 santifer / career-ops<br>⭐ 67,125 (+816)<br>🗒 JavaScript<br><br>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 santifer / career-ops<br>⭐ 67,125 (+816)<br>🗒 JavaScript<br><br>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...]]></content:encoded>
-    </item>
-    <item>
-      <title>We all just got a banked reset 🫡</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtloz2fcvp2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtloz2fcvp2v</guid>
-      <pubDate>Fri, 21 Aug 2026 11:48:22 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[We all just got a banked reset 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtcql4ziawgzdllctbtjgeoabj3w2dmlqn2loqslun3mm5wxavky" alt="Quote Tweet: https://twitter.com/i/status/2090766694897619318" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[We all just got a banked reset 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtcql4ziawgzdllctbtjgeoabj3w2dmlqn2loqslun3mm5wxavky" alt="Quote Tweet: https://twitter.com/i/status/2090766694897619318" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtcql4ziawgzdllctbtjgeoabj3w2dmlqn2loqslun3mm5wxavky" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: AI企業が大量の紙の書籍を買い付けてスキャンし破棄することで、訓練データを自社サーバ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtloozgcrd2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtloozgcrd2p</guid>
-      <pubDate>Fri, 21 Aug 2026 11:44:49 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>AI企業が大量の紙の書籍を買い付けてスキャンし破棄することで、訓練データを自社サーバーに独占的に蓄積しているという問題提起が述べられ、物理書籍の消失を防ぐために世界中のボランティアに書籍のスキャンとアップロードを呼びかける「アナのアーカイブ」運動の緊急性を訴えている。シャドウライブラリとして公開知識を保存・拡散する取り組みを強調し、書籍のスキャン協力や資金提供を求めている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>AI企業が大量の紙の書籍を買い付けてスキャンし破棄することで、訓練データを自社サーバーに独占的に蓄積しているという問題提起が述べられ、物理書籍の消失を防ぐために世界中のボランティアに書籍のスキャンとアップロードを呼びかける「アナのアーカイブ」運動の緊急性を訴えている。シャドウライブラリとして公開知識を保存・拡散する取り組みを強調し、書籍のスキャン協力や資金提供を求めている。]]></content:encoded>
     </item>
   </channel>
 </rss>
