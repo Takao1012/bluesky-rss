@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:18:47 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 TryGhost / Ghost ⭐ 54,861 (+32) 🗒 JavaScript  Independen…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtng5vev752h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtng5vev752h</guid>
+      <pubDate>Sat, 22 Aug 2026 04:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 TryGhost / Ghost<br>⭐ 54,861 (+32)<br>🗒 JavaScript<br><br>Independent technology for modern publishing, memberships, subscriptions and newsletters.]]></description>
+      <content:encoded><![CDATA[📦 TryGhost / Ghost<br>⭐ 54,861 (+32)<br>🗒 JavaScript<br><br>Independent technology for modern publishing, memberships, subscriptions and newsletters.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecxtciy2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecxtciy2b</guid>
+      <pubDate>Sat, 22 Aug 2026 03:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.2.e164.arpa、6.4.2.e164.arpa、7.4.2.e164.arpaを乗っ取り、軍事基地への通話を中継可能な状態にしていたが、最初は放置されていた。後にNCSCに通報して対応が進み、実際には多くの通話番号とリクエストが記録されていたことが判明、国家的関心を引く事態に発展した。最終的にゾーンの管理権をNCSCへ移管し、事案は落ち着いた。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DNSの実験的仕組み「e164.arpa（ENUM）」を悪用し、特定国の電話網ゾーン0.9.2.e164.arpa、6.4.2.e164.arpa、7.4.2.e164.arpaを乗っ取り、軍事基地への通話を中継可能な状態にしていたが、最初は放置されていた。後にNCSCに通報して対応が進み、実際には多くの通話番号とリクエストが記録されていたことが判明、国家的関心を引く事態に発展した。最終的にゾーンの管理権をNCSCへ移管し、事案は落ち着いた。]]></content:encoded>
+    </item>
+    <item>
+      <title>誤って、軍事基地宛ての電話を数十万件も記録してしまいました。 I accidentally logged hundred…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecrnibp26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnecrnibp26</guid>
+      <pubDate>Sat, 22 Aug 2026 03:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[誤って、軍事基地宛ての電話を数十万件も記録してしまいました。<br>I accidentally logged hundreds of thousands of phone calls to military bases<br><br>🔺 471<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[誤って、軍事基地宛ての電話を数十万件も記録してしまいました。<br>I accidentally logged hundreds of thousands of phone calls to military bases<br><br>🔺 471<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ruvnet / ruflo ⭐ 68,621…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtncs6rf3q25</link>
@@ -444,33 +471,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容を追記して再度ご依頼ください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容を追記して再度ご依頼ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  JonathanColetti/Qwen3.8-27B-Uncensored-G…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkdwifyb2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkdwifyb2a</guid>
-      <pubDate>Fri, 21 Aug 2026 10:27:02 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒絶反応を大幅に軽減したUncensored版のGGUFモデルを提供することが目的です。<br>マルチトークン予測（MTP）ヘッドを保持し検証しており、llama.cppなどで利用可能です。<br>追加学習やファインチューニングを行わずに制限を緩和し、ベースモデルの能力を維持しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒絶反応を大幅に軽減したUncensored版のGGUFモデルを提供することが目的です。<br>マルチトークン予測（MTP）ヘッドを保持し検証しており、llama.cppなどで利用可能です。<br>追加学習やファインチューニングを行わずに制限を緩和し、ベースモデルの能力を維持しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルファミリ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkdgqku72r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkdgqku72r</guid>
-      <pubDate>Fri, 21 Aug 2026 10:26:45 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディング、専門業務、研究、エージェントタスクでの性能が向上しており、画像やビデオを理解する視覚言語モデルとしての機能や、複雑なタスクを完遂させるための柔軟な思考制御を備えています。<br>また、Unsloth Dynamic 3.0による高精度な量子化モデルの提供により、効率的な展開と運用を可能にします。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディング、専門業務、研究、エージェントタスクでの性能が向上しており、画像やビデオを理解する視覚言語モデルとしての機能や、複雑なタスクを完遂させるための柔軟な思考制御を備えています。<br>また、Unsloth Dynamic 3.0による高精度な量子化モデルの提供により、効率的な展開と運用を可能にします。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデル重みと設定ファイ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkcrlemx2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkcrlemx2m</guid>
-      <pubDate>Fri, 21 Aug 2026 10:26:23 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供するリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディングや専門業務、研究、長期的なエージェントタスクなどの複雑な多段階タスクを高い信頼性で遂行することを目指しています。<br>Hugging Face TransformersやvLLMなどの環境で利用可能な、デプロイしやすい高機能なモデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供するリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディングや専門業務、研究、長期的なエージェントタスクなどの複雑な多段階タスクを高い信頼性で遂行することを目指しています。<br>Hugging Face TransformersやvLLMなどの環境で利用可能な、デプロイしやすい高機能なモデルです。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
