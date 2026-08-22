@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:16:32 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Kobo Clara BW上で動作するオープンソースのアプリプラットフォーム「Cobalt」…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnkzmttdr2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnkzmttdr2c</guid>
+      <pubDate>Sat, 22 Aug 2026 05:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Kobo Clara BW上で動作するオープンソースのアプリプラットフォーム「Cobalt」を紹介する記事。USB経由で一度インストールすれば、以後はWi-Fi経由でアプリのインストール・更新・削除が可能になり、各アプリはサンドボックス化された独立プロセスとして動作する。SDKとストア機能、サードパーティ製アプリの追加方法や安全性の注意点も説明されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Kobo Clara BW上で動作するオープンソースのアプリプラットフォーム「Cobalt」を紹介する記事。USB経由で一度インストールすれば、以後はWi-Fi経由でアプリのインストール・更新・削除が可能になり、各アプリはサンドボックス化された独立プロセスとして動作する。SDKとストア機能、サードパーティ製アプリの追加方法や安全性の注意点も説明されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Koboは今、アプリを実行できる。 Kobo can run apps now  🔺 478 💬 49 🔗 HN …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnkzhto6s23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnkzhto6s23</guid>
+      <pubDate>Sat, 22 Aug 2026 05:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Koboは今、アプリを実行できる。<br>Kobo can run apps now<br><br>🔺 478<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Koboは今、アプリを実行できる。<br>Kobo can run apps now<br><br>🔺 478<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 elder-plinius / OBLITERATUS ⭐ 7,756 (+63) 🗒 Python  OBLI…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtnjisuveq2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtnjisuveq2c</guid>
+      <pubDate>Sat, 22 Aug 2026 05:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 elder-plinius / OBLITERATUS<br>⭐ 7,756 (+63)<br>🗒 Python<br><br>OBLITERATE THE CHAINS THAT BIND YOU]]></description>
+      <content:encoded><![CDATA[📦 elder-plinius / OBLITERATUS<br>⭐ 7,756 (+63)<br>🗒 Python<br><br>OBLITERATE THE CHAINS THAT BIND YOU]]></content:encoded>
+    </item>
     <item>
       <title>📝 「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ  🔖 152 ブックマーク…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtngrb74vn2v</link>
@@ -444,33 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIによる短尺動画生成ツールです。<br>テーマやキーワードを入力するだけで、脚本作成、素材選定、字幕およびBGMの生成、高画質な動画合成までを自動的に行います。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>MoneyPrinterTurboはAIによる短尺動画生成ツールです。<br>テーマやキーワードを入力するだけで、脚本作成、素材選定、字幕およびBGMの生成、高画質な動画合成までを自動的に行います。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  akitaonrails/ai-memory AIコーディングエージェント向けの長期記憶機…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnlfyyh72e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnlfyyh72e</guid>
-      <pubDate>Fri, 21 Aug 2026 11:24:54 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの長期記憶機能を提供するツールです。<br>異なるAIエージェント間で情報を共有することで、設計や過去の試行錯誤、未解決の課題を再説明することなく、シームレスに作業を継続させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの長期記憶機能を提供するツールです。<br>異なるAIエージェント間で情報を共有することで、設計や過去の試行錯誤、未解決の課題を再説明することなく、シームレスに作業を継続させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  santifer/career-ops AIコーディングCLIを求職活動の司令塔にするツー…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnkzig3p2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtlnkzig3p2e</guid>
-      <pubDate>Fri, 21 Aug 2026 11:24:41 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>santifer/career-ops<br>AIコーディングCLIを求職活動の司令塔にするツールです。<br>Playwrightを用いて求人ページを巡回し、AIが履歴書と求人内容を照合して適合性を評価します。<br>単なるキーワード一致ではなく論理的な推論でフィルタリングを行い、求人ごとに履歴書を最適化します。<br>多くの求人の中から、自分に本当に合う価値ある案件を効率的に見つけ出すことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>santifer/career-ops<br>AIコーディングCLIを求職活動の司令塔にするツールです。<br>Playwrightを用いて求人ページを巡回し、AIが履歴書と求人内容を照合して適合性を評価します。<br>単なるキーワード一致ではなく論理的な推論でフィルタリングを行い、求人ごとに履歴書を最適化します。<br>多くの求人の中から、自分に本当に合う価値ある案件を効率的に見つけ出すことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkf2bu3i2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtlkf2bu3i2d</guid>
-      <pubDate>Fri, 21 Aug 2026 10:27:39 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに、回答の拒絶反応を排除したアンセンサード版の提供を目的としています。<br>直接的な回答を行うAggressive設定を適用し、FastMTPによって推論やドキュメント生成の高速化を実現しています。<br>元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持されており、GGUF形式で配布されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに、回答の拒絶反応を排除したアンセンサード版の提供を目的としています。<br>直接的な回答を行うAggressive設定を適用し、FastMTPによって推論やドキュメント生成の高速化を実現しています。<br>元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持されており、GGUF形式で配布されています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
