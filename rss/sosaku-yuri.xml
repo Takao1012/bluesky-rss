@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/citrus-rin.jp/feed/aaaddbrcslzj4</link>
     <description>#創作百合 または #百合漫画 タグをつけた日本語ポストのフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:13:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>#創作百合 29×44の百合なんだよね</title>
+      <link>https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mtnrrj7xxk2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ispuocem6qxvnuf5adgo7cyb/post/3mtnrrj7xxk2v</guid>
+      <pubDate>Sat, 22 Aug 2026 07:45:13 GMT</pubDate>
+      <author>noda (@eeedeco.bsky.social)</author>
+      <description><![CDATA[#創作百合<br>29×44の百合なんだよね
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihvwtsnuyucvhqckammis6rgawqjnmi55awtu3hsptczcgpg3snly" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[#創作百合<br>29×44の百合なんだよね
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihvwtsnuyucvhqckammis6rgawqjnmi55awtu3hsptczcgpg3snly" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ispuocem6qxvnuf5adgo7cyb/bafkreihvwtsnuyucvhqckammis6rgawqjnmi55awtu3hsptczcgpg3snly" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>バニーの #創作百合 #サキュヒト</title>
       <link>https://bsky.app/profile/did:plc:txzqzvquq4beb3cmifh5z2in/post/3mtluvoawus2e</link>
@@ -612,18 +624,6 @@
       <content:encoded><![CDATA[恋人繋ぎ❤<br><br>#百合 #創作百合
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qq22vl433rxrv4mcbcq5mxb6/bafkreig7tj2vxf4tcrdb7hu2guby6uqtdmg4f6rmk3g6mw3yrdbnxz2u7i" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qq22vl433rxrv4mcbcq5mxb6/bafkreig7tj2vxf4tcrdb7hu2guby6uqtdmg4f6rmk3g6mw3yrdbnxz2u7i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>私を食べる？❤  #百合 #創作百合</title>
-      <link>https://bsky.app/profile/did:plc:qq22vl433rxrv4mcbcq5mxb6/post/3mswobivul22e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qq22vl433rxrv4mcbcq5mxb6/post/3mswobivul22e</guid>
-      <pubDate>Thu, 13 Aug 2026 03:11:21 GMT</pubDate>
-      <author>桜那COMITIA西1E20b (@sakuranaeika.bsky.social)</author>
-      <description><![CDATA[私を食べる？❤<br><br>#百合 #創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qq22vl433rxrv4mcbcq5mxb6/bafkreiapgpgspqlcuyajrueuempkmvc7l6rhrg3awyj2tsi4trpimk3cru" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[私を食べる？❤<br><br>#百合 #創作百合
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qq22vl433rxrv4mcbcq5mxb6/bafkreiapgpgspqlcuyajrueuempkmvc7l6rhrg3awyj2tsi4trpimk3cru" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qq22vl433rxrv4mcbcq5mxb6/bafkreiapgpgspqlcuyajrueuempkmvc7l6rhrg3awyj2tsi4trpimk3cru" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
