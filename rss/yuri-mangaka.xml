@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:12:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>地震怖かったねぇ</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtoxs553e22n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtoxs553e22n</guid>
+      <pubDate>Sat, 22 Aug 2026 19:05:36 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[地震怖かったねぇ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiedmxmoqiegokzlc532tdf3rtekwey3iiywkt4gddtc3iep3hcyiq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[地震怖かったねぇ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiedmxmoqiegokzlc532tdf3rtekwey3iiywkt4gddtc3iep3hcyiq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiedmxmoqiegokzlc532tdf3rtekwey3iiywkt4gddtc3iep3hcyiq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>無事です 地震大きかったね……みなさまもお気をつけてね</title>
       <link>https://bsky.app/profile/did:plc:254pwqyrxfbjg2isxse7nf7v/post/3mtora7bz522a</link>
@@ -470,15 +482,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[焼きそばとキャベツとピーマン買ってきたから来週は野菜たっぷり焼きそばウィークリーにしよ]]></description>
       <content:encoded><![CDATA[焼きそばとキャベツとピーマン買ってきたから来週は野菜たっぷり焼きそばウィークリーにしよ]]></content:encoded>
-    </item>
-    <item>
-      <title>チューハイ飲みつつお弁当のおかずをパクパク味見したらもうお腹が苦しい……昼のくら寿司がまだいる………</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtlvp2mdg225</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtlvp2mdg225</guid>
-      <pubDate>Fri, 21 Aug 2026 13:50:06 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[チューハイ飲みつつお弁当のおかずをパクパク味見したらもうお腹が苦しい……昼のくら寿司がまだいる………]]></description>
-      <content:encoded><![CDATA[チューハイ飲みつつお弁当のおかずをパクパク味見したらもうお腹が苦しい……昼のくら寿司がまだいる………]]></content:encoded>
     </item>
   </channel>
 </rss>
