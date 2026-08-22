@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 10:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:08:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-H3 MiniMax H3は、テキスト、画像…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2gwyu6w22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2gwyu6w22</guid>
+      <pubDate>Sat, 22 Aug 2026 10:20:22 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し生成できる汎用的なオムニモーダル生成システムです。<br>最大2K解像度で最長15秒のステレオ音声付きビデオ生成をサポートしており、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからビデオへの生成や、画像を用いたビデオ生成が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し生成できる汎用的なオムニモーダル生成システムです。<br>最大2K解像度で最長15秒のステレオ音声付きビデオ生成をサポートしており、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからビデオへの生成や、画像を用いたビデオ生成が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ghfmjy2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ghfmjy2s</guid>
+      <pubDate>Sat, 22 Aug 2026 10:20:06 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述から最大5分間の完全な楽曲を生成する高性能モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と詳細な音響表現を両立し、高品質なステレオ音声を生成することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述から最大5分間の完全な楽曲を生成する高性能モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と詳細な音響表現を両立し、高品質なステレオ音声を生成することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  OBLITERATUS/Qwen3.8-27B-OBLITERATED Qwen…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fyg6xx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fyg6xx2r</guid>
+      <pubDate>Sat, 22 Aug 2026 10:19:50 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bモデルの拒絶反応を排除することを目的としたリポジトリです。<br>反復的な改良により、元のモデルと同等の能力を維持しつつ、思考モードの有無に関わらずあらゆるリクエストに拒絶せず応答させることを目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bモデルの拒絶反応を排除することを目的としたリポジトリです。<br>反復的な改良により、元のモデルと同等の能力を維持しつつ、思考モードの有無に関わらずあらゆるリクエストに拒絶せず応答させることを目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  orcarouter/Qwen3.8-27B-Uncensored-MLX Qw…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fjsvtx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fjsvtx2r</guid>
+      <pubDate>Sat, 22 Aug 2026 10:19:35 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-MLX<br>Qwen3.8-27Bをベースに、拒否機能を削除したApple Silicon向けのMLX形式モデルを提供することを目的としています。<br>2、4、6、8ビットの量子化版が用意されており、安全性の制限を大幅に緩和した状態で視覚言語モデルとして動作させることが可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-MLX<br>Qwen3.8-27Bをベースに、拒否機能を削除したApple Silicon向けのMLX形式モデルを提供することを目的としています。<br>2、4、6、8ビットの量子化版が用意されており、安全性の制限を大幅に緩和した状態で視覚言語モデルとして動作させることが可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  orcarouter/Qwen3.8-27B-Uncensored-FP8 RE…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ezpv5i2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ezpv5i2s</guid>
+      <pubDate>Sat, 22 Aug 2026 10:19:18 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容をご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容をご提示ください。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   最近の議論は、性能最適化が以前よりはるかに安価に行えるようになり、個人でも特定のワークロード…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtnygod6rq2u</link>
@@ -423,51 +468,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Windowsは誰の中にもロールシャッハ・テストの反応を引き出す（2003年）<br>Windows brings out the Rorschach test in everyone (2003)<br><br>🔺 348<br>💬 38<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Windowsは誰の中にもロールシャッハ・テストの反応を引き出す（2003年）<br>Windows brings out the Rorschach test in everyone (2003)<br><br>🔺 348<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>(Windows/macOS/Linux). It supports extensive model integrati…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltud3n2u2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltud3n2u2i</guid>
-      <pubDate>Fri, 21 Aug 2026 13:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[(Windows/macOS/Linux). It supports extensive model integrations, multilingual scripts, stock and AI-generated imagery, and auto-publishing to TikTok, Instagram, and YouTube Shorts, plus detailed setup guides and deployment via Colab or Docker. (2/2)]]></description>
-      <content:encoded><![CDATA[(Windows/macOS/Linux). It supports extensive model integrations, multilingual scripts, stock and AI-generated imagery, and auto-publishing to TikTok, Instagram, and YouTube Shorts, plus detailed setup guides and deployment via Colab or Docker. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   MoneyPrinterTurbo is an all-in-one AI short vi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltud2dzo25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltud2dzo25</guid>
-      <pubDate>Fri, 21 Aug 2026 13:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is an all-in-one AI short video generator that automatizes script creation,素材选取, subtitles, and background music to produce high-quality videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options and multi-platform deployment (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>MoneyPrinterTurbo is an all-in-one AI short video generator that automatizes script creation,素材选取, subtitles, and background music to produce high-quality videos from a topic or keywords, with WebUI, API, AI Agent, and CLI options and multi-platform deployment (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 harry0703 / MoneyPri…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltu7k35y2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtltu7k35y2p</guid>
-      <pubDate>Fri, 21 Aug 2026 13:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 harry0703 / MoneyPrinterTurbo<br>⭐ 113,498 (+2,761)<br>🗒 Python<br><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 harry0703 / MoneyPrinterTurbo<br>⭐ 113,498 (+2,761)<br>🗒 Python<br><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.]]></content:encoded>
-    </item>
-    <item>
-      <title>It emphasizes user control, research-driven outreach, and ve…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqjbm2tq2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqjbm2tq2l</guid>
-      <pubDate>Fri, 21 Aug 2026 12:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[It emphasizes user control, research-driven outreach, and vendor-agnostic integration across multiple CLIs. (2/2)]]></description>
-      <content:encoded><![CDATA[It emphasizes user control, research-driven outreach, and vendor-agnostic integration across multiple CLIs. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   career-ops is an open-source CLI system that t…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqjbkosv2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtlqjbkosv2m</guid>
-      <pubDate>Fri, 21 Aug 2026 12:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>career-ops is an open-source CLI system that turns any AI coding CLI into a job-search cockpit, offering auto-evaluation, ATS-optimized PDFs, portal scanning, batch processing, and a tracking dashboard to help candidates identify strong offers while minimizing wasted applications. (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>career-ops is an open-source CLI system that turns any AI coding CLI into a job-search cockpit, offering auto-evaluation, ATS-optimized PDFs, portal scanning, batch processing, and a tracking dashboard to help candidates identify strong offers while minimizing wasted applications. (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
