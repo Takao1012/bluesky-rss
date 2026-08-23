@@ -5,8 +5,53 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:09:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkxvhuvv2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkxvhuvv2x</guid>
+      <pubDate>Sun, 23 Aug 2026 10:21:31 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>READMEの内容をご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>READMEの内容をご提示ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  JonathanColetti/Qwen3.8-27B-Uncensored-G…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkxph35e25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkxph35e25</guid>
+      <pubDate>Sun, 23 Aug 2026 10:21:24 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒否反応を大幅に低減させたアンセンサード版モデルをGGUF形式で提供するリポジトリです。<br>マルチトークン予測（MTP）ヘッドを保持した状態で量子化されており、llama.cppなどで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒否反応を大幅に低減させたアンセンサード版モデルをGGUF形式で提供するリポジトリです。<br>マルチトークン予測（MTP）ヘッドを保持した状態で量子化されており、llama.cppなどで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkx4dq5l2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkx4dq5l2m</guid>
+      <pubDate>Sun, 23 Aug 2026 10:21:04 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bの拒絶動作を排除したアンセンサード版（Aggressive）を提供することを目的としています。<br>HauhauCS FastMTPにより文書生成や推論の高速化を実現しつつ、元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持しています。<br>GGUF形式で提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bの拒絶動作を排除したアンセンサード版（Aggressive）を提供することを目的としています。<br>HauhauCS FastMTPにより文書生成や推論の高速化を実現しつつ、元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持しています。<br>GGUF形式で提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルシリーズ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkwjxuti2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkwjxuti2d</guid>
+      <pubDate>Sun, 23 Aug 2026 10:20:45 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルシリーズの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディングや研究、エージェントタスクの性能を向上させ、画像やビデオを理解する視覚言語モデルとして設計されています。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善、開発者ロールのサポートにより、効率的なデプロイと複雑なタスクの信頼性の高い完遂を実現します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルシリーズの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディングや研究、エージェントタスクの性能を向上させ、画像やビデオを理解する視覚言語モデルとして設計されています。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善、開発者ロールのサポートにより、効率的なデプロイと複雑なタスクの信頼性の高い完遂を実現します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkvpb6b72j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkvpb6b72j</guid>
+      <pubDate>Sun, 23 Aug 2026 10:20:17 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できるネイティブな視覚言語モデルであり、コーディング、専門業務、研究、複雑なマルチステップタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどと互換性があり、展開しやすいコンパクトな設計となっています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できるネイティブな視覚言語モデルであり、コーディング、専門業務、研究、複雑なマルチステップタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどと互換性があり、展開しやすいコンパクトな設計となっています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Munder Difflinは、あなたのPC上で動くCLIエージェントを「クローン」として2…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqivtnpde2k</link>
@@ -426,51 +471,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 anthropics / claude-cod…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoholmeof2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoholmeof2y</guid>
-      <pubDate>Sat, 22 Aug 2026 14:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / claude-code<br>⭐ 142,383 (+170)<br>🗒 Python<br><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / claude-code<br>⭐ 142,383 (+170)<br>🗒 Python<br><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   カナダ政府は国内強化と多国間パートナーシップの拡大を進める中、米国との貿易交渉で最大限のアク…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtofu35rfr25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtofu35rfr25</guid>
-      <pubDate>Sat, 22 Aug 2026 13:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>カナダ政府は国内強化と多国間パートナーシップの拡大を進める中、米国との貿易交渉で最大限のアクセスと安定性を目指してきたが、米国の条件の変化により公正な取引を保障するため交渉を一時停止し、対米報復関税を相殺する対応を取ることを発表した。これによりカナダは国内支援と輸出市場拡大を同時に推進し、インフラ投資・対外投資・雇用創出・非米市場の開拓を加速させている。政府は「世界が求めるカナダ」を実現するため、自らの道を貫くと強調した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>カナダ政府は国内強化と多国間パートナーシップの拡大を進める中、米国との貿易交渉で最大限のアクセスと安定性を目指してきたが、米国の条件の変化により公正な取引を保障するため交渉を一時停止し、対米報復関税を相殺する対応を取ることを発表した。これによりカナダは国内支援と輸出市場拡大を同時に推進し、インフラ投資・対外投資・雇用創出・非米市場の開拓を加速させている。政府は「世界が求めるカナダ」を実現するため、自らの道を貫くと強調した。]]></content:encoded>
-    </item>
-    <item>
-      <title>カナダは米国との貿易交渉を停止し、関税を米国と同額になるように合わせる。 Canada suspends trade n…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtoftvfft52k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtoftvfft52k</guid>
-      <pubDate>Sat, 22 Aug 2026 13:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[カナダは米国との貿易交渉を停止し、関税を米国と同額になるように合わせる。<br>Canada suspends trade negotiations with USA and match tariffs dollar for dollar<br><br>🔺 455<br>💬 47<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[カナダは米国との貿易交渉を停止し、関税を米国と同額になるように合わせる。<br>Canada suspends trade negotiations with USA and match tariffs dollar for dollar<br><br>🔺 455<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   最近、同僚や上司から送られてくるAIを過剰に活用した文書（ Claude 風の設計文書、技術…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mto75cruqr25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mto75cruqr25</guid>
-      <pubDate>Sat, 22 Aug 2026 11:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>最近、同僚や上司から送られてくるAIを過剰に活用した文書（ Claude 風の設計文書、技術要件の長文、マーケ戦略の技術的混在 など）を読み解くと集中力が落ち、内容を分析できなくなる現象が続いている。低労力のAI生成文に対する“バナー盲点”が広まり、実務の生産性を逆に下げていると感じている。筆者はAI生成文の特徴を見抜く力を身につけつつ、過度なAI依存が集中力低下を招くと警鐘を鳴らす。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>最近、同僚や上司から送られてくるAIを過剰に活用した文書（ Claude 風の設計文書、技術要件の長文、マーケ戦略の技術的混在 など）を読み解くと集中力が落ち、内容を分析できなくなる現象が続いている。低労力のAI生成文に対する“バナー盲点”が広まり、実務の生産性を逆に下げていると感じている。筆者はAI生成文の特徴を見抜く力を身につけつつ、過度なAI依存が集中力低下を招くと警鐘を鳴らす。]]></content:encoded>
-    </item>
-    <item>
-      <title>私はAIに対して盲目になりつつある。 I&apos;m becoming AI-blind  🔺 389 💬 54 🔗 HN…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mto7567a6m2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mto7567a6m2t</guid>
-      <pubDate>Sat, 22 Aug 2026 11:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私はAIに対して盲目になりつつある。<br>I'm becoming AI-blind<br><br>🔺 389<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私はAIに対して盲目になりつつある。<br>I'm becoming AI-blind<br><br>🔺 389<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
