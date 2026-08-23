@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:10:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   執筆の鍵は「読む」ことに尽きる。著者は、誰もが自分なりの創作法を持つ一方で、読書量を増やし多…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqwcvmj2g25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqwcvmj2g25</guid>
+      <pubDate>Sun, 23 Aug 2026 13:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>執筆の鍵は「読む」ことに尽きる。著者は、誰もが自分なりの創作法を持つ一方で、読書量を増やし多様な本に触れることが創作力を養い、脳の構造を鍛える最善の方法だと主張する。デジタル依存が読書脳を蝕むため、日常的に本を読み続ける習慣を作ることが、優れた作家になる近道だとしている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>執筆の鍵は「読む」ことに尽きる。著者は、誰もが自分なりの創作法を持つ一方で、読書量を増やし多様な本に触れることが創作力を養い、脳の構造を鍛える最善の方法だと主張する。デジタル依存が読書脳を蝕むため、日常的に本を読み続ける習慣を作ることが、優れた作家になる近道だとしている。]]></content:encoded>
+    </item>
+    <item>
+      <title>より良い作家になるには、できるだけ多く読むことだ。 To become a better writer, read as…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqwcpo77h2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqwcpo77h2u</guid>
+      <pubDate>Sun, 23 Aug 2026 13:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[より良い作家になるには、できるだけ多く読むことだ。<br>To become a better writer, read as much as you can<br><br>🔺 262<br>💬 52<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[より良い作家になるには、できるだけ多く読むことだ。<br>To become a better writer, read as much as you can<br><br>🔺 262<br>💬 52<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Rustを超絶丁寧に教えてくれる君.md  🔖 154 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtqvg3lxs627</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtqvg3lxs627</guid>
+      <pubDate>Sun, 23 Aug 2026 13:28:24 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Rustを超絶丁寧に教えてくれる君.md<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Rustを超絶丁寧に教えてくれる君.md<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>code review, and release notes into one searchable, signed e…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtqusempf22l</link>
@@ -444,33 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[emphasizes true free tiers (not just trials) and ongoing availability, plus guidance on adding or removing services via PRs. (2/2)]]></description>
       <content:encoded><![CDATA[emphasizes true free tiers (not just trials) and ongoing availability, plus guidance on adding or removing services via PRs. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Free-for-.dev is a community-curated Awesome L…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwyky72d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygwyky72d</guid>
-      <pubDate>Sat, 22 Aug 2026 19:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Free-for-.dev is a community-curated Awesome List of open-as-a-service options offering free developer tiers across cloud, APIs, databases, CI/CD, monitoring, and more—targeted at infrastructure developers, with contributions from thousands of open-source-minded peers. It (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Free-for-.dev is a community-curated Awesome List of open-as-a-service options offering free developer tiers across cloud, APIs, databases, CI/CD, monitoring, and more—targeted at infrastructure developers, with contributions from thousands of open-source-minded peers. It (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 ripienaar / free-for…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygsxrtb2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtoygsxrtb2a</guid>
-      <pubDate>Sat, 22 Aug 2026 19:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 ripienaar / free-for-dev<br>⭐ 133,655 (+915)<br>🗒 HTML<br><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 ripienaar / free-for-dev<br>⭐ 133,655 (+915)<br>🗒 HTML<br><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev]]></content:encoded>
-    </item>
-    <item>
-      <title>alignment with Cursor. It emphasizes avoiding assumptions, m…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtov3xqbuu24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtov3xqbuu24</guid>
-      <pubDate>Sat, 22 Aug 2026 18:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[alignment with Cursor. It emphasizes avoiding assumptions, minimalism, minimal, traceable edits, and explicit success criteria to improve Claude Code behavior. (2/2)]]></description>
-      <content:encoded><![CDATA[alignment with Cursor. It emphasizes avoiding assumptions, minimalism, minimal, traceable edits, and explicit success criteria to improve Claude Code behavior. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
