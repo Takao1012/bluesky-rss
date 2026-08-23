@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 02:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:38:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>こみてぃあだよ〜</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtptb3d2722a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtptb3d2722a</guid>
+      <pubDate>Sun, 23 Aug 2026 03:17:09 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[こみてぃあだよ〜
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreif7ycmrok5mr4x7zascghxlwdyo4pp36trxa3jzvwjk4gfyizqq5i" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[こみてぃあだよ〜
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreif7ycmrok5mr4x7zascghxlwdyo4pp36trxa3jzvwjk4gfyizqq5i" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreif7ycmrok5mr4x7zascghxlwdyo4pp36trxa3jzvwjk4gfyizqq5i" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>ボロくなってへたった椅子に座り慣れてたので、新しい椅子のクッション部分が高反発でSiriが痛いｗ</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtpmx6xnvk25</link>
@@ -467,15 +479,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[さすがにこの週末の席の埋まり方はボンドロの時より減ったな…朝イチと夕方〜夜の回はまだ余裕ある………昼間の回は前方ブロック残してほぼ満席…ボンドロの時は前方含めて満席だったのに]]></description>
       <content:encoded><![CDATA[さすがにこの週末の席の埋まり方はボンドロの時より減ったな…朝イチと夕方〜夜の回はまだ余裕ある………昼間の回は前方ブロック残してほぼ満席…ボンドロの時は前方含めて満席だったのに]]></content:encoded>
-    </item>
-    <item>
-      <title>今日からセイレーンだ…ソワソワ……</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmqferrkc2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmqferrkc2g</guid>
-      <pubDate>Fri, 21 Aug 2026 21:47:53 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[今日からセイレーンだ…ソワソワ……]]></description>
-      <content:encoded><![CDATA[今日からセイレーンだ…ソワソワ……]]></content:encoded>
     </item>
   </channel>
 </rss>
