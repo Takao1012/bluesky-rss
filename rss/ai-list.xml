@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:14:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ローカル環境と参照実装の差が推論結果に影響する様子を、実験的に数種類のバックエンドや量子化設…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqc75xvnr26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqc75xvnr26</guid>
+      <pubDate>Sun, 23 Aug 2026 07:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ローカル環境と参照実装の差が推論結果に影響する様子を、実験的に数種類のバックエンドや量子化設定を比較して検証する技術的シリーズ。特に、ログリット分布の違い（KLD）やプリフェッチ時の注意バックエンド、KVキャッシュの量子化、ウェイト量子化の影響が同一 weights でも結果を揺らすことを示し、実験ごとに具体的な構成と結果を詳細に報告している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ローカル環境と参照実装の差が推論結果に影響する様子を、実験的に数種類のバックエンドや量子化設定を比較して検証する技術的シリーズ。特に、ログリット分布の違い（KLD）やプリフェッチ時の注意バックエンド、KVキャッシュの量子化、ウェイト量子化の影響が同一 weights でも結果を揺らすことを示し、実験ごとに具体的な構成と結果を詳細に報告している。]]></content:encoded>
+    </item>
+    <item>
+      <title>なぜあなたのローカルLLMは実際よりも愚かに感じられるのか Why your local LLM feels dumbe…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqc6xatvv25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqc6xatvv25</guid>
+      <pubDate>Sun, 23 Aug 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[なぜあなたのローカルLLMは実際よりも愚かに感じられるのか<br>Why your local LLM feels dumber than it is<br><br>🔺 298<br>💬 27<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[なぜあなたのローカルLLMは実際よりも愚かに感じられるのか<br>Why your local LLM feels dumber than it is<br><br>🔺 298<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>I won’t lie, I’m surprised how much yall agreed with this on…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtq75w6fue2u</link>
@@ -453,24 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>PostHog/posthog<br>PostHogは、自律的な製品開発を支援するオープンソースプラットフォームです。<br>問題の診断や機会の発見、修正に必要なツールを統合的に提供し、製品の成長を促進します。<br>Slackやウェブ、デスクトップなどの多様なインターフェースから操作でき、クラウド利用およびDockerによるセルフホスティングが可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>PostHog/posthog<br>PostHogは、自律的な製品開発を支援するオープンソースプラットフォームです。<br>問題の診断や機会の発見、修正に必要なツールを統合的に提供し、製品の成長を促進します。<br>Slackやウェブ、デスクトップなどの多様なインターフェースから操作でき、クラウド利用およびDockerによるセルフホスティングが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  AprilNEA/OpenLogi OpenLogiは、Logitech Options+…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5shli2k2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5shli2k2z</guid>
-      <pubDate>Sat, 22 Aug 2026 11:20:30 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>AprilNEA/OpenLogi<br>OpenLogiは、Logitech Options+に代わるRust製のネイティブかつローカルファーストなツールです。<br>HID++やUVCを利用して、Logitech製マウス、キーボード、ウェブカメラの全機能を最大限に活用することを目的としています。<br>macOS、Linux、Windowsに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>AprilNEA/OpenLogi<br>OpenLogiは、Logitech Options+に代わるRust製のネイティブかつローカルファーストなツールです。<br>HID++やUVCを利用して、Logitech製マウス、キーボード、ウェブカメラの全機能を最大限に活用することを目的としています。<br>macOS、Linux、Windowsに対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mahlernim/google-timeline-visualizer Googleマッ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5ryo6xc2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5ryo6xc2v</guid>
-      <pubDate>Sat, 22 Aug 2026 11:20:14 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mahlernim/google-timeline-visualizer<br>Googleマップのタイムラインファイルから旅行のアニメーション動画を作成するためのツールです。<br>AndroidアプリおよびiPhone向けウェブアプリとして提供されており、指定した期間の移動経路をMP4形式の動画に変換して保存や共有ができます。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mahlernim/google-timeline-visualizer<br>Googleマップのタイムラインファイルから旅行のアニメーション動画を作成するためのツールです。<br>AndroidアプリおよびiPhone向けウェブアプリとして提供されており、指定した期間の移動経路をMP4形式の動画に変換して保存や共有ができます。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
