@@ -5,8 +5,38 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:08:25 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AIに書かせたら、前より休めなくなった｜松浦勝人  🔖 209 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtrtlc7wrb2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtrtlc7wrb2e</guid>
+      <pubDate>Sun, 23 Aug 2026 22:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIに書かせたら、前より休めなくなった｜松浦勝人<br><br>🔖 209 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIに書かせたら、前より休めなくなった｜松浦勝人<br><br>🔖 209 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>I think this is a reasonable take</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtrtxwv4xt2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtrtxwv4xt2x</guid>
+      <pubDate>Sun, 23 Aug 2026 22:24:16 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I think this is a reasonable take
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiess3p6ithejupb26cmgx6w6tjh3plzp4zs2fjpgwkgmqajgxnkqu" alt="Quote Tweet: https://twitter.com/i/status/2090649326032945591" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I think this is a reasonable take
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiess3p6ithejupb26cmgx6w6tjh3plzp4zs2fjpgwkgmqajgxnkqu" alt="Quote Tweet: https://twitter.com/i/status/2090649326032945591" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiess3p6ithejupb26cmgx6w6tjh3plzp4zs2fjpgwkgmqajgxnkqu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 tinyhumansai / openhuman ⭐ 36,520 (+51) 🗒 Rust  Your Per…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrsxpmfuf22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrsxpmfuf22</guid>
+      <pubDate>Sun, 23 Aug 2026 22:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 tinyhumansai / openhuman<br>⭐ 36,520 (+51)<br>🗒 Rust<br><br>Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.]]></description>
+      <content:encoded><![CDATA[📦 tinyhumansai / openhuman<br>⭐ 36,520 (+51)<br>🗒 Rust<br><br>Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.]]></content:encoded>
+    </item>
     <item>
       <title>Was hoping to stream today. Having complications with my cas…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtrrgetdlv2v</link>
@@ -429,33 +459,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒否反応を大幅に低減させたアンセンサード版モデルをGGUF形式で提供するリポジトリです。<br>マルチトークン予測（MTP）ヘッドを保持した状態で量子化されており、llama.cppなどで利用可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bをベースに、拒否反応を大幅に低減させたアンセンサード版モデルをGGUF形式で提供するリポジトリです。<br>マルチトークン予測（MTP）ヘッドを保持した状態で量子化されており、llama.cppなどで利用可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkx4dq5l2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkx4dq5l2m</guid>
-      <pubDate>Sun, 23 Aug 2026 10:21:04 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bの拒絶動作を排除したアンセンサード版（Aggressive）を提供することを目的としています。<br>HauhauCS FastMTPにより文書生成や推論の高速化を実現しつつ、元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持しています。<br>GGUF形式で提供されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bの拒絶動作を排除したアンセンサード版（Aggressive）を提供することを目的としています。<br>HauhauCS FastMTPにより文書生成や推論の高速化を実現しつつ、元のモデルが持つテキスト、推論、画像、ビデオなどの機能は維持しています。<br>GGUF形式で提供されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルシリーズ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkwjxuti2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkwjxuti2d</guid>
-      <pubDate>Sun, 23 Aug 2026 10:20:45 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルシリーズの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディングや研究、エージェントタスクの性能を向上させ、画像やビデオを理解する視覚言語モデルとして設計されています。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善、開発者ロールのサポートにより、効率的なデプロイと複雑なタスクの信頼性の高い完遂を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルシリーズの最新世代であるQwen3.8-27Bを提供することを目的としています。<br>コーディングや研究、エージェントタスクの性能を向上させ、画像やビデオを理解する視覚言語モデルとして設計されています。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善、開発者ロールのサポートにより、効率的なデプロイと複雑なタスクの信頼性の高い完遂を実現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkvpb6b72j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtqkvpb6b72j</guid>
-      <pubDate>Sun, 23 Aug 2026 10:20:17 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できるネイティブな視覚言語モデルであり、コーディング、専門業務、研究、複雑なマルチステップタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどと互換性があり、展開しやすいコンパクトな設計となっています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できるネイティブな視覚言語モデルであり、コーディング、専門業務、研究、複雑なマルチステップタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどと互換性があり、展開しやすいコンパクトな設計となっています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
