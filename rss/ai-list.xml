@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:24:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   この記事は、数字＋「labs」という命名を用いるAIスタートアップが増えている現象を観察した…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpus5cmcc2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpus5cmcc2m</guid>
+      <pubDate>Sun, 23 Aug 2026 03:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>この記事は、数字＋「labs」という命名を用いるAIスタートアップが増えている現象を観察したノートで、0〜99までの数字と「labs」を組み合わせた企業を調べ、AI関連度の判定基準や、なぜこの命名が流行しているのかの疑問点を提起している。特に ElevenLabs に倣った名前付けの傾向や、70年代の密度が高い数字帯の謎、そしてnethoscope 的なレトロデザインの例として seventyonelab を挙げている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>この記事は、数字＋「labs」という命名を用いるAIスタートアップが増えている現象を観察したノートで、0〜99までの数字と「labs」を組み合わせた企業を調べ、AI関連度の判定基準や、なぜこの命名が流行しているのかの疑問点を提起している。特に ElevenLabs に倣った名前付けの傾向や、70年代の密度が高い数字帯の謎、そしてnethoscope 的なレトロデザインの例として seventyonelab を挙げている。]]></content:encoded>
+    </item>
+    <item>
+      <title>イレブン・ラボズ、トゥエルブ・ラボズ、サーティーン・ラボズ ElevenLabs, TwelveLabs, Thirte…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpurykaat25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpurykaat25</guid>
+      <pubDate>Sun, 23 Aug 2026 03:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[イレブン・ラボズ、トゥエルブ・ラボズ、サーティーン・ラボズ<br>ElevenLabs, TwelveLabs, ThirteenLabs<br><br>🔺 334<br>💬 55<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[イレブン・ラボズ、トゥエルブ・ラボズ、サーティーン・ラボズ<br>ElevenLabs, TwelveLabs, ThirteenLabs<br><br>🔺 334<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>スクラップ（2006年） Scrap (2006)  🔺 313 💬 18 🔗 HN Post | Article</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtpo363ynb2u</link>
@@ -453,24 +471,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し生成できる汎用的なオムニモーダル生成システムです。<br>最大2K解像度で最長15秒のステレオ音声付きビデオ生成をサポートしており、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからビデオへの生成や、画像を用いたビデオ生成が可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-H3<br>MiniMax H3は、テキスト、画像、ビデオ、オーディオを統合的に理解し生成できる汎用的なオムニモーダル生成システムです。<br>最大2K解像度で最長15秒のステレオ音声付きビデオ生成をサポートしており、複雑なマルチモーダル指示への高い追従性を備えています。<br>テキストからビデオへの生成や、画像を用いたビデオ生成が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  MiniMaxAI/MiniMax-Music3 MiniMax Music 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ghfmjy2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2ghfmjy2s</guid>
-      <pubDate>Sat, 22 Aug 2026 10:20:06 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述から最大5分間の完全な楽曲を生成する高性能モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と詳細な音響表現を両立し、高品質なステレオ音声を生成することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>MiniMaxAI/MiniMax-Music3<br>MiniMax Music 3は、歌詞と詳細な音楽記述から最大5分間の完全な楽曲を生成する高性能モデルです。<br>グローバルLLMとローカルLLMを組み合わせたハイブリッド構成により、曲全体の構造的な一貫性と詳細な音響表現を両立し、高品質なステレオ音声を生成することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  OBLITERATUS/Qwen3.8-27B-OBLITERATED Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fyg6xx2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mto2fyg6xx2r</guid>
-      <pubDate>Sat, 22 Aug 2026 10:19:50 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bモデルの拒絶反応を排除することを目的としたリポジトリです。<br>反復的な改良により、元のモデルと同等の能力を維持しつつ、思考モードの有無に関わらずあらゆるリクエストに拒絶せず応答させることを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bモデルの拒絶反応を排除することを目的としたリポジトリです。<br>反復的な改良により、元のモデルと同等の能力を維持しつつ、思考モードの有無に関わらずあらゆるリクエストに拒絶せず応答させることを目指しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
