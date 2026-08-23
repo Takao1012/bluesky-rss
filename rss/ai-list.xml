@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:22:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I won’t lie, I’m surprised how much yall agreed with this on…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtq75w6fue2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtq75w6fue2u</guid>
+      <pubDate>Sun, 23 Aug 2026 06:30:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I won’t lie, I’m surprised how much yall agreed with this one]]></description>
+      <content:encoded><![CDATA[I won’t lie, I’m surprised how much yall agreed with this one]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   現代の私たちは、翻って未来を描くSF作家たちが描いたディストピア的景色を日常の隙間から感じ取…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtq3iolp6225</link>
@@ -462,15 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>mahlernim/google-timeline-visualizer<br>Googleマップのタイムラインファイルから旅行のアニメーション動画を作成するためのツールです。<br>AndroidアプリおよびiPhone向けウェブアプリとして提供されており、指定した期間の移動経路をMP4形式の動画に変換して保存や共有ができます。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mahlernim/google-timeline-visualizer<br>Googleマップのタイムラインファイルから旅行のアニメーション動画を作成するためのツールです。<br>AndroidアプリおよびiPhone向けウェブアプリとして提供されており、指定した期間の移動経路をMP4形式の動画に変換して保存や共有ができます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>A bunch of people told me to try @infuse, so I did.  It’s gr…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mto6md7jci2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mto6md7jci2u</guid>
-      <pubDate>Sat, 22 Aug 2026 11:20:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[A bunch of people told me to try @infuse, so I did.<br><br>It’s great. Works with my existing Plex server with no changes.<br><br>I’m now a happy paying customer and am much less interested in finishing Plop.]]></description>
-      <content:encoded><![CDATA[A bunch of people told me to try @infuse, so I did.<br><br>It’s great. Works with my existing Plex server with no changes.<br><br>I’m now a happy paying customer and am much less interested in finishing Plop.]]></content:encoded>
     </item>
   </channel>
 </rss>
