@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:10:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Munder Difflinは、あなたのPC上で動くCLIエージェントを「クローン」として2…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqivtnpde2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqivtnpde2k</guid>
+      <pubDate>Sun, 23 Aug 2026 09:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Munder Difflinは、あなたのPC上で動くCLIエージェントを「クローン」として24/7動作させ、各メンバーの作業を自動化・共有するオープンソースのマルチエージェントハーネスです。個人はローカルで完結しつつ、クラウド/ネットワーク版で組織全体の知識ベースとエージェント間の安全な通信を実現し、チーム全員の作業を効率化します。料金は個人向けPROとチーム向けプランがあり、セキュリティはローカル第一・エンドツーエンド暗号化・MITライセンスで公開されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Munder Difflinは、あなたのPC上で動くCLIエージェントを「クローン」として24/7動作させ、各メンバーの作業を自動化・共有するオープンソースのマルチエージェントハーネスです。個人はローカルで完結しつつ、クラウド/ネットワーク版で組織全体の知識ベースとエージェント間の安全な通信を実現し、チーム全員の作業を効率化します。料金は個人向けPROとチーム向けプランがあり、セキュリティはローカル第一・エンドツーエンド暗号化・MITライセンスで公開されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Munder Difflin – あなたのクローンたちが働くオフィスを運営するためのエージェント・ハーネス Munder…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqivn7dsu2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqivn7dsu2k</guid>
+      <pubDate>Sun, 23 Aug 2026 09:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Munder Difflin – あなたのクローンたちが働くオフィスを運営するためのエージェント・ハーネス<br>Munder Difflin – Agent harness to run an office of your clones<br><br>🔺 277<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Munder Difflin – あなたのクローンたちが働くオフィスを運営するためのエージェント・ハーネス<br>Munder Difflin – Agent harness to run an office of your clones<br><br>🔺 277<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   ローカル環境と参照実装の差が推論結果に影響する様子を、実験的に数種類のバックエンドや量子化設…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtqc75xvnr26</link>
@@ -453,24 +471,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[私はAIに対して盲目になりつつある。<br>I'm becoming AI-blind<br><br>🔺 389<br>💬 54<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[私はAIに対して盲目になりつつある。<br>I'm becoming AI-blind<br><br>🔺 389<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  microsoft/TypeScript TypeScriptは、大規模なJavaScri…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5vmte4a2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5vmte4a2l</guid>
-      <pubDate>Sat, 22 Aug 2026 11:22:16 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>microsoft/TypeScript<br>TypeScriptは、大規模なJavaScriptアプリケーション開発を目的とした言語です。<br>JavaScriptにオプションの型を追加することで、あらゆるブラウザ、ホスト、OSでの開発を支援します。<br>最終的に、標準的なJavaScriptにコンパイルされます。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>microsoft/TypeScript<br>TypeScriptは、大規模なJavaScriptアプリケーション開発を目的とした言語です。<br>JavaScriptにオプションの型を追加することで、あらゆるブラウザ、ホスト、OSでの開発を支援します。<br>最終的に、標準的なJavaScriptにコンパイルされます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  PostHog/posthog PostHogは、自律的な製品開発を支援するオープンソース…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5uzwidt2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mto5uzwidt2h</guid>
-      <pubDate>Sat, 22 Aug 2026 11:21:56 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>PostHog/posthog<br>PostHogは、自律的な製品開発を支援するオープンソースプラットフォームです。<br>問題の診断や機会の発見、修正に必要なツールを統合的に提供し、製品の成長を促進します。<br>Slackやウェブ、デスクトップなどの多様なインターフェースから操作でき、クラウド利用およびDockerによるセルフホスティングが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>PostHog/posthog<br>PostHogは、自律的な製品開発を支援するオープンソースプラットフォームです。<br>問題の診断や機会の発見、修正に必要なツールを統合的に提供し、製品の成長を促進します。<br>Slackやウェブ、デスクトップなどの多様なインターフェースから操作でき、クラウド利用およびDockerによるセルフホスティングが可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
