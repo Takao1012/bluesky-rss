@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:28:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>どうも、コナたんです</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtrwwkdqqc23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtrwwkdqqc23</guid>
+      <pubDate>Sun, 23 Aug 2026 23:28:10 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[どうも、コナたんです
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiflstfjjgpctgxt5yqacxx5lyra6uzipyczi4qgupf74m52x7bx7m" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[どうも、コナたんです
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiflstfjjgpctgxt5yqacxx5lyra6uzipyczi4qgupf74m52x7bx7m" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreiflstfjjgpctgxt5yqacxx5lyra6uzipyczi4qgupf74m52x7bx7m" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>最近えっくす開くとこれの広告めっちゃ出てくる……ちょっと欲しくなってる…… www.takaratomy.co.jp/p…</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtrahk56fc2q</link>
@@ -470,15 +482,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[よわい]]></description>
       <content:encoded><![CDATA[よわい]]></content:encoded>
-    </item>
-    <item>
-      <title>お腹の調子がまだ戻らない……ッ</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmtkgdsik2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtmtkgdsik2t</guid>
-      <pubDate>Fri, 21 Aug 2026 22:44:23 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[お腹の調子がまだ戻らない……ッ]]></description>
-      <content:encoded><![CDATA[お腹の調子がまだ戻らない……ッ]]></content:encoded>
     </item>
   </channel>
 </rss>
