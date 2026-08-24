@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:39:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Summary:   This is a comprehensive open-source curriculum…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttfbmag6v2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttfbmag6v2i</guid>
+      <pubDate>Mon, 24 Aug 2026 13:17:33 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>This is a comprehensive open-source curriculum for AI engineering, detailing a 20-phase, 511-lesson program that builds AI skills from basics to production, with runnable code, artifacts, and host-specific tooling for hands-on learning and real-world MCP/agent workflows.]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>This is a comprehensive open-source curriculum for AI engineering, detailing a 20-phase, 511-lesson program that builds AI skills from basics to production, with runnable code, artifacts, and host-specific tooling for hands-on learning and real-world MCP/agent workflows.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 rohitg00 / ai-engin…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttfbin7vo2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttfbin7vo2z</guid>
+      <pubDate>Mon, 24 Aug 2026 13:17:29 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 48,044 (+330)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 48,044 (+330)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></content:encoded>
+    </item>
     <item>
       <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 PostHog / posthog ⭐…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttbvvmlyy2a</link>
@@ -449,24 +467,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Omarchy is a modern Linux distribution by DHH, with a comprehensive manual hosted at manual/ and mirrored at learn.omacom.io. The manual covers extensive topics across basics, applications, configuration, and miscellaneous sections, plus system-wide guidance and licensing under (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Omarchy is a modern Linux distribution by DHH, with a comprehensive manual hosted at manual/ and mirrored at learn.omacom.io. The manual covers extensive topics across basics, applications, configuration, and miscellaneous sections, plus system-wide guidance and licensing under (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 basecamp / omarchy ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrpmffxsz25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrpmffxsz25</guid>
-      <pubDate>Sun, 23 Aug 2026 21:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 basecamp / omarchy<br>⭐ 28,626 (+803)<br>🗒 Shell<br><br>Beautiful, Modern &amp; Opinionated Linux]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 basecamp / omarchy<br>⭐ 28,626 (+803)<br>🗒 Shell<br><br>Beautiful, Modern &amp; Opinionated Linux]]></content:encoded>
-    </item>
-    <item>
-      <title>local/offline support, and optional integrations (Discord, T…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrmbbem6k2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtrmbbem6k2a</guid>
-      <pubDate>Sun, 23 Aug 2026 20:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[local/offline support, and optional integrations (Discord, Telegram, etc.). (2/2)]]></description>
-      <content:encoded><![CDATA[local/offline support, and optional integrations (Discord, Telegram, etc.). (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
