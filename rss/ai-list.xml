@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 03:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:32:25 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AIが書いたものをコピペしないでください。  🔖 198 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtshozdysr27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtshozdysr27</guid>
+      <pubDate>Mon, 24 Aug 2026 04:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIが書いたものをコピペしないでください。<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIが書いたものをコピペしないでください。<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   著者は身の回りの周辺機器を対象にエージェントを用いたリバースエンジニアリングを実施し、カメラ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsfaqv56i2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsfaqv56i2b</guid>
+      <pubDate>Mon, 24 Aug 2026 03:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>著者は身の回りの周辺機器を対象にエージェントを用いたリバースエンジニアリングを実施し、カメラやマイク、モニターなどのファームウェア更新経路やセキュリティ上の脆弱性を網羅的に検証した。その結果、ほとんどの機器が更新検証や保護を欠いており、WebHID/USB経由で正規インタラクションなしに悪用できる可能性があることが示された。さらに、ハードウェアに対する攻撃の容易さが高まり、将来的には自己増殖型のAI支援マルウェアが周辺機器へ拡散するリスクが現実的だと警鐘を鳴らしている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>著者は身の回りの周辺機器を対象にエージェントを用いたリバースエンジニアリングを実施し、カメラやマイク、モニターなどのファームウェア更新経路やセキュリティ上の脆弱性を網羅的に検証した。その結果、ほとんどの機器が更新検証や保護を欠いており、WebHID/USB経由で正規インタラクションなしに悪用できる可能性があることが示された。さらに、ハードウェアに対する攻撃の容易さが高まり、将来的には自己増殖型のAI支援マルウェアが周辺機器へ拡散するリスクが現実的だと警鐘を鳴らしている。]]></content:encoded>
+    </item>
+    <item>
+      <title>私が所有しているすべてのもの、所有済み Everything I own, owned  🔺 403 💬 34 🔗…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsfalps5725</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsfalps5725</guid>
+      <pubDate>Mon, 24 Aug 2026 03:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私が所有しているすべてのもの、所有済み<br>Everything I own, owned<br><br>🔺 403<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私が所有しているすべてのもの、所有済み<br>Everything I own, owned<br><br>🔺 403<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テッ…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsedqnfzb2a</link>
@@ -432,33 +459,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[code review, and release notes into one searchable, signed event log. (2/2)]]></description>
       <content:encoded><![CDATA[code review, and release notes into one searchable, signed event log. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Buzz is a self-hosted, Nostr-backed workspace …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtquselbff2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtquselbff2k</guid>
-      <pubDate>Sun, 23 Aug 2026 13:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Buzz is a self-hosted, Nostr-backed workspace where humans and AI agents share the same rooms and audit trail, enabling integrated collaboration across channels, repos, workflows, and media with agents having their own identity and access. It aims to unify tools like chat, CI, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Buzz is a self-hosted, Nostr-backed workspace where humans and AI agents share the same rooms and audit trail, enabling integrated collaboration across channels, repos, workflows, and media with agents having their own identity and access. It aims to unify tools like chat, CI, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 block / buzz ⭐ 29,89…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtqusaxn7t2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtqusaxn7t2h</guid>
-      <pubDate>Sun, 23 Aug 2026 13:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 block / buzz<br>⭐ 29,890 (+564)<br>🗒 Rust<br><br>A hive mind communication platform]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 block / buzz<br>⭐ 29,890 (+564)<br>🗒 Rust<br><br>A hive mind communication platform]]></content:encoded>
-    </item>
-    <item>
-      <title>multiple formats, and yields significantly fewer tokens than…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtqrgy23pk2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtqrgy23pk2c</guid>
-      <pubDate>Sun, 23 Aug 2026 12:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multiple formats, and yields significantly fewer tokens than dumping whole texts. (2/2)]]></description>
-      <content:encoded><![CDATA[multiple formats, and yields significantly fewer tokens than dumping whole texts. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
