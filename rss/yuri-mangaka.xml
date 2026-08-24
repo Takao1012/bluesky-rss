@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:16:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>プリンターの上にナマコみたいなのがある。生牡蠣かもしれない。</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtu53t3ur22v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtu53t3ur22v</guid>
+      <pubDate>Mon, 24 Aug 2026 20:23:49 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[プリンターの上にナマコみたいなのがある。生牡蠣かもしれない。
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreigiuitymz6fcpa45isrdn6q3lhpf2alxhd3oyxqbut37giy2vyc4m" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[プリンターの上にナマコみたいなのがある。生牡蠣かもしれない。
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreigiuitymz6fcpa45isrdn6q3lhpf2alxhd3oyxqbut37giy2vyc4m" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/bafkreigiuitymz6fcpa45isrdn6q3lhpf2alxhd3oyxqbut37giy2vyc4m" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>お腹が痛いので猫を抱くことで腹を温めている</title>
       <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mttxieunp22x</link>
@@ -468,15 +480,6 @@
       <author>コダマナオコ (@powder705.bsky.social)</author>
       <description><![CDATA[コナたん体重測定5.5kg]]></description>
       <content:encoded><![CDATA[コナたん体重測定5.5kg]]></content:encoded>
-    </item>
-    <item>
-      <title>コミティアはコミケよりも朝ゆっくりできて助かるー</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtofyqc4rk2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtofyqc4rk2a</guid>
-      <pubDate>Sat, 22 Aug 2026 13:47:11 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[コミティアはコミケよりも朝ゆっくりできて助かるー]]></description>
-      <content:encoded><![CDATA[コミティアはコミケよりも朝ゆっくりできて助かるー]]></content:encoded>
     </item>
   </channel>
 </rss>

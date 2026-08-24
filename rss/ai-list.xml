@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:16:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 openclaw / openclaw ⭐ 3…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtu4qeegzx2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtu4qeegzx2h</guid>
+      <pubDate>Mon, 24 Aug 2026 20:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 openclaw / openclaw<br>⭐ 387,303 (+160)<br>🗒 TypeScript<br><br>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 openclaw / openclaw<br>⭐ 387,303 (+160)<br>🗒 TypeScript<br><br>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞]]></content:encoded>
+    </item>
     <item>
       <title>Xiaomi：新しいCPUはAppleのコアに匹敵するシングルスレッド性能を持ち、マルチスレッド性能は格段に高速だ Xi…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtu2vkyvvm25</link>
@@ -450,15 +459,6 @@
       <content:encoded><![CDATA[It’s crazy how much more fun it is to code with AI when you own your entire stack
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai5eqcgdxp4vigvsdpkcdoqmknapixgz6hvrvqimyiemq3a6c4im" alt="Quote Tweet: https://twitter.com/i/status/2091244962738221554" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiai5eqcgdxp4vigvsdpkcdoqmknapixgz6hvrvqimyiemq3a6c4im" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 “SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベース…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsofmh25527</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsofmh25527</guid>
-      <pubDate>Mon, 24 Aug 2026 06:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 “SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する<br><br>🔖 201 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 “SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する<br><br>🔖 201 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
