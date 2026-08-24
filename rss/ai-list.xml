@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:32:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ  🔖 18…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsv4gytt42z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsv4gytt42z</guid>
+      <pubDate>Mon, 24 Aug 2026 08:28:20 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   経験豊富なエンジニアが語る「解くべき問題の見つけ方」: 日常の声に耳を傾け問題を蓄積・関連づ…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsso54trk2m</link>
@@ -455,15 +464,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Hermes Agent is a self-improving AI assistant that runs across CLI and messaging gateways, supports many backends, memory-skills loop, and serverless, cross-platform deployment with extensive docs and migration from OpenClaw. It offers a unified setup, tool gateway via Nous (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Hermes Agent is a self-improving AI assistant that runs across CLI and messaging gateways, supports many backends, memory-skills loop, and serverless, cross-platform deployment with extensive docs and migration from OpenClaw. It offers a unified setup, tool gateway via Nous (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 NousResearch / herm…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtr3ip77yu2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtr3ip77yu2l</guid>
-      <pubDate>Sun, 23 Aug 2026 15:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 NousResearch / hermes-agent<br>⭐ 234,607 (+443)<br>🗒 Python<br><br>The agent that grows with you]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 NousResearch / hermes-agent<br>⭐ 234,607 (+443)<br>🗒 Python<br><br>The agent that grows with you]]></content:encoded>
     </item>
   </channel>
 </rss>
