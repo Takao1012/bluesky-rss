@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:20:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Google Workspaceの新規登録時に「Enter a valid domain n…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqk5q63s2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqk5q63s2k</guid>
+      <pubDate>Tue, 25 Aug 2026 11:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Google Workspaceの新規登録時に「Enter a valid domain name instead of an email provider」という謎のエラーが発生。著者は問題の原因を調査し、フロントエンドの入力検証がドメインを不当に「メールプロバイダ」と判定していることを突き止め、コードの特定リストにより.me.gov.uaのような正当なドメインも弾かれていたと説明。最終的に该検証を無効化することで登録を成功させたが、これはサーバー側の検証ではなくフロントエンドの問題だった。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Google Workspaceの新規登録時に「Enter a valid domain name instead of an email provider」という謎のエラーが発生。著者は問題の原因を調査し、フロントエンドの入力検証がドメインを不当に「メールプロバイダ」と判定していることを突き止め、コードの特定リストにより.me.gov.uaのような正当なドメインも弾かれていたと説明。最終的に该検証を無効化することで登録を成功させたが、これはサーバー側の検証ではなくフロントエンドの問題だった。]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025） Google Worksp…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqjyr6xw2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqjyr6xw2p</guid>
+      <pubDate>Tue, 25 Aug 2026 11:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025）<br>Google Workspace thinks my domain is an email provider (2025)<br><br>🔺 382<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025）<br>Google Workspace thinks my domain is an email provider (2025)<br><br>🔺 382<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  AgriciDaniel/claude-obsidian Claude CodeおよびAg…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoxfwyc2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoxfwyc2h</guid>
+      <pubDate>Tue, 25 Aug 2026 11:29:18 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>AgriciDaniel/claude-obsidian<br>Claude CodeおよびAgent Skills対応ホスト向けのローカルファーストな知識管理システムです。<br>ソース資料を引用付きのリンクされたObsidianページに変換し、蓄積された根拠に基づく回答を生成します。<br>リサーチやメンテナンスなどのワークフローを提供し、データは標準的なMarkdown形式で保持されます。<br>ユーザーがファイルの所有権を維持したまま、利用するほど有用な知識ベースを構築することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>AgriciDaniel/claude-obsidian<br>Claude CodeおよびAgent Skills対応ホスト向けのローカルファーストな知識管理システムです。<br>ソース資料を引用付きのリンクされたObsidianページに変換し、蓄積された根拠に基づく回答を生成します。<br>リサーチやメンテナンスなどのワークフローを提供し、データは標準的なMarkdown形式で保持されます。<br>ユーザーがファイルの所有権を維持したまま、利用するほど有用な知識ベースを構築することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  TauricResearch/TradingAgents TradingAgentsは、L…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoemwpq2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoemwpq2g</guid>
+      <pubDate>Tue, 25 Aug 2026 11:28:58 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>TauricResearch/TradingAgents<br>TradingAgentsは、LLMを活用した複数の専門エージェントで構成される研究用の金融取引フレームワークです。<br>ファンダメンタル分析やテクニカル分析、リスク管理などの役割を持つエージェントが連携し、議論を通じて最適な取引戦略を導き出すことで、現実の取引会社の仕組みを再現します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>TauricResearch/TradingAgents<br>TradingAgentsは、LLMを活用した複数の専門エージェントで構成される研究用の金融取引フレームワークです。<br>ファンダメンタル分析やテクニカル分析、リスク管理などの役割を持つエージェントが連携し、議論を通じて最適な取引戦略を導き出すことで、現実の取引会社の仕組みを再現します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  apache/maka Apache Makaは、実務向けのローカルファーストなエージェン…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpnf5cqj2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpnf5cqj2v</guid>
+      <pubDate>Tue, 25 Aug 2026 11:28:25 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>apache/maka<br>Apache Makaは、実務向けのローカルファーストなエージェントワークスペースです。<br>ユーザーのPC上でプロジェクトの解析やサンドボックス内でのツール実行を行い、モデルのメッセージやツール呼び出しを復元可能な実行ファクトとして記録します。<br>デスクトップアプリやCLIを通じて、安全で管理可能なエージェント実行環境を提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>apache/maka<br>Apache Makaは、実務向けのローカルファーストなエージェントワークスペースです。<br>ユーザーのPC上でプロジェクトの解析やサンドボックス内でのツール実行を行い、モデルのメッセージやツール呼び出しを復元可能な実行ファクトとして記録します。<br>デスクトップアプリやCLIを通じて、安全で管理可能なエージェント実行環境を提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  anthropics/claude-plugins-community Claude Co…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpmu4tip2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpmu4tip2s</guid>
+      <pubDate>Tue, 25 Aug 2026 11:28:07 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-community<br>Claude CoworkおよびClaude Code向けにコミュニティが提供するプラグインを管理するリポジトリです。<br>Anthropicによるセキュリティ審査と承認を受けたプラグインのリストを保持する読み取り専用のミラーとして機能しており、 nightlyに更新されます。<br>ユーザーはここを通じて承認済みのプラグインをインストールできます。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-community<br>Claude CoworkおよびClaude Code向けにコミュニティが提供するプラグインを管理するリポジトリです。<br>Anthropicによるセキュリティ審査と承認を受けたプラグインのリストを保持する読み取り専用のミラーとして機能しており、 nightlyに更新されます。<br>ユーザーはここを通じて承認済みのプラグインをインストールできます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  freestylefly/awesome-gpt-image-2 産業用プロンプトエンジン…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpjnrwp22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpjnrwp22h</guid>
+      <pubDate>Tue, 25 Aug 2026 11:26:20 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></content:encoded>
+    </item>
     <item>
       <title>今日のHuggingFaceトレンド  JonathanColetti/Qwen3.8-27B-Uncensored-G…</title>
       <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmlkyjt22z</link>
@@ -408,69 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[recoverable transactions, source-backed claims, and multiple filing methodologies (LYT, PARA, Zettelkasten). (2/2)]]></description>
       <content:encoded><![CDATA[recoverable transactions, source-backed claims, and multiple filing methodologies (LYT, PARA, Zettelkasten). (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Claude-Obsidian is a local-first Obsidian inte…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttvzqoq5u2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttvzqoq5u2y</guid>
-      <pubDate>Mon, 24 Aug 2026 18:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Claude-Obsidian is a local-first Obsidian integration that ingests, grounds, and links local sources into a provenance-aware knowledge vault, enabling grounded Q&A, linked notes, and configurable knowledge workflows while keeping all files owned by the user. It emphasizes safe, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Claude-Obsidian is a local-first Obsidian integration that ingests, grounds, and links local sources into a provenance-aware knowledge vault, enabling grounded Q&A, linked notes, and configurable knowledge workflows while keeping all files owned by the user. It emphasizes safe, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 AgriciDaniel / clau…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttvznhanh24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttvznhanh24</guid>
-      <pubDate>Mon, 24 Aug 2026 18:17:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 AgriciDaniel / claude-obsidian<br>⭐ 11,496 (+272)<br>🗒 Python<br><br>Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking,...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 AgriciDaniel / claude-obsidian<br>⭐ 11,496 (+272)<br>🗒 Python<br><br>Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking,...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   17歳なら、ゼロからLLMを作る方法を学び、手元の手に入るハードウェアで可能な限り強力なモデ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttu74eszn23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttu74eszn23</guid>
-      <pubDate>Mon, 24 Aug 2026 17:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>17歳なら、ゼロからLLMを作る方法を学び、手元の手に入るハードウェアで可能な限り強力なモデルを訓練するだろう、という趣旨の発言。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>17歳なら、ゼロからLLMを作る方法を学び、手元の手に入るハードウェアで可能な限り強力なモデルを訓練するだろう、という趣旨の発言。]]></content:encoded>
-    </item>
-    <item>
-      <title>もし私が17歳だったら、ゼロから大規模言語モデルを作る方法を学ぶだろう。 I were 17, I&apos;d learn ho…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttu6tvqpv2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttu6tvqpv2u</guid>
-      <pubDate>Mon, 24 Aug 2026 17:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[もし私が17歳だったら、ゼロから大規模言語モデルを作る方法を学ぶだろう。<br>I were 17, I'd learn how to build LLMs from scratch<br><br>🔺 406<br>💬 131<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[もし私が17歳だったら、ゼロから大規模言語モデルを作る方法を学ぶだろう。<br>I were 17, I'd learn how to build LLMs from scratch<br><br>🔺 406<br>💬 131<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>extensive customization for templates, portals, and market-s…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttsoa3wwz24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttsoa3wwz24</guid>
-      <pubDate>Mon, 24 Aug 2026 17:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[extensive customization for templates, portals, and market-specific tools. It emphasizes a privacy-minded, offline-friendly workflow you run locally. (2/2)]]></description>
-      <content:encoded><![CDATA[extensive customization for templates, portals, and market-specific tools. It emphasizes a privacy-minded, offline-friendly workflow you run locally. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   An open-source, Claude Code–driven framework t…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttsoa2o4d25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttsoa2o4d25</guid>
-      <pubDate>Mon, 24 Aug 2026 17:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>An open-source, Claude Code–driven framework that automates a full job-search pipeline: it profiles you, scrapes relevant job postings, evaluates fit, auto-generates tailored CVs and cover letters, and guides you through interviews, with a robust PDF/ATS verification loop and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>An open-source, Claude Code–driven framework that automates a full job-search pipeline: it profiles you, scrapes relevant job postings, evaluates fit, auto-generates tailored CVs and cover letters, and guides you through interviews, with a robust PDF/ATS verification loop and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 MadsLorentzen / ai-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttso4u4tp2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttso4u4tp2p</guid>
-      <pubDate>Mon, 24 Aug 2026 17:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MadsLorentzen / ai-job-search<br>⭐ 33,445 (+378)<br>🗒 Python<br><br>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MadsLorentzen / ai-job-search<br>⭐ 33,445 (+378)<br>🗒 Python<br><br>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.]]></content:encoded>
     </item>
   </channel>
 </rss>
