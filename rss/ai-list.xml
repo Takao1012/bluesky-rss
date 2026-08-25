@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:25:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   新しい Sign in with Apple のアドレスが、従来の privaterelay…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvd53kedo2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvd53kedo2u</guid>
+      <pubDate>Tue, 25 Aug 2026 07:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>新しい Sign in with Apple のアドレスが、従来の privaterelay.appleid.com に加えて、2026年後半から private.icloud.com でも発行されるようになります。既存の privaterelay.appleid.com のアドレスは引き続き機能し、メールはユーザーへ転送されます。開発者は新しい private.icloud.com ドメインにも対応できるよう、アカウント検証や許可リストを更新してください。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>新しい Sign in with Apple のアドレスが、従来の privaterelay.appleid.com に加えて、2026年後半から private.icloud.com でも発行されるようになります。既存の privaterelay.appleid.com のアドレスは引き続き機能し、メールはユーザーへ転送されます。開発者は新しい private.icloud.com ドメインにも対応できるよう、アカウント検証や許可リストを更新してください。]]></content:encoded>
+    </item>
+    <item>
+      <title>iCloud+のHide My EmailアドレスはiCloud.comに残ります。 iCloud+ Hide My E…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvd4vwosg2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvd4vwosg2c</guid>
+      <pubDate>Tue, 25 Aug 2026 07:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[iCloud+のHide My EmailアドレスはiCloud.comに残ります。<br>iCloud+ Hide My Email addresses will remain on icloud.com<br><br>🔺 409<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[iCloud+のHide My EmailアドレスはiCloud.comに残ります。<br>iCloud+ Hide My Email addresses will remain on icloud.com<br><br>🔺 409<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I asked Opus 5 to do a review of a specific PR. It ran the w…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtvclznsx62x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtvclznsx62x</guid>
+      <pubDate>Tue, 25 Aug 2026 05:58:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I asked Opus 5 to do a review of a specific PR. It ran the wrong diff command and reviewed the last 5 PRs that merged.<br><br>Incredible model.]]></description>
+      <content:encoded><![CDATA[I asked Opus 5 to do a review of a specific PR. It ran the wrong diff command and reviewed the last 5 PRs that merged.<br><br>Incredible model.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   サンフランシスコを舞台にしたオンライン地図/ゲームの画面情報で、タイル読み込み状況や現在地周…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtv4gdvwve2p</link>
@@ -444,33 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[emphasizes ongoing development, security responsiveness, and broad developer and user collaboration. (2/2)]]></description>
       <content:encoded><![CDATA[emphasizes ongoing development, security responsiveness, and broad developer and user collaboration. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Plane is an open-source, end-to-end project ma…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimjw3av2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimjw3av2m</guid>
-      <pubDate>Mon, 24 Aug 2026 14:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Plane is an open-source, end-to-end project management tool with features like work items, cycles, modules, views, pages, and analytics, offered in Cloud or self-hosted deployments, backed by documentation, community forums, and a permissive contribution model. The project (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Plane is an open-source, end-to-end project management tool with features like work items, cycles, modules, views, pages, and analytics, offered in Cloud or self-hosted deployments, backed by documentation, community forums, and a permissive contribution model. The project (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 makeplane / plane ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimhds2j2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimhds2j2l</guid>
-      <pubDate>Mon, 24 Aug 2026 14:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 makeplane / plane<br>⭐ 57,659 (+390)<br>🗒 TypeScript<br><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 makeplane / plane<br>⭐ 57,659 (+390)<br>🗒 TypeScript<br><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   アメリカの投資会社アンドリーセン・ホロウィッツ（a16z）は、AI政策の主導権を握ろうと数十…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttgrtfhdp2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttgrtfhdp2k</guid>
-      <pubDate>Mon, 24 Aug 2026 13:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>アメリカの投資会社アンドリーセン・ホロウィッツ（a16z）は、AI政策の主導権を握ろうと数十百万ドルを投じて影響力を拡大中。この記事は、同社の18件にわたる投資の事例を挙げ、偽情報の拡散を助長するボット運用や、賭博規制の抜け道を突くアプリ、倫理に反するAIツールの開発・普及など、規制緩和を好む同社の「境界を越える」投資のパターンを批判的に検証している。結論として、公共の利益より同社の利益を優先する政策形成の懸念が指摘されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>アメリカの投資会社アンドリーセン・ホロウィッツ（a16z）は、AI政策の主導権を握ろうと数十百万ドルを投じて影響力を拡大中。この記事は、同社の18件にわたる投資の事例を挙げ、偽情報の拡散を助長するボット運用や、賭博規制の抜け道を突くアプリ、倫理に反するAIツールの開発・普及など、規制緩和を好む同社の「境界を越える」投資のパターンを批判的に検証している。結論として、公共の利益より同社の利益を優先する政策形成の懸念が指摘されている。]]></content:encoded>
     </item>
   </channel>
 </rss>
