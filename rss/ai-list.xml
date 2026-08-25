@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:28:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Got feedback? Let us know 👇  gh.io/issue-updates</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mtujmxtkzk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mtujmxtkzk2o</guid>
+      <pubDate>Tue, 25 Aug 2026 00:08:09 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[Got feedback? Let us know 👇 <br>gh.io/issue-updates]]></description>
+      <content:encoded><![CDATA[Got feedback? Let us know 👇 <br>gh.io/issue-updates]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀  New updates in GitHub Issues • Pin views in the Issues s…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mtuivx26y62f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mtuivx26y62f</guid>
+      <pubDate>Mon, 24 Aug 2026 23:55:17 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[🚀  New updates in GitHub Issues<br>• Pin views in the Issues sidebar<br>• See profile avatars for reactions<br>• Adjust dashboard density <br>• Hide closed sub-issues<br>• Scope-aware Issue dependency REST API]]></description>
+      <content:encoded><![CDATA[🚀  New updates in GitHub Issues<br>• Pin views in the Issues sidebar<br>• See profile avatars for reactions<br>• Adjust dashboard density <br>• Hide closed sub-issues<br>• Scope-aware Issue dependency REST API]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   MicrosoftのPaintとPhotosは、ローカル生成とクラウド経由の生成の両方を組み…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtuico3yq22k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtuico3yq22k</guid>
+      <pubDate>Mon, 24 Aug 2026 23:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>MicrosoftのPaintとPhotosは、ローカル生成とクラウド経由の生成の両方を組み合わせており、リモートでのプロンプト審査後にGUIDを取得し、それを見えない水印として画像に埋め込む仕組みを持つ。さらにC2PAメタデータとして署名付きのコンテンツ証跡を付与し、PNG/JPEG/GIF/.paintなど特定フォーマットで保存される。ローカル生成でも同様の水印付与が行われ、クラウド生成とローカル生成の境界でプロビデンスが結びつく構造になっている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>MicrosoftのPaintとPhotosは、ローカル生成とクラウド経由の生成の両方を組み合わせており、リモートでのプロンプト審査後にGUIDを取得し、それを見えない水印として画像に埋め込む仕組みを持つ。さらにC2PAメタデータとして署名付きのコンテンツ証跡を付与し、PNG/JPEG/GIF/.paintなど特定フォーマットで保存される。ローカル生成でも同様の水印付与が行われ、クラウド生成とローカル生成の境界でプロビデンスが結びつく構造になっている。]]></content:encoded>
+    </item>
+    <item>
+      <title>MS PaintとPhotosは、ローカルで生成した出力にも見えない透かしを付け、GUIDを用いています。 MS Pai…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtuicilcyq2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtuicilcyq2m</guid>
+      <pubDate>Mon, 24 Aug 2026 23:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[MS PaintとPhotosは、ローカルで生成した出力にも見えない透かしを付け、GUIDを用いています。<br>MS Paint and Photos inivisibly watermark even locally generated output with GUID<br><br>🔺 513<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[MS PaintとPhotosは、ローカルで生成した出力にも見えない透かしを付け、GUIDを用いています。<br>MS Paint and Photos inivisibly watermark even locally generated output with GUID<br><br>🔺 513<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Hot take: I don’t want responses streamed anymore. Just give…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtuimnlj7w2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtuimnlj7w2x</guid>
+      <pubDate>Mon, 24 Aug 2026 23:22:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Hot take: I don’t want responses streamed anymore. Just give me the whole paragraph/block when it is done.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7xm6cyes56djxszsyd3gm56mlxixrz37k2yjuhbmpgu5quvqfmi" alt="Quote Tweet: https://twitter.com/i/status/2092006814804214163" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Hot take: I don’t want responses streamed anymore. Just give me the whole paragraph/block when it is done.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7xm6cyes56djxszsyd3gm56mlxixrz37k2yjuhbmpgu5quvqfmi" alt="Quote Tweet: https://twitter.com/i/status/2092006814804214163" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7xm6cyes56djxszsyd3gm56mlxixrz37k2yjuhbmpgu5quvqfmi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Today marks 9 months since coding was solved</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugxapkvb2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugxapkvb2x</guid>
+      <pubDate>Mon, 24 Aug 2026 23:19:37 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Today marks 9 months since coding was solved
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Today marks 9 months since coding was solved
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Increasingly hopeful that 10xn will enable the long term imp…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugwypcq42y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugwypcq42y</guid>
+      <pubDate>Mon, 24 Aug 2026 23:09:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Increasingly hopeful that 10xn will enable the long term impact I'm trying to have on this space. So proud of what we've built here.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicwb6aap4av32ksyu3knk2n5qafqyasx7dw3ywfqe4h5wbtlgc6lq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Increasingly hopeful that 10xn will enable the long term impact I'm trying to have on this space. So proud of what we've built here.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicwb6aap4av32ksyu3knk2n5qafqyasx7dw3ywfqe4h5wbtlgc6lq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicwb6aap4av32ksyu3knk2n5qafqyasx7dw3ywfqe4h5wbtlgc6lq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>ld.so の機能を SQL で実現する self-ld のプロトタイプも紹介している。   - パフォーマンス面では …</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtubm7ijvu2u</link>
@@ -396,69 +468,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  OBLITERATUS/Qwen3.8-27B-OBLITERATED Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtt45nhtni25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtt45nhtni25</guid>
-      <pubDate>Mon, 24 Aug 2026 10:34:17 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bをベースに、安全性の制限や検閲を排除して制約のない回答を生成することを目的としたリポジトリです。<br>特にV3では、定型的な拒絶や説教のような回答をなくし、元のモデルが拒否するサイバータスクやコード作成などのリクエストに対しても直接的な回答を提供します。<br>元のモデルに近い性能を維持しつつ、自由な出力を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bをベースに、安全性の制限や検閲を排除して制約のない回答を生成することを目的としたリポジトリです。<br>特にV3では、定型的な拒絶や説教のような回答をなくし、元のモデルが拒否するサイバータスクやコード作成などのリクエストに対しても直接的な回答を提供します。<br>元のモデルに近い性能を維持しつつ、自由な出力を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  orcarouter/Qwen3.8-27B-Uncensored-MLX Qw…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtt452vc7e2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtt452vc7e2a</guid>
-      <pubDate>Mon, 24 Aug 2026 10:33:57 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-MLX<br>Qwen3.8-27Bの拒絶メカニズムを削除し、Apple Silicon向けにMLX形式で量子化したモデルを提供するためのリポジトリです。<br>2、4、6、8ビットの量子化精度が用意されており、安全ガードレールが除去されているため、研究や検証用途に適しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-MLX<br>Qwen3.8-27Bの拒絶メカニズムを削除し、Apple Silicon向けにMLX形式で量子化したモデルを提供するためのリポジトリです。<br>2、4、6、8ビットの量子化精度が用意されており、安全ガードレールが除去されているため、研究や検証用途に適しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>デバイス管理など幅広いオープンソースツールの動向を短く網羅している。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszexkpzl25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszexkpzl25</guid>
-      <pubDate>Mon, 24 Aug 2026 09:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[デバイス管理など幅広いオープンソースツールの動向を短く網羅している。 (2/2)]]></description>
-      <content:encoded><![CDATA[デバイス管理など幅広いオープンソースツールの動向を短く網羅している。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   以下は、記事の要約です。  - 人気・新着のオープンソースプロジェクトが一覧表示されており、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszexgqlw23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszexgqlw23</guid>
-      <pubDate>Mon, 24 Aug 2026 09:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>以下は、記事の要約です。<br><br>- 人気・新着のオープンソースプロジェクトが一覧表示されており、機能別のカテゴリやライセンス、評価が併記されている。例として Equalizer APO、OpenZiti、Nebula、Jellyfin などが挙げられる。<br>- 各プロジェクトは名称、用途、ライセンス、評価、更新状況がコンパクトに並べられ、最近の話題入りプロジェクトも「Most discussed」セクションに集約されている。<br>- 全体として、スマートデバイス連携、VPN/セキュリティ、メディア・ストリーミング、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>以下は、記事の要約です。<br><br>- 人気・新着のオープンソースプロジェクトが一覧表示されており、機能別のカテゴリやライセンス、評価が併記されている。例として Equalizer APO、OpenZiti、Nebula、Jellyfin などが挙げられる。<br>- 各プロジェクトは名称、用途、ライセンス、評価、更新状況がコンパクトに並べられ、最近の話題入りプロジェクトも「Most discussed」セクションに集約されている。<br>- 全体として、スマートデバイス連携、VPN/セキュリティ、メディア・ストリーミング、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>肥大化を抑えたオープンソースの代替ソフトウェアのウェブサイト A website for debloated open …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszerrtyp2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtszerrtyp2u</guid>
-      <pubDate>Mon, 24 Aug 2026 09:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[肥大化を抑えたオープンソースの代替ソフトウェアのウェブサイト<br>A website for debloated open source alternatives<br><br>🔺 338<br>💬 23<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[肥大化を抑えたオープンソースの代替ソフトウェアのウェブサイト<br>A website for debloated open source alternatives<br><br>🔺 338<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ  🔖 18…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsv4gytt42z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtsv4gytt42z</guid>
-      <pubDate>Mon, 24 Aug 2026 08:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   経験豊富なエンジニアが語る「解くべき問題の見つけ方」: 日常の声に耳を傾け問題を蓄積・関連づ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsso54trk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtsso54trk2m</guid>
-      <pubDate>Mon, 24 Aug 2026 07:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>経験豊富なエンジニアが語る「解くべき問題の見つけ方」: 日常の声に耳を傾け問題を蓄積・関連づけて本質を見抜く力を養い、正しい問題を解くことで信頼と影響力を築く。机上で戦略を考えるよりも、現場観察と対話を通じて共通の課題の形を見つけ、検証と段階的な実行を経て組織のロードマップに影響を与える。最後に、問題を見つけることは仕事の一部であり、人と関わり続けることで真に重要な課題へとつながっていく。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>経験豊富なエンジニアが語る「解くべき問題の見つけ方」: 日常の声に耳を傾け問題を蓄積・関連づけて本質を見抜く力を養い、正しい問題を解くことで信頼と影響力を築く。机上で戦略を考えるよりも、現場観察と対話を通じて共通の課題の形を見つけ、検証と段階的な実行を経て組織のロードマップに影響を与える。最後に、問題を見つけることは仕事の一部であり、人と関わり続けることで真に重要な課題へとつながっていく。]]></content:encoded>
     </item>
   </channel>
 </rss>
