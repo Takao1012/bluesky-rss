@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:14:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  JonathanColetti/Qwen3.8-27B-Uncensored-G…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmlkyjt22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmlkyjt22z</guid>
+      <pubDate>Tue, 25 Aug 2026 10:33:43 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bの拒絶反応を大幅に軽減したアンセンサード版を、GGUF形式で提供することを目的としています。<br>マルチトークン予測（MTP）ヘッドを保持し検証済みであり、llama.cppなどで利用可能です。<br>追加の学習やファインチューニングを行わずに拒絶挙動を抑制しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bの拒絶反応を大幅に軽減したアンセンサード版を、GGUF形式で提供することを目的としています。<br>マルチトークン予測（MTP）ヘッドを保持し検証済みであり、llama.cppなどで利用可能です。<br>追加の学習やファインチューニングを行わずに拒絶挙動を抑制しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmkyur772x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmkyur772x</guid>
+      <pubDate>Tue, 25 Aug 2026 10:33:24 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmfc3ztq24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmfc3ztq24</guid>
+      <pubDate>Tue, 25 Aug 2026 10:30:12 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに検閲を排除し、直接的な回答を可能にしたモデルを提供することが目的です。<br>HauhauCS FastMTPにより文書生成と推論を高速化しつつ、元のモデルが持つテキスト、推論、エージェント、画像、ビデオ機能を維持しています。<br>GGUF形式で配布されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに検閲を排除し、直接的な回答を可能にしたモデルを提供することが目的です。<br>HauhauCS FastMTPにより文書生成と推論を高速化しつつ、元のモデルが持つテキスト、推論、エージェント、画像、ビデオ機能を維持しています。<br>GGUF形式で配布されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルの最新世…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmer5dgm2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmer5dgm2s</guid>
+      <pubDate>Tue, 25 Aug 2026 10:29:55 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルの最新世代であるQwen3.8-27Bを提供するためのリポジトリです。<br>コーディングや研究、エージェントタスク等の性能を向上させ、画像や動画を理解する視覚言語モデルを実現しています。<br>柔軟な思考制御やツール呼び出しの改善に加え、Unsloth Dynamic 3.0による高精度な量子化版を提供し、効率的なデプロイと運用を支援します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルの最新世代であるQwen3.8-27Bを提供するためのリポジトリです。<br>コーディングや研究、エージェントタスク等の性能を向上させ、画像や動画を理解する視覚言語モデルを実現しています。<br>柔軟な思考制御やツール呼び出しの改善に加え、Unsloth Dynamic 3.0による高精度な量子化版を提供し、効率的なデプロイと運用を支援します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvme3rnic2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvme3rnic2m</guid>
+      <pubDate>Tue, 25 Aug 2026 10:29:32 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクでの性能向上を実現しています。<br>コンパクトで展開しやすい設計により、複雑で多段階のタスクを高い信頼性で遂行することを目的に作成されました。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクでの性能向上を実現しています。<br>コンパクトで展開しやすい設計により、複雑で多段階のタスクを高い信頼性で遂行することを目的に作成されました。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに  🔖 157 ブックマーク 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtvmbo3ju72z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtvmbo3ju72z</guid>
+      <pubDate>Tue, 25 Aug 2026 10:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   LLMを活用したコード品質向上の経緯と手法について、著者が2025年初頭にはコードが動作しな…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvjtqoco52u</link>
@@ -417,60 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MadsLorentzen / ai-job-search<br>⭐ 33,445 (+378)<br>🗒 Python<br><br>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 MadsLorentzen / ai-job-search<br>⭐ 33,445 (+378)<br>🗒 Python<br><br>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 tashfeenahmed / freellm…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttpdeu7id2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttpdeu7id2x</guid>
-      <pubDate>Mon, 24 Aug 2026 16:17:30 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 tashfeenahmed / freellmapi<br>⭐ 19,591 (+153)<br>🗒 TypeScript<br><br>OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, ...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 tashfeenahmed / freellmapi<br>⭐ 19,591 (+153)<br>🗒 TypeScript<br><br>OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, ...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   EUの新しい包装規制PPWRが、マイクロ事業者や自営業者を中心に創業期の革新を危機にさらして…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttnikdj4u2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttnikdj4u2u</guid>
-      <pubDate>Mon, 24 Aug 2026 15:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>EUの新しい包装規制PPWRが、マイクロ事業者や自営業者を中心に創業期の革新を危機にさらしている。国ごとに登録や費用が発生する負担が過大で、欧州市場全体へ跨る販売が困難になるため、 Lectronzのような小規模プラットフォームや個人クリエイターの存続が脅かされている。解決策としてEU全体の閾値設け、One Stop Shopの創設、マーケットプレイスがまとめて代理登録する制度が提案されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>EUの新しい包装規制PPWRが、マイクロ事業者や自営業者を中心に創業期の革新を危機にさらしている。国ごとに登録や費用が発生する負担が過大で、欧州市場全体へ跨る販売が困難になるため、 Lectronzのような小規模プラットフォームや個人クリエイターの存続が脅かされている。解決策としてEU全体の閾値設け、One Stop Shopの創設、マーケットプレイスがまとめて代理登録する制度が提案されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>欧州がメイカーズとマイクロ起業家を潰す方法 How Europe is killing makers and micro…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttnia672p2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mttnia672p2m</guid>
-      <pubDate>Mon, 24 Aug 2026 15:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[欧州がメイカーズとマイクロ起業家を潰す方法<br>How Europe is killing makers and micro-entrepreneurs<br><br>🔺 504<br>💬 84<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[欧州がメイカーズとマイクロ起業家を潰す方法<br>How Europe is killing makers and micro-entrepreneurs<br><br>🔺 504<br>💬 84<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応  🔖 156 ブックマーク �…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mttmlbmxql2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mttmlbmxql2z</guid>
-      <pubDate>Mon, 24 Aug 2026 15:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>installation. It emphasizes configurable, opt-in features, n…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxpb4g52a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxpb4g52a</guid>
-      <pubDate>Mon, 24 Aug 2026 15:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[installation. It emphasizes configurable, opt-in features, no telemetry, and easy install/uninstall. (2/2)]]></description>
-      <content:encoded><![CDATA[installation. It emphasizes configurable, opt-in features, no telemetry, and easy install/uninstall. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Vorssaint is a free, open-source macOS utility…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxp7lkn2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxp7lkn2d</guid>
-      <pubDate>Mon, 24 Aug 2026 15:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Vorssaint is a free, open-source macOS utility that centralizes per-app audio control, system monitoring, window management, clipboard/history tools, and a wide array of utilities behind a single menu bar icon, with a privacy-first, local-first design and modular feature (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Vorssaint is a free, open-source macOS utility that centralizes per-app audio control, system monitoring, window management, clipboard/history tools, and a wide array of utilities behind a single menu bar icon, with a privacy-first, local-first design and modular feature (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
