@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:31:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxatdacu2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxatdacu2t</guid>
+      <pubDate>Tue, 25 Aug 2026 13:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬キャラクターです。複雑な指示の実行、マルチターンの計画、戦闘や探索、性格の進化などをローカル処理と高度なAI技術で実現し、ゲーム内外を跨いだ「voidモード」も備えています。著者は低遅延・高プライバシーを優先しつつ、オープンソース化と複数NPC対応を目指して技術構成を解説しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬キャラクターです。複雑な指示の実行、マルチターンの計画、戦闘や探索、性格の進化などをローカル処理と高度なAI技術で実現し、ゲーム内外を跨いだ「voidモード」も備えています。著者は低遅延・高プライバシーを優先しつつ、オープンソース化と複数NPC対応を目指して技術構成を解説しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。 I built a low-latency …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxamytvh2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxamytvh2u</guid>
+      <pubDate>Tue, 25 Aug 2026 13:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 asciimoo / hister ⭐ 2,5…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtvvqikxdj2h</link>
@@ -453,24 +471,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[Been waiting awhile to share this. <br><br>Introducing 10xn <br><br>Video: https://twitter.com/theo/status/2091970704442871898]]></description>
       <content:encoded><![CDATA[Been waiting awhile to share this. <br><br>Introducing 10xn <br><br>Video: https://twitter.com/theo/status/2091970704442871898]]></content:encoded>
-    </item>
-    <item>
-      <title>development and provides detailed install guides, device sup…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttzeqgrk42i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttzeqgrk42i</guid>
-      <pubDate>Mon, 24 Aug 2026 19:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[development and provides detailed install guides, device support (Mice, Keyboards, Cameras), and cross-platform packaging. (2/2)]]></description>
-      <content:encoded><![CDATA[development and provides detailed install guides, device support (Mice, Keyboards, Cameras), and cross-platform packaging. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OpenLogi is a Rust-based, local-first alternat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttzeqfkuu2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttzeqfkuu2h</guid>
-      <pubDate>Mon, 24 Aug 2026 19:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OpenLogi is a Rust-based, local-first alternative to Logitech Options+ that supports macOS, Linux, and Windows, offering per-button gestures, application-focused profiles, LED lighting, and a simple TOML config with a CLI, aiming to run natively on Linux. It’s in active (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OpenLogi is a Rust-based, local-first alternative to Logitech Options+ that supports macOS, Linux, and Windows, offering per-button gestures, application-focused profiles, LED lighting, and a simple TOML config with a CLI, aiming to run natively on Linux. It’s in active (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
