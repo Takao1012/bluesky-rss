@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:18:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   LLMを活用したコード品質向上の経緯と手法について、著者が2025年初頭にはコードが動作しな…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvjtqoco52u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvjtqoco52u</guid>
+      <pubDate>Tue, 25 Aug 2026 09:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LLMを活用したコード品質向上の経緯と手法について、著者が2025年初頭にはコードが動作しなかったが、2026年に改善。エージェント型IDEとagent.mdでコーディング規約を逐次適用・更新し、コードの可読性と品質を実務レベルに近づける方法を確立。context dilution対策としてセッション分離とagent.mdの再ロード/自動更新を推奨し、将来的には設計とアーキテクチャの検討に集中する方針を述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LLMを活用したコード品質向上の経緯と手法について、著者が2025年初頭にはコードが動作しなかったが、2026年に改善。エージェント型IDEとagent.mdでコーディング規約を逐次適用・更新し、コードの可読性と品質を実務レベルに近づける方法を確立。context dilution対策としてセッション分離とagent.mdの再ロード/自動更新を推奨し、将来的には設計とアーキテクチャの検討に集中する方針を述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>LLM支援によるコード品質向上のための私の agent.md My agent.md to improve LLM-as…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvjtlu4s62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvjtlu4s62k</guid>
+      <pubDate>Tue, 25 Aug 2026 09:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[LLM支援によるコード品質向上のための私の agent.md<br>My agent.md to improve LLM-assisted code quality<br><br>🔺 402<br>💬 63<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[LLM支援によるコード品質向上のための私の agent.md<br>My agent.md to improve LLM-assisted code quality<br><br>🔺 402<br>💬 63<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   新しい Sign in with Apple のアドレスが、従来の privaterelay…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvd53kedo2u</link>
@@ -453,24 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Vorssaint is a free, open-source macOS utility that centralizes per-app audio control, system monitoring, window management, clipboard/history tools, and a wide array of utilities behind a single menu bar icon, with a privacy-first, local-first design and modular feature (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Vorssaint is a free, open-source macOS utility that centralizes per-app audio control, system monitoring, window management, clipboard/history tools, and a wide array of utilities behind a single menu bar icon, with a privacy-first, local-first design and modular feature (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 vorssaint / vorssain…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxiwg2n2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttlxiwg2n2d</guid>
-      <pubDate>Mon, 24 Aug 2026 15:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 vorssaint / vorssaint-utils<br>⭐ 9,940 (+2,530)<br>🗒 Swift<br><br>Free and open-source macOS menu bar toolkit.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 vorssaint / vorssaint-utils<br>⭐ 9,940 (+2,530)<br>🗒 Swift<br><br>Free and open-source macOS menu bar toolkit.]]></content:encoded>
-    </item>
-    <item>
-      <title>emphasizes ongoing development, security responsiveness, and…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimjxjha2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mttimjxjha2c</guid>
-      <pubDate>Mon, 24 Aug 2026 14:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[emphasizes ongoing development, security responsiveness, and broad developer and user collaboration. (2/2)]]></description>
-      <content:encoded><![CDATA[emphasizes ongoing development, security responsiveness, and broad developer and user collaboration. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
