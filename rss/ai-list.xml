@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:20:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 anthropics / claude-plugins-official ⭐ 33,950 (+47) 🗒 Py…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtwd5h54ed2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtwd5h54ed2z</guid>
+      <pubDate>Tue, 25 Aug 2026 17:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 anthropics / claude-plugins-official<br>⭐ 33,950 (+47)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></description>
+      <content:encoded><![CDATA[📦 anthropics / claude-plugins-official<br>⭐ 33,950 (+47)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></content:encoded>
+    </item>
     <item>
       <title>across multiple agent platforms. It emphasizes minimal, safe…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtw7ry7e5y22</link>
@@ -453,18 +462,6 @@
       <content:encoded><![CDATA[Hot take: I don’t want responses streamed anymore. Just give me the whole paragraph/block when it is done.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7xm6cyes56djxszsyd3gm56mlxixrz37k2yjuhbmpgu5quvqfmi" alt="Quote Tweet: https://twitter.com/i/status/2092006814804214163" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih7xm6cyes56djxszsyd3gm56mlxixrz37k2yjuhbmpgu5quvqfmi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Today marks 9 months since coding was solved</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugxapkvb2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtugxapkvb2x</guid>
-      <pubDate>Mon, 24 Aug 2026 23:19:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Today marks 9 months since coding was solved
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Today marks 9 months since coding was solved
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibxtuuxijou6pjkmd6g66fwikkc44aajse3yxzwrogx3673v6i4bi" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
