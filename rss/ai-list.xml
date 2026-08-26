@@ -5,8 +5,92 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:27:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>将来的には2027年の量産拡大を見込んでいる。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg76hlm32m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg76hlm32m</guid>
+      <pubDate>Wed, 26 Aug 2026 03:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[将来的には2027年の量産拡大を見込んでいる。 (2/2)]]></description>
+      <content:encoded><![CDATA[将来的には2027年の量産拡大を見込んでいる。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenAIが開発を進めてきた「Jalapeño」は、インファレンス用の汎用ASICで、ブロ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg76dmir2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg76dmir2t</guid>
+      <pubDate>Wed, 26 Aug 2026 03:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIが開発を進めてきた「Jalapeño」は、インファレンス用の汎用ASICで、ブロードコムと共同設計、HBM4搭載・高効率を特徴とする。初期評価ではNVIDIA/AMD/Googleの競合を上回るperf/Wを叩き出し、特に低遷移 latencyから高スループットまで幅広い workloadsで優位性を示す一方、現時点は8k1k程度の比較的軽量なワークロード中心で、AgentXなど長文コンテキストには今後の検証が必要とされている。設計はソフトウェアとハードウェアの深い協調（Co-Design）によって実現され、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIが開発を進めてきた「Jalapeño」は、インファレンス用の汎用ASICで、ブロードコムと共同設計、HBM4搭載・高効率を特徴とする。初期評価ではNVIDIA/AMD/Googleの競合を上回るperf/Wを叩き出し、特に低遷移 latencyから高スループットまで幅広い workloadsで優位性を示す一方、現時点は8k1k程度の比較的軽量なワークロード中心で、AgentXなど長文コンテキストには今後の検証が必要とされている。設計はソフトウェアとハードウェアの深い協調（Co-Design）によって実現され、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAIのハラペーニョはNVIDIA ブラックウェルより優れている OpenAI Jalapeño: Better …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg6vjdfl2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg6vjdfl2u</guid>
+      <pubDate>Wed, 26 Aug 2026 03:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[OpenAIのハラペーニョはNVIDIA ブラックウェルより優れている<br>OpenAI Jalapeño: Better than Nvidia Blackwell<br><br>🔺 370<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[OpenAIのハラペーニョはNVIDIA ブラックウェルより優れている<br>OpenAI Jalapeño: Better than Nvidia Blackwell<br><br>🔺 370<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Sorry this release took so long. I hope it was worth it. Che…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhe7nt6r2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhe7nt6r2x</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Sorry this release took so long. I hope it was worth it. Check out the nightly builds if you want to get these features when they're (mostly) done instead of waiting for us to cut a stable release 🫡 (6/6)]]></description>
+      <content:encoded><![CDATA[Sorry this release took so long. I hope it was worth it. Check out the nightly builds if you want to get these features when they're (mostly) done instead of waiting for us to cut a stable release 🫡 (6/6)]]></content:encoded>
+    </item>
+    <item>
+      <title>surfaced in app - Codex permission requests for MCP/Computer…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhe4n3pd2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhe4n3pd2w</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[surfaced in app<br>- Codex permission requests for MCP/ComputerUse stuff now surfaced in app<br>- Tons of improvements to Windows app<br>- More polish than I can fit into one tweet (5/6)]]></description>
+      <content:encoded><![CDATA[surfaced in app<br>- Codex permission requests for MCP/ComputerUse stuff now surfaced in app<br>- Tons of improvements to Windows app<br>- More polish than I can fit into one tweet (5/6)]]></content:encoded>
+    </item>
+    <item>
+      <title>Use your favorite VS Code themes directly - Codex skill disc…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdzlwx22x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdzlwx22x</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:54 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Use your favorite VS Code themes directly<br>- Codex skill discovery is way more reliable<br>- OpenCode skills actually appear in app now<br>- Claude can discover project-level skills now<br>- Fixed really annoying auto scroll behaviors and edge cases<br>- Claude Code compaction recommendations now (4/6)]]></description>
+      <content:encoded><![CDATA[Use your favorite VS Code themes directly<br>- Codex skill discovery is way more reliable<br>- OpenCode skills actually appear in app now<br>- Claude can discover project-level skills now<br>- Fixed really annoying auto scroll behaviors and edge cases<br>- Claude Code compaction recommendations now (4/6)]]></content:encoded>
+    </item>
+    <item>
+      <title>In-app terminal performance overhaul - Remote server upgrade…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdwl7w52o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdwl7w52o</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:53 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[In-app terminal performance overhaul<br>- Remote server upgrades are 5x faster and 100x more reliably<br>- Remote projects can now be opened in VS Code via ssh with 1 click<br>- OpenVSX support for custom themes! (3/6)]]></description>
+      <content:encoded><![CDATA[In-app terminal performance overhaul<br>- Remote server upgrades are 5x faster and 100x more reliably<br>- Remote projects can now be opened in VS Code via ssh with 1 click<br>- OpenVSX support for custom themes! (3/6)]]></content:encoded>
+    </item>
+    <item>
+      <title>- in-app PR reviews - `npx t3 triage` to debug and fix issue…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdtkgc32v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdtkgc32v</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[- in-app PR reviews<br>- `npx t3 triage` to debug and fix issues with T3 Code<br>- `npx t3 connect` support on Mac (run 1 command to make a Mac into a remote dev machine)<br>- 93.8%+ performance improvement for rendering long threads<br>- 80%+ reduction to data transferred and stored for threads<br>- (2/6)]]></description>
+      <content:encoded><![CDATA[- in-app PR reviews<br>- `npx t3 triage` to debug and fix issues with T3 Code<br>- `npx t3 connect` support on Mac (run 1 command to make a Mac into a remote dev machine)<br>- 93.8%+ performance improvement for rendering long threads<br>- 80%+ reduction to data transferred and stored for threads<br>- (2/6)]]></content:encoded>
+    </item>
+    <item>
+      <title>Huge T3 Code release just dropped. Over 380 changes. Quick h…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdq2hhv27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdq2hhv27</guid>
+      <pubDate>Wed, 26 Aug 2026 03:34:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Huge T3 Code release just dropped. Over 380 changes. Quick highlight reel of my favorites: (1/6)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Huge T3 Code release just dropped. Over 380 changes. Quick highlight reel of my favorites: (1/6)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Credit where it’s due, this was a banger</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxd4zv4772x</link>
@@ -387,87 +471,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 asciimoo / hister ⭐ 2,5…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtvvqikxdj2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtvvqikxdj2h</guid>
-      <pubDate>Tue, 25 Aug 2026 13:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 asciimoo / hister<br>⭐ 2,557 (+142)<br>🗒 Go<br><br>Your own search engine]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 asciimoo / hister<br>⭐ 2,557 (+142)<br>🗒 Go<br><br>Your own search engine]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 povo、「5G SA(スタンドアローン)」サービスを提供開始  🔖 156 ブックマーク 💬 コメント 🔗…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtvsycu5y72t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtvsycu5y72t</guid>
-      <pubDate>Tue, 25 Aug 2026 12:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 povo、「5G SA(スタンドアローン)」サービスを提供開始<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 povo、「5G SA(スタンドアローン)」サービスを提供開始<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Google Workspaceの新規登録時に「Enter a valid domain n…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqk5q63s2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqk5q63s2k</guid>
-      <pubDate>Tue, 25 Aug 2026 11:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Google Workspaceの新規登録時に「Enter a valid domain name instead of an email provider」という謎のエラーが発生。著者は問題の原因を調査し、フロントエンドの入力検証がドメインを不当に「メールプロバイダ」と判定していることを突き止め、コードの特定リストにより.me.gov.uaのような正当なドメインも弾かれていたと説明。最終的に该検証を無効化することで登録を成功させたが、これはサーバー側の検証ではなくフロントエンドの問題だった。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Google Workspaceの新規登録時に「Enter a valid domain name instead of an email provider」という謎のエラーが発生。著者は問題の原因を調査し、フロントエンドの入力検証がドメインを不当に「メールプロバイダ」と判定していることを突き止め、コードの特定リストにより.me.gov.uaのような正当なドメインも弾かれていたと説明。最終的に该検証を無効化することで登録を成功させたが、これはサーバー側の検証ではなくフロントエンドの問題だった。]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025） Google Worksp…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqjyr6xw2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvqjyr6xw2p</guid>
-      <pubDate>Tue, 25 Aug 2026 11:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025）<br>Google Workspace thinks my domain is an email provider (2025)<br><br>🔺 382<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Google Workspaceは私のドメインをメールプロバイダだとみなしている（2025）<br>Google Workspace thinks my domain is an email provider (2025)<br><br>🔺 382<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  AgriciDaniel/claude-obsidian Claude CodeおよびAg…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoxfwyc2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoxfwyc2h</guid>
-      <pubDate>Tue, 25 Aug 2026 11:29:18 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>AgriciDaniel/claude-obsidian<br>Claude CodeおよびAgent Skills対応ホスト向けのローカルファーストな知識管理システムです。<br>ソース資料を引用付きのリンクされたObsidianページに変換し、蓄積された根拠に基づく回答を生成します。<br>リサーチやメンテナンスなどのワークフローを提供し、データは標準的なMarkdown形式で保持されます。<br>ユーザーがファイルの所有権を維持したまま、利用するほど有用な知識ベースを構築することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>AgriciDaniel/claude-obsidian<br>Claude CodeおよびAgent Skills対応ホスト向けのローカルファーストな知識管理システムです。<br>ソース資料を引用付きのリンクされたObsidianページに変換し、蓄積された根拠に基づく回答を生成します。<br>リサーチやメンテナンスなどのワークフローを提供し、データは標準的なMarkdown形式で保持されます。<br>ユーザーがファイルの所有権を維持したまま、利用するほど有用な知識ベースを構築することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  TauricResearch/TradingAgents TradingAgentsは、L…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoemwpq2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpoemwpq2g</guid>
-      <pubDate>Tue, 25 Aug 2026 11:28:58 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>TauricResearch/TradingAgents<br>TradingAgentsは、LLMを活用した複数の専門エージェントで構成される研究用の金融取引フレームワークです。<br>ファンダメンタル分析やテクニカル分析、リスク管理などの役割を持つエージェントが連携し、議論を通じて最適な取引戦略を導き出すことで、現実の取引会社の仕組みを再現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>TauricResearch/TradingAgents<br>TradingAgentsは、LLMを活用した複数の専門エージェントで構成される研究用の金融取引フレームワークです。<br>ファンダメンタル分析やテクニカル分析、リスク管理などの役割を持つエージェントが連携し、議論を通じて最適な取引戦略を導き出すことで、現実の取引会社の仕組みを再現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  apache/maka Apache Makaは、実務向けのローカルファーストなエージェン…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpnf5cqj2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpnf5cqj2v</guid>
-      <pubDate>Tue, 25 Aug 2026 11:28:25 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>apache/maka<br>Apache Makaは、実務向けのローカルファーストなエージェントワークスペースです。<br>ユーザーのPC上でプロジェクトの解析やサンドボックス内でのツール実行を行い、モデルのメッセージやツール呼び出しを復元可能な実行ファクトとして記録します。<br>デスクトップアプリやCLIを通じて、安全で管理可能なエージェント実行環境を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>apache/maka<br>Apache Makaは、実務向けのローカルファーストなエージェントワークスペースです。<br>ユーザーのPC上でプロジェクトの解析やサンドボックス内でのツール実行を行い、モデルのメッセージやツール呼び出しを復元可能な実行ファクトとして記録します。<br>デスクトップアプリやCLIを通じて、安全で管理可能なエージェント実行環境を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/claude-plugins-community Claude Co…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpmu4tip2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpmu4tip2s</guid>
-      <pubDate>Tue, 25 Aug 2026 11:28:07 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-community<br>Claude CoworkおよびClaude Code向けにコミュニティが提供するプラグインを管理するリポジトリです。<br>Anthropicによるセキュリティ審査と承認を受けたプラグインのリストを保持する読み取り専用のミラーとして機能しており、 nightlyに更新されます。<br>ユーザーはここを通じて承認済みのプラグインをインストールできます。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-community<br>Claude CoworkおよびClaude Code向けにコミュニティが提供するプラグインを管理するリポジトリです。<br>Anthropicによるセキュリティ審査と承認を受けたプラグインのリストを保持する読み取り専用のミラーとして機能しており、 nightlyに更新されます。<br>ユーザーはここを通じて承認済みのプラグインをインストールできます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  freestylefly/awesome-gpt-image-2 産業用プロンプトエンジン…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpjnrwp22h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mtvpjnrwp22h</guid>
-      <pubDate>Tue, 25 Aug 2026 11:26:20 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
