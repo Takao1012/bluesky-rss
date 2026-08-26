@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:23:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   ShipyardはProtocol Labsからの資金提供を更新で打ち切られ、IPFS関連の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxmve7umr2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxmve7umr2b</guid>
+      <pubDate>Wed, 26 Aug 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ShipyardはProtocol Labsからの資金提供を更新で打ち切られ、IPFS関連のエンジニアリング・運用を2026年9月30日をもって停止・縮小する。これに伴い、KuboやIPFS関連ツール群の維持・新機能開発、公開インフラの運用など多くのプロジェクトが継続されず、 Shipyardは公開インフラも終了する見込みだが、移行を円滑にするための支援は9月末まで行われる。IPFSコミュニティ全体にとっては次の段階へ向けた準備が求められている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ShipyardはProtocol Labsからの資金提供を更新で打ち切られ、IPFS関連のエンジニアリング・運用を2026年9月30日をもって停止・縮小する。これに伴い、KuboやIPFS関連ツール群の維持・新機能開発、公開インフラの運用など多くのプロジェクトが継続されず、 Shipyardは公開インフラも終了する見込みだが、移行を円滑にするための支援は9月末まで行われる。IPFSコミュニティ全体にとっては次の段階へ向けた準備が求められている。]]></content:encoded>
+    </item>
+    <item>
+      <title>IPFSのメンテナー、活動を縮小へ IPFS Maintainers Winding Down  🔺 359 💬 4…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxmv4ypii2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxmv4ypii2m</guid>
+      <pubDate>Wed, 26 Aug 2026 05:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[IPFSのメンテナー、活動を縮小へ<br>IPFS Maintainers Winding Down<br><br>🔺 359<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[IPFSのメンテナー、活動を縮小へ<br>IPFS Maintainers Winding Down<br><br>🔺 359<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 オードリー・タンが警鐘　AIを「親友」にしてはいけない  🔖 179 ブックマーク 💬 コメント 🔗 記事リ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxly7qazi2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxly7qazi2a</guid>
+      <pubDate>Wed, 26 Aug 2026 05:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 オードリー・タンが警鐘　AIを「親友」にしてはいけない<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 オードリー・タンが警鐘　AIを「親友」にしてはいけない<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>将来的には2027年の量産拡大を見込んでいる。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxg76hlm32m</link>
@@ -444,33 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Marin is an open, community-driven research platform and software stack for developing foundation models, focusing on end-to-end LLM pretraining, data handling, and evaluation, with detailed transparency of all steps from raw data to final models. It includes projects like the (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Marin is an open, community-driven research platform and software stack for developing foundation models, focusing on end-to-end LLM pretraining, data handling, and evaluation, with detailed transparency of all steps from raw data to final models. It includes projects like the (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 marin-community / m…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtw4ggwsib2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtw4ggwsib2d</guid>
-      <pubDate>Tue, 25 Aug 2026 15:17:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 marin-community / marin<br>⭐ 1,909 (+214)<br>🗒 Python<br><br>Open-source framework for the research and development of foundation models.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 marin-community / marin<br>⭐ 1,909 (+214)<br>🗒 Python<br><br>Open-source framework for the research and development of foundation models.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxatdacu2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxatdacu2t</guid>
-      <pubDate>Tue, 25 Aug 2026 13:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬キャラクターです。複雑な指示の実行、マルチターンの計画、戦闘や探索、性格の進化などをローカル処理と高度なAI技術で実現し、ゲーム内外を跨いだ「voidモード」も備えています。著者は低遅延・高プライバシーを優先しつつ、オープンソース化と複数NPC対応を目指して技術構成を解説しています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>VarkosはSkyrimをベースに、プレイヤーと実際に同伴して行動するリアルタイムのAI犬キャラクターです。複雑な指示の実行、マルチターンの計画、戦闘や探索、性格の進化などをローカル処理と高度なAI技術で実現し、ゲーム内外を跨いだ「voidモード」も備えています。著者は低遅延・高プライバシーを優先しつつ、オープンソース化と複数NPC対応を目指して技術構成を解説しています。]]></content:encoded>
-    </item>
-    <item>
-      <title>私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。 I built a low-latency …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxamytvh2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtvxamytvh2u</guid>
-      <pubDate>Tue, 25 Aug 2026 13:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私は、スカイリムを一緒にプレイしてくれる低遅延のAIコンパニオンを作った。<br>I built a low-latency AI companion that plays Skyrim with me<br><br>🔺 368<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
