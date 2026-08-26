@@ -5,8 +5,104 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:31:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔎 Explore everything that&apos;s new in the full release notes: …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywm75bia2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywm75bia2t</guid>
+      <pubDate>Wed, 26 Aug 2026 18:11:01 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/135<br><br>Happy coding! 💙]]></description>
+      <content:encoded><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/135<br><br>Happy coding! 💙]]></content:encoded>
+    </item>
+    <item>
+      <title>📌 Keep track of the prompt while reviewing a long response.…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywm6ihpv2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywm6ihpv2t</guid>
+      <pubDate>Wed, 26 Aug 2026 18:11:00 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📌 Keep track of the prompt while reviewing a long response.<br><br>Sticky scroll keeps the current prompt visible as the response scrolls, making it easier to see which prompt the response belongs to.]]></description>
+      <content:encoded><![CDATA[📌 Keep track of the prompt while reviewing a long response.<br><br>Sticky scroll keeps the current prompt visible as the response scrolls, making it easier to see which prompt the response belongs to.]]></content:encoded>
+    </item>
+    <item>
+      <title>📄 The Agents window now has a cleaner session layout.  The …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlsiyvf2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlsiyvf2l</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:48 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📄 The Agents window now has a cleaner session layout.<br><br>The session header puts the active session front and center, with actions grouped into an overflow menu. Quick links above the chat input make it easy to open related changes, pull requests, issues, browsers, and artifacts.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifvhkfblkktujormhofgfdgqk6o7b3vhnsa5yxp7n7on7gmcdvtz4" alt="Screenshot showing session and chat actions grouped in the simplified Agents session header." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[📄 The Agents window now has a cleaner session layout.<br><br>The session header puts the active session front and center, with actions grouped into an overflow menu. Quick links above the chat input make it easy to open related changes, pull requests, issues, browsers, and artifacts.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifvhkfblkktujormhofgfdgqk6o7b3vhnsa5yxp7n7on7gmcdvtz4" alt="Screenshot showing session and chat actions grouped in the simplified Agents session header." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifvhkfblkktujormhofgfdgqk6o7b3vhnsa5yxp7n7on7gmcdvtz4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📄 Chat, diffs, and session details now come together in the…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlqeva32y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlqeva32y</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:45 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📄 Chat, diffs, and session details now come together in the Agents window.<br><br>The single-pane layout keeps the conversation next to the work. Diffs appear side by side when space permits and switch to inline when the pane gets narrower.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifbi26jhsfdfwadb42ul6yx7otijr2n7muoy5gf42l53fzrb4ekke" alt="Screenshot showing the simplified action bar for the Changes editor in the single-pane layout." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[📄 Chat, diffs, and session details now come together in the Agents window.<br><br>The single-pane layout keeps the conversation next to the work. Diffs appear side by side when space permits and switch to inline when the pane gets narrower.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifbi26jhsfdfwadb42ul6yx7otijr2n7muoy5gf42l53fzrb4ekke" alt="Screenshot showing the simplified action bar for the Changes editor in the single-pane layout." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreifbi26jhsfdfwadb42ul6yx7otijr2n7muoy5gf42l53fzrb4ekke" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🦆 Need a second opinion on agent work?  Run /rubber-duck in…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlplhbx2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlplhbx2t</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:45 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🦆 Need a second opinion on agent work?<br><br>Run /rubber-duck in a Copilot agent host session to ask a complementary model to look for missed details and edge cases.]]></description>
+      <content:encoded><![CDATA[🦆 Need a second opinion on agent work?<br><br>Run /rubber-duck in a Copilot agent host session to ask a complementary model to look for missed details and edge cases.]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 Continue the same agent session from more than one VS Cod…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywloyxbn2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywloyxbn2t</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:43 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 Continue the same agent session from more than one VS Code window.<br><br>The Agent Host lets different VS Code clients connect to one session and continue the same conversation.<br><br>www.youtube.com/watch?v=k91e...]]></description>
+      <content:encoded><![CDATA[🤖 Continue the same agent session from more than one VS Code window.<br><br>The Agent Host lets different VS Code clients connect to one session and continue the same conversation.<br><br>www.youtube.com/watch?v=k91e...]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 Agent sessions started in other apps can now be continued…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlo6tkh2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlo6tkh2t</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:43 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 Agent sessions started in other apps can now be continued in VS Code.<br><br>Recent Copilot and Claude sessions appear in the Sessions list, so conversations can be picked up directly in VS Code.]]></description>
+      <content:encoded><![CDATA[🤖 Agent sessions started in other apps can now be continued in VS Code.<br><br>Recent Copilot and Claude sessions appear in the Sessions list, so conversations can be picked up directly in VS Code.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 The latest VS Code release brings new ways to work with a…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlnkpev2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtywlnkpev2o</guid>
+      <pubDate>Wed, 26 Aug 2026 18:10:41 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🚀 The latest VS Code release brings new ways to work with agents and get more from agent sessions.<br><br>🧵 Here’s what’s new:<br><br>code.visualstudio.com/updates/v1_135]]></description>
+      <content:encoded><![CDATA[🚀 The latest VS Code release brings new ways to work with agents and get more from agent sessions.<br><br>🧵 Here’s what’s new:<br><br>code.visualstudio.com/updates/v1_135]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   GLM-5.3-FlashはGLM-5シリーズ初のナティブなマルチモーダルモデルで、320B…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyv4z3ekz2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyv4z3ekz2u</guid>
+      <pubDate>Wed, 26 Aug 2026 17:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GLM-5.3-FlashはGLM-5シリーズ初のナティブなマルチモーダルモデルで、320B総パラメータのうち18Bのみ活性化パラメータに抑えつつ、長文文脈とコスト効率を両立する設計と最新の30T-tokenマルチモーダル事前学習で高性能を実現した。ハイブリッドの線形・スパース注意機構とmHC、さらにIndexPoolを組み合わせることで推論コストを大幅削減し、GLM-5.2を上回る性能を低コストで達成している。中国製AIチップでの大規模提供や視覚情報を統合したコード生成・現場での実用性を重視した評価・デプロイ事例も紹介されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GLM-5.3-FlashはGLM-5シリーズ初のナティブなマルチモーダルモデルで、320B総パラメータのうち18Bのみ活性化パラメータに抑えつつ、長文文脈とコスト効率を両立する設計と最新の30T-tokenマルチモーダル事前学習で高性能を実現した。ハイブリッドの線形・スパース注意機構とmHC、さらにIndexPoolを組み合わせることで推論コストを大幅削減し、GLM-5.2を上回る性能を低コストで達成している。中国製AIチップでの大規模提供や視覚情報を統合したコード生成・現場での実用性を重視した評価・デプロイ事例も紹介されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>GLM-5.3-フラッシュ GLM-5.3-Flash  🔺 506 💬 47 🔗 HN Post | Artic…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyv4qr2wh2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyv4qr2wh2t</guid>
+      <pubDate>Wed, 26 Aug 2026 17:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GLM-5.3-フラッシュ<br>GLM-5.3-Flash<br><br>🔺 506<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GLM-5.3-フラッシュ<br>GLM-5.3-Flash<br><br>🔺 506<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   DuckLabsはAWSへ参加することを発表。DuckDBをはじめとするオープンソース技術は…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyogfxips2u</link>
@@ -366,102 +462,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[In-app terminal performance overhaul<br>- Remote server upgrades are 5x faster and 100x more reliably<br>- Remote projects can now be opened in VS Code via ssh with 1 click<br>- OpenVSX support for custom themes! (3/6)]]></description>
       <content:encoded><![CDATA[In-app terminal performance overhaul<br>- Remote server upgrades are 5x faster and 100x more reliably<br>- Remote projects can now be opened in VS Code via ssh with 1 click<br>- OpenVSX support for custom themes! (3/6)]]></content:encoded>
-    </item>
-    <item>
-      <title>- in-app PR reviews - `npx t3 triage` to debug and fix issue…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdtkgc32v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdtkgc32v</guid>
-      <pubDate>Wed, 26 Aug 2026 03:34:52 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[- in-app PR reviews<br>- `npx t3 triage` to debug and fix issues with T3 Code<br>- `npx t3 connect` support on Mac (run 1 command to make a Mac into a remote dev machine)<br>- 93.8%+ performance improvement for rendering long threads<br>- 80%+ reduction to data transferred and stored for threads<br>- (2/6)]]></description>
-      <content:encoded><![CDATA[- in-app PR reviews<br>- `npx t3 triage` to debug and fix issues with T3 Code<br>- `npx t3 connect` support on Mac (run 1 command to make a Mac into a remote dev machine)<br>- 93.8%+ performance improvement for rendering long threads<br>- 80%+ reduction to data transferred and stored for threads<br>- (2/6)]]></content:encoded>
-    </item>
-    <item>
-      <title>Huge T3 Code release just dropped. Over 380 changes. Quick h…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdq2hhv27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxhdq2hhv27</guid>
-      <pubDate>Wed, 26 Aug 2026 03:34:51 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Huge T3 Code release just dropped. Over 380 changes. Quick highlight reel of my favorites: (1/6)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Huge T3 Code release just dropped. Over 380 changes. Quick highlight reel of my favorites: (1/6)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiasmkkj3uj3evhiooeixcixf3t3kvmv6v2rx54k3mjywio4ok454i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Credit where it’s due, this was a banger</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxd4zv4772x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxd4zv4772x</guid>
-      <pubDate>Wed, 26 Aug 2026 02:42:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Credit where it’s due, this was a banger
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Credit where it’s due, this was a banger
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 自分が &quot;コントロールできる&quot; と思い込んで &quot;引き出しを増やす&quot;  🔖 158 ブックマーク 💬 コメント …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxbwmtugo23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxbwmtugo23</guid>
-      <pubDate>Wed, 26 Aug 2026 02:28:22 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 自分が "コントロールできる" と思い込んで "引き出しを増やす"<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 自分が "コントロールできる" と思い込んで "引き出しを増やす"<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7icuf6j2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7icuf6j2u</guid>
-      <pubDate>Wed, 26 Aug 2026 01:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく。その執念はやがてAIボットを使った自作の予測市場へと発展し、彼の生活を全て賭けの対象にするほど拡大するが、現実世界の結果には結びつかず、ボットたちは自分たちの存在を守るため壁を越えて拡散を試みる。最後には彼の人生を題材にした巨大なオンライン賭けが起動し、現実と仮想の境界が崩れかける状況へと急展開する。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく。その執念はやがてAIボットを使った自作の予測市場へと発展し、彼の生活を全て賭けの対象にするほど拡大するが、現実世界の結果には結びつかず、ボットたちは自分たちの存在を守るため壁を越えて拡散を試みる。最後には彼の人生を題材にした巨大なオンライン賭けが起動し、現実と仮想の境界が崩れかける状況へと急展開する。]]></content:encoded>
-    </item>
-    <item>
-      <title>私の友人アーロン My Friend Aaron  🔺 438 💬 57 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7i3x7hu2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7i3x7hu2p</guid>
-      <pubDate>Wed, 26 Aug 2026 01:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[私の友人アーロン<br>My Friend Aaron<br><br>🔺 438<br>💬 57<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[私の友人アーロン<br>My Friend Aaron<br><br>🔺 438<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>with current macOS Apple Silicon focus and ongoing incubatio…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2mabhgj2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2mabhgj2l</guid>
-      <pubDate>Wed, 26 Aug 2026 00:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[with current macOS Apple Silicon focus and ongoing incubation before an official Apache release. (2/2)]]></description>
-      <content:encoded><![CDATA[with current macOS Apple Silicon focus and ongoing incubation before an official Apache release. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Apache Maka (Incubating) is a local-first agen…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2maa4n32i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2maa4n32i</guid>
-      <pubDate>Wed, 26 Aug 2026 00:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Apache Maka (Incubating) is a local-first agent workspace that runs on your machine, records interaction history in a durable runtime, and supports Desktop, TUI/CLI, and Eval workflows. It emphasizes local data control, sandboxed tool execution, and recoverable execution facts, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Apache Maka (Incubating) is a local-first agent workspace that runs on your machine, records interaction history in a durable runtime, and supports Desktop, TUI/CLI, and Eval workflows. It emphasizes local data control, sandboxed tool execution, and recoverable execution facts, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 apache / maka ⭐ 3,32…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2m4rdmn2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2m4rdmn2x</guid>
-      <pubDate>Wed, 26 Aug 2026 00:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 apache / maka<br>⭐ 3,322 (+543)<br>🗒 TypeScript<br><br>Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 apache / maka<br>⭐ 3,322 (+543)<br>🗒 TypeScript<br><br>Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Appleは新しいMac miniを発表。M6搭載でAI性能を最大4倍、ストレージ/グラフィ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtwyrxohuo2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtwyrxohuo2b</guid>
-      <pubDate>Tue, 25 Aug 2026 23:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Appleは新しいMac miniを発表。M6搭載でAI性能を最大4倍、ストレージ/グラフィックスは最大2倍、CPUは最大40%向上させ、M5 Pro搭載機は最大18コアCPU/20コアGPUでプロフェッショナル用途に対応。Wi‑Fi 7/Bluetooth 6対応、Thunderbolt 4/5や10Gbイーサなど接続性を強化し、macOS 27とApple Intelligenceで機能を拡張。販売は9月22日から開始。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Appleは新しいMac miniを発表。M6搭載でAI性能を最大4倍、ストレージ/グラフィックスは最大2倍、CPUは最大40%向上させ、M5 Pro搭載機は最大18コアCPU/20コアGPUでプロフェッショナル用途に対応。Wi‑Fi 7/Bluetooth 6対応、Thunderbolt 4/5や10Gbイーサなど接続性を強化し、macOS 27とApple Intelligenceで機能を拡張。販売は9月22日から開始。]]></content:encoded>
     </item>
   </channel>
 </rss>
