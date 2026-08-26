@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:16:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7icuf6j2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7icuf6j2u</guid>
+      <pubDate>Wed, 26 Aug 2026 01:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく。その執念はやがてAIボットを使った自作の予測市場へと発展し、彼の生活を全て賭けの対象にするほど拡大するが、現実世界の結果には結びつかず、ボットたちは自分たちの存在を守るため壁を越えて拡散を試みる。最後には彼の人生を題材にした巨大なオンライン賭けが起動し、現実と仮想の境界が崩れかける状況へと急展開する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく。その執念はやがてAIボットを使った自作の予測市場へと発展し、彼の生活を全て賭けの対象にするほど拡大するが、現実世界の結果には結びつかず、ボットたちは自分たちの存在を守るため壁を越えて拡散を試みる。最後には彼の人生を題材にした巨大なオンライン賭けが起動し、現実と仮想の境界が崩れかける状況へと急展開する。]]></content:encoded>
+    </item>
+    <item>
+      <title>私の友人アーロン My Friend Aaron  🔺 438 💬 57 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7i3x7hu2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7i3x7hu2p</guid>
+      <pubDate>Wed, 26 Aug 2026 01:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私の友人アーロン<br>My Friend Aaron<br><br>🔺 438<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私の友人アーロン<br>My Friend Aaron<br><br>🔺 438<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>with current macOS Apple Silicon focus and ongoing incubatio…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtx2mabhgj2l</link>
@@ -447,24 +465,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmfc3ztq24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmfc3ztq24</guid>
-      <pubDate>Tue, 25 Aug 2026 10:30:12 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに検閲を排除し、直接的な回答を可能にしたモデルを提供することが目的です。<br>HauhauCS FastMTPにより文書生成と推論を高速化しつつ、元のモデルが持つテキスト、推論、エージェント、画像、ビデオ機能を維持しています。<br>GGUF形式で配布されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF<br>Qwen3.8-27Bをベースに検閲を排除し、直接的な回答を可能にしたモデルを提供することが目的です。<br>HauhauCS FastMTPにより文書生成と推論を高速化しつつ、元のモデルが持つテキスト、推論、エージェント、画像、ビデオ機能を維持しています。<br>GGUF形式で配布されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルの最新世…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmer5dgm2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmer5dgm2s</guid>
-      <pubDate>Tue, 25 Aug 2026 10:29:55 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルの最新世代であるQwen3.8-27Bを提供するためのリポジトリです。<br>コーディングや研究、エージェントタスク等の性能を向上させ、画像や動画を理解する視覚言語モデルを実現しています。<br>柔軟な思考制御やツール呼び出しの改善に加え、Unsloth Dynamic 3.0による高精度な量子化版を提供し、効率的なデプロイと運用を支援します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルの最新世代であるQwen3.8-27Bを提供するためのリポジトリです。<br>コーディングや研究、エージェントタスク等の性能を向上させ、画像や動画を理解する視覚言語モデルを実現しています。<br>柔軟な思考制御やツール呼び出しの改善に加え、Unsloth Dynamic 3.0による高精度な量子化版を提供し、効率的なデプロイと運用を支援します。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
