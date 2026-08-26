@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:06:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   DuckLabsはAWSへ参加することを発表。DuckDBをはじめとするオープンソース技術は…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyogfxips2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyogfxips2u</guid>
+      <pubDate>Wed, 26 Aug 2026 15:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DuckLabsはAWSへ参加することを発表。DuckDBをはじめとするオープンソース技術はMITライセンスのまま無料で提供され、DuckDB Foundationが引き続き管理。AWSのリソースと規模を活用し、 DuckDB/ DuckLake/ Quack の普及と技術開発を加速し、より多くの開発者や組織へ届ける計画。なお、チームはアムステルダムで継続、プロジェクトの基盤は変わらず維持される。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DuckLabsはAWSへ参加することを発表。DuckDBをはじめとするオープンソース技術はMITライセンスのまま無料で提供され、DuckDB Foundationが引き続き管理。AWSのリソースと規模を活用し、 DuckDB/ DuckLake/ Quack の普及と技術開発を加速し、より多くの開発者や組織へ届ける計画。なお、チームはアムステルダムで継続、プロジェクトの基盤は変わらず維持される。]]></content:encoded>
+    </item>
+    <item>
+      <title>AWSがDuckDBを買収 AWS Acquires DuckDB  🔺 550 💬 45 🔗 HN Post |…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyog5krsq2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtyog5krsq2k</guid>
+      <pubDate>Wed, 26 Aug 2026 15:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AWSがDuckDBを買収<br>AWS Acquires DuckDB<br><br>🔺 550<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AWSがDuckDBを買収<br>AWS Acquires DuckDB<br><br>🔺 550<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 What if your agent could keep working while the same sess…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtynlys4dt2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mtynlys4dt2t</guid>
+      <pubDate>Wed, 26 Aug 2026 15:29:49 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 What if your agent could keep working while the same session stays available across VS Code, the browser, and other machines?<br><br>That’s what we’re building with Agent Host!<br><br>🔗 Check out how it works and explore the open Agent Host Protocol: code.visualstudio.com/blogs/2026/0...]]></description>
+      <content:encoded><![CDATA[🤖 What if your agent could keep working while the same session stays available across VS Code, the browser, and other machines?<br><br>That’s what we’re building with Agent Host!<br><br>🔗 Check out how it works and explore the open Agent Host Protocol: code.visualstudio.com/blogs/2026/0...]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 browser-use / browser-u…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtymvhhkum2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtymvhhkum2c</guid>
+      <pubDate>Wed, 26 Aug 2026 15:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 browser-use / browser-use<br>⭐ 110,591 (+135)<br>🗒 Python<br><br>🌐 Make websites accessible for AI agents. Automate tasks online with ease.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 browser-use / browser-use<br>⭐ 110,591 (+135)<br>🗒 Python<br><br>🌐 Make websites accessible for AI agents. Automate tasks online with ease.]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ConardLi / garden-skill…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtyjkbzles24</link>
@@ -426,45 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Appleは新しいMac miniを発表。M6搭載でAI性能を最大4倍、ストレージ/グラフィックスは最大2倍、CPUは最大40%向上させ、M5 Pro搭載機は最大18コアCPU/20コアGPUでプロフェッショナル用途に対応。Wi‑Fi 7/Bluetooth 6対応、Thunderbolt 4/5や10Gbイーサなど接続性を強化し、macOS 27とApple Intelligenceで機能を拡張。販売は9月22日から開始。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Appleは新しいMac miniを発表。M6搭載でAI性能を最大4倍、ストレージ/グラフィックスは最大2倍、CPUは最大40%向上させ、M5 Pro搭載機は最大18コアCPU/20コアGPUでプロフェッショナル用途に対応。Wi‑Fi 7/Bluetooth 6対応、Thunderbolt 4/5や10Gbイーサなど接続性を強化し、macOS 27とApple Intelligenceで機能を拡張。販売は9月22日から開始。]]></content:encoded>
-    </item>
-    <item>
-      <title>新型Mac mini、M6とM5 Proを搭載 New Mac mini, featuring M6 and M5 Pr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtwyroi5u32p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtwyroi5u32p</guid>
-      <pubDate>Tue, 25 Aug 2026 23:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[新型Mac mini、M6とM5 Proを搭載<br>New Mac mini, featuring M6 and M5 Pro<br><br>🔺 409<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[新型Mac mini、M6とM5 Proを搭載<br>New Mac mini, featuring M6 and M5 Pro<br><br>🔺 409<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Is there a term that still purely means “a normal ish person…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvrtllrf2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvrtllrf2k</guid>
-      <pubDate>Tue, 25 Aug 2026 22:47:51 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Is there a term that still purely means “a normal ish person can run this on a normal ish computer”?]]></description>
-      <content:encoded><![CDATA[Is there a term that still purely means “a normal ish person can run this on a normal ish computer”?]]></content:encoded>
-    </item>
-    <item>
-      <title>&gt; “Local first” &gt; “On device” &gt; tested on a DGX Spark, a $50…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvrlcnp62v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvrlcnp62v</guid>
-      <pubDate>Tue, 25 Aug 2026 22:45:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[> “Local first”<br>> “On device”<br>> tested on a DGX Spark, a $5000 dedicated AI supercomputer that has no support for traditional software<br><br>I hate that these terms don’t mean anything anymore.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat6oihdj3glh3ohz64ql3u2gaky3j3dryyjzuw64jsvgxsaautay" alt="Quote Tweet: https://twitter.com/i/status/2092321896721432824" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[> “Local first”<br>> “On device”<br>> tested on a DGX Spark, a $5000 dedicated AI supercomputer that has no support for traditional software<br><br>I hate that these terms don’t mean anything anymore.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat6oihdj3glh3ohz64ql3u2gaky3j3dryyjzuw64jsvgxsaautay" alt="Quote Tweet: https://twitter.com/i/status/2092321896721432824" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat6oihdj3glh3ohz64ql3u2gaky3j3dryyjzuw64jsvgxsaautay" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I think @pierrecomputer is the best example right now. It se…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvr2phfn2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtwvr2phfn2v</guid>
-      <pubDate>Tue, 25 Aug 2026 22:41:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I think @pierrecomputer is the best example right now. It seems like fixing GitHub to handle the unique needs and load from agents isn’t viable, and they built something tailor made for the needs of agents. (6/6)]]></description>
-      <content:encoded><![CDATA[I think @pierrecomputer is the best example right now. It seems like fixing GitHub to handle the unique needs and load from agents isn’t viable, and they built something tailor made for the needs of agents. (6/6)]]></content:encoded>
     </item>
   </channel>
 </rss>
