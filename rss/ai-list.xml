@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:21:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Mozillaは Firefox 157 で JPEG XL  decoding をデフォル…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mty2congm52m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mty2congm52m</guid>
+      <pubDate>Wed, 26 Aug 2026 09:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Mozillaは Firefox 157 で JPEG XL  decoding をデフォルト有効化予定。jxl-rs（Rust製デコーダ）を用い、マルチスレッド対応や性能改善を進めつつ、HDRはSDR表示になる点や、Animated JXL はサポート済みである。眞剣的な議論として lossy JPEG XL の方を優先する案もあり、lossless との性能比較が指摘されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Mozillaは Firefox 157 で JPEG XL  decoding をデフォルト有効化予定。jxl-rs（Rust製デコーダ）を用い、マルチスレッド対応や性能改善を進めつつ、HDRはSDR表示になる点や、Animated JXL はサポート済みである。眞剣的な議論として lossy JPEG XL の方を優先する案もあり、lossless との性能比較が指摘されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Firefox 157 には、すべてのプラットフォームで JPEG XL がデフォルトでサポートされるようになる。 Fi…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mty2chwsxe2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mty2chwsxe2t</guid>
+      <pubDate>Wed, 26 Aug 2026 09:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Firefox 157 には、すべてのプラットフォームで JPEG XL がデフォルトでサポートされるようになる。<br>Firefox 157 will include JPEG XL by default on all platforms<br><br>🔺 378<br>💬 11<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Firefox 157 には、すべてのプラットフォームで JPEG XL がデフォルトでサポートされるようになる。<br>Firefox 157 will include JPEG XL by default on all platforms<br><br>🔺 378<br>💬 11<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   申し訳ありませんが、提供されたテキストは「アメリカ政府公式サイト」だけで、記事の本文がありま…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtxtm4tsld2u</link>
@@ -453,24 +471,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Ponytail is an AI agent toolkit that dramatically reduces code output and resource use by guiding agents to write only what's necessary, reusing existing components, and injecting safety checks, with a simple command set (/ponytail and related subcommands) to manage its behavior (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Ponytail is an AI agent toolkit that dramatically reduces code output and resource use by guiding agents to write only what's necessary, reusing existing components, and injecting safety checks, with a simple command set (/ponytail and related subcommands) to manage its behavior (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 DietrichGebert / pon…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtw7rv4lcm2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mtw7rv4lcm2z</guid>
-      <pubDate>Tue, 25 Aug 2026 16:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 DietrichGebert / ponytail<br>⭐ 110,286 (+944)<br>🗒 JavaScript<br><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 DietrichGebert / ponytail<br>⭐ 110,286 (+944)<br>🗒 JavaScript<br><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Appleは新しいMac Studioを発表。M5 Maxと新型M5 Ultraを搭載し、オ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtw5xl53l723</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtw5xl53l723</guid>
-      <pubDate>Tue, 25 Aug 2026 15:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Appleは新しいMac Studioを発表。M5 Maxと新型M5 Ultraを搭載し、オンデバイスAI性能やグラフィック性能を大幅に向上させ、最大512GBの統合メモリやThunderbolt 5・Wi‑Fi 7・Bluetooth 6などの強力な接続性を備える。デスクトップ級のPro向けワークフローを想定し、最大36コアCPU/80コアGPU/巨大メモリを活用して大規模モデルのローカル実行を実現し、複数台をクラスタリングしてAI推論を加速できる。発売は9月22日から予約開始。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Appleは新しいMac Studioを発表。M5 Maxと新型M5 Ultraを搭載し、オンデバイスAI性能やグラフィック性能を大幅に向上させ、最大512GBの統合メモリやThunderbolt 5・Wi‑Fi 7・Bluetooth 6などの強力な接続性を備える。デスクトップ級のPro向けワークフローを想定し、最大36コアCPU/80コアGPU/巨大メモリを活用して大規模モデルのローカル実行を実現し、複数台をクラスタリングしてAI推論を加速できる。発売は9月22日から予約開始。]]></content:encoded>
     </item>
   </channel>
 </rss>
