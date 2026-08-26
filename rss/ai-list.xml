@@ -5,8 +5,29 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 02:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:41:50 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Credit where it’s due, this was a banger</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxd4zv4772x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mtxd4zv4772x</guid>
+      <pubDate>Wed, 26 Aug 2026 02:42:41 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Credit where it’s due, this was a banger
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Credit where it’s due, this was a banger
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavamkrhkum7khlfosqofghqzlc2kvcwp3rveetccxutoxeyg3q7i" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📝 自分が &quot;コントロールできる&quot; と思い込んで &quot;引き出しを増やす&quot;  🔖 158 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxbwmtugo23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mtxbwmtugo23</guid>
+      <pubDate>Wed, 26 Aug 2026 02:28:22 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 自分が "コントロールできる" と思い込んで "引き出しを増やす"<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 自分が "コントロールできる" と思い込んで "引き出しを増やす"<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   友人アーロンは頭脳はあっても学業を疎かにし、ゲームや予測市場に熱中して周囲と距離ができていく…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mtx7icuf6j2u</link>
@@ -447,24 +468,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>産業用プロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例や20件以上の産業用テンプレートを提供し、画像生成プロンプトの効率的な活用を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  JonathanColetti/Qwen3.8-27B-Uncensored-G…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmlkyjt22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmlkyjt22z</guid>
-      <pubDate>Tue, 25 Aug 2026 10:33:43 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bの拒絶反応を大幅に軽減したアンセンサード版を、GGUF形式で提供することを目的としています。<br>マルチトークン予測（MTP）ヘッドを保持し検証済みであり、llama.cppなどで利用可能です。<br>追加の学習やファインチューニングを行わずに拒絶挙動を抑制しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF<br>Qwen3.8-27Bの拒絶反応を大幅に軽減したアンセンサード版を、GGUF形式で提供することを目的としています。<br>マルチトークン予測（MTP）ヘッドを保持し検証済みであり、llama.cppなどで利用可能です。<br>追加の学習やファインチューニングを行わずに拒絶挙動を抑制しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmkyur772x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mtvmkyur772x</guid>
-      <pubDate>Tue, 25 Aug 2026 10:33:24 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>READMEのテキストをご提示ください。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
