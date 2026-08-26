@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:29:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>体調悪いのでちょっとカフェイン控えようかなと思ったけど、甘いもの食べる時にもコーヒー紅茶NGになると思うとしょんぼりして…</title>
+      <link>https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtx2f5y4rs2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vbcg2n7t3qtsjhfvxhlxrn4i/post/3mtx2f5y4rs2g</guid>
+      <pubDate>Wed, 26 Aug 2026 00:13:20 GMT</pubDate>
+      <author>コダマナオコ (@powder705.bsky.social)</author>
+      <description><![CDATA[体調悪いのでちょっとカフェイン控えようかなと思ったけど、甘いもの食べる時にもコーヒー紅茶NGになると思うとしょんぼりしてしまう]]></description>
+      <content:encoded><![CDATA[体調悪いのでちょっとカフェイン控えようかなと思ったけど、甘いもの食べる時にもコーヒー紅茶NGになると思うとしょんぼりしてしまう]]></content:encoded>
+    </item>
     <item>
       <title>というわけで今毎日雑穀米食べてて、新米楽しみ</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtwvqgnutk2z</link>
@@ -465,15 +474,6 @@
       <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
       <description><![CDATA[すでに半分歩いてたからつらい]]></description>
       <content:encoded><![CDATA[すでに半分歩いてたからつらい]]></content:encoded>
-    </item>
-    <item>
-      <title>まじ暑くてしんど…やばい家に帰ったらもう出れないかもしれない……</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtullk3mos2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mtullk3mos2f</guid>
-      <pubDate>Tue, 25 Aug 2026 00:43:09 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[まじ暑くてしんど…やばい家に帰ったらもう出れないかもしれない……]]></description>
-      <content:encoded><![CDATA[まじ暑くてしんど…やばい家に帰ったらもう出れないかもしれない……]]></content:encoded>
     </item>
   </channel>
 </rss>
