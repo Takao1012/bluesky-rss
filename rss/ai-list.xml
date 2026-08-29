@@ -5,8 +5,107 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:43:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>documentation. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x4phva2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x4phva2u</guid>
+      <pubDate>Sat, 29 Aug 2026 14:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[documentation. (2/2)]]></description>
+      <content:encoded><![CDATA[documentation. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Concise summary: This document outlines Claude…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x4nvtk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x4nvtk2m</guid>
+      <pubDate>Sat, 29 Aug 2026 14:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Concise summary: This document outlines Claude Code’s plugin marketplace, detailing internal and external plugins, installation steps, contribution guidelines, plugin structure, immutability of plugin names, rename handling, skill-bundle support, and where to find licensing and (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Concise summary: This document outlines Claude Code’s plugin marketplace, detailing internal and external plugins, installation steps, contribution guidelines, plugin structure, immutability of plugin names, rename handling, skill-bundle support, and where to find licensing and (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 anthropics / claude…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x275dc2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua2x275dc2m</guid>
+      <pubDate>Sat, 29 Aug 2026 14:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / claude-plugins-official<br>⭐ 35,238 (+356)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / claude-plugins-official<br>⭐ 35,238 (+356)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OCamlのcohttp 6.3.0のセキュリティ修正について、公開前のパッチ告知後すぐに攻…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7z4obnfn25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7z4obnfn25</guid>
+      <pubDate>Sat, 29 Aug 2026 13:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OCamlのcohttp 6.3.0のセキュリティ修正について、公開前のパッチ告知後すぐに攻撃者の探索が進む状況を受け、OSSのセキュリティ対応を見直す必要があると提案している。現行の embargoed公開は機能せず、攻撃者が手掛かりを得れば即時に悪用され得るため、継続的な公開式の修正、低レベルでのプロトコル防御、そして OSS コミュニティ内の信頼網づくりなどを組み合わせて対策を講じるべきだと主張している。具体的には、秘密 Patchの難しさを踏まえたウェブ・オブ・トラスト、継続的なリリースと自動化、プロトコル層の予防的保護を検討している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OCamlのcohttp 6.3.0のセキュリティ修正について、公開前のパッチ告知後すぐに攻撃者の探索が進む状況を受け、OSSのセキュリティ対応を見直す必要があると提案している。現行の embargoed公開は機能せず、攻撃者が手掛かりを得れば即時に悪用され得るため、継続的な公開式の修正、低レベルでのプロトコル防御、そして OSS コミュニティ内の信頼網づくりなどを組み合わせて対策を講じるべきだと主張している。具体的には、秘密 Patchの難しさを踏まえたウェブ・オブ・トラスト、継続的なリリースと自動化、プロトコル層の予防的保護を検討している。]]></content:encoded>
+    </item>
+    <item>
+      <title>今では、バグのうわさだけでエクスプロイトを見つけることができる。 Just the rumour of a bug is…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7z4gsi3u2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7z4gsi3u2p</guid>
+      <pubDate>Sat, 29 Aug 2026 13:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[今では、バグのうわさだけでエクスプロイトを見つけることができる。<br>Just the rumour of a bug is enough to find an exploit these days<br><br>🔺 347<br>💬 23<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[今では、バグのうわさだけでエクスプロイトを見つけることができる。<br>Just the rumour of a bug is enough to find an exploit these days<br><br>🔺 347<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AI語に親しむ  🔖 192 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mu7utvl7dj2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mu7utvl7dj2w</guid>
+      <pubDate>Sat, 29 Aug 2026 12:28:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI語に親しむ<br><br>🔖 192 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI語に親しむ<br><br>🔖 192 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Googleの Gemini 3.5 Transcribe は、背景ノイズや専門用語、話の中…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7sfx5jcw2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7sfx5jcw2u</guid>
+      <pubDate>Sat, 29 Aug 2026 11:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Googleの Gemini 3.5 Transcribe は、背景ノイズや専門用語、話の中断を含む実話的な発話を高精度で文字起こしする新世代の音声認識モデルです。リアルタイムのストリーミングと録音済み音声の処理の両方をサポートし、複数言語対応・話者識別・カスタム語彙学習・自動修正・機能呼び出しなど、開発者向けAPIと各種アプリへの組み込みが可能です。GboardやAntigravity、macOSアプリ、今後Chromeなどでの体験が提供予定です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Googleの Gemini 3.5 Transcribe は、背景ノイズや専門用語、話の中断を含む実話的な発話を高精度で文字起こしする新世代の音声認識モデルです。リアルタイムのストリーミングと録音済み音声の処理の両方をサポートし、複数言語対応・話者識別・カスタム語彙学習・自動修正・機能呼び出しなど、開発者向けAPIと各種アプリへの組み込みが可能です。GboardやAntigravity、macOSアプリ、今後Chromeなどでの体験が提供予定です。]]></content:encoded>
+    </item>
+    <item>
+      <title>ジェミニ-3.5-トランスクライブ Gemini-3.5-Transcribe  🔺 356 💬 43 🔗 HN …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7sfpv5rc2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7sfpv5rc2v</guid>
+      <pubDate>Sat, 29 Aug 2026 11:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ジェミニ-3.5-トランスクライブ<br>Gemini-3.5-Transcribe<br><br>🔺 356<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ジェミニ-3.5-トランスクライブ<br>Gemini-3.5-Transcribe<br><br>🔺 356<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmj…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mu7o5ia3r52w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mu7o5ia3r52w</guid>
+      <pubDate>Sat, 29 Aug 2026 10:28:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenAIはCursorへの提供契約を2026年11月12日を安定的な解約日として段階的に…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7lpq7hac2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7lpq7hac2i</guid>
+      <pubDate>Sat, 29 Aug 2026 09:44:46 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIはCursorへの提供契約を2026年11月12日を安定的な解約日として段階的に終了させ、最大限の事前通知を行う決定を発表した。理由は、SpaceX（および関連企業）がOpenAIの利用規約を遵守していないと経験的に判断したことや、将来のモデル Astra の適正利用を確保する必要があるためである。長年のパートナーシップにもかかわらず、Cursorの開発者に影響が及ぶ点を考慮し、移行をサポートする意向を示している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIはCursorへの提供契約を2026年11月12日を安定的な解約日として段階的に終了させ、最大限の事前通知を行う決定を発表した。理由は、SpaceX（および関連企業）がOpenAIの利用規約を遵守していないと経験的に判断したことや、将来のモデル Astra の適正利用を確保する必要があるためである。長年のパートナーシップにもかかわらず、Cursorの開発者に影響が及ぶ点を考慮し、移行をサポートする意向を示している。]]></content:encoded>
+    </item>
+    <item>
+      <title>SpaceXによるCursorの買収を受けた後のCursorに関する私たちの決定 Our decision on Cur…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7lpf3ucg2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu7lpf3ucg2s</guid>
+      <pubDate>Sat, 29 Aug 2026 09:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[SpaceXによるCursorの買収を受けた後のCursorに関する私たちの決定<br>Our decision on Cursor following its acquisition by SpaceX<br><br>🔺 517<br>💬 60<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[SpaceXによるCursorの買収を受けた後のCursorに関する私たちの決定<br>Our decision on Cursor following its acquisition by SpaceX<br><br>🔺 517<br>💬 60<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Now in the T3 Code nightly: attach _anything_  Attachments g…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mu7jic2rtx27</link>
@@ -366,108 +465,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容をご提示ください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>orcarouter/Qwen3.8-27B-Uncensored-FP8<br>READMEの内容が記載されていないため、目的をまとめることができません。<br>内容をご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  OBLITERATUS/Qwen3.8-27B-OBLITERATED Qwen…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mu6baka63h2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mu6baka63h2j</guid>
-      <pubDate>Fri, 28 Aug 2026 21:04:40 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bをベースに、安全性の制限や拒絶応答を排除した非検閲モデルを提供することを目的としています。<br>安全に関する説教や回答拒否をなくし、サイバータスクやコード作成などの制限された領域においても、元のモデルに近い性能を維持しつつ直接的な回答を可能にすることを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>OBLITERATUS/Qwen3.8-27B-OBLITERATED<br>Qwen3.8-27Bをベースに、安全性の制限や拒絶応答を排除した非検閲モデルを提供することを目的としています。<br>安全に関する説教や回答拒否をなくし、サイバータスクやコード作成などの制限された領域においても、元のモデルに近い性能を維持しつつ直接的な回答を可能にすることを目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3 GLM-5.3という言語モデルを公開するためのリ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mu6ba336b522</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mu6ba336b522</guid>
-      <pubDate>Fri, 28 Aug 2026 21:04:24 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3という言語モデルを公開するためのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングを通じて複雑なコーディングや長期的なタスクの遂行能力を向上させています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3という言語モデルを公開するためのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングを通じて複雑なコーディングや長期的なタスクの遂行能力を向上させています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Likely the final payout of the current revenue share program…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mu6emlkfhf2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mu6emlkfhf2x</guid>
-      <pubDate>Fri, 28 Aug 2026 20:39:29 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Likely the final payout of the current revenue share program 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih5jivlq3fc2spu62iov4o3foterwgfej4j5afr7r6uayl3llj7qu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Likely the final payout of the current revenue share program 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih5jivlq3fc2spu62iov4o3foterwgfej4j5afr7r6uayl3llj7qu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih5jivlq3fc2spu62iov4o3foterwgfej4j5afr7r6uayl3llj7qu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tricky question to answer now that Apple have just announced…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mu6776y35c2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mu6776y35c2b</guid>
-      <pubDate>Fri, 28 Aug 2026 20:28:07 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Tricky question to answer now that Apple have just announced the new M5 and M6 chips - I'd wait for comparative reviews of those compared to the Spark]]></description>
-      <content:encoded><![CDATA[Tricky question to answer now that Apple have just announced the new M5 and M6 chips - I'd wait for comparative reviews of those compared to the Spark]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 livekit / agents ⭐ 13,210 (+14) 🗒 Python  A framework fo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu66m4evhn2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu66m4evhn2m</guid>
-      <pubDate>Fri, 28 Aug 2026 20:17:27 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 livekit / agents<br>⭐ 13,210 (+14)<br>🗒 Python<br><br>A framework for building realtime voice AI agents 🤖🎙️📹]]></description>
-      <content:encoded><![CDATA[📦 livekit / agents<br>⭐ 13,210 (+14)<br>🗒 Python<br><br>A framework for building realtime voice AI agents 🤖🎙️📹]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GLM-5.3はGLM-5.2と同じ基盤モデルを用い、追加はポストトレーニングによる向上で、…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu64ritlr62u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu64ritlr62u</guid>
-      <pubDate>Fri, 28 Aug 2026 19:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを用い、追加はポストトレーニングによる向上で、複雑なコーディングや長期的タスクで大幅に性能を向上させた。特にコーディング能力はオープンウェイト中最高クラスで、複数の公開ベンチマークでSOTAを達成、CyberGym系の脆弱性発見やエクスプロイト関連タスクでも顕著な伸びを示している。さらにローカル展開対応フレームワークが多数提供され、推論オプションや思考予算の調整機能も備えている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GLM-5.3はGLM-5.2と同じ基盤モデルを用い、追加はポストトレーニングによる向上で、複雑なコーディングや長期的タスクで大幅に性能を向上させた。特にコーディング能力はオープンウェイト中最高クラスで、複数の公開ベンチマークでSOTAを達成、CyberGym系の脆弱性発見やエクスプロイト関連タスクでも顕著な伸びを示している。さらにローカル展開対応フレームワークが多数提供され、推論オプションや思考予算の調整機能も備えている。]]></content:encoded>
-    </item>
-    <item>
-      <title>ngl was really hoping for Fable 5.1 to drop today</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mu652jlnvc25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mu652jlnvc25</guid>
-      <pubDate>Fri, 28 Aug 2026 19:44:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[ngl was really hoping for Fable 5.1 to drop today]]></description>
-      <content:encoded><![CDATA[ngl was really hoping for Fable 5.1 to drop today]]></content:encoded>
-    </item>
-    <item>
-      <title>GLM-5.3のウェイトが公開されました。 GLM-5.3 is now open-weight  🔺 390 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu64rakaki2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mu64rakaki2t</guid>
-      <pubDate>Fri, 28 Aug 2026 19:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GLM-5.3のウェイトが公開されました。<br>GLM-5.3 is now open-weight<br><br>🔺 390<br>💬 21<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GLM-5.3のウェイトが公開されました。<br>GLM-5.3 is now open-weight<br><br>🔺 390<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>artifacts, and runtime guidance, with extensive phase-by-pha…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvg4ull2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvg4ull2q</guid>
-      <pubDate>Fri, 28 Aug 2026 18:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[artifacts, and runtime guidance, with extensive phase-by-phase lesson catalogs and supporting scripts for setup, evaluation, and deployment. (2/2)]]></description>
-      <content:encoded><![CDATA[artifacts, and runtime guidance, with extensive phase-by-phase lesson catalogs and supporting scripts for setup, evaluation, and deployment. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   This is a comprehensive, open-source curriculu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvg3imy24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvg3imy24</guid>
-      <pubDate>Fri, 28 Aug 2026 18:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>This is a comprehensive, open-source curriculum called "AI Engineering from Scratch" offering 511 lessons across 20 phases (from basics to advanced topics like MCP, agent engineering, multimodal AI, and safety). It provides multiple learning paths (GitHub, website), tooling, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>This is a comprehensive, open-source curriculum called "AI Engineering from Scratch" offering 511 lessons across 20 phases (from basics to advanced topics like MCP, agent engineering, multimodal AI, and safety). It provides multiple learning paths (GitHub, website), tooling, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 rohitg00 / ai-engine…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvbrgny24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mu5xvbrgny24</guid>
-      <pubDate>Fri, 28 Aug 2026 18:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 50,451 (+703)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 50,451 (+703)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></content:encoded>
     </item>
   </channel>
 </rss>
