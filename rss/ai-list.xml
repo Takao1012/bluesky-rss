@@ -5,8 +5,140 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:57:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   - git.kernel.org は学習データ用の大量の公開データを提供するため、クローラー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudl432m7r23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudl432m7r23</guid>
+      <pubDate>Sun, 30 Aug 2026 23:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- git.kernel.org は学習データ用の大量の公開データを提供するため、クローラーが過剰にアクセスし、HTML化して渋滞を引き起こす問題が深刻化している。  <br>- 5ノードで合計90コア中、約14〜16コアが常にスクレイパー向けのコミットをHTML化する作業に使われ、全体の約20%の容量を占有している。  <br>- 現在は対策としてアクセス制限や機能制限を進めているが解決には至らず、データ提供は継続するものの取得にはより多くの手間と制約が伴う見込み。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- git.kernel.org は学習データ用の大量の公開データを提供するため、クローラーが過剰にアクセスし、HTML化して渋滞を引き起こす問題が深刻化している。  <br>- 5ノードで合計90コア中、約14〜16コアが常にスクレイパー向けのコミットをHTML化する作業に使われ、全体の約20%の容量を占有している。  <br>- 現在は対策としてアクセス制限や機能制限を進めているが解決には至らず、データ提供は継続するものの取得にはより多くの手間と制約が伴う見込み。]]></content:encoded>
+    </item>
+    <item>
+      <title>気味の悪い虫たち Creepy Crawlies  🔺 861 💬 95 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudl3rzahb23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudl3rzahb23</guid>
+      <pubDate>Sun, 30 Aug 2026 23:44:16 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[気味の悪い虫たち<br>Creepy Crawlies<br><br>🔺 861<br>💬 95<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[気味の悪い虫たち<br>Creepy Crawlies<br><br>🔺 861<br>💬 95<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>tools, designed for easy installation, CI-tested reliability…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjlhmxev24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjlhmxev24</guid>
+      <pubDate>Sun, 30 Aug 2026 23:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[tools, designed for easy installation, CI-tested reliability, and cross-agent compatibility via the Agent Skills standard. (2/2)]]></description>
+      <content:encoded><![CDATA[tools, designed for easy installation, CI-tested reliability, and cross-agent compatibility via the Agent Skills standard. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   A comprehensive, MIT-licensed collection of 16…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjlhljlo2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjlhljlo2t</guid>
+      <pubDate>Sun, 30 Aug 2026 23:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>A comprehensive, MIT-licensed collection of 163 open-source scientific and research skills for AI agents, enabling multi-domain workflows (bioinformatics, cheminformatics, clinical research, ML, imaging, etc.) with 100+ databases, 70+ Python package skills, and 30+ integration (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>A comprehensive, MIT-licensed collection of 163 open-source scientific and research skills for AI agents, enabling multi-domain workflows (bioinformatics, cheminformatics, clinical research, ML, imaging, etc.) with 100+ databases, 70+ Python package skills, and 30+ integration (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 K-Dense-AI / scienti…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjldwcmg2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudjldwcmg2t</guid>
+      <pubDate>Sun, 30 Aug 2026 23:17:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 K-Dense-AI / scientific-agent-skills<br>⭐ 38,568 (+1,113)<br>🗒 Python<br><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases...]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 K-Dense-AI / scientific-agent-skills<br>⭐ 38,568 (+1,113)<br>🗒 Python<br><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases...]]></content:encoded>
+    </item>
+    <item>
+      <title>Awesome to see the big players making the time to improve pe…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2obhyy2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2obhyy2o</guid>
+      <pubDate>Sun, 30 Aug 2026 22:21:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Awesome to see the big players making the time to improve performance. My fear of performance regressions was one of the main inspirations for building T3 Code and making it open source. It's a relief to see devs like Brent raising the bar 🫡 (4/4)]]></description>
+      <content:encoded><![CDATA[Awesome to see the big players making the time to improve performance. My fear of performance regressions was one of the main inspirations for building T3 Code and making it open source. It's a relief to see devs like Brent raising the bar 🫡 (4/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>It&apos;s thankless work, but it&apos;s also essential if we&apos;ll be usi…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2laq4p2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2laq4p2v</guid>
+      <pubDate>Sun, 30 Aug 2026 22:21:10 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[It's thankless work, but it's also essential if we'll be using these tools more and more for bigger, harder tasks. (3/4)]]></description>
+      <content:encoded><![CDATA[It's thankless work, but it's also essential if we'll be using these tools more and more for bigger, harder tasks. (3/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>I spent a week reducing the amount of data needed to load a …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2i7zxc2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2i7zxc2y</guid>
+      <pubDate>Sun, 30 Aug 2026 22:21:09 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I spent a week reducing the amount of data needed to load a long thread. It was not easy, and it took forever, but we went down from hundreds of megs for big threads to just under 40 KB in the worst cases. (2/4)]]></description>
+      <content:encoded><![CDATA[I spent a week reducing the amount of data needed to load a long thread. It was not easy, and it took forever, but we went down from hundreds of megs for big threads to just under 40 KB in the worst cases. (2/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>This isn&apos;t easy to do. We had an unfair advantage with T3 Co…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2esdbh2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudi2esdbh2k</guid>
+      <pubDate>Sun, 30 Aug 2026 22:21:08 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This isn't easy to do. We had an unfair advantage with T3 Code (we knew long threads were a thing already) and we still got it wrong. (1/4)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiexzn3gdpmuf6bg6aelbee3epj3pher2zk26v6nqnjvwrplbk44bq" alt="Quote Tweet: https://twitter.com/i/status/2094119709222519134" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This isn't easy to do. We had an unfair advantage with T3 Code (we knew long threads were a thing already) and we still got it wrong. (1/4)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiexzn3gdpmuf6bg6aelbee3epj3pher2zk26v6nqnjvwrplbk44bq" alt="Quote Tweet: https://twitter.com/i/status/2094119709222519134" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiexzn3gdpmuf6bg6aelbee3epj3pher2zk26v6nqnjvwrplbk44bq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>build/install steps, commands, configurations, and automatio…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgad6mrf2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgad6mrf2m</guid>
+      <pubDate>Sun, 30 Aug 2026 22:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[build/install steps, commands, configurations, and automation hooks. (2/2)]]></description>
+      <content:encoded><![CDATA[build/install steps, commands, configurations, and automation hooks. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   vphone-cli boots and manages virtual iPhones o…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgad5gon2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgad5gon2m</guid>
+      <pubDate>Sun, 30 Aug 2026 22:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>vphone-cli boots and manages virtual iPhones on Apple Silicon macOS using Apple's Virtualization framework, offering end-to-end VM creation, patching, DFU restore, CFW installation, and first boot with multiple security-bypass variants; it includes detailed prerequisites, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>vphone-cli boots and manages virtual iPhones on Apple Silicon macOS using Apple's Virtualization framework, offering end-to-end VM creation, patching, DFU restore, CFW installation, and first boot with multiple security-bypass variants; it includes detailed prerequisites, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 Lakr233 / vphone-cli…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgaaeqvt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudgaaeqvt24</guid>
+      <pubDate>Sun, 30 Aug 2026 22:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Lakr233 / vphone-cli<br>⭐ 9,369 (+633)<br>🗒 Swift]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Lakr233 / vphone-cli<br>⭐ 9,369 (+633)<br>🗒 Swift]]></content:encoded>
+    </item>
+    <item>
+      <title>What are the most common misconceptions you see about coding…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudgf3vrxk2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudgf3vrxk2g</guid>
+      <pubDate>Sun, 30 Aug 2026 22:15:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[What are the most common misconceptions you see about coding with AI?]]></description>
+      <content:encoded><![CDATA[What are the most common misconceptions you see about coding with AI?]]></content:encoded>
+    </item>
+    <item>
+      <title>I ran some fun numbers here on real-world requests for the m…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudgevf5f52x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudgevf5f52x</guid>
+      <pubDate>Sun, 30 Aug 2026 22:12:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I ran some fun numbers here on real-world requests for the majority of my threads in Codex and Claude Code. Roughly 1% of the response time is spent actually streaming text back to me.<br><br>Why do people still think "streaming is how I know it's running"?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaazzdddzo2psyrolhgzdadvuxhfdkgm3yj2vpgi4gpdqpkth2ofu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I ran some fun numbers here on real-world requests for the majority of my threads in Codex and Claude Code. Roughly 1% of the response time is spent actually streaming text back to me.<br><br>Why do people still think "streaming is how I know it's running"?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaazzdddzo2psyrolhgzdadvuxhfdkgm3yj2vpgi4gpdqpkth2ofu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaazzdddzo2psyrolhgzdadvuxhfdkgm3yj2vpgi4gpdqpkth2ofu" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>📦 checkstyle / checkstyle ⭐ 9,109 (+78) 🗒 Java  Checkstyle…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudcuqdvvw24</link>
@@ -15,6 +147,15 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 checkstyle / checkstyle<br>⭐ 9,109 (+78)<br>🗒 Java<br><br>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT t...]]></description>
       <content:encoded><![CDATA[📦 checkstyle / checkstyle<br>⭐ 9,109 (+78)<br>🗒 Java<br><br>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT t...]]></content:encoded>
+    </item>
+    <item>
+      <title>I think everybody missed an important detail in OpenAI&apos;s ann…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudeplc32m2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudeplc32m2y</guid>
+      <pubDate>Sun, 30 Aug 2026 21:15:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I think everybody missed an important detail in OpenAI's announcement that they're banning Cursor from using their models. <br><br>Video: https://twitter.com/theo/status/2094172153956680132]]></description>
+      <content:encoded><![CDATA[I think everybody missed an important detail in OpenAI's announcement that they're banning Cursor from using their models. <br><br>Video: https://twitter.com/theo/status/2094172153956680132]]></content:encoded>
     </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 pollen-robotics / micro…</title>
@@ -321,141 +462,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[議員たちは自動車保険料に1ドルを上乗せした。そのお金はFlock社製のカメラの費用を賄うために使われた。<br>Lawmakers added $1 to car insurance policies. That money paid for Flock cameras<br><br>🔺 299<br>💬 10<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[議員たちは自動車保険料に1ドルを上乗せした。そのお金はFlock社製のカメラの費用を賄うために使われた。<br>Lawmakers added $1 to car insurance policies. That money paid for Flock cameras<br><br>🔺 299<br>💬 10<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ハーネス設計入門 〜プロンプト、コンテキストの次〜  🔖 159 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muc3b2pt4d2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muc3b2pt4d2r</guid>
-      <pubDate>Sun, 30 Aug 2026 09:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ハーネス設計入門 〜プロンプト、コンテキストの次〜<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ハーネス設計入門 〜プロンプト、コンテキストの次〜<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ご依頼の記事の本文が提供されていません。要約には記事の具体的な内容が必要です。記事本文を貼っ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubvhsyf4z2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubvhsyf4z2t</guid>
-      <pubDate>Sun, 30 Aug 2026 07:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ご依頼の記事の本文が提供されていません。要約には記事の具体的な内容が必要です。記事本文を貼っていただければ、日本語で1-3文に要約します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ご依頼の記事の本文が提供されていません。要約には記事の具体的な内容が必要です。記事本文を貼っていただければ、日本語で1-3文に要約します。]]></content:encoded>
-    </item>
-    <item>
-      <title>GrapheneOSプロジェクト: Pixel 11はハードウェアメモリタグ付け（MTE）をサポートしていません。 Gr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubvhhowx72x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubvhhowx72x</guid>
-      <pubDate>Sun, 30 Aug 2026 07:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GrapheneOSプロジェクト: Pixel 11はハードウェアメモリタグ付け（MTE）をサポートしていません。<br>GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)<br><br>🔺 287<br>💬 17<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GrapheneOSプロジェクト: Pixel 11はハードウェアメモリタグ付け（MTE）をサポートしていません。<br>GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)<br><br>🔺 287<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 業務時間外もAIに働いてもらう話  🔖 153 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubukmua4w27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubukmua4w27</guid>
-      <pubDate>Sun, 30 Aug 2026 07:28:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 業務時間外もAIに働いてもらう話<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 業務時間外もAIに働いてもらう話<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Fable is a really good model</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubqqikryn2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubqqikryn2v</guid>
-      <pubDate>Sun, 30 Aug 2026 06:12:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Fable is a really good model]]></description>
-      <content:encoded><![CDATA[Fable is a really good model]]></content:encoded>
-    </item>
-    <item>
-      <title>全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組み…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqz4qao25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqz4qao25</guid>
-      <pubDate>Sun, 30 Aug 2026 05:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組みとして位置づけられている。 (2/2)]]></description>
-      <content:encoded><![CDATA[全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組みとして位置づけられている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqyyx7y2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqyyx7y2i</guid>
-      <pubDate>Sun, 30 Aug 2026 05:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」を自動的に更新できる仕組みが必要だと著者は主張する。そこでDatalogを用いたLemmalogを開発し、LLMが扱う不確定な情報を構造化された事実・規則・導出事実として管理、変更時には依存関係に基づく自動更新と説明性（起源の追跡）を実現することで、長時間の推論の再計算を避けると共に、知識の更新履歴や有効期限の扱いも可能にしている。評価ではLongMemEvalとLoCoMoで従来のメモリシステムを上回る指標も出つつ、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」を自動的に更新できる仕組みが必要だと著者は主張する。そこでDatalogを用いたLemmalogを開発し、LLMが扱う不確定な情報を構造化された事実・規則・導出事実として管理、変更時には依存関係に基づく自動更新と説明性（起源の追跡）を実現することで、長時間の推論の再計算を避けると共に、知識の更新履歴や有効期限の扱いも可能にしている。評価ではLongMemEvalとLoCoMoで従来のメモリシステムを上回る指標も出つつ、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>うっかりLLMのメモリをプログラム分析に転用してしまった。 I accidentally turned LLM memo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqsq4j52c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqsq4j52c</guid>
-      <pubDate>Sun, 30 Aug 2026 05:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[うっかりLLMのメモリをプログラム分析に転用してしまった。<br>I accidentally turned LLM memory into program analysis<br><br>🔺 284<br>💬 47<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[うっかりLLMのメモリをプログラム分析に転用してしまった。<br>I accidentally turned LLM memory into program analysis<br><br>🔺 284<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>til you can use Claude Code with sudo permissions if you use…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp3aj34h2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp3aj34h2x</guid>
-      <pubDate>Sun, 30 Aug 2026 05:29:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[til you can use Claude Code with sudo permissions if you use "auto" mode instead of "bypass permissions"]]></description>
-      <content:encoded><![CDATA[til you can use Claude Code with sudo permissions if you use "auto" mode instead of "bypass permissions"]]></content:encoded>
-    </item>
-    <item>
-      <title>My biggest regret is not using my “reach” to get more free c…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp33ot2q25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp33ot2q25</guid>
-      <pubDate>Sun, 30 Aug 2026 05:20:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[My biggest regret is not using my “reach” to get more free computers when RAM was cheap]]></description>
-      <content:encoded><![CDATA[My biggest regret is not using my “reach” to get more free computers when RAM was cheap]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）  🔖 152 ブックマーク 💬 コメント…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubkin3ycf2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubkin3ycf2o</guid>
-      <pubDate>Sun, 30 Aug 2026 04:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 C…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi2ge42r2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi2ge42r2u</guid>
-      <pubDate>Sun, 30 Aug 2026 03:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 Conwayの法則を踏まえ、AI導入はトップダウンではなくボトムアップの文化と組織設計が前提であり、健全な文化と明確な役割・意思決定プロセス、相互信頼がAIの効果を最大化すると説く。AI導入の本質的な課題は「人材をどう最大限活用する組織を作るか」であり、優れた文化こそが最大の生産性向上手段だと結論づけている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 Conwayの法則を踏まえ、AI導入はトップダウンではなくボトムアップの文化と組織設計が前提であり、健全な文化と明確な役割・意思決定プロセス、相互信頼がAIの効果を最大化すると説く。AI導入の本質的な課題は「人材をどう最大限活用する組織を作るか」であり、優れた文化こそが最大の生産性向上手段だと結論づけている。]]></content:encoded>
-    </item>
-    <item>
-      <title>良い文化こそが最大の生産性ハックであり、AIではない。 Good Culture Is the Biggest Prod…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi26rxat2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi26rxat2t</guid>
-      <pubDate>Sun, 30 Aug 2026 03:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[良い文化こそが最大の生産性ハックであり、AIではない。<br>Good Culture Is the Biggest Productivity Hack, Not AI<br><br>🔺 287<br>💬 20<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[良い文化こそが最大の生産性ハックであり、AIではない。<br>Good Culture Is the Biggest Productivity Hack, Not AI<br><br>🔺 287<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>observability and easy self-host setup. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjutu6u2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjutu6u2n</guid>
-      <pubDate>Sun, 30 Aug 2026 03:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[observability and easy self-host setup. (2/2)]]></description>
-      <content:encoded><![CDATA[observability and easy self-host setup. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Weave Router is a drop-in, on-box proxy that r…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjusfwv2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjusfwv2m</guid>
-      <pubDate>Sun, 30 Aug 2026 03:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Weave Router is a drop-in, on-box proxy that routes each API request to the best model (Anthropic, OpenAI, Gemini, or OSS) using an embedded cluster scorer; it supports local hosting, BYOK keys, per-action routing, and full API compatibility across major providers, with (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Weave Router is a drop-in, on-box proxy that routes each API request to the best model (Anthropic, OpenAI, Gemini, or OSS) using an embedded cluster scorer; it supports local hosting, BYOK keys, per-action routing, and full API compatibility across major providers, with (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
