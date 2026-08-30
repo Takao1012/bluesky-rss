@@ -5,8 +5,221 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:49:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:58:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組み…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqz4qao25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqz4qao25</guid>
+      <pubDate>Sun, 30 Aug 2026 05:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組みとして位置づけられている。 (2/2)]]></description>
+      <content:encoded><![CDATA[全体としてはPropMemやSimpleMemにはまだ及ばないものの、情報の再利用性と推論の安定性を高める有望な取り組みとして位置づけられている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqyyx7y2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqyyx7y2i</guid>
+      <pubDate>Sun, 30 Aug 2026 05:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」を自動的に更新できる仕組みが必要だと著者は主張する。そこでDatalogを用いたLemmalogを開発し、LLMが扱う不確定な情報を構造化された事実・規則・導出事実として管理、変更時には依存関係に基づく自動更新と説明性（起源の追跡）を実現することで、長時間の推論の再計算を避けると共に、知識の更新履歴や有効期限の扱いも可能にしている。評価ではLongMemEvalとLoCoMoで従来のメモリシステムを上回る指標も出つつ、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LLMを長時間の脆弱性調査で有用にするには、単なる履歴記憶では不十分で、観測の「現在の真偽」を自動的に更新できる仕組みが必要だと著者は主張する。そこでDatalogを用いたLemmalogを開発し、LLMが扱う不確定な情報を構造化された事実・規則・導出事実として管理、変更時には依存関係に基づく自動更新と説明性（起源の追跡）を実現することで、長時間の推論の再計算を避けると共に、知識の更新履歴や有効期限の扱いも可能にしている。評価ではLongMemEvalとLoCoMoで従来のメモリシステムを上回る指標も出つつ、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>うっかりLLMのメモリをプログラム分析に転用してしまった。 I accidentally turned LLM memo…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqsq4j52c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muboqsq4j52c</guid>
+      <pubDate>Sun, 30 Aug 2026 05:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[うっかりLLMのメモリをプログラム分析に転用してしまった。<br>I accidentally turned LLM memory into program analysis<br><br>🔺 284<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[うっかりLLMのメモリをプログラム分析に転用してしまった。<br>I accidentally turned LLM memory into program analysis<br><br>🔺 284<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>til you can use Claude Code with sudo permissions if you use…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp3aj34h2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp3aj34h2x</guid>
+      <pubDate>Sun, 30 Aug 2026 05:29:07 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[til you can use Claude Code with sudo permissions if you use "auto" mode instead of "bypass permissions"]]></description>
+      <content:encoded><![CDATA[til you can use Claude Code with sudo permissions if you use "auto" mode instead of "bypass permissions"]]></content:encoded>
+    </item>
+    <item>
+      <title>My biggest regret is not using my “reach” to get more free c…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp33ot2q25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubp33ot2q25</guid>
+      <pubDate>Sun, 30 Aug 2026 05:20:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[My biggest regret is not using my “reach” to get more free computers when RAM was cheap]]></description>
+      <content:encoded><![CDATA[My biggest regret is not using my “reach” to get more free computers when RAM was cheap]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）  🔖 152 ブックマーク 💬 コメント…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubkin3ycf2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mubkin3ycf2o</guid>
+      <pubDate>Sun, 30 Aug 2026 04:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 C…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi2ge42r2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi2ge42r2u</guid>
+      <pubDate>Sun, 30 Aug 2026 03:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 Conwayの法則を踏まえ、AI導入はトップダウンではなくボトムアップの文化と組織設計が前提であり、健全な文化と明確な役割・意思決定プロセス、相互信頼がAIの効果を最大化すると説く。AI導入の本質的な課題は「人材をどう最大限活用する組織を作るか」であり、優れた文化こそが最大の生産性向上手段だと結論づけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIツールの活用よりも、良い組織文化と適切な環境づくりが生産性を決定すると主張する記事。 Conwayの法則を踏まえ、AI導入はトップダウンではなくボトムアップの文化と組織設計が前提であり、健全な文化と明確な役割・意思決定プロセス、相互信頼がAIの効果を最大化すると説く。AI導入の本質的な課題は「人材をどう最大限活用する組織を作るか」であり、優れた文化こそが最大の生産性向上手段だと結論づけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>良い文化こそが最大の生産性ハックであり、AIではない。 Good Culture Is the Biggest Prod…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi26rxat2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubi26rxat2t</guid>
+      <pubDate>Sun, 30 Aug 2026 03:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[良い文化こそが最大の生産性ハックであり、AIではない。<br>Good Culture Is the Biggest Productivity Hack, Not AI<br><br>🔺 287<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[良い文化こそが最大の生産性ハックであり、AIではない。<br>Good Culture Is the Biggest Productivity Hack, Not AI<br><br>🔺 287<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>observability and easy self-host setup. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjutu6u2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjutu6u2n</guid>
+      <pubDate>Sun, 30 Aug 2026 03:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[observability and easy self-host setup. (2/2)]]></description>
+      <content:encoded><![CDATA[observability and easy self-host setup. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Weave Router is a drop-in, on-box proxy that r…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjusfwv2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjusfwv2m</guid>
+      <pubDate>Sun, 30 Aug 2026 03:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Weave Router is a drop-in, on-box proxy that routes each API request to the best model (Anthropic, OpenAI, Gemini, or OSS) using an embedded cluster scorer; it supports local hosting, BYOK keys, per-action routing, and full API compatibility across major providers, with (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Weave Router is a drop-in, on-box proxy that routes each API request to the best model (Anthropic, OpenAI, Gemini, or OSS) using an embedded cluster scorer; it supports local hosting, BYOK keys, per-action routing, and full API compatibility across major providers, with (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 workweave / router …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjqpbyv2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubgjqpbyv2u</guid>
+      <pubDate>Sun, 30 Aug 2026 03:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 workweave / router<br>⭐ 2,614 (+284)<br>🗒 Go<br><br>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 workweave / router<br>⭐ 2,614 (+284)<br>🗒 Go<br><br>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.]]></content:encoded>
+    </item>
+    <item>
+      <title>tracking, and site audits. It offers a hosted free option an…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6nv35j2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6nv35j2f</guid>
+      <pubDate>Sun, 30 Aug 2026 02:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[tracking, and site audits. It offers a hosted free option and a $10/month subscription for hosted use, with optional self-hosting costs depending on DataForSEO usage. (2/2)]]></description>
+      <content:encoded><![CDATA[tracking, and site audits. It offers a hosted free option and a $10/month subscription for hosted use, with optional self-hosting costs depending on DataForSEO usage. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenSEO is an open-source, pay-as-you-go SEO t…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6ntn6m2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6ntn6m2m</guid>
+      <pubDate>Sun, 30 Aug 2026 02:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenSEO is an open-source, pay-as-you-go SEO tool (alternative to Semrush/Ahrefs) that supports hosting (Docker or Cloudflare), self-hosted data via a DataForSEO API, and integration with AI agents through MCP and reusable agent Skills for workflows like keyword research, rank (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenSEO is an open-source, pay-as-you-go SEO tool (alternative to Semrush/Ahrefs) that supports hosting (Docker or Cloudflare), self-hosted data via a DataForSEO API, and integration with AI agents through MCP and reusable agent Skills for workflows like keyword research, rank (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 every-app / open-seo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6kiwdw2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mubd6kiwdw2d</guid>
+      <pubDate>Sun, 30 Aug 2026 02:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 every-app / open-seo<br>⭐ 14,561 (+517)<br>🗒 TypeScript<br><br>Open source alternative to Semrush and Ahrefs]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 every-app / open-seo<br>⭐ 14,561 (+517)<br>🗒 TypeScript<br><br>Open source alternative to Semrush and Ahrefs]]></content:encoded>
+    </item>
+    <item>
+      <title>Feels like a huge miss in the market. Maybe an opportunity f…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddio4u72u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddio4u72u</guid>
+      <pubDate>Sun, 30 Aug 2026 01:54:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Feels like a huge miss in the market. Maybe an opportunity for someone to come in with something better? (4/4)]]></description>
+      <content:encoded><![CDATA[Feels like a huge miss in the market. Maybe an opportunity for someone to come in with something better? (4/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>All I want is something that my agents can access the data f…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddfdbp72g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddfdbp72g</guid>
+      <pubDate>Sun, 30 Aug 2026 01:54:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[All I want is something that my agents can access the data from effectively, implement in my codebase effectively, and give me useful information about how people actually use my products and where the friction lives. (3/4)]]></description>
+      <content:encoded><![CDATA[All I want is something that my agents can access the data from effectively, implement in my codebase effectively, and give me useful information about how people actually use my products and where the friction lives. (3/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>I know multiple analytics companies that are building their …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddcchte25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubddcchte25</guid>
+      <pubDate>Sun, 30 Aug 2026 01:54:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I know multiple analytics companies that are building their own agent harnesses, but I don't know of any with working Agent SDK traces. (2/4)]]></description>
+      <content:encoded><![CDATA[I know multiple analytics companies that are building their own agent harnesses, but I don't know of any with working Agent SDK traces. (2/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>I feel like most analytics products have failed to figure ou…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubdd77yjn2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubdd77yjn2w</guid>
+      <pubDate>Sun, 30 Aug 2026 01:53:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I feel like most analytics products have failed to figure out how to embrace the AI era. I'd put them in two buckets:<br><br>1. Ignoring AI entirely<br>2. Pretending all the AI features should be built into their product directly (1/4)]]></description>
+      <content:encoded><![CDATA[I feel like most analytics products have failed to figure out how to embrace the AI era. I'd put them in two buckets:<br><br>1. Ignoring AI entirely<br>2. Pretending all the AI features should be built into their product directly (1/4)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   トランプ政権は司法の監視を介さずに私的情報を引き出そうと、難解な法的手段を使ってジャーナリス…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubbdwbsam2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubbdwbsam2w</guid>
+      <pubDate>Sun, 30 Aug 2026 01:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>トランプ政権は司法の監視を介さずに私的情報を引き出そうと、難解な法的手段を使ってジャーナリストや非営利団体、労組の情報収集を試みている。具体的には、連邦機関が裁判所の承認なしにデータを要求できる19 U.S.C. 1509の「行政召喚」を悪用し、YouTubeのアカウント情報や電話記録を押収している事例が明らかになっている。批判派はこれを市民の言論の自由と報道の自由を脅かす行為とみなし、監視と権力の横暴を懸念している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>トランプ政権は司法の監視を介さずに私的情報を引き出そうと、難解な法的手段を使ってジャーナリストや非営利団体、労組の情報収集を試みている。具体的には、連邦機関が裁判所の承認なしにデータを要求できる19 U.S.C. 1509の「行政召喚」を悪用し、YouTubeのアカウント情報や電話記録を押収している事例が明らかになっている。批判派はこれを市民の言論の自由と報道の自由を脅かす行為とみなし、監視と権力の横暴を懸念している。]]></content:encoded>
+    </item>
+    <item>
+      <title>国土安全保障省は、解釈が難しい法律を用いて、ジャーナリストや非営利団体、労働組合を監視している。 DHS is usin…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubbdq77vj2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mubbdq77vj2x</guid>
+      <pubDate>Sun, 30 Aug 2026 01:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[国土安全保障省は、解釈が難しい法律を用いて、ジャーナリストや非営利団体、労働組合を監視している。<br>DHS is using obscure law to snoop on journalists, non-profits, unions<br><br>🔺 304<br>💬 13<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[国土安全保障省は、解釈が難しい法律を用いて、ジャーナリストや非営利団体、労働組合を監視している。<br>DHS is using obscure law to snoop on journalists, non-profits, unions<br><br>🔺 304<br>💬 13<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>There are a lot of factors here  This is likely the biggest …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubboguvcy2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubboguvcy2w</guid>
+      <pubDate>Sun, 30 Aug 2026 01:24:16 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[There are a lot of factors here<br><br>This is likely the biggest though<br><br>ty Omarchy team!<br><br>https://x.com/dhh/status/2090124335642038766
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieorafxwkmcqvrdtgeqkun2tllydxja5uidqnyrcpypliivqe3xwa" alt="Quote Tweet: https://x.com/dhh/status/2090124335642038766" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[There are a lot of factors here<br><br>This is likely the biggest though<br><br>ty Omarchy team!<br><br>https://x.com/dhh/status/2090124335642038766
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieorafxwkmcqvrdtgeqkun2tllydxja5uidqnyrcpypliivqe3xwa" alt="Quote Tweet: https://x.com/dhh/status/2090124335642038766" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieorafxwkmcqvrdtgeqkun2tllydxja5uidqnyrcpypliivqe3xwa" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As of August 23rd, Linux became the most popular platform fo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubbnyz4mt2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mubbnyz4mt2o</guid>
+      <pubDate>Sun, 30 Aug 2026 01:23:22 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[As of August 23rd, Linux became the most popular platform for T3 Code 🤯
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigoxoebikzikcxombpxkcexuijvqojbyzx6fgsofbqcnghc7mh7ou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[As of August 23rd, Linux became the most popular platform for T3 Code 🤯
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigoxoebikzikcxombpxkcexuijvqojbyzx6fgsofbqcnghc7mh7ou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigoxoebikzikcxombpxkcexuijvqojbyzx6fgsofbqcnghc7mh7ou" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 Osmantic / ODS ⭐ 4,837 (+35) 🗒 Python  Turn your PC, Mac…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mub7t7qutm2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mub7t7qutm2f</guid>
+      <pubDate>Sun, 30 Aug 2026 01:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 Osmantic / ODS<br>⭐ 4,837 (+35)<br>🗒 Python<br><br>Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.]]></description>
+      <content:encoded><![CDATA[📦 Osmantic / ODS<br>⭐ 4,837 (+35)<br>🗒 Python<br><br>Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.]]></content:encoded>
+    </item>
     <item>
       <title>I&apos;ll admit the last paragraph here is wishful thinking, but …</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mub5ic35gn2v</link>
@@ -263,216 +476,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I can’t believe there are people who still choose to use Antigravity and Gemini]]></description>
       <content:encoded><![CDATA[I can’t believe there are people who still choose to use Antigravity and Gemini]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 bigskysoftware / htmx ⭐ 49,078 (+32) 🗒 JavaScript  &amp;lt;/…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muap2wxw6n23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muap2wxw6n23</guid>
-      <pubDate>Sat, 29 Aug 2026 20:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 bigskysoftware / htmx<br>⭐ 49,078 (+32)<br>🗒 JavaScript<br><br>&lt;/&gt; htmx - high power tools for HTML]]></description>
-      <content:encoded><![CDATA[📦 bigskysoftware / htmx<br>⭐ 49,078 (+32)<br>🗒 JavaScript<br><br>&lt;/&gt; htmx - high power tools for HTML]]></content:encoded>
-    </item>
-    <item>
-      <title>This dude is clearly mentally unwell. He’s been tweeting at …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muaofyymrs2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muaofyymrs2x</guid>
-      <pubDate>Sat, 29 Aug 2026 19:46:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[This dude is clearly mentally unwell. He’s been tweeting at me nonstop for months.]]></description>
-      <content:encoded><![CDATA[This dude is clearly mentally unwell. He’s been tweeting at me nonstop for months.]]></content:encoded>
-    </item>
-    <item>
-      <title>ペンタゴンによるAnthropicのブラックリスト入りは違法、米判事が判断 Pentagon&apos;s blacklistin…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muan7vojdw2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muan7vojdw2t</guid>
-      <pubDate>Sat, 29 Aug 2026 19:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ペンタゴンによるAnthropicのブラックリスト入りは違法、米判事が判断<br>Pentagon's blacklisting of Anthropic was unlawful, US judge rules<br><br>🔺 325<br>💬 2<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ペンタゴンによるAnthropicのブラックリスト入りは違法、米判事が判断<br>Pentagon's blacklisting of Anthropic was unlawful, US judge rules<br><br>🔺 325<br>💬 2<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>So we’re just outright wishing death on me now? That’s cool.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muaoffnfmp24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muaoffnfmp24</guid>
-      <pubDate>Sat, 29 Aug 2026 19:41:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[So we’re just outright wishing death on me now? That’s cool.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifkak6mx2ww3gaqgdhqlaypmp7yh6gr7qjzb3isdowt3nfxps6smq" alt="Quote Tweet: https://twitter.com/i/status/2093478726956720495" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[So we’re just outright wishing death on me now? That’s cool.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifkak6mx2ww3gaqgdhqlaypmp7yh6gr7qjzb3isdowt3nfxps6smq" alt="Quote Tweet: https://twitter.com/i/status/2093478726956720495" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifkak6mx2ww3gaqgdhqlaypmp7yh6gr7qjzb3isdowt3nfxps6smq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Grab your pass to join us for #GitHubUniverse in San Francis…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3muaknazkw62o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3muaknazkw62o</guid>
-      <pubDate>Sat, 29 Aug 2026 18:58:09 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[Grab your pass to join us for #GitHubUniverse in San Francisco October 28-29 🌁 <br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=sun_short]]></description>
-      <content:encoded><![CDATA[Grab your pass to join us for #GitHubUniverse in San Francisco October 28-29 🌁 <br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=sun_short]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Debianの一般投票で「責任ある生成AIの使用」が選ばれ、生成AIツールの使用を推奨も禁止…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muagjibumq2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muagjibumq2i</guid>
-      <pubDate>Sat, 29 Aug 2026 17:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Debianの一般投票で「責任ある生成AIの使用」が選ばれ、生成AIツールの使用を推奨も禁止もしないが、すべての貢献は同じ品質・正確性・法令遵守を満たすべきで、AIを使って作成しても最終責任は投稿者にある。貢献者はAI支援 outputを理解・検証・必要に応じて修正して、Debianへ取り込むべき。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Debianの一般投票で「責任ある生成AIの使用」が選ばれ、生成AIツールの使用を推奨も禁止もしないが、すべての貢献は同じ品質・正確性・法令遵守を満たすべきで、AIを使って作成しても最終責任は投稿者にある。貢献者はAI支援 outputを理解・検証・必要に応じて修正して、Debianへ取り込むべき。]]></content:encoded>
-    </item>
-    <item>
-      <title>Debianが『生成系AIの責任ある利用』を認めることに投票した Debian votes to allow &quot;resp…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muagjdfb6z2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muagjdfb6z2t</guid>
-      <pubDate>Sat, 29 Aug 2026 17:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Debianが『生成系AIの責任ある利用』を認めることに投票した<br>Debian votes to allow "responsible use of generative AI"<br><br>🔺 380<br>💬 33<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Debianが『生成系AIの責任ある利用』を認めることに投票した<br>Debian votes to allow "responsible use of generative AI"<br><br>🔺 380<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 私が懇親会でぼっちになったらやること - 腹は減る  🔖 154 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muafmlciqy2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muafmlciqy2k</guid>
-      <pubDate>Sat, 29 Aug 2026 17:28:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 私が懇親会でぼっちになったらやること - 腹は減る<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 私が懇親会でぼっちになったらやること - 腹は減る<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>multiple agent ecosystems. It emphasizes cutting unnecessary…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnquowh2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnquowh2w</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multiple agent ecosystems. It emphasizes cutting unnecessary work while preserving safety, with benchmarks showing significant reductions in code, cost, and time. (2/2)]]></description>
-      <content:encoded><![CDATA[multiple agent ecosystems. It emphasizes cutting unnecessary work while preserving safety, with benchmarks showing significant reductions in code, cost, and time. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Ponytail is a plugin/rule-based system that he…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnqtbzv2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnqtbzv2q</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Ponytail is a plugin/rule-based system that helps AI agents produce minimal, safe code by guiding tasks through a six-step ladder (reuse, stdlib, native features, etc.), and offers a suite of commands (/ponytail and variants) to optimize, audit, and track coding tasks across (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Ponytail is a plugin/rule-based system that helps AI agents produce minimal, safe code by guiding tasks through a six-step ladder (reuse, stdlib, native features, etc.), and offers a suite of commands (/ponytail and variants) to optimize, audit, and track coding tasks across (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 DietrichGebert / pon…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnny7yn24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muabnny7yn24</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 DietrichGebert / ponytail<br>⭐ 116,051 (+1,171)<br>🗒 JavaScript<br><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 DietrichGebert / ponytail<br>⭐ 116,051 (+1,171)<br>🗒 JavaScript<br><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  freestylefly/awesome-gpt-image-2 AI画像生成用の産業向け…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7vi4upx23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7vi4upx23</guid>
-      <pubDate>Sat, 29 Aug 2026 15:45:54 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>AI画像生成用の産業向けプロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例と20件以上の産業用テンプレートを提供し、効率的なプロンプト作成を支援することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>freestylefly/awesome-gpt-image-2<br>AI画像生成用の産業向けプロンプトエンジンおよびテンプレートライブラリです。<br>500件以上のリバースエンジニアリング事例と20件以上の産業用テンプレートを提供し、効率的なプロンプト作成を支援することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cursor/plugins Cursorの公式プラグインを提供するためのリポジトリです。…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7uqrtgs2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7uqrtgs2h</guid>
-      <pubDate>Sat, 29 Aug 2026 15:45:30 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>Cursorの公式プラグインを提供するためのリポジトリです。<br>開発ツールやフレームワーク、SaaS製品向けのプラグインをまとめ、学習支援、チームワークフローの効率化、コードレビュー、プラグイン作成などの機能を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>Cursorの公式プラグインを提供するためのリポジトリです。<br>開発ツールやフレームワーク、SaaS製品向けのプラグインをまとめ、学習支援、チームワークフローの効率化、コードレビュー、プラグイン作成などの機能を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Appleの Virtualization.framework を用い、PCC 研究用 VM…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mua7svu6u62i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mua7svu6u62i</guid>
-      <pubDate>Sat, 29 Aug 2026 15:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Appleの Virtualization.framework を用い、PCC 研究用 VM インフラ上で仮想iPhoneを起動する手順。前提条件としてMacOSやSIP/AMFIの調整、依存ツールのインストール、vphone-cliのビルド・設定を経て、1コマンドでVMを作成・起動するワンショット手順と、複数のVM管理コマンド、ファームウェアのパッチ手順、CFWインストール、初期起動までを網羅している。さらに、SIP/AMFI緩和の方法とトラブルシューティング、設定場所、更新手順、FAQを提供。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Appleの Virtualization.framework を用い、PCC 研究用 VM インフラ上で仮想iPhoneを起動する手順。前提条件としてMacOSやSIP/AMFIの調整、依存ツールのインストール、vphone-cliのビルド・設定を経て、1コマンドでVMを作成・起動するワンショット手順と、複数のVM管理コマンド、ファームウェアのパッチ手順、CFWインストール、初期起動までを網羅している。さらに、SIP/AMFI緩和の方法とトラブルシューティング、設定場所、更新手順、FAQを提供。]]></content:encoded>
-    </item>
-    <item>
-      <title>AppleのVirtualization.frameworkを使って仮想iPhoneを起動する。 Boot a Virt…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mua7sndjaz2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mua7sndjaz2d</guid>
-      <pubDate>Sat, 29 Aug 2026 15:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AppleのVirtualization.frameworkを使って仮想iPhoneを起動する。<br>Boot a Virtual iPhone via Apple's Virtualization.framework<br><br>🔺 341<br>💬 17<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AppleのVirtualization.frameworkを使って仮想iPhoneを起動する。<br>Boot a Virtual iPhone via Apple's Virtualization.framework<br><br>🔺 341<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  JetBrains/go-modern-guidelines コードエージェントが最新のG…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7rdsgeh2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7rdsgeh2e</guid>
-      <pubDate>Sat, 29 Aug 2026 15:43:35 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>JetBrains/go-modern-guidelines<br>コードエージェントが最新のGo（1.0から1.27）の記述方式を用いてコードを生成するためのガイドラインを提供します。<br>学習データの遅れや頻度バイアスによる古い書き方を防ぎ、最初からモダンなコードを記述させることで、後からの修正コストを削減することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>JetBrains/go-modern-guidelines<br>コードエージェントが最新のGo（1.0から1.27）の記述方式を用いてコードを生成するためのガイドラインを提供します。<br>学習データの遅れや頻度バイアスによる古い書き方を防ぎ、最初からモダンなコードを記述させることで、後からの修正コストを削減することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  bilawalsidhu/gods-eye-view 公開データを活用して世界をリアルタイ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7gdaehj2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7gdaehj2v</guid>
-      <pubDate>Sat, 29 Aug 2026 15:37:26 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>bilawalsidhu/gods-eye-view<br>公開データを活用して世界をリアルタイムに可視化するブラウザベースのシミュレーターです。<br>航空機、船舶、衛星、地震、交通、公開カメラなどの情報をフォトリアルな3D地球儀上に統合して表示し、AIによる音声操作も可能です。<br>断片的な公開情報を一つの視覚的なインターフェースに集約し、誰でも容易に世界の状況を把握できるようにすることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>bilawalsidhu/gods-eye-view<br>公開データを活用して世界をリアルタイムに可視化するブラウザベースのシミュレーターです。<br>航空機、船舶、衛星、地震、交通、公開カメラなどの情報をフォトリアルな3D地球儀上に統合して表示し、AIによる音声操作も可能です。<br>断片的な公開情報を一つの視覚的なインターフェースに集約し、誰でも容易に世界の状況を把握できるようにすることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  tt-a1i/archify </title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7fclerj2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mua7fclerj2s</guid>
-      <pubDate>Sat, 29 Aug 2026 15:36:51 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>tt-a1i/archify<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>tt-a1i/archify<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>It takes the URL to a page like this (not an article written…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mua6pqamxc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mua6pqamxc23</guid>
-      <pubDate>Sat, 29 Aug 2026 15:24:48 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It takes the URL to a page like this (not an article written with AI):  tools.simonwillison.net/llm-cliche-h...]]></description>
-      <content:encoded><![CDATA[It takes the URL to a page like this (not an article written with AI):  tools.simonwillison.net/llm-cliche-h...]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 marin-community / marin…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua6c4vxo22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mua6c4vxo22z</guid>
-      <pubDate>Sat, 29 Aug 2026 15:17:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 marin-community / marin<br>⭐ 2,968 (+163)<br>🗒 Python<br><br>Open-source framework for the research and development of foundation models.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 marin-community / marin<br>⭐ 2,968 (+163)<br>🗒 Python<br><br>Open-source framework for the research and development of foundation models.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルファミリ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua55sjvkj2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua55sjvkj2m</guid>
-      <pubDate>Sat, 29 Aug 2026 14:56:52 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクにおける性能が向上しており、画像や動画を理解する視覚言語モデルとして設計されています。<br>柔軟な思考制御による複雑な多段階タスクの完遂や、高精度な量子化、ツール呼び出しの改善などが特徴です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクにおける性能が向上しており、画像や動画を理解する視覚言語モデルとして設計されています。<br>柔軟な思考制御による複雑な多段階タスクの完遂や、高精度な量子化、ツール呼び出しの改善などが特徴です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-Flash-Next-GGUF Qwen4の基盤…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua553qkbu25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua553qkbu25</guid>
-      <pubDate>Sat, 29 Aug 2026 14:56:28 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextを公開するためのリポジトリです。<br>大規模言語モデルの効率的なスケーリングとアーキテクチャの革新を目的としており、オープンウェイトモデルを提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextを公開するためのリポジトリです。<br>大規模言語モデルの効率的なスケーリングとアーキテクチャの革新を目的としており、オープンウェイトモデルを提供しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B このリポジトリは、Qwen3.8-27Bのモデ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua54l5c6j2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mua54l5c6j2j</guid>
-      <pubDate>Sat, 29 Aug 2026 14:56:11 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>このリポジトリは、Qwen3.8-27Bのモデル重みと設定ファイルを提供することを目的としています。<br>本モデルは画像や動画を理解できる視覚言語モデルであり、コーディング、研究、複雑な多段階タスクなどを高い信頼性で遂行できるよう設計されています。<br>Hugging Face TransformersやvLLMなどの主要な推論フレームワークに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>このリポジトリは、Qwen3.8-27Bのモデル重みと設定ファイルを提供することを目的としています。<br>本モデルは画像や動画を理解できる視覚言語モデルであり、コーディング、研究、複雑な多段階タスクなどを高い信頼性で遂行できるよう設計されています。<br>Hugging Face TransformersやvLLMなどの主要な推論フレームワークに対応しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
