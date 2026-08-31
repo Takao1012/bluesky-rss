@@ -5,8 +5,108 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:53:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Forgot Pokemon Worlds was in SF this year lol. Sad I missed …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudtrtfoj62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mudtrtfoj62k</guid>
+      <pubDate>Mon, 31 Aug 2026 02:00:03 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Forgot Pokemon Worlds was in SF this year lol. Sad I missed it. Will try to get out for the drone show tonight!]]></description>
+      <content:encoded><![CDATA[Forgot Pokemon Worlds was in SF this year lol. Sad I missed it. Will try to get out for the drone show tonight!]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Omarchyのデフォルト設定で、ユーザーのセッション内のほぼ全てのプロセスがルート権限を取…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudrsp7z4t2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudrsp7z4t2g</guid>
+      <pubDate>Mon, 31 Aug 2026 01:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Omarchyのデフォルト設定で、ユーザーのセッション内のほぼ全てのプロセスがルート権限を取得できる脆弱性があり、Dockerグループの樤により一般ユーザーが root 権限で操作可能だった。影響は4.0.1以前のバージョンに及び、4.0.1へ更新が推奨される。問題は責任開示を経て公表され、解決済みのパッチが適用されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Omarchyのデフォルト設定で、ユーザーのセッション内のほぼ全てのプロセスがルート権限を取得できる脆弱性があり、Dockerグループの樤により一般ユーザーが root 権限で操作可能だった。影響は4.0.1以前のバージョンに及び、4.0.1へ更新が推奨される。問題は責任開示を経て公表され、解決済みのパッチが適用されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Omarchy: どのユーザープロセスも root権限へ昇格できる Omarchy: Any User Process …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudrsjfdhs2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudrsjfdhs2s</guid>
+      <pubDate>Mon, 31 Aug 2026 01:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Omarchy: どのユーザープロセスも root権限へ昇格できる<br>Omarchy: Any User Process Can Escalate to Root<br><br>🔺 414<br>💬 67<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Omarchy: どのユーザープロセスも root権限へ昇格できる<br>Omarchy: Any User Process Can Escalate to Root<br><br>🔺 414<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic increased Claude Code rate limits by -17%! Wait th…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muds4phwq524</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muds4phwq524</guid>
+      <pubDate>Mon, 31 Aug 2026 01:26:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Anthropic increased Claude Code rate limits by -17%! Wait that's not right... <br><br>Video: https://twitter.com/theo/status/2094235470553309236
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigocoukgntpl77qbholakahxhxzvuff2bsfuvkwsplxjq76pd5rse" alt="Quote Tweet: https://twitter.com/i/status/2093742321473065266" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Anthropic increased Claude Code rate limits by -17%! Wait that's not right... <br><br>Video: https://twitter.com/theo/status/2094235470553309236
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigocoukgntpl77qbholakahxhxzvuff2bsfuvkwsplxjq76pd5rse" alt="Quote Tweet: https://twitter.com/i/status/2093742321473065266" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigocoukgntpl77qbholakahxhxzvuff2bsfuvkwsplxjq76pd5rse" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Claude Code, Codex CLI, OpenCode), provides delta comparison…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwtqqid2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwtqqid2t</guid>
+      <pubDate>Mon, 31 Aug 2026 00:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Claude Code, Codex CLI, OpenCode), provides delta comparisons, live previews, and shareable outputs, all in one self-contained artifact. (2/2)]]></description>
+      <content:encoded><![CDATA[Claude Code, Codex CLI, OpenCode), provides delta comparisons, live previews, and shareable outputs, all in one self-contained artifact. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Archify is a Node.js tool that turns codebase …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwtpiiq2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwtpiiq2z</guid>
+      <pubDate>Mon, 31 Aug 2026 00:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Archify is a Node.js tool that turns codebase or system descriptions into polished, interactive architecture diagrams (HTML/SVG/PNG/Share cards), with typed JSON IR, multiple diagram types, versioned snapshots, and ground-truth validation. It supports multiple agents (Cursor, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Archify is a Node.js tool that turns codebase or system descriptions into polished, interactive architecture diagrams (HTML/SVG/PNG/Share cards), with typed JSON IR, multiple diagram types, versioned snapshots, and ground-truth validation. It supports multiple agents (Cursor, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 tt-a1i / archify ⭐ 3…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwr3voy2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mudmwr3voy2z</guid>
+      <pubDate>Mon, 31 Aug 2026 00:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 tt-a1i / archify<br>⭐ 33,272 (+3,730)<br>🗒 JavaScript<br><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 tt-a1i / archify<br>⭐ 33,272 (+3,730)<br>🗒 JavaScript<br><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.]]></content:encoded>
+    </item>
+    <item>
+      <title>Here&apos;s my attempt at explaining what ChatGPT Work can actual…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mudmaynuz22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mudmaynuz22c</guid>
+      <pubDate>Mon, 31 Aug 2026 00:05:05 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Here's my attempt at explaining what ChatGPT Work can actually do - it's a deeply confusing but extremely powerful tool with a whole lot of useful features that aren't available in regular ChatGPT simonwillison.net/2026/Aug/30/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihvaz7n7dogtjamakj4xy4vcsoqpyc2v4h4dve74zplc3ydft2fee" alt="The better question then is what features does Work have that are missing from Chat?
+
+After extensive experimentation I think I’ve mostly figured that out:
+
+    Options to use Luna and Terra in place of Sol
+    A code execution environment with Internet access
+    A headless Chrome browser
+    A persistent filesystem shared between sessions
+    The ability to publish ChatGPT Sites
+    The ability to run sub-agent sessions with Sol, Luna, and Terra
+    Scheduled prompt automations
+" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Here's my attempt at explaining what ChatGPT Work can actually do - it's a deeply confusing but extremely powerful tool with a whole lot of useful features that aren't available in regular ChatGPT simonwillison.net/2026/Aug/30/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihvaz7n7dogtjamakj4xy4vcsoqpyc2v4h4dve74zplc3ydft2fee" alt="The better question then is what features does Work have that are missing from Chat?
+
+After extensive experimentation I think I’ve mostly figured that out:
+
+    Options to use Luna and Terra in place of Sol
+    A code execution environment with Internet access
+    A headless Chrome browser
+    A persistent filesystem shared between sessions
+    The ability to publish ChatGPT Sites
+    The ability to run sub-agent sessions with Sol, Luna, and Terra
+    Scheduled prompt automations
+" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihvaz7n7dogtjamakj4xy4vcsoqpyc2v4h4dve74zplc3ydft2fee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   - git.kernel.org は学習データ用の大量の公開データを提供するため、クローラー…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mudl432m7r23</link>
@@ -390,78 +490,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[deployments and an active roadmap including performance improvements, security hardening, and sponsorship options. It provides multiple installation paths, advanced usage examples, and a detailed release history. (2/2)]]></description>
       <content:encoded><![CDATA[deployments and an active roadmap including performance improvements, security hardening, and sponsorship options. It provides multiple installation paths, advanced usage examples, and a detailed release history. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Crawl4AI is an open-source web crawler and scr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mucepidofq2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mucepidofq2z</guid>
-      <pubDate>Sun, 30 Aug 2026 12:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Crawl4AI is an open-source web crawler and scraper that outputs clean, LLM-ready Markdown for RAG pipelines, offering extensive features (browser control, dynamic JS rendering, bookmarking, caching, SSL/proxy support, and LLM-based extraction) with Docker or Python-based (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Crawl4AI is an open-source web crawler and scraper that outputs clean, LLM-ready Markdown for RAG pipelines, offering extensive features (browser control, dynamic JS rendering, bookmarking, caching, SSL/proxy support, and LLM-based extraction) with Docker or Python-based (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 unclecode / crawl4a…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mucepen73f2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mucepen73f2m</guid>
-      <pubDate>Sun, 30 Aug 2026 12:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 unclecode / crawl4ai<br>⭐ 80,008 (+229)<br>🗒 Python<br><br>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 unclecode / crawl4ai<br>⭐ 80,008 (+229)<br>🗒 Python<br><br>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN]]></content:encoded>
-    </item>
-    <item>
-      <title>Windows/macOS/iOS/Androidのみが引き続き2027年から年齢情報の取得を求められる見通しとなる。 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuzhpva2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuzhpva2c</guid>
-      <pubDate>Sun, 30 Aug 2026 11:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Windows/macOS/iOS/Androidのみが引き続き2027年から年齢情報の取得を求められる見通しとなる。 (2/2)]]></description>
-      <content:encoded><![CDATA[Windows/macOS/iOS/Androidのみが引き続き2027年から年齢情報の取得を求められる見通しとなる。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   カリフォルニア州議会は、オープンソースのOSを対象外とするAB 1856を可決し、1月1日2…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuzebee2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuzebee2p</guid>
-      <pubDate>Sun, 30 Aug 2026 11:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>カリフォルニア州議会は、オープンソースのOSを対象外とするAB 1856を可決し、1月1日2027日に施行予定のデジタル時代保証法に対する不確実性を解消した。改正は「OS提供者」の定義をGPL/MIT/BSD/Apacheライセンスのソフトを含む配布を除外するように変更し、追加の例外としてパッケージマネージャー経由のライブラリや、ホストアプリ内のみで動作する拡張機能も対象外とする。これにより、LinuxディストリビュションやSteamOS、GrapheneOSなどの一部は同法の年齢データ要求の対象外となり、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>カリフォルニア州議会は、オープンソースのOSを対象外とするAB 1856を可決し、1月1日2027日に施行予定のデジタル時代保証法に対する不確実性を解消した。改正は「OS提供者」の定義をGPL/MIT/BSD/Apacheライセンスのソフトを含む配布を除外するように変更し、追加の例外としてパッケージマネージャー経由のライブラリや、ホストアプリ内のみで動作する拡張機能も対象外とする。これにより、LinuxディストリビュションやSteamOS、GrapheneOSなどの一部は同法の年齢データ要求の対象外となり、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>カリフォルニア州議会は、年齢認証法の対象からLinuxを除外することを全会一致で可決した。 California law…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuqeobl2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muccuqeobl2d</guid>
-      <pubDate>Sun, 30 Aug 2026 11:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[カリフォルニア州議会は、年齢認証法の対象からLinuxを除外することを全会一致で可決した。<br>California lawmakers unanimously pass Linux exemption from age-verification law<br><br>🔺 343<br>💬 31<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[カリフォルニア州議会は、年齢認証法の対象からLinuxを除外することを全会一致で可決した。<br>California lawmakers unanimously pass Linux exemption from age-verification law<br><br>🔺 343<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 SPFとDKIMとDMARCの役割の違いを整理する  🔖 166 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mucbxlxb7a2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mucbxlxb7a2r</guid>
-      <pubDate>Sun, 30 Aug 2026 11:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 SPFとDKIMとDMARCの役割の違いを整理する<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 SPFとDKIMとDMARCの役割の違いを整理する<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   テキサス州で自動車保険料の1ドル増額を受けて設置されたFlockライセンスプレート読取ネット…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muc46owkaw2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muc46owkaw2u</guid>
-      <pubDate>Sun, 30 Aug 2026 09:44:48 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>テキサス州で自動車保険料の1ドル増額を受けて設置されたFlockライセンスプレート読取ネットワーク拡張の資金の多くが、監視カメラの大規模配備に充てられ、州全体で約3,200台以上のFlockカメラと約2,000台以上のカメラ導入を支援する助成を生んだと報じられた。一方でプライバシー侵害や監視拡大への批判が高まり、州議会の一部は今後の法案でFlockの使用制限や透明性を求める動きを検討している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>テキサス州で自動車保険料の1ドル増額を受けて設置されたFlockライセンスプレート読取ネットワーク拡張の資金の多くが、監視カメラの大規模配備に充てられ、州全体で約3,200台以上のFlockカメラと約2,000台以上のカメラ導入を支援する助成を生んだと報じられた。一方でプライバシー侵害や監視拡大への批判が高まり、州議会の一部は今後の法案でFlockの使用制限や透明性を求める動きを検討している。]]></content:encoded>
-    </item>
-    <item>
-      <title>議員たちは自動車保険料に1ドルを上乗せした。そのお金はFlock社製のカメラの費用を賄うために使われた。 Lawmake…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muc462usbz2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muc462usbz2t</guid>
-      <pubDate>Sun, 30 Aug 2026 09:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[議員たちは自動車保険料に1ドルを上乗せした。そのお金はFlock社製のカメラの費用を賄うために使われた。<br>Lawmakers added $1 to car insurance policies. That money paid for Flock cameras<br><br>🔺 299<br>💬 10<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[議員たちは自動車保険料に1ドルを上乗せした。そのお金はFlock社製のカメラの費用を賄うために使われた。<br>Lawmakers added $1 to car insurance policies. That money paid for Flock cameras<br><br>🔺 299<br>💬 10<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
