@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 16:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:40:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>疲労困憊</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mufqxrvj7k2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mufqxrvj7k2y</guid>
+      <pubDate>Mon, 31 Aug 2026 20:34:44 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[疲労困憊]]></description>
+      <content:encoded><![CDATA[疲労困憊]]></content:encoded>
+    </item>
     <item>
       <title>あと1ページだけど私は寝る…明日の私、がんば…</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mufcqqpwn22e</link>
@@ -480,15 +489,6 @@
       <content:encoded><![CDATA[Xのメディア欄、すごい温度差になっててよかった
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zke2sq3jv3eb5grzyfegidf2/bafkreiejbsuh6x6ioyd4yk5l5oke4aaxv2576vvkigjcezuqutuu5q6y5e" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zke2sq3jv3eb5grzyfegidf2/bafkreiejbsuh6x6ioyd4yk5l5oke4aaxv2576vvkigjcezuqutuu5q6y5e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>おにくがたべたいわあ</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mu7rt6gxh22k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mu7rt6gxh22k</guid>
-      <pubDate>Sat, 29 Aug 2026 11:34:04 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[おにくがたべたいわあ]]></description>
-      <content:encoded><![CDATA[おにくがたべたいわあ]]></content:encoded>
     </item>
   </channel>
 </rss>
