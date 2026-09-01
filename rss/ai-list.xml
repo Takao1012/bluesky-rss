@@ -5,8 +5,134 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:15:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/GLM-5.3-Flash-GGUF GLM-5シリーズ初のネイ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn4zitsj2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn4zitsj2p</guid>
+      <pubDate>Tue, 01 Sep 2026 14:31:24 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/GLM-5.3-Flash-GGUF<br>GLM-5シリーズ初のネイティブマルチモーダルモデルであるGLM-5.3-Flashを提供することを目的としています。<br>効率的なアーキテクチャの採用により、計算コストを抑えつつ高い性能を実現しており、特にコーディングやエージェント的なタスクにおいて高い能力を発揮します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/GLM-5.3-Flash-GGUF<br>GLM-5シリーズ初のネイティブマルチモーダルモデルであるGLM-5.3-Flashを提供することを目的としています。<br>効率的なアーキテクチャの採用により、計算コストを抑えつつ高い性能を実現しており、特にコーディングやエージェント的なタスクにおいて高い能力を発揮します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていません。 …</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn4i5ajb2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn4i5ajb2h</guid>
+      <pubDate>Tue, 01 Sep 2026 14:31:06 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていません。<br>要約したい内容を提示してください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていません。<br>要約したい内容を提示してください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  tencent/Hy4-preview Tencent Hy Teamが開発した…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn3uffqt27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn3uffqt27</guid>
+      <pubDate>Tue, 01 Sep 2026 14:30:45 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy4-preview<br>Tencent Hy Teamが開発した次世代のMixture-of-Experts（MoE）フラッグシップモデルであるHy4 previewの公開を目的としています。<br>総パラメータ数770Bを持ち、Gated DSAやIndexCache、iHCなどの最新アーキテクチャや推測デコーディング用のMTPレイヤーを採用した、効率的なテキスト生成を目指す大規模言語モデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy4-preview<br>Tencent Hy Teamが開発した次世代のMixture-of-Experts（MoE）フラッグシップモデルであるHy4 previewの公開を目的としています。<br>総パラメータ数770Bを持ち、Gated DSAやIndexCache、iHCなどの最新アーキテクチャや推測デコーディング用のMTPレイヤーを採用した、効率的なテキスト生成を目指す大規模言語モデルです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-Vision-Exp…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn34moyr2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn34moyr2b</guid>
+      <pubDate>Tue, 01 Sep 2026 14:30:20 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expは、DeepSeek-V4-Flashに視覚モジュールを統合した実験的なマルチモーダルモデルです。<br>視覚的な理解能力の獲得とマルチモーダルエージェント性能の向上を目的としており、リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる最小限の推論実装が含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expは、DeepSeek-V4-Flashに視覚モジュールを統合した実験的なマルチモーダルモデルです。<br>視覚的な理解能力の獲得とマルチモーダルエージェント性能の向上を目的としており、リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる最小限の推論実装が含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3 GLM-5.3というテキスト生成モデルのリポジト…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn2j55uq2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn2j55uq2s</guid>
+      <pubDate>Tue, 01 Sep 2026 14:30:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3というテキスト生成モデルのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングによって性能を向上させています。<br>特に複雑なコーディングや長期的なタスクにおける処理能力の向上を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3というテキスト生成モデルのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングによって性能を向上させています。<br>特に複雑なコーディングや長期的なタスクにおける処理能力の向上を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Imbad0202 / academic-re…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhme23x4j2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhme23x4j2f</guid>
+      <pubDate>Tue, 01 Sep 2026 14:17:26 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Imbad0202 / academic-research-skills<br>⭐ 44,568 (+161)<br>🗒 Python<br><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Imbad0202 / academic-research-skills<br>⭐ 44,568 (+161)<br>🗒 Python<br><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize]]></content:encoded>
+    </item>
+    <item>
+      <title>1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画] A walkable ASCII …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhkiytzb526</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhkiytzb526</guid>
+      <pubDate>Tue, 01 Sep 2026 13:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画]<br>A walkable ASCII cyberpunk city in one HTML file [video]<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画]<br>A walkable ASCII cyberpunk city in one HTML file [video]<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ハーネスエンジニアリングとは何か——&quot;盛れば効く&quot;のかを確かめる - 電通総研 テックブログ  🔖 159 ブッ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhgbc4agj24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhgbc4agj24</guid>
+      <pubDate>Tue, 01 Sep 2026 12:28:31 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる - 電通総研 テックブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる - 電通総研 テックブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>contributing. (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnaipoa2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnaipoa2g</guid>
+      <pubDate>Tue, 01 Sep 2026 12:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[contributing. (2/2)]]></description>
+      <content:encoded><![CDATA[contributing. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   A concise overview: This repository curates DE…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnahep32i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnahep32i</guid>
+      <pubDate>Tue, 01 Sep 2026 12:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>A concise overview: This repository curates DESIGN.md files—plain-text design system documents extracted from real websites—so AI agents can generate UI that stays visually consistent with each site’s language, with ready-to-use DESIGN.md, preview files, and guidelines for (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>A concise overview: This repository curates DESIGN.md files—plain-text design system documents extracted from real websites—so AI agents can generate UI that stays visually consistent with each site’s language, with ready-to-use DESIGN.md, preview files, and guidelines for (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 VoltAgent / awesome…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfn5kizd2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfn5kizd2i</guid>
+      <pubDate>Tue, 01 Sep 2026 12:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 112,257 (+487)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 112,257 (+487)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdt6t5ub25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdt6t5ub25</guid>
+      <pubDate>Tue, 01 Sep 2026 11:44:50 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷蔵庫・冷凍庫の重大な故障や停止が公式発表され、少なくとも6か所で冷蔵設備の問題が確認された。原因は不明で、ハッキングの可能性は否定されていないものの、現時点では決定的な証拠はなく、機器の導入・老朽化・リモート監視システム（RMCS）に起因する技術的トラブルの可能性が検討されている。国 securityの視点からも、IoT化した産業用制御システムへのアクセスリスクが議論されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷蔵庫・冷凍庫の重大な故障や停止が公式発表され、少なくとも6か所で冷蔵設備の問題が確認された。原因は不明で、ハッキングの可能性は否定されていないものの、現時点では決定的な証拠はなく、機器の導入・老朽化・リモート監視システム（RMCS）に起因する技術的トラブルの可能性が検討されている。国 securityの視点からも、IoT化した産業用制御システムへのアクセスリスクが議論されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>軍の購買店の冷凍庫がハッキングされたと思う。 I think the military commissary&apos;s fre…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdspsqrq2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdspsqrq2c</guid>
+      <pubDate>Tue, 01 Sep 2026 11:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露  🔖 160 ブックマーク �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhcvipyhv2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhcvipyhv2h</guid>
+      <pubDate>Tue, 01 Sep 2026 11:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語  🔖 162 ブックマーク 💬 コメント 🔗 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muh7k7aiqo2h</link>
@@ -15,6 +141,18 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic made an evil model. Of course I have to do a video…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7x4cjfk2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7x4cjfk2e</guid>
+      <pubDate>Tue, 01 Sep 2026 09:46:53 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Anthropic made an evil model. Of course I have to do a video. <br><br>Video: https://twitter.com/theo/status/2094723660204695749
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" alt="Quote Tweet: https://twitter.com/i/status/2094577944056430865" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Anthropic made an evil model. Of course I have to do a video. <br><br>Video: https://twitter.com/theo/status/2094723660204695749
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" alt="Quote Tweet: https://twitter.com/i/status/2094577944056430865" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>💡 Summary:   Fastpotifyは、Linux/macOS/Windows対応の軽量なネイティブSpot…</title>
@@ -333,141 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>Osmantic/ODS<br>ODS（Osmantic Deployment System）は、PC、Mac、LinuxマシンをプライベートなAIサーバーにするためのシステムです。<br>OllamaやOpen WebUI、n8n、ComfyUIなどの必要なツールを一括でインストールし連携させることができます。<br>クラウドやサブスクリプションを介さず、データやプロンプトをローカルに保持したままAIを運用できる環境を提供することを目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Osmantic/ODS<br>ODS（Osmantic Deployment System）は、PC、Mac、LinuxマシンをプライベートなAIサーバーにするためのシステムです。<br>OllamaやOpen WebUI、n8n、ComfyUIなどの必要なツールを一括でインストールし連携させることができます。<br>クラウドやサブスクリプションを介さず、データやプロンプトをローカルに保持したままAIを運用できる環境を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  jingyaogong/minimind LLMの学習ハードルを下げ、内部メカニズムを深く…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi3lu53x2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi3lu53x2r</guid>
-      <pubDate>Mon, 31 Aug 2026 17:55:48 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>jingyaogong/minimind<br>LLMの学習ハードルを下げ、内部メカニズムを深く理解させることを目的としています。<br>高度に抽象化されたライブラリに頼らず、コードレベルで理解しながら極小サイズの言語モデルをゼロから訓練する体験を提供します。<br>低コストかつ短時間で構築可能な構成となっており、単なる推論や微調整ではなく、モデル作成の全行程を自作して学ぶことを重視しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>jingyaogong/minimind<br>LLMの学習ハードルを下げ、内部メカニズムを深く理解させることを目的としています。<br>高度に抽象化されたライブラリに頼らず、コードレベルで理解しながら極小サイズの言語モデルをゼロから訓練する体験を提供します。<br>低コストかつ短時間で構築可能な構成となっており、単なる推論や微調整ではなく、モデル作成の全行程を自作して学ぶことを重視しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  majd/ipatool App Store上のiOS、iPadOS、tvOS、visio…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi2ypzhp2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi2ypzhp2h</guid>
-      <pubDate>Mon, 31 Aug 2026 17:55:28 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>majd/ipatool<br>App Store上のiOS、iPadOS、tvOS、visionOS向けアプリを検索し、ipaファイルをダウンロードすることを目的としたコマンドラインツールです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>majd/ipatool<br>App Store上のiOS、iPadOS、tvOS、visionOS向けアプリを検索し、ipaファイルをダウンロードすることを目的としたコマンドラインツールです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  k1tbyte/Wand-Enhancer WandEnhancerは、Wandアプリケー…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi2kvb7a2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi2kvb7a2e</guid>
-      <pubDate>Mon, 31 Aug 2026 17:55:13 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>k1tbyte/Wand-Enhancer<br>WandEnhancerは、Wandアプリケーションのローカル設定を拡張し、ユーザー体験を向上させるためのオープンソースツールです。<br>主な機能として、環境設定の管理、新バージョンへの互換性調整、レイアウトやテーマのカスタマイズ、AI機能の追加、およびモバイルから操作できるリモートウェブパネルの提供を行います。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>k1tbyte/Wand-Enhancer<br>WandEnhancerは、Wandアプリケーションのローカル設定を拡張し、ユーザー体験を向上させるためのオープンソースツールです。<br>主な機能として、環境設定の管理、新バージョンへの互換性調整、レイアウトやテーマのカスタマイズ、AI機能の追加、およびモバイルから操作できるリモートウェブパネルの提供を行います。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  tt-a1i/archify Archifyは、コードベースやシステムの記述をインタラクテ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi22guqg2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mufi22guqg2z</guid>
-      <pubDate>Mon, 31 Aug 2026 17:54:56 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>tt-a1i/archify<br>Archifyは、コードベースやシステムの記述をインタラクティブなシステムマップに変換するNode.js製のレンダリングおよび検証システムです。<br>CursorやClaude CodeなどのAIエージェントが生成したJSON形式の中間表現をHTMLやSVGにコンパイルし、システム構成の可視化を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>tt-a1i/archify<br>Archifyは、コードベースやシステムの記述をインタラクティブなシステムマップに変換するNode.js製のレンダリングおよび検証システムです。<br>CursorやClaude CodeなどのAIエージェントが生成したJSON形式の中間表現をHTMLやSVGにコンパイルし、システム構成の可視化を実現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Valve関連のデータ流出「Steam2 teraleak」が拡散。2003-2013年頃の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mufhi46tz42x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mufhi46tz42x</guid>
-      <pubDate>Mon, 31 Aug 2026 17:44:54 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Valve関連のデータ流出「Steam2 teraleak」が拡散。2003-2013年頃のSteam2サーバーのほぼ全データが公開・共有されており、Portal 2やHalf-Life 2: Episode 3の未公開素材を含むプレリリース版やプロトタイプ、ベータなどが多数発掘されている。流出はセキュリティ上のリスクや法的問題を引き起こす可能性が指摘され、Valveのセキュリティの脆弱さとPCゲーム開発史の公開リスクが浮き彫りとなっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Valve関連のデータ流出「Steam2 teraleak」が拡散。2003-2013年頃のSteam2サーバーのほぼ全データが公開・共有されており、Portal 2やHalf-Life 2: Episode 3の未公開素材を含むプレリリース版やプロトタイプ、ベータなどが多数発掘されている。流出はセキュリティ上のリスクや法的問題を引き起こす可能性が指摘され、Valveのセキュリティの脆弱さとPCゲーム開発史の公開リスクが浮き彫りとなっている。]]></content:encoded>
-    </item>
-    <item>
-      <title>12TBのSteam『テラレーク』が、10年以上にわたって失われていたPCゲームの歴史を暴露する。 A 12TB Ste…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mufhhoaqrg23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mufhhoaqrg23</guid>
-      <pubDate>Mon, 31 Aug 2026 17:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[12TBのSteam『テラレーク』が、10年以上にわたって失われていたPCゲームの歴史を暴露する。<br>A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history<br><br>🔺 329<br>💬 14<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[12TBのSteam『テラレーク』が、10年以上にわたって失われていたPCゲームの歴史を暴露する。<br>A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history<br><br>🔺 329<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF Qwenオープンモデルファミリ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgdcbgf22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgdcbgf22z</guid>
-      <pubDate>Mon, 31 Aug 2026 17:24:19 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクで高い性能を持ち、画像やビデオを理解するビジョン言語モデルです。<br>Unsloth Dynamic 3.0による高精度な量子化や、ツール呼び出しの改善、柔軟な思考制御機能を備え、複雑な多段階タスクを高い信頼性で完遂させることを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクで高い性能を持ち、画像やビデオを理解するビジョン言語モデルです。<br>Unsloth Dynamic 3.0による高精度な量子化や、ツール呼び出しの改善、柔軟な思考制御機能を備え、複雑な多段階タスクを高い信頼性で完遂させることを目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-Flash-Next-GGUF 次世代モデルQw…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgcj2xsw2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgcj2xsw2j</guid>
-      <pubDate>Mon, 31 Aug 2026 17:23:52 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>次世代モデルQwen4の基盤となる実験的アーキテクチャを採用したモデル、Qwen3.8-Flash-Nextを提供するためのリポジトリです。<br>大規模言語モデルの効率的なスケーリングを実現する構造的な革新を通じて、汎用人工知能（AGI）への持続可能な進展を目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>次世代モデルQwen4の基盤となる実験的アーキテクチャを採用したモデル、Qwen3.8-Flash-Nextを提供するためのリポジトリです。<br>大規模言語モデルの効率的なスケーリングを実現する構造的な革新を通じて、汎用人工知能（AGI）への持続可能な進展を目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgc3yjnm2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgc3yjnm2s</guid>
-      <pubDate>Mon, 31 Aug 2026 17:23:39 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解できる視覚言語モデルであり、コーディングや専門業務、複雑な多段階タスクを高い信頼性で遂行することを目的に設計されています。<br>Hugging Face TransformersやvLLMなどのフレームワークに対応した、デプロイしやすいコンパクトなモデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解できる視覚言語モデルであり、コーディングや専門業務、複雑な多段階タスクを高い信頼性で遂行することを目的に設計されています。<br>Hugging Face TransformersやvLLMなどのフレームワークに対応した、デプロイしやすいコンパクトなモデルです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3-Flash GLM-5.3-Flashは、GLM…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgbi6cbq2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgbi6cbq2a</guid>
-      <pubDate>Mon, 31 Aug 2026 17:23:18 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3-Flash<br>GLM-5.3-Flashは、GLM-5シリーズ初のネイティブマルチモーダルモデルです。<br>ハイブリッドアテンションやmHCなどの新アーキテクチャを採用し、総パラメータ数320Bに対し活性パラメータ数を18Bに抑えることで、低コストかつ効率的な運用を実現しています。<br>コーディングやエージェント能力を高め、少ない計算量で高度な知能を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3-Flash<br>GLM-5.3-Flashは、GLM-5シリーズ初のネイティブマルチモーダルモデルです。<br>ハイブリッドアテンションやmHCなどの新アーキテクチャを採用し、総パラメータ数320Bに対し活性パラメータ数を18Bに抑えることで、低コストかつ効率的な運用を実現しています。<br>コーディングやエージェント能力を高め、少ない計算量で高度な知能を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-Flash-Next Qwen3.8-Flash-Ne…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgavhh6o2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mufgavhh6o2j</guid>
-      <pubDate>Mon, 31 Aug 2026 17:22:58 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-Flash-Next<br>Qwen3.8-Flash-Nextのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>このモデルはQwen4の基盤となるアーキテクチャの実験的なプレビューであり、大規模言語モデルの効率的なスケールアップと設計の刷新を目的としています。<br>Hugging Face TransformersやvLLM、SGLangなどの形式に対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-Flash-Next<br>Qwen3.8-Flash-Nextのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>このモデルはQwen4の基盤となるアーキテクチャの実験的なプレビューであり、大規模言語モデルの効率的なスケールアップと設計の刷新を目的としています。<br>Hugging Face TransformersやvLLM、SGLangなどの形式に対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve been on the Lancaster, California one! It&apos;s worth visit…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mufg6jogck2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mufg6jogck2k</guid>
-      <pubDate>Mon, 31 Aug 2026 17:21:39 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I've been on the Lancaster, California one! It's worth visiting once, wouldn't bother again though]]></description>
-      <content:encoded><![CDATA[I've been on the Lancaster, California one! It's worth visiting once, wouldn't bother again though]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muffwktafk22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muffwktafk22</guid>
-      <pubDate>Mon, 31 Aug 2026 17:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary:]]></description>
-      <content:encoded><![CDATA[📝 Summary:]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 affaan-m / ECC ⭐ 24…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muffwjskux23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muffwjskux23</guid>
-      <pubDate>Mon, 31 Aug 2026 17:17:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 244,942 (+490)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 244,942 (+490)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
-    </item>
-    <item>
-      <title>In local news, the tunnel between Pacifica and Half Moon Bay…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mufeho5l4s2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mufeho5l4s2k</guid>
-      <pubDate>Mon, 31 Aug 2026 16:50:58 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[In local news, the tunnel between Pacifica and Half Moon Bay had some maintenance recently and now it screams]]></description>
-      <content:encoded><![CDATA[In local news, the tunnel between Pacifica and Half Moon Bay had some maintenance recently and now it screams]]></content:encoded>
     </item>
   </channel>
 </rss>
