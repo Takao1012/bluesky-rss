@@ -5,8 +5,74 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:37:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題  🔖 150 ブックマー…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muil57jns42k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muil57jns42k</guid>
+      <pubDate>Tue, 01 Sep 2026 23:28:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>sizes for thread catch-up on client - Improved performance a…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muikodgr3b2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muikodgr3b2r</guid>
+      <pubDate>Tue, 01 Sep 2026 22:59:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[sizes for thread catch-up on client<br>- Improved performance and reduced crashes on Windows<br>- Hardened worktree creation/setup flow and status<br>- Fixes for "stop" with subagents in OpenCode<br>- Better image rendering behaviors<br>- Tons more I'm forgetting]]></description>
+      <content:encoded><![CDATA[sizes for thread catch-up on client<br>- Improved performance and reduced crashes on Windows<br>- Hardened worktree creation/setup flow and status<br>- Fixes for "stop" with subagents in OpenCode<br>- Better image rendering behaviors<br>- Tons more I'm forgetting]]></content:encoded>
+    </item>
+    <item>
+      <title>Some of the changes I&apos;m excited about: - Load model list fro…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muikoafsiz25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muikoafsiz25</guid>
+      <pubDate>Tue, 01 Sep 2026 22:59:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Some of the changes I'm excited about:<br>- Load model list from github (so we don't have to do releases to make new models available)<br>- "settle" thread logic moved server side<br>- Massive reductions in server-side memory usage in long threads<br>- Massive reductions in idle CPU usage<br>- Improved payload]]></description>
+      <content:encoded><![CDATA[Some of the changes I'm excited about:<br>- Load model list from github (so we don't have to do releases to make new models available)<br>- "settle" thread logic moved server side<br>- Massive reductions in server-side memory usage in long threads<br>- Massive reductions in idle CPU usage<br>- Improved payload]]></content:encoded>
+    </item>
+    <item>
+      <title>Just shipped a new T3 Code build with a bunch of small polis…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muiko5esyb2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muiko5esyb2e</guid>
+      <pubDate>Tue, 01 Sep 2026 22:59:29 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Just shipped a new T3 Code build with a bunch of small polish (and Fable 5.1 support!)]]></description>
+      <content:encoded><![CDATA[Just shipped a new T3 Code build with a bunch of small polish (and Fable 5.1 support!)]]></content:encoded>
+    </item>
+    <item>
+      <title>Kind of wild that Anthropic has #1, #2 and #3 right now</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muigik5c6m2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muigik5c6m2j</guid>
+      <pubDate>Tue, 01 Sep 2026 22:01:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Kind of wild that Anthropic has #1, #2 and #3 right now
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig73m53j2yptds54rhp2tq3q75q5kmwa4iv7jo7bmy7nmvhp3wf4a" alt="Quote Tweet: https://twitter.com/i/status/2094881171066978525" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Kind of wild that Anthropic has #1, #2 and #3 right now
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig73m53j2yptds54rhp2tq3q75q5kmwa4iv7jo7bmy7nmvhp3wf4a" alt="Quote Tweet: https://twitter.com/i/status/2094881171066978525" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig73m53j2yptds54rhp2tq3q75q5kmwa4iv7jo7bmy7nmvhp3wf4a" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   小規模なトランスフォーマーを1.5時間でゼロから学習させ、ARC-AGIのARC-1/ARC…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muifdgqepc2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muifdgqepc2e</guid>
+      <pubDate>Tue, 01 Sep 2026 21:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>小規模なトランスフォーマーを1.5時間でゼロから学習させ、ARC-AGIのARC-1/ARC-2評価で従来の手法と同等のスコアを達成。データ多用を抑えつつ、3D RoPEとタスクごとの埋め込み、現代的アーキテクチャの採用で性能とコストを改善、オープンソースで公開している3回目のブログ記事。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>小規模なトランスフォーマーを1.5時間でゼロから学習させ、ARC-AGIのARC-1/ARC-2評価で従来の手法と同等のスコアを達成。データ多用を抑えつつ、3D RoPEとタスクごとの埋め込み、現代的アーキテクチャの採用で性能とコストを改善、オープンソースで公開している3回目のブログ記事。]]></content:encoded>
+    </item>
+    <item>
+      <title>私は1.5時間で小型のトランスフォーマーを訓練し、それは多くの大規模言語モデルを凌駕している。 I trained a …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muifdb3oi72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muifdb3oi72x</guid>
+      <pubDate>Tue, 01 Sep 2026 21:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私は1.5時間で小型のトランスフォーマーを訓練し、それは多くの大規模言語モデルを凌駕している。<br>I trained a small transformer in 1.5hrs and it beats many LLMs<br><br>🔺 503<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私は1.5時間で小型のトランスフォーマーを訓練し、それは多くの大規模言語モデルを凌駕している。<br>I trained a small transformer in 1.5hrs and it beats many LLMs<br><br>🔺 503<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>instances. (2/2)</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muiduoqztj2a</link>
@@ -412,75 +478,6 @@ The ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露  🔖 160 ブックマーク �…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhcvipyhv2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhcvipyhv2h</guid>
-      <pubDate>Tue, 01 Sep 2026 11:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語  🔖 162 ブックマーク 💬 コメント 🔗 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muh7k7aiqo2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muh7k7aiqo2h</guid>
-      <pubDate>Tue, 01 Sep 2026 10:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic made an evil model. Of course I have to do a video…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7x4cjfk2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7x4cjfk2e</guid>
-      <pubDate>Tue, 01 Sep 2026 09:46:53 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Anthropic made an evil model. Of course I have to do a video. <br><br>Video: https://twitter.com/theo/status/2094723660204695749
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" alt="Quote Tweet: https://twitter.com/i/status/2094577944056430865" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Anthropic made an evil model. Of course I have to do a video. <br><br>Video: https://twitter.com/theo/status/2094723660204695749
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" alt="Quote Tweet: https://twitter.com/i/status/2094577944056430865" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifwxjyomb7qmtt7lnx33ubcj3c5f4pgmu3oqfhgndtowzpgaefj6u" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Fastpotifyは、Linux/macOS/Windows対応の軽量なネイティブSpot…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muh545egjh2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muh545egjh2e</guid>
-      <pubDate>Tue, 01 Sep 2026 09:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Fastpotifyは、Linux/macOS/Windows対応の軽量なネイティブSpotifyクライアント。埋め込みブラウザなしで起動が速く低メモリ、ローカル再生・Spotify Connect対応、ライブラリ検索・プレイリスト編集・デスクトップ運用を備える。さらに特定スキンを適用するとWinamp風のミニプレイヤーとしても使える。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Fastpotifyは、Linux/macOS/Windows対応の軽量なネイティブSpotifyクライアント。埋め込みブラウザなしで起動が速く低メモリ、ローカル再生・Spotify Connect対応、ライブラリ検索・プレイリスト編集・デスクトップ運用を備える。さらに特定スキンを適用するとWinamp風のミニプレイヤーとしても使える。]]></content:encoded>
-    </item>
-    <item>
-      <title>ファストスポティファイ Fastpotify  🔺 385 💬 42 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muh53tiae72e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muh53tiae72e</guid>
-      <pubDate>Tue, 01 Sep 2026 09:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ファストスポティファイ<br>Fastpotify<br><br>🔺 385<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ファストスポティファイ<br>Fastpotify<br><br>🔺 385<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Inside…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muh46zdp3a2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muh46zdp3a2o</guid>
-      <pubDate>Tue, 01 Sep 2026 09:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>To show how much I care about performance, I&apos;m using a max s…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7woullg2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muh7woullg2d</guid>
-      <pubDate>Tue, 01 Sep 2026 09:26:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[To show how much I care about performance, I'm using a max spec MacBook Pro M5 because I like performance so much I want it all for myself.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig55intbhkfpb5dhmxh5gi7ojibwfqbgxeuht7txpa4ekj5kbxm5i" alt="Quote Tweet: https://twitter.com/i/status/2094494569857777750" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[To show how much I care about performance, I'm using a max spec MacBook Pro M5 because I like performance so much I want it all for myself.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig55intbhkfpb5dhmxh5gi7ojibwfqbgxeuht7txpa4ekj5kbxm5i" alt="Quote Tweet: https://twitter.com/i/status/2094494569857777750" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig55intbhkfpb5dhmxh5gi7ojibwfqbgxeuht7txpa4ekj5kbxm5i" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
