@@ -5,8 +5,112 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:34:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>(The wheels running backwards appears to be an artifact of t…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muirgbkbi22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muirgbkbi22f</guid>
+      <pubDate>Wed, 02 Sep 2026 01:20:49 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[(The wheels running backwards appears to be an artifact of the conversion to video - the SVG has them going in the correct direction: tools.simonwillison.net/markdown-svg...)]]></description>
+      <content:encoded><![CDATA[(The wheels running backwards appears to be an artifact of the conversion to video - the SVG has them going in the correct direction: tools.simonwillison.net/markdown-svg...)]]></content:encoded>
+    </item>
+    <item>
+      <title>That sounds like my dream</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqvtafzk2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqvtafzk2f</guid>
+      <pubDate>Wed, 02 Sep 2026 01:11:37 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[That sounds like my dream]]></description>
+      <content:encoded><![CDATA[That sounds like my dream]]></content:encoded>
+    </item>
+    <item>
+      <title>I think that&apos;s a framerate issue with the conversion to vide…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqtejlic2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqtejlic2f</guid>
+      <pubDate>Wed, 02 Sep 2026 01:10:15 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I think that's a framerate issue with the conversion to video - they're going in the right direction in the SVG tools.simonwillison.net/markdown-svg...]]></description>
+      <content:encoded><![CDATA[I think that's a framerate issue with the conversion to video - they're going in the right direction in the SVG tools.simonwillison.net/markdown-svg...]]></content:encoded>
+    </item>
+    <item>
+      <title>In another case of it being quicker to build a tool than hun…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiostsf622u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiostsf622u</guid>
+      <pubDate>Wed, 02 Sep 2026 00:34:10 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[In another case of it being quicker to build a tool than hunt around to find something that does what you need, here's a little vibe-coded thing for turning one or more GeoJSON shapes into a rendered PNG simonwillison.net/2026/Sep/1/g...]]></description>
+      <content:encoded><![CDATA[In another case of it being quicker to build a tool than hunt around to find something that does what you need, here's a little vibe-coded thing for turning one or more GeoJSON shapes into a rendered PNG simonwillison.net/2026/Sep/1/g...]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入  🔖 163 ブックマーク �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muioics56f2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muioics56f2q</guid>
+      <pubDate>Wed, 02 Sep 2026 00:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>A few notes on Anthropic&apos;s new Claude Fable 5.1 - with Max t…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g</guid>
+      <pubDate>Wed, 02 Sep 2026 00:02:21 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[A few notes on Anthropic's new Claude Fable 5.1 - with Max thinking level I got the best SVG pelican I've had from any Anthropic model (at a hefty cost of $3.30!), which I then had it animate simonwillison.net/2026/Sep/1/c...]]></description>
+      <content:encoded><![CDATA[A few notes on Anthropic's new Claude Fable 5.1 - with Max thinking level I got the best SVG pelican I've had from any Anthropic model (at a hefty cost of $3.30!), which I then had it animate simonwillison.net/2026/Sep/1/c...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Aurora Storeの匿名アカウントでのアプリインストール時に「&amp;$Server bus…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muim2aun3a24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muim2aun3a24</guid>
+      <pubDate>Tue, 01 Sep 2026 23:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Aurora Storeの匿名アカウントでのアプリインストール時に「&$Server busy, please try again later.」エラーが頻繁に発生する問題が報告されています。VPNやキャッシュのクリア、アカウントのリフレッシュ、端末再起動などを試しても改善せず、アプリの検索→インストールで再現します。環境はFairphone 5、Android 16、Aurora Store Nightly 2026-08-31、OS CalyxOS 7.2.4.20。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Aurora Storeの匿名アカウントでのアプリインストール時に「&$Server busy, please try again later.」エラーが頻繁に発生する問題が報告されています。VPNやキャッシュのクリア、アカウントのリフレッシュ、端末再起動などを試しても改善せず、アプリの検索→インストールで再現します。環境はFairphone 5、Android 16、Aurora Store Nightly 2026-08-31、OS CalyxOS 7.2.4.20。]]></content:encoded>
+    </item>
+    <item>
+      <title>Other than this singular miss, I&apos;ve had no issues. It just d…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimeb4roi2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimeb4roi2k</guid>
+      <pubDate>Tue, 01 Sep 2026 23:44:32 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Other than this singular miss, I've had no issues. It just does what I ask and it does it quite well. It's even catching mistakes in previous Fable 5 code. Very impressed]]></description>
+      <content:encoded><![CDATA[Other than this singular miss, I've had no issues. It just does what I ask and it does it quite well. It's even catching mistakes in previous Fable 5 code. Very impressed]]></content:encoded>
+    </item>
+    <item>
+      <title>These are both from the same thread. It&apos;s the only time so f…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muime5mwp22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muime5mwp22j</guid>
+      <pubDate>Tue, 01 Sep 2026 23:44:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[These are both from the same thread. It's the only time so far I've had Fable 5.1 do something that was just obviously wrong. It made bad assumptions about how the auto settle logic works in T3 Code. Surprised it missed this because it should be clear from the code.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavysl7n2vlnjrjkcbuhsdr4vbxvzemujee7rjqm4uttluvmsebau" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[These are both from the same thread. It's the only time so far I've had Fable 5.1 do something that was just obviously wrong. It made bad assumptions about how the auto settle logic works in T3 Code. Surprised it missed this because it should be clear from the code.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavysl7n2vlnjrjkcbuhsdr4vbxvzemujee7rjqm4uttluvmsebau" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muilzx463v2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muilzx463v2e</guid>
+      <pubDate>Tue, 01 Sep 2026 23:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている。<br>Play Store blocks AuroraStore, hurting GrapheneOS users<br><br>🔺 450<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている。<br>Play Store blocks AuroraStore, hurting GrapheneOS users<br><br>🔺 450<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Not particularly surprising, but Fable 5.1 is also a really …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimduxpm22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimduxpm22j</guid>
+      <pubDate>Tue, 01 Sep 2026 23:41:34 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Not particularly surprising, but Fable 5.1 is also a really good model.]]></description>
+      <content:encoded><![CDATA[Not particularly surprising, but Fable 5.1 is also a really good model.]]></content:encoded>
+    </item>
     <item>
       <title>📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題  🔖 150 ブックマー…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muil57jns42k</link>
@@ -379,105 +483,6 @@ The ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていません。<br>要約したい内容を提示してください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていません。<br>要約したい内容を提示してください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  tencent/Hy4-preview Tencent Hy Teamが開発した…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn3uffqt27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn3uffqt27</guid>
-      <pubDate>Tue, 01 Sep 2026 14:30:45 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy4-preview<br>Tencent Hy Teamが開発した次世代のMixture-of-Experts（MoE）フラッグシップモデルであるHy4 previewの公開を目的としています。<br>総パラメータ数770Bを持ち、Gated DSAやIndexCache、iHCなどの最新アーキテクチャや推測デコーディング用のMTPレイヤーを採用した、効率的なテキスト生成を目指す大規模言語モデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>tencent/Hy4-preview<br>Tencent Hy Teamが開発した次世代のMixture-of-Experts（MoE）フラッグシップモデルであるHy4 previewの公開を目的としています。<br>総パラメータ数770Bを持ち、Gated DSAやIndexCache、iHCなどの最新アーキテクチャや推測デコーディング用のMTPレイヤーを採用した、効率的なテキスト生成を目指す大規模言語モデルです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-Vision-Exp…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn34moyr2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn34moyr2b</guid>
-      <pubDate>Tue, 01 Sep 2026 14:30:20 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expは、DeepSeek-V4-Flashに視覚モジュールを統合した実験的なマルチモーダルモデルです。<br>視覚的な理解能力の獲得とマルチモーダルエージェント性能の向上を目的としており、リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる最小限の推論実装が含まれています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expは、DeepSeek-V4-Flashに視覚モジュールを統合した実験的なマルチモーダルモデルです。<br>視覚的な理解能力の獲得とマルチモーダルエージェント性能の向上を目的としており、リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる最小限の推論実装が含まれています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3 GLM-5.3というテキスト生成モデルのリポジト…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn2j55uq2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muhn2j55uq2s</guid>
-      <pubDate>Tue, 01 Sep 2026 14:30:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3というテキスト生成モデルのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングによって性能を向上させています。<br>特に複雑なコーディングや長期的なタスクにおける処理能力の向上を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3というテキスト生成モデルのリポジトリです。<br>GLM-5.2と同じベースモデルを使用し、ポストトレーニングによって性能を向上させています。<br>特に複雑なコーディングや長期的なタスクにおける処理能力の向上を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Imbad0202 / academic-re…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhme23x4j2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhme23x4j2f</guid>
-      <pubDate>Tue, 01 Sep 2026 14:17:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Imbad0202 / academic-research-skills<br>⭐ 44,568 (+161)<br>🗒 Python<br><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Imbad0202 / academic-research-skills<br>⭐ 44,568 (+161)<br>🗒 Python<br><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize]]></content:encoded>
-    </item>
-    <item>
-      <title>1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画] A walkable ASCII …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhkiytzb526</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhkiytzb526</guid>
-      <pubDate>Tue, 01 Sep 2026 13:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画]<br>A walkable ASCII cyberpunk city in one HTML file [video]<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[1つのHTMLファイルで実装された歩いて回れるASCIIサイバーパンク都市 [動画]<br>A walkable ASCII cyberpunk city in one HTML file [video]<br><br>🔺 355<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ハーネスエンジニアリングとは何か——&quot;盛れば効く&quot;のかを確かめる - 電通総研 テックブログ  🔖 159 ブッ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhgbc4agj24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muhgbc4agj24</guid>
-      <pubDate>Tue, 01 Sep 2026 12:28:31 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる - 電通総研 テックブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる - 電通総研 テックブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>contributing. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnaipoa2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnaipoa2g</guid>
-      <pubDate>Tue, 01 Sep 2026 12:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[contributing. (2/2)]]></description>
-      <content:encoded><![CDATA[contributing. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A concise overview: This repository curates DE…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnahep32i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfnahep32i</guid>
-      <pubDate>Tue, 01 Sep 2026 12:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A concise overview: This repository curates DESIGN.md files—plain-text design system documents extracted from real websites—so AI agents can generate UI that stays visually consistent with each site’s language, with ready-to-use DESIGN.md, preview files, and guidelines for (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A concise overview: This repository curates DESIGN.md files—plain-text design system documents extracted from real websites—so AI agents can generate UI that stays visually consistent with each site’s language, with ready-to-use DESIGN.md, preview files, and guidelines for (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 VoltAgent / awesome…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfn5kizd2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muhfn5kizd2i</guid>
-      <pubDate>Tue, 01 Sep 2026 12:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 112,257 (+487)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 VoltAgent / awesome-design-md<br>⭐ 112,257 (+487)<br><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdt6t5ub25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdt6t5ub25</guid>
-      <pubDate>Tue, 01 Sep 2026 11:44:50 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷蔵庫・冷凍庫の重大な故障や停止が公式発表され、少なくとも6か所で冷蔵設備の問題が確認された。原因は不明で、ハッキングの可能性は否定されていないものの、現時点では決定的な証拠はなく、機器の導入・老朽化・リモート監視システム（RMCS）に起因する技術的トラブルの可能性が検討されている。国 securityの視点からも、IoT化した産業用制御システムへのアクセスリスクが議論されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>米軍基地内のディフェンス・コマissaries（DeCA運営の免税食料品店）で、複数基地で冷蔵庫・冷凍庫の重大な故障や停止が公式発表され、少なくとも6か所で冷蔵設備の問題が確認された。原因は不明で、ハッキングの可能性は否定されていないものの、現時点では決定的な証拠はなく、機器の導入・老朽化・リモート監視システム（RMCS）に起因する技術的トラブルの可能性が検討されている。国 securityの視点からも、IoT化した産業用制御システムへのアクセスリスクが議論されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>軍の購買店の冷凍庫がハッキングされたと思う。 I think the military commissary&apos;s fre…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdspsqrq2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muhdspsqrq2c</guid>
-      <pubDate>Tue, 01 Sep 2026 11:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[軍の購買店の冷凍庫がハッキングされたと思う。<br>I think the military commissary's freezers were hacked<br><br>🔺 363<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>

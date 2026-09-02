@@ -5,8 +5,20 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:34:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>月見食べなきゃ</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3muio4dnrgk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3muio4dnrgk2c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:21:35 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[月見食べなきゃ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreidchyh4g4w7mh2n56gjtxspp2qf2mxoanoqfgz36az5cd5oxnxkaq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[月見食べなきゃ
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreidchyh4g4w7mh2n56gjtxspp2qf2mxoanoqfgz36az5cd5oxnxkaq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreidchyh4g4w7mh2n56gjtxspp2qf2mxoanoqfgz36az5cd5oxnxkaq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>県内住みで車持ってたらワンチャンあったかもしれん</title>
       <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mui7ot25uc2c</link>
@@ -480,15 +492,6 @@
       <author>鈴木二三江 (@suzufuming.bsky.social)</author>
       <description><![CDATA[ファンデーションを壁と服に飛び散らせ泣いていた　壁とれない…頼むで]]></description>
       <content:encoded><![CDATA[ファンデーションを壁と服に飛び散らせ泣いていた　壁とれない…頼むで]]></content:encoded>
-    </item>
-    <item>
-      <title>去年から黒髪チャレンジしてるんだけど、それ以来似合うメイクのカラーが変わってしまって秋冬っぽい濃いめのカラー合わせるとな…</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3muge6kvnhk2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3muge6kvnhk2y</guid>
-      <pubDate>Tue, 01 Sep 2026 02:18:32 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[去年から黒髪チャレンジしてるんだけど、それ以来似合うメイクのカラーが変わってしまって秋冬っぽい濃いめのカラー合わせるとなんか顔が怖くなるから避けるようになっちゃって。去年の夏から1年くらいずっと透明感でる軽めのカラー中心に買い足してて。それはそれでいいんだけど、そろそろ似合う新たな秋色を探したい〜]]></description>
-      <content:encoded><![CDATA[去年から黒髪チャレンジしてるんだけど、それ以来似合うメイクのカラーが変わってしまって秋冬っぽい濃いめのカラー合わせるとなんか顔が怖くなるから避けるようになっちゃって。去年の夏から1年くらいずっと透明感でる軽めのカラー中心に買い足してて。それはそれでいいんだけど、そろそろ似合う新たな秋色を探したい〜]]></content:encoded>
     </item>
   </channel>
 </rss>
