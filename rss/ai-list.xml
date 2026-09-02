@@ -5,8 +5,257 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:24:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📦 superlinked / sie ⭐ 2,958 (+61) 🗒 Python  Open-source in…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muka632stn2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muka632stn2f</guid>
+      <pubDate>Wed, 02 Sep 2026 15:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 superlinked / sie<br>⭐ 2,958 (+61)<br>🗒 Python<br><br>Open-source inference server and production cluster for all the models your agent needs.]]></description>
+      <content:encoded><![CDATA[📦 superlinked / sie<br>⭐ 2,958 (+61)<br>🗒 Python<br><br>Open-source inference server and production cluster for all the models your agent needs.]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  ChromeDevTools/chrome-devtools-mcp AIコーディングエー…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk76uzpix2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk76uzpix2d</guid>
+      <pubDate>Wed, 02 Sep 2026 14:59:53 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>ChromeDevTools/chrome-devtools-mcp<br>AIコーディングエージェントがChromeブラウザを操作および検査するためのMCPサーバです。<br>Chrome DevToolsの機能を介して、信頼性の高い自動化、詳細なデバッグ、パフォーマンス分析を実現します。<br>Puppeteerによるブラウザ操作やコンソールメッセージの確認が可能です。<br>MCPを使わずに利用できるCLIも提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ChromeDevTools/chrome-devtools-mcp<br>AIコーディングエージェントがChromeブラウザを操作および検査するためのMCPサーバです。<br>Chrome DevToolsの機能を介して、信頼性の高い自動化、詳細なデバッグ、パフォーマンス分析を実現します。<br>Puppeteerによるブラウザ操作やコンソールメッセージの確認が可能です。<br>MCPを使わずに利用できるCLIも提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  sngyai/Sequoia-X Sequoia-Xは、中国A株市場向けの量化選股システム…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk76fxcxy2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk76fxcxy2a</guid>
+      <pubDate>Wed, 02 Sep 2026 14:59:37 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>sngyai/Sequoia-X<br>Sequoia-Xは、中国A株市場向けの量化選股システムです。<br>Pythonで構築され、baostockから取得した株価データをSQLiteで管理します。<br>海亀突破やRPS突破などの複数の戦略を用いて自動的に銘柄を選定し、結果を飛書へ通知します。<br>日次の増分データ更新と履歴データのバックフィル機能を備え、効率的な銘柄抽出を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>sngyai/Sequoia-X<br>Sequoia-Xは、中国A株市場向けの量化選股システムです。<br>Pythonで構築され、baostockから取得した株価データをSQLiteで管理します。<br>海亀突破やRPS突破などの複数の戦略を用いて自動的に銘柄を選定し、結果を飛書へ通知します。<br>日次の増分データ更新と履歴データのバックフィル機能を備え、効率的な銘柄抽出を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  DietrichGebert/ponytail AIエージェントに組み込み、生成されるコー…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk75ref242s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk75ref242s</guid>
+      <pubDate>Wed, 02 Sep 2026 14:59:16 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>DietrichGebert/ponytail<br>AIエージェントに組み込み、生成されるコード量を大幅に削減することを目的としたツールです。<br>冗長な実装を避け、簡潔で効率的なコードを生成させることで、開発コストの削減と処理速度の向上を実現しつつ、安全性を維持します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>DietrichGebert/ponytail<br>AIエージェントに組み込み、生成されるコード量を大幅に削減することを目的としたツールです。<br>冗長な実装を避け、簡潔で効率的なコードを生成させることで、開発コストの削減と処理速度の向上を実現しつつ、安全性を維持します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  google-research/timesfm Google Researchが開発した、…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk75cyk6n2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk75cyk6n2i</guid>
+      <pubDate>Wed, 02 Sep 2026 14:59:01 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>google-research/timesfm<br>Google Researchが開発した、時系列予測のための事前学習済み基盤モデルTimesFMを提供することを目的としています。<br>最新のバージョン3.0では、単変量および多変量時系列予測に対応し、共変量のサポートや高いゼロショット汎用性能を備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>google-research/timesfm<br>Google Researchが開発した、時系列予測のための事前学習済み基盤モデルTimesFMを提供することを目的としています。<br>最新のバージョン3.0では、単変量および多変量時系列予測に対応し、共変量のサポートや高いゼロショット汎用性能を備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  fmtlib/fmt CのstdioやC++のiostreamsに代わる、高速で安全なオー…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk74vqczk25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3muk74vqczk25</guid>
+      <pubDate>Wed, 02 Sep 2026 14:58:47 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>fmtlib/fmt<br>CのstdioやC++のiostreamsに代わる、高速で安全なオープンソースのフォーマットライブラリです。<br>C++20のstd::formatやC++23のstd::printのベースとなっており、Pythonのformatのような簡潔な書式指定を可能にします。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>fmtlib/fmt<br>CのstdioやC++のiostreamsに代わる、高速で安全なオープンソースのフォーマットライブラリです。<br>C++20のstd::formatやC++23のstd::printのベースとなっており、Pythonのformatのような簡潔な書式指定を可能にします。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>At a guess they trained the model before the copyright lawsu…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk6x5vsis2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk6x5vsis2f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:55:34 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[At a guess they trained the model before the copyright lawsuit dropped, and the system prompt thing is a clumsy temporary patch]]></description>
+      <content:encoded><![CDATA[At a guess they trained the model before the copyright lawsuit dropped, and the system prompt thing is a clumsy temporary patch]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 Claude Fable 5.1 is now generally available in VS Code wi…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3muk5zc4tqs2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3muk5zc4tqs2o</guid>
+      <pubDate>Wed, 02 Sep 2026 14:38:52 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 Claude Fable 5.1 is now generally available in VS Code with GitHub Copilot.<br><br>Anthropic’s latest Mythos model shows strong performance on long-running coding tasks, deep codebase research, and complex agentic workflows.<br><br>Give it a try today!<br><br>github.blog/changelog/20...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreidocq2xw2ti2xcwhzxq7tvysg5i523vyepah74473udvyd5hcn5hq" alt="Screenshot of the GitHub Copilot chat window in VS Code with dark mode enabled. The text prompt reads "Chat with Copilot" and the selected model is set to "Claude Fable 5.1" (High 1M) with "Agent" mode active. A small, blue pixel-art bug mascot sits on top of the chat box." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[🤖 Claude Fable 5.1 is now generally available in VS Code with GitHub Copilot.<br><br>Anthropic’s latest Mythos model shows strong performance on long-running coding tasks, deep codebase research, and complex agentic workflows.<br><br>Give it a try today!<br><br>github.blog/changelog/20...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreidocq2xw2ti2xcwhzxq7tvysg5i523vyepah74473udvyd5hcn5hq" alt="Screenshot of the GitHub Copilot chat window in VS Code with dark mode enabled. The text prompt reads "Chat with Copilot" and the selected model is set to "Claude Fable 5.1" (High 1M) with "Agent" mode active. A small, blue pixel-art bug mascot sits on top of the chat box." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreidocq2xw2ti2xcwhzxq7tvysg5i523vyepah74473udvyd5hcn5hq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Here&apos;s some extra context on that lyrics thing www.theguardi…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk5g53kt22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk5g53kt22f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:28:09 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Here's some extra context on that lyrics thing www.theguardian.com/business/202...]]></description>
+      <content:encoded><![CDATA[Here's some extra context on that lyrics thing www.theguardian.com/business/202...]]></content:encoded>
+    </item>
+    <item>
+      <title>And sure enough... claude.ai/share/3e5a19...</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk5cs2q3s2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk5cs2q3s2f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:26:17 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[And sure enough... claude.ai/share/3e5a19...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiblfcga26gr6s2dlf2q2mxtqqcmj3r5ywcj4zh6ej53wd6yvdgkcu" alt="My prompt: Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.
+
+Claude response:
+
+That’s Sonic, so I can’t put him on the banner — but I’d love to make your son an original speedster. Here’s one: a grinning comet-tailed skateboarding axolotl blazing across the letters of “HAPPY BIRTHDAY” with confetti streaming behind. SVG of exactly that. It's not very good. Then: Want me to swap in his name or age, or change the colors to match the party theme?" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[And sure enough... claude.ai/share/3e5a19...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiblfcga26gr6s2dlf2q2mxtqqcmj3r5ywcj4zh6ej53wd6yvdgkcu" alt="My prompt: Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.
+
+Claude response:
+
+That’s Sonic, so I can’t put him on the banner — but I’d love to make your son an original speedster. Here’s one: a grinning comet-tailed skateboarding axolotl blazing across the letters of “HAPPY BIRTHDAY” with confetti streaming behind. SVG of exactly that. It's not very good. Then: Want me to swap in his name or age, or change the colors to match the party theme?" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiblfcga26gr6s2dlf2q2mxtqqcmj3r5ywcj4zh6ej53wd6yvdgkcu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I&apos;m delighted to report that the Claude system prompt now in…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk57bcm522f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk57bcm522f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:24:19 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I'm delighted to report that the Claude system prompt now includes suggestions to draw a skateboarding axolotl, should the user ask for a picture of Sonic the hedgehog<br><br>(it's not a pelican riding a bicycle, but axolotls are cool, too)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicmjhnmzrpayfizuzbjqqsu4rl2jryowha3ykegxbs2nztsqi42hy" alt="<example>
+<user>Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.</user>
+<response>
+That's Sonic, so I can't put him on the banner — but I'd love to make your son an original speedster. Here's one: a grinning comet-tailed skateboarding axolotl, grinding across the letters of "HAPPY BIRTHDAY" with confetti streaming behind.
+
+[creates an SVG banner of the skateboarding-axolotl design]
+</response>
+<rationale>Claude recognizes the character from its description alone, declines that one design in a single sentence without explaining what made it recognizable, and delivers an unrelated original design rather than a disguised variant.</rationale>
+</example>" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I'm delighted to report that the Claude system prompt now includes suggestions to draw a skateboarding axolotl, should the user ask for a picture of Sonic the hedgehog<br><br>(it's not a pelican riding a bicycle, but axolotls are cool, too)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicmjhnmzrpayfizuzbjqqsu4rl2jryowha3ykegxbs2nztsqi42hy" alt="<example>
+<user>Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.</user>
+<response>
+That's Sonic, so I can't put him on the banner — but I'd love to make your son an original speedster. Here's one: a grinning comet-tailed skateboarding axolotl, grinding across the letters of "HAPPY BIRTHDAY" with confetti streaming behind.
+
+[creates an SVG banner of the skateboarding-axolotl design]
+</response>
+<rationale>Claude recognizes the character from its description alone, declines that one design in a single sentence without explaining what made it recognizable, and delivers an unrelated original design rather than a disguised variant.</rationale>
+</example>" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicmjhnmzrpayfizuzbjqqsu4rl2jryowha3ykegxbs2nztsqi42hy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>As part of exploring this I used Fable 5.1 to build a new sy…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk4xxmu2c2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk4xxmu2c2f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:20:14 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[As part of exploring this I used Fable 5.1 to build a new system for tracking and summarizing Claude system prompt changes - it even has an Atom feed! github.com/simonw/claud...]]></description>
+      <content:encoded><![CDATA[As part of exploring this I used Fable 5.1 to build a new system for tracking and summarizing Claude system prompt changes - it even has an Atom feed! github.com/simonw/claud...]]></content:encoded>
+    </item>
+    <item>
+      <title>I wrote some notes on what&apos;s new in the (published) Fable 5.…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk4vfcq2k2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muk4vfcq2k2f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:18:47 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I wrote some notes on what's new in the (published) Fable 5.1 system prompt in comparison to Fable 5 - it's mostly about not reproducing song lyrics and avoiding drawing copyrighted characters simonwillison.net/2026/Sep/2/c...]]></description>
+      <content:encoded><![CDATA[I wrote some notes on what's new in the (published) Fable 5.1 system prompt in comparison to Fable 5 - it's mostly about not reproducing song lyrics and avoiding drawing copyrighted characters simonwillison.net/2026/Sep/2/c...]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ChromeDevTools / chrome…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muk4suqmbr2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muk4suqmbr2a</guid>
+      <pubDate>Wed, 02 Sep 2026 14:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ChromeDevTools / chrome-devtools-mcp<br>⭐ 50,507 (+140)<br>🗒 TypeScript<br><br>Chrome DevTools for coding agents]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ChromeDevTools / chrome-devtools-mcp<br>⭐ 50,507 (+140)<br>🗒 TypeScript<br><br>Chrome DevTools for coding agents]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-27B-GGUF 本リポジトリは、Qwenオープ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk474hncj2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk474hncj2m</guid>
+      <pubDate>Wed, 02 Sep 2026 14:06:20 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>本リポジトリは、Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクにおいて高い性能を持ち、画像や動画を理解する視覚言語モデルです。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善により、複雑な多段階タスクを効率的かつ信頼性高く実行できるよう設計されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-27B-GGUF<br>本リポジトリは、Qwenオープンモデルファミリーの最新世代であるQwen3.8-27Bの提供を目的としています。<br>コーディング、専門業務、研究、エージェントタスクにおいて高い性能を持ち、画像や動画を理解する視覚言語モデルです。<br>Unsloth Dynamic 3.0による高精度な量子化やツール呼び出しの改善により、複雑な多段階タスクを効率的かつ信頼性高く実行できるよう設計されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  unsloth/Qwen3.8-Flash-Next-GGUF Qwen4の基盤…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk46jg6bb2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk46jg6bb2p</guid>
+      <pubDate>Wed, 02 Sep 2026 14:06:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextを提供することを目的としています。<br>LLMの効率的なスケーリングに向けたアーキテクチャの革新を通じて、持続可能なAGIの実現を目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>unsloth/Qwen3.8-Flash-Next-GGUF<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextを提供することを目的としています。<br>LLMの効率的なスケーリングに向けたアーキテクチャの革新を通じて、持続可能なAGIの実現を目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk45zwe6l2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk45zwe6l2f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:05:44 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>このモデルは画像や動画を理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクなどの複雑な多段階タスクを高い信頼性で遂行することを目的として設計されています。<br>Hugging Face TransformersやvLLMなどのライブラリと互換性があり、デプロイしやすいコンパクトな構成となっています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>このモデルは画像や動画を理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクなどの複雑な多段階タスクを高い信頼性で遂行することを目的として設計されています。<br>Hugging Face TransformersやvLLMなどのライブラリと互換性があり、デプロイしやすいコンパクトな構成となっています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-Flash-Next Qwen4の基盤となる新アーキテ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk45fl47q25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk45fl47q25</guid>
+      <pubDate>Wed, 02 Sep 2026 14:05:22 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-Flash-Next<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextのモデル重みと設定ファイルを提供するためのリポジトリです。<br>効率的なスケーリングを可能にする革新的な設計を公開し、AGIへの持続可能な進歩を目指しています。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-Flash-Next<br>Qwen4の基盤となる新アーキテクチャの実験的プレビューであるQwen3.8-Flash-Nextのモデル重みと設定ファイルを提供するためのリポジトリです。<br>効率的なスケーリングを可能にする革新的な設計を公開し、AGIへの持続可能な進歩を目指しています。<br>Hugging Face TransformersやvLLMなどで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3-Flash GLM-5シリーズ初のネイティブマル…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk425jp7j2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muk425jp7j2e</guid>
+      <pubDate>Wed, 02 Sep 2026 14:03:33 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3-Flash<br>GLM-5シリーズ初のネイティブマルチモーダルモデルであるGLM-5.3-Flashを提供するためのリポジトリです。<br>ハイブリッドアーキテクチャの採用により、計算コストを削減しながら高い知能と効率性を実現しており、特にコーディングやエージェント関連のタスクにおいて高い性能を発揮します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3-Flash<br>GLM-5シリーズ初のネイティブマルチモーダルモデルであるGLM-5.3-Flashを提供するためのリポジトリです。<br>ハイブリッドアーキテクチャの採用により、計算コストを削減しながら高い知能と効率性を実現しており、特にコーディングやエージェント関連のタスクにおいて高い性能を発揮します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Movie Scene Mapは、166カ国にわたる15,565箇所の実撮影場所を地図上で閲…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muk2ya43my27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muk2ya43my27</guid>
+      <pubDate>Wed, 02 Sep 2026 13:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Movie Scene Mapは、166カ国にわたる15,565箇所の実撮影場所を地図上で閲覧できる無料のインタラクティブ地図です。各場所には映画・ドラマの撮影情報や写真、作品ページが紐づき、ゲーム・アニメ・漫画の設定地も別ページで扱われています。データはWikidataとWikipediaに基づきCC0で公開され、誰でも追加・ダウンロード・利用できます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Movie Scene Mapは、166カ国にわたる15,565箇所の実撮影場所を地図上で閲覧できる無料のインタラクティブ地図です。各場所には映画・ドラマの撮影情報や写真、作品ページが紐づき、ゲーム・アニメ・漫画の設定地も別ページで扱われています。データはWikidataとWikipediaに基づきCC0で公開され、誰でも追加・ダウンロード・利用できます。]]></content:encoded>
+    </item>
+    <item>
+      <title>映画シーンマップ — 13,312作品の映画・シリーズ・ゲーム・アニメ・マンガ Movie Scene Map – 13…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muk2xzan4t2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muk2xzan4t2r</guid>
+      <pubDate>Wed, 02 Sep 2026 13:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[映画シーンマップ — 13,312作品の映画・シリーズ・ゲーム・アニメ・マンガ<br>Movie Scene Map – 13,312 films, series, games, anime and manga<br><br>🔺 306<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[映画シーンマップ — 13,312作品の映画・シリーズ・ゲーム・アニメ・マンガ<br>Movie Scene Map – 13,312 films, series, games, anime and manga<br><br>🔺 306<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>explorable agent reasoning, project-wide memory, and offline…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw4ayznz2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw4ayznz2a</guid>
+      <pubDate>Wed, 02 Sep 2026 12:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[explorable agent reasoning, project-wide memory, and offline-first operation. (2/2)]]></description>
+      <content:encoded><![CDATA[explorable agent reasoning, project-wide memory, and offline-first operation. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Atlas is a local, multi-agent code workspace t…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw4axnjl2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw4axnjl2d</guid>
+      <pubDate>Wed, 02 Sep 2026 12:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Atlas is a local, multi-agent code workspace that tracks every agent run as a linked checkpoint, enabling shared memory, cross-agent runs (Claude Code, Codex, Atlas’s native agent), and on-device context all stored locally with optional cloud sync. It emphasizes reproducible, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Atlas is a local, multi-agent code workspace that tracks every agent run as a linked checkpoint, enabling shared memory, cross-agent runs (Claude Code, Codex, Atlas’s native agent), and on-device context all stored locally with optional cloud sync. It emphasizes reproducible, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 pacifio / atlas ⭐ 2,…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw44sixk2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mujw44sixk2i</guid>
+      <pubDate>Wed, 02 Sep 2026 12:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 pacifio / atlas<br>⭐ 2,640 (+895)<br>🗒 Rust<br><br>Source control for agents. Use multiple coding agents, track their changes and query them in one place]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 pacifio / atlas<br>⭐ 2,640 (+895)<br>🗒 Rust<br><br>Source control for agents. Use multiple coding agents, track their changes and query them in one place]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   新しい研究は、ArielyとWertenbroch (2002) のStudy 2の再現に失…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mujubkmzmi2z</link>
@@ -262,239 +511,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[I still need to record my Fable 5.1 video. The problem is, in order to do that, I have to stop prompting Fable 5.1 for long enough to go upstairs and start recording]]></description>
       <content:encoded><![CDATA[I still need to record my Fable 5.1 video. The problem is, in order to do that, I have to stop prompting Fable 5.1 for long enough to go upstairs and start recording]]></content:encoded>
-    </item>
-    <item>
-      <title>Videos are cool but patches are cooler. Matt landed two PRs …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muj4bznk4i2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muj4bznk4i2r</guid>
-      <pubDate>Wed, 02 Sep 2026 04:29:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Videos are cool but patches are cooler. Matt landed two PRs in T3 Code already and has more cooking 👀
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibomsg6f7iys75lzngpataqdw6i2iqzvrag34p3wxbkgdycadjpsu" alt="Quote Tweet: https://twitter.com/i/status/2094867303934398918" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Videos are cool but patches are cooler. Matt landed two PRs in T3 Code already and has more cooking 👀
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibomsg6f7iys75lzngpataqdw6i2iqzvrag34p3wxbkgdycadjpsu" alt="Quote Tweet: https://twitter.com/i/status/2094867303934398918" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibomsg6f7iys75lzngpataqdw6i2iqzvrag34p3wxbkgdycadjpsu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muj3vhmrbc2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muj3vhmrbc2q</guid>
-      <pubDate>Wed, 02 Sep 2026 04:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I told you guys I was making a Plex clone, why so surprised?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muj4bg5ifa2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muj4bg5ifa2r</guid>
-      <pubDate>Wed, 02 Sep 2026 04:23:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I told you guys I was making a Plex clone, why so surprised?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaesusv2nsfolmioxsstx6u5i6gyojhagvnnt5aownrebgcjj7siq" alt="Quote Tweet: https://twitter.com/i/status/2094994857844486256" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I told you guys I was making a Plex clone, why so surprised?
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaesusv2nsfolmioxsstx6u5i6gyojhagvnnt5aownrebgcjj7siq" alt="Quote Tweet: https://twitter.com/i/status/2094994857844486256" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaesusv2nsfolmioxsstx6u5i6gyojhagvnnt5aownrebgcjj7siq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Ed ZitronのAI予測を実際のデータと比較して検証した分析。彼の多くの予測は時期を超え…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muizh7lgnz2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muizh7lgnz2x</guid>
-      <pubDate>Wed, 02 Sep 2026 03:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Ed ZitronのAI予測を実際のデータと比較して検証した分析。彼の多くの予測は時期を超えて外れ、根拠となる数値推論も誤用・不適切な連結が多いと指摘されている。一方で他のAI批評家と比べても、彼の論証は根拠薄く、感情的な語調が説得力を高めるだけと批判されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Ed ZitronのAI予測を実際のデータと比較して検証した分析。彼の多くの予測は時期を超えて外れ、根拠となる数値推論も誤用・不適切な連結が多いと指摘されている。一方で他のAI批評家と比べても、彼の論証は根拠薄く、感情的な語調が説得力を高めるだけと批判されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>エド・ジトロンのAI懐疑派としての予測はどれくらい正確だったのですか？ How accurate have Ed Zit…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muizgycqkq23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muizgycqkq23</guid>
-      <pubDate>Wed, 02 Sep 2026 03:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[エド・ジトロンのAI懐疑派としての予測はどれくらい正確だったのですか？<br>How accurate have Ed Zitron's AI skeptic predictions been?<br><br>🔺 494<br>💬 114<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[エド・ジトロンのAI懐疑派としての予測はどれくらい正確だったのですか？<br>How accurate have Ed Zitron's AI skeptic predictions been?<br><br>🔺 494<br>💬 114<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 社内限定サービスの認証を Google Workspace でサクッと作る  🔖 153 ブックマーク 💬 コ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muiyk4e3je2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muiyk4e3je2r</guid>
-      <pubDate>Wed, 02 Sep 2026 03:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 社内限定サービスの認証を Google Workspace でサクッと作る<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 社内限定サービスの認証を Google Workspace でサクッと作る<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 3.7 Flash did one with a whole lot more flair simonwi…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muitt5g3q22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muitt5g3q22r</guid>
-      <pubDate>Wed, 02 Sep 2026 02:03:49 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Gemini 3.7 Flash did one with a whole lot more flair simonwillison.net/2026/Aug/13/...]]></description>
-      <content:encoded><![CDATA[Gemini 3.7 Flash did one with a whole lot more flair simonwillison.net/2026/Aug/13/...]]></content:encoded>
-    </item>
-    <item>
-      <title>It definitely didn&apos;t, I ran this using my LLM CLI tool which…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muitqropus2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muitqropus2r</guid>
-      <pubDate>Wed, 02 Sep 2026 02:02:29 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It definitely didn't, I ran this using my LLM CLI tool which doesn't provide any mechanism for the models to render the SVG and look at the result]]></description>
-      <content:encoded><![CDATA[It definitely didn't, I ran this using my LLM CLI tool which doesn't provide any mechanism for the models to render the SVG and look at the result]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Firefoxの存在意義と競争力を守るべきだという主張の記事。FirefoxがXに投稿してい…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muisqlqybq2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muisqlqybq2x</guid>
-      <pubDate>Wed, 02 Sep 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Firefoxの存在意義と競争力を守るべきだという主張の記事。FirefoxがXに投稿している理由を含め、Chrome一極に偏る現状ではブラウザエンジンの多様性と競争が欠けるため、読者にもFirefoxを支援してほしいと訴えている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Firefoxの存在意義と競争力を守るべきだという主張の記事。FirefoxがXに投稿している理由を含め、Chrome一極に偏る現状ではブラウザエンジンの多様性と競争が欠けるため、読者にもFirefoxを支援してほしいと訴えている。]]></content:encoded>
-    </item>
-    <item>
-      <title>Firefoxをしっかり握れ Hang on to Your Firefox  🔺 496 💬 51 🔗 HN P…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muisqgbh3q2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muisqgbh3q2x</guid>
-      <pubDate>Wed, 02 Sep 2026 01:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Firefoxをしっかり握れ<br>Hang on to Your Firefox<br><br>🔺 496<br>💬 51<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Firefoxをしっかり握れ<br>Hang on to Your Firefox<br><br>🔺 496<br>💬 51<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>(The wheels running backwards appears to be an artifact of t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muirgbkbi22f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muirgbkbi22f</guid>
-      <pubDate>Wed, 02 Sep 2026 01:20:49 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[(The wheels running backwards appears to be an artifact of the conversion to video - the SVG has them going in the correct direction: tools.simonwillison.net/markdown-svg...)]]></description>
-      <content:encoded><![CDATA[(The wheels running backwards appears to be an artifact of the conversion to video - the SVG has them going in the correct direction: tools.simonwillison.net/markdown-svg...)]]></content:encoded>
-    </item>
-    <item>
-      <title>One more flub lol, everyone gets &quot;used %&quot; bars wrong, even m…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muixabljvp22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muixabljvp22</guid>
-      <pubDate>Wed, 02 Sep 2026 01:11:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[One more flub lol, everyone gets "used %" bars wrong, even models 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreighyaytigxtr2teo7ohefduuk3h3uvadnlnvbwon4ilyiibnpv4x4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[One more flub lol, everyone gets "used %" bars wrong, even models 🙃
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreighyaytigxtr2teo7ohefduuk3h3uvadnlnvbwon4ilyiibnpv4x4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreighyaytigxtr2teo7ohefduuk3h3uvadnlnvbwon4ilyiibnpv4x4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>That sounds like my dream</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqvtafzk2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqvtafzk2f</guid>
-      <pubDate>Wed, 02 Sep 2026 01:11:37 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[That sounds like my dream]]></description>
-      <content:encoded><![CDATA[That sounds like my dream]]></content:encoded>
-    </item>
-    <item>
-      <title>I think that&apos;s a framerate issue with the conversion to vide…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqtejlic2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiqtejlic2f</guid>
-      <pubDate>Wed, 02 Sep 2026 01:10:15 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I think that's a framerate issue with the conversion to video - they're going in the right direction in the SVG tools.simonwillison.net/markdown-svg...]]></description>
-      <content:encoded><![CDATA[I think that's a framerate issue with the conversion to video - they're going in the right direction in the SVG tools.simonwillison.net/markdown-svg...]]></content:encoded>
-    </item>
-    <item>
-      <title>In another case of it being quicker to build a tool than hun…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiostsf622u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiostsf622u</guid>
-      <pubDate>Wed, 02 Sep 2026 00:34:10 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[In another case of it being quicker to build a tool than hunt around to find something that does what you need, here's a little vibe-coded thing for turning one or more GeoJSON shapes into a rendered PNG simonwillison.net/2026/Sep/1/g...]]></description>
-      <content:encoded><![CDATA[In another case of it being quicker to build a tool than hunt around to find something that does what you need, here's a little vibe-coded thing for turning one or more GeoJSON shapes into a rendered PNG simonwillison.net/2026/Sep/1/g...]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入  🔖 163 ブックマーク �…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muioics56f2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muioics56f2q</guid>
-      <pubDate>Wed, 02 Sep 2026 00:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Google提唱の「SKILL.state」について。プロンプトに型の概念を導入<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Further insights. Looks like, at current limits, a single 5-…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muixa3kke52k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muixa3kke52k</guid>
-      <pubDate>Wed, 02 Sep 2026 00:23:47 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Further insights. Looks like, at current limits, a single 5-hour limit works out to ~21% of weekly limit, and ~38% of the Fable limit
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib55g4bwgqdyhn4s3gsovyos5z7zns3cyi4bfpdrjojo5ikbb75ky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Further insights. Looks like, at current limits, a single 5-hour limit works out to ~21% of weekly limit, and ~38% of the Fable limit
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib55g4bwgqdyhn4s3gsovyos5z7zns3cyi4bfpdrjojo5ikbb75ky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib55g4bwgqdyhn4s3gsovyos5z7zns3cyi4bfpdrjojo5ikbb75ky" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>A few notes on Anthropic&apos;s new Claude Fable 5.1 - with Max t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g</guid>
-      <pubDate>Wed, 02 Sep 2026 00:02:21 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[A few notes on Anthropic's new Claude Fable 5.1 - with Max thinking level I got the best SVG pelican I've had from any Anthropic model (at a hefty cost of $3.30!), which I then had it animate simonwillison.net/2026/Sep/1/c...]]></description>
-      <content:encoded><![CDATA[A few notes on Anthropic's new Claude Fable 5.1 - with Max thinking level I got the best SVG pelican I've had from any Anthropic model (at a hefty cost of $3.30!), which I then had it animate simonwillison.net/2026/Sep/1/c...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Aurora Storeの匿名アカウントでのアプリインストール時に「&amp;$Server bus…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muim2aun3a24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muim2aun3a24</guid>
-      <pubDate>Tue, 01 Sep 2026 23:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Aurora Storeの匿名アカウントでのアプリインストール時に「&$Server busy, please try again later.」エラーが頻繁に発生する問題が報告されています。VPNやキャッシュのクリア、アカウントのリフレッシュ、端末再起動などを試しても改善せず、アプリの検索→インストールで再現します。環境はFairphone 5、Android 16、Aurora Store Nightly 2026-08-31、OS CalyxOS 7.2.4.20。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Aurora Storeの匿名アカウントでのアプリインストール時に「&$Server busy, please try again later.」エラーが頻繁に発生する問題が報告されています。VPNやキャッシュのクリア、アカウントのリフレッシュ、端末再起動などを試しても改善せず、アプリの検索→インストールで再現します。環境はFairphone 5、Android 16、Aurora Store Nightly 2026-08-31、OS CalyxOS 7.2.4.20。]]></content:encoded>
-    </item>
-    <item>
-      <title>Other than this singular miss, I&apos;ve had no issues. It just d…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimeb4roi2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimeb4roi2k</guid>
-      <pubDate>Tue, 01 Sep 2026 23:44:32 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Other than this singular miss, I've had no issues. It just does what I ask and it does it quite well. It's even catching mistakes in previous Fable 5 code. Very impressed]]></description>
-      <content:encoded><![CDATA[Other than this singular miss, I've had no issues. It just does what I ask and it does it quite well. It's even catching mistakes in previous Fable 5 code. Very impressed]]></content:encoded>
-    </item>
-    <item>
-      <title>These are both from the same thread. It&apos;s the only time so f…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muime5mwp22j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muime5mwp22j</guid>
-      <pubDate>Tue, 01 Sep 2026 23:44:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[These are both from the same thread. It's the only time so far I've had Fable 5.1 do something that was just obviously wrong. It made bad assumptions about how the auto settle logic works in T3 Code. Surprised it missed this because it should be clear from the code.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavysl7n2vlnjrjkcbuhsdr4vbxvzemujee7rjqm4uttluvmsebau" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[These are both from the same thread. It's the only time so far I've had Fable 5.1 do something that was just obviously wrong. It made bad assumptions about how the auto settle logic works in T3 Code. Surprised it missed this because it should be clear from the code.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavysl7n2vlnjrjkcbuhsdr4vbxvzemujee7rjqm4uttluvmsebau" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaq4mqm5ldqunjzrjwjdiyuhq2stgvy4y5d7ubpmnef7wth7ao6ae" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muilzx463v2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muilzx463v2e</guid>
-      <pubDate>Tue, 01 Sep 2026 23:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている。<br>Play Store blocks AuroraStore, hurting GrapheneOS users<br><br>🔺 450<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Play Store は AuroraStore をブロックしており、GrapheneOS のユーザーに打撃を与えている。<br>Play Store blocks AuroraStore, hurting GrapheneOS users<br><br>🔺 450<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Not particularly surprising, but Fable 5.1 is also a really …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimduxpm22j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muimduxpm22j</guid>
-      <pubDate>Tue, 01 Sep 2026 23:41:34 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Not particularly surprising, but Fable 5.1 is also a really good model.]]></description>
-      <content:encoded><![CDATA[Not particularly surprising, but Fable 5.1 is also a really good model.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題  🔖 150 ブックマー…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muil57jns42k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muil57jns42k</guid>
-      <pubDate>Tue, 01 Sep 2026 23:28:23 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
