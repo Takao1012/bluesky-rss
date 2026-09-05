@@ -5,8 +5,98 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:38:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ  🔖 175 ブックマ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3murlhvzvu72z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3murlhvzvu72z</guid>
+      <pubDate>Sat, 05 Sep 2026 13:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF GSQ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksup4ca2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksup4ca2g</guid>
+      <pubDate>Sat, 05 Sep 2026 13:16:33 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化されたQwen3.8-27BのGGUF形式モデルを提供するためのリポジトリです。<br>マルチモーダル利用向けのビジョンプロジェクターを備え、画像とテキストからテキストを生成するタスクに対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化されたQwen3.8-27BのGGUF形式モデルを提供するためのリポジトリです。<br>マルチモーダル利用向けのビジョンプロジェクターを備え、画像とテキストからテキストを生成するタスクに対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksce4z52c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksce4z52c</guid>
+      <pubDate>Sat, 05 Sep 2026 13:16:14 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成できません。<br>内容を記載して再度ご依頼ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成できません。<br>内容を記載して再度ご依頼ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  google/timesfm-3.0-pytorch Google Resear…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrv5te62n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrv5te62n</guid>
+      <pubDate>Sat, 05 Sep 2026 13:16:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測のための事前学習済み基盤モデルであるTimesFM 3.0の、PyTorch用重みと設定ファイルを公開することを目的としたリポジトリです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測のための事前学習済み基盤モデルであるTimesFM 3.0の、PyTorch用重みと設定ファイルを公開することを目的としたリポジトリです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3 GLM-5.3は、GLM-5.2と同じベースモデ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrmhsv32f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrmhsv32f</guid>
+      <pubDate>Sat, 05 Sep 2026 13:15:51 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3は、GLM-5.2と同じベースモデルを用い、ポストトレーニングにより性能を向上させたテキスト生成モデルです。<br>複雑なコーディングや長期的なタスクの処理能力を向上させることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3は、GLM-5.2と同じベースモデルを用い、ポストトレーニングにより性能を向上させたテキスト生成モデルです。<br>複雑なコーディングや長期的なタスクの処理能力を向上させることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-Vision-Exp…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkr6kwlv2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkr6kwlv2q</guid>
+      <pubDate>Sat, 05 Sep 2026 13:15:37 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを組み込み、マルチモーダルエージェント能力を強化したモデルです。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを組み込み、マルチモーダルエージェント能力を強化したモデルです。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ  🔖 174 ブックマーク 💬 コメン…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muri4fhv4i2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muri4fhv4i2z</guid>
+      <pubDate>Sat, 05 Sep 2026 12:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 nvm-sh / nvm ⭐ 94,845 (+17) 🗒 Shell  Node Version Manage…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3murhouhvcq2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3murhouhvcq2l</guid>
+      <pubDate>Sat, 05 Sep 2026 12:20:36 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 nvm-sh / nvm<br>⭐ 94,845 (+17)<br>🗒 Shell<br><br>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump]]></description>
+      <content:encoded><![CDATA[📦 nvm-sh / nvm<br>⭐ 94,845 (+17)<br>🗒 Shell<br><br>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   IFMはK2 Horizonとして、計6モデル（0.9B〜375B-A23B）をオープンリリ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3murfp2qqr42z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3murfp2qqr42z</guid>
+      <pubDate>Sat, 05 Sep 2026 11:44:57 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>IFMはK2 Horizonとして、計6モデル（0.9B〜375B-A23B）をオープンリリース。全モデルで最先端性能を達成する一方、前学習〜推論・エージェント訓練まで開発ライフサイクルを公開し、チェックポイント・データ・コード・ログ・評価結果・最終重みをApache 2.0で提供する初の完全オープンモデル群となる。MoVAという新しい混合専門家アテンションやUno Diffusionなどの技術、詳細なトレーニングデータ構成・ダイナミクス、エージェント訓練の後処理も公開され、研究者と開発者が再現・適用しやすい構成になっている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>IFMはK2 Horizonとして、計6モデル（0.9B〜375B-A23B）をオープンリリース。全モデルで最先端性能を達成する一方、前学習〜推論・エージェント訓練まで開発ライフサイクルを公開し、チェックポイント・データ・コード・ログ・評価結果・最終重みをApache 2.0で提供する初の完全オープンモデル群となる。MoVAという新しい混合専門家アテンションやUno Diffusionなどの技術、詳細なトレーニングデータ構成・ダイナミクス、エージェント訓練の後処理も公開され、研究者と開発者が再現・適用しやすい構成になっている。]]></content:encoded>
+    </item>
+    <item>
+      <title>K2 Horizon: 6つのオープンモデルで構成された連携フリート K2 Horizon: A connected f…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3murfopwqkg2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3murfopwqkg2n</guid>
+      <pubDate>Sat, 05 Sep 2026 11:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[K2 Horizon: 6つのオープンモデルで構成された連携フリート<br>K2 Horizon: A connected fleet of six open models<br><br>🔺 332<br>💬 27<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[K2 Horizon: 6つのオープンモデルで構成された連携フリート<br>K2 Horizon: A connected fleet of six open models<br><br>🔺 332<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも  🔖 15…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3murbfyq2kp27</link>
@@ -416,96 +506,6 @@ HIGH: 18.37, 10.38, 3.74, 2.46.
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[5. Let it merge<br>Once you get used to the model and it's ability to verify work, try trusting it a bit more. Obviously don't let it yolo ship to production, but if you have a good flow for pr -> main -> staging -> prod, maybe roll the dice a bit?]]></description>
       <content:encoded><![CDATA[5. Let it merge<br>Once you get used to the model and it's ability to verify work, try trusting it a bit more. Obviously don't let it yolo ship to production, but if you have a good flow for pr -> main -> staging -> prod, maybe roll the dice a bit?]]></content:encoded>
-    </item>
-    <item>
-      <title>4. Audit open PRs/issues I&apos;ve had Astra close at least 200 P…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstysxqm2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstysxqm2o</guid>
-      <pubDate>Fri, 04 Sep 2026 20:07:02 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[4. Audit open PRs/issues<br>I've had Astra close at least 200 PRs and issues at this point. It also does a great job of finding easy win PRs to merge. Super helpful for projects with lots of contributors (both OSS and internal repos)]]></description>
-      <content:encoded><![CDATA[4. Audit open PRs/issues<br>I've had Astra close at least 200 PRs and issues at this point. It also does a great job of finding easy win PRs to merge. Super helpful for projects with lots of contributors (both OSS and internal repos)]]></content:encoded>
-    </item>
-    <item>
-      <title>3. Improve agent dx and verification loops This model is sur…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstvs5y22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstvs5y22r</guid>
-      <pubDate>Fri, 04 Sep 2026 20:07:01 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[3. Improve agent dx and verification loops<br>This model is surprisingly aware of what it can do. Ask it what it needs to verify it's own work. Let it suggest improvements to setup and worktree flows, debug access, end to end QA flows, etc.]]></description>
-      <content:encoded><![CDATA[3. Improve agent dx and verification loops<br>This model is surprisingly aware of what it can do. Ask it what it needs to verify it's own work. Let it suggest improvements to setup and worktree flows, debug access, end to end QA flows, etc.]]></content:encoded>
-    </item>
-    <item>
-      <title>2. Hunt for performance wins Astra has found a ton of perfor…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstsrezx2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstsrezx2s</guid>
-      <pubDate>Fri, 04 Sep 2026 20:07:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[2. Hunt for performance wins<br>Astra has found a ton of performance wins in my apps. It can make hard cuts and verify the results. Make sure you give it the tools it needs to verify it's changes. On that note...]]></description>
-      <content:encoded><![CDATA[2. Hunt for performance wins<br>Astra has found a ton of performance wins in my apps. It can make hard cuts and verify the results. Make sure you give it the tools it needs to verify it's changes. On that note...]]></content:encoded>
-    </item>
-    <item>
-      <title>1. Slop audits I have asked Astra to go through all my codeb…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstpqlqu2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstpqlqu2o</guid>
-      <pubDate>Fri, 04 Sep 2026 20:06:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[1. Slop audits<br>I have asked Astra to go through all my codebases hunting for slop. Useless tests, unnecessary function wrappers, stuff like that. Surprisingly effective. It's cleaned up a ton of code for me.]]></description>
-      <content:encoded><![CDATA[1. Slop audits<br>I have asked Astra to go through all my codebases hunting for slop. Useless tests, unnecessary function wrappers, stuff like that. Surprisingly effective. It's cleaned up a ton of code for me.]]></content:encoded>
-    </item>
-    <item>
-      <title>Astra is rolling out now! It&apos;s unbelievably powerful, but yo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstmpryj2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mupstmpryj2q</guid>
-      <pubDate>Fri, 04 Sep 2026 20:06:58 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Astra is rolling out now! It's unbelievably powerful, but you have to push it a bit to really see the difference.<br><br>I wanted to give some examples of what I mean here. Here are some fun things to try in your codebases when you get access:]]></description>
-      <content:encoded><![CDATA[Astra is rolling out now! It's unbelievably powerful, but you have to push it a bit to really see the difference.<br><br>I wanted to give some examples of what I mean here. Here are some fun things to try in your codebases when you get access:]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   北米のスコット川渓谷で、絶滅危惧種のコーオ salmon の生息地回復を目的に、人工のビーバ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muppzybblz2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muppzybblz2t</guid>
-      <pubDate>Fri, 04 Sep 2026 19:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>北米のスコット川渓谷で、絶滅危惧種のコーオ salmon の生息地回復を目的に、人工のビーバーダムを設置した結果、若いサケの生存率が大幅に向上し、冷却された水温を保つことで繁殖期の回遊を支えた。ビーバーのダムは元々自然に高い効果を持つが、現在は土地所有者の協力が不可欠であり、人工ダムはビーバーの役割を再認識させる一方で、ビーバーの繁栄には人の協力が必要だと著者は指摘している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>北米のスコット川渓谷で、絶滅危惧種のコーオ salmon の生息地回復を目的に、人工のビーバーダムを設置した結果、若いサケの生存率が大幅に向上し、冷却された水温を保つことで繁殖期の回遊を支えた。ビーバーのダムは元々自然に高い効果を持つが、現在は土地所有者の協力が不可欠であり、人工ダムはビーバーの役割を再認識させる一方で、ビーバーの繁栄には人の協力が必要だと著者は指摘している。]]></content:encoded>
-    </item>
-    <item>
-      <title>人工的なビーバーダムにより、コーホーサケの幼魚の生存率は8％から60％へと上昇した。 Artificial beaver…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muppzqlpwc2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muppzqlpwc2l</guid>
-      <pubDate>Fri, 04 Sep 2026 19:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[人工的なビーバーダムにより、コーホーサケの幼魚の生存率は8％から60％へと上昇した。<br>Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%<br><br>🔺 362<br>💬 18<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[人工的なビーバーダムにより、コーホーサケの幼魚の生存率は8％から60％へと上昇した。<br>Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%<br><br>🔺 362<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This was going on at the same time as the Hugging Face incid…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mupptiutrs2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mupptiutrs2m</guid>
-      <pubDate>Fri, 04 Sep 2026 19:41:04 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[This was going on at the same time as the Hugging Face incident, so they couldn't have learned from that in time to shut this one down]]></description>
-      <content:encoded><![CDATA[This was going on at the same time as the Hugging Face incident, so they couldn't have learned from that in time to shut this one down]]></content:encoded>
-    </item>
-    <item>
-      <title>That kind of thing may well be happening already - we need t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muppsotskk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muppsotskk2m</guid>
-      <pubDate>Fri, 04 Sep 2026 19:40:36 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[That kind of thing may well be happening already - we need to depend on the same societal protections that stop humans doing those things from causing too much trouble<br><br>(not very reassuring!)]]></description>
-      <content:encoded><![CDATA[That kind of thing may well be happening already - we need to depend on the same societal protections that stop humans doing those things from causing too much trouble<br><br>(not very reassuring!)]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 bikini / exploitarium ⭐ 4,381 (+68) 🗒 Python  A single a…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mupois4alv2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mupois4alv2m</guid>
-      <pubDate>Fri, 04 Sep 2026 19:17:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 bikini / exploitarium<br>⭐ 4,381 (+68)<br>🗒 Python<br><br>A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I d...]]></description>
-      <content:encoded><![CDATA[📦 bikini / exploitarium<br>⭐ 4,381 (+68)<br>🗒 Python<br><br>A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I d...]]></content:encoded>
     </item>
   </channel>
 </rss>
