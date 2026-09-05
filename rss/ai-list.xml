@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 18:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:45:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   AIは回路設計を部分的にこなせるようになってきたが、実用的な設計評価には現実の部品特性やコス…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3musaimqexk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3musaimqexk2n</guid>
+      <pubDate>Sat, 05 Sep 2026 19:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AIは回路設計を部分的にこなせるようになってきたが、実用的な設計評価には現実の部品特性やコスト、供給のトレードオフを踏まえたシミュレーションと検証が不可欠だ。EEBenchは宣言型のデザイン表現とSPICEベースの検証で、性能だけでなく耐性やコストを同時に評価することで、電子工学の現実的な設計プロセスに近づけている。現時点ではAIに全自動で完全な回路を任せるには課題が残るが、特定の回路設計タスクを実務レベルへ近づける進展が見られる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AIは回路設計を部分的にこなせるようになってきたが、実用的な設計評価には現実の部品特性やコスト、供給のトレードオフを踏まえたシミュレーションと検証が不可欠だ。EEBenchは宣言型のデザイン表現とSPICEベースの検証で、性能だけでなく耐性やコストを同時に評価することで、電子工学の現実的な設計プロセスに近づけている。現時点ではAIに全自動で完全な回路を任せるには課題が残るが、特定の回路設計タスクを実務レベルへ近づける進展が見られる。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIはすでに回路基板を設計できるのですか？ Can AI design circuit boards yet?  🔺 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3musaigwjow2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3musaigwjow2o</guid>
+      <pubDate>Sat, 05 Sep 2026 19:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIはすでに回路基板を設計できるのですか？<br>Can AI design circuit boards yet?<br><br>🔺 337<br>💬 72<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIはすでに回路基板を設計できるのですか？<br>Can AI design circuit boards yet?<br><br>🔺 337<br>💬 72<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;More herring stations&quot; well yeah, obviously</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mus6dhzvcc2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mus6dhzvcc2e</guid>
+      <pubDate>Sat, 05 Sep 2026 19:05:52 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA["More herring stations" well yeah, obviously]]></description>
+      <content:encoded><![CDATA["More herring stations" well yeah, obviously]]></content:encoded>
+    </item>
     <item>
       <title>⭐ Track a repo&apos;s star growth over time with the new star his…</title>
       <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mus4mde6xp2q</link>
@@ -446,33 +473,6 @@
       <content:encoded><![CDATA[Async questions are one of my favorite things about GPT-6 Astra<br><br>Non-blocking questions are a great way to work with models. They do everything they can without your answer, and don't get confused and treat it as "steering"
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqmqakfeultrnvhu3yk77yjjyod4ujbalwrqs53l46fsxcfghnpu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqmqakfeultrnvhu3yk77yjjyod4ujbalwrqs53l46fsxcfghnpu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I&apos;m honestly incredibly excited for GPT-6 Sol</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muqmtcqsk72z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muqmtcqsk72z</guid>
-      <pubDate>Sat, 05 Sep 2026 04:03:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I'm honestly incredibly excited for GPT-6 Sol]]></description>
-      <content:encoded><![CDATA[I'm honestly incredibly excited for GPT-6 Sol]]></content:encoded>
-    </item>
-    <item>
-      <title>- Metaはダウンロードと会社の関係を結びつける決定的な証拠はなく、IPアドレスだけでは個人の行為を特定できず、個人の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muqkuhmajf2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muqkuhmajf2t</guid>
-      <pubDate>Sat, 05 Sep 2026 03:44:47 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[- Metaはダウンロードと会社の関係を結びつける決定的な証拠はなく、IPアドレスだけでは個人の行為を特定できず、個人の使用と企業行為を混同するのは不合理だと反論している。 (2/2)]]></description>
-      <content:encoded><![CDATA[- Metaはダウンロードと会社の関係を結びつける決定的な証拠はなく、IPアドレスだけでは個人の行為を特定できず、個人の使用と企業行為を混同するのは不合理だと反論している。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - 著作権保有者 Strike 3 Holdings は長年にわたり匿名のBitTorren…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muqkuhibkt2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muqkuhibkt2g</guid>
-      <pubDate>Sat, 05 Sep 2026 03:44:47 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- 著作権保有者 Strike 3 Holdings は長年にわたり匿名のBitTorrent利用者を特定する訴訟を米国連邦裁判所で進行させ、John Doe形式の手続きを繰り返して和解で案件を終える手法を確立している。  <br>- 今回は同社がCounterlife Mediaと共同でMetaを相手取る2,973タイトルに及ぶ訴訟で、MetaのReality Labsの幹部と疑われる個人の家庭用IPアドレスから約20,000件のダウンロードが検出されたとして、同氏をJohn DoeとしてMeta訴訟と結びつけ、同一裁判所で審理を進めようとしている。 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- 著作権保有者 Strike 3 Holdings は長年にわたり匿名のBitTorrent利用者を特定する訴訟を米国連邦裁判所で進行させ、John Doe形式の手続きを繰り返して和解で案件を終える手法を確立している。  <br>- 今回は同社がCounterlife Mediaと共同でMetaを相手取る2,973タイトルに及ぶ訴訟で、MetaのReality Labsの幹部と疑われる個人の家庭用IPアドレスから約20,000件のダウンロードが検出されたとして、同氏をJohn DoeとしてMeta訴訟と結びつけ、同一裁判所で審理を進めようとしている。 (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
