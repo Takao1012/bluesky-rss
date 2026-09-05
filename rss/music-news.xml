@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mprx4pbzjr2u</link>
     <description>音楽ニュースサイトの発信をまとめて確認するためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:23:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>U.S. envoys Steve Witkoff and Jared Kushner have arrived in …</title>
+      <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3musfbyperq2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3musfbyperq2p</guid>
+      <pubDate>Sat, 05 Sep 2026 21:10:18 GMT</pubDate>
+      <author>NPR (@npr.org)</author>
+      <description><![CDATA[U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. n.pr/4zVXQqr]]></description>
+      <content:encoded><![CDATA[U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. n.pr/4zVXQqr]]></content:encoded>
+    </item>
     <item>
       <title>Democrats and Republicans have found common ground in this c…</title>
       <link>https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/post/3mus6l2hdmu2x</link>
@@ -570,20 +579,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreigknfces4runjlsgo2utemkthdtlzckesotcakodqoy5yylmoxk3u" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreih25vlmh3uzi7ry7somjdq3sg4ht4lkzzyvaphxur4dymgc7zspua" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreigknfces4runjlsgo2utemkthdtlzckesotcakodqoy5yylmoxk3u" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>SiMの7thアルバム「HOOMAN AFTER ALL」がフィジカル化、アナログ盤は2222枚限定プレス https…</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3muqdj7czjb2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3muqdj7czjb2e</guid>
-      <pubDate>Sat, 05 Sep 2026 01:33:09 GMT</pubDate>
-      <author>音楽ナタリー (@music.natalie.mu)</author>
-      <description><![CDATA[SiMの7thアルバム「HOOMAN AFTER ALL」がフィジカル化、アナログ盤は2222枚限定プレス<br>https://natalie.mu/music/news/688174?utm_source=bluesky&utm_medium=social<br><br>#SiM #HOOMANAFTERALL
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreifwonj6vqaweotpjgqebenid32uyoe6cwyrbymf447u6vwtvxryey" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreiccqgrdjnkg5mchztesvgyeljvyagv4fzymu5aopqeufm6xmrffra" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[SiMの7thアルバム「HOOMAN AFTER ALL」がフィジカル化、アナログ盤は2222枚限定プレス<br>https://natalie.mu/music/news/688174?utm_source=bluesky&utm_medium=social<br><br>#SiM #HOOMANAFTERALL
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreifwonj6vqaweotpjgqebenid32uyoe6cwyrbymf447u6vwtvxryey" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreiccqgrdjnkg5mchztesvgyeljvyagv4fzymu5aopqeufm6xmrffra" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bnb5jjzwow6pw5ndth5lpxgg/bafkreifwonj6vqaweotpjgqebenid32uyoe6cwyrbymf447u6vwtvxryey" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

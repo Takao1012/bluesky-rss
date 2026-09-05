@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:23:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   人工知能を活用したインシデント対応は多くの作業を自動化して便利だが、反面、人間の直感や実務経…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mush7crrsx2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mush7crrsx2a</guid>
+      <pubDate>Sat, 05 Sep 2026 21:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>人工知能を活用したインシデント対応は多くの作業を自動化して便利だが、反面、人間の直感や実務経験が衰え、難しい未知の事象に対処できなくなるリスクがある。航空業界のように、高度な自動化と並行して人間が定期的に訓練・実践を積む体制が重要で、管理者は現場の理解を維持するためのシミュレーションや手動演習を取り入れるべきだ、という主張を述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>人工知能を活用したインシデント対応は多くの作業を自動化して便利だが、反面、人間の直感や実務経験が衰え、難しい未知の事象に対処できなくなるリスクがある。航空業界のように、高度な自動化と並行して人間が定期的に訓練・実践を積む体制が重要で、管理者は現場の理解を維持するためのシミュレーションや手動演習を取り入れるべきだ、という主張を述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIがインシデントを処理する一方で、エンジニアは自分たちのシステムとのつながりを失ってしまう。 AI handles i…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mush75glib2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mush75glib2i</guid>
+      <pubDate>Sat, 05 Sep 2026 21:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIがインシデントを処理する一方で、エンジニアは自分たちのシステムとのつながりを失ってしまう。<br>AI handles incidents, engineers lose touch with their systems<br><br>🔺 348<br>💬 67<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIがインシデントを処理する一方で、エンジニアは自分たちのシステムとのつながりを失ってしまう。<br>AI handles incidents, engineers lose touch with their systems<br><br>🔺 348<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   AIは回路設計を部分的にこなせるようになってきたが、実用的な設計評価には現実の部品特性やコス…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3musaimqexk2n</link>
@@ -452,27 +470,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[すべてのChromiumバージョンで、サンドボックスのRCEが積極的に悪用されています。<br>Actively exploited sandbox RCE in all Chromium versions<br><br>🔺 385<br>💬 26<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[すべてのChromiumバージョンで、サンドボックスのRCEが積極的に悪用されています。<br>Actively exploited sandbox RCE in all Chromium versions<br><br>🔺 385<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Geminiの助言で遭難、食料も水も不足--ずさんな登山が浮き彫りにする「AI依存」の危険性  🔖 151 ブッ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muqnc5dqb52l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muqnc5dqb52l</guid>
-      <pubDate>Sat, 05 Sep 2026 04:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Geminiの助言で遭難、食料も水も不足--ずさんな登山が浮き彫りにする「AI依存」の危険性<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Geminiの助言で遭難、食料も水も不足--ずさんな登山が浮き彫りにする「AI依存」の危険性<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Async questions are one of my favorite things about GPT-6 As…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muqmtkmkdq24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muqmtkmkdq24</guid>
-      <pubDate>Sat, 05 Sep 2026 04:06:02 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Async questions are one of my favorite things about GPT-6 Astra<br><br>Non-blocking questions are a great way to work with models. They do everything they can without your answer, and don't get confused and treat it as "steering"
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqmqakfeultrnvhu3yk77yjjyod4ujbalwrqs53l46fsxcfghnpu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Async questions are one of my favorite things about GPT-6 Astra<br><br>Non-blocking questions are a great way to work with models. They do everything they can without your answer, and don't get confused and treat it as "steering"
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqmqakfeultrnvhu3yk77yjjyod4ujbalwrqs53l46fsxcfghnpu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqmqakfeultrnvhu3yk77yjjyod4ujbalwrqs53l46fsxcfghnpu" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
