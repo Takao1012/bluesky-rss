@@ -5,8 +5,113 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 05:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:44:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Chromeのサイトデータ設定で、Google関連サイトだけデータが保存されている現象を再検…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutpgjvz3j2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutpgjvz3j2y</guid>
+      <pubDate>Sun, 06 Sep 2026 09:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Chromeのサイトデータ設定で、Google関連サイトだけデータが保存されている現象を再検証した著者の報告。Google検索後にChromeを閉じても、google.comのデータ（クッキー、ローカルストレージ、セッションストレージ）が保存され続け、他サイトは削除される設定でも撤回されない不具合が確認される。著者はGoogleの品質保証とテスト強化を求めつつ、独断的な推測は避けるべきとの考えを述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Chromeのサイトデータ設定で、Google関連サイトだけデータが保存されている現象を再検証した著者の報告。Google検索後にChromeを閉じても、google.comのデータ（クッキー、ローカルストレージ、セッションストレージ）が保存され続け、他サイトは削除される設定でも撤回されない不具合が確認される。著者はGoogleの品質保証とテスト強化を求めつつ、独断的な推測は避けるべきとの考えを述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Chromeが再びGoogleをユーザーのサイトデータ設定の対象外とする。 Chrome again exempts G…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutpgfcqb52n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutpgfcqb52n</guid>
+      <pubDate>Sun, 06 Sep 2026 09:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Chromeが再びGoogleをユーザーのサイトデータ設定の対象外とする。<br>Chrome again exempts Google from user site data settings<br><br>🔺 398<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Chromeが再びGoogleをユーザーのサイトデータ設定の対象外とする。<br>Chrome again exempts Google from user site data settings<br><br>🔺 398<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO  🔖 157 ブックマ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mutojhmzkx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mutojhmzkx2c</guid>
+      <pubDate>Sun, 06 Sep 2026 09:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Cloud in a Bottleは、オープンソースで自分の手元に置ける「個人用クラウド」。…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutiqabofe2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutiqabofe2e</guid>
+      <pubDate>Sun, 06 Sep 2026 07:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Cloud in a Bottleは、オープンソースで自分の手元に置ける「個人用クラウド」。コンテナ化アプリ・統一認証・使いやすいUXを提供し、アプリ間のデータ連携も可能にすることで、クラウド依存の常駐サービスから脱却し自分のスマホのように管理・利用できる体験を目指しています。現在はマネージド版と自鯖運用の選択肢を用意し、オープンソース・セルフホスティングを第一優先として、徐々にアプリカタログを拡充中です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Cloud in a Bottleは、オープンソースで自分の手元に置ける「個人用クラウド」。コンテナ化アプリ・統一認証・使いやすいUXを提供し、アプリ間のデータ連携も可能にすることで、クラウド依存の常駐サービスから脱却し自分のスマホのように管理・利用できる体験を目指しています。現在はマネージド版と自鯖運用の選択肢を用意し、オープンソース・セルフホスティングを第一優先として、徐々にアプリカタログを拡充中です。]]></content:encoded>
+    </item>
+    <item>
+      <title>ボトルの中のクラウド: セルフホスティングを誰もが使えるように Cloud in a Bottle: making se…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutipwukgt2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutipwukgt2c</guid>
+      <pubDate>Sun, 06 Sep 2026 07:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ボトルの中のクラウド: セルフホスティングを誰もが使えるように<br>Cloud in a Bottle: making self-hosting accessible to everyone<br><br>🔺 346<br>💬 63<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ボトルの中のクラウド: セルフホスティングを誰もが使えるように<br>Cloud in a Bottle: making self-hosting accessible to everyone<br><br>🔺 346<br>💬 63<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた  🔖 154 ブックマーク �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muthszix7427</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muthszix7427</guid>
+      <pubDate>Sun, 06 Sep 2026 07:28:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Minecraft is solved.</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muteu7yajf2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muteu7yajf2z</guid>
+      <pubDate>Sun, 06 Sep 2026 06:30:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Minecraft is solved.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbaedbmuxehq3trnbl2f7ovmfzahszvmo4cbciqf6swfbak7rxpu" alt="Quote Tweet: https://twitter.com/i/status/2096013357547413855" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Minecraft is solved.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbaedbmuxehq3trnbl2f7ovmfzahszvmo4cbciqf6swfbak7rxpu" alt="Quote Tweet: https://twitter.com/i/status/2096013357547413855" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidbaedbmuxehq3trnbl2f7ovmfzahszvmo4cbciqf6swfbak7rxpu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   オランダ中銀は、安全性と危機対応力を高める目的で、北米にある金の一部をロンドンの英央 Ban…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutbzhoi4j2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutbzhoi4j2t</guid>
+      <pubDate>Sun, 06 Sep 2026 05:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>オランダ中銀は、安全性と危機対応力を高める目的で、北米にある金の一部をロンドンの英央 Bank of Englandへ移動させた。移送は計313トンのうち86トンが米国・カナダから移され、現金化と保管の組み合わせでリスクを抑えつつ、危機時の即時利用性を改善する狙いとされる。専門家はこれをトランプ政権下での同盟国への圧力増大への対抗策と解釈している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>オランダ中銀は、安全性と危機対応力を高める目的で、北米にある金の一部をロンドンの英央 Bank of Englandへ移動させた。移送は計313トンのうち86トンが米国・カナダから移され、現金化と保管の組み合わせでリスクを抑えつつ、危機時の即時利用性を改善する狙いとされる。専門家はこれをトランプ政権下での同盟国への圧力増大への対抗策と解釈している。]]></content:encoded>
+    </item>
+    <item>
+      <title>オランダ、米国から金を引き出す Netherlands pulls gold out of the US  🔺 349…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutbz7y5cj2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mutbz7y5cj2t</guid>
+      <pubDate>Sun, 06 Sep 2026 05:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オランダ、米国から金を引き出す<br>Netherlands pulls gold out of the US<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オランダ、米国から金を引き出す<br>Netherlands pulls gold out of the US<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka  🔖 175 ブックマーク 💬…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mutb4c56652s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mutb4c56652s</guid>
+      <pubDate>Sun, 06 Sep 2026 05:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;Man, you must have burned thousands of dollars in tokens to…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mutanattxs2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mutanattxs2c</guid>
+      <pubDate>Sun, 06 Sep 2026 05:09:47 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA["Man, you must have burned thousands of dollars in tokens to generate that."<br><br>Fishslop would have been under $30 to generate. Wouldn't even have noticed the dent on the $200 sub.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihjehbjtx3shgwxtjfs3mkob7xj7mmj6qlox7ia5sojpvftkwlxyi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA["Man, you must have burned thousands of dollars in tokens to generate that."<br><br>Fishslop would have been under $30 to generate. Wouldn't even have noticed the dent on the $200 sub.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihjehbjtx3shgwxtjfs3mkob7xj7mmj6qlox7ia5sojpvftkwlxyi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihjehbjtx3shgwxtjfs3mkob7xj7mmj6qlox7ia5sojpvftkwlxyi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>If you have any doubts, take a look at the GitHub repo. It&apos;s…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mut5co6lfp2p</link>
@@ -366,108 +471,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>NousResearch/hermes-agent<br>Hermes Agentは、自己改善機能を備えたAIエージェントです。<br>学習ループを通じて経験からスキルを自動生成・改善し、ユーザー情報を蓄積して最適化します。<br>多様なLLMモデル、インターフェース、実行環境に対応しており、スケジューリングやサブエージェントによる並列処理が可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>NousResearch/hermes-agent<br>Hermes Agentは、自己改善機能を備えたAIエージェントです。<br>学習ループを通じて経験からスキルを自動生成・改善し、ユーザー情報を蓄積して最適化します。<br>多様なLLMモデル、インターフェース、実行環境に対応しており、スケジューリングやサブエージェントによる並列処理が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  affaan-m/ECC Claude Code向けプラグインECCの提供を目的としていま…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3murm735fsf2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3murm735fsf2d</guid>
-      <pubDate>Sat, 05 Sep 2026 13:41:16 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>Claude Code向けプラグインECCの提供を目的としています。<br>本ツールを導入することで、Claude Codeにスキル、エージェント、コマンド、プラグイン管理フックなどを追加できます。<br>npmやClaude Codeのネイティブコマンドを通じてインストール可能です。<br>基本的にはMITライセンスのオープンソースとして無料で提供されており、プライベートリポジトリ向けに有料のECC Proプランも展開しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>Claude Code向けプラグインECCの提供を目的としています。<br>本ツールを導入することで、Claude Codeにスキル、エージェント、コマンド、プラグイン管理フックなどを追加できます。<br>npmやClaude Codeのネイティブコマンドを通じてインストール可能です。<br>基本的にはMITライセンスのオープンソースとして無料で提供されており、プライベートリポジトリ向けに有料のECC Proプランも展開しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mattpocock/skills AIエージェント向けの実用的で調整可能なスキルセットを…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3murm6i7fb22c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3murm6i7fb22c</guid>
-      <pubDate>Sat, 05 Sep 2026 13:40:57 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェント向けの実用的で調整可能なスキルセットを提供するリポジトリです。<br>開発者がコントロールを維持しつつ、経験に基づいた手法で効率的にアプリケーション開発を行うことを目的としています。<br>モデルを問わず利用でき、Claude Codeなどのプラグインとして導入可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェント向けの実用的で調整可能なスキルセットを提供するリポジトリです。<br>開発者がコントロールを維持しつつ、経験に基づいた手法で効率的にアプリケーション開発を行うことを目的としています。<br>モデルを問わず利用でき、Claude Codeなどのプラグインとして導入可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ  🔖 175 ブックマ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3murlhvzvu72z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3murlhvzvu72z</guid>
-      <pubDate>Sat, 05 Sep 2026 13:28:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Claude Code の Rules はもう死んでいる - kawasin73のブログ<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Cancelling my Spotify subscription rn</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3murrfcsvts2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3murrfcsvts2z</guid>
-      <pubDate>Sat, 05 Sep 2026 13:22:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Cancelling my Spotify subscription rn
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihzpowy6z5iceltpifechvmnupn4jq34vkxqdccejlpv4x2ttxcke" alt="Quote Tweet: https://twitter.com/i/status/2095975651094261777" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Cancelling my Spotify subscription rn
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihzpowy6z5iceltpifechvmnupn4jq34vkxqdccejlpv4x2ttxcke" alt="Quote Tweet: https://twitter.com/i/status/2095975651094261777" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihzpowy6z5iceltpifechvmnupn4jq34vkxqdccejlpv4x2ttxcke" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF GSQ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksup4ca2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksup4ca2g</guid>
-      <pubDate>Sat, 05 Sep 2026 13:16:33 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化されたQwen3.8-27BのGGUF形式モデルを提供するためのリポジトリです。<br>マルチモーダル利用向けのビジョンプロジェクターを備え、画像とテキストからテキストを生成するタスクに対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化されたQwen3.8-27BのGGUF形式モデルを提供するためのリポジトリです。<br>マルチモーダル利用向けのビジョンプロジェクターを備え、画像とテキストからテキストを生成するタスクに対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksce4z52c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murksce4z52c</guid>
-      <pubDate>Sat, 05 Sep 2026 13:16:14 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成できません。<br>内容を記載して再度ご依頼ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成できません。<br>内容を記載して再度ご依頼ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  google/timesfm-3.0-pytorch Google Resear…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrv5te62n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrv5te62n</guid>
-      <pubDate>Sat, 05 Sep 2026 13:16:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測のための事前学習済み基盤モデルであるTimesFM 3.0の、PyTorch用重みと設定ファイルを公開することを目的としたリポジトリです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測のための事前学習済み基盤モデルであるTimesFM 3.0の、PyTorch用重みと設定ファイルを公開することを目的としたリポジトリです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  zai-org/GLM-5.3 GLM-5.3は、GLM-5.2と同じベースモデ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrmhsv32f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkrmhsv32f</guid>
-      <pubDate>Sat, 05 Sep 2026 13:15:51 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3は、GLM-5.2と同じベースモデルを用い、ポストトレーニングにより性能を向上させたテキスト生成モデルです。<br>複雑なコーディングや長期的なタスクの処理能力を向上させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>zai-org/GLM-5.3<br>GLM-5.3は、GLM-5.2と同じベースモデルを用い、ポストトレーニングにより性能を向上させたテキスト生成モデルです。<br>複雑なコーディングや長期的なタスクの処理能力を向上させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-Vision-Exp…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkr6kwlv2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3murkr6kwlv2q</guid>
-      <pubDate>Sat, 05 Sep 2026 13:15:37 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを組み込み、マルチモーダルエージェント能力を強化したモデルです。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを組み込み、マルチモーダルエージェント能力を強化したモデルです。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ  🔖 174 ブックマーク 💬 コメン…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muri4fhv4i2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muri4fhv4i2z</guid>
-      <pubDate>Sat, 05 Sep 2026 12:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ<br><br>🔖 174 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 nvm-sh / nvm ⭐ 94,845 (+17) 🗒 Shell  Node Version Manage…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3murhouhvcq2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3murhouhvcq2l</guid>
-      <pubDate>Sat, 05 Sep 2026 12:20:36 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 nvm-sh / nvm<br>⭐ 94,845 (+17)<br>🗒 Shell<br><br>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump]]></description>
-      <content:encoded><![CDATA[📦 nvm-sh / nvm<br>⭐ 94,845 (+17)<br>🗒 Shell<br><br>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump]]></content:encoded>
     </item>
   </channel>
 </rss>
