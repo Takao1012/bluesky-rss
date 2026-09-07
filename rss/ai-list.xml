@@ -5,8 +5,58 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:04:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   BZip3はBZip2の後継として、より高い圧縮率と高速化を実現する圧縮ツールで、0次文脈混…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxi54zzpm2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxi54zzpm2o</guid>
+      <pubDate>Mon, 07 Sep 2026 21:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>BZip3はBZip2の後継として、より高い圧縮率と高速化を実現する圧縮ツールで、0次文脈混合エントロピー coderや高速BWT、LZ77型照合とPPM風文脈モデリングを組み合わせている。Perlソースのベンチ結果では、bzip3は同クラスの他手法と比較して圧縮率の向上と解凍速度の良好さを示しており、lrzipとの併用や設定次第でさらに効果を発揮する。ライセンスは LGPLv3、利用時はデータ復元可能性のリスクに留意する必要がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>BZip3はBZip2の後継として、より高い圧縮率と高速化を実現する圧縮ツールで、0次文脈混合エントロピー coderや高速BWT、LZ77型照合とPPM風文脈モデリングを組み合わせている。Perlソースのベンチ結果では、bzip3は同クラスの他手法と比較して圧縮率の向上と解凍速度の良好さを示しており、lrzipとの併用や設定次第でさらに効果を発揮する。ライセンスは LGPLv3、利用時はデータ復元可能性のリスクに留意する必要がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>bzip3 bzip3  🔺 346 💬 19 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxi4t6cdi2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxi4t6cdi2z</guid>
+      <pubDate>Mon, 07 Sep 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[bzip3<br>bzip3<br><br>🔺 346<br>💬 19<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[bzip3<br>bzip3<br><br>🔺 346<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 jo-inc / camofox-browse…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muxgm4w6vy2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muxgm4w6vy2c</guid>
+      <pubDate>Mon, 07 Sep 2026 21:17:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 jo-inc / camofox-browser<br>⭐ 9,310 (+117)<br>🗒 JavaScript<br><br>Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 jo-inc / camofox-browser<br>⭐ 9,310 (+117)<br>🗒 JavaScript<br><br>Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.]]></content:encoded>
+    </item>
+    <item>
+      <title>It’s been 5 years since the world lost Lily. I still miss he…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muxjbvpp4d2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muxjbvpp4d2i</guid>
+      <pubDate>Mon, 07 Sep 2026 20:53:38 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[It’s been 5 years since the world lost Lily. I still miss her every day. She was the smartest, kindest, most loving person I’ve ever known. 💜💜
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia5nlwkmjrabckwizzh6jfxbd3zfp454rkf6pgggl5nmku44htmgm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicraa6sgk52vuot6es42smlebv2446leficnu2veqquikdduozza4" alt="Quote Tweet: https://twitter.com/i/status/1567220701157019648" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[It’s been 5 years since the world lost Lily. I still miss her every day. She was the smartest, kindest, most loving person I’ve ever known. 💜💜
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia5nlwkmjrabckwizzh6jfxbd3zfp454rkf6pgggl5nmku44htmgm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicraa6sgk52vuot6es42smlebv2446leficnu2veqquikdduozza4" alt="Quote Tweet: https://twitter.com/i/status/1567220701157019648" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia5nlwkmjrabckwizzh6jfxbd3zfp454rkf6pgggl5nmku44htmgm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 lightpanda-io / browser…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muxdb7agxm2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muxdb7agxm2b</guid>
+      <pubDate>Mon, 07 Sep 2026 20:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 lightpanda-io / browser<br>⭐ 34,635 (+116)<br>🗒 Zig<br><br>Lightpanda: the headless browser designed for AI and automation]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 lightpanda-io / browser<br>⭐ 34,635 (+116)<br>🗒 Zig<br><br>Lightpanda: the headless browser designed for AI and automation]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Techaroがホストし、Anubis v1.28.0-pre1.0.20260906214…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxbge6kri2y</link>
@@ -417,51 +467,6 @@
       <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
       <description><![CDATA[If you understand your whole codebase, the codebase isn't that important.<br><br>Real software is larger than what your brain can comprehend. <br><br>Video: https://twitter.com/theo/status/2096854674938941448]]></description>
       <content:encoded><![CDATA[If you understand your whole codebase, the codebase isn't that important.<br><br>Real software is larger than what your brain can comprehend. <br><br>Video: https://twitter.com/theo/status/2096854674938941448]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Asahi LinuxがM3シリーズのMacに公式対応しました。M1/M2同様ほぼすべての機…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvsihj25i2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvsihj25i2y</guid>
-      <pubDate>Mon, 07 Sep 2026 05:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Asahi LinuxがM3シリーズのMacに公式対応しました。M1/M2同様ほぼすべての機能が動作しますが、現時点ではDCP対応とGPUが未完了で、3D加速は実用的ではありません。インストールはExpertモード必須で、将来的にはFedora 45 betaリリースまでにExpert要件を緩和予定です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Asahi LinuxがM3シリーズのMacに公式対応しました。M1/M2同様ほぼすべての機能が動作しますが、現時点ではDCP対応とGPUが未完了で、3D加速は実用的ではありません。インストールはExpertモード必須で、将来的にはFedora 45 betaリリースまでにExpert要件を緩和予定です。]]></content:encoded>
-    </item>
-    <item>
-      <title>M3上のAsahi Linux Asahi Linux on M3  🔺 398 💬 21 🔗 HN Post |…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvsibkcmy2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvsibkcmy2y</guid>
-      <pubDate>Mon, 07 Sep 2026 05:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[M3上のAsahi Linux<br>Asahi Linux on M3<br><br>🔺 398<br>💬 21<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[M3上のAsahi Linux<br>Asahi Linux on M3<br><br>🔺 398<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 DO-GU  🔖 150 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muvrlkkhi42n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muvrlkkhi42n</guid>
-      <pubDate>Mon, 07 Sep 2026 05:28:23 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 DO-GU<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 DO-GU<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリッ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muvoa3n2s72k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muvoa3n2s72k</guid>
-      <pubDate>Mon, 07 Sep 2026 04:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   要約: 著者は、現代の子どもたちのメディア環境と読書離れが急速に進み、特にテレビとスマホが読…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvlrvxopc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muvlrvxopc2a</guid>
-      <pubDate>Mon, 07 Sep 2026 03:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>要約:<br>著者は、現代の子どもたちのメディア環境と読書離れが急速に進み、特にテレビとスマホが読解力を蝕んでいると指摘する。刊行中のジェームズ・マリオットの著書 The New Dark Ages を通じて、 literacy の衰退が政治・文化の質を低下させ、エリート層さえも教養への関心を失いつつある現状を憂慮する。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>要約:<br>著者は、現代の子どもたちのメディア環境と読書離れが急速に進み、特にテレビとスマホが読解力を蝕んでいると指摘する。刊行中のジェームズ・マリオットの著書 The New Dark Ages を通じて、 literacy の衰退が政治・文化の質を低下させ、エリート層さえも教養への関心を失いつつある現状を憂慮する。]]></content:encoded>
     </item>
   </channel>
 </rss>
