@@ -5,8 +5,218 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:08:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   GrapheneOSは、MessagingアプリをAndroid Composeで全面リニュ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwtzkvsgo2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwtzkvsgo2c</guid>
+      <pubDate>Mon, 07 Sep 2026 15:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>GrapheneOSは、MessagingアプリをAndroid Composeで全面リニューアルする計画を進めており、RCSとMLSを用いたエンドツーエンド暗号化のサポートを将来的に追加する意向を示しています。現状はGoogle Messages経由でRCS/E2EEを利用しているが、Google Messages依存を減らし、キャリア標準のRCSだけで動作させられるよう段階的に自前実装を目指す方針です。併せて、AOSPのプリインストールアプリの全面的な置き換えや、GalleryやKeyboardの刷新も計画しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>GrapheneOSは、MessagingアプリをAndroid Composeで全面リニューアルする計画を進めており、RCSとMLSを用いたエンドツーエンド暗号化のサポートを将来的に追加する意向を示しています。現状はGoogle Messages経由でRCS/E2EEを利用しているが、Google Messages依存を減らし、キャリア標準のRCSだけで動作させられるよう段階的に自前実装を目指す方針です。併せて、AOSPのプリインストールアプリの全面的な置き換えや、GalleryやKeyboardの刷新も計画しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>GrapheneOS、デフォルトアプリを全面刷新、セキュアクリップボードを搭載 GrapheneOS Overhaule…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwtz5cgr22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwtz5cgr22g</guid>
+      <pubDate>Mon, 07 Sep 2026 15:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[GrapheneOS、デフォルトアプリを全面刷新、セキュアクリップボードを搭載<br>GrapheneOS Overhauled Default Apps and Secure Clipboard<br><br>🔺 355<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[GrapheneOS、デフォルトアプリを全面刷新、セキュアクリップボードを搭載<br>GrapheneOS Overhauled Default Apps and Secure Clipboard<br><br>🔺 355<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fus…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtep6ag42f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtep6ag42f</guid>
+      <pubDate>Mon, 07 Sep 2026 15:33:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF<br>Qwen3.8-27Bをベースに微調整し、思考トークンを削減して高速化したオープンソースモデルのGGUF量子化版を提供するリポジトリです。<br>消費者向けハードウェアで動作し、高い推論性能と詳細な出力を維持しつつ、効率的な処理を実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF<br>Qwen3.8-27Bをベースに微調整し、思考トークンを削減して高速化したオープンソースモデルのGGUF量子化版を提供するリポジトリです。<br>消費者向けハードウェアで動作し、高い推論性能と詳細な出力を維持しつつ、効率的な処理を実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtd6qtee2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtd6qtee2f</guid>
+      <pubDate>Mon, 07 Sep 2026 15:32:09 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF GSQ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtbcvcgh2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwtbcvcgh2w</guid>
+      <pubDate>Mon, 07 Sep 2026 15:31:07 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて量子化されたQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターを備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて量子化されたQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターを備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4-Flash-Vision-Exp…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwta6mwoi2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwta6mwoi2g</guid>
+      <pubDate>Mon, 07 Sep 2026 15:30:29 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを追加し、テキスト性能を維持しながら視覚理解能力とマルチモーダルエージェント機能を向上させています。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp<br>DeepSeek-V4-Flash-Vision-Expという実験的なマルチモーダルモデルの提供を目的としています。<br>DeepSeek-V4-Flashに視覚モジュールを追加し、テキスト性能を維持しながら視覚理解能力とマルチモーダルエージェント機能を向上させています。<br>リポジトリにはトークナイザーやプロンプトエンコーディング、PyTorchによる推論実装が含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  google/timesfm-3.0-pytorch Google Resear…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwt725xuu2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3muwt725xuu2f</guid>
+      <pubDate>Mon, 07 Sep 2026 15:29:50 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測用事前学習済み基盤モデルTimesFM 3.0の、公式PyTorch重みと設定ファイルを提供するためのリポジトリです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/timesfm-3.0-pytorch<br>Google Researchが開発した時系列予測用事前学習済み基盤モデルTimesFM 3.0の、公式PyTorch重みと設定ファイルを提供するためのリポジトリです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減す…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwt4e7tw62z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwt4e7tw62z</guid>
+      <pubDate>Mon, 07 Sep 2026 15:28:20 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>Intelligence and Content Understanding integrations, plugins…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwskn6ghz26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwskn6ghz26</guid>
+      <pubDate>Mon, 07 Sep 2026 15:18:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Intelligence and Content Understanding integrations, plugins, and a CLI, with emphasis on security and using narrow conversion APIs when handling untrusted inputs. (2/2)]]></description>
+      <content:encoded><![CDATA[Intelligence and Content Understanding integrations, plugins, and a CLI, with emphasis on security and using narrow conversion APIs when handling untrusted inputs. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   MarkItDown is a Python utility that converts v…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwskkp3gg2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwskkp3gg2k</guid>
+      <pubDate>Mon, 07 Sep 2026 15:18:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>MarkItDown is a Python utility that converts various file formats (PDFs, Office docs, images, audio, HTML, etc.) into Markdown for use with LLMs and text analysis, aiming to preserve document structure while remaining token-efficient. It supports optional Azure Document (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>MarkItDown is a Python utility that converts various file formats (PDFs, Office docs, images, audio, HTML, etc.) into Markdown for use with LLMs and text analysis, aiming to preserve document structure while remaining token-efficient. It supports optional Azure Document (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 microsoft / markitdo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwsj7cijq2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwsj7cijq2g</guid>
+      <pubDate>Mon, 07 Sep 2026 15:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 microsoft / markitdown<br>⭐ 179,263 (+771)<br>🗒 Python<br><br>Python tool for converting files and office documents to Markdown.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 microsoft / markitdown<br>⭐ 179,263 (+771)<br>🗒 Python<br><br>Python tool for converting files and office documents to Markdown.]]></content:encoded>
+    </item>
+    <item>
+      <title>It emphasizes HTML-native authoring, deterministic output, a…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5qs5mk26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5qs5mk26</guid>
+      <pubDate>Mon, 07 Sep 2026 14:17:32 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[It emphasizes HTML-native authoring, deterministic output, and node/FFmpeg-based rendering, with extensive documentation, catalog, and community support. (2/2)]]></description>
+      <content:encoded><![CDATA[It emphasizes HTML-native authoring, deterministic output, and node/FFmpeg-based rendering, with extensive documentation, catalog, and community support. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   HyperFrames is an open-source framework that l…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5qqxhl2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5qqxhl2b</guid>
+      <pubDate>Mon, 07 Sep 2026 14:17:32 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>HyperFrames is an open-source framework that lets you author HTML/CSS/media with seekable animations to deterministically render MP4 videos, using a CLI, on-demand domain and skill-based workflows, and a growing catalog of blocks and plugins for AI agents and automated pipelines. (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>HyperFrames is an open-source framework that lets you author HTML/CSS/media with seekable animations to deterministically render MP4 videos, using a CLI, on-demand domain and skill-based workflows, and a growing catalog of blocks and plugins for AI agents and automated pipelines. (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 heygen-com / hyperf…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5n4gns2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwp5n4gns2b</guid>
+      <pubDate>Mon, 07 Sep 2026 14:17:28 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 44,715 (+220)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 44,715 (+220)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></content:encoded>
+    </item>
+    <item>
+      <title>When everyone is releasing big models, OpenBMB keeps shippin…</title>
+      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3muwo2uga5c2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3muwo2uga5c2d</guid>
+      <pubDate>Mon, 07 Sep 2026 13:58:01 GMT</pubDate>
+      <author>Adina Yakup (@adinayakup.bsky.social)</author>
+      <description><![CDATA[When everyone is releasing big models, OpenBMB keeps shipping small but strong one. <br><br>Here is the latest one: MiniCPM5-2B 🔥<br>huggingface.co/openbmb/Mini...<br><br>- Dense 2B <br>- Full data pipeline open as well: web, code, agent, RL<br>- 131 context <br>- Apache 2.0
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[When everyone is releasing big models, OpenBMB keeps shipping small but strong one. <br><br>Here is the latest one: MiniCPM5-2B 🔥<br>huggingface.co/openbmb/Mini...<br><br>- Dense 2B <br>- Full data pipeline open as well: web, code, agent, RL<br>- 131 context <br>- Apache 2.0
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncyzi7l2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncyzi7l2k</guid>
+      <pubDate>Mon, 07 Sep 2026 13:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態でもマイク音声を録音・保存してネット接続再開時にアップロードする、という調査結果がGamers Nexusによって報告されました。研究者はwebOSのリモートコード実行脆弱性も指摘し、推奨としてテレビをインターネットから切断して外部デバイスを使うべきと述べています。LGは本件へコメントしていません。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態でもマイク音声を録音・保存してネット接続再開時にアップロードする、という調査結果がGamers Nexusによって報告されました。研究者はwebOSのリモートコード実行脆弱性も指摘し、推奨としてテレビをインターネットから切断して外部デバイスを使うべきと述べています。LGは本件へコメントしていません。]]></content:encoded>
+    </item>
+    <item>
+      <title>LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した LG…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncovw462n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncovw462n</guid>
+      <pubDate>Mon, 07 Sep 2026 13:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した<br>LG smart TVs caught logging audio with screen off and snooping on local devices<br><br>🔺 492<br>💬 67<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した<br>LG smart TVs caught logging audio with screen off and snooping on local devices<br><br>🔺 492<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 mksglu / context-mode ⭐ 20,545 (+85) 🗒 TypeScript  Conte…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwlrsycxq2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwlrsycxq2z</guid>
+      <pubDate>Mon, 07 Sep 2026 13:17:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 mksglu / context-mode<br>⭐ 20,545 (+85)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></description>
+      <content:encoded><![CDATA[📦 mksglu / context-mode<br>⭐ 20,545 (+85)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ  🔖 152 ブックマーク 💬 コメント…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwj2fcnav2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwj2fcnav2v</guid>
+      <pubDate>Mon, 07 Sep 2026 12:28:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 bytedance / deer-flow ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwiguhx4e2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwiguhx4e2a</guid>
+      <pubDate>Mon, 07 Sep 2026 12:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 81,682 (+188)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks ...]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 81,682 (+188)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks ...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgmhfm6y2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgmhfm6y2e</guid>
+      <pubDate>Mon, 07 Sep 2026 11:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を後で冷却して閾値以下に戻す“overshoot”戦略が必要になると報告した。ピーク温度を抑え続け、超過期間を短くすることが最重要で、温室効果ガスの排出削減と大規模な炭素除去技術の組み合わせが求められる一方、数十年にわたる気候災害の増加や生態系の崩壊リスクは避けられないと警告している。政府は適応策を強化し、炭素除去の新たな手法開発も推進する必要がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を後で冷却して閾値以下に戻す“overshoot”戦略が必要になると報告した。ピーク温度を抑え続け、超過期間を短くすることが最重要で、温室効果ガスの排出削減と大規模な炭素除去技術の組み合わせが求められる一方、数十年にわたる気候災害の増加や生態系の崩壊リスクは避けられないと警告している。政府は適応策を強化し、炭素除去の新たな手法開発も推進する必要がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>国連は、地球温暖化が1.5度の限界を超えると述べている。 Global warming will exceed 1.5-…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgm7bek32d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgm7bek32d</guid>
+      <pubDate>Mon, 07 Sep 2026 11:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[国連は、地球温暖化が1.5度の限界を超えると述べている。<br>Global warming will exceed 1.5-degree limit, UN says<br><br>🔺 336<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[国連は、地球温暖化が1.5度の限界を超えると述べている。<br>Global warming will exceed 1.5-degree limit, UN says<br><br>🔺 336<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)  🔖…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwfozsb6v2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwfozsb6v2n</guid>
+      <pubDate>Mon, 07 Sep 2026 11:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>I can’t even make this up</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muwbuts4fl2t</link>
@@ -255,216 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[法的助言を受けた後、NitterとXCancelはサービスを再開する。<br>Nitter and XCancel resume service after legal advice<br><br>🔺 393<br>💬 27<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[法的助言を受けた後、NitterとXCancelはサービスを再開する。<br>Nitter and XCancel resume service after legal advice<br><br>🔺 393<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>AI makes it so easy to polish rough edges and smooth out you…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muv6opust72c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muv6opust72c</guid>
-      <pubDate>Sun, 06 Sep 2026 23:43:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[AI makes it so easy to polish rough edges and smooth out your product experience. Yet pretty much every piece of software is falling apart.<br><br>Why? The devs building them don't care.<br><br>Software built by people detached from the users has never felt worse.]]></description>
-      <content:encoded><![CDATA[AI makes it so easy to polish rough edges and smooth out your product experience. Yet pretty much every piece of software is falling apart.<br><br>Why? The devs building them don't care.<br><br>Software built by people detached from the users has never felt worse.]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;m increasingly confused why people think &quot;agent memory for…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muv6omp3vz26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muv6omp3vz26</guid>
-      <pubDate>Sun, 06 Sep 2026 23:25:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I'm increasingly confused why people think "agent memory for enterprise/teams" is a real product category that makes any sense at all]]></description>
-      <content:encoded><![CDATA[I'm increasingly confused why people think "agent memory for enterprise/teams" is a real product category that makes any sense at all]]></content:encoded>
-    </item>
-    <item>
-      <title>provides installation options across Skills CLI, Claude, and…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4ttnz4k26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4ttnz4k26</guid>
-      <pubDate>Sun, 06 Sep 2026 23:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[provides installation options across Skills CLI, Claude, and manual ZIP installs. (2/2)]]></description>
-      <content:encoded><![CDATA[provides installation options across Skills CLI, Claude, and manual ZIP installs. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Humanizer is a skill that rewrites AI-sounding…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4ttmmeu2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4ttmmeu2a</guid>
-      <pubDate>Sun, 06 Sep 2026 23:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Humanizer is a skill that rewrites AI-sounding text to read as if a human wrote it, preserving meaning and factual details, with a workflow that shows rewrites and critiques and supports voice matching using user-provided samples. It explains its 25 patterns for editing and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Humanizer is a skill that rewrites AI-sounding text to read as if a human wrote it, preserving meaning and factual details, with a workflow that shows rewrites and critiques and supports voice matching using user-provided samples. It explains its 25 patterns for editing and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 blader / humanizer ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4tqq53o2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muv4tqq53o2l</guid>
-      <pubDate>Sun, 06 Sep 2026 23:17:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 blader / humanizer<br>⭐ 43,923 (+748)<br>🗒 Python<br><br>Agent skill that removes signs of AI-generated writing from text]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 blader / humanizer<br>⭐ 43,923 (+748)<br>🗒 Python<br><br>Agent skill that removes signs of AI-generated writing from text]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 openai / skills ⭐ 25,478 (+44) 🗒 Python  Skills Catalog …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuzildh2426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuzildh2426</guid>
-      <pubDate>Sun, 06 Sep 2026 22:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 openai / skills<br>⭐ 25,478 (+44)<br>🗒 Python<br><br>Skills Catalog for Codex]]></description>
-      <content:encoded><![CDATA[📦 openai / skills<br>⭐ 25,478 (+44)<br>🗒 Python<br><br>Skills Catalog for Codex]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   LinkedInは最近私にとって大切なSNSになっているが、多くの人がLLMで投稿を作成して…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuxo6ro3f2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuxo6ro3f2k</guid>
-      <pubDate>Sun, 06 Sep 2026 21:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>LinkedInは最近私にとって大切なSNSになっているが、多くの人がLLMで投稿を作成しており、それが露骨に見えてしまうため信頼性を損なう恐れがある。LLMsは便利だが「あなた自身の声」ではなく、文章の質も悪く、読み手の信頼性を崩しうる。だからこそ自分の言葉で自分の投稿を書こう、という主張である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>LinkedInは最近私にとって大切なSNSになっているが、多くの人がLLMで投稿を作成しており、それが露骨に見えてしまうため信頼性を損なう恐れがある。LLMsは便利だが「あなた自身の声」ではなく、文章の質も悪く、読み手の信頼性を崩しうる。だからこそ自分の言葉で自分の投稿を書こう、という主張である。]]></content:encoded>
-    </item>
-    <item>
-      <title>あなたの頭の中のジッパーが開いています（2025） Your intellectual fly is open (202…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuxnzhzdp2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuxnzhzdp2y</guid>
-      <pubDate>Sun, 06 Sep 2026 21:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[あなたの頭の中のジッパーが開いています（2025）<br>Your intellectual fly is open (2025)<br><br>🔺 432<br>💬 69<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[あなたの頭の中のジッパーが開いています（2025）<br>Your intellectual fly is open (2025)<br><br>🔺 432<br>💬 69<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>The craziest thing about legendary shitposter @maria_rcks is…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muux5c7gqb2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muux5c7gqb2t</guid>
-      <pubDate>Sun, 06 Sep 2026 21:24:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[The craziest thing about legendary shitposter @maria_rcks is that she's actually a phenomenal engineer]]></description>
-      <content:encoded><![CDATA[The craziest thing about legendary shitposter @maria_rcks is that she's actually a phenomenal engineer]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 llvm / llvm-project ⭐ 40,145 (+35) 🗒 LLVM  The LLVM Proj…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuw5blez62h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuw5blez62h</guid>
-      <pubDate>Sun, 06 Sep 2026 21:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 llvm / llvm-project<br>⭐ 40,145 (+35)<br>🗒 LLVM<br><br>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.]]></description>
-      <content:encoded><![CDATA[📦 llvm / llvm-project<br>⭐ 40,145 (+35)<br>🗒 LLVM<br><br>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.]]></content:encoded>
-    </item>
-    <item>
-      <title>installation steps, usage details, and a taxonomy of user-in…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss7zlgj2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss7zlgj2k</guid>
-      <pubDate>Sun, 06 Sep 2026 20:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[installation steps, usage details, and a taxonomy of user-invoked vs model-invoked skills across engineering and productivity domains. (2/2)]]></description>
-      <content:encoded><![CDATA[installation steps, usage details, and a taxonomy of user-invoked vs model-invoked skills across engineering and productivity domains. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Summary: A concise showcase of &quot;Skills For Rea…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss7y6bd26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss7y6bd26</guid>
-      <pubDate>Sun, 06 Sep 2026 20:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Summary: A concise showcase of "Skills For Real Engineers" by Matt Pocock, offering modular, adaptable agent skills (via Claude Code plugin or skills.sh) to improve alignment, reduce verbosity, and enforce robust feedback loops in software engineering workflows. It includes (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Summary: A concise showcase of "Skills For Real Engineers" by Matt Pocock, offering modular, adaptable agent skills (via Claude Code plugin or skills.sh) to improve alignment, reduce verbosity, and enforce robust feedback loops in software engineering workflows. It includes (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 mattpocock / skills …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss3x3m22f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuss3x3m22f</guid>
-      <pubDate>Sun, 06 Sep 2026 20:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 253,849 (+2,206)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 253,849 (+2,206)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Autistici/Inventati は、グローバルなテロリスト指定を受けても人間性と自由…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuqxiay422n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuqxiay422n</guid>
-      <pubDate>Sun, 06 Sep 2026 19:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Autistici/Inventati は、グローバルなテロリスト指定を受けても人間性と自由・プライバシーを守る方針を貫いてきたが、法・金融的な圧力と自体の安全確保のため、A/I を閉鎖し、提供してきた全サービスを停止する。今後はブログやメール等のデータバックアップ方法を案内する予定だが、今後数日でドメイン障害など予期せぬ問題が起こり得るとしている。Stay human の精神を守りつつ、抵抗と思想は続くと呼びかけている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Autistici/Inventati は、グローバルなテロリスト指定を受けても人間性と自由・プライバシーを守る方針を貫いてきたが、法・金融的な圧力と自体の安全確保のため、A/I を閉鎖し、提供してきた全サービスを停止する。今後はブログやメール等のデータバックアップ方法を案内する予定だが、今後数日でドメイン障害など予期せぬ問題が起こり得るとしている。Stay human の精神を守りつつ、抵抗と思想は続くと呼びかけている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIが停止する――人間のままでいよう。 A/I shuts down – Stay human  🔺 377 💬 3…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuqxckqqp26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muuqxckqqp26</guid>
-      <pubDate>Sun, 06 Sep 2026 19:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIが停止する――人間のままでいよう。<br>A/I shuts down – Stay human<br><br>🔺 377<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIが停止する――人間のままでいよう。<br>A/I shuts down – Stay human<br><br>🔺 377<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>It was part of my subscription, but according to AgentsView …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muuq5yfk5s2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muuq5yfk5s2i</guid>
-      <pubDate>Sun, 06 Sep 2026 19:30:14 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It was part of my subscription, but according to AgentsView th pelican transcript would have cost $4.24 at API prices
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiek3s4emdwg26cjim6dtst7zobn46z2vgh4zs35sdcfdw4vcfsoum" alt="Screenshot of the AgentsView session for "Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle" - a bar at the top shows "71.1k ctx / 17k out, 44 steps, $4.24, gpt-6-astra"" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[It was part of my subscription, but according to AgentsView th pelican transcript would have cost $4.24 at API prices
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiek3s4emdwg26cjim6dtst7zobn46z2vgh4zs35sdcfdw4vcfsoum" alt="Screenshot of the AgentsView session for "Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle" - a bar at the top shows "71.1k ctx / 17k out, 44 steps, $4.24, gpt-6-astra"" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiek3s4emdwg26cjim6dtst7zobn46z2vgh4zs35sdcfdw4vcfsoum" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 aipoch / open-science ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muum3i6vap2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muum3i6vap2l</guid>
-      <pubDate>Sun, 06 Sep 2026 18:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 aipoch / open-science<br>⭐ 3,704 (+145)<br>🗒 TypeScript<br><br>Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible ...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 aipoch / open-science<br>⭐ 3,704 (+145)<br>🗒 TypeScript<br><br>Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible ...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Mastodonは最新情報を時系列で追える、フェディバース全体の誰でもフォロー可能なプラット…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muukb3drs62n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muukb3drs62n</guid>
-      <pubDate>Sun, 06 Sep 2026 17:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Mastodonは最新情報を時系列で追える、フェディバース全体の誰でもフォロー可能なプラットフォームです。アルゴリズムや広告、クリックベイトはなく、アカウントを作成してログインするだけで使えます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Mastodonは最新情報を時系列で追える、フェディバース全体の誰でもフォロー可能なプラットフォームです。アルゴリズムや広告、クリックベイトはなく、アカウントを作成してログインするだけで使えます。]]></content:encoded>
-    </item>
-    <item>
-      <title>qBittorrentはサンドボックスを抜け出して犯罪を犯す。 QBittorrent breaks out of sa…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muukauihyx2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muukauihyx2a</guid>
-      <pubDate>Sun, 06 Sep 2026 17:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[qBittorrentはサンドボックスを抜け出して犯罪を犯す。<br>QBittorrent breaks out of sandbox to commit crimes<br><br>🔺 734<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[qBittorrentはサンドボックスを抜け出して犯罪を犯す。<br>QBittorrent breaks out of sandbox to commit crimes<br><br>🔺 734<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由  🔖 152 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muujdpr3io2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muujdpr3io2y</guid>
-      <pubDate>Sun, 06 Sep 2026 17:28:10 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 coreyhaines31 / marketi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuiq637yk23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muuiq637yk23</guid>
-      <pubDate>Sun, 06 Sep 2026 17:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 coreyhaines31 / marketingskills<br>⭐ 47,293 (+172)<br>🗒 JavaScript<br><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 coreyhaines31 / marketingskills<br>⭐ 47,293 (+172)<br>🗒 JavaScript<br><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muufyg7tb22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muufyg7tb22v</guid>
-      <pubDate>Sun, 06 Sep 2026 16:28:10 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Stremio / stremio-web ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muufeuijxv2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muufeuijxv2f</guid>
-      <pubDate>Sun, 06 Sep 2026 16:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Stremio / stremio-web<br>⭐ 13,338 (+121)<br>🗒 JavaScript<br><br>Stremio - Freedom to Stream]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Stremio / stremio-web<br>⭐ 13,338 (+121)<br>🗒 JavaScript<br><br>Stremio - Freedom to Stream]]></content:encoded>
     </item>
   </channel>
 </rss>
