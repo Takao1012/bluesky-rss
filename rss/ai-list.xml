@@ -5,8 +5,122 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:35:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   著者は、512〜1024バイトのCコードだけで動く「Python風インタプリタ」を挑戦的に作…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muycxgf4ma2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muycxgf4ma2y</guid>
+      <pubDate>Tue, 08 Sep 2026 05:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>著者は、512〜1024バイトのCコードだけで動く「Python風インタプリタ」を挑戦的に作成した過程を紹介している。全体は、最小限の状態管理とグローバル変数で動く簡易 parser/interpreter、そして文字列削減やGNU C89のトリックを駆使したコードゴルフの工夫を詳述しており、最終的に1024バイトに圧縮可能な最小版を完成させた。さらに、実装には定義済みの構文要素（変数、代入、演算、比較、if/while/for、関数定義と呼び出し、インデントブロック、print、コメント）などを含めたPython風の機能が盛り込まれている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>著者は、512〜1024バイトのCコードだけで動く「Python風インタプリタ」を挑戦的に作成した過程を紹介している。全体は、最小限の状態管理とグローバル変数で動く簡易 parser/interpreter、そして文字列削減やGNU C89のトリックを駆使したコードゴルフの工夫を詳述しており、最終的に1024バイトに圧縮可能な最小版を完成させた。さらに、実装には定義済みの構文要素（変数、代入、演算、比較、if/while/for、関数定義と呼び出し、インデントブロック、print、コメント）などを含めたPython風の機能が盛り込まれている。]]></content:encoded>
+    </item>
+    <item>
+      <title>1024バイトでPythonインタプリタを作る Making a Python interpreter in 1024 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muycx6awlg2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muycx6awlg2n</guid>
+      <pubDate>Tue, 08 Sep 2026 05:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[1024バイトでPythonインタプリタを作る<br>Making a Python interpreter in 1024 bytes<br><br>🔺 312<br>💬 27<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[1024バイトでPythonインタプリタを作る<br>Making a Python interpreter in 1024 bytes<br><br>🔺 312<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve never encountered a model quite as spiky as GPT-6 Astra…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muyblxajg22t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muyblxajg22t</guid>
+      <pubDate>Tue, 08 Sep 2026 05:19:09 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I've never encountered a model quite as spiky as GPT-6 Astra. Sometimes it feels like they invented God, other times it feels like they distilled the Gemini Flash model.]]></description>
+      <content:encoded><![CDATA[I've never encountered a model quite as spiky as GPT-6 Astra. Sometimes it feels like they invented God, other times it feels like they distilled the Gemini Flash model.]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT-6 Astra has done incredible things I never thought a mod…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muyblsnsbl26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muyblsnsbl26</guid>
+      <pubDate>Tue, 08 Sep 2026 05:18:47 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[GPT-6 Astra has done incredible things I never thought a model could do. It has also done some of the stupidest things I've ever seen a model do.<br><br>Generally speaking, Fable 5.1 just does what I ask.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy54ufloyp5jktp6r7f42sh5pigvb3zvwfbd2kadtphh2pmcztky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[GPT-6 Astra has done incredible things I never thought a model could do. It has also done some of the stupidest things I've ever seen a model do.<br><br>Generally speaking, Fable 5.1 just does what I ask.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy54ufloyp5jktp6r7f42sh5pigvb3zvwfbd2kadtphh2pmcztky" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidy54ufloyp5jktp6r7f42sh5pigvb3zvwfbd2kadtphh2pmcztky" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Uh...what is this? Just hit with a long Codex /goal run</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muybljswlg2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muybljswlg2i</guid>
+      <pubDate>Tue, 08 Sep 2026 04:58:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Uh...what is this? Just hit with a long Codex /goal run
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiazzizqekac2zius5xf2u5uw2fl7vomwx4tzpbh5glecfqso5ixfy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Uh...what is this? Just hit with a long Codex /goal run
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiazzizqekac2zius5xf2u5uw2fl7vomwx4tzpbh5glecfqso5ixfy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiazzizqekac2zius5xf2u5uw2fl7vomwx4tzpbh5glecfqso5ixfy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📝 新宿駅に「ゴミ箱ロボ」　混雑する構内を自走　JR東日本  🔖 161 ブックマーク 💬 コメント 🔗 記事リ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muy6p2kdbu2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muy6p2kdbu2c</guid>
+      <pubDate>Tue, 08 Sep 2026 04:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 新宿駅に「ゴミ箱ロボ」　混雑する構内を自走　JR東日本<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 新宿駅に「ゴミ箱ロボ」　混雑する構内を自走　JR東日本<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   スイス連邦政府は、Microsoft 365の代替としてオープンソースを導入するパイロット計…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muy4azy7t32y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muy4azy7t32y</guid>
+      <pubDate>Tue, 08 Sep 2026 03:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>スイス連邦政府は、Microsoft 365の代替としてオープンソースを導入するパイロット計画を3,000端末で開始し、2027年末までの完全移行を目指す。軍事部門も高速に移行を進めており、オープンソース「openDesk」への全面移行を2026年10月までに完了させる見込みだ。背景にはデジタル主権の法制化と、外国政府によるデータアクセスリスク・サービス継続性・ライセンス費用の三つの課題がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>スイス連邦政府は、Microsoft 365の代替としてオープンソースを導入するパイロット計画を3,000端末で開始し、2027年末までの完全移行を目指す。軍事部門も高速に移行を進めており、オープンソース「openDesk」への全面移行を2026年10月までに完了させる見込みだ。背景にはデジタル主権の法制化と、外国政府によるデータアクセスリスク・サービス継続性・ライセンス費用の三つの課題がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>スイス連邦政府は3,000台のコンピューターでマイクロソフト製品を別の製品へ切り替えている Switzerland&apos;s …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muy4arxoqi26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muy4arxoqi26</guid>
+      <pubDate>Tue, 08 Sep 2026 03:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スイス連邦政府は3,000台のコンピューターでマイクロソフト製品を別の製品へ切り替えている<br>Switzerland's Federal Government Is Replacing Microsoft on 3k Computers<br><br>🔺 339<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スイス連邦政府は3,000台のコンピューターでマイクロソフト製品を別の製品へ切り替えている<br>Switzerland's Federal Government Is Replacing Microsoft on 3k Computers<br><br>🔺 339<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構  🔖 163 ブ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muy3dk6nlx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muy3dk6nlx2c</guid>
+      <pubDate>Tue, 08 Sep 2026 03:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>新幹線って暇だなあ</title>
+      <link>https://bsky.app/profile/did:plc:g5sossn7abzsesy3fcj2px7x/post/3muxwa3pmrk2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g5sossn7abzsesy3fcj2px7x/post/3muxwa3pmrk2k</guid>
+      <pubDate>Tue, 08 Sep 2026 01:56:47 GMT</pubDate>
+      <author>shi3z (@shi3z.bsky.social)</author>
+      <description><![CDATA[新幹線って暇だなあ]]></description>
+      <content:encoded><![CDATA[新幹線って暇だなあ]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   2003年の社内メールの公開記事で、Bill GatesがWindows Usability…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxvkakjbh2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxvkakjbh2z</guid>
+      <pubDate>Tue, 08 Sep 2026 01:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>2003年の社内メールの公開記事で、Bill GatesがWindows Usabilityのユーザビリティ低下とウェブサイトの使い勝手の悪さについて不満を表明し、Moviemakerのダウンロード手順の煩雑さや更新プロセスの混乱を具体的に批判している。これを受け、関係部門の調整や責任者の明確化を求める議論が社内で展開されていく様子が記録されている。最後には、ウェブとWindows Updateの統合的な解決を誰が担うべきかの責任分担議論へ発展している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>2003年の社内メールの公開記事で、Bill GatesがWindows Usabilityのユーザビリティ低下とウェブサイトの使い勝手の悪さについて不満を表明し、Moviemakerのダウンロード手順の煩雑さや更新プロセスの混乱を具体的に批判している。これを受け、関係部門の調整や責任者の明確化を求める議論が社内で展開されていく様子が記録されている。最後には、ウェブとWindows Updateの統合的な解決を誰が担うべきかの責任分担議論へ発展している。]]></content:encoded>
+    </item>
+    <item>
+      <title>ビル・ゲイツはMovieMaker（2003）をインストールしようとする。 Bill Gates tries to in…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxvjxxzwt2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muxvjxxzwt2y</guid>
+      <pubDate>Tue, 08 Sep 2026 01:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ビル・ゲイツはMovieMaker（2003）をインストールしようとする。<br>Bill Gates tries to install MovieMaker (2003)<br><br>🔺 349<br>💬 62<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ビル・ゲイツはMovieMaker（2003）をインストールしようとする。<br>Bill Gates tries to install MovieMaker (2003)<br><br>🔺 349<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり  🔖 170 ブックマーク 💬 コメント 🔗 記事…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muxrbwamnu2l</link>
@@ -362,120 +476,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 44,715 (+220)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 44,715 (+220)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></content:encoded>
-    </item>
-    <item>
-      <title>When everyone is releasing big models, OpenBMB keeps shippin…</title>
-      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3muwo2uga5c2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3muwo2uga5c2d</guid>
-      <pubDate>Mon, 07 Sep 2026 13:58:01 GMT</pubDate>
-      <author>Adina Yakup (@adinayakup.bsky.social)</author>
-      <description><![CDATA[When everyone is releasing big models, OpenBMB keeps shipping small but strong one. <br><br>Here is the latest one: MiniCPM5-2B 🔥<br>huggingface.co/openbmb/Mini...<br><br>- Dense 2B <br>- Full data pipeline open as well: web, code, agent, RL<br>- 131 context <br>- Apache 2.0
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[When everyone is releasing big models, OpenBMB keeps shipping small but strong one. <br><br>Here is the latest one: MiniCPM5-2B 🔥<br>huggingface.co/openbmb/Mini...<br><br>- Dense 2B <br>- Full data pipeline open as well: web, code, agent, RL<br>- 131 context <br>- Apache 2.0
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreiccwbwyvd3pfgb7jsjbfna37srp45yvz2qoz65ov6ltpamindv2wu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncyzi7l2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncyzi7l2k</guid>
-      <pubDate>Mon, 07 Sep 2026 13:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態でもマイク音声を録音・保存してネット接続再開時にアップロードする、という調査結果がGamers Nexusによって報告されました。研究者はwebOSのリモートコード実行脆弱性も指摘し、推奨としてテレビをインターネットから切断して外部デバイスを使うべきと述べています。LGは本件へコメントしていません。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>LGのスマートテレビがネットワークを絶えずスキャンし、近隣デバイスを特定し、画面がオフの状態でもマイク音声を録音・保存してネット接続再開時にアップロードする、という調査結果がGamers Nexusによって報告されました。研究者はwebOSのリモートコード実行脆弱性も指摘し、推奨としてテレビをインターネットから切断して外部デバイスを使うべきと述べています。LGは本件へコメントしていません。]]></content:encoded>
-    </item>
-    <item>
-      <title>LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した LG…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncovw462n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwncovw462n</guid>
-      <pubDate>Mon, 07 Sep 2026 13:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した<br>LG smart TVs caught logging audio with screen off and snooping on local devices<br><br>🔺 492<br>💬 67<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[LGのスマートテレビが画面をオフにした状態で音声を記録し、同一ネットワーク上のデバイスを監視していることが発覚した<br>LG smart TVs caught logging audio with screen off and snooping on local devices<br><br>🔺 492<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 mksglu / context-mode ⭐ 20,545 (+85) 🗒 TypeScript  Conte…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwlrsycxq2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwlrsycxq2z</guid>
-      <pubDate>Mon, 07 Sep 2026 13:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 mksglu / context-mode<br>⭐ 20,545 (+85)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></description>
-      <content:encoded><![CDATA[📦 mksglu / context-mode<br>⭐ 20,545 (+85)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ  🔖 152 ブックマーク 💬 コメント…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwj2fcnav2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwj2fcnav2v</guid>
-      <pubDate>Mon, 07 Sep 2026 12:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 bytedance / deer-flow ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwiguhx4e2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muwiguhx4e2a</guid>
-      <pubDate>Mon, 07 Sep 2026 12:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 81,682 (+188)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks ...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 bytedance / deer-flow<br>⭐ 81,682 (+188)<br>🗒 Python<br><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks ...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgmhfm6y2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgmhfm6y2e</guid>
-      <pubDate>Mon, 07 Sep 2026 11:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を後で冷却して閾値以下に戻す“overshoot”戦略が必要になると報告した。ピーク温度を抑え続け、超過期間を短くすることが最重要で、温室効果ガスの排出削減と大規模な炭素除去技術の組み合わせが求められる一方、数十年にわたる気候災害の増加や生態系の崩壊リスクは避けられないと警告している。政府は適応策を強化し、炭素除去の新たな手法開発も推進する必要がある。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>国連環境計画は、地球が1.5度という安全閾値を超えるのを避けられなくなっており、超過した分を後で冷却して閾値以下に戻す“overshoot”戦略が必要になると報告した。ピーク温度を抑え続け、超過期間を短くすることが最重要で、温室効果ガスの排出削減と大規模な炭素除去技術の組み合わせが求められる一方、数十年にわたる気候災害の増加や生態系の崩壊リスクは避けられないと警告している。政府は適応策を強化し、炭素除去の新たな手法開発も推進する必要がある。]]></content:encoded>
-    </item>
-    <item>
-      <title>国連は、地球温暖化が1.5度の限界を超えると述べている。 Global warming will exceed 1.5-…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgm7bek32d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muwgm7bek32d</guid>
-      <pubDate>Mon, 07 Sep 2026 11:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[国連は、地球温暖化が1.5度の限界を超えると述べている。<br>Global warming will exceed 1.5-degree limit, UN says<br><br>🔺 336<br>💬 40<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[国連は、地球温暖化が1.5度の限界を超えると述べている。<br>Global warming will exceed 1.5-degree limit, UN says<br><br>🔺 336<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)  🔖…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwfozsb6v2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muwfozsb6v2n</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近 (1/5)<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I can’t even make this up</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muwbuts4fl2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muwbuts4fl2t</guid>
-      <pubDate>Mon, 07 Sep 2026 10:17:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[I can’t even make this up
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibb4mshrek4pxry2sllfvzkkrmpt4oppgdqkwfpbdtx332g5bwmti" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I can’t even make this up
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibb4mshrek4pxry2sllfvzkkrmpt4oppgdqkwfpbdtx332g5bwmti" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibb4mshrek4pxry2sllfvzkkrmpt4oppgdqkwfpbdtx332g5bwmti" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Replies to this are full of devs who have only ever worked o…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muwbumn45n2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3muwbumn45n2p</guid>
-      <pubDate>Mon, 07 Sep 2026 10:12:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[Replies to this are full of devs who have only ever worked on code bases alone, all confidently telling me how wrong I am]]></description>
-      <content:encoded><![CDATA[Replies to this are full of devs who have only ever worked on code bases alone, all confidently telling me how wrong I am]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   インターネットアーカイブは「全知識への普遍的アクセス」を目指し、世界中の好奇心ある学習者のた…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muw7vkvsjj2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muw7vkvsjj2z</guid>
-      <pubDate>Mon, 07 Sep 2026 09:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>インターネットアーカイブは「全知識への普遍的アクセス」を目指し、世界中の好奇心ある学習者のために無料で公開している。購読費や広告に頼らず自前のインフラを運用・維持しており、現在は210ペタバイトの知識を提供するが、インフラ維持のための資金が必要。9月には月額寄付25ドル以上の新規寄付を2:1で倍率追加するマッチングキャンペーンを実施、寄付は年間を通じて安定運用の力となる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>インターネットアーカイブは「全知識への普遍的アクセス」を目指し、世界中の好奇心ある学習者のために無料で公開している。購読費や広告に頼らず自前のインフラを運用・維持しており、現在は210ペタバイトの知識を提供するが、インフラ維持のための資金が必要。9月には月額寄付25ドル以上の新規寄付を2:1で倍率追加するマッチングキャンペーンを実施、寄付は年間を通じて安定運用の力となる。]]></content:encoded>
     </item>
   </channel>
 </rss>
