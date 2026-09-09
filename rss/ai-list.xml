@@ -5,8 +5,94 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:45:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Earlier today the NSA issued a cybersecurity advisory, warni…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv2agn5gky2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv2agn5gky2z</guid>
+      <pubDate>Wed, 09 Sep 2026 00:04:28 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Earlier today the NSA issued a cybersecurity advisory, warning of China-based AI companies stealing U.S. frontier models
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichzlzqvu2fqx6mehkpvwczqgaunzppwloziin6u2uiqacrteg4vu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Earlier today the NSA issued a cybersecurity advisory, warning of China-based AI companies stealing U.S. frontier models
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichzlzqvu2fqx6mehkpvwczqgaunzppwloziin6u2uiqacrteg4vu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreichzlzqvu2fqx6mehkpvwczqgaunzppwloziin6u2uiqacrteg4vu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wrote up my thoughts on the whole OpenAI Navier–Stokes Mille…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mv2a4quhpk2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mv2a4quhpk2d</guid>
+      <pubDate>Tue, 08 Sep 2026 23:59:11 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Wrote up my thoughts on the whole OpenAI Navier–Stokes Millennium Prize Problem story, and how it highlights the still confusing question of what using my data "to improve model performance" actually means<br>simonwillison.net/2026/Sep/8/o...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreial6472miywwt3s66pb7sivfsxv2ynxldqiupvaja5fs347urceja" alt="This also highlights one of my ongoing frustrations about how all of this works. When an AI lab says that my data is "used to improve model performance", what does that actually mean?
+
+My two favourite hypothetical questions regarding this used to be:
+
+    If I'm running Codex and one of my API keys accidentally gets consumed in the context, what are the chances that someone else might ask for an API key in the future and get mine back? (I asked someone at OpenAI once and they called this the "regurgitation" problem and assured me that they take great pains to prevent that... but wouldn't describe how.)
+    If I brainstorm with ChatGPT about potential new directions for my company, what's the chance that information might be exposed to a competitor in six months' time who asks "what might company X plan to do next"?
+
+My new preferred hypothetical for this is:
+
+    If I use ChatGPT to help me partially solve a Millennium Prize problem, what are the chances that my work will influence training such that a later model helps someone else solve it first?
+" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Wrote up my thoughts on the whole OpenAI Navier–Stokes Millennium Prize Problem story, and how it highlights the still confusing question of what using my data "to improve model performance" actually means<br>simonwillison.net/2026/Sep/8/o...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreial6472miywwt3s66pb7sivfsxv2ynxldqiupvaja5fs347urceja" alt="This also highlights one of my ongoing frustrations about how all of this works. When an AI lab says that my data is "used to improve model performance", what does that actually mean?
+
+My two favourite hypothetical questions regarding this used to be:
+
+    If I'm running Codex and one of my API keys accidentally gets consumed in the context, what are the chances that someone else might ask for an API key in the future and get mine back? (I asked someone at OpenAI once and they called this the "regurgitation" problem and assured me that they take great pains to prevent that... but wouldn't describe how.)
+    If I brainstorm with ChatGPT about potential new directions for my company, what's the chance that information might be exposed to a competitor in six months' time who asks "what might company X plan to do next"?
+
+My new preferred hypothetical for this is:
+
+    If I use ChatGPT to help me partially solve a Millennium Prize problem, what are the chances that my work will influence training such that a later model helps someone else solve it first?
+" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreial6472miywwt3s66pb7sivfsxv2ynxldqiupvaja5fs347urceja" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   AlphaGenome Atlasは、ヒトゲノムの全90億個の一塩基多型の影響を事前計算した…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv27cfxrhe2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv27cfxrhe2a</guid>
+      <pubDate>Tue, 08 Sep 2026 23:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AlphaGenome Atlasは、ヒトゲノムの全90億個の一塩基多型の影響を事前計算した1ペタバイト級データセットを提供し、AVIスコアで coding/non-coding両方の予測を統合して研究優先度を迅速に絞り込めるようにした新しいデータベースです。研究現場では希少疾患の原因変異特定や複雑性状の関連遺伝子探索などへの活用が進んでおり、非コード領域の影響を見つける能力が研究効率を高めています。現在、コーディング・非コーディングを問わず使える直感的なウェブ portalを通じて誰でもアクセス可能になっています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AlphaGenome Atlasは、ヒトゲノムの全90億個の一塩基多型の影響を事前計算した1ペタバイト級データセットを提供し、AVIスコアで coding/non-coding両方の予測を統合して研究優先度を迅速に絞り込めるようにした新しいデータベースです。研究現場では希少疾患の原因変異特定や複雑性状の関連遺伝子探索などへの活用が進んでおり、非コード領域の影響を見つける能力が研究効率を高めています。現在、コーディング・非コーディングを問わず使える直感的なウェブ portalを通じて誰でもアクセス可能になっています。]]></content:encoded>
+    </item>
+    <item>
+      <title>グーグルのディープマインド、AlphaGenome Atlasを公開 Google DeepMind Releases …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv27c7u7h42c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv27c7u7h42c</guid>
+      <pubDate>Tue, 08 Sep 2026 23:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[グーグルのディープマインド、AlphaGenome Atlasを公開<br>Google DeepMind Releases AlphaGenome Atlas<br><br>🔺 474<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[グーグルのディープマインド、AlphaGenome Atlasを公開<br>Google DeepMind Releases AlphaGenome Atlas<br><br>🔺 474<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Just one of those days</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv253rk7nd26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv253rk7nd26</guid>
+      <pubDate>Tue, 08 Sep 2026 22:52:22 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Just one of those days
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidwkmqi6zgexdxptssn4y32uep7v2tcqnes55l6d2rext573c2s5y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Just one of those days
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidwkmqi6zgexdxptssn4y32uep7v2tcqnes55l6d2rext573c2s5y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidwkmqi6zgexdxptssn4y32uep7v2tcqnes55l6d2rext573c2s5y" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>That was fast</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23hsrk2m24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23hsrk2m24</guid>
+      <pubDate>Tue, 08 Sep 2026 22:26:25 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[That was fast
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibs6iwdnfnml5nkwnurkyp6h45eqsxbcg3qv7yzga3gt75dcledmi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[That was fast
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibs6iwdnfnml5nkwnurkyp6h45eqsxbcg3qv7yzga3gt75dcledmi" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibs6iwdnfnml5nkwnurkyp6h45eqsxbcg3qv7yzga3gt75dcledmi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   - 著者は、2024年3月のGoogleの新規ドメイン対策「Google Jail」により、…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muzylvae332o</link>
@@ -26,6 +112,15 @@
       <content:encoded><![CDATA[独立系ウィキ向けの新しい「Google Jail」が登場した。<br>There's a new "Google Jail" for independent wikis<br><br>🔺 508<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
     </item>
     <item>
+      <title>My YouTube channel has has over 14.5 million watch hours.  T…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23ho2gin2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23ho2gin2q</guid>
+      <pubDate>Tue, 08 Sep 2026 21:38:49 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[My YouTube channel has has over 14.5 million watch hours.<br><br>That's roughly equivalent of 30 Super Bowl commercials.]]></description>
+      <content:encoded><![CDATA[My YouTube channel has has over 14.5 million watch hours.<br><br>That's roughly equivalent of 30 Super Bowl commercials.]]></content:encoded>
+    </item>
+    <item>
       <title>The 5 commands to use in GitHub CLI (token-free) 👀 </title>
       <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3muzy3fgcpv2n</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3muzy3fgcpv2n</guid>
@@ -33,6 +128,24 @@
       <author>GitHub (@github.com)</author>
       <description><![CDATA[The 5 commands to use in GitHub CLI (token-free) 👀 ]]></description>
       <content:encoded><![CDATA[The 5 commands to use in GitHub CLI (token-free) 👀 ]]></content:encoded>
+    </item>
+    <item>
+      <title>Pardon my absolute trash gameplay. I&apos;m working with one hand…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23hhvzrr26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23hhvzrr26</guid>
+      <pubDate>Tue, 08 Sep 2026 21:22:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Pardon my absolute trash gameplay. I'm working with one hand here https://x.com/theo/status/2096027559826006211]]></description>
+      <content:encoded><![CDATA[Pardon my absolute trash gameplay. I'm working with one hand here https://x.com/theo/status/2096027559826006211]]></content:encoded>
+    </item>
+    <item>
+      <title>Astra was able to get Super Smash Bros Melee compiled for Ma…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23h7h5pe2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mv23h7h5pe2g</guid>
+      <pubDate>Tue, 08 Sep 2026 21:21:03 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[Astra was able to get Super Smash Bros Melee compiled for Mac OS, running at 120 FPS with higher resolutions and upscalable textures. Took about 6 hours in a loop.<br><br>We live in wild times.<br><br>QT: https://twitter.com/i/status/2097087490490323440]]></description>
+      <content:encoded><![CDATA[Astra was able to get Super Smash Bros Melee compiled for Mac OS, running at 120 FPS with higher resolutions and upscalable textures. Took about 6 hours in a loop.<br><br>We live in wild times.<br><br>QT: https://twitter.com/i/status/2097087490490323440]]></content:encoded>
     </item>
     <item>
       <title>provides installation options, usage with Cursor, and guidan…</title>
@@ -378,87 +491,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[私は1990年代の認証局のRSA鍵を素因数分解した。<br>I've factored the RSA keys of a Certificate Authority from the 90s<br><br>🔺 407<br>💬 20<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[私は1990年代の認証局のRSA鍵を素因数分解した。<br>I've factored the RSA keys of a Certificate Authority from the 90s<br><br>🔺 407<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Codex, Cursor, OpenCode, etc.). It offers a guided install, …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4fmdqpq2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4fmdqpq2j</guid>
-      <pubDate>Tue, 08 Sep 2026 13:19:51 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[Codex, Cursor, OpenCode, etc.). It offers a guided install, memory persistence, security tooling (AgentShield), and support for self-hosted compute, while stressing installation from official sources and per-harness platform guidance. (2/2)]]></description>
-      <content:encoded><![CDATA[Codex, Cursor, OpenCode, etc.). It offers a guided install, memory persistence, security tooling (AgentShield), and support for self-hosted compute, while stressing installation from official sources and per-harness platform guidance. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   ECC is an open-source agent harness system tha…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4fj4n362g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4fj4n362g</guid>
-      <pubDate>Tue, 08 Sep 2026 13:19:46 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>ECC is an open-source agent harness system that provides a coordinated workflow (plan, test, implement, review, verify, remember, improve) with 68 agents, 286 skills, and 94 commands to optimize planning, testing, security, and automation across multiple harnesses (Claude Code, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an open-source agent harness system that provides a coordinated workflow (plan, test, implement, review, verify, remember, improve) with 68 agents, 286 skills, and 94 commands to optimize planning, testing, security, and automation across multiple harnesses (Claude Code, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 affaan-m / ECC ⭐ 253…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4c7qdw526</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3muz4c7qdw526</guid>
-      <pubDate>Tue, 08 Sep 2026 13:17:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 253,653 (+1,897)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 253,653 (+1,897)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita  🔖 170 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muyzjfer642v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muyzjfer642v</guid>
-      <pubDate>Tue, 08 Sep 2026 12:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita<br><br>🔖 170 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita<br><br>🔖 170 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>So far the vibes feel better, at least for my own personal p…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muyyqitmcc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muyyqitmcc26</guid>
-      <pubDate>Tue, 08 Sep 2026 12:14:24 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[So far the vibes feel better, at least for my own personal prompting style]]></description>
-      <content:encoded><![CDATA[So far the vibes feel better, at least for my own personal prompting style]]></content:encoded>
-    </item>
-    <item>
-      <title>The point isn&apos;t the quality of the answer so much as &quot;I didn…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muyyp5t2ik26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muyyp5t2ik26</guid>
-      <pubDate>Tue, 08 Sep 2026 12:13:39 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The point isn't the quality of the answer so much as "I didn't know this so I'm relaying unverified information from someone else, as opposed to just not saying anything at all"]]></description>
-      <content:encoded><![CDATA[The point isn't the quality of the answer so much as "I didn't know this so I'm relaying unverified information from someone else, as opposed to just not saying anything at all"]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:    Jellyfin 12.0は安定版としてリリース。データベースの大規模な移行と新機能の導入…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muyx3a4lmz2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muyx3a4lmz2o</guid>
-      <pubDate>Tue, 08 Sep 2026 11:44:37 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br> Jellyfin 12.0は安定版としてリリース。データベースの大規模な移行と新機能の導入により、プレイリスト・コレクションのストレージ方式が変更され、書籍・コミックのサポートがサーバー側へ統合されました。アップグレード時はバックアップ必須で、既知の注意点（先行バージョン要アップグレード、ユーザー名の大文字小文字差異、初回起動時の長時間処理、サードパーティプラグインの更新など）を確認してください。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br> Jellyfin 12.0は安定版としてリリース。データベースの大規模な移行と新機能の導入により、プレイリスト・コレクションのストレージ方式が変更され、書籍・コミックのサポートがサーバー側へ統合されました。アップグレード時はバックアップ必須で、既知の注意点（先行バージョン要アップグレード、ユーザー名の大文字小文字差異、初回起動時の長時間処理、サードパーティプラグインの更新など）を確認してください。]]></content:encoded>
-    </item>
-    <item>
-      <title>ジェリーフィン 12.0 Jellyfin 12.0  🔺 416 💬 26 🔗 HN Post | Articl…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muyx2yrdaf2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3muyx2yrdaf2a</guid>
-      <pubDate>Tue, 08 Sep 2026 11:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ジェリーフィン 12.0<br>Jellyfin 12.0<br><br>🔺 416<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ジェリーフィン 12.0<br>Jellyfin 12.0<br><br>🔺 416<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった  🔖 154 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muyssmdic72k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3muyssmdic72k</guid>
-      <pubDate>Tue, 08 Sep 2026 10:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
