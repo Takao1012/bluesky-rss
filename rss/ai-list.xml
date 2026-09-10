@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:27:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   - 記事は、OpenAIの非ソフィック群の発表に触れる中で著者が、訓練データへのアクセス可能…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv6zkds22o2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv6zkds22o2d</guid>
+      <pubDate>Thu, 10 Sep 2026 21:44:50 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- 記事は、OpenAIの非ソフィック群の発表に触れる中で著者が、訓練データへのアクセス可能性や推論過程への影響について不透明さを指摘した体験を述べている。  <br>- Mark Sellkeの答えは「ChatGPTとの会話は起こっていない」とされ、質問の全体には十分な説明がなく不信感を表明している。  <br>- 現在のOpenAIの説明では「特定のユーザデータはアクセスされていない」とする一方で、「識別不能化データがモデル改善に役立つ可能性は排除できない」としている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- 記事は、OpenAIの非ソフィック群の発表に触れる中で著者が、訓練データへのアクセス可能性や推論過程への影響について不透明さを指摘した体験を述べている。  <br>- Mark Sellkeの答えは「ChatGPTとの会話は起こっていない」とされ、質問の全体には十分な説明がなく不信感を表明している。  <br>- 現在のOpenAIの説明では「特定のユーザデータはアクセスされていない」とする一方で、「識別不能化データがモデル改善に役立つ可能性は排除できない」としている。]]></content:encoded>
+    </item>
+    <item>
+      <title>研究者が未発表の数学をOpenAIに任せてよいかどうかについて、さらなる疑問が出ている More questions a…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv6zk24kd42g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv6zk24kd42g</guid>
+      <pubDate>Thu, 10 Sep 2026 21:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[研究者が未発表の数学をOpenAIに任せてよいかどうかについて、さらなる疑問が出ている<br>More questions about whether researchers can trust OpenAI with unpublished math<br><br>🔺 467<br>💬 111<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[研究者が未発表の数学をOpenAIに任せてよいかどうかについて、さらなる疑問が出ている<br>More questions about whether researchers can trust OpenAI with unpublished math<br><br>🔺 467<br>💬 111<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 nashsu / llm_wiki ⭐ 17,820 (+94) 🗒 TypeScript  LLM Wiki …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mv6xzdoucf2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mv6xzdoucf2z</guid>
+      <pubDate>Thu, 10 Sep 2026 21:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 nashsu / llm_wiki<br>⭐ 17,820 (+94)<br>🗒 TypeScript<br><br>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally build...]]></description>
+      <content:encoded><![CDATA[📦 nashsu / llm_wiki<br>⭐ 17,820 (+94)<br>🗒 TypeScript<br><br>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally build...]]></content:encoded>
+    </item>
     <item>
       <title>unified interface and extensive automation/tools. It include…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mv6updsztx23</link>
@@ -438,33 +465,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>Visaと Mastercard はカード発行会社や銀行ではなく、カード取引を仲介するネットワーク本体である。取引の際の通信と決済のルーティング、決済金額の清算、ネットワークのインセンティブ設計と規約づくりを担い、手数料構造（インターチェンジやネットワーク手数料）を通じて加盟各主体を結びつけている。要点は、カードの発行・決済処理の実務は発行会社や決済処理業者が担当し、ネットワークはそれらをつなぐインフラと規約を提供するという点である。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>Visaと Mastercard はカード発行会社や銀行ではなく、カード取引を仲介するネットワーク本体である。取引の際の通信と決済のルーティング、決済金額の清算、ネットワークのインセンティブ設計と規約づくりを担い、手数料構造（インターチェンジやネットワーク手数料）を通じて加盟各主体を結びつけている。要点は、カードの発行・決済処理の実務は発行会社や決済処理業者が担当し、ネットワークはそれらをつなぐインフラと規約を提供するという点である。]]></content:encoded>
-    </item>
-    <item>
-      <title>VisaとMastercardは何をしているのか？カードネットワーク入門 What do Visa and Master…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv556kh6he2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mv556kh6he2n</guid>
-      <pubDate>Thu, 10 Sep 2026 03:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[VisaとMastercardは何をしているのか？カードネットワーク入門<br>What do Visa and Mastercard do? An intro to card networks<br><br>🔺 418<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[VisaとMastercardは何をしているのか？カードネットワーク入門<br>What do Visa and Mastercard do? An intro to card networks<br><br>🔺 418<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一　masakazu ur…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mv54bfcady2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mv54bfcady2k</guid>
-      <pubDate>Thu, 10 Sep 2026 03:28:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一　masakazu urabe<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一　masakazu urabe<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円　「換算レート円安すぎ」の声も  🔖 157 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mv4ywcxkvo2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mv4ywcxkvo2c</guid>
-      <pubDate>Thu, 10 Sep 2026 02:28:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円　「換算レート円安すぎ」の声も<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円　「換算レート円安すぎ」の声も<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
