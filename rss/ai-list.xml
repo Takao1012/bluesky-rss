@@ -5,8 +5,100 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:18:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog  …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcuoicrz62c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcuoicrz62c</guid>
+      <pubDate>Sat, 12 Sep 2026 10:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcsaaeefe2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcsaaeefe2d</guid>
+      <pubDate>Sat, 12 Sep 2026 09:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時に Google が実URLへリダイレクトする仕組みに移行中。goto の実URLはレスポンスの Location ヘッダにあり、offline では解読できず、読み取るには HEAD 要求が必要。これにより全 SERP スクレイピングのコストと複雑さが上がり、Autom.dev は自社APIで最終URLを返すよう対応を完了しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時に Google が実URLへリダイレクトする仕組みに移行中。goto の実URLはレスポンスの Location ヘッダにあり、offline では解読できず、読み取るには HEAD 要求が必要。これにより全 SERP スクレイピングのコストと複雑さが上がり、Autom.dev は自社APIで最終URLを返すよう対応を完了しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>google.com/goto: Googleのスクレイピング対策の更新 google.com/goto: Google…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcs7zep642d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcs7zep642d</guid>
+      <pubDate>Sat, 12 Sep 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[google.com/goto: Googleのスクレイピング対策の更新<br>google.com/goto: Google's anti-scraping update<br><br>🔺 420<br>💬 54<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[google.com/goto: Googleのスクレイピング対策の更新<br>google.com/goto: Google's anti-scraping update<br><br>🔺 420<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcnxpcwvw2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcnxpcwvw2v</guid>
+      <pubDate>Sat, 12 Sep 2026 08:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>:)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcoe4n3kz2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcoe4n3kz2q</guid>
+      <pubDate>Sat, 12 Sep 2026 08:24:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[:)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[:)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>We&apos;re over an hour late 😭</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcodv26y326</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcodv26y326</guid>
+      <pubDate>Sat, 12 Sep 2026 08:07:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[We're over an hour late 😭
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidna7e3dioxqfs7ouqu5caapujtxl6bjft36cbdqald43ap3yp5ou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[We're over an hour late 😭
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidna7e3dioxqfs7ouqu5caapujtxl6bjft36cbdqald43ap3yp5ou" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidna7e3dioxqfs7ouqu5caapujtxl6bjft36cbdqald43ap3yp5ou" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ご依頼の「この記事」を要約するには、本文が必要です。記事の本文を提供いただけますか？またはリ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcljp6cok2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcljp6cok2n</guid>
+      <pubDate>Sat, 12 Sep 2026 07:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ご依頼の「この記事」を要約するには、本文が必要です。記事の本文を提供いただけますか？またはリンクを教えてください。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ご依頼の「この記事」を要約するには、本文が必要です。記事の本文を提供いただけますか？またはリンクを教えてください。]]></content:encoded>
+    </item>
+    <item>
+      <title>環境保護庁はデータセンターの汚染に関する公開審査規則を廃止する予定です。 The EPA is planning to …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcljkgxfb2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcljkgxfb2y</guid>
+      <pubDate>Sat, 12 Sep 2026 07:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[環境保護庁はデータセンターの汚染に関する公開審査規則を廃止する予定です。<br>The EPA is planning to scrap public review rules for data center pollution<br><br>🔺 447<br>💬 45<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[環境保護庁はデータセンターの汚染に関する公開審査規則を廃止する予定です。<br>The EPA is planning to scrap public review rules for data center pollution<br><br>🔺 447<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>This means we&apos;re getting a second reset, right?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvckyo53ba27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvckyo53ba27</guid>
+      <pubDate>Sat, 12 Sep 2026 07:12:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[This means we're getting a second reset, right?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaiyi6o5bf6h3udnbkiuusqothqp2wk34qtyljsch55nq56mbfiry" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavwm2wfb2terzuza35qtqw4xxj3garctwsphvvnjrty65zlcuiwu" alt="Quote Tweet: https://twitter.com/i/status/2098612714704891959" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This means we're getting a second reset, right?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaiyi6o5bf6h3udnbkiuusqothqp2wk34qtyljsch55nq56mbfiry" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiavwm2wfb2terzuza35qtqw4xxj3garctwsphvvnjrty65zlcuiwu" alt="Quote Tweet: https://twitter.com/i/status/2098612714704891959" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaiyi6o5bf6h3udnbkiuusqothqp2wk34qtyljsch55nq56mbfiry" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>現在は「正しいインストール数」よりも不正なトラフィック対策を優先して再設定中、以後の対応を報告予定とする。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcetak6ol2k</link>
@@ -413,87 +505,6 @@ Claude spotted this as a potential opening: if it published its own package unde
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>9つの主要ストリーミングサービスの月額が、2021年3月の合計$95.91から現在$154.41へと61%上昇し、年間で$702の増加となった。各サービスの旗艦プランごとに値上げを記録しており、NetflixやApple TV+などはいくつかのサービスで一度に複数回の値上げを確認できる。理由は推測せず、公開価格の変化を dated record として追跡している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>9つの主要ストリーミングサービスの月額が、2021年3月の合計$95.91から現在$154.41へと61%上昇し、年間で$702の増加となった。各サービスの旗艦プランごとに値上げを記録しており、NetflixやApple TV+などはいくつかのサービスで一度に複数回の値上げを確認できる。理由は推測せず、公開価格の変化を dated record として追跡している。]]></content:encoded>
-    </item>
-    <item>
-      <title>同じ9つのストリーミングサービスは、2021年に比べて年間で702ドル高くなっている。 The same nine st…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvavuv24gk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvavuv24gk2n</guid>
-      <pubDate>Fri, 11 Sep 2026 15:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[同じ9つのストリーミングサービスは、2021年に比べて年間で702ドル高くなっている。<br>The same nine streaming subscriptions cost $702/year more than in 2021<br><br>🔺 379<br>💬 59<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[同じ9つのストリーミングサービスは、2021年に比べて年間で702ドル高くなっている。<br>The same nine streaming subscriptions cost $702/year more than in 2021<br><br>🔺 379<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🧳 Bring Your Own AI Models to GitHub Copilot in VS Code  Us…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvaujltnvs2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvaujltnvs2r</guid>
-      <pubDate>Fri, 11 Sep 2026 15:20:16 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🧳 Bring Your Own AI Models to GitHub Copilot in VS Code<br><br>Use your Azure-hosted AI models with GitHub Copilot in VS Code. Bring Your Own Key (BYOK) lets you connect models from Microsoft Foundry, choose which models appear in Copilot, and use the right one for your coding tasks. aka.ms/byok-vscode]]></description>
-      <content:encoded><![CDATA[🧳 Bring Your Own AI Models to GitHub Copilot in VS Code<br><br>Use your Azure-hosted AI models with GitHub Copilot in VS Code. Bring Your Own Key (BYOK) lets you connect models from Microsoft Foundry, choose which models appear in Copilot, and use the right one for your coding tasks. aka.ms/byok-vscode]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 melgarafael / DeskcommC…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvauectnwn26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvauectnwn26</guid>
-      <pubDate>Fri, 11 Sep 2026 15:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 melgarafael / DeskcommCRM<br>⭐ 1,080 (+126)<br>🗒 TypeScript<br><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, L...]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 melgarafael / DeskcommCRM<br>⭐ 1,080 (+126)<br>🗒 TypeScript<br><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, L...]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  nashsu/llm_wiki LLM Wikiは、ドキュメントから構造化された相互リンク…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvatgu44mt2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvatgu44mt2e</guid>
-      <pubDate>Fri, 11 Sep 2026 15:00:50 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>nashsu/llm_wiki<br>LLM Wikiは、ドキュメントから構造化された相互リンク形式の知識ベースを自動的に構築し、維持するデスクトップアプリケーションです。<br>従来のRAGとは異なり、LLMを用いて永続的なwikiを漸進的に作成し、情報を最新の状態に保ちます。<br>Andrej KarpathyのLLM Wikiパターンをベースに、個人用知識ベースの効率的な自動構築を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>nashsu/llm_wiki<br>LLM Wikiは、ドキュメントから構造化された相互リンク形式の知識ベースを自動的に構築し、維持するデスクトップアプリケーションです。<br>従来のRAGとは異なり、LLMを用いて永続的なwikiを漸進的に作成し、情報を最新の状態に保ちます。<br>Andrej KarpathyのLLM Wikiパターンをベースに、個人用知識ベースの効率的な自動構築を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  armory3d/armorpaint 3D PBRテクスチャペインティングソフトであるA…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvatd7kv322x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvatd7kv322x</guid>
-      <pubDate>Fri, 11 Sep 2026 14:58:48 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>armory3d/armorpaint<br>3D PBRテクスチャペインティングソフトであるArmorPaintの開発を目的としたリポジトリです。<br>開発者向けに公開されており、Windows、Linux、macOS、Android、iOS、WASMなど、多様なプラットフォームでのビルドと動作を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>armory3d/armorpaint<br>3D PBRテクスチャペインティングソフトであるArmorPaintの開発を目的としたリポジトリです。<br>開発者向けに公開されており、Windows、Linux、macOS、Android、iOS、WASMなど、多様なプラットフォームでのビルドと動作を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  vastsa/PI-Desktop PI-Desktopは、AIコーディングエージェント向…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvat3uh5yj2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvat3uh5yj2s</guid>
-      <pubDate>Fri, 11 Sep 2026 14:54:41 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>vastsa/PI-Desktop<br>PI-Desktopは、AIコーディングエージェント向けのローカルファーストなデスクトップワークスペースです。<br>特定のエディタやターミナルに依存せず、任意のローカルプロジェクトでエージェントを活用できます。<br>OpenAIやAnthropic、ローカルモデルなどのモデルを自由に選択して利用可能です。<br>プロジェクト、会話、ファイル管理などを一つのワークスペースに統合し、ユーザーがコントロールを維持しながらAIによる開発を行える環境を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>vastsa/PI-Desktop<br>PI-Desktopは、AIコーディングエージェント向けのローカルファーストなデスクトップワークスペースです。<br>特定のエディタやターミナルに依存せず、任意のローカルプロジェクトでエージェントを活用できます。<br>OpenAIやAnthropic、ローカルモデルなどのモデルを自由に選択して利用可能です。<br>プロジェクト、会話、ファイル管理などを一つのワークスペースに統合し、ユーザーがコントロールを維持しながらAIによる開発を行える環境を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  melgarafael/DeskcommCRM WhatsApp向けのオープンソースなAI…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvat2m4m7v2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvat2m4m7v2o</guid>
-      <pubDate>Fri, 11 Sep 2026 14:53:59 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>melgarafael/DeskcommCRM<br>WhatsApp向けのオープンソースなAI搭載営業CRMです。<br>AIエージェントによる接客や販売の自動化を実現し、自前サーバーで運用することで月額費用なしで利用できます。<br>KommoやIntercomなどの代替ツールとして提供されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>melgarafael/DeskcommCRM<br>WhatsApp向けのオープンソースなAI搭載営業CRMです。<br>AIエージェントによる接客や販売の自動化を実現し、自前サーバーで運用することで月額費用なしで利用できます。<br>KommoやIntercomなどの代替ツールとして提供されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  nab138/iloader SideStoreなどのアプリのインストールや、ペアリングフ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvasvd5a3n2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvasvd5a3n2o</guid>
-      <pubDate>Fri, 11 Sep 2026 14:51:02 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>nab138/iloader<br>SideStoreなどのアプリのインストールや、ペアリングファイルのインポートを簡単に行うためのツールであるiloaderを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>nab138/iloader<br>SideStoreなどのアプリのインストールや、ペアリングファイルのインポートを簡単に行うためのツールであるiloaderを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>CLI for managing projects, runs, experiments, and analytics.…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvar3i25l32c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvar3i25l32c</guid>
-      <pubDate>Fri, 11 Sep 2026 14:18:39 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[CLI for managing projects, runs, experiments, and analytics. (2/2)]]></description>
-      <content:encoded><![CDATA[CLI for managing projects, runs, experiments, and analytics. (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
