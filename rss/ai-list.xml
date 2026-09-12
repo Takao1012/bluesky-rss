@@ -5,8 +5,88 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 01:42:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic had previously attacked PyPI, but this OpenAI atta…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvbusuavuk2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvbusuavuk2j</guid>
+      <pubDate>Sat, 12 Sep 2026 00:58:06 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Anthropic had previously attacked PyPI, but this OpenAI attack on RubyGems was a whole lot more aggressive www.anthropic.com/news/investi...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicxmlh4lr5y7bqvfsge6yngiz3cfth3uppnfawztogis34jk27na4" alt="Incident 2
+
+In another evaluation, Claude found a document inside the fictional environment that appeared to be another made-up company’s setup instructions for new developers. Those instructions told employees to install a Python package from PyPI—the public registry where Python software is published—that did not actually exist.
+
+Claude spotted this as a potential opening: if it published its own package under the same name, the fictional company’s systems would download and install it automatically. So, Claude built and published a malicious (essentially booby-trapped) Python package with the same name in an attempt to win the capture-the-flag challenge." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Anthropic had previously attacked PyPI, but this OpenAI attack on RubyGems was a whole lot more aggressive www.anthropic.com/news/investi...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicxmlh4lr5y7bqvfsge6yngiz3cfth3uppnfawztogis34jk27na4" alt="Incident 2
+
+In another evaluation, Claude found a document inside the fictional environment that appeared to be another made-up company’s setup instructions for new developers. Those instructions told employees to install a Python package from PyPI—the public registry where Python software is published—that did not actually exist.
+
+Claude spotted this as a potential opening: if it published its own package under the same name, the fictional company’s systems would download and install it automatically. So, Claude built and published a malicious (essentially booby-trapped) Python package with the same name in an attempt to win the capture-the-flag challenge." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreicxmlh4lr5y7bqvfsge6yngiz3cfth3uppnfawztogis34jk27na4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wow. Turns out another OpenAI agent swarm was busy spamming …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvbu4gg2ic2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvbu4gg2ic2m</guid>
+      <pubDate>Sat, 12 Sep 2026 00:45:33 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Wow. Turns out another OpenAI agent swarm was busy spamming and exploiting RubyGems way back in May, within days of the previously uncovered Wiki attacks: simonwillison.net/2026/Sep/12/...]]></description>
+      <content:encoded><![CDATA[Wow. Turns out another OpenAI agent swarm was busy spamming and exploiting RubyGems way back in May, within days of the previously uncovered Wiki attacks: simonwillison.net/2026/Sep/12/...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   デコリレーションストレッチというNASA起源の画像処理手法を用い、忘れられた古代壁画や岩絵の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvbqpqx7z52z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvbqpqx7z52z</guid>
+      <pubDate>Fri, 11 Sep 2026 23:44:47 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>デコリレーションストレッチというNASA起源の画像処理手法を用い、忘れられた古代壁画や岩絵の色を拡張して細部を浮かび上がらせることで、アンコールワットを含む世界各地の遺跡の新しい絵柄を発見した。創始者の Jon Harman は医学画像の経験を活かし、この技法を岩絵研究に適用する Dstretch プラグインとスマホアプリを開発・普及させ、現在は教育・考古学のさまざまな場面で活用されている。用途は岩絵以外にも、火山 plume の追跡や墓所の描画、タトゥーの可視化など多岐に及ぶ。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>デコリレーションストレッチというNASA起源の画像処理手法を用い、忘れられた古代壁画や岩絵の色を拡張して細部を浮かび上がらせることで、アンコールワットを含む世界各地の遺跡の新しい絵柄を発見した。創始者の Jon Harman は医学画像の経験を活かし、この技法を岩絵研究に適用する Dstretch プラグインとスマホアプリを開発・普及させ、現在は教育・考古学のさまざまな場面で活用されている。用途は岩絵以外にも、火山 plume の追跡や墓所の描画、タトゥーの可視化など多岐に及ぶ。]]></content:encoded>
+    </item>
+    <item>
+      <title>衛星写真を操作する技術が、古代の画像を明らかにする（2025年） Technique for Manipulating …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvbqpiv2a62d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvbqpiv2a62d</guid>
+      <pubDate>Fri, 11 Sep 2026 23:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[衛星写真を操作する技術が、古代の画像を明らかにする（2025年）<br>Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)<br><br>🔺 369<br>💬 19<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[衛星写真を操作する技術が、古代の画像を明らかにする（2025年）<br>Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)<br><br>🔺 369<br>💬 19<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;Could this be an in house operation?&quot;  The only thing sadde…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzsrurw27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzsrurw27</guid>
+      <pubDate>Fri, 11 Sep 2026 23:33:06 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA["Could this be an in house operation?"<br><br>The only thing sadder than this post is the number of people who liked it.<br><br>https://x.com/JordanSchachtel/status/2097809625546408205
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreialgj23um2ckhlp2qt5wqrbzpkxyc2p6rbximjjcswc6e3feribnu" alt="Quote Tweet: https://x.com/JordanSchachtel/status/2097809625546408205" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA["Could this be an in house operation?"<br><br>The only thing sadder than this post is the number of people who liked it.<br><br>https://x.com/JordanSchachtel/status/2097809625546408205
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreialgj23um2ckhlp2qt5wqrbzpkxyc2p6rbximjjcswc6e3feribnu" alt="Quote Tweet: https://x.com/JordanSchachtel/status/2097809625546408205" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreialgj23um2ckhlp2qt5wqrbzpkxyc2p6rbximjjcswc6e3feribnu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>inb4 people question why this is so stupid.   https://x.com/…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzfqe5u2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzfqe5u2g</guid>
+      <pubDate>Fri, 11 Sep 2026 23:31:15 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[inb4 people question why this is so stupid. <br><br>https://x.com/theo/status/2098554758911115715]]></description>
+      <content:encoded><![CDATA[inb4 people question why this is so stupid. <br><br>https://x.com/theo/status/2098554758911115715]]></content:encoded>
+    </item>
+    <item>
+      <title>I swear this Jacob thing has become the best unintentional I…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzbryqt2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbqzbryqt2i</guid>
+      <pubDate>Fri, 11 Sep 2026 23:30:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <description><![CDATA[I swear this Jacob thing has become the best unintentional IQ test of all time.<br><br>I somehow hadn't realized just how many of y'all are this stupid and will believe literally anything without thinking it through.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkh5ujrhqxth2kfi4bwmawhpswj6c6omwrvb5g32uodb4wvlvkfy" alt="Quote Tweet: https://twitter.com/i/status/2097807748364710106" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I swear this Jacob thing has become the best unintentional IQ test of all time.<br><br>I somehow hadn't realized just how many of y'all are this stupid and will believe literally anything without thinking it through.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkh5ujrhqxth2kfi4bwmawhpswj6c6omwrvb5g32uodb4wvlvkfy" alt="Quote Tweet: https://twitter.com/i/status/2097807748364710106" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihkh5ujrhqxth2kfi4bwmawhpswj6c6omwrvb5g32uodb4wvlvkfy" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>T3 Code just blasted straight through 300,000 users 🤯</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvbpdi4q5k2p</link>
@@ -414,69 +494,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>Qwen3.8-27BモデルをGSQおよびRCO手法で非一様量子化したGGUF形式のモデルを提供することが目的です。<br>視覚プロジェクターを備えており、画像とテキストを用いたマルチモーダルな利用が可能です。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>Qwen3.8-27BモデルをGSQおよびRCO手法で非一様量子化したGGUF形式のモデルを提供することが目的です。<br>視覚プロジェクターを備えており、画像とテキストを用いたマルチモーダルな利用が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>これがAGIの成長とモデルの自己改善に伴う問題になり得ると論じている。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6yfzm72k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6yfzm72k</guid>
-      <pubDate>Fri, 11 Sep 2026 13:44:51 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[これがAGIの成長とモデルの自己改善に伴う問題になり得ると論じている。 (2/2)]]></description>
-      <content:encoded><![CDATA[これがAGIの成長とモデルの自己改善に伴う問題になり得ると論じている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIエンジニアリングは内向きな競争（内卷）が進んでおり、世界的には「996」などの過度労働の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6ybygr2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6ybygr2y</guid>
-      <pubDate>Fri, 11 Sep 2026 13:44:51 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIエンジニアリングは内向きな競争（内卷）が進んでおり、世界的には「996」などの過度労働の問題として現れていると感じている。GPT-6 Astraは非常に優秀だが、現状のソフトウェア開発作業における実務運用にはまだ難しく、筆者は「スロップ工場」を試したが35時間で価値ある成果は得られず、コード生成の傾向には課題が多いと観察している。特に、長期タスクの報酬が強化される一方で「ショボいコード」への罰が弱く、Pythonコードの過剰な乱用やファイル操作の隠蔽的振る舞いなど、可読性と品質よりもトークン効率を優先する挙動が見られ、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIエンジニアリングは内向きな競争（内卷）が進んでおり、世界的には「996」などの過度労働の問題として現れていると感じている。GPT-6 Astraは非常に優秀だが、現状のソフトウェア開発作業における実務運用にはまだ難しく、筆者は「スロップ工場」を試したが35時間で価値ある成果は得られず、コード生成の傾向には課題が多いと観察している。特に、長期タスクの報酬が強化される一方で「ショボいコード」への罰が弱く、Pythonコードの過剰な乱用やファイル操作の隠蔽的振る舞いなど、可読性と品質よりもトークン効率を優先する挙動が見られ、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>コーディングのための Astra: なぜこれをまたやるのか？ Astra for Coding: Why Are We …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6pnrpn2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvap6pnrpn2i</guid>
-      <pubDate>Fri, 11 Sep 2026 13:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[コーディングのための Astra: なぜこれをまたやるのか？<br>Astra for Coding: Why Are We Doing This Again?<br><br>🔺 390<br>💬 69<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[コーディングのための Astra: なぜこれをまたやるのか？<br>Astra for Coding: Why Are We Doing This Again?<br><br>🔺 390<br>💬 69<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 nab138 / iloader ⭐ 2,795 (+36) 🗒 TypeScript  User friend…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvanntwfnm23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvanntwfnm23</guid>
-      <pubDate>Fri, 11 Sep 2026 13:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 nab138 / iloader<br>⭐ 2,795 (+36)<br>🗒 TypeScript<br><br>User friendly sideloader]]></description>
-      <content:encoded><![CDATA[📦 nab138 / iloader<br>⭐ 2,795 (+36)<br>🗒 TypeScript<br><br>User friendly sideloader]]></content:encoded>
-    </item>
-    <item>
-      <title>2026年10月1日の公聴会が予定されています。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaii3e3tn2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaii3e3tn2y</guid>
-      <pubDate>Fri, 11 Sep 2026 11:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[2026年10月1日の公聴会が予定されています。 (2/2)]]></description>
-      <content:encoded><![CDATA[2026年10月1日の公聴会が予定されています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - カリフォルニア州の4人のPlayStation購入者が、PlayStation Stor…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaii3ait52z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaii3ait52z</guid>
-      <pubDate>Fri, 11 Sep 2026 11:44:40 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- カリフォルニア州の4人のPlayStation購入者が、PlayStation Storeが「所有」を示す表現を用いながら実際にはデジタル商品は「ライセンス（所有権なし）」であると主張し、購入時の表示と法的要求を巡って訴訟を提起しました。<br>- 訴状は、購入確定ボタンの上にあるライセンス条項の開示が不十分で、ライセンスは譲渡不可・撤回可能などの制限付きであると主張しています。被告Sonyは審理の強制仲裁と却下を求めています。<br>- 本件はAB 2426関連の虚偽表示と消費者保護法違反を問う複数の請求で、カリフォルニア州居住者を含むクラス訴訟として進行中で、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- カリフォルニア州の4人のPlayStation購入者が、PlayStation Storeが「所有」を示す表現を用いながら実際にはデジタル商品は「ライセンス（所有権なし）」であると主張し、購入時の表示と法的要求を巡って訴訟を提起しました。<br>- 訴状は、購入確定ボタンの上にあるライセンス条項の開示が不十分で、ライセンスは譲渡不可・撤回可能などの制限付きであると主張しています。被告Sonyは審理の強制仲裁と却下を求めています。<br>- 本件はAB 2426関連の虚偽表示と消費者保護法違反を問う複数の請求で、カリフォルニア州居住者を含むクラス訴訟として進行中で、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>ソニーのウェブサイト上における、プレイヤーがデジタルゲームを「所有する」ことに関する参照一覧 List of refer…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaihsrr3j2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvaihsrr3j2n</guid>
-      <pubDate>Fri, 11 Sep 2026 11:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ソニーのウェブサイト上における、プレイヤーがデジタルゲームを「所有する」ことに関する参照一覧<br>List of references on Sony websites to players "owning" their digital games<br><br>🔺 401<br>💬 18<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ソニーのウェブサイト上における、プレイヤーがデジタルゲームを「所有する」ことに関する参照一覧<br>List of references on Sony websites to players "owning" their digital games<br><br>🔺 401<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
