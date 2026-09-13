@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 01:33:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I used this as an excuse to do some reverse engineering of C…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mved72xnik2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mved72xnik2b</guid>
+      <pubDate>Sun, 13 Sep 2026 00:20:48 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I used this as an excuse to do some reverse engineering of ChatGPT itself - the resulting running map was presented to me using this "visualize" skill, as a fragment of HTML that used D3 to draw both the map and the overlaid route codex-tool-reference.simonw.chatgpt.site/skills/visua...]]></description>
+      <content:encoded><![CDATA[I used this as an excuse to do some reverse engineering of ChatGPT itself - the resulting running map was presented to me using this "visualize" skill, as a fragment of HTML that used D3 to draw both the map and the overlaid route codex-tool-reference.simonw.chatgpt.site/skills/visua...]]></content:encoded>
+    </item>
+    <item>
+      <title>This is pretty neat: ChatGPT Work and GPT-6 Astra (I used &quot;M…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mved4krjbs2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mved4krjbs2b</guid>
+      <pubDate>Sun, 13 Sep 2026 00:19:24 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[This is pretty neat: ChatGPT Work and GPT-6 Astra (I used "Max") can take an address and produce a 5K/10K circular running route starting from that address, using OSM data simonwillison.net/2026/Sep/12/...]]></description>
+      <content:encoded><![CDATA[This is pretty neat: ChatGPT Work and GPT-6 Astra (I used "Max") can take an address and produce a 5K/10K circular running route starting from that address, using OSM data simonwillison.net/2026/Sep/12/...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   リンク先は「Economist」公式サイトで、現在セキュリティ検証のためのボット対策ページを…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mveb6bs3wj2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mveb6bs3wj2y</guid>
+      <pubDate>Sat, 12 Sep 2026 23:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>リンク先は「Economist」公式サイトで、現在セキュリティ検証のためのボット対策ページを表示しています。記事本文はまだアクセスできず、ボット検知の処理中であることを示しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>リンク先は「Economist」公式サイトで、現在セキュリティ検証のためのボット対策ページを表示しています。記事本文はまだアクセスできず、ボット検知の処理中であることを示しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIAはAIの中央銀行だ。 Nvidia is the central bank of AI  🔺 360 💬…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mveb656o6z2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mveb656o6z2i</guid>
+      <pubDate>Sat, 12 Sep 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[NVIDIAはAIの中央銀行だ。<br>Nvidia is the central bank of AI<br><br>🔺 360<br>💬 30<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[NVIDIAはAIの中央銀行だ。<br>Nvidia is the central bank of AI<br><br>🔺 360<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   -version 13は従来のUIを排し、Jetpack ComposeとMaterial …</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mve2hntvgl2y</link>
@@ -420,45 +456,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcsaaeefe2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcsaaeefe2d</guid>
-      <pubDate>Sat, 12 Sep 2026 09:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時に Google が実URLへリダイレクトする仕組みに移行中。goto の実URLはレスポンスの Location ヘッダにあり、offline では解読できず、読み取るには HEAD 要求が必要。これにより全 SERP スクレイピングのコストと複雑さが上がり、Autom.dev は自社APIで最終URLを返すよう対応を完了しています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Google検索の結果リンクが、直接URLを隠した goto 形式に置き換えられ、クリック時に Google が実URLへリダイレクトする仕組みに移行中。goto の実URLはレスポンスの Location ヘッダにあり、offline では解読できず、読み取るには HEAD 要求が必要。これにより全 SERP スクレイピングのコストと複雑さが上がり、Autom.dev は自社APIで最終URLを返すよう対応を完了しています。]]></content:encoded>
-    </item>
-    <item>
-      <title>google.com/goto: Googleのスクレイピング対策の更新 google.com/goto: Google…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcs7zep642d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvcs7zep642d</guid>
-      <pubDate>Sat, 12 Sep 2026 09:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[google.com/goto: Googleのスクレイピング対策の更新<br>google.com/goto: Google's anti-scraping update<br><br>🔺 420<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[google.com/goto: Googleのスクレイピング対策の更新<br>google.com/goto: Google's anti-scraping update<br><br>🔺 420<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcnxpcwvw2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvcnxpcwvw2v</guid>
-      <pubDate>Sat, 12 Sep 2026 08:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>:)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcoe4n3kz2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvcoe4n3kz2q</guid>
-      <pubDate>Sat, 12 Sep 2026 08:24:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
-      <description><![CDATA[:)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[:)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigkvwv3ljqkgi5juhlatc4p5cs6q2ja32smfeaeik2i4paizhqxrq" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
