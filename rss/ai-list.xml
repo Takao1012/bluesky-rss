@@ -5,14 +5,158 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:27:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Signalのディスカッションで、ゼロ知識証明（ZKP）は寄付バッジやバックアップ支払いだけ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvialko54r2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvialko54r2z</guid>
+      <pubDate>Mon, 14 Sep 2026 13:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Signalのディスカッションで、ゼロ知識証明（ZKP）は寄付バッジやバックアップ支払いだけでなくグループの識別にも用いられ、特定の寄付や特定のグループへの紐付けがされない点が強調されている。ZKPはサーバーを信頼しない設計のクライアント性を支持する証拠にも触れられ、ユーザー名の文字種・長さの検証など、内容を開示せずに検証できる応用例も挙げられている。さらに、電話番号とユーザー名の「アンリンク」機能の実装可能性やそのプライバシー影響、ボット対策としてのクールダウンなど、アカウント管理の技術的課題について活発な議論が続いている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Signalのディスカッションで、ゼロ知識証明（ZKP）は寄付バッジやバックアップ支払いだけでなくグループの識別にも用いられ、特定の寄付や特定のグループへの紐付けがされない点が強調されている。ZKPはサーバーを信頼しない設計のクライアント性を支持する証拠にも触れられ、ユーザー名の文字種・長さの検証など、内容を開示せずに検証できる応用例も挙げられている。さらに、電話番号とユーザー名の「アンリンク」機能の実装可能性やそのプライバシー影響、ボット対策としてのクールダウンなど、アカウント管理の技術的課題について活発な議論が続いている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Signalで電話番号を使わずに登録する場合、ゼロ知識証明が用いられる。 Registration without a …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mviala6wdq2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mviala6wdq2i</guid>
+      <pubDate>Mon, 14 Sep 2026 13:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Signalで電話番号を使わずに登録する場合、ゼロ知識証明が用いられる。<br>Registration without a phone number on Signal will use zero-knowledge proofs<br><br>🔺 333<br>💬 23<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Signalで電話番号を使わずに登録する場合、ゼロ知識証明が用いられる。<br>Registration without a phone number on Signal will use zero-knowledge proofs<br><br>🔺 333<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Why do developers get so emotionally attached to their edito…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mviajy2yvc2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mviajy2yvc2a</guid>
+      <pubDate>Mon, 14 Sep 2026 13:43:51 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[Why do developers get so emotionally attached to their editor?<br><br>Scott Hanselman, Addy Osmani, Wes Bos and Jaana Dogan have thoughts.<br><br>🎬 The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></description>
+      <content:encoded><![CDATA[Why do developers get so emotionally attached to their editor?<br><br>Scott Hanselman, Addy Osmani, Wes Bos and Jaana Dogan have thoughts.<br><br>🎬 The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></content:encoded>
+    </item>
+    <item>
+      <title>a war chest of benchmarks, models, and governance tooling. (…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72m23nf26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72m23nf26</guid>
+      <pubDate>Mon, 14 Sep 2026 13:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[a war chest of benchmarks, models, and governance tooling. (3/3)]]></description>
+      <content:encoded><![CDATA[a war chest of benchmarks, models, and governance tooling. (3/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>processing, hardware options from ESP32 seeds to Matter-inte…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72lyfwd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72lyfwd2l</guid>
+      <pubDate>Mon, 14 Sep 2026 13:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[processing, hardware options from ESP32 seeds to Matter-integrated ecosystems, and a self-learning AI stack that adapts to each environment. It includes an extensive edge-module catalog, real-time demos, and integration blueprints for Home Assistant, Apple/Home, Google, Alexa, and Matter, plus (2/3)]]></description>
+      <content:encoded><![CDATA[processing, hardware options from ESP32 seeds to Matter-integrated ecosystems, and a self-learning AI stack that adapts to each environment. It includes an extensive edge-module catalog, real-time demos, and integration blueprints for Home Assistant, Apple/Home, Google, Alexa, and Matter, plus (2/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   RuView + π RuView is a privacy-preserving WiFi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72lwvrb2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72lwvrb2b</guid>
+      <pubDate>Mon, 14 Sep 2026 13:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>RuView + π RuView is a privacy-preserving WiFi sensing platform that uses Channel State Information from ESP32 nodes to detect presence, vital signs (breathing and heart rate), track movement, and even estimate camera-free 17-keypoint poses through walls, with edge-only (1/3)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>RuView + π RuView is a privacy-preserving WiFi sensing platform that uses Channel State Information from ESP32 nodes to detect presence, vital signs (breathing and heart rate), track movement, and even estimate camera-free 17-keypoint poses through walls, with edge-only (1/3)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 ruvnet / RuView ⭐ 9…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72i6urk2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi72i6urk2j</guid>
+      <pubDate>Mon, 14 Sep 2026 13:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 93,642 (+370)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 ruvnet / RuView<br>⭐ 93,642 (+370)<br>🗒 Rust<br><br>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 パナソニック、録画番組をクラウド保存できる全自動ディーガ  🔖 168 ブックマーク 💬 コメント 🔗 記事…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvi4co5xuc2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvi4co5xuc2y</guid>
+      <pubDate>Mon, 14 Sep 2026 12:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 パナソニック、録画番組をクラウド保存できる全自動ディーガ<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 パナソニック、録画番組をクラウド保存できる全自動ディーガ<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>local data storage, and a modular development workflow. (2/2…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pdc4y62g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pdc4y62g</guid>
+      <pubDate>Mon, 14 Sep 2026 12:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[local data storage, and a modular development workflow. (2/2)]]></description>
+      <content:encoded><![CDATA[local data storage, and a modular development workflow. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Flowsint is an open-source OSINT graph explora…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pdapvv26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pdapvv26</guid>
+      <pubDate>Mon, 14 Sep 2026 12:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Flowsint is an open-source OSINT graph exploration tool for ethical investigation, offering modular enrichers (domain, IP, ASN, social, etc.), a FastAPI backend, a frontend, and Docker-based deployment with guidance for single-machine and networked setups. It emphasizes privacy, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Flowsint is an open-source OSINT graph exploration tool for ethical investigation, offering modular enrichers (domain, IP, ASN, social, etc.), a FastAPI backend, a frontend, and Docker-based deployment with guidance for single-machine and networked setups. It emphasizes privacy, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 reconurge / flowsin…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pa3yky2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvi3pa3yky2b</guid>
+      <pubDate>Mon, 14 Sep 2026 12:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 reconurge / flowsint<br>⭐ 8,144 (+279)<br>🗒 TypeScript<br><br>A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 reconurge / flowsint<br>⭐ 8,144 (+279)<br>🗒 TypeScript<br><br>A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.]]></content:encoded>
+    </item>
+    <item>
+      <title>デイヴィッド・サックス：OpenAIとAnthropicには最先端モデルのペースを維持するための規制は必要ない Davi…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhzunnga52n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhzunnga52n</guid>
+      <pubDate>Mon, 14 Sep 2026 11:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[デイヴィッド・サックス：OpenAIとAnthropicには最先端モデルのペースを維持するための規制は必要ない<br>David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models<br><br>🔺 306<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[デイヴィッド・サックス：OpenAIとAnthropicには最先端モデルのペースを維持するための規制は必要ない<br>David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models<br><br>🔺 306<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>LGは私たちが偽ニュースだと言っている [動画] LG says we&apos;re fake news [video]  🔺…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvht5zbtk22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvht5zbtk22z</guid>
+      <pubDate>Mon, 14 Sep 2026 09:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[LGは私たちが偽ニュースだと言っている [動画]<br>LG says we're fake news [video]<br><br>🔺 347<br>💬 20<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[LGは私たちが偽ニュースだと言っている [動画]<br>LG says we're fake news [video]<br><br>🔺 347<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   自動車メーカーが顧客データを収集・共有して保険料に反映させる実態に対し、連邦取引委員会がGM…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhmhhaddc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhmhhaddc2d</guid>
+      <pubDate>Mon, 14 Sep 2026 07:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>自動車メーカーが顧客データを収集・共有して保険料に反映させる実態に対し、連邦取引委員会がGMに五年間のデータ販売禁止を科すなど規制強化が進む一方、米国の自動車業界全体でプライバシー対策は不十分で、消費者がデータ収集を根本的に抑制する仕組みが求められている。現在議論されているDRIVER Actはデータ所有権を一部認める一方、過剰なデータ収集を阻止する効果には乏しく、実効性には疑問が残る。今後も「データを収集し続ける」現状に対する消費者の抵抗と規制案の行方が焦点となる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>自動車メーカーが顧客データを収集・共有して保険料に反映させる実態に対し、連邦取引委員会がGMに五年間のデータ販売禁止を科すなど規制強化が進む一方、米国の自動車業界全体でプライバシー対策は不十分で、消費者がデータ収集を根本的に抑制する仕組みが求められている。現在議論されているDRIVER Actはデータ所有権を一部認める一方、過剰なデータ収集を阻止する効果には乏しく、実効性には疑問が残る。今後も「データを収集し続ける」現状に対する消費者の抵抗と規制案の行方が焦点となる。]]></content:encoded>
+    </item>
+    <item>
+      <title>車両によって収集され、第三者に販売されるデータ Data collected by cars and sold to t…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhmh6kgdy2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvhmh6kgdy2n</guid>
+      <pubDate>Mon, 14 Sep 2026 07:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[車両によって収集され、第三者に販売されるデータ<br>Data collected by cars and sold to third parties<br><br>🔺 402<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[車両によって収集され、第三者に販売されるデータ<br>Data collected by cars and sold to third parties<br><br>🔺 402<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同  🔖 150 ブックマーク 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvhlkeph5u2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvhlkeph5u2z</guid>
+      <pubDate>Mon, 14 Sep 2026 07:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>Crazy how T3 Code is still the only tool that cares about th…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhil7afb72t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhil7afb72t</guid>
       <pubDate>Mon, 14 Sep 2026 06:13:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Crazy how T3 Code is still the only tool that cares about the relationship between a thread and a PR
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiant6xkbqd6i24lwmw7c5qlzidof7alpi6zd3qm5ybhnuvkoptpsu" alt="Quote Tweet: https://twitter.com/i/status/2099380043290169472" style="max-width:100%;margin-top:8px;">]]></description>
       <content:encoded><![CDATA[Crazy how T3 Code is still the only tool that cares about the relationship between a thread and a PR
@@ -51,7 +195,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhfafzg6d2p</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhfafzg6d2p</guid>
       <pubDate>Mon, 14 Sep 2026 03:56:26 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiha2qgcixudbru3ydmfg3y6uxamvbs6rotm54i3ai5xjcmvfrovpy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigjaz2fjavzend5yff6rrsd5kcjrxsekpnez3z524ah7vhbefouea" alt="Quote Tweet: https://twitter.com/i/status/2099284092626129214" style="max-width:100%;margin-top:8px;">]]></description>
@@ -65,7 +209,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhf7yd2xy2c</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvhf7yd2xy2c</guid>
       <pubDate>Mon, 14 Sep 2026 03:46:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I love Fable but every once in a while it does something truly outstandingly stupid, like putting this screenshot in a PR and not noticing the bug it introduced.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiacce7f42roa5x7kwsm7dk7yh3ocv4jf3dtbtzsnbsbepebr3cvxq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
       <content:encoded><![CDATA[I love Fable but every once in a while it does something truly outstandingly stupid, like putting this screenshot in a PR and not noticing the bug it introduced.
@@ -95,7 +239,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5pjpo272q</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5pjpo272q</guid>
       <pubDate>Mon, 14 Sep 2026 03:11:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Can't believe that Dario, Elon, Sam and I all agree on this. <br><br>Video: https://twitter.com/theo/status/2099335125670752403
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxbmnjaoelpoyzhuy5xwie64wkqcbv5ddvy4zmlhiatzsspa3w7u" alt="Quote Tweet: https://twitter.com/i/status/2098773920774074715" style="max-width:100%;margin-top:8px;">]]></description>
       <content:encoded><![CDATA[Can't believe that Dario, Elon, Sam and I all agree on this. <br><br>Video: https://twitter.com/theo/status/2099335125670752403
@@ -107,7 +251,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5p44k662g</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5p44k662g</guid>
       <pubDate>Mon, 14 Sep 2026 02:59:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[GitHub is so innovative at times]]></description>
       <content:encoded><![CDATA[GitHub is so innovative at times]]></content:encoded>
     </item>
@@ -116,7 +260,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5ogso732u</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5ogso732u</guid>
       <pubDate>Mon, 14 Sep 2026 02:59:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I'll make this toggleable before it hits stable, don't worry guys]]></description>
       <content:encoded><![CDATA[I'll make this toggleable before it hits stable, don't worry guys]]></content:encoded>
     </item>
@@ -125,7 +269,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5oaqyn72q</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvh5oaqyn72q</guid>
       <pubDate>Mon, 14 Sep 2026 02:55:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I give up. We now stream responses in T3 Code by default.<br><br>(Not token by token because that makes zero sense)]]></description>
       <content:encoded><![CDATA[I give up. We now stream responses in T3 Code by default.<br><br>(Not token by token because that makes zero sense)]]></content:encoded>
     </item>
@@ -173,7 +317,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgui72goi2u</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgui72goi2u</guid>
       <pubDate>Mon, 14 Sep 2026 00:14:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Just noticed that the word "pissing" was replaced with "messing." Great work! I hate this so much.]]></description>
       <content:encoded><![CDATA[Just noticed that the word "pissing" was replaced with "messing." Great work! I hate this so much.]]></content:encoded>
     </item>
@@ -182,7 +326,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhwde3m2p</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhwde3m2p</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I'm sure there are many more problems I'm forgetting to mention here. These are just the ones that came to the top of my mind as I have run into all of them in the last 45 minutes.<br><br>I genuinely don't understand how people work like this, much less how nothing's been done to fix it.]]></description>
       <content:encoded><![CDATA[I'm sure there are many more problems I'm forgetting to mention here. These are just the ones that came to the top of my mind as I have run into all of them in the last 45 minutes.<br><br>I genuinely don't understand how people work like this, much less how nothing's been done to fix it.]]></content:encoded>
     </item>
@@ -191,7 +335,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhtck4b2t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhtck4b2t</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:47 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[This was like 10 minutes of speaking that mostly vanished into the ether and it has made me question my trust in Wispr Flow at a fundamental level. You can see how bad it was in the screenshot below.]]></description>
       <content:encoded><![CDATA[This was like 10 minutes of speaking that mostly vanished into the ether and it has made me question my trust in Wispr Flow at a fundamental level. You can see how bad it was in the screenshot below.]]></content:encoded>
     </item>
@@ -200,7 +344,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhqbohe2t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhqbohe2t</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:46 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[For most of them, the answer was A or "agreed." Some of them had real context that was lost entirely.]]></description>
       <content:encoded><![CDATA[For most of them, the answer was A or "agreed." Some of them had real context that was lost entirely.]]></content:encoded>
     </item>
@@ -209,7 +353,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhnaqro24</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhnaqro24</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Funny enough this is what inspired my rant. I was doing a grill session with Matt's skill and I went through the list of questions. For some reason my answers to over half of them were not transcribed at all.]]></description>
       <content:encoded><![CDATA[Funny enough this is what inspired my rant. I was doing a grill session with Matt's skill and I went through the list of questions. For some reason my answers to over half of them were not transcribed at all.]]></content:encoded>
     </item>
@@ -218,7 +362,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhk7qwd2q</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhk7qwd2q</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:44 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I use the word "like" very strategically. It's a nice way to pad sentences when done with care and makes things more readable. Pretty much every time I use the word "like," it gets removed from the transcript.<br><br>6. Dropping major chunks of what I said for no perceivable reason.]]></description>
       <content:encoded><![CDATA[I use the word "like" very strategically. It's a nice way to pad sentences when done with care and makes things more readable. Pretty much every time I use the word "like," it gets removed from the transcript.<br><br>6. Dropping major chunks of what I said for no perceivable reason.]]></content:encoded>
     </item>
@@ -227,7 +371,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhh6tx227</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhh6tx227</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[This happens most with words like "not" and "haven't", and it's driving me insane.<br><br>5. Dropping unimportant words.<br><br>This is another one that's more Theo-specific, but I'm very annoyed by it.]]></description>
       <content:encoded><![CDATA[This happens most with words like "not" and "haven't", and it's driving me insane.<br><br>5. Dropping unimportant words.<br><br>This is another one that's more Theo-specific, but I'm very annoyed by it.]]></content:encoded>
     </item>
@@ -236,7 +380,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhe627b2t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhe627b2t</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:42 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I cannot tell you how many times there was an important word in a sentence that disappeared, fundamentally changing the sentence.<br><br>Just yesterday I said, "I'd prefer to never merge this" and somehow the word "never" got dropped. You can guess what happened next.]]></description>
       <content:encoded><![CDATA[I cannot tell you how many times there was an important word in a sentence that disappeared, fundamentally changing the sentence.<br><br>Just yesterday I said, "I'd prefer to never merge this" and somehow the word "never" got dropped. You can guess what happened next.]]></content:encoded>
     </item>
@@ -245,7 +389,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhb54nb2t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguhb54nb2t</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[If I say, "I want the color to be orange, err, yellow," it will translate to "I want the color to be orange or yellow," which is not what I meant.<br><br>This one is definitely a speaking quirk of mine, but it still screws me over multiple times a day.<br><br>4. Dropping important words.]]></description>
       <content:encoded><![CDATA[If I say, "I want the color to be orange, err, yellow," it will translate to "I want the color to be orange or yellow," which is not what I meant.<br><br>This one is definitely a speaking quirk of mine, but it still screws me over multiple times a day.<br><br>4. Dropping important words.]]></content:encoded>
     </item>
@@ -254,7 +398,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguh63pi62q</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguh63pi62q</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[For example, the word "auth" (I'm pretty sure it becomes "off" at least 75% of the time).<br><br>3. Corrections while I'm speaking are driving me mad. When I make a mistake, I'll usually make an "er" sound, like the letters "er", and then correct myself.]]></description>
       <content:encoded><![CDATA[For example, the word "auth" (I'm pretty sure it becomes "off" at least 75% of the time).<br><br>3. Corrections while I'm speaking are driving me mad. When I make a mistake, I'll usually make an "er" sound, like the letters "er", and then correct myself.]]></content:encoded>
     </item>
@@ -263,7 +407,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguh32v3j2z</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvguh32v3j2z</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[For example, if you start a list, stop, and then want to resume at 5 (so you count 5, 6, 7, 8), Wispr Flow will generously change that to 1, 2, 3, 4.<br><br>2. Uncommon words that sound like common words trip up these tools no matter what you do.]]></description>
       <content:encoded><![CDATA[For example, if you start a list, stop, and then want to resume at 5 (so you count 5, 6, 7, 8), Wispr Flow will generously change that to 1, 2, 3, 4.<br><br>2. Uncommon words that sound like common words trip up these tools no matter what you do.]]></content:encoded>
     </item>
@@ -272,7 +416,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgugxmdkg24</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgugxmdkg24</guid>
       <pubDate>Mon, 14 Sep 2026 00:11:38 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Here's a quick list of things I can think of that have been messing me off:<br><br>1. If you start a list with a number other than 1, Wispr Flow will "fix" that for you by making it start with 1.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiezydir7dcdy24nqhgh5hqt5xbilomc6x4qimh4kwshogecd4qhhy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
       <content:encoded><![CDATA[Here's a quick list of things I can think of that have been messing me off:<br><br>1. If you start a list with a number other than 1, Wispr Flow will "fix" that for you by making it start with 1.
@@ -284,7 +428,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsrvzj4a2q</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsrvzj4a2q</guid>
       <pubDate>Mon, 14 Sep 2026 00:01:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I'm so incredibly frustrated with this and I'm trying to decide if I care enough to fix it.]]></description>
       <content:encoded><![CDATA[I'm so incredibly frustrated with this and I'm trying to decide if I care enough to fix it.]]></content:encoded>
     </item>
@@ -293,7 +437,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsrsfgoj2t</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsrsfgoj2t</guid>
       <pubDate>Mon, 14 Sep 2026 00:01:56 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I assumed there would be some way to customize, but I've learned that you really don't have much control before the model does the transcription. All of the nice cleanup features in tools like Wispr Flow are done AFTER the text is generated.]]></description>
       <content:encoded><![CDATA[I assumed there would be some way to customize, but I've learned that you really don't have much control before the model does the transcription. All of the nice cleanup features in tools like Wispr Flow are done AFTER the text is generated.]]></content:encoded>
     </item>
@@ -302,7 +446,7 @@
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsroykwg2c</link>
       <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvgsroykwg2c</guid>
       <pubDate>Mon, 14 Sep 2026 00:01:55 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo-t3gg.bsky.social)</author>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Due to my hand injury, I have been doing a lot of voice-to-text lately. Despite this, my frustrations with VTT have only grown. There are so many things these tools and models get wrong.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigl3taahuobklkm6y5uttw7okjbk4sqsnsm44pa5m7xmc5bxpbo2e" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
       <content:encoded><![CDATA[Due to my hand injury, I have been doing a lot of voice-to-text lately. Despite this, my frustrations with VTT have only grown. There are so many things these tools and models get wrong.
@@ -335,150 +479,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>AIは広告の不正表現を高精度で検出できるのに、Googleの審査はそれを活用できていないと著者は指摘する。YouTube上の詐欺的広告が複数回審査を通過したが、GoogleのGeminiは広告を「DISAPPROVED」と判定し詳細理由を挙げているにもかかわらず、実務の審査は再三承認してしまった、という内容を述べている。著者はAIを活用して審査プロセスを強化すべきだと訴えている。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>AIは広告の不正表現を高精度で検出できるのに、Googleの審査はそれを活用できていないと著者は指摘する。YouTube上の詐欺的広告が複数回審査を通過したが、GoogleのGeminiは広告を「DISAPPROVED」と判定し詳細理由を挙げているにもかかわらず、実務の審査は再三承認してしまった、という内容を述べている。著者はAIを活用して審査プロセスを強化すべきだと訴えている。]]></content:encoded>
-    </item>
-    <item>
-      <title>なぜGoogleはまだ怪しい広告を表示しているのですか？ Why is Google still serving dod…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvgkwahohd2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvgkwahohd2k</guid>
-      <pubDate>Sun, 13 Sep 2026 21:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[なぜGoogleはまだ怪しい広告を表示しているのですか？<br>Why is Google still serving dodgy ads?<br><br>🔺 388<br>💬 76<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[なぜGoogleはまだ怪しい広告を表示しているのですか？<br>Why is Google still serving dodgy ads?<br><br>🔺 388<br>💬 76<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>multi-platform workflows and extensive configuration options…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfrj27k26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfrj27k26</guid>
-      <pubDate>Sun, 13 Sep 2026 21:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multi-platform workflows and extensive configuration options. (2/2)]]></description>
-      <content:encoded><![CDATA[multi-platform workflows and extensive configuration options. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A comprehensive Douyin downloader with support…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfrhjoy2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfrhjoy2k</guid>
-      <pubDate>Sun, 13 Sep 2026 21:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A comprehensive Douyin downloader with support for videos, images, collections, music, and profile batch downloads, plus live recording, transcription, comments, REST API, SQLite deduplication, progress tracking, and browser fallback. It includes a desktop app (Douzy) for (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A comprehensive Douyin downloader with support for videos, images, collections, music, and profile batch downloads, plus live recording, transcription, comments, REST API, SQLite deduplication, progress tracking, and browser fallback. It includes a desktop app (Douzy) for (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 jiji262 / douyin-do…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfolite26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgjfolite26</guid>
-      <pubDate>Sun, 13 Sep 2026 21:17:11 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jiji262 / douyin-downloader<br>⭐ 11,213 (+473)<br>🗒 Python<br><br>A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 jiji262 / douyin-downloader<br>⭐ 11,213 (+473)<br>🗒 Python<br><br>A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Flock Safetyの自動車ナンバープレート読取とAI監視技術に対する批判が高まる中、同…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvgea3n2zk2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvgea3n2zk2t</guid>
-      <pubDate>Sun, 13 Sep 2026 19:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Flock Safetyの自動車ナンバープレート読取とAI監視技術に対する批判が高まる中、同社はプライバシー問題をめぐる懸念に対処すると発表する一方、自治体の契約解除やALPR技術全面 ban の動きが相次いでいる。 InvestigateTVはジョージア州での現場撮影を含む複数の公開場面で、同社関係者が取材者の撮影を巡って警察を呼ぶ事例を報じ、ニュースメディアの取材を制限する同社の対応に批判が高まっている。 なお、同社はイベント招待制の年次会議を開く一方、取材拒否の姿勢を示している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Flock Safetyの自動車ナンバープレート読取とAI監視技術に対する批判が高まる中、同社はプライバシー問題をめぐる懸念に対処すると発表する一方、自治体の契約解除やALPR技術全面 ban の動きが相次いでいる。 InvestigateTVはジョージア州での現場撮影を含む複数の公開場面で、同社関係者が取材者の撮影を巡って警察を呼ぶ事例を報じ、ニュースメディアの取材を制限する同社の対応に批判が高まっている。 なお、同社はイベント招待制の年次会議を開く一方、取材拒否の姿勢を示している。]]></content:encoded>
-    </item>
-    <item>
-      <title>Flock社の作業員が、公衆監視カメラの設置を撮影している記者に警察を呼んだ Flock worker calls po…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvge7tndcr2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvge7tndcr2c</guid>
-      <pubDate>Sun, 13 Sep 2026 19:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Flock社の作業員が、公衆監視カメラの設置を撮影している記者に警察を呼んだ<br>Flock worker calls police on reporter filming public camera installation<br><br>🔺 325<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Flock社の作業員が、公衆監視カメラの設置を撮影している記者に警察を呼んだ<br>Flock worker calls police on reporter filming public camera installation<br><br>🔺 325<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 ever-co / ever-gauzy ⭐ 4,562 (+58) 🗒 TypeScript  Ever® G…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgcp6rtgy2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvgcp6rtgy2z</guid>
-      <pubDate>Sun, 13 Sep 2026 19:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 ever-co / ever-gauzy<br>⭐ 4,562 (+58)<br>🗒 TypeScript<br><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co]]></description>
-      <content:encoded><![CDATA[📦 ever-co / ever-gauzy<br>⭐ 4,562 (+58)<br>🗒 TypeScript<br><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co]]></content:encoded>
-    </item>
-    <item>
-      <title>courses/Study/Telegram/Convert, browser extension integratio…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7dxuvmx2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7dxuvmx2l</guid>
-      <pubDate>Sun, 13 Sep 2026 18:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[courses/Study/Telegram/Convert, browser extension integration, and an offline study library with AI and privacy-first design. (2/2)]]></description>
-      <content:encoded><![CDATA[courses/Study/Telegram/Convert, browser extension integration, and an offline study library with AI and privacy-first design. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OmniGet is a free, open-source desktop app (Wi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7dxtc5z2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7dxtc5z2c</guid>
-      <pubDate>Sun, 13 Sep 2026 18:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OmniGet is a free, open-source desktop app (Windows/macOS/Linux) that combines 108 download-and-tools features in a single interface: it downloads from 1,800+ sites (via native extractors and yt-dlp), transcribes and processes media, includes a 108-tool hub, plugins for (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OmniGet is a free, open-source desktop app (Windows/macOS/Linux) that combines 108 download-and-tools features in a single interface: it downloads from 1,800+ sites (via native extractors and yt-dlp), transcribes and processes media, includes a 108-tool hub, plugins for (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 tonhowtf / omniget ⭐…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7duqvan26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg7duqvan26</guid>
-      <pubDate>Sun, 13 Sep 2026 18:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 tonhowtf / omniget<br>⭐ 11,126 (+839)<br>🗒 Rust<br><br>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and...]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 tonhowtf / omniget<br>⭐ 11,126 (+839)<br>🗒 Rust<br><br>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Homebrew 7.0.0がリリースされ、インストール・アップグレードの高速化、より強化さ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvg5jfwrqm2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvg5jfwrqm2z</guid>
-      <pubDate>Sun, 13 Sep 2026 17:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Homebrew 7.0.0がリリースされ、インストール・アップグレードの高速化、より強化されたサンドボックス機能、ネイティブ macOS アプリの導入、脆弱性チェックとアドバイザリデータベースの組み込み、macOS 10.15のサポート終了、Intel MacsのTier 3移行などが大きな変更点として発表された。 <br>- 全体ではパフォーマンス向上とセキュリティ強化が中心で、 macOS/Linuxへの影響やアップグレード手順、アプリの扱い、CIやタップ運用の新機能・方針も更新されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Homebrew 7.0.0がリリースされ、インストール・アップグレードの高速化、より強化されたサンドボックス機能、ネイティブ macOS アプリの導入、脆弱性チェックとアドバイザリデータベースの組み込み、macOS 10.15のサポート終了、Intel MacsのTier 3移行などが大きな変更点として発表された。 <br>- 全体ではパフォーマンス向上とセキュリティ強化が中心で、 macOS/Linuxへの影響やアップグレード手順、アプリの扱い、CIやタップ運用の新機能・方針も更新されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>ホームブリュー 7.0.0 Homebrew 7.0.0  🔺 429 💬 32 🔗 HN Post | Arti…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvg5j74w2u2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvg5j74w2u2z</guid>
-      <pubDate>Sun, 13 Sep 2026 17:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ホームブリュー 7.0.0<br>Homebrew 7.0.0<br><br>🔺 429<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ホームブリュー 7.0.0<br>Homebrew 7.0.0<br><br>🔺 429<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AI の投資収益率 (ROI) を算出する | Amazon Web Services  🔖 150 ブックマー…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvg4mpi54627</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvg4mpi54627</guid>
-      <pubDate>Sun, 13 Sep 2026 17:28:29 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AI の投資収益率 (ROI) を算出する | Amazon Web Services<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AI の投資収益率 (ROI) を算出する | Amazon Web Services<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>languages and platforms. It supports various deployment opti…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3zn72dg2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3zn72dg2g</guid>
-      <pubDate>Sun, 13 Sep 2026 17:17:47 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[languages and platforms. It supports various deployment options, detailed documentation, and integrations with multiple coding agents. (2/2)]]></description>
-      <content:encoded><![CDATA[languages and platforms. It supports various deployment options, detailed documentation, and integrations with multiple coding agents. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Open Code Review is an open-source AI-powered …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3zkorxw2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3zkorxw2g</guid>
-      <pubDate>Sun, 13 Sep 2026 17:17:43 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Open Code Review is an open-source AI-powered code review CLI from Alibaba that uses a deterministic, hybrid architecture to review diffs at line-level with precise file selection and context-aware agent guidance, delivering high-precision, scalable code reviews across multiple (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Open Code Review is an open-source AI-powered code review CLI from Alibaba that uses a deterministic, hybrid architecture to review diffs at line-level with precise file selection and context-aware agent guidance, delivering high-precision, scalable code reviews across multiple (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 alibaba / open-code…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3ymngqw26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvg3ymngqw26</guid>
-      <pubDate>Sun, 13 Sep 2026 17:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 alibaba / open-code-review<br>⭐ 22,882 (+264)<br>🗒 Go<br><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread...]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 alibaba / open-code-review<br>⭐ 22,882 (+264)<br>🗒 Go<br><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread...]]></content:encoded>
     </item>
   </channel>
 </rss>
