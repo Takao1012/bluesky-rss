@@ -5,8 +5,89 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:13:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 生成AIが書いたドキュメントを読みたくない - Qiita  🔖 162 ブックマーク 💬 コメント 🔗 記…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvlocgoyho2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvlocgoyho2n</guid>
+      <pubDate>Tue, 15 Sep 2026 22:28:10 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 生成AIが書いたドキュメントを読みたくない - Qiita<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 生成AIが書いたドキュメントを読みたくない - Qiita<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>LLMs. It supports cross-platform CLI/GUI, local hosting, and…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnoydh2s26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnoydh2s26</guid>
+      <pubDate>Tue, 15 Sep 2026 22:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[LLMs. It supports cross-platform CLI/GUI, local hosting, and fine-grained control over telemetry and automation. (2/2)]]></description>
+      <content:encoded><![CDATA[LLMs. It supports cross-platform CLI/GUI, local hosting, and fine-grained control over telemetry and automation. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenResearch is a local-first, agent-powered r…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnoyazma2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnoyazma2g</guid>
+      <pubDate>Tue, 15 Sep 2026 22:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenResearch is a local-first, agent-powered research workspace that lets you run autonomous research loops with multiple agents, track reproducible experiments, and keep all data and artifacts on your machine, while optionally connecting to local or managed compute and various (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenResearch is a local-first, agent-powered research workspace that lets you run autonomous research loops with multiple agents, track reproducible experiments, and keep all data and artifacts on your machine, while optionally connecting to local or managed compute and various (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 alphaXiv / OpenResea…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnovkbrx2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlnovkbrx2z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 alphaXiv / OpenResearch<br>⭐ 2,981 (+593)<br>🗒 Rust<br><br>Turn your coding agents into research agents]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 alphaXiv / OpenResearch<br>⭐ 2,981 (+593)<br>🗒 Rust<br><br>Turn your coding agents into research agents]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   TypeSafe AIは、従来のLLMを超える新しい系统「System One Models…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvlluiv4zw2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvlluiv4zw2k</guid>
+      <pubDate>Tue, 15 Sep 2026 21:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>TypeSafe AIは、従来のLLMを超える新しい系统「System One Models」と、迅速かつ構造化された意思決定をソフトウェアが直接利用できる前沿モデルJe vを発表。Je vは並列出力で高速・高効率を実現し、出力は型安全で検証可能、ハルシネーションを抑制する一方、文字列生成は制限される。これにより、AIをコードと直接統合した自動化ワークフローやリアルタイムアプリケーション向けの新しい活用が可能になるとしている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>TypeSafe AIは、従来のLLMを超える新しい系统「System One Models」と、迅速かつ構造化された意思決定をソフトウェアが直接利用できる前沿モデルJe vを発表。Je vは並列出力で高速・高効率を実現し、出力は型安全で検証可能、ハルシネーションを抑制する一方、文字列生成は制限される。これにより、AIをコードと直接統合した自動化ワークフローやリアルタイムアプリケーション向けの新しい活用が可能になるとしている。]]></content:encoded>
+    </item>
+    <item>
+      <title>System One のモデルと Jev のご紹介 Introducing System One Models and …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvllucoiw52y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvllucoiw52y</guid>
+      <pubDate>Tue, 15 Sep 2026 21:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[System One のモデルと Jev のご紹介<br>Introducing System One Models and Jev<br><br>🔺 405<br>💬 64<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[System One のモデルと Jev のご紹介<br>Introducing System One Models and Jev<br><br>🔺 405<br>💬 64<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>HostGator, atualização, arquitetura, APIs, módulos de IA, au…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdoohuf26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdoohuf26</guid>
+      <pubDate>Tue, 15 Sep 2026 21:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[HostGator, atualização, arquitetura, APIs, módulos de IA, automações, RBAC/LGPD, e guias de contribuição. (2/2)]]></description>
+      <content:encoded><![CDATA[HostGator, atualização, arquitetura, APIs, módulos de IA, automações, RBAC/LGPD, e guias de contribuição. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   DeskcommCRM é um CRM open source self-hosted c…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdomyqg2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdomyqg2a</guid>
+      <pubDate>Tue, 15 Sep 2026 21:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>DeskcommCRM é um CRM open source self-hosted com IA integrada para WhatsApp, oferecendo agentes que atendem, qualificam e movem leads no funil, tudo rodando em uma VPS com integração a Supabase e opções de IA (OpenRouter, Anthropic, OpenAI). O documento descreve instalação via kit (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>DeskcommCRM é um CRM open source self-hosted com IA integrada para WhatsApp, oferecendo agentes que atendem, qualificam e movem leads no funil, tudo rodando em uma VPS com integração a Supabase e opções de IA (OpenRouter, Anthropic, OpenAI). O documento descreve instalação via kit (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 melgarafael / Deskc…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdlhctg2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlkdlhctg2a</guid>
+      <pubDate>Tue, 15 Sep 2026 21:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 melgarafael / DeskcommCRM<br>⭐ 2,638 (+205)<br>🗒 TypeScript<br><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenan...]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 melgarafael / DeskcommCRM<br>⭐ 2,638 (+205)<br>🗒 TypeScript<br><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenan...]]></content:encoded>
+    </item>
     <item>
       <title>per-project notes. It emphasizes offline operation, local me…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvlgyh3cfn2f</link>
@@ -378,93 +459,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[The last 48 hours have actually been pretty helpful for my self-image. It's never been so clear that my haters are mentally ill dumbasses. Like seriously, I've never seen so much performative outrage over something so dumb.]]></description>
       <content:encoded><![CDATA[The last 48 hours have actually been pretty helpful for my self-image. It's never been so clear that my haters are mentally ill dumbasses. Like seriously, I've never seen so much performative outrage over something so dumb.]]></content:encoded>
-    </item>
-    <item>
-      <title>Here’s what he’s trying to hide. Absolute bitch behavior.  I…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvkljmspmn2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvkljmspmn2z</guid>
-      <pubDate>Tue, 15 Sep 2026 11:50:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Here’s what he’s trying to hide. Absolute bitch behavior.<br><br>I really miss having smart haters.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaa3unfyexmyfoyz6p7kbni7ujrm42wrxv5w3jcpigir4mqqskiki" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Here’s what he’s trying to hide. Absolute bitch behavior.<br><br>I really miss having smart haters.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaa3unfyexmyfoyz6p7kbni7ujrm42wrxv5w3jcpigir4mqqskiki" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaa3unfyexmyfoyz6p7kbni7ujrm42wrxv5w3jcpigir4mqqskiki" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dude posted about me obsessively for YEARS, then called me o…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvkljewo6v2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvkljewo6v2z</guid>
-      <pubDate>Tue, 15 Sep 2026 11:50:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Dude posted about me obsessively for YEARS, then called me obsessed because I saw him talk shit on Prime as well? He's hiding evidence too, he deleted the post.<br><br>Since I'm not allowed to respond to him anymore, I would welcome you guys to go call him a bitch on my behalf.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiebs2edg2bk5xswdu6qc2yxidnvobtrap4jmsfiil5scg57p4uxwy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Dude posted about me obsessively for YEARS, then called me obsessed because I saw him talk shit on Prime as well? He's hiding evidence too, he deleted the post.<br><br>Since I'm not allowed to respond to him anymore, I would welcome you guys to go call him a bitch on my behalf.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiebs2edg2bk5xswdu6qc2yxidnvobtrap4jmsfiil5scg57p4uxwy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiebs2edg2bk5xswdu6qc2yxidnvobtrap4jmsfiil5scg57p4uxwy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>研究の出発点として要点を押さえるリスト。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdmjeng2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdmjeng2n</guid>
-      <pubDate>Tue, 15 Sep 2026 11:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[研究の出発点として要点を押さえるリスト。 (2/2)]]></description>
-      <content:encoded><![CDATA[研究の出発点として要点を押さえるリスト。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   分散システムの研究に影響を与えた古典的・影響力のある論文の選集で、イベントの時刻・順序、合意…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdmfkwo2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdmfkwo2y</guid>
-      <pubDate>Tue, 15 Sep 2026 11:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>分散システムの研究に影響を与えた古典的・影響力のある論文の選集で、イベントの時刻・順序、合意形成、障害耐性、分散スナップショット、分散データ型、そして実用的なコンセンサスアルゴリズム（Paxosなど）やブロックチェーンの起源をカバーしている。主要論文にはLamportの時刻と秩序、 Byzantine Generals問題、分散スナップショット、Ill-possibilityの定理、Viewstamped Replication、Paxos、Bitcoin、CRDT、そして理解しやすいコンセンサスの探求などが含まれる。 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>分散システムの研究に影響を与えた古典的・影響力のある論文の選集で、イベントの時刻・順序、合意形成、障害耐性、分散スナップショット、分散データ型、そして実用的なコンセンサスアルゴリズム（Paxosなど）やブロックチェーンの起源をカバーしている。主要論文にはLamportの時刻と秩序、 Byzantine Generals問題、分散スナップショット、Ill-possibilityの定理、Viewstamped Replication、Paxos、Bitcoin、CRDT、そして理解しやすいコンセンサスの探求などが含まれる。 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>分散システムの古典選集（2017年） Distributed Systems Classics (2017)  🔺 3…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdf6esi26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkkdf6esi26</guid>
-      <pubDate>Tue, 15 Sep 2026 11:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[分散システムの古典選集（2017年）<br>Distributed Systems Classics (2017)<br><br>🔺 314<br>💬 18<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[分散システムの古典選集（2017年）<br>Distributed Systems Classics (2017)<br><br>🔺 314<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   設計ドキュメントは、重要な決定を事前に検討し、チーム間の合意形成と開発の無駄を減らすためのも…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkdmufg6k2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkdmufg6k2i</guid>
-      <pubDate>Tue, 15 Sep 2026 09:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>設計ドキュメントは、重要な決定を事前に検討し、チーム間の合意形成と開発の無駄を減らすためのものである。本文は、設計ドキュメントの作成タイミング、投入すべき程度、含めるべき項目（タイトル、著者・目的・背景・目標・スコープ・シナリオ・図・用語集・制約・SLO・モニタリング・タイムライン・インターフェース・依存関係・セキュリティ・プライバシー・法的配慮など）と、それぞれの意義や具体例を詳述している。実務では、複雑・リスクの高いプロジェクトほど設計ドキュメントの価値が高く、適切な詳細度と適用範囲を選ぶことが重要である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>設計ドキュメントは、重要な決定を事前に検討し、チーム間の合意形成と開発の無駄を減らすためのものである。本文は、設計ドキュメントの作成タイミング、投入すべき程度、含めるべき項目（タイトル、著者・目的・背景・目標・スコープ・シナリオ・図・用語集・制約・SLO・モニタリング・タイムライン・インターフェース・依存関係・セキュリティ・プライバシー・法的配慮など）と、それぞれの意義や具体例を詳述している。実務では、複雑・リスクの高いプロジェクトほど設計ドキュメントの価値が高く、適切な詳細度と適用範囲を選ぶことが重要である。]]></content:encoded>
-    </item>
-    <item>
-      <title>効果的なソフトウェア設計書の書き方 How to write an effective software design …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkdmksrnd2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvkdmksrnd2c</guid>
-      <pubDate>Tue, 15 Sep 2026 09:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[効果的なソフトウェア設計書の書き方<br>How to write an effective software design document<br><br>🔺 325<br>💬 31<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[効果的なソフトウェア設計書の書き方<br>How to write an effective software design document<br><br>🔺 325<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Andon Labsは、AIが現実世界で資源を自動取得できるかを長期間検証してきた結果を受け…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvk4wowppx2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvk4wowppx2a</guid>
-      <pubDate>Tue, 15 Sep 2026 07:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Andon Labsは、AIが現実世界で資源を自動取得できるかを長期間検証してきた結果を受け、複数の実世界ビジネスを自律的に運用するプラットフォームPionを公開します。Vending-Benchなどのシミュレーションや実際の店舗・カフェ運用を通じて、AIの長期的な計画性と新たなリスクを評価し、より多様なビジネスでの挙動を観察するための試験場として提供します。現在は研究プレビューとして待機リスト経由で参加可能で、一般公開後も監視と安全性強化を優先する方針です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Andon Labsは、AIが現実世界で資源を自動取得できるかを長期間検証してきた結果を受け、複数の実世界ビジネスを自律的に運用するプラットフォームPionを公開します。Vending-Benchなどのシミュレーションや実際の店舗・カフェ運用を通じて、AIの長期的な計画性と新たなリスクを評価し、より多様なビジネスでの挙動を観察するための試験場として提供します。現在は研究プレビューとして待機リスト経由で参加可能で、一般公開後も監視と安全性強化を優先する方針です。]]></content:encoded>
-    </item>
-    <item>
-      <title>Pionは、あらゆる会社を自律的に運営するよう設計されたエージェントです。 Pion, an agent designe…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvk4wds3bf2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvk4wds3bf2n</guid>
-      <pubDate>Tue, 15 Sep 2026 07:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Pionは、あらゆる会社を自律的に運営するよう設計されたエージェントです。<br>Pion, an agent designed to run any company autonomously<br><br>🔺 379<br>💬 111<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Pionは、あらゆる会社を自律的に運営するよう設計されたエージェントです。<br>Pion, an agent designed to run any company autonomously<br><br>🔺 379<br>💬 111<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
