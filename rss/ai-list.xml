@@ -5,8 +5,164 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:18:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>with strong RBAC and observability. It supports multi-source…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobj43ifg2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobj43ifg2r</guid>
+      <pubDate>Wed, 16 Sep 2026 23:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[with strong RBAC and observability. It supports multi-source ingestion, web embedding, and extensive integrations (MCP, Langfuse, various vectors/LLMs) for self-hosted, private-cloud deployments. (2/2)]]></description>
+      <content:encoded><![CDATA[with strong RBAC and observability. It supports multi-source ingestion, web embedding, and extensive integrations (MCP, Langfuse, various vectors/LLMs) for self-hosted, private-cloud deployments. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   WeKnora is an open-source, modular, LL-powered…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobj3zan32b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobj3zan32b</guid>
+      <pubDate>Wed, 16 Sep 2026 23:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>WeKnora is an open-source, modular, LL-powered knowledge framework for enterprise document understanding and autonomous reasoning, featuring RAG-based Q&A, ReAct agents, a Wiki mode with revision history, cross-session memory, and broad data source, LLM, and deployment options (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>WeKnora is an open-source, modular, LL-powered knowledge framework for enterprise document understanding and autonomous reasoning, featuring RAG-based Q&A, ReAct agents, a Wiki mode with revision history, cross-session memory, and broad data source, LLM, and deployment options (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 Tencent / WeKnora ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobiyxmk426</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvobiyxmk426</guid>
+      <pubDate>Wed, 16 Sep 2026 23:17:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Tencent / WeKnora<br>⭐ 24,851 (+696)<br>🗒 Go<br><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 Tencent / WeKnora<br>⭐ 24,851 (+696)<br>🗒 Go<br><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.]]></content:encoded>
+    </item>
+    <item>
+      <title>This was not the case for OpenAI, both because their APIs we…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavy2jzc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavy2jzc2w</guid>
+      <pubDate>Wed, 16 Sep 2026 23:02:07 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[This was not the case for OpenAI, both because their APIs were more stable and because the only alternative hosting option was Azure, which managed to have even worse reliability than Anthropic lol]]></description>
+      <content:encoded><![CDATA[This was not the case for OpenAI, both because their APIs were more stable and because the only alternative hosting option was Azure, which managed to have even worse reliability than Anthropic lol]]></content:encoded>
+    </item>
+    <item>
+      <title>Worth noting that, historically, the only reasonable way to …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavrk3xl2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavrk3xl2z</guid>
+      <pubDate>Wed, 16 Sep 2026 23:01:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Worth noting that, historically, the only reasonable way to use Anthropic models was through Openrouter due to Anthropic's APIs being notoriously unreliable.<br><br>Openrouter would fall back to AWS Bedrock and Google Cloud, which meaningfully increased reliability.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamayhcvbcin3pe3d5r2pjnkjw4uorm6it4oegpbymfoajlplinle" alt="Quote Tweet: https://twitter.com/i/status/2100240010695827959" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Worth noting that, historically, the only reasonable way to use Anthropic models was through Openrouter due to Anthropic's APIs being notoriously unreliable.<br><br>Openrouter would fall back to AWS Bedrock and Google Cloud, which meaningfully increased reliability.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamayhcvbcin3pe3d5r2pjnkjw4uorm6it4oegpbymfoajlplinle" alt="Quote Tweet: https://twitter.com/i/status/2100240010695827959" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiamayhcvbcin3pe3d5r2pjnkjw4uorm6it4oegpbymfoajlplinle" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>⚡ Building the new GitHub Copilot Inline Suggestions Model  …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvoa2cf6ns26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvoa2cf6ns26</guid>
+      <pubDate>Wed, 16 Sep 2026 22:51:03 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[⚡ Building the new GitHub Copilot Inline Suggestions Model<br><br>From completions to next edits, see how we brought inline suggestions together in one model.<br><br>📖 Read the full story: code.visualstudio.com/blogs/2026/0...]]></description>
+      <content:encoded><![CDATA[⚡ Building the new GitHub Copilot Inline Suggestions Model<br><br>From completions to next edits, see how we brought inline suggestions together in one model.<br><br>📖 Read the full story: code.visualstudio.com/blogs/2026/0...]]></content:encoded>
+    </item>
+    <item>
+      <title>Theo controversy tier list</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavf52pl2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoavf52pl2q</guid>
+      <pubDate>Wed, 16 Sep 2026 22:22:40 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Theo controversy tier list
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieuano67xrxs23x44af6k7d4k43cjfwespztmoyj37pbpgsebfama" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Theo controversy tier list
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieuano67xrxs23x44af6k7d4k43cjfwespztmoyj37pbpgsebfama" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieuano67xrxs23x44af6k7d4k43cjfwespztmoyj37pbpgsebfama" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 cline / cline ⭐ 68,179 …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo65u7cz62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo65u7cz62k</guid>
+      <pubDate>Wed, 16 Sep 2026 22:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 cline / cline<br>⭐ 68,179 (+102)<br>🗒 TypeScript<br><br>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 cline / cline<br>⭐ 68,179 (+102)<br>🗒 TypeScript<br><br>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ハッカー集団がFlock Safetyの道路監視カメラを撤去・解析し、データのほぼ完全なコピ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvo4dlglj42k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvo4dlglj42k</guid>
+      <pubDate>Wed, 16 Sep 2026 21:44:40 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ハッカー集団がFlock Safetyの道路監視カメラを撤去・解析し、データのほぼ完全なコピーを入手・共有。機器内部の暗号鍵を復元して大量の車両映像を解読可能にし、車両だけでなく人物やバイクなども検出していたことが判明した。一方で機器の分解・リバースエンジニアリングを通じて、監視カメラがどのようにデータを収集・共有するかの具体的な手口が暴露され、カメラネットワークの透明性とプライバシー懸念が改めて浮上した。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ハッカー集団がFlock Safetyの道路監視カメラを撤去・解析し、データのほぼ完全なコピーを入手・共有。機器内部の暗号鍵を復元して大量の車両映像を解読可能にし、車両だけでなく人物やバイクなども検出していたことが判明した。一方で機器の分解・リバースエンジニアリングを通じて、監視カメラがどのようにデータを収集・共有するかの具体的な手口が暴露され、カメラネットワークの透明性とプライバシー懸念が改めて浮上した。]]></content:encoded>
+    </item>
+    <item>
+      <title>ハッカーがフロックのカメラに侵入した Hackers Got Inside a Flock Camera  🔺 395…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvo4d57oyt2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvo4d57oyt2i</guid>
+      <pubDate>Wed, 16 Sep 2026 21:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ハッカーがフロックのカメラに侵入した<br>Hackers Got Inside a Flock Camera<br><br>🔺 395<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ハッカーがフロックのカメラに侵入した<br>Hackers Got Inside a Flock Camera<br><br>🔺 395<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Super behind on work. Gonna stream tomorrow instead :)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoav4667t2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoav4667t2z</guid>
+      <pubDate>Wed, 16 Sep 2026 21:40:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Super behind on work. Gonna stream tomorrow instead :)]]></description>
+      <content:encoded><![CDATA[Super behind on work. Gonna stream tomorrow instead :)]]></content:encoded>
+    </item>
+    <item>
+      <title>Also worth noting that it STILL lets you keep going after yo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoautrpw726</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoautrpw726</guid>
+      <pubDate>Wed, 16 Sep 2026 21:20:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Also worth noting that it STILL lets you keep going after your limit is hit in many cases.<br><br>Not gonna lie, people being outraged about this has become a very useful IQ test.<br><br>https://x.com/eduardadotai/status/2100259365278056887
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih2hkeu2jbq3d47rknmzik7z3xirduulynfkimbovzvbimbbbh52m" alt="Quote Tweet: https://x.com/eduardadotai/status/2100259365278056887" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Also worth noting that it STILL lets you keep going after your limit is hit in many cases.<br><br>Not gonna lie, people being outraged about this has become a very useful IQ test.<br><br>https://x.com/eduardadotai/status/2100259365278056887
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih2hkeu2jbq3d47rknmzik7z3xirduulynfkimbovzvbimbbbh52m" alt="Quote Tweet: https://x.com/eduardadotai/status/2100259365278056887" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih2hkeu2jbq3d47rknmzik7z3xirduulynfkimbovzvbimbbbh52m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kind of wild that OpenAI is straight up in a compute crisis,…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoaugwpq627</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvoaugwpq627</guid>
+      <pubDate>Wed, 16 Sep 2026 21:18:46 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Kind of wild that OpenAI is straight up in a compute crisis, going as far as shutting down signups for $200 accounts, yet somehow Maria and I are blamed for everything
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbi66oz2umtjv253rqf4et6c63svdgzphkvn2yvdfppwnky3zatu" alt="Quote Tweet: https://twitter.com/i/status/2100128468709065019" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Kind of wild that OpenAI is straight up in a compute crisis, going as far as shutting down signups for $200 accounts, yet somehow Maria and I are blamed for everything
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbi66oz2umtjv253rqf4et6c63svdgzphkvn2yvdfppwnky3zatu" alt="Quote Tweet: https://twitter.com/i/status/2100128468709065019" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigbi66oz2umtjv253rqf4et6c63svdgzphkvn2yvdfppwnky3zatu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kimi Code, plus memory, hooks, MCPs, and cross-harness colla…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2ssst252b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2ssst252b</guid>
+      <pubDate>Wed, 16 Sep 2026 21:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Kimi Code, plus memory, hooks, MCPs, and cross-harness collaboration. It emphasizes a rules-first, modular workflow to optimize context, enable continuous learning, and enforce consistent engineering practices. (2/2)]]></description>
+      <content:encoded><![CDATA[Kimi Code, plus memory, hooks, MCPs, and cross-harness collaboration. It emphasizes a rules-first, modular workflow to optimize context, enable continuous learning, and enforce consistent engineering practices. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   ECC is an MIT-licensed, open-source &quot;Agent Har…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2ssrh3v2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2ssrh3v2b</guid>
+      <pubDate>Wed, 16 Sep 2026 21:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>ECC is an MIT-licensed, open-source "Agent Harness Operating System" that provides 68 specialized subagents, 292 skills, and 94 commands to manage planning, testing, review, security, and automation for building software, with guided setup options across Claude Code, Codex, and (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an MIT-licensed, open-source "Agent Harness Operating System" that provides 68 specialized subagents, 292 skills, and 94 commands to manage planning, testing, review, security, and automation for building software, with guided setup options across Claude Code, Codex, and (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 affaan-m / ECC ⭐ 259…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2spbmxv2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvo2spbmxv2b</guid>
+      <pubDate>Wed, 16 Sep 2026 21:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 259,723 (+1,046)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 259,723 (+1,046)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 supabase / supabase ⭐ 1…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnxhay7wy2h</link>
@@ -333,150 +489,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>Lakr233/vphone-cli<br>AppleのVirtualization.frameworkとPCC research VMインフラを利用して、仮想iPhoneを起動するためのCLIツールです。<br>VMの作成、構成、管理（クローンやエクスポートなど）をコマンドラインから一括して行うことができます。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Lakr233/vphone-cli<br>AppleのVirtualization.frameworkとPCC research VMインフラを利用して、仮想iPhoneを起動するためのCLIツールです。<br>VMの作成、構成、管理（クローンやエクスポートなど）をコマンドラインから一括して行うことができます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  jamiepine/voicebox Voiceboxは、ローカルで動作するオープンソース…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnhbzpw3s2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnhbzpw3s2s</guid>
-      <pubDate>Wed, 16 Sep 2026 15:28:00 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>jamiepine/voicebox<br>Voiceboxは、ローカルで動作するオープンソースのAIボイススタジオです。<br>少量の音声からのクローン作成、多言語での音声生成、アプリへの音声入力、AIエージェントへの音声設定などの機能を提供します。<br>ElevenLabsやWisprFlowのようなクラウドサービスの代替として、音声の入力と出力の両方をローカル環境で完結させることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>jamiepine/voicebox<br>Voiceboxは、ローカルで動作するオープンソースのAIボイススタジオです。<br>少量の音声からのクローン作成、多言語での音声生成、アプリへの音声入力、AIエージェントへの音声設定などの機能を提供します。<br>ElevenLabsやWisprFlowのようなクラウドサービスの代替として、音声の入力と出力の両方をローカル環境で完結させることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  abue-ammar/tinycast TinycastはmacOS向けの軽量なネイティブ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnh6s4bhd2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnh6s4bhd2h</guid>
-      <pubDate>Wed, 16 Sep 2026 15:26:11 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>abue-ammar/tinycast<br>TinycastはmacOS向けの軽量なネイティブランチャーです。<br>SwiftUIとAppKitを採用し、メモリ消費量を100MB未満に抑えつつ、Raycastの拡張機能をネイティブに動作させることができます。<br>外部依存ライブラリやテレメトリを含まない、無料のオープンソースソフトウェアです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>abue-ammar/tinycast<br>TinycastはmacOS向けの軽量なネイティブランチャーです。<br>SwiftUIとAppKitを採用し、メモリ消費量を100MB未満に抑えつつ、Raycastの拡張機能をネイティブに動作させることができます。<br>外部依存ライブラリやテレメトリを含まない、無料のオープンソースソフトウェアです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cloudflare/security-audit-skill コーディングエージェントを…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnh3bekvm2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvnh3bekvm2m</guid>
-      <pubDate>Wed, 16 Sep 2026 15:24:13 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員として機能させるためのスキルを提供します。<br>偵察、探索、検証、出力、記録検証、レポート作成の6つのフェーズを構造的に実行し、効率的に脆弱性を発見することを目的としています。<br>Cloudflareの脆弱性発見システムの原型となった実装です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員として機能させるためのスキルを提供します。<br>偵察、探索、検証、出力、記録検証、レポート作成の6つのフェーズを構造的に実行し、効率的に脆弱性を発見することを目的としています。<br>Cloudflareの脆弱性発見システムの原型となった実装です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  alibaba/open-code-review OpenCodeReviewは、AIを活…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvngwngjmo2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvngwngjmo2e</guid>
-      <pubDate>Wed, 16 Sep 2026 15:21:38 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewは、AIを活用したコードレビュー用CLIツールです。<br>Alibabaグループの内部ツールをベースにオープンソース化されました。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>コードベースの検索やファイル全体のスキャンも可能で、汎用エージェントよりも高精度かつ効率的なレビューの提供を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewは、AIを活用したコードレビュー用CLIツールです。<br>Alibabaグループの内部ツールをベースにオープンソース化されました。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>コードベースの検索やファイル全体のスキャンも可能で、汎用エージェントよりも高精度かつ効率的なレビューの提供を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  TokenRhythm/NeoHorse-1-4B NeoHorse-1-4Bは…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnevoqis42q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnevoqis42q</guid>
-      <pubDate>Wed, 16 Sep 2026 14:45:18 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>TokenRhythm/NeoHorse-1-4B<br>NeoHorse-1-4BはQwen3.5-4BをベースにTokenRhythmがファインチューニングした言語モデルです。<br>再帰的な自己改善（RSI）に向けた初期プロトタイプとして作成され、テキストベースのエージェント、ツール利用、コーディング、指示追従などの機能向上を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>TokenRhythm/NeoHorse-1-4B<br>NeoHorse-1-4BはQwen3.5-4BをベースにTokenRhythmがファインチューニングした言語モデルです。<br>再帰的な自己改善（RSI）に向けた初期プロトタイプとして作成され、テキストベースのエージェント、ツール利用、コーディング、指示追従などの機能向上を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  nex-agi/Nex-N2.5-mini Nex-N2.5は、現実世界の長期タ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnev53ojh2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnev53ojh2n</guid>
-      <pubDate>Wed, 16 Sep 2026 14:44:59 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nex-agi/Nex-N2.5-mini<br>Nex-N2.5は、現実世界の長期タスク向けに設計された次世代のエージェントモデル群です。<br>コンピュータ操作、ウェブ閲覧、プログラムの自動実行およびテストが可能で、視覚フィードバックによる自己修正能力を備えています。<br>mini、Pro、Maxの3つのサイズを展開し、科学研究や知識集約的な業務、複雑な生産性タスクの遂行を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nex-agi/Nex-N2.5-mini<br>Nex-N2.5は、現実世界の長期タスク向けに設計された次世代のエージェントモデル群です。<br>コンピュータ操作、ウェブ閲覧、プログラムの自動実行およびテストが可能で、視覚フィードバックによる自己修正能力を備えています。<br>mini、Pro、Maxの3つのサイズを展開し、科学研究や知識集約的な業務、複雑な生産性タスクの遂行を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bというポストトレーニング…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvneu3553o2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvneu3553o2s</guid>
-      <pubDate>Wed, 16 Sep 2026 14:44:24 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供することを目的としています。<br>画像や動画を理解できる視覚言語モデルであり、コーディングや研究、複雑な多段階タスクの実行に最適化されています。<br>Hugging Face TransformersやvLLMなどのフレームワークと互換性があり、導入しやすいコンパクトな設計となっています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供することを目的としています。<br>画像や動画を理解できる視覚言語モデルであり、コーディングや研究、複雑な多段階タスクの実行に最適化されています。<br>Hugging Face TransformersやvLLMなどのフレームワークと互換性があり、導入しやすいコンパクトな設計となっています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  openbmb/MiniCPM5-2B MiniCPM5-2Bは、オンデバイスや…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnesgd6ua2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnesgd6ua2h</guid>
-      <pubDate>Wed, 16 Sep 2026 14:43:28 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>openbmb/MiniCPM5-2B<br>MiniCPM5-2Bは、オンデバイスやローカル展開、リソース制限のある環境向けに設計された2BパラメータのTransformerモデルです。<br>同規模のオープンソースモデルで最高性能を実現しており、特にコーディング、数学、長文脈理解、ツール利用、エージェントタスクにおいて優れた能力を持ちます。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>openbmb/MiniCPM5-2B<br>MiniCPM5-2Bは、オンデバイスやローカル展開、リソース制限のある環境向けに設計された2BパラメータのTransformerモデルです。<br>同規模のオープンソースモデルで最高性能を実現しており、特にコーディング、数学、長文脈理解、ツール利用、エージェントタスクにおいて優れた能力を持ちます。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4.1-Flash </title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnenlp6x32g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvnenlp6x32g</guid>
-      <pubDate>Wed, 16 Sep 2026 14:40:46 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>detection/segmentation workflows. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddnawm726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddnawm726</guid>
-      <pubDate>Wed, 16 Sep 2026 14:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[detection/segmentation workflows. (2/2)]]></description>
-      <content:encoded><![CDATA[detection/segmentation workflows. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Supervision is a Python toolkit for building c…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddn7q6k26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddn7q6k26</guid>
-      <pubDate>Wed, 16 Sep 2026 14:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Supervision is a Python toolkit for building computer vision apps, offering model-agnostic data loading, visualization, annotation, and dataset utilities with connectors to popular libraries and formats. It includes tutorials, documentation, and integration guides to streamline (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Supervision is a Python toolkit for building computer vision apps, offering model-agnostic data loading, visualization, annotation, and dataset utilities with connectors to popular libraries and formats. It includes tutorials, documentation, and integration guides to streamline (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 roboflow / supervis…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddjravx2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvnddjravx2b</guid>
-      <pubDate>Wed, 16 Sep 2026 14:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 roboflow / supervision<br>⭐ 50,424 (+217)<br>🗒 Python<br><br>We write your reusable computer vision tools. 💜]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 roboflow / supervision<br>⭐ 50,424 (+217)<br>🗒 Python<br><br>We write your reusable computer vision tools. 💜]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   欧州委員会のウルズラ・フォン・デア・ライエンは、カナダをEUの「準加盟国」へ近づける提案を支…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvnbj3x5qb2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvnbj3x5qb2d</guid>
-      <pubDate>Wed, 16 Sep 2026 13:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>欧州委員会のウルズラ・フォン・デア・ライエンは、カナダをEUの「準加盟国」へ近づける提案を支持し、製造業・AI・防衛・エネルギーなどの分野での協力拡大を訴えた。彼女はEUとカナダの関係を「世界の秩序の回復」に資する戦略的パートナーシップと位置づけ、欧州セキュリティ評議会の創設など安全保障強化の構想も示したが、準加盟制度は現時点で存在せず実現には years かかる可能性がある。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>欧州委員会のウルズラ・フォン・デア・ライエンは、カナダをEUの「準加盟国」へ近づける提案を支持し、製造業・AI・防衛・エネルギーなどの分野での協力拡大を訴えた。彼女はEUとカナダの関係を「世界の秩序の回復」に資する戦略的パートナーシップと位置づけ、欧州セキュリティ評議会の創設など安全保障強化の構想も示したが、準加盟制度は現時点で存在せず実現には years かかる可能性がある。]]></content:encoded>
-    </item>
-    <item>
-      <title>EU首脳、カナダの「準加盟国」入りへの道を開く EU chief opens door for Canada to be…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvnbiunyst2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvnbiunyst2n</guid>
-      <pubDate>Wed, 16 Sep 2026 13:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[EU首脳、カナダの「準加盟国」入りへの道を開く<br>EU chief opens door for Canada to become 'associate member'<br><br>🔺 555<br>💬 63<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[EU首脳、カナダの「準加盟国」入りへの道を開く<br>EU chief opens door for Canada to become 'associate member'<br><br>🔺 555<br>💬 63<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>multi-platform support. It includes a comprehensive feature …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvn4n5z4yk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvn4n5z4yk2g</guid>
-      <pubDate>Wed, 16 Sep 2026 12:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multi-platform support. It includes a comprehensive feature set (27+ languages, post-processing, stories editor, global dictation, captures, and an API) and targets developers with extensive MCP and REST integrations. (2/2)]]></description>
-      <content:encoded><![CDATA[multi-platform support. It includes a comprehensive feature set (27+ languages, post-processing, stories editor, global dictation, captures, and an API) and targets developers with extensive MCP and REST integrations. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Voicebox is a local-first, open-source AI voic…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvn4n5xsk22j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvn4n5xsk22j</guid>
-      <pubDate>Wed, 16 Sep 2026 12:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Voicebox is a local-first, open-source AI voice studio that clones voices, generates speech across multiple TTS engines, handles voice input and agent output, and offers a built-in MCP API for integrating with other apps—entirely running on your machine with privacy and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Voicebox is a local-first, open-source AI voice studio that clones voices, generates speech across multiple TTS engines, handles voice input and agent output, and offers a built-in MCP API for integrating with other apps—entirely running on your machine with privacy and (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
