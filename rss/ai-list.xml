@@ -5,8 +5,89 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:15:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今後Vulkan・OpenGL ES 3.2/4.6等への拡張やアップストリームを目指しており、コミュニティ参加を呼びか…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sgw7zp2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sgw7zp2a</guid>
+      <pubDate>Wed, 16 Sep 2026 11:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[今後Vulkan・OpenGL ES 3.2/4.6等への拡張やアップストリームを目指しており、コミュニティ参加を呼びかけている。 (2/2)]]></description>
+      <content:encoded><![CDATA[今後Vulkan・OpenGL ES 3.2/4.6等への拡張やアップストリームを目指しており、コミュニティ参加を呼びかけている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   - Niklasと筆者は、約1か月でM4 Mac MiniとMacBook Neo向けのOp…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sgsegp2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sgsegp2z</guid>
+      <pubDate>Wed, 16 Sep 2026 11:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- Niklasと筆者は、約1か月でM4 Mac MiniとMacBook Neo向けのOpenGL ES 3.0準择GPUドライバを自作し、Chrome/FirefoxでWebGLが動作、Minecraftが200fpsで実行できるレベルに到達した。<br>- 低レイヤーのカーネル/ユーザー空間を含む全体をクリーンルームでリバースエンジニアリングし、ファームウェア ABIの解析、Rustでのドライバ実装、Mesa/NIR経由のOpenGL対応を進めた。 <br>- 現在はまだ完成版ではなく、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- Niklasと筆者は、約1か月でM4 Mac MiniとMacBook Neo向けのOpenGL ES 3.0準择GPUドライバを自作し、Chrome/FirefoxでWebGLが動作、Minecraftが200fpsで実行できるレベルに到達した。<br>- 低レイヤーのカーネル/ユーザー空間を含む全体をクリーンルームでリバースエンジニアリングし、ファームウェア ABIの解析、Rustでのドライバ実装、Mesa/NIR経由のOpenGL対応を進めた。 <br>- 現在はまだ完成版ではなく、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>M4 Mac mini 向けの Linux GPUドライバーを1か月で作る Building a Linux GPU D…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sb3up426</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvn2sb3up426</guid>
+      <pubDate>Wed, 16 Sep 2026 11:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[M4 Mac mini 向けの Linux GPUドライバーを1か月で作る<br>Building a Linux GPU Driver for the M4 Mac Mini in One Month<br><br>🔺 354<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[M4 Mac mini 向けの Linux GPUドライバーを1か月で作る<br>Building a Linux GPU Driver for the M4 Mac Mini in One Month<br><br>🔺 354<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 社長はエンジニア｜平田　はる香  🔖 152 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvmwjywkcm2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvmwjywkcm2k</guid>
+      <pubDate>Wed, 16 Sep 2026 10:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 社長はエンジニア｜平田　はる香<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 社長はエンジニア｜平田　はる香<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Linux From Scratch (LFS) は、ソースコードから自作のLinuxシステ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmu42hg7j2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmu42hg7j2y</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Linux From Scratch (LFS) は、ソースコードから自作のLinuxシステムを構築する手順を提供するプロジェクトです。現在は、LFS本体を基盤とし、BLFS・ALFS・MLFS・GLFS・SLFS・Hints・Patches・LFS Editor's Guide・Museumなどの派生・補完プロジェクトが存在します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Linux From Scratch (LFS) は、ソースコードから自作のLinuxシステムを構築する手順を提供するプロジェクトです。現在は、LFS本体を基盤とし、BLFS・ALFS・MLFS・GLFS・SLFS・Hints・Patches・LFS Editor's Guide・Museumなどの派生・補完プロジェクトが存在します。]]></content:encoded>
+    </item>
+    <item>
+      <title>スクラッチから作る Linux Linux from Scratch  🔺 366 💬 32 🔗 HN Post …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmu3s32sz2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmu3s32sz2a</guid>
+      <pubDate>Wed, 16 Sep 2026 09:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スクラッチから作る Linux<br>Linux from Scratch<br><br>🔺 366<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スクラッチから作る Linux<br>Linux from Scratch<br><br>🔺 366<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   消費者の権利強化や社会的回復力の向上にもつながる循環型経済を実現するため、消費者政策が循環型…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmnfgi4w52d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmnfgi4w52d</guid>
+      <pubDate>Wed, 16 Sep 2026 07:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>消費者の権利強化や社会的回復力の向上にもつながる循環型経済を実現するため、消費者政策が循環型の選択をより容易で安全、魅力的にする方法を本報告で示します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>消費者の権利強化や社会的回復力の向上にもつながる循環型経済を実現するため、消費者政策が循環型の選択をより容易で安全、魅力的にする方法を本報告で示します。]]></content:encoded>
+    </item>
+    <item>
+      <title>品質を再び基準にしよう。 Let&apos;s make quality the norm again  🔺 373 💬 42…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmnf4fsmh2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmnf4fsmh2n</guid>
+      <pubDate>Wed, 16 Sep 2026 07:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[品質を再び基準にしよう。<br>Let's make quality the norm again<br><br>🔺 373<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[品質を再び基準にしよう。<br>Let's make quality the norm again<br><br>🔺 373<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連れ……日本では合法なのになぜ？  …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvmmiclt7n2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvmmiclt7n2n</guid>
+      <pubDate>Wed, 16 Sep 2026 07:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連れ……日本では合法なのになぜ？<br><br>🔖 185 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連れ……日本では合法なのになぜ？<br><br>🔖 185 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   GoogleのGeminiは、対話型AIの新世代モデルとして「Gemini 3.8 Live…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvmgox5cj42c</link>
@@ -375,87 +456,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>ever-co/ever-gauzy<br>コラボレーション、オンデマンド、共有経済向けのオープンなビジネス管理プラットフォームです。<br>企業やフリーランス、エージェンシー、社内チームなどのビジネス管理を目的として作成されました。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ever-co/ever-gauzy<br>コラボレーション、オンデマンド、共有経済向けのオープンなビジネス管理プラットフォームです。<br>企業やフリーランス、エージェンシー、社内チームなどのビジネス管理を目的として作成されました。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  JustVugg/colibri Colibrìは、一般消費者向けなどの多様なハードウェア…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvkwslmrpo2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvkwslmrpo2o</guid>
-      <pubDate>Tue, 15 Sep 2026 15:27:42 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>JustVugg/colibri<br>Colibrìは、一般消費者向けなどの多様なハードウェアで超大規模なMoEモデルを動作させるための推論エンジンおよび研究プラットフォームです。<br>C言語で実装され、VRAM、RAM、ストレージを単一の階層として扱うメモリ管理手法を採用しています。<br>ハードウェア依存度の低減と運用コストの削減を目的としており、モデルの精度や意味論を維持したまま効率的な推論を実現することを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>JustVugg/colibri<br>Colibrìは、一般消費者向けなどの多様なハードウェアで超大規模なMoEモデルを動作させるための推論エンジンおよび研究プラットフォームです。<br>C言語で実装され、VRAM、RAM、ストレージを単一の階層として扱うメモリ管理手法を採用しています。<br>ハードウェア依存度の低減と運用コストの削減を目的としており、モデルの精度や意味論を維持したまま効率的な推論を実現することを目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>test-backed, and quality-verified software delivery. It incl…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa5paxy23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa5paxy23</guid>
-      <pubDate>Tue, 15 Sep 2026 15:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[test-backed, and quality-verified software delivery. It includes setup instructions, adoption paths, reference checklists, agent personas, and contributor guidelines. (2/2)]]></description>
-      <content:encoded><![CDATA[test-backed, and quality-verified software delivery. It includes setup instructions, adoption paths, reference checklists, agent personas, and contributor guidelines. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Summary: This document presents Agent Skills, …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa5nwia2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa5nwia2z</guid>
-      <pubDate>Tue, 15 Sep 2026 15:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Summary: This document presents Agent Skills, a production-grade framework for AI coding agents that enforces disciplined workflows (define, plan, build, verify, review, ship) through 25 modular skills, detailed usage guides, and multi-tool integrations to ensure spec-driven, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Summary: This document presents Agent Skills, a production-grade framework for AI coding agents that enforces disciplined workflows (define, plan, build, verify, review, ship) through 25 modular skills, detailed usage guides, and multi-tool integrations to ensure spec-driven, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 addyosmani / agent-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa2fs4r2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvkwa2fs4r2b</guid>
-      <pubDate>Tue, 15 Sep 2026 15:17:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 94,504 (+354)<br>🗒 JavaScript<br><br>Production-grade engineering skills for AI coding agents.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 addyosmani / agent-skills<br>⭐ 94,504 (+354)<br>🗒 JavaScript<br><br>Production-grade engineering skills for AI coding agents.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkun3tjqp2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkun3tjqp2t</guid>
-      <pubDate>Tue, 15 Sep 2026 14:48:50 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF GSQ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkudw7zcx2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkudw7zcx2j</guid>
-      <pubDate>Tue, 15 Sep 2026 14:43:43 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いた非一様量子化を適用したQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターが含まれています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いた非一様量子化を適用したQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターが含まれています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  nex-agi/Nex-N2.5-Pro 現実世界の長期的なタスクを実行するため…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkubm36kt2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkubm36kt2h</guid>
-      <pubDate>Tue, 15 Sep 2026 14:42:25 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nex-agi/Nex-N2.5-Pro<br>現実世界の長期的なタスクを実行するための次世代エージェントモデルNex-N2.5を提供します。<br>コンピュータ操作やウェブ閲覧、視覚的なフィードバックによる自己修正が可能で、プログラムの自律的な実行やテストも行えます。<br>科学研究や知識ワーク、複雑な生産性タスクの効率化を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nex-agi/Nex-N2.5-Pro<br>現実世界の長期的なタスクを実行するための次世代エージェントモデルNex-N2.5を提供します。<br>コンピュータ操作やウェブ閲覧、視覚的なフィードバックによる自己修正が可能で、プログラムの自律的な実行やテストも行えます。<br>科学研究や知識ワーク、複雑な生産性タスクの効率化を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  m-a-p/YuE2-3B YuE2は、歌詞とスタイル指定からボーカルと伴奏を含…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkuaihjvh2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvkuaihjvh2w</guid>
-      <pubDate>Tue, 15 Sep 2026 14:41:47 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>YuE2は、歌詞とスタイル指定からボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードを調整できるのが特徴で、Suno v5/v6に匹敵する高品質な楽曲生成を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>YuE2は、歌詞とスタイル指定からボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードを調整できるのが特徴で、Suno v5/v6に匹敵する高品質な楽曲生成を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Edge0/Edge0-35B-A3B-preview edge0ストリーミング…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvktzjkrr22q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvktzjkrr22q</guid>
-      <pubDate>Tue, 15 Sep 2026 14:37:54 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Edge0-35B-A3B-preview<br>edge0ストリーミング推論フレームワークを用いて、35Bクラスのsparse MoE LLMをスマートフォン程度の低メモリ環境（有効メモリ3 GiB未満）で動作させることを目的としています。<br>必要なウェイトのみをオンデマンドでロードすることで、メモリ消費を抑えつつ実用的な速度での推論を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Edge0-35B-A3B-preview<br>edge0ストリーミング推論フレームワークを用いて、35Bクラスのsparse MoE LLMをスマートフォン程度の低メモリ環境（有効メモリ3 GiB未満）で動作させることを目的としています。<br>必要なウェイトのみをオンデマンドでロードすることで、メモリ消費を抑えつつ実用的な速度での推論を実現します。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
