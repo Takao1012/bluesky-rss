@@ -5,8 +5,155 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:37:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3qeygl2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3qeygl2c</guid>
+      <pubDate>Thu, 17 Sep 2026 19:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り、冗長化・データの重複排除・3-2-1ルールなどを組み合わせるべきだが、手作業のバックアップは複雑で継続的な検証が必須。結局は rsnapshot/Borg/Restic などの信頼できるツールを使い、定期的なリストアテストを欠かさないことが重要。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り、冗長化・データの重複排除・3-2-1ルールなどを組み合わせるべきだが、手作業のバックアップは複雑で継続的な検証が必須。結局は rsnapshot/Borg/Restic などの信頼できるツールを使い、定期的なリストアテストを欠かさないことが重要。]]></content:encoded>
+    </item>
+    <item>
+      <title>バックアップは簡単ではない Backups Aren&apos;t Simple  🔺 335 💬 53 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3hbmy62g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3hbmy62g</guid>
+      <pubDate>Thu, 17 Sep 2026 19:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[バックアップは簡単ではない<br>Backups Aren't Simple<br><br>🔺 335<br>💬 53<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[バックアップは簡単ではない<br>Backups Aren't Simple<br><br>🔺 335<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>And Hailey on sales should be fired.  Anyways, looks like I’…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwqe6a72c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwqe6a72c</guid>
+      <pubDate>Thu, 17 Sep 2026 18:54:25 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[And Hailey on sales should be fired.<br><br>Anyways, looks like I’m not getting a phone until OCTOBER 14TH.]]></description>
+      <content:encoded><![CDATA[And Hailey on sales should be fired.<br><br>Anyways, looks like I’m not getting a phone until OCTOBER 14TH.]]></content:encoded>
+    </item>
+    <item>
+      <title>Mistral is finally innovating! First lab to get completely p…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwl6ufr24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwl6ufr24</guid>
+      <pubDate>Thu, 17 Sep 2026 18:53:06 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Mistral is finally innovating! First lab to get completely pwn’d with a ton of customer data leaking
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" alt="Quote Tweet: https://twitter.com/i/status/2100561129118265715" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Mistral is finally innovating! First lab to get completely pwn’d with a ton of customer data leaking
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" alt="Quote Tweet: https://twitter.com/i/status/2100561129118265715" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>To whatever Apple person is reading this at some point:  Sta…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw7mnoa2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw7mnoa2i</guid>
+      <pubDate>Thu, 17 Sep 2026 18:43:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[To whatever Apple person is reading this at some point:<br><br>Starla on support is an actual angel and she should be in charge of the department. Her hands are tied beyond belief and she’s doing everything she can to fix it.]]></description>
+      <content:encoded><![CDATA[To whatever Apple person is reading this at some point:<br><br>Starla on support is an actual angel and she should be in charge of the department. Her hands are tied beyond belief and she’s doing everything she can to fix it.]]></content:encoded>
+    </item>
+    <item>
+      <title>On phone with them now  &gt; “out of genuine curiosity, have yo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw2s6wj2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw2s6wj2t</guid>
+      <pubDate>Thu, 17 Sep 2026 18:39:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[On phone with them now<br><br>> “out of genuine curiosity, have you ever seen this issue before?”<br>> “No. I’ve seen cancelled orders, but I can pull up cancelled orders. This one will not load”<br><br>Joyous.]]></description>
+      <content:encoded><![CDATA[On phone with them now<br><br>> “out of genuine curiosity, have you ever seen this issue before?”<br>> “No. I’ve seen cancelled orders, but I can pull up cancelled orders. This one will not load”<br><br>Joyous.]]></content:encoded>
+    </item>
+    <item>
+      <title>I’m livid beyond words.  Do not use the new Apple upgrade pr…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcaloegv2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcaloegv2z</guid>
+      <pubDate>Thu, 17 Sep 2026 18:22:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I’m livid beyond words.<br><br>Do not use the new Apple upgrade program. It is a scam.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I’m livid beyond words.<br><br>Do not use the new Apple upgrade program. It is a scam.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>plugins. It emphasizes privacy, modular runtimes (harness st…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vkyd723</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vkyd723</guid>
+      <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[plugins. It emphasizes privacy, modular runtimes (harness stack), and extensible channels, agents, and automation. (2/2)]]></description>
+      <content:encoded><![CDATA[plugins. It emphasizes privacy, modular runtimes (harness stack), and extensible channels, agents, and automation. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Octop is an open-source, self-hosted AI assist…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vjkfg2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vjkfg2k</guid>
+      <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 TencentCloud / Octo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7sllex2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7sllex2c</guid>
+      <pubDate>Thu, 17 Sep 2026 18:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / Octop<br>⭐ 3,215 (+396)<br>🗒 Python<br><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / Octop<br>⭐ 3,215 (+396)<br>🗒 Python<br><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.]]></content:encoded>
+    </item>
+    <item>
+      <title>Holy shit what</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcacf6xy2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcacf6xy2i</guid>
+      <pubDate>Thu, 17 Sep 2026 18:09:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Holy shit what
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Holy shit what
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I’ve been on the upgrade program for 10 years. Never missed …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqal2ix7b2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqal2ix7b2t</guid>
+      <pubDate>Thu, 17 Sep 2026 17:54:05 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I’ve been on the upgrade program for 10 years. Never missed a phone launch. This fucking sucks.]]></description>
+      <content:encoded><![CDATA[I’ve been on the upgrade program for 10 years. Never missed a phone launch. This fucking sucks.]]></content:encoded>
+    </item>
+    <item>
+      <title>Just learned that Apple randomly canceled my iPhone preorder…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqaksydp426</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqaksydp426</guid>
+      <pubDate>Thu, 17 Sep 2026 17:53:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Just learned that Apple randomly canceled my iPhone preorder?<br><br>What happened to this company man
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Just learned that Apple randomly canceled my iPhone preorder?<br><br>What happened to this company man
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示された…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7f6fslv2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7f6fslv2t</guid>
+      <pubDate>Thu, 17 Sep 2026 17:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示されたテキストには記事本文が含まれていません。記事の本文を提供していただければ、日本語で1-3文で要約します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示されたテキストには記事本文が含まれていません。記事の本文を提供していただければ、日本語で1-3文で要約します。]]></content:encoded>
+    </item>
+    <item>
+      <title>富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売 Fujitsu launches made-in-J…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7eyqar42g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7eyqar42g</guid>
+      <pubDate>Thu, 17 Sep 2026 17:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売<br>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA<br><br>🔺 329<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売<br>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA<br><br>🔺 329<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📦 cilium / cilium ⭐ 25,267 (+20) 🗒 Go  eBPF-based Networki…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq5udtqot26</link>
@@ -324,144 +471,6 @@
       <content:encoded><![CDATA[OpenAI employees making up new words to justify Astra’s unreadable code
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibg5vglhohht4v3c7agl5zzre5gyeaxfqpc5jn447cltgkneaebbq" alt="Quote Tweet: https://twitter.com/i/status/2100075737684615614" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibg5vglhohht4v3c7agl5zzre5gyeaxfqpc5jn447cltgkneaebbq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>AWSは、イランによって攻撃を受けた中東の施設からデータの一部を復元できないと述べている。 AWS says it ca…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvpekoknze2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvpekoknze2e</guid>
-      <pubDate>Thu, 17 Sep 2026 09:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AWSは、イランによって攻撃を受けた中東の施設からデータの一部を復元できないと述べている。<br>AWS says it can't restore some data from mideast facilities struck by Iran<br><br>🔺 399<br>💬 41<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AWSは、イランによって攻撃を受けた中東の施設からデータの一部を復元できないと述べている。<br>AWS says it can't restore some data from mideast facilities struck by Iran<br><br>🔺 399<br>💬 41<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 いい加減「ドパガキ」を卒業したい！　20代ライターがスマホ依存から脱却するために考えたこと（前編）　  🔖 16…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvpacd7gs227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvpacd7gs227</guid>
-      <pubDate>Thu, 17 Sep 2026 08:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 いい加減「ドパガキ」を卒業したい！　20代ライターがスマホ依存から脱却するために考えたこと（前編）　<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 いい加減「ドパガキ」を卒業したい！　20代ライターがスマホ依存から脱却するために考えたこと（前編）　<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   記事は非常に短く、再接続中の状態を示す「reconnecting…」の表示と、トップに「ov…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvp5ujoo6y2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvp5ujoo6y2a</guid>
-      <pubDate>Thu, 17 Sep 2026 07:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>記事は非常に短く、再接続中の状態を示す「reconnecting…」の表示と、トップに「overview」「metrics」「about」といったメニュー項目があるだけで、具体的な内容は記載されていません。全体としては接続再開を待つ待機画面の構成要素の説明に留まっています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>記事は非常に短く、再接続中の状態を示す「reconnecting…」の表示と、トップに「overview」「metrics」「about」といったメニュー項目があるだけで、具体的な内容は記載されていません。全体としては接続再開を待つ待機画面の構成要素の説明に留まっています。]]></content:encoded>
-    </item>
-    <item>
-      <title>Xiaomi Mimo 2.6 トレーニング後のライブダッシュボード Xiaomi Mimo 2.6 live post…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvp5u6aw3q2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvp5u6aw3q2a</guid>
-      <pubDate>Thu, 17 Sep 2026 07:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Xiaomi Mimo 2.6 トレーニング後のライブダッシュボード<br>Xiaomi Mimo 2.6 live post-training dashboard<br><br>🔺 411<br>💬 32<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Xiaomi Mimo 2.6 トレーニング後のライブダッシュボード<br>Xiaomi Mimo 2.6 live post-training dashboard<br><br>🔺 411<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvp4x3mmho2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvp4x3mmho2z</guid>
-      <pubDate>Thu, 17 Sep 2026 07:28:15 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary<br><br>🔖 181 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary<br><br>🔖 181 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>She’s right. This cheapens a thing that is actually really c…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvozzoxdlu2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvozzoxdlu2w</guid>
-      <pubDate>Thu, 17 Sep 2026 05:58:56 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[She’s right. This cheapens a thing that is actually really cool (stealth drops)<br><br>The fact that they made a twitter account for the stealth model is super “fellow kids” core
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx6i5rvllkzj6cihrm5y7sjy5rvcgjwok5ldj325fjyzpc5bimxi" alt="Quote Tweet: https://twitter.com/i/status/2100398188364440036" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[She’s right. This cheapens a thing that is actually really cool (stealth drops)<br><br>The fact that they made a twitter account for the stealth model is super “fellow kids” core
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx6i5rvllkzj6cihrm5y7sjy5rvcgjwok5ldj325fjyzpc5bimxi" alt="Quote Tweet: https://twitter.com/i/status/2100398188364440036" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibx6i5rvllkzj6cihrm5y7sjy5rvcgjwok5ldj325fjyzpc5bimxi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   NVIDIA は Rust を使ったネイティブ GPU プログラミングを推進しており、CUD…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvox5mzdsg2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvox5mzdsg2y</guid>
-      <pubDate>Thu, 17 Sep 2026 05:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>NVIDIA は Rust を使ったネイティブ GPU プログラミングを推進しており、CUDA Rust によってGPUカーネルも Rust で記述可能になる。SIMT（cuda-oxide）と Tile（cutile-rs）の二つのアプローチがあり、前者は低レベルの制御とメモリ管理を提供し、後者はタイル単位の直列的な実行を安全に行えるよう設計されている。両プロジェクトはまだ初期段階だが、Rust と GPU の統合を進め、実用化に向けてドキュメントやデモを公開している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>NVIDIA は Rust を使ったネイティブ GPU プログラミングを推進しており、CUDA Rust によってGPUカーネルも Rust で記述可能になる。SIMT（cuda-oxide）と Tile（cutile-rs）の二つのアプローチがあり、前者は低レベルの制御とメモリ管理を提供し、後者はタイル単位の直列的な実行を安全に行えるよう設計されている。両プロジェクトはまだ初期段階だが、Rust と GPU の統合を進め、実用化に向けてドキュメントやデモを公開している。]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA、RustでのネイティブGPUプログラミングを発表 Nvidia announces native GPU …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvox5em2mg2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvox5em2mg2y</guid>
-      <pubDate>Thu, 17 Sep 2026 05:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[NVIDIA、RustでのネイティブGPUプログラミングを発表<br>Nvidia announces native GPU programming in Rust<br><br>🔺 499<br>💬 26<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[NVIDIA、RustでのネイティブGPUプログラミングを発表<br>Nvidia announces native GPU programming in Rust<br><br>🔺 499<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This actually happened btw</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvou5md2fn2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvou5md2fn2c</guid>
-      <pubDate>Thu, 17 Sep 2026 04:43:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This actually happened btw]]></description>
-      <content:encoded><![CDATA[This actually happened btw]]></content:encoded>
-    </item>
-    <item>
-      <title>Just got called an Anthropic fanboy by @sama</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvou5ida3q2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvou5ida3q2g</guid>
-      <pubDate>Thu, 17 Sep 2026 04:42:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Just got called an Anthropic fanboy by @sama]]></description>
-      <content:encoded><![CDATA[Just got called an Anthropic fanboy by @sama]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   研究者は、PostgreSQL のクエリ最適化が依然として難しく、特に結合順序の決定はNP-…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvoqhewxeo26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvoqhewxeo26</guid>
-      <pubDate>Thu, 17 Sep 2026 03:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>研究者は、PostgreSQL のクエリ最適化が依然として難しく、特に結合順序の決定はNP-hardに近い課題だと指摘します。そこで、小規模なオープンウェイト言語モデルを用い、SFTとエージェント強化学習で pg_hint_plan を活用してデフォルト計画を超えるクエリプランを生成できるかを検証し、4Bモデルで最大約44.7%のレイテンシ削減を達成したと報告しています。実験はJOBとCEBベンチマークを用いて、プラン生成の検証・評価を行うエージェントハーネスを構築し、複数の計画案を実行して実測時間を比較する形で進められました。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>研究者は、PostgreSQL のクエリ最適化が依然として難しく、特に結合順序の決定はNP-hardに近い課題だと指摘します。そこで、小規模なオープンウェイト言語モデルを用い、SFTとエージェント強化学習で pg_hint_plan を活用してデフォルト計画を超えるクエリプランを生成できるかを検証し、4Bモデルで最大約44.7%のレイテンシ削減を達成したと報告しています。実験はJOBとCEBベンチマークを用いて、プラン生成の検証・評価を行うエージェントハーネスを構築し、複数の計画案を実行して実測時間を比較する形で進められました。]]></content:encoded>
-    </item>
-    <item>
-      <title>PostgreSQLより81%高速なクエリプランを生成する40億パラメータのモデルを訓練する Training a 4B…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvoqh3jmeb2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvoqh3jmeb2e</guid>
-      <pubDate>Thu, 17 Sep 2026 03:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[PostgreSQLより81%高速なクエリプランを生成する40億パラメータのモデルを訓練する<br>Training a 4B model to produce 81% faster query plans than Postgres<br><br>🔺 437<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[PostgreSQLより81%高速なクエリプランを生成する40億パラメータのモデルを訓練する<br>Training a 4B model to produce 81% faster query plans than Postgres<br><br>🔺 437<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>contribution guidelines. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow7sqgd26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow7sqgd26</guid>
-      <pubDate>Thu, 17 Sep 2026 03:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[contribution guidelines. (2/2)]]></description>
-      <content:encoded><![CDATA[contribution guidelines. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   claude-red is a curated, drop-in SKILL.md libr…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow7rakj2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow7rakj2c</guid>
-      <pubDate>Thu, 17 Sep 2026 03:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>claude-red is a curated, drop-in SKILL.md library that turns Claude into context-aware red-team operators across 23+ offensive security domains, enabling load-on-demand expert techniques for authorized engagements. It includes a quickstart, category/skill indexes, roadmap, and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>claude-red is a curated, drop-in SKILL.md library that turns Claude into context-aware red-team operators across 23+ offensive security domains, enabling load-on-demand expert techniques for authorized engagements. It includes a quickstart, category/skill indexes, roadmap, and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 SnailSploit / Claude…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow4puja2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvoow4puja2b</guid>
-      <pubDate>Thu, 17 Sep 2026 03:17:10 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 SnailSploit / Claude-Red<br>⭐ 5,572 (+699)<br>🗒 Python<br><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spe...]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 SnailSploit / Claude-Red<br>⭐ 5,572 (+699)<br>🗒 Python<br><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spe...]]></content:encoded>
     </item>
   </channel>
 </rss>
