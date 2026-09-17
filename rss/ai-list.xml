@@ -5,8 +5,77 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:09:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失  🔖 160 ブックマー…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqpaehrbh2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqpaehrbh2n</guid>
+      <pubDate>Thu, 17 Sep 2026 22:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🚨 BREAKING 🚨  Leaked security camera footage of the crimin…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn5rt7gc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn5rt7gc2t</guid>
+      <pubDate>Thu, 17 Sep 2026 21:45:16 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[🚨 BREAKING 🚨<br><br>Leaked security camera footage of the criminal who stole Mistral's source code]]></description>
+      <content:encoded><![CDATA[🚨 BREAKING 🚨<br><br>Leaked security camera footage of the criminal who stole Mistral's source code]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqmscarzj2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqmscarzj2t</guid>
+      <pubDate>Thu, 17 Sep 2026 21:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウザや端末から検索できるプライバシー重視の個人用検索エンジンです。サーバはローカルで動作させ、クラウド依存やテレメトリは基本的に無し、複数ユーザー対応やセマンティック検索のオプションも提供します。導入はバイナリやHomebrew/Docker/Nixなどで行え、拡張機能を使って新規ページを自動インデックス化します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウザや端末から検索できるプライバシー重視の個人用検索エンジンです。サーバはローカルで動作させ、クラウド依存やテレメトリは基本的に無し、複数ユーザー対応やセマンティック検索のオプションも提供します。導入はバイナリやHomebrew/Docker/Nixなどで行え、拡張機能を使って新規ページを自動インデックス化します。]]></content:encoded>
+    </item>
+    <item>
+      <title>Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン Hister: A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqms2tslw2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqms2tslw2a</guid>
+      <pubDate>Thu, 17 Sep 2026 21:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン<br>Hister: A private search engine for the pages you visit and the files you keep<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン<br>Hister: A private search engine for the pages you visit and the files you keep<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn54ubk32p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn54ubk32p</guid>
+      <pubDate>Thu, 17 Sep 2026 21:21:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,290.<br><br>The RTX 4090 alone is worth over $3,000 now.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" alt="Quote Tweet: https://twitter.com/i/status/1779825755402445208" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,290.<br><br>The RTX 4090 alone is worth over $3,000 now.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" alt="Quote Tweet: https://twitter.com/i/status/1779825755402445208" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I would pay a whole lot of money to get my rate limits on Gi…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhomms62q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhomms62q</guid>
+      <pubDate>Thu, 17 Sep 2026 21:12:17 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I would pay a whole lot of money to get my rate limits on GitHub unlocked.<br><br>I wouldn't pay for this in January though, because I'm probably going to give up and move on by October at latest.]]></description>
+      <content:encoded><![CDATA[I would pay a whole lot of money to get my rate limits on GitHub unlocked.<br><br>I wouldn't pay for this in January though, because I'm probably going to give up and move on by October at latest.]]></content:encoded>
+    </item>
+    <item>
+      <title>Crazy to see GitLab fumble this hard right now.</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhi4uyb2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhi4uyb2g</guid>
+      <pubDate>Thu, 17 Sep 2026 21:11:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Crazy to see GitLab fumble this hard right now.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Crazy to see GitLab fumble this hard right now.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3qeygl2c</link>
@@ -405,72 +474,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📦 coder / coder<br>⭐ 14,693 (+83)<br>🗒 Go<br><br>Secure environments for developers and their agents]]></description>
       <content:encoded><![CDATA[📦 coder / coder<br>⭐ 14,693 (+83)<br>🗒 Go<br><br>Secure environments for developers and their agents]]></content:encoded>
-    </item>
-    <item>
-      <title>multiple agents, two runtimes (CLI/daemon and extension), an…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn42ifkr2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn42ifkr2z</guid>
-      <pubDate>Thu, 17 Sep 2026 12:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multiple agents, two runtimes (CLI/daemon and extension), and includes a DeepSeek plugin for integrated browser control. (2/2)]]></description>
-      <content:encoded><![CDATA[multiple agents, two runtimes (CLI/daemon and extension), and includes a DeepSeek plugin for integrated browser control. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   BrowserSkill is a local bridge that lets AI ag…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn42h4jl26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn42h4jl26</guid>
-      <pubDate>Thu, 17 Sep 2026 12:17:21 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>BrowserSkill is a local bridge that lets AI agent harnesses control your already-logged-in browser via a CLI/daemon and browser extension, enabling tasks like tab borrowing, human-in-the-loop prompts, and full-page screenshots without interrupting your workflow. It supports (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>BrowserSkill is a local bridge that lets AI agent harnesses control your already-logged-in browser via a CLI/daemon and browser extension, enabling tasks like tab borrowing, human-in-the-loop prompts, and full-page screenshots without interrupting your workflow. It supports (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 Tencent / BrowserSki…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn3x6asz2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpn3x6asz2k</guid>
-      <pubDate>Thu, 17 Sep 2026 12:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 Tencent / BrowserSkill<br>⭐ 3,612 (+1,350)<br>🗒 TypeScript<br><br>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 Tencent / BrowserSkill<br>⭐ 3,612 (+1,350)<br>🗒 TypeScript<br><br>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   今年に入ってから、レビュー期間が2-3週間に長くなっており、Android Auto機能の影…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvplbpinpa2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvplbpinpa2o</guid>
-      <pubDate>Thu, 17 Sep 2026 11:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>今年に入ってから、レビュー期間が2-3週間に長くなっており、Android Auto機能の影響と見られる。以前は48-72時間が最大、Android Auto導入前は数時間だったが、サポートの回答は定型文のみで放置されているとのこと。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>今年に入ってから、レビュー期間が2-3週間に長くなっており、Android Auto機能の影響と見られる。以前は48-72時間が最大、Android Auto導入前は数時間だったが、サポートの回答は定型文のみで放置されているとのこと。]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Playのアプリ審査プロセスは現在、通常1週間を超える時間がかかる。 The Google Play ap…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvplbf77wq2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvplbf77wq2y</guid>
-      <pubDate>Thu, 17 Sep 2026 11:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Google Playのアプリ審査プロセスは現在、通常1週間を超える時間がかかる。<br>The Google Play app review process now regularly takes longer than a week<br><br>🔺 355<br>💬 80<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Google Playのアプリ審査プロセスは現在、通常1週間を超える時間がかかる。<br>The Google Play app review process now regularly takes longer than a week<br><br>🔺 355<br>💬 80<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Seriously, just use fable if you want to merge the code.  As…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvpkrtl7cb2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvpkrtl7cb2t</guid>
-      <pubDate>Thu, 17 Sep 2026 11:33:34 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Seriously, just use fable if you want to merge the code.<br><br>Astra is incredible for moonshots and debugging. I hate the code it writes so much.]]></description>
-      <content:encoded><![CDATA[Seriously, just use fable if you want to merge the code.<br><br>Astra is incredible for moonshots and debugging. I hate the code it writes so much.]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI employees making up new words to justify Astra’s unre…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvpkrprxei2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvpkrprxei2q</guid>
-      <pubDate>Thu, 17 Sep 2026 11:32:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[OpenAI employees making up new words to justify Astra’s unreadable code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibg5vglhohht4v3c7agl5zzre5gyeaxfqpc5jn447cltgkneaebbq" alt="Quote Tweet: https://twitter.com/i/status/2100075737684615614" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[OpenAI employees making up new words to justify Astra’s unreadable code
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibg5vglhohht4v3c7agl5zzre5gyeaxfqpc5jn447cltgkneaebbq" alt="Quote Tweet: https://twitter.com/i/status/2100075737684615614" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibg5vglhohht4v3c7agl5zzre5gyeaxfqpc5jn447cltgkneaebbq" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
