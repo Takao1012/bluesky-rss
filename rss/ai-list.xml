@@ -5,8 +5,125 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:40:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   - SemIfは、ブラウザ内で実行できる「オープンモデルの意味論的if文」実験で、同じモデル…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvspubqcf52k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvspubqcf52k</guid>
+      <pubDate>Fri, 18 Sep 2026 17:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>- SemIfは、ブラウザ内で実行できる「オープンモデルの意味論的if文」実験で、同じモデルを直接読出しとJSONとして逐次生成する2つの方法を比較します。 <br>- ユーザーはモデルサイズを選択し、GPU上で実行・測定でき、入力データはすべてローカルで処理され、初回ロードには数分かかることがあります。 <br>- デモでは、直接確率とトークンごとのJSON出力の2つの手法の実行時間を比較し、結果の解釈は表示オプションの確率に限定される点に留意する必要があります。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>- SemIfは、ブラウザ内で実行できる「オープンモデルの意味論的if文」実験で、同じモデルを直接読出しとJSONとして逐次生成する2つの方法を比較します。 <br>- ユーザーはモデルサイズを選択し、GPU上で実行・測定でき、入力データはすべてローカルで処理され、初回ロードには数分かかることがあります。 <br>- デモでは、直接確率とトークンごとのJSON出力の2つの手法の実行時間を比較し、結果の解釈は表示オプションの確率に限定される点に留意する必要があります。]]></content:encoded>
+    </item>
+    <item>
+      <title>オープンジェヴ OpenJev  🔺 400 💬 47 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsptwrbdv2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsptwrbdv2i</guid>
+      <pubDate>Fri, 18 Sep 2026 17:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オープンジェヴ<br>OpenJev<br><br>🔺 400<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オープンジェヴ<br>OpenJev<br><br>🔺 400<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 tradesdontlie / tradingview-mcp ⭐ 6,347 (+64) 🗒 JavaScri…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsodbzoxk2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsodbzoxk2j</guid>
+      <pubDate>Fri, 18 Sep 2026 17:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 tradesdontlie / tradingview-mcp<br>⭐ 6,347 (+64)<br>🗒 JavaScript<br><br>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation]]></description>
+      <content:encoded><![CDATA[📦 tradesdontlie / tradingview-mcp<br>⭐ 6,347 (+64)<br>🗒 JavaScript<br><br>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation]]></content:encoded>
+    </item>
+    <item>
+      <title>etc.). It emphasizes memory safety, Open Source accessibilit…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky5zsmz2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky5zsmz2f</guid>
+      <pubDate>Fri, 18 Sep 2026 16:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[etc.). It emphasizes memory safety, Open Source accessibility, and scalable, feature-rich storage with extensive documentation and community support. (2/2)]]></description>
+      <content:encoded><![CDATA[etc.). It emphasizes memory safety, Open Source accessibility, and scalable, feature-rich storage with extensive documentation and community support. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   RustFS is a high-performance, Apache-2.0 licen…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky5ydsh2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky5ydsh2l</guid>
+      <pubDate>Fri, 18 Sep 2026 16:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>RustFS is a high-performance, Apache-2.0 licensed, Rust-based, distributed S3-compatible object storage system designed for data lakes, AI, and big data workloads, featuring a rich set of integrations (Swift, KMS, OIDC, multi-tenancy) and deployment options (Docker, Helm, Nix, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>RustFS is a high-performance, Apache-2.0 licensed, Rust-based, distributed S3-compatible object storage system designed for data lakes, AI, and big data workloads, featuring a rich set of integrations (Swift, KMS, OIDC, multi-tenancy) and deployment options (Docker, Helm, Nix, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 rustfs / rustfs ⭐ 32…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky2s6gp2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky2s6gp2h</guid>
+      <pubDate>Fri, 18 Sep 2026 16:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rustfs / rustfs<br>⭐ 32,937 (+559)<br>🗒 Rust<br><br>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rustfs / rustfs<br>⭐ 32,937 (+559)<br>🗒 Rust<br><br>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj5j22v62i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj5j22v62i</guid>
+      <pubDate>Fri, 18 Sep 2026 15:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い、まだ成熟していない。ハードウェアキーや同期機能、第三者同期の課題が多く、現状は企業向けには有望でも個人には十分ではない。従来のパスワード＋TOTPの組み合わせが、現時点ではバランスが良いと結論づけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い、まだ成熟していない。ハードウェアキーや同期機能、第三者同期の課題が多く、現状は企業向けには有望でも個人には十分ではない。従来のパスワード＋TOTPの組み合わせが、現時点ではバランスが良いと結論づけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>パスキーは好きじゃない。 I don&apos;t like passkeys  🔺 388 💬 99 🔗 HN Post …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj56j5xm2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj56j5xm2y</guid>
+      <pubDate>Fri, 18 Sep 2026 15:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[パスキーは好きじゃない。<br>I don't like passkeys<br><br>🔺 388<br>💬 99<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[パスキーは好きじゃない。<br>I don't like passkeys<br><br>🔺 388<br>💬 99<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Visualize Data Structures in VS Code 🤯  If you work with da…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvsicxe66k22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvsicxe66k22</guid>
+      <pubDate>Fri, 18 Sep 2026 15:29:43 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[Visualize Data Structures in VS Code 🤯<br><br>If you work with data structures, check out the Debug Visualizer extension for VS Code.<br><br>#VSCode #Programming #Coding #DataStructures]]></description>
+      <content:encoded><![CDATA[Visualize Data Structures in VS Code 🤯<br><br>If you work with data structures, check out the Debug Visualizer extension for VS Code.<br><br>#VSCode #Programming #Coding #DataStructures]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会  🔖 159 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsiabsp5x2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsiabsp5x2c</guid>
+      <pubDate>Fri, 18 Sep 2026 15:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>installation methods (including Docker, Homebrew, and Nix) w…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmw2c7x2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmw2c7x2b</guid>
+      <pubDate>Fri, 18 Sep 2026 15:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[installation methods (including Docker, Homebrew, and Nix) with no mandatory cloud telemetry. (2/2)]]></description>
+      <content:encoded><![CDATA[installation methods (including Docker, Homebrew, and Nix) with no mandatory cloud telemetry. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Hister is a private, local-first search engine…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmvyvoo26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmvyvoo26</guid>
+      <pubDate>Fri, 18 Sep 2026 15:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Hister is a private, local-first search engine that fully indexes the contents of visited pages and local files, offering web, terminal, and MCP clients with privacy-focused defaults and optional semantic search. It supports browser indexing, multi-user setups, and various (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Hister is a private, local-first search engine that fully indexes the contents of visited pages and local files, offering web, terminal, and MCP clients with privacy-focused defaults and optional semantic search. It supports browser indexing, multi-user setups, and various (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 asciimoo / hister ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmres7k26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvshmres7k26</guid>
+      <pubDate>Fri, 18 Sep 2026 15:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 asciimoo / hister<br>⭐ 4,666 (+842)<br>🗒 Go<br><br>Your own search engine]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 asciimoo / hister<br>⭐ 4,666 (+842)<br>🗒 Go<br><br>Your own search engine]]></content:encoded>
+    </item>
     <item>
       <title>今日のGitHubトレンド  Fission-AI/OpenSpec AIを活用して仕様策定から実装までを効率化する仕様…</title>
       <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsggxjdbz2d</link>
@@ -347,129 +464,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[法務向けアストラ<br>Astra for Law<br><br>🔺 377<br>💬 75<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[法務向けアストラ<br>Astra for Law<br><br>🔺 377<br>💬 75<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系ま…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvr7ywkzxr2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvr7ywkzxr2s</guid>
-      <pubDate>Fri, 18 Sep 2026 03:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>oh-my-pi is the most unserious dev tool I think I&apos;ve ever se…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4da2r3e2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4da2r3e2g</guid>
-      <pubDate>Fri, 18 Sep 2026 01:53:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[oh-my-pi is the most unserious dev tool I think I've ever seen. At this point it's starting to feel like an art piece. It's honestly incredible.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" alt="Quote Tweet: https://twitter.com/i/status/2100764473392820433" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[oh-my-pi is the most unserious dev tool I think I've ever seen. At this point it's starting to feel like an art piece. It's honestly incredible.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" alt="Quote Tweet: https://twitter.com/i/status/2100764473392820433" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のお…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr27bucp72d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr27bucp72d</guid>
-      <pubDate>Fri, 18 Sep 2026 01:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のおかげで新規メンテナーの指名・PRのレビュー・新しいドキュメント作成など多くの成果を挙げ、テストの安定化やJSエンジン統合の大規模リライト支援などにも貢献したことを振り返り、今後もプロジェクトをよりアクセスしやすくする取り組みを続けたいと語っています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のおかげで新規メンテナーの指名・PRのレビュー・新しいドキュメント作成など多くの成果を挙げ、テストの安定化やJSエンジン統合の大規模リライト支援などにも貢献したことを振り返り、今後もプロジェクトをよりアクセスしやすくする取り組みを続けたいと語っています。]]></content:encoded>
-    </item>
-    <item>
-      <title>1年間のスポンサーによる Servo の開発 One year of sponsored Servo developme…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr274h3ip26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr274h3ip26</guid>
-      <pubDate>Fri, 18 Sep 2026 01:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[1年間のスポンサーによる Servo の開発<br>One year of sponsored Servo development<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[1年間のスポンサーによる Servo の開発<br>One year of sponsored Servo development<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Not sure if this will go anywhere, considering how much effo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ctbatn2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ctbatn2p</guid>
-      <pubDate>Fri, 18 Sep 2026 01:44:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Not sure if this will go anywhere, considering how much effort has already been put into optimizing the cache, but at least it's interesting?<br><br>https://x.com/CompleteSkeptic/status/2100702845779775675]]></description>
-      <content:encoded><![CDATA[Not sure if this will go anywhere, considering how much effort has already been put into optimizing the cache, but at least it's interesting?<br><br>https://x.com/CompleteSkeptic/status/2100702845779775675]]></content:encoded>
-    </item>
-    <item>
-      <title>The actually interesting idea here is not &quot;better compaction…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4cpnvk62q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4cpnvk62q</guid>
-      <pubDate>Fri, 18 Sep 2026 01:44:10 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The actually interesting idea here is not "better compaction".<br><br>The better question to ask is "what if harnesses/llms didn't ever have to think about kv caching?"<br><br>This is what Diogo hints at in his reply.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" alt="Quote Tweet: https://x.com/CompleteSkeptic/status/2100702845779775675" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[The actually interesting idea here is not "better compaction".<br><br>The better question to ask is "what if harnesses/llms didn't ever have to think about kv caching?"<br><br>This is what Diogo hints at in his reply.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" alt="Quote Tweet: https://x.com/CompleteSkeptic/status/2100702845779775675" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>You&apos;re much less likely to hurt yourself that way.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c6ftor2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c6ftor2i</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[You're much less likely to hurt yourself that way.]]></description>
-      <content:encoded><![CDATA[You're much less likely to hurt yourself that way.]]></content:encoded>
-    </item>
-    <item>
-      <title>To be clear: this is a cool experiment and I find it genuine…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c3enzb2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c3enzb2t</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:32 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[To be clear: this is a cool experiment and I find it genuinely interesting. That said, if you think this style of bs filtering on a probability threshold is actually a compaction strategy, I highly recommend you just use the defaults in tools like Claude Code and Codex.]]></description>
-      <content:encoded><![CDATA[To be clear: this is a cool experiment and I find it genuinely interesting. That said, if you think this style of bs filtering on a probability threshold is actually a compaction strategy, I highly recommend you just use the defaults in tools like Claude Code and Codex.]]></content:encoded>
-    </item>
-    <item>
-      <title>6. The implementation is hot garbage.  &gt; &quot;Whatever is not ke…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bydjdx27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bydjdx27</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[6. The implementation is hot garbage. <br>> "Whatever is not kept is deleted permanently, but the assistant can always re-run a tool or re-read a file."<br><br>Good luck with that one.]]></description>
-      <content:encoded><![CDATA[6. The implementation is hot garbage. <br>> "Whatever is not kept is deleted permanently, but the assistant can always re-run a tool or re-read a file."<br><br>Good luck with that one.]]></content:encoded>
-    </item>
-    <item>
-      <title>Good news. Since we&apos;re already killing all of the reasoning …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bvcpxj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bvcpxj2t</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:30 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Good news. Since we're already killing all of the reasoning tokens by doing this stupid compaction strategy, the rewrite cost won't actually be that high because the model is missing so much data! 🙃🙃]]></description>
-      <content:encoded><![CDATA[Good news. Since we're already killing all of the reasoning tokens by doing this stupid compaction strategy, the rewrite cost won't actually be that high because the model is missing so much data! 🙃🙃]]></content:encoded>
-    </item>
-    <item>
-      <title>If your history is &quot;1,2,3,4,5,6&quot; and you delete &quot;2&quot;, you hav…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bsbqgz2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bsbqgz2t</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:29 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[If your history is "1,2,3,4,5,6" and you delete "2", you have to rewrite "3,4,5,6". This is more expensive than leaving "2" in the history.]]></description>
-      <content:encoded><![CDATA[If your history is "1,2,3,4,5,6" and you delete "2", you have to rewrite "3,4,5,6". This is more expensive than leaving "2" in the history.]]></content:encoded>
-    </item>
-    <item>
-      <title>Cache writes are insanely expensive when data earlier in the…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bpatub2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bpatub2t</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:28 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Cache writes are insanely expensive when data earlier in the history is changed (because the old cache is invalidated when things change at the top). Every history edit requires a cache rewrite for ANY data past the history edit.]]></description>
-      <content:encoded><![CDATA[Cache writes are insanely expensive when data earlier in the history is changed (because the old cache is invalidated when things change at the top). Every history edit requires a cache rewrite for ANY data past the history edit.]]></content:encoded>
-    </item>
-    <item>
-      <title>5. Cache writes are more expensive than cache reads. Cache w…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bm7s4p27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bm7s4p27</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:27 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></description>
-      <content:encoded><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></content:encoded>
     </item>
   </channel>
 </rss>
