@@ -5,8 +5,115 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:44:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:55:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   OpenAIのフォーラムDiscourseの脆弱性を起点に、OpenAIのSSO誤設定とli…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvs3qerhqt2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvs3qerhqt2k</guid>
+      <pubDate>Fri, 18 Sep 2026 11:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIのフォーラムDiscourseの脆弱性を起点に、OpenAIのSSO誤設定とlibheifのリモートコード実行を組み合わせた攻撃チェーンで、社員のCodexアカウント経由で内部リポジトリへアクセス可能な状態を実証したと報告しています。攻撃は数日で完了し、OpenAIとDiscourseが迅速にパッチを適用、報奨金も支払われましたが、他サービスでも同様の影響を受け得ることが示され、今後の防御強化として画像処理パイプラインの分離・サンドボックス化などが推奨されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIのフォーラムDiscourseの脆弱性を起点に、OpenAIのSSO誤設定とlibheifのリモートコード実行を組み合わせた攻撃チェーンで、社員のCodexアカウント経由で内部リポジトリへアクセス可能な状態を実証したと報告しています。攻撃は数日で完了し、OpenAIとDiscourseが迅速にパッチを適用、報奨金も支払われましたが、他サービスでも同様の影響を受け得ることが示され、今後の防御強化として画像処理パイプラインの分離・サンドボックス化などが推奨されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAIの内部リポジトリを侵害するためのヒープオーバーフローとSSOの設定ミス A heap overflow an…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvs3q4naeh2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvs3q4naeh2k</guid>
+      <pubDate>Fri, 18 Sep 2026 11:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[OpenAIの内部リポジトリを侵害するためのヒープオーバーフローとSSOの設定ミス<br>A heap overflow and SSO misconfiguration to compromise OpenAI internal repos<br><br>🔺 369<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[OpenAIの内部リポジトリを侵害するためのヒープオーバーフローとSSOの設定ミス<br>A heap overflow and SSO misconfiguration to compromise OpenAI internal repos<br><br>🔺 369<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「1合」という単位にとらわれないご飯の炊き方｜ツジメシ  🔖 171 ブックマーク 💬 コメント 🔗 記事リ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvs2t5phhn2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvs2t5phhn2t</guid>
+      <pubDate>Fri, 18 Sep 2026 11:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「1合」という単位にとらわれないご飯の炊き方｜ツジメシ<br><br>🔖 171 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「1合」という単位にとらわれないご飯の炊き方｜ツジメシ<br><br>🔖 171 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>idk if it&apos;s just me but I find &quot;slop articles&quot; particularly …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvs2g5etmq2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvs2g5etmq2q</guid>
+      <pubDate>Fri, 18 Sep 2026 10:37:54 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[idk if it's just me but I find "slop articles" particularly insulting.<br><br>If the author didn't care enough to write it themselves, why are they insulting us by expecting us to read it?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibcjti7vbyyak6tp3ltgdukb2gdtedpy7wo2ytk3wofus45kria2m" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidmv5exwmddj2ypnbkxby4frh67dtbokgnzmtv3x2sfez7rjguw3y" alt="Quote Tweet: https://twitter.com/i/status/2100873572629823819" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[idk if it's just me but I find "slop articles" particularly insulting.<br><br>If the author didn't care enough to write it themselves, why are they insulting us by expecting us to read it?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibcjti7vbyyak6tp3ltgdukb2gdtedpy7wo2ytk3wofus45kria2m" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidmv5exwmddj2ypnbkxby4frh67dtbokgnzmtv3x2sfez7rjguw3y" alt="Quote Tweet: https://twitter.com/i/status/2100873572629823819" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibcjti7vbyyak6tp3ltgdukb2gdtedpy7wo2ytk3wofus45kria2m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ワックスモーターは、ワックスの相変化を利用して熱エネルギーを機械エネルギーに変換する直線アク…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvruzpcdd52z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvruzpcdd52z</guid>
+      <pubDate>Fri, 18 Sep 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ワックスモーターは、ワックスの相変化を利用して熱エネルギーを機械エネルギーに変換する直線アクチュエータです。ワックスが融解すると体積が膨張してシリンダ内のピストンを押し出し、冷却・凝固すると収縮して戻る仕組みで、外部のバイアス力（春や重り）でリターンを得ます。航空宇宙や各種機器のバルブ・ドアロック・換気口など、温度制御や機械的作動を要する場面で広く用いられます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ワックスモーターは、ワックスの相変化を利用して熱エネルギーを機械エネルギーに変換する直線アクチュエータです。ワックスが融解すると体積が膨張してシリンダ内のピストンを押し出し、冷却・凝固すると収縮して戻る仕組みで、外部のバイアス力（春や重り）でリターンを得ます。航空宇宙や各種機器のバルブ・ドアロック・換気口など、温度制御や機械的作動を要する場面で広く用いられます。]]></content:encoded>
+    </item>
+    <item>
+      <title>ワックスモーター Wax motor  🔺 407 💬 21 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvruzjfnai2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvruzjfnai2y</guid>
+      <pubDate>Fri, 18 Sep 2026 09:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ワックスモーター<br>Wax motor<br><br>🔺 407<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ワックスモーター<br>Wax motor<br><br>🔺 407<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>btw just found this  https://x.com/composio/status/208681449…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrsuttwfu26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrsuttwfu26</guid>
+      <pubDate>Fri, 18 Sep 2026 08:03:15 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[btw just found this<br><br>https://x.com/composio/status/2086814491920974069
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic5xkkwd2gb2myeterzwyshnjexum42bemeeykus3se3ymgc3g3l4" alt="Quote Tweet: https://x.com/composio/status/2086814491920974069" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[btw just found this<br><br>https://x.com/composio/status/2086814491920974069
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic5xkkwd2gb2myeterzwyshnjexum42bemeeykus3se3ymgc3g3l4" alt="Quote Tweet: https://x.com/composio/status/2086814491920974069" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic5xkkwd2gb2myeterzwyshnjexum42bemeeykus3se3ymgc3g3l4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Bonsai 2 27Bは、Qwen3.8 27Bをベースにした三値（-1, 0, +1）ウ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrod5lljc2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrod5lljc2i</guid>
+      <pubDate>Fri, 18 Sep 2026 07:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Bonsai 2 27Bは、Qwen3.8 27Bをベースにした三値（-1, 0, +1）ウェイトとFP16のグループスケーリングを用い、総モデルサイズ5.9GB・262Kトークンの文脈窓で、完全精度モデルの約98.2%の性能を維持しつつ最大9倍以上小型化を実現した、マルチモーダル対応の低ビット系更新版です。従来比で高精度の推論能力・推論速度・省エネ性を維持しつつ、ローカルデバイス上での実用的な知能作業（コーディング、ツール活用、長期的タスク）をより広い環境で可能にします。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Bonsai 2 27Bは、Qwen3.8 27Bをベースにした三値（-1, 0, +1）ウェイトとFP16のグループスケーリングを用い、総モデルサイズ5.9GB・262Kトークンの文脈窓で、完全精度モデルの約98.2%の性能を維持しつつ最大9倍以上小型化を実現した、マルチモーダル対応の低ビット系更新版です。従来比で高精度の推論能力・推論速度・省エネ性を維持しつつ、ローカルデバイス上での実用的な知能作業（コーディング、ツール活用、長期的タスク）をより広い環境で可能にします。]]></content:encoded>
+    </item>
+    <item>
+      <title>Bonsai 2 27B: 9分の1のフットプリントで実現するほぼロスレス圧縮 Bonsai 2 27B: Near-L…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrocxq4tt2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrocxq4tt2y</guid>
+      <pubDate>Fri, 18 Sep 2026 07:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Bonsai 2 27B: 9分の1のフットプリントで実現するほぼロスレス圧縮<br>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint<br><br>🔺 399<br>💬 32<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Bonsai 2 27B: 9分の1のフットプリントで実現するほぼロスレス圧縮<br>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint<br><br>🔺 399<br>💬 32<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I think it&apos;s a combination of sycophancy + non-determinism +…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrmympiaq2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrmympiaq2u</guid>
+      <pubDate>Fri, 18 Sep 2026 07:19:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I think it's a combination of sycophancy + non-determinism + models getting better so fast that you can associate model improvements with random changes you made to your environment. The result is that everyone's brains fall out as they overthink things that don't matter.]]></description>
+      <content:encoded><![CDATA[I think it's a combination of sycophancy + non-determinism + models getting better so fast that you can associate model improvements with random changes you made to your environment. The result is that everyone's brains fall out as they overthink things that don't matter.]]></content:encoded>
+    </item>
+    <item>
+      <title>The worst part about AI engineering is how often does everyo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrmyjobxt2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvrmyjobxt2p</guid>
+      <pubDate>Fri, 18 Sep 2026 07:19:10 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The worst part about AI engineering is how often does everyone think their weird esoteric bullshit actually matters.]]></description>
+      <content:encoded><![CDATA[The worst part about AI engineering is how often does everyone think their weird esoteric bullshit actually matters.]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Bendは、法と証明でAIのミスを排除しつつ高速に動作する新しいプログラミング言語で、C相当…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrhmkbjwz2y</link>
@@ -372,114 +479,6 @@
       <content:encoded><![CDATA[2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,290.<br><br>The RTX 4090 alone is worth over $3,000 now.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" alt="Quote Tweet: https://twitter.com/i/status/1779825755402445208" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I would pay a whole lot of money to get my rate limits on Gi…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhomms62q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhomms62q</guid>
-      <pubDate>Thu, 17 Sep 2026 21:12:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I would pay a whole lot of money to get my rate limits on GitHub unlocked.<br><br>I wouldn't pay for this in January though, because I'm probably going to give up and move on by October at latest.]]></description>
-      <content:encoded><![CDATA[I would pay a whole lot of money to get my rate limits on GitHub unlocked.<br><br>I wouldn't pay for this in January though, because I'm probably going to give up and move on by October at latest.]]></content:encoded>
-    </item>
-    <item>
-      <title>Crazy to see GitLab fumble this hard right now.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhi4uyb2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqlhi4uyb2g</guid>
-      <pubDate>Thu, 17 Sep 2026 21:11:52 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Crazy to see GitLab fumble this hard right now.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Crazy to see GitLab fumble this hard right now.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic4douinv2vsh4gfvz3r26vznr3co7lo6yqyqv3nysfpu2uemdqve" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3qeygl2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3qeygl2c</guid>
-      <pubDate>Thu, 17 Sep 2026 19:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り、冗長化・データの重複排除・3-2-1ルールなどを組み合わせるべきだが、手作業のバックアップは複雑で継続的な検証が必須。結局は rsnapshot/Borg/Restic などの信頼できるツールを使い、定期的なリストアテストを欠かさないことが重要。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>データ喪失は避けられず、対策として「バックアップを作り、時点を遡れるスナップショット」を取り、冗長化・データの重複排除・3-2-1ルールなどを組み合わせるべきだが、手作業のバックアップは複雑で継続的な検証が必須。結局は rsnapshot/Borg/Restic などの信頼できるツールを使い、定期的なリストアテストを欠かさないことが重要。]]></content:encoded>
-    </item>
-    <item>
-      <title>バックアップは簡単ではない Backups Aren&apos;t Simple  🔺 335 💬 53 🔗 HN Post…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3hbmy62g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqg3hbmy62g</guid>
-      <pubDate>Thu, 17 Sep 2026 19:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[バックアップは簡単ではない<br>Backups Aren't Simple<br><br>🔺 335<br>💬 53<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[バックアップは簡単ではない<br>Backups Aren't Simple<br><br>🔺 335<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>And Hailey on sales should be fired.  Anyways, looks like I’…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwqe6a72c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwqe6a72c</guid>
-      <pubDate>Thu, 17 Sep 2026 18:54:25 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[And Hailey on sales should be fired.<br><br>Anyways, looks like I’m not getting a phone until OCTOBER 14TH.]]></description>
-      <content:encoded><![CDATA[And Hailey on sales should be fired.<br><br>Anyways, looks like I’m not getting a phone until OCTOBER 14TH.]]></content:encoded>
-    </item>
-    <item>
-      <title>Mistral is finally innovating! First lab to get completely p…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwl6ufr24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdwl6ufr24</guid>
-      <pubDate>Thu, 17 Sep 2026 18:53:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Mistral is finally innovating! First lab to get completely pwn’d with a ton of customer data leaking
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" alt="Quote Tweet: https://twitter.com/i/status/2100561129118265715" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Mistral is finally innovating! First lab to get completely pwn’d with a ton of customer data leaking
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" alt="Quote Tweet: https://twitter.com/i/status/2100561129118265715" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig4ob472mqwv6zz2tggxsv43fgwcoges55tittzs3e4pggjzyv2oy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>To whatever Apple person is reading this at some point:  Sta…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw7mnoa2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw7mnoa2i</guid>
-      <pubDate>Thu, 17 Sep 2026 18:43:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[To whatever Apple person is reading this at some point:<br><br>Starla on support is an actual angel and she should be in charge of the department. Her hands are tied beyond belief and she’s doing everything she can to fix it.]]></description>
-      <content:encoded><![CDATA[To whatever Apple person is reading this at some point:<br><br>Starla on support is an actual angel and she should be in charge of the department. Her hands are tied beyond belief and she’s doing everything she can to fix it.]]></content:encoded>
-    </item>
-    <item>
-      <title>On phone with them now  &gt; “out of genuine curiosity, have yo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw2s6wj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqdw2s6wj2t</guid>
-      <pubDate>Thu, 17 Sep 2026 18:39:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[On phone with them now<br><br>> “out of genuine curiosity, have you ever seen this issue before?”<br>> “No. I’ve seen cancelled orders, but I can pull up cancelled orders. This one will not load”<br><br>Joyous.]]></description>
-      <content:encoded><![CDATA[On phone with them now<br><br>> “out of genuine curiosity, have you ever seen this issue before?”<br>> “No. I’ve seen cancelled orders, but I can pull up cancelled orders. This one will not load”<br><br>Joyous.]]></content:encoded>
-    </item>
-    <item>
-      <title>I’m livid beyond words.  Do not use the new Apple upgrade pr…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcaloegv2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcaloegv2z</guid>
-      <pubDate>Thu, 17 Sep 2026 18:22:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I’m livid beyond words.<br><br>Do not use the new Apple upgrade program. It is a scam.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I’m livid beyond words.<br><br>Do not use the new Apple upgrade program. It is a scam.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifpx6kx3ywnb6h4sskcy3nmavohzfe3gkahaufu2gspmmmpu3vol4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>plugins. It emphasizes privacy, modular runtimes (harness st…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vkyd723</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vkyd723</guid>
-      <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[plugins. It emphasizes privacy, modular runtimes (harness stack), and extensible channels, agents, and automation. (2/2)]]></description>
-      <content:encoded><![CDATA[plugins. It emphasizes privacy, modular runtimes (harness stack), and extensible channels, agents, and automation. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Octop is an open-source, self-hosted AI assist…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vjkfg2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7vjkfg2k</guid>
-      <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
