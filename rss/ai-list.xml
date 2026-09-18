@@ -5,8 +5,287 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:44:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Bendは、法と証明でAIのミスを排除しつつ高速に動作する新しいプログラミング言語で、C相当…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrhmkbjwz2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrhmkbjwz2y</guid>
+      <pubDate>Fri, 18 Sep 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Bendは、法と証明でAIのミスを排除しつつ高速に動作する新しいプログラミング言語で、C相当の実行速度とCUDAによる並列性、 Lean風の証明・型 checker を特徴とします。LAWS.bendとPROOF.bendを用いてコードの正当性を事前に検証し、並列化とGPU活用でパフォーマンスを最大化します。インストール方法やガイド、AGENTS.mdへの記載例、実用的な使い方の指針も提供されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Bendは、法と証明でAIのミスを排除しつつ高速に動作する新しいプログラミング言語で、C相当の実行速度とCUDAによる並列性、 Lean風の証明・型 checker を特徴とします。LAWS.bendとPROOF.bendを用いてコードの正当性を事前に検証し、並列化とGPU活用でパフォーマンスを最大化します。インストール方法やガイド、AGENTS.mdへの記載例、実用的な使い方の指針も提供されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Bend – 証明によってAIの誤りを抑制する言語、CPUとGPUで動作する Bend – A language tha…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrhmeu3pd2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvrhmeu3pd2c</guid>
+      <pubDate>Fri, 18 Sep 2026 05:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Bend – 証明によってAIの誤りを抑制する言語、CPUとGPUで動作する<br>Bend – A language that blocks AI mistakes via proof, on CPU and GPU<br><br>🔺 386<br>💬 62<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Bend – 証明によってAIの誤りを抑制する言語、CPUとGPUで動作する<br>Bend – A language that blocks AI mistakes via proof, on CPU and GPU<br><br>🔺 386<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>OMG I love that movie but I haven&apos;t seen it in years, I had …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvrhjqplmc2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvrhjqplmc2m</guid>
+      <pubDate>Fri, 18 Sep 2026 05:42:58 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[OMG I love that movie but I haven't seen it in years, I had no idea that was in there!]]></description>
+      <content:encoded><![CDATA[OMG I love that movie but I haven't seen it in years, I had no idea that was in there!]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita  🔖 196 ブックマ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvrgpdedho27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvrgpdedho27</guid>
+      <pubDate>Fri, 18 Sep 2026 05:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita<br><br>🔖 196 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁  🔖 161 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvrde24l2d2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvrde24l2d2k</guid>
+      <pubDate>Fri, 18 Sep 2026 04:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>個別事務所のプレデントや手法をAIに組み込む事例も紹介されています。 (2/2)</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvraw4ldsk2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvraw4ldsk2y</guid>
+      <pubDate>Fri, 18 Sep 2026 03:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[個別事務所のプレデントや手法をAIに組み込む事例も紹介されています。 (2/2)]]></description>
+      <content:encoded><![CDATA[個別事務所のプレデントや手法をAIに組み込む事例も紹介されています。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   OpenAIは法務向けの新プラットフォーム「Astra for Law」を発表し、GPT-6…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvraw4hgus2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvraw4hgus2z</guid>
+      <pubDate>Fri, 18 Sep 2026 03:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIは法務向けの新プラットフォーム「Astra for Law」を発表し、GPT-6 Astraを法的分析・執筆用の指示・検索機能と組み合わせて、法務専門のAIワークフローを構築できるようにします。230百万以上の法令・判例データを検索できる法務検索インデックスや26のエコシステムプラグイン、機密性を守るZDRなどのガバナンス機能を提供し、法務事務所や法務系企業が自社のツールと連携して利用できるようにします。初期は選定事務所向けのTrusted Accessで提供され、API経由でも利用可能になり、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIは法務向けの新プラットフォーム「Astra for Law」を発表し、GPT-6 Astraを法的分析・執筆用の指示・検索機能と組み合わせて、法務専門のAIワークフローを構築できるようにします。230百万以上の法令・判例データを検索できる法務検索インデックスや26のエコシステムプラグイン、機密性を守るZDRなどのガバナンス機能を提供し、法務事務所や法務系企業が自社のツールと連携して利用できるようにします。初期は選定事務所向けのTrusted Accessで提供され、API経由でも利用可能になり、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>法務向けアストラ Astra for Law  🔺 377 💬 75 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvravsggw42n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvravsggw42n</guid>
+      <pubDate>Fri, 18 Sep 2026 03:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[法務向けアストラ<br>Astra for Law<br><br>🔺 377<br>💬 75<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[法務向けアストラ<br>Astra for Law<br><br>🔺 377<br>💬 75<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系ま…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvr7ywkzxr2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvr7ywkzxr2s</guid>
+      <pubDate>Fri, 18 Sep 2026 03:28:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>oh-my-pi is the most unserious dev tool I think I&apos;ve ever se…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4da2r3e2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4da2r3e2g</guid>
+      <pubDate>Fri, 18 Sep 2026 01:53:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[oh-my-pi is the most unserious dev tool I think I've ever seen. At this point it's starting to feel like an art piece. It's honestly incredible.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" alt="Quote Tweet: https://twitter.com/i/status/2100764473392820433" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[oh-my-pi is the most unserious dev tool I think I've ever seen. At this point it's starting to feel like an art piece. It's honestly incredible.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" alt="Quote Tweet: https://twitter.com/i/status/2100764473392820433" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiayvhpx2lkamsoysdkglrc4tt6tbfnazouktvtbqapgt64qz6h5rq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のお…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr27bucp72d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr27bucp72d</guid>
+      <pubDate>Fri, 18 Sep 2026 01:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のおかげで新規メンテナーの指名・PRのレビュー・新しいドキュメント作成など多くの成果を挙げ、テストの安定化やJSエンジン統合の大規模リライト支援などにも貢献したことを振り返り、今後もプロジェクトをよりアクセスしやすくする取り組みを続けたいと語っています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Servoの寄付資金で1年間努めた長期メンテナーのジョシュ・ボウマン＝マシューズが、支援のおかげで新規メンテナーの指名・PRのレビュー・新しいドキュメント作成など多くの成果を挙げ、テストの安定化やJSエンジン統合の大規模リライト支援などにも貢献したことを振り返り、今後もプロジェクトをよりアクセスしやすくする取り組みを続けたいと語っています。]]></content:encoded>
+    </item>
+    <item>
+      <title>1年間のスポンサーによる Servo の開発 One year of sponsored Servo developme…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr274h3ip26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvr274h3ip26</guid>
+      <pubDate>Fri, 18 Sep 2026 01:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[1年間のスポンサーによる Servo の開発<br>One year of sponsored Servo development<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[1年間のスポンサーによる Servo の開発<br>One year of sponsored Servo development<br><br>🔺 342<br>💬 14<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Not sure if this will go anywhere, considering how much effo…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ctbatn2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ctbatn2p</guid>
+      <pubDate>Fri, 18 Sep 2026 01:44:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Not sure if this will go anywhere, considering how much effort has already been put into optimizing the cache, but at least it's interesting?<br><br>https://x.com/CompleteSkeptic/status/2100702845779775675]]></description>
+      <content:encoded><![CDATA[Not sure if this will go anywhere, considering how much effort has already been put into optimizing the cache, but at least it's interesting?<br><br>https://x.com/CompleteSkeptic/status/2100702845779775675]]></content:encoded>
+    </item>
+    <item>
+      <title>The actually interesting idea here is not &quot;better compaction…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4cpnvk62q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4cpnvk62q</guid>
+      <pubDate>Fri, 18 Sep 2026 01:44:10 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The actually interesting idea here is not "better compaction".<br><br>The better question to ask is "what if harnesses/llms didn't ever have to think about kv caching?"<br><br>This is what Diogo hints at in his reply.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" alt="Quote Tweet: https://x.com/CompleteSkeptic/status/2100702845779775675" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[The actually interesting idea here is not "better compaction".<br><br>The better question to ask is "what if harnesses/llms didn't ever have to think about kv caching?"<br><br>This is what Diogo hints at in his reply.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" alt="Quote Tweet: https://x.com/CompleteSkeptic/status/2100702845779775675" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiescf7zjjsjgjluhglufpf3cpcjszup47bqc6mmogvelg6ymstm7u" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>You&apos;re much less likely to hurt yourself that way.</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c6ftor2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c6ftor2i</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:33 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[You're much less likely to hurt yourself that way.]]></description>
+      <content:encoded><![CDATA[You're much less likely to hurt yourself that way.]]></content:encoded>
+    </item>
+    <item>
+      <title>To be clear: this is a cool experiment and I find it genuine…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c3enzb2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4c3enzb2t</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:32 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[To be clear: this is a cool experiment and I find it genuinely interesting. That said, if you think this style of bs filtering on a probability threshold is actually a compaction strategy, I highly recommend you just use the defaults in tools like Claude Code and Codex.]]></description>
+      <content:encoded><![CDATA[To be clear: this is a cool experiment and I find it genuinely interesting. That said, if you think this style of bs filtering on a probability threshold is actually a compaction strategy, I highly recommend you just use the defaults in tools like Claude Code and Codex.]]></content:encoded>
+    </item>
+    <item>
+      <title>6. The implementation is hot garbage.  &gt; &quot;Whatever is not ke…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bydjdx27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bydjdx27</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:31 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[6. The implementation is hot garbage. <br>> "Whatever is not kept is deleted permanently, but the assistant can always re-run a tool or re-read a file."<br><br>Good luck with that one.]]></description>
+      <content:encoded><![CDATA[6. The implementation is hot garbage. <br>> "Whatever is not kept is deleted permanently, but the assistant can always re-run a tool or re-read a file."<br><br>Good luck with that one.]]></content:encoded>
+    </item>
+    <item>
+      <title>Good news. Since we&apos;re already killing all of the reasoning …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bvcpxj2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bvcpxj2t</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Good news. Since we're already killing all of the reasoning tokens by doing this stupid compaction strategy, the rewrite cost won't actually be that high because the model is missing so much data! 🙃🙃]]></description>
+      <content:encoded><![CDATA[Good news. Since we're already killing all of the reasoning tokens by doing this stupid compaction strategy, the rewrite cost won't actually be that high because the model is missing so much data! 🙃🙃]]></content:encoded>
+    </item>
+    <item>
+      <title>If your history is &quot;1,2,3,4,5,6&quot; and you delete &quot;2&quot;, you hav…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bsbqgz2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bsbqgz2t</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:29 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[If your history is "1,2,3,4,5,6" and you delete "2", you have to rewrite "3,4,5,6". This is more expensive than leaving "2" in the history.]]></description>
+      <content:encoded><![CDATA[If your history is "1,2,3,4,5,6" and you delete "2", you have to rewrite "3,4,5,6". This is more expensive than leaving "2" in the history.]]></content:encoded>
+    </item>
+    <item>
+      <title>Cache writes are insanely expensive when data earlier in the…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bpatub2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bpatub2t</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:28 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Cache writes are insanely expensive when data earlier in the history is changed (because the old cache is invalidated when things change at the top). Every history edit requires a cache rewrite for ANY data past the history edit.]]></description>
+      <content:encoded><![CDATA[Cache writes are insanely expensive when data earlier in the history is changed (because the old cache is invalidated when things change at the top). Every history edit requires a cache rewrite for ANY data past the history edit.]]></content:encoded>
+    </item>
+    <item>
+      <title>5. Cache writes are more expensive than cache reads. Cache w…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bm7s4p27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bm7s4p27</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:27 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></description>
+      <content:encoded><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></content:encoded>
+    </item>
+    <item>
+      <title>Fun fact: If you switch models in Codex and compaction is ne…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bj6vrj2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bj6vrj2z</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:26 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Fun fact: If you switch models in Codex and compaction is necessary, compaction will run on the model that was previously used in the thread.]]></description>
+      <content:encoded><![CDATA[Fun fact: If you switch models in Codex and compaction is necessary, compaction will run on the model that was previously used in the thread.]]></content:encoded>
+    </item>
+    <item>
+      <title>4. Models are tuned on their compaction flows For the last y…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bg5skg2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bg5skg2w</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:25 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[4. Models are tuned on their compaction flows<br>For the last year, Frontier Labs have been including compaction and long runs as part of the training process. These models have learned ways to compact that are more effective than any rudimentary solution.]]></description>
+      <content:encoded><![CDATA[4. Models are tuned on their compaction flows<br>For the last year, Frontier Labs have been including compaction and long runs as part of the training process. These models have learned ways to compact that are more effective than any rudimentary solution.]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic is even stricter with this, requiring you to prese…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bd4wuu2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bd4wuu2z</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:24 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Anthropic is even stricter with this, requiring you to preserve the entire history in order to get any of the reasoning data. As a result, using this in Claude Code guarantees the model will act way dumber.]]></description>
+      <content:encoded><![CDATA[Anthropic is even stricter with this, requiring you to preserve the entire history in order to get any of the reasoning data. As a result, using this in Claude Code guarantees the model will act way dumber.]]></content:encoded>
+    </item>
+    <item>
+      <title>3. You&apos;re giving up the reasoning entirely Frontier models f…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ba43cg2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ba43cg2q</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[3. You're giving up the reasoning entirely<br>Frontier models from OpenAI, Anthropic, XAI, and Google do not share reasoning traces over the API. They share encrypted payloads, which Jev cannot see (and often will drop).]]></description>
+      <content:encoded><![CDATA[3. You're giving up the reasoning entirely<br>Frontier models from OpenAI, Anthropic, XAI, and Google do not share reasoning traces over the API. They share encrypted payloads, which Jev cannot see (and often will drop).]]></content:encoded>
+    </item>
+    <item>
+      <title>Deleting these things randomly will keep the model from know…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b53ata2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b53ata2i</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:22 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Deleting these things randomly will keep the model from knowing what it's tried and dooms you to end up in "stupid loops" where the model keeps trying the same thing over and over.]]></description>
+      <content:encoded><![CDATA[Deleting these things randomly will keep the model from knowing what it's tried and dooms you to end up in "stupid loops" where the model keeps trying the same thing over and over.]]></content:encoded>
+    </item>
+    <item>
+      <title>Not only does this 32k token context model know very little …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b226qu2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b226qu2p</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:21 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Not only does this 32k token context model know very little of what happened before, but (in this implementation) it doesn't even know what the result of the tool call is!]]></description>
+      <content:encoded><![CDATA[Not only does this 32k token context model know very little of what happened before, but (in this implementation) it doesn't even know what the result of the tool call is!]]></content:encoded>
+    </item>
+    <item>
+      <title>2. Jev doesn&apos;t even know what it&apos;s deciding on! Models use t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4awz2vg2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4awz2vg2c</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:20 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[2. Jev doesn't even know what it's deciding on!<br>Models use the context of the thread to decide what to keep or not keep in a summary. This implementation goes through on a "line-by-line" (per tool call) basis to decide what should be left or deleted.]]></description>
+      <content:encoded><![CDATA[2. Jev doesn't even know what it's deciding on!<br>Models use the context of the thread to decide what to keep or not keep in a summary. This implementation goes through on a "line-by-line" (per tool call) basis to decide what should be left or deleted.]]></content:encoded>
+    </item>
+    <item>
+      <title>1. Compaction isn&apos;t a filter The role of compaction is to cl…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aty6wv2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aty6wv2u</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[1. Compaction isn't a filter<br>The role of compaction is to clean up history to keep the agent focused, not just deleting noise. It should be used sparingly when context gets too long, not constantly to keep context small.]]></description>
+      <content:encoded><![CDATA[1. Compaction isn't a filter<br>The role of compaction is to clean up history to keep the agent focused, not just deleting noise. It should be used sparingly when context gets too long, not constantly to keep context small.]]></content:encoded>
+    </item>
+    <item>
+      <title>This is a terrible compaction strategy that fundamentally do…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aqeb4n2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aqeb4n2p</guid>
+      <pubDate>Fri, 18 Sep 2026 01:42:18 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[This is a terrible compaction strategy that fundamentally doesn't understand how compaction and context management work.<br><br>Seems like a lot of people are confused so let's break this down.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" alt="Quote Tweet: https://twitter.com/i/status/2100694549362553153" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This is a terrible compaction strategy that fundamentally doesn't understand how compaction and context management work.<br><br>Seems like a lot of people are confused so let's break this down.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" alt="Quote Tweet: https://twitter.com/i/status/2100694549362553153" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>📝 Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選  🔖 222 ブック…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqvwwjlnj2f</link>
@@ -201,282 +480,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>Octop is an open-source, self-hosted AI assistant that runs a single-process, multi-user, multi-agent platform with a web dashboard, CLI, and IM integrations, storing all data locally by default and offering pluggable backends, memory, knowledge bases, and ACP/GitHub-style (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 TencentCloud / Octo…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7sllex2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvqb7sllex2c</guid>
-      <pubDate>Thu, 17 Sep 2026 18:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / Octop<br>⭐ 3,215 (+396)<br>🗒 Python<br><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 TencentCloud / Octop<br>⭐ 3,215 (+396)<br>🗒 Python<br><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.]]></content:encoded>
-    </item>
-    <item>
-      <title>Holy shit what</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcacf6xy2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqcacf6xy2i</guid>
-      <pubDate>Thu, 17 Sep 2026 18:09:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Holy shit what
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Holy shit what
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaj4izqofgail2fb635qgh3rx2ypj25d7sr7orkfwqq2exmfeuoge" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I’ve been on the upgrade program for 10 years. Never missed …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqal2ix7b2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqal2ix7b2t</guid>
-      <pubDate>Thu, 17 Sep 2026 17:54:05 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I’ve been on the upgrade program for 10 years. Never missed a phone launch. This fucking sucks.]]></description>
-      <content:encoded><![CDATA[I’ve been on the upgrade program for 10 years. Never missed a phone launch. This fucking sucks.]]></content:encoded>
-    </item>
-    <item>
-      <title>Just learned that Apple randomly canceled my iPhone preorder…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqaksydp426</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqaksydp426</guid>
-      <pubDate>Thu, 17 Sep 2026 17:53:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Just learned that Apple randomly canceled my iPhone preorder?<br><br>What happened to this company man
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Just learned that Apple randomly canceled my iPhone preorder?<br><br>What happened to this company man
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigfh7cn7p2qwelcymatnnleqnl4eez52f4wdy2fzai2oc7rfaisbm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示された…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7f6fslv2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7f6fslv2t</guid>
-      <pubDate>Thu, 17 Sep 2026 17:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示されたテキストには記事本文が含まれていません。記事の本文を提供していただければ、日本語で1-3文で要約します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Vercelのセキュリティチェックポイントに関する記事の要約を求められていますが、提示されたテキストには記事本文が含まれていません。記事の本文を提供していただければ、日本語で1-3文で要約します。]]></content:encoded>
-    </item>
-    <item>
-      <title>富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売 Fujitsu launches made-in-J…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7eyqar42g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvq7eyqar42g</guid>
-      <pubDate>Thu, 17 Sep 2026 17:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売<br>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA<br><br>🔺 329<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[富士通、日本製の次世代CPU「FUJITSU-MONAKA」を発売<br>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA<br><br>🔺 329<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 cilium / cilium ⭐ 25,267 (+20) 🗒 Go  eBPF-based Networki…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq5udtqot26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq5udtqot26</guid>
-      <pubDate>Thu, 17 Sep 2026 17:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 cilium / cilium<br>⭐ 25,267 (+20)<br>🗒 Go<br><br>eBPF-based Networking, Security, and Observability]]></description>
-      <content:encoded><![CDATA[📦 cilium / cilium<br>⭐ 25,267 (+20)<br>🗒 Go<br><br>eBPF-based Networking, Security, and Observability]]></content:encoded>
-    </item>
-    <item>
-      <title>deterministic file selection and context-aware reviews, conf…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jeg35j23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jeg35j23</guid>
-      <pubDate>Thu, 17 Sep 2026 16:17:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[deterministic file selection and context-aware reviews, configurable via a rich CLI and plugins. (2/2)]]></description>
-      <content:encoded><![CDATA[deterministic file selection and context-aware reviews, configurable via a rich CLI and plugins. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Open Code Review is an AI-powered code review …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jeet4526</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jeet4526</guid>
-      <pubDate>Thu, 17 Sep 2026 16:17:26 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Open Code Review is an AI-powered code review CLI by Alibaba that analyzes diffs, uses a constrained agent architecture and deterministic rules to deliver precise, line-level feedback, with full-file scanning capabilities and multi-language, multi-platform support. It emphasizes (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Open Code Review is an AI-powered code review CLI by Alibaba that analyzes diffs, uses a constrained agent architecture and deterministic rules to deliver precise, line-level feedback, with full-file scanning capabilities and multi-language, multi-platform support. It emphasizes (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 alibaba / open-code-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jbgqew2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvq2jbgqew2l</guid>
-      <pubDate>Thu, 17 Sep 2026 16:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 alibaba / open-code-review<br>⭐ 33,596 (+3,290)<br>🗒 Go<br><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, threa...]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 alibaba / open-code-review<br>⭐ 33,596 (+3,290)<br>🗒 Go<br><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, threa...]]></content:encoded>
-    </item>
-    <item>
-      <title>イスラエルの閣僚、ガザを題材にしたドキュメンタリーを巡って映画製作者たちの市民権を脅かす Israeli Ministe…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvpyojggkd2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvpyojggkd2t</guid>
-      <pubDate>Thu, 17 Sep 2026 15:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[イスラエルの閣僚、ガザを題材にしたドキュメンタリーを巡って映画製作者たちの市民権を脅かす<br>Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary<br><br>🔺 325<br>💬 11<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[イスラエルの閣僚、ガザを題材にしたドキュメンタリーを巡って映画製作者たちの市民権を脅かす<br>Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary<br><br>🔺 325<br>💬 11<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  NationalSecurityAgency/ghidra GhidraはNSAが開発した…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpy2wj2tv26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpy2wj2tv26</guid>
-      <pubDate>Thu, 17 Sep 2026 15:33:34 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>NationalSecurityAgency/ghidra<br>GhidraはNSAが開発したソフトウェアリバースエンジニアリングフレームワークです。<br>Windows、macOS、Linuxなどの多様なプラットフォームで、コンパイル済みコードを分析するための逆アセンブルやデコンパイルなどの高度なツールを提供します。<br>複雑な解析作業の効率化やチーム連携、悪意のあるコードの分析、システムの脆弱性把握を目的として構築されており、JavaやPythonによる拡張も可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>NationalSecurityAgency/ghidra<br>GhidraはNSAが開発したソフトウェアリバースエンジニアリングフレームワークです。<br>Windows、macOS、Linuxなどの多様なプラットフォームで、コンパイル済みコードを分析するための逆アセンブルやデコンパイルなどの高度なツールを提供します。<br>複雑な解析作業の効率化やチーム連携、悪意のあるコードの分析、システムの脆弱性把握を目的として構築されており、JavaやPythonによる拡張も可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/claude-code Claude Codeは、ターミナルで動作す…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxzc4xid2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxzc4xid2m</guid>
-      <pubDate>Thu, 17 Sep 2026 15:32:40 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-code<br>Claude Codeは、ターミナルで動作するエージェント型のコーディングツールです。<br>自然言語による操作で、コードベースの把握、定型タスクの実行、複雑なコードの解説、Gitワークフローの管理を行い、開発効率を向上させることを目的としています。<br>ターミナル、IDE、GitHubで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-code<br>Claude Codeは、ターミナルで動作するエージェント型のコーディングツールです。<br>自然言語による操作で、コードベースの把握、定型タスクの実行、複雑なコードの解説、Gitワークフローの管理を行い、開発効率を向上させることを目的としています。<br>ターミナル、IDE、GitHubで利用可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  alphaXiv/OpenResearch OpenResearchは、リサーチエージェン…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxxvq43x2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxxvq43x2r</guid>
-      <pubDate>Thu, 17 Sep 2026 15:31:53 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>alphaXiv/OpenResearch<br>OpenResearchは、リサーチエージェントや自動研究のためのローカルファーストなワークスペースです。<br>Claude CodeやCursorなどのツールをエージェント化し、文献レビュー、仮説構築、実験、成果物作成を支援します。<br>並行探索や再現可能な実験管理を可能にし、アイデアの提案から検証までのサイクルを自律的に実行する自動研究を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alphaXiv/OpenResearch<br>OpenResearchは、リサーチエージェントや自動研究のためのローカルファーストなワークスペースです。<br>Claude CodeやCursorなどのツールをエージェント化し、文献レビュー、仮説構築、実験、成果物作成を支援します。<br>並行探索や再現可能な実験管理を可能にし、アイデアの提案から検証までのサイクルを自律的に実行する自動研究を実現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  Tencent/BrowserSkill BrowserSkillは、AIエージェントがユ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxwlred72r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxwlred72r</guid>
-      <pubDate>Thu, 17 Sep 2026 15:31:09 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>Tencent/BrowserSkill<br>BrowserSkillは、AIエージェントがユーザーのログイン済みブラウザを操作できるようにするツールです。<br>ユーザーの作業を妨げず、必要なタブのみを一時的に借用してタスクを実行します。<br>CLIを通じて多様なAIエージェントと連携でき、別途テストアカウントを用意せず既存の環境を利用可能です。<br>また、人間による操作が必要な際の切り替えにも対応しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Tencent/BrowserSkill<br>BrowserSkillは、AIエージェントがユーザーのログイン済みブラウザを操作できるようにするツールです。<br>ユーザーの作業を妨げず、必要なタブのみを一時的に借用してタスクを実行します。<br>CLIを通じて多様なAIエージェントと連携でき、別途テストアカウントを用意せず既存の環境を利用可能です。<br>また、人間による操作が必要な際の切り替えにも対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  addyosmani/agent-skills AIコーディングエージェントにシニアエンジ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxoqpbjq2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvpxoqpbjq2o</guid>
-      <pubDate>Thu, 17 Sep 2026 15:26:46 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用し、一貫した開発を実現するためのリポジトリです。<br>定義からリリースまでの開発サイクルをスラッシュコマンドで体系化し、品質管理を徹底したプロダクションレベルの開発を支援することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>addyosmani/agent-skills<br>AIコーディングエージェントにシニアエンジニアのワークフローやベストプラクティスを適用し、一貫した開発を実現するためのリポジトリです。<br>定義からリリースまでの開発サイクルをスラッシュコマンドで体系化し、品質管理を徹底したプロダクションレベルの開発を支援することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>features. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5sxt3z2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5sxt3z2h</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[features. (2/2)]]></description>
-      <content:encoded><![CDATA[features. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   n8n is a fair-code, self-hostable automation p…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5swcb62g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5swcb62g</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>n8n is a fair-code, self-hostable automation platform that combines a visual workflow builder with code support to create AI-native multi-step agents and connect to 1500+ integrations, enabling prototype-to-production AI workflows with flexible model providers and enterprise (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>n8n is a fair-code, self-hostable automation platform that combines a visual workflow builder with code support to create AI-native multi-step agents and connect to 1500+ integrations, enabling prototype-to-production AI workflows with flexible model providers and enterprise (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 n8n-io / n8n ⭐ 204,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5ntefg2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvpx5ntefg2g</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 n8n-io / n8n<br>⭐ 204,788 (+225)<br>🗒 TypeScript<br><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 n8n-io / n8n<br>⭐ 204,788 (+225)<br>🗒 TypeScript<br><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]]></content:encoded>
-    </item>
-    <item>
-      <title>Wow I hope not!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvpwgew2ac2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mvpwgew2ac2t</guid>
-      <pubDate>Thu, 17 Sep 2026 15:04:11 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Wow I hope not!]]></description>
-      <content:encoded><![CDATA[Wow I hope not!]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fus…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvtc6pkf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvtc6pkf27</guid>
-      <pubDate>Thu, 17 Sep 2026 14:53:31 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF<br>Qwen3.8 27Bをベースに、思考トークンを削減して高速化しつつ性能を向上させたモデルのGGUF量子化版を提供することを目的としています。<br>消費者向けハードウェアで動作し、高い推論能力と効率的な応答を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF<br>Qwen3.8 27Bをベースに、思考トークンを削減して高速化しつつ性能を向上させたモデルのGGUF量子化版を提供することを目的としています。<br>消費者向けハードウェアで動作し、高い推論能力と効率的な応答を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvojgeyj2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvojgeyj2j</guid>
-      <pubDate>Thu, 17 Sep 2026 14:50:51 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提供ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提供ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF Qwe…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvmvvbjd2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvmvvbjd2q</guid>
-      <pubDate>Thu, 17 Sep 2026 14:49:57 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>Qwen3.8-27BモデルにGSQおよびRCOを用いた非一様量子化を適用し、GGUF形式で提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターが含まれています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>Qwen3.8-27BモデルにGSQおよびRCOを用いた非一様量子化を適用し、GGUF形式で提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクターが含まれています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  m-a-p/YuE2-3B 歌詞とスタイルからボーカルと伴奏を含む楽曲を生成する…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvhf4dbb2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpvhf4dbb2t</guid>
-      <pubDate>Thu, 17 Sep 2026 14:46:51 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>歌詞とスタイルからボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードの調整が可能であり、Suno v5/v6に匹敵する高品質な楽曲生成を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>歌詞とスタイルからボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードの調整が可能であり、Suno v5/v6に匹敵する高品質な楽曲生成を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Edge0/Edge0-35B-A3B-preview スマートフォン等の低メモ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpv3qyfcd2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvpv3qyfcd2g</guid>
-      <pubDate>Thu, 17 Sep 2026 14:40:21 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Edge0-35B-A3B-preview<br>スマートフォン等の低メモリ環境で動作させることを目的とした、35BクラスのスパースMoE LLMです。<br>edge0ストリーミング推論フレームワークを用いることで、3GiB未満のアクティブメモリで実用的な速度の動作を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Edge0-35B-A3B-preview<br>スマートフォン等の低メモリ環境で動作させることを目的とした、35BクラスのスパースMoE LLMです。<br>edge0ストリーミング推論フレームワークを用いることで、3GiB未満のアクティブメモリで実用的な速度の動作を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 国内スマホ利用率、iPhoneが45.6%に低下。Androidは54.1%に - すまほん!!  🔖 151 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvpufyppvf2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvpufyppvf2y</guid>
-      <pubDate>Thu, 17 Sep 2026 14:28:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 国内スマホ利用率、iPhoneが45.6%に低下。Androidは54.1%に - すまほん!!<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 国内スマホ利用率、iPhoneが45.6%に低下。Androidは54.1%に - すまほん!!<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Kubernetes, and self-hosted servers). It also highlights ass…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptsphemw2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptsphemw2h</guid>
-      <pubDate>Thu, 17 Sep 2026 14:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[Kubernetes, and self-hosted servers). It also highlights associated projects like Ever Works and Ever Teams and provides detailed guides, demos, and production-ready deployment tips. (2/2)]]></description>
-      <content:encoded><![CDATA[Kubernetes, and self-hosted servers). It also highlights associated projects like Ever Works and Ever Teams and provides detailed guides, demos, and production-ready deployment tips. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Ever Gauzy Platform is an open-source, feature…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptspftsg2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptspftsg2h</guid>
-      <pubDate>Thu, 17 Sep 2026 14:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Ever Gauzy Platform is an open-source, feature-rich open platform for Collaborative, On-Demand and Sharing Economies, offering ERP, CRM, HRM, PM, ATS, and related business management tools with headless APIs, multi-tenant support, and extensive deployment options (Docker, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Ever Gauzy Platform is an open-source, feature-rich open platform for Collaborative, On-Demand and Sharing Economies, offering ERP, CRM, HRM, PM, ATS, and related business management tools with headless APIs, multi-tenant support, and extensive deployment options (Docker, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 ever-co / ever-gauz…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptsmarar2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvptsmarar2f</guid>
-      <pubDate>Thu, 17 Sep 2026 14:17:20 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 ever-co / ever-gauzy<br>⭐ 7,531 (+469)<br>🗒 TypeScript<br><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 ever-co / ever-gauzy<br>⭐ 7,531 (+469)<br>🗒 TypeScript<br><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co]]></content:encoded>
-    </item>
-    <item>
-      <title>If you need to fine-tune a model for your codebase, your cod…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mvpsw3ofea2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mvpsw3ofea2q</guid>
-      <pubDate>Thu, 17 Sep 2026 14:01:23 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[If you need to fine-tune a model for your codebase, your code is bad.<br><br>Agree or disagree? <br><br>We talk AI hot takes in our latest GitHub Podcast episode. What would you add to the list?<br>Listen wherever you listen to podcasts or find it here gh.io/podcast]]></description>
-      <content:encoded><![CDATA[If you need to fine-tune a model for your codebase, your code is bad.<br><br>Agree or disagree? <br><br>We talk AI hot takes in our latest GitHub Podcast episode. What would you add to the list?<br>Listen wherever you listen to podcasts or find it here gh.io/podcast]]></content:encoded>
     </item>
   </channel>
 </rss>
