@@ -5,8 +5,170 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:15:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のGitHubトレンド  Fission-AI/OpenSpec AIを活用して仕様策定から実装までを効率化する仕様…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsggxjdbz2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsggxjdbz2d</guid>
+      <pubDate>Fri, 18 Sep 2026 14:56:10 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>Fission-AI/OpenSpec<br>AIを活用して仕様策定から実装までを効率化する仕様フレームワークです。<br>アイデアから仕様書、設計書、タスクリストの作成、そしてコードへの適用という一連のワークフローを管理します。<br>柔軟かつ反復的な開発を支援し、小規模なプロジェクトから企業向けまで幅広く対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Fission-AI/OpenSpec<br>AIを活用して仕様策定から実装までを効率化する仕様フレームワークです。<br>アイデアから仕様書、設計書、タスクリストの作成、そしてコードへの適用という一連のワークフローを管理します。<br>柔軟かつ反復的な開発を支援し、小規模なプロジェクトから企業向けまで幅広く対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  TencentCloud/Octop Octopは、プライバシーを重視してローカル環境で動…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsgcjqa2s2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsgcjqa2s2o</guid>
+      <pubDate>Fri, 18 Sep 2026 14:53:41 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>TencentCloud/Octop<br>Octopは、プライバシーを重視してローカル環境で動作するオープンソースのマルチユーザー・マルチエージェントAIアシスタントです。<br>Webやチャットツール、IDEとの連携が可能で、専門家ライブラリやRAG、プラグインなどの機能を搭載しています。<br>個人やチーム向けに、独立性と協調性を兼ね備えたインテリジェントな環境を提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>TencentCloud/Octop<br>Octopは、プライバシーを重視してローカル環境で動作するオープンソースのマルチユーザー・マルチエージェントAIアシスタントです。<br>Webやチャットツール、IDEとの連携が可能で、専門家ライブラリやRAG、プラグインなどの機能を搭載しています。<br>個人やチーム向けに、独立性と協調性を兼ね備えたインテリジェントな環境を提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  affaan-m/ECC ECCはAIエージェントに統合的なエンジニアリングシステムとツー…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsg4uh2c52s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsg4uh2c52s</guid>
+      <pubDate>Fri, 18 Sep 2026 14:50:31 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>ECCはAIエージェントに統合的なエンジニアリングシステムとツールボックスを提供するプロジェクトです。<br>計画、テスト、実装、レビュー、検証、記憶、改善という一連のワークフローを導入することで、AIが計画的に開発を行い、変更を検証し、得られた知見を再利用可能なスキルやワークフローとして蓄積することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>ECCはAIエージェントに統合的なエンジニアリングシステムとツールボックスを提供するプロジェクトです。<br>計画、テスト、実装、レビュー、検証、記憶、改善という一連のワークフローを導入することで、AIが計画的に開発を行い、変更を検証し、得られた知見を再利用可能なスキルやワークフローとして蓄積することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  alibaba/open-code-review AI搭載のコードレビューCLIツールです…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsg2y2tip2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsg2y2tip2a</guid>
+      <pubDate>Fri, 18 Sep 2026 14:49:28 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>AI搭載のコードレビューCLIツールです。<br>元々はアリババグループの社内ツールで、現在はオープンソースとして提供されています。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>コードベースの検索やファイル全体の読み込みが可能で、差分がないファイルに対するスキャン機能も備えています。<br>汎用AIエージェントに比べ、ノイズを抑えた高精度なレビューを低コストで実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>AI搭載のコードレビューCLIツールです。<br>元々はアリババグループの社内ツールで、現在はオープンソースとして提供されています。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>コードベースの検索やファイル全体の読み込みが可能で、差分がないファイルに対するスキャン機能も備えています。<br>汎用AIエージェントに比べ、ノイズを抑えた高精度なレビューを低コストで実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cloudflare/security-audit-skill コーディングエージェントを…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsfzrhrlq2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvsfzrhrlq2e</guid>
+      <pubDate>Fri, 18 Sep 2026 14:48:47 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員として機能させるためのスキルです。<br>偵察からレポート作成までの6つのフェーズを用いて構造的な監査を行い、脆弱性の発見と検証を自動化することを目的としています。<br>Cloudflareの脆弱性発見システムのベースとなった実装です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員として機能させるためのスキルです。<br>偵察からレポート作成までの6つのフェーズを用いて構造的な監査を行い、脆弱性の発見と検証を自動化することを目的としています。<br>Cloudflareの脆弱性発見システムのベースとなった実装です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ  🔖 163 ブックマーク 💬 コ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsev2whad2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsev2whad2p</guid>
+      <pubDate>Fri, 18 Sep 2026 14:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ<br><br>🔖 163 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 supermemoryai / superme…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsebemwan2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsebemwan2f</guid>
+      <pubDate>Fri, 18 Sep 2026 14:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 supermemoryai / supermemory<br>⭐ 30,032 (+140)<br>🗒 TypeScript<br><br>Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 supermemoryai / supermemory<br>⭐ 30,032 (+140)<br>🗒 TypeScript<br><br>Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  ukisai/Swift-Qwen3.8-27b Swift-Qwen3.8-2…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdupuzop2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdupuzop2g</guid>
+      <pubDate>Fri, 18 Sep 2026 14:10:11 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ukisai/Swift-Qwen3.8-27b<br>Swift-Qwen3.8-27Bは、Qwen3.8-27Bの推論効率を高めた派生モデルです。<br>過剰な思考を誘発するトークンを制限するファインチューニングにより、性能をほぼ維持したまま思考トークン数を約58%削減し、処理速度を約1.95倍に向上させています。<br>推論過程の短縮と過剰思考によるエラーの削減を目的として作成されました。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ukisai/Swift-Qwen3.8-27b<br>Swift-Qwen3.8-27Bは、Qwen3.8-27Bの推論効率を高めた派生モデルです。<br>過剰な思考を誘発するトークンを制限するファインチューニングにより、性能をほぼ維持したまま思考トークン数を約58%削減し、処理速度を約1.95倍に向上させています。<br>推論過程の短縮と過剰思考によるエラーの削減を目的として作成されました。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  TokenRhythm/NeoHorse-1-4B NeoHorse-1-4Bは…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdteknpv2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdteknpv2g</guid>
+      <pubDate>Fri, 18 Sep 2026 14:09:25 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>TokenRhythm/NeoHorse-1-4B<br>NeoHorse-1-4Bは、Qwen3.5-4BをベースにTokenRhythmがファインチューニングした言語モデルです。<br>再帰的な自己改善（RSI）の実現に向けた初期プロトタイプとして作成されました。<br>テキストベースのエージェントハーネス、ツールの利用、コーディング、指示追従などの能力向上を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>TokenRhythm/NeoHorse-1-4B<br>NeoHorse-1-4Bは、Qwen3.5-4BをベースにTokenRhythmがファインチューニングした言語モデルです。<br>再帰的な自己改善（RSI）の実現に向けた初期プロトタイプとして作成されました。<br>テキストベースのエージェントハーネス、ツールの利用、コーディング、指示追従などの能力向上を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデル重みと設定ファイ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdqco2ih2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdqco2ih2t</guid>
+      <pubDate>Fri, 18 Sep 2026 14:07:43 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクにおける能力が向上しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを完遂できるよう設計された、デプロイに適した小型の高密度モデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディング、専門業務、研究、長期的なエージェントタスクにおける能力が向上しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを完遂できるよう設計された、デプロイに適した小型の高密度モデルです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-2-27B-gguf llama…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdod2hc227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdod2hc227</guid>
+      <pubDate>Fri, 18 Sep 2026 14:06:36 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>llama.cppで動作する27Bクラスの推論モデルBonsai 2 27BのGGUF形式モデルを提供することが目的です。<br>Qwen3.8-27Bをベースに三値重みを採用し、FP16比で約9.3倍の軽量化と知能の98.2%維持を両立しています。<br>CUDA、Metal、CPUをサポートし、低メモリ環境での高速な推論を実現します。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>llama.cppで動作する27Bクラスの推論モデルBonsai 2 27BのGGUF形式モデルを提供することが目的です。<br>Qwen3.8-27Bをベースに三値重みを採用し、FP16比で約9.3倍の軽量化と知能の98.2%維持を両立しています。<br>CUDA、Metal、CPUをサポートし、低メモリ環境での高速な推論を実現します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4.1-Flash DeepSeek…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdmlzurc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvsdmlzurc2q</guid>
+      <pubDate>Fri, 18 Sep 2026 14:05:38 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、KVキャッシュの圧縮を追求したマルチモーダルMoEモデルです。<br>最大100万トークンのコンテキストに対応し、画像とテキストを処理します。<br>Causal Encoder-DecoderやCSA2、FP4キャッシュなどの技術を用いてメモリ使用量を大幅に削減し、入力負荷の高いワークロードにおけるコスト効率を向上させることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、KVキャッシュの圧縮を追求したマルチモーダルMoEモデルです。<br>最大100万トークンのコンテキストに対応し、画像とテキストを処理します。<br>Causal Encoder-DecoderやCSA2、FP4キャッシュなどの技術を用いてメモリ使用量を大幅に削減し、入力負荷の高いワークロードにおけるコスト効率を向上させることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ニューヨーク・タイムズがOpenAIとMicrosoftを相手取って3年前に提起した著作権訴…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsch2zsik2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsch2zsik2i</guid>
+      <pubDate>Fri, 18 Sep 2026 13:44:39 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ニューヨーク・タイムズがOpenAIとMicrosoftを相手取って3年前に提起した著作権訴訟で、未公開資料にはAIの学習用データ収集を「窃盗」とみなす内部認識や、 paywall回避や大量スクレイピング、著作権表記の意図的削除など、原告側の主張を裏付ける新たな事実が含まれていたことが明らかになった。これらの資料は、AIの学習が「公正利用」の要件を満たすかどうかを巡る法的判断に対し、従来の見解と矛盾する可能性を示すとともに、データ出典の規模が巨大小さを呈している。なお新情報の多くはタイムズ自身の要約に基づくもので、訴訟はなお継続中である。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ニューヨーク・タイムズがOpenAIとMicrosoftを相手取って3年前に提起した著作権訴訟で、未公開資料にはAIの学習用データ収集を「窃盗」とみなす内部認識や、 paywall回避や大量スクレイピング、著作権表記の意図的削除など、原告側の主張を裏付ける新たな事実が含まれていたことが明らかになった。これらの資料は、AIの学習が「公正利用」の要件を満たすかどうかを巡る法的判断に対し、従来の見解と矛盾する可能性を示すとともに、データ出典の規模が巨大小さを呈している。なお新情報の多くはタイムズ自身の要約に基づくもので、訴訟はなお継続中である。]]></content:encoded>
+    </item>
+    <item>
+      <title>マイクロソフトの幹部がAIによるスクレイピングを『人類史上最大の労働の窃盗』だと呼んだ。 Microsoft exec …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvscgruvie2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvscgruvie2t</guid>
+      <pubDate>Fri, 18 Sep 2026 13:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[マイクロソフトの幹部がAIによるスクレイピングを『人類史上最大の労働の窃盗』だと呼んだ。<br>Microsoft exec called AI scraping 'the largest theft of labor in human history'<br><br>🔺 428<br>💬 58<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[マイクロソフトの幹部がAIによるスクレイピングを『人類史上最大の労働の窃盗』だと呼んだ。<br>Microsoft exec called AI scraping 'the largest theft of labor in human history'<br><br>🔺 428<br>💬 58<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>comprehensive docs, and community schemas to plan before cod…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsaxncnej2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsaxncnej2b</guid>
+      <pubDate>Fri, 18 Sep 2026 13:18:05 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[comprehensive docs, and community schemas to plan before code and align human and AI efforts. (2/2)]]></description>
+      <content:encoded><![CDATA[comprehensive docs, and community schemas to plan before code and align human and AI efforts. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenSpec is a lightweight spec-driven framewor…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsaxkt2gm26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsaxkt2gm26</guid>
+      <pubDate>Fri, 18 Sep 2026 13:18:01 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenSpec is a lightweight spec-driven framework for AI-assisted software development, promoting iterative planning and a single source of truth via stores (beta) for cross-repo collaboration. It offers slash commands like /opsx:propose, a new artifact-guided workflow, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenSpec is a lightweight spec-driven framework for AI-assisted software development, promoting iterative planning and a single source of truth via stores (beta) for cross-repo collaboration. It offers slash commands like /opsx:propose, a new artifact-guided workflow, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 Fission-AI / OpenSp…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsawf5mof2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsawf5mof2l</guid>
+      <pubDate>Fri, 18 Sep 2026 13:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Fission-AI / OpenSpec<br>⭐ 69,069 (+298)<br>🗒 TypeScript<br><br>Spec-driven development (SDD) for AI coding assistants.]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Fission-AI / OpenSpec<br>⭐ 69,069 (+298)<br>🗒 TypeScript<br><br>Spec-driven development (SDD) for AI coding assistants.]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 ahmedkhaleel2004 / gitd…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvs5ksdck42b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvs5ksdck42b</guid>
+      <pubDate>Fri, 18 Sep 2026 12:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ahmedkhaleel2004 / gitdiagram<br>⭐ 16,246 (+145)<br>🗒 TypeScript<br><br>Free, simple, fast interactive diagrams for any GitHub repository]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 ahmedkhaleel2004 / gitdiagram<br>⭐ 16,246 (+145)<br>🗒 TypeScript<br><br>Free, simple, fast interactive diagrams for any GitHub repository]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   OpenAIのフォーラムDiscourseの脆弱性を起点に、OpenAIのSSO誤設定とli…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvs3qerhqt2k</link>
@@ -308,177 +470,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></description>
       <content:encoded><![CDATA[5. Cache writes are more expensive than cache reads.<br>Cache writes are the biggest cost by far for agents. I often see cache write costs go over 60% of my total LLM spend in my personal use of Claude Code and Codex.]]></content:encoded>
-    </item>
-    <item>
-      <title>Fun fact: If you switch models in Codex and compaction is ne…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bj6vrj2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bj6vrj2z</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:26 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Fun fact: If you switch models in Codex and compaction is necessary, compaction will run on the model that was previously used in the thread.]]></description>
-      <content:encoded><![CDATA[Fun fact: If you switch models in Codex and compaction is necessary, compaction will run on the model that was previously used in the thread.]]></content:encoded>
-    </item>
-    <item>
-      <title>4. Models are tuned on their compaction flows For the last y…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bg5skg2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bg5skg2w</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:25 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[4. Models are tuned on their compaction flows<br>For the last year, Frontier Labs have been including compaction and long runs as part of the training process. These models have learned ways to compact that are more effective than any rudimentary solution.]]></description>
-      <content:encoded><![CDATA[4. Models are tuned on their compaction flows<br>For the last year, Frontier Labs have been including compaction and long runs as part of the training process. These models have learned ways to compact that are more effective than any rudimentary solution.]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic is even stricter with this, requiring you to prese…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bd4wuu2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4bd4wuu2z</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:24 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Anthropic is even stricter with this, requiring you to preserve the entire history in order to get any of the reasoning data. As a result, using this in Claude Code guarantees the model will act way dumber.]]></description>
-      <content:encoded><![CDATA[Anthropic is even stricter with this, requiring you to preserve the entire history in order to get any of the reasoning data. As a result, using this in Claude Code guarantees the model will act way dumber.]]></content:encoded>
-    </item>
-    <item>
-      <title>3. You&apos;re giving up the reasoning entirely Frontier models f…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ba43cg2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4ba43cg2q</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[3. You're giving up the reasoning entirely<br>Frontier models from OpenAI, Anthropic, XAI, and Google do not share reasoning traces over the API. They share encrypted payloads, which Jev cannot see (and often will drop).]]></description>
-      <content:encoded><![CDATA[3. You're giving up the reasoning entirely<br>Frontier models from OpenAI, Anthropic, XAI, and Google do not share reasoning traces over the API. They share encrypted payloads, which Jev cannot see (and often will drop).]]></content:encoded>
-    </item>
-    <item>
-      <title>Deleting these things randomly will keep the model from know…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b53ata2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b53ata2i</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:22 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Deleting these things randomly will keep the model from knowing what it's tried and dooms you to end up in "stupid loops" where the model keeps trying the same thing over and over.]]></description>
-      <content:encoded><![CDATA[Deleting these things randomly will keep the model from knowing what it's tried and dooms you to end up in "stupid loops" where the model keeps trying the same thing over and over.]]></content:encoded>
-    </item>
-    <item>
-      <title>Not only does this 32k token context model know very little …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b226qu2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4b226qu2p</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:21 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Not only does this 32k token context model know very little of what happened before, but (in this implementation) it doesn't even know what the result of the tool call is!]]></description>
-      <content:encoded><![CDATA[Not only does this 32k token context model know very little of what happened before, but (in this implementation) it doesn't even know what the result of the tool call is!]]></content:encoded>
-    </item>
-    <item>
-      <title>2. Jev doesn&apos;t even know what it&apos;s deciding on! Models use t…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4awz2vg2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4awz2vg2c</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[2. Jev doesn't even know what it's deciding on!<br>Models use the context of the thread to decide what to keep or not keep in a summary. This implementation goes through on a "line-by-line" (per tool call) basis to decide what should be left or deleted.]]></description>
-      <content:encoded><![CDATA[2. Jev doesn't even know what it's deciding on!<br>Models use the context of the thread to decide what to keep or not keep in a summary. This implementation goes through on a "line-by-line" (per tool call) basis to decide what should be left or deleted.]]></content:encoded>
-    </item>
-    <item>
-      <title>1. Compaction isn&apos;t a filter The role of compaction is to cl…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aty6wv2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aty6wv2u</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:19 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[1. Compaction isn't a filter<br>The role of compaction is to clean up history to keep the agent focused, not just deleting noise. It should be used sparingly when context gets too long, not constantly to keep context small.]]></description>
-      <content:encoded><![CDATA[1. Compaction isn't a filter<br>The role of compaction is to clean up history to keep the agent focused, not just deleting noise. It should be used sparingly when context gets too long, not constantly to keep context small.]]></content:encoded>
-    </item>
-    <item>
-      <title>This is a terrible compaction strategy that fundamentally do…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aqeb4n2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvr4aqeb4n2p</guid>
-      <pubDate>Fri, 18 Sep 2026 01:42:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This is a terrible compaction strategy that fundamentally doesn't understand how compaction and context management work.<br><br>Seems like a lot of people are confused so let's break this down.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" alt="Quote Tweet: https://twitter.com/i/status/2100694549362553153" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is a terrible compaction strategy that fundamentally doesn't understand how compaction and context management work.<br><br>Seems like a lot of people are confused so let's break this down.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" alt="Quote Tweet: https://twitter.com/i/status/2100694549362553153" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreied2hkvsf7e4q5cm7hbit6dki2v5oa3v43ztn4kazli7ppj2vxohm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選  🔖 222 ブック…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqvwwjlnj2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqvwwjlnj2f</guid>
-      <pubDate>Fri, 18 Sep 2026 00:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選<br><br>🔖 222 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選<br><br>🔖 222 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   GLMは進化するにつれ、セキュリティ強化やAI自体の構築支援など、予想外の能力を見せる一方で…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqtizpcee2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqtizpcee2i</guid>
-      <pubDate>Thu, 17 Sep 2026 23:44:39 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GLMは進化するにつれ、セキュリティ強化やAI自体の構築支援など、予想外の能力を見せる一方で新たなリスクも生んでいる。GLM-5.3-Flashの導入では、Infra Agentと密なフィードバックループを通じて、エンドツーエンドの指標だけでは捉えきれない細粒な原因追跡が可能となる“密度の高いフィードバック”の重要性を実証し、性能向上と安定運用を両立する手法を確立した。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GLMは進化するにつれ、セキュリティ強化やAI自体の構築支援など、予想外の能力を見せる一方で新たなリスクも生んでいる。GLM-5.3-Flashの導入では、Infra Agentと密なフィードバックループを通じて、エンドツーエンドの指標だけでは捉えきれない細粒な原因追跡が可能となる“密度の高いフィードバック”の重要性を実証し、性能向上と安定運用を両立する手法を確立した。]]></content:encoded>
-    </item>
-    <item>
-      <title>GLMが独自の推論インフラを構築した方法 How GLM built its own inference infrast…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqtisstbr2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqtisstbr2g</guid>
-      <pubDate>Thu, 17 Sep 2026 23:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[GLMが独自の推論インフラを構築した方法<br>How GLM built its own inference infrastructure<br><br>🔺 357<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[GLMが独自の推論インフラを構築した方法<br>How GLM built its own inference infrastructure<br><br>🔺 357<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>“He told me AI has yet to prove its worth and it&apos;s all just …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqupci3bg2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqupci3bg2z</guid>
-      <pubDate>Thu, 17 Sep 2026 23:41:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[“He told me AI has yet to prove its worth and it's all just hype.”<br><br>Unemployment sucks, but at some point you have to realize it’s your own fault
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigxfacdp4l5yjmc2ssptbu3li2cduhd3p3vob4artegt7lha4kcba" alt="Quote Tweet: https://twitter.com/i/status/2100262471160270955" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[“He told me AI has yet to prove its worth and it's all just hype.”<br><br>Unemployment sucks, but at some point you have to realize it’s your own fault
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigxfacdp4l5yjmc2ssptbu3li2cduhd3p3vob4artegt7lha4kcba" alt="Quote Tweet: https://twitter.com/i/status/2100262471160270955" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigxfacdp4l5yjmc2ssptbu3li2cduhd3p3vob4artegt7lha4kcba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失  🔖 160 ブックマー…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqpaehrbh2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvqpaehrbh2n</guid>
-      <pubDate>Thu, 17 Sep 2026 22:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>🚨 BREAKING 🚨  Leaked security camera footage of the crimin…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn5rt7gc2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn5rt7gc2t</guid>
-      <pubDate>Thu, 17 Sep 2026 21:45:16 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[🚨 BREAKING 🚨<br><br>Leaked security camera footage of the criminal who stole Mistral's source code]]></description>
-      <content:encoded><![CDATA[🚨 BREAKING 🚨<br><br>Leaked security camera footage of the criminal who stole Mistral's source code]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqmscarzj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqmscarzj2t</guid>
-      <pubDate>Thu, 17 Sep 2026 21:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウザや端末から検索できるプライバシー重視の個人用検索エンジンです。サーバはローカルで動作させ、クラウド依存やテレメトリは基本的に無し、複数ユーザー対応やセマンティック検索のオプションも提供します。導入はバイナリやHomebrew/Docker/Nixなどで行え、拡張機能を使って新規ページを自動インデックス化します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Hister は、閲覧したページや保存したファイルの全文を自分専用にインデックス化し、ブラウザや端末から検索できるプライバシー重視の個人用検索エンジンです。サーバはローカルで動作させ、クラウド依存やテレメトリは基本的に無し、複数ユーザー対応やセマンティック検索のオプションも提供します。導入はバイナリやHomebrew/Docker/Nixなどで行え、拡張機能を使って新規ページを自動インデックス化します。]]></content:encoded>
-    </item>
-    <item>
-      <title>Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン Hister: A…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqms2tslw2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvqms2tslw2a</guid>
-      <pubDate>Thu, 17 Sep 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン<br>Hister: A private search engine for the pages you visit and the files you keep<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Hister: あなたが閲覧するページと、あなたが保有するファイルのためのプライベートな検索エンジン<br>Hister: A private search engine for the pages you visit and the files you keep<br><br>🔺 349<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn54ubk32p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvqn54ubk32p</guid>
-      <pubDate>Thu, 17 Sep 2026 21:21:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,290.<br><br>The RTX 4090 alone is worth over $3,000 now.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" alt="Quote Tweet: https://twitter.com/i/status/1779825755402445208" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[2.5 years ago, I got a Dell desktop with an RTX 4090 for $2,290.<br><br>The RTX 4090 alone is worth over $3,000 now.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" alt="Quote Tweet: https://twitter.com/i/status/1779825755402445208" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihsaq6rigqenjejga6eaenoewtod5qkkcp5nsak5u3znjpzdmdmum" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
