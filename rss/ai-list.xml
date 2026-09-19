@@ -5,8 +5,56 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:39:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   CloudflareのPingora Backend Router（PBR）で、膨大なメモリ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvufilxcuc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvufilxcuc2k</guid>
+      <pubDate>Sat, 19 Sep 2026 09:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>CloudflareのPingora Backend Router（PBR）で、膨大なメモリを消費していたpingora-ketamaの不適切な使用を見直し、データ结构の最適化とハッシュリングの削減により globallyで約100TBのRAMを解放した。具体的には、ハッシュ点の格納方式を圧縮し、ハッシュ数を大幅に削減する数学的検証と段階的移行（ロールアウト）を組み合わせ、旧リングの完全撤去まで実施して安定的に移行した。結果、メモリ使用量を大幅に削減しつつ、キャッシュの一貫性と移行の安全性を維持する方法を示している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>CloudflareのPingora Backend Router（PBR）で、膨大なメモリを消費していたpingora-ketamaの不適切な使用を見直し、データ结构の最適化とハッシュリングの削減により globallyで約100TBのRAMを解放した。具体的には、ハッシュ点の格納方式を圧縮し、ハッシュ数を大幅に削減する数学的検証と段階的移行（ロールアウト）を組み合わせ、旧リングの完全撤去まで実施して安定的に移行した。結果、メモリ使用量を大幅に削減しつつ、キャッシュの一貫性と移行の安全性を維持する方法を示している。]]></content:encoded>
+    </item>
+    <item>
+      <title>さらに100TBのRAMを節約する。 Saving another 100TB of RAM  🔺 358 💬 23…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvufifbg642n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvufifbg642n</guid>
+      <pubDate>Sat, 19 Sep 2026 09:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[さらに100TBのRAMを節約する。<br>Saving another 100TB of RAM<br><br>🔺 358<br>💬 23<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[さらに100TBのRAMを節約する。<br>Saving another 100TB of RAM<br><br>🔺 358<br>💬 23<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   AI業界の過熱と倫理無視、資源の集中、そして基本的なセキュリティ対策の遅さを批判しつつ、AI…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvu6ryf3on2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvu6ryf3on2y</guid>
+      <pubDate>Sat, 19 Sep 2026 07:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>AI業界の過熱と倫理無視、資源の集中、そして基本的なセキュリティ対策の遅さを批判しつつ、AIは人間の理解を低下させ依存を深めると言及。著者は「パッチ適用など基礎を固める方が有益」と主張し、乱立するプロジェクトや豪華な投資が実際の安全性を高めていないと嘆く。最後に、AIを前提とした超知能化の道は技術的な課題と人間の介在低下を招くと警鐘を鳴らす。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>AI業界の過熱と倫理無視、資源の集中、そして基本的なセキュリティ対策の遅さを批判しつつ、AIは人間の理解を低下させ依存を深めると言及。著者は「パッチ適用など基礎を固める方が有益」と主張し、乱立するプロジェクトや豪華な投資が実際の安全性を高めていないと嘆く。最後に、AIを前提とした超知能化の道は技術的な課題と人間の介在低下を招くと警鐘を鳴らす。]]></content:encoded>
+    </item>
+    <item>
+      <title>みんな頭がおかしくなってしまった。 Everybody&apos;s Lost Their Minds  🔺 357 💬 47…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvu6rtcp4n2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvu6rtcp4n2d</guid>
+      <pubDate>Sat, 19 Sep 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[みんな頭がおかしくなってしまった。<br>Everybody's Lost Their Minds<br><br>🔺 357<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[みんな頭がおかしくなってしまった。<br>Everybody's Lost Their Minds<br><br>🔺 357<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I give it like 3 days before someone says “Theo seriously th…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvu3sdjl3c2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvu3sdjl3c2q</guid>
+      <pubDate>Sat, 19 Sep 2026 05:45:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I give it like 3 days before someone says “Theo seriously thought you could code with Jev” to try and dunk on me
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiguwxi2vbeuh3r622k7stioxvcejixgem5zr4ivnutsp5udoy3fjq" alt="Quote Tweet: https://twitter.com/i/status/2101123531232661677" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I give it like 3 days before someone says “Theo seriously thought you could code with Jev” to try and dunk on me
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiguwxi2vbeuh3r622k7stioxvcejixgem5zr4ivnutsp5udoy3fjq" alt="Quote Tweet: https://twitter.com/i/status/2101123531232661677" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiguwxi2vbeuh3r622k7stioxvcejixgem5zr4ivnutsp5udoy3fjq" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   AIを使った情報作成で、米軍が中東の中国船に核兵器プログラムの部品が載っていると誤情報を拡散…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvty3nh5ur2o</link>
@@ -464,51 +512,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[📝 Summary: <br><br>RustFS is a high-performance, Apache-2.0 licensed, Rust-based, distributed S3-compatible object storage system designed for data lakes, AI, and big data workloads, featuring a rich set of integrations (Swift, KMS, OIDC, multi-tenancy) and deployment options (Docker, Helm, Nix, (1/2)]]></description>
       <content:encoded><![CDATA[📝 Summary: <br><br>RustFS is a high-performance, Apache-2.0 licensed, Rust-based, distributed S3-compatible object storage system designed for data lakes, AI, and big data workloads, featuring a rich set of integrations (Swift, KMS, OIDC, multi-tenancy) and deployment options (Docker, Helm, Nix, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 rustfs / rustfs ⭐ 32…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky2s6gp2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvsky2s6gp2h</guid>
-      <pubDate>Fri, 18 Sep 2026 16:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rustfs / rustfs<br>⭐ 32,937 (+559)<br>🗒 Rust<br><br>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 rustfs / rustfs<br>⭐ 32,937 (+559)<br>🗒 Rust<br><br>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj5j22v62i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj5j22v62i</guid>
-      <pubDate>Fri, 18 Sep 2026 15:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い、まだ成熟していない。ハードウェアキーや同期機能、第三者同期の課題が多く、現状は企業向けには有望でも個人には十分ではない。従来のパスワード＋TOTPの組み合わせが、現時点ではバランスが良いと結論づけている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>パスキーはフィッシング対策として有効だが、個人利用にはアクセス喪失リスクや運用の煩雑さが伴い、まだ成熟していない。ハードウェアキーや同期機能、第三者同期の課題が多く、現状は企業向けには有望でも個人には十分ではない。従来のパスワード＋TOTPの組み合わせが、現時点ではバランスが良いと結論づけている。]]></content:encoded>
-    </item>
-    <item>
-      <title>パスキーは好きじゃない。 I don&apos;t like passkeys  🔺 388 💬 99 🔗 HN Post …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj56j5xm2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvsj56j5xm2y</guid>
-      <pubDate>Fri, 18 Sep 2026 15:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[パスキーは好きじゃない。<br>I don't like passkeys<br><br>🔺 388<br>💬 99<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[パスキーは好きじゃない。<br>I don't like passkeys<br><br>🔺 388<br>💬 99<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Visualize Data Structures in VS Code 🤯  If you work with da…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvsicxe66k22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mvsicxe66k22</guid>
-      <pubDate>Fri, 18 Sep 2026 15:29:43 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[Visualize Data Structures in VS Code 🤯<br><br>If you work with data structures, check out the Debug Visualizer extension for VS Code.<br><br>#VSCode #Programming #Coding #DataStructures]]></description>
-      <content:encoded><![CDATA[Visualize Data Structures in VS Code 🤯<br><br>If you work with data structures, check out the Debug Visualizer extension for VS Code.<br><br>#VSCode #Programming #Coding #DataStructures]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会  🔖 159 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsiabsp5x2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvsiabsp5x2c</guid>
-      <pubDate>Fri, 18 Sep 2026 15:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
