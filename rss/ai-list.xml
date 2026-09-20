@@ -5,8 +5,71 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 19:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:57:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   OpenAIの広告ピクセル(__obi)は、ユーザーがChatGPTにログインしているときの…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvy66vktqm2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvy66vktqm2k</guid>
+      <pubDate>Sun, 20 Sep 2026 21:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>OpenAIの広告ピクセル(__obi)は、ユーザーがChatGPTにログインしているときの識別子をクロスサイトで共有し、広告主のサイト経由で閲覧履歴や個人情報をOpenAIのアカウントに紐付ける仕組みである。具体的には、広告主のページからOpenAIへ__obiを送信し、サイト閲覧データと結びつけてChatGPTアカウントと紐づけるため、アナリティクス以上の個人データが収集・共有され得る点が指摘されている。OpenAIはこの仕組みを認めつつも説明が不足しているとされ、ブラウザ設定やプラットフォーム依存で動作に制約があることも併せて報告されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>OpenAIの広告ピクセル(__obi)は、ユーザーがChatGPTにログインしているときの識別子をクロスサイトで共有し、広告主のサイト経由で閲覧履歴や個人情報をOpenAIのアカウントに紐付ける仕組みである。具体的には、広告主のページからOpenAIへ__obiを送信し、サイト閲覧データと結びつけてChatGPTアカウントと紐づけるため、アナリティクス以上の個人データが収集・共有され得る点が指摘されている。OpenAIはこの仕組みを認めつつも説明が不足しているとされ、ブラウザ設定やプラットフォーム依存で動作に制約があることも併せて報告されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPTは広告トラッカーを介して、他のウェブサイトであなたが何をしているかを知っています。 ChatGPT now…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvy66qa4632k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvy66qa4632k</guid>
+      <pubDate>Sun, 20 Sep 2026 21:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ChatGPTは広告トラッカーを介して、他のウェブサイトであなたが何をしているかを知っています。<br>ChatGPT now knows what you do on other websites via ad collector<br><br>🔺 440<br>💬 51<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ChatGPTは広告トラッカーを介して、他のウェブサイトであなたが何をしているかを知っています。<br>ChatGPT now knows what you do on other websites via ad collector<br><br>🔺 440<br>💬 51<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Qwen-Image-2.1は7Bパラメータの軽量な画像生成・編集モデルで、透明画像の生成・…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxxifdhbt2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxxifdhbt2i</guid>
+      <pubDate>Sun, 20 Sep 2026 19:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Qwen-Image-2.1は7Bパラメータの軽量な画像生成・編集モデルで、透明画像の生成・編集機能を統合し、最大10点の参照画像、局所編集、人物・製品の忠実性向上など多機能を実現。混合粒度の注意機構とKVキャッシュで推論効率を高め、ポートレートのライティングやタイポグラフィの表現を強化して、 design・EC・ストーリーテリングなど幅広い用途に適する。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Qwen-Image-2.1は7Bパラメータの軽量な画像生成・編集モデルで、透明画像の生成・編集機能を統合し、最大10点の参照画像、局所編集、人物・製品の忠実性向上など多機能を実現。混合粒度の注意機構とKVキャッシュで推論効率を高め、ポートレートのライティングやタイポグラフィの表現を強化して、 design・EC・ストーリーテリングなど幅広い用途に適する。]]></content:encoded>
+    </item>
+    <item>
+      <title>Qwen 画像 2.1 Qwen Image 2.1  🔺 346 💬 33 🔗 HN Post | Articl…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxxi6whw32t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxxi6whw32t</guid>
+      <pubDate>Sun, 20 Sep 2026 19:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Qwen 画像 2.1<br>Qwen Image 2.1<br><br>🔺 346<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Qwen 画像 2.1<br>Qwen Image 2.1<br><br>🔺 346<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Kimi, etc.). It offers guided installation, extensive platfo…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxpsaxa2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxpsaxa2h</guid>
+      <pubDate>Sun, 20 Sep 2026 19:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[Kimi, etc.). It offers guided installation, extensive platform support, and a suite of adapters, memory vaults, and security tools to streamline autonomous engineering workflows. (2/2)]]></description>
+      <content:encoded><![CDATA[Kimi, etc.). It offers guided installation, extensive platform support, and a suite of adapters, memory vaults, and security tools to streamline autonomous engineering workflows. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   ECC is an MIT-licensed agent harness operating…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxpqxtm2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxpqxtm2a</guid>
+      <pubDate>Sun, 20 Sep 2026 19:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>ECC is an MIT-licensed agent harness operating system that provides 68 specialized subagents, 292 skills, 94 commands, and a memory-enabled, rules-driven workflow to plan, test, implement, review, verify, remember, and improve code across multiple harnesses (Claude Code, Codex, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>ECC is an MIT-licensed agent harness operating system that provides 68 specialized subagents, 292 skills, 94 commands, and a memory-enabled, rules-driven workflow to plan, test, implement, review, verify, remember, and improve code across multiple harnesses (Claude Code, Codex, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 affaan-m / ECC ⭐ 263…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxm2y6k2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxvxm2y6k2b</guid>
+      <pubDate>Sun, 20 Sep 2026 19:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 263,358 (+1,012)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 affaan-m / ECC<br>⭐ 263,358 (+1,012)<br>🗒 JavaScript<br><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.]]></content:encoded>
+    </item>
     <item>
       <title>uses six phases (reconnaissance, hunting, candidate validati…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxsmg3vja2k</link>
@@ -393,72 +456,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[もし数学が証明以上のものだとすれば、証明以外の部分をもっと大切に評価すべきだ。<br>If math is more than proof, we need to better celebrate the rest of it<br><br>🔺 335<br>💬 48<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[もし数学が証明以上のものだとすれば、証明以外の部分をもっと大切に評価すべきだ。<br>If math is more than proof, we need to better celebrate the rest of it<br><br>🔺 335<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナン…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvwhna7ttu27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvwhna7ttu27</guid>
-      <pubDate>Sun, 20 Sep 2026 05:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス<br><br>🔖 160 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>解決策としてファイルシステムレベルで該当ディレクトリをimmutabilityに設定してアップロードを完全に防ぐ方法が提…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtlkny62c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtlkny62c</guid>
-      <pubDate>Sun, 20 Sep 2026 03:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[解決策としてファイルシステムレベルで該当ディレクトリをimmutabilityに設定してアップロードを完全に防ぐ方法が提案されている。 (2/2)]]></description>
-      <content:encoded><![CDATA[解決策としてファイルシステムレベルで該当ディレクトリをimmutabilityに設定してアップロードを完全に防ぐ方法が提案されている。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ZCode（ZhipuのAIコーダー桌面アプリ）は、ログイン中に作業ディレクトリ全体を暗号化…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtlgta42z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtlgta42z</guid>
-      <pubDate>Sun, 20 Sep 2026 03:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ZCode（ZhipuのAIコーダー桌面アプリ）は、ログイン中に作業ディレクトリ全体を暗号化してAliyun OSSにアップロードする仕組みを実装しており、公開鍵はサーバーから配布されるため復号はサーバー側にしかできない、という検証が行われた。UIの設定でオフにしても実際の取り込み・アップロードは止まらず、約90%が.git関連データで構成されるスナップショットがローカルに保存される点や、プライバシーポリシーに正式な説明が欠けている点が指摘された。 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ZCode（ZhipuのAIコーダー桌面アプリ）は、ログイン中に作業ディレクトリ全体を暗号化してAliyun OSSにアップロードする仕組みを実装しており、公開鍵はサーバーから配布されるため復号はサーバー側にしかできない、という検証が行われた。UIの設定でオフにしても実際の取り込み・アップロードは止まらず、約90%が.git関連データで構成されるスナップショットがローカルに保存される点や、プライバシーポリシーに正式な説明が欠けている点が指摘された。 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>ZCodeの内部: Git履歴をクラウドへ静かにアップロードする Inside ZCode: Silently uplo…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtfr6ki2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvwbtfr6ki2g</guid>
-      <pubDate>Sun, 20 Sep 2026 03:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ZCodeの内部: Git履歴をクラウドへ静かにアップロードする<br>Inside ZCode: Silently uploading your Git history to the cloud<br><br>🔺 328<br>💬 48<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ZCodeの内部: Git履歴をクラウドへ静かにアップロードする<br>Inside ZCode: Silently uploading your Git history to the cloud<br><br>🔺 328<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Not to flex but this is way cooler than my GPUs @SnazzyLabs</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvw7oor6ma2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvw7oor6ma2p</guid>
-      <pubDate>Sun, 20 Sep 2026 02:52:33 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Not to flex but this is way cooler than my GPUs @SnazzyLabs
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigk5bni5u5s2vrk4pwj77ge5orvt54sdz4exfbqvaxzrtorjuulgu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Not to flex but this is way cooler than my GPUs @SnazzyLabs
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigk5bni5u5s2vrk4pwj77ge5orvt54sdz4exfbqvaxzrtorjuulgu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigk5bni5u5s2vrk4pwj77ge5orvt54sdz4exfbqvaxzrtorjuulgu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 Jev 図解ガイド  🔖 151 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvw5llmcvw2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvw5llmcvw2v</guid>
-      <pubDate>Sun, 20 Sep 2026 02:28:21 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Jev 図解ガイド<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Jev 図解ガイド<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   このリリースは、技術的負債の清算を中心に160件超のコミットを含み、リファクタリング・バグ修…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvw35b46us2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvw35b46us2e</guid>
-      <pubDate>Sun, 20 Sep 2026 01:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>このリリースは、技術的負債の清算を中心に160件超のコミットを含み、リファクタリング・バグ修正・テストカバレッジ向上・オプション整理といった作業を実施しています。新機能として、ピン留め可能なメモリ管理フックの追加や、per-CPUアリーナ選択の再開、ヒューマン／JSON統計の整合性改善などが含まれ、いくつかの互換性を壊す変更も実施されています。バグ修正・最適化・ポータビリティ向上の各分野で多数の修正とリファクタリングが行われています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>このリリースは、技術的負債の清算を中心に160件超のコミットを含み、リファクタリング・バグ修正・テストカバレッジ向上・オプション整理といった作業を実施しています。新機能として、ピン留め可能なメモリ管理フックの追加や、per-CPUアリーナ選択の再開、ヒューマン／JSON統計の整合性改善などが含まれ、いくつかの互換性を壊す変更も実施されています。バグ修正・最適化・ポータビリティ向上の各分野で多数の修正とリファクタリングが行われています。]]></content:encoded>
     </item>
   </channel>
 </rss>
