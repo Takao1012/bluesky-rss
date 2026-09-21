@@ -5,8 +5,161 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:35:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 mvt-project / mvt ⭐ 13,…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzvo76vqr2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzvo76vqr2a</guid>
+      <pubDate>Mon, 21 Sep 2026 14:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mvt-project / mvt<br>⭐ 13,363 (+177)<br>🗒 Python<br><br>MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mvt-project / mvt<br>⭐ 13,363 (+177)<br>🗒 Python<br><br>MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   ZuckOffは周囲のカメラ眼鏡（Ray-Ban Meta、Oakley Meta、Snap…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzttp6byt2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzttp6byt2n</guid>
+      <pubDate>Mon, 21 Sep 2026 13:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ZuckOffは周囲のカメラ眼鏡（Ray-Ban Meta、Oakley Meta、Snap Spectaclesなど）のBluetooth信号を検知し、検出結果を通知する独立アプリ。検出根拠の表示・履歴ログ・背景通知・ショートカット連携・CSVエクスポートなどの機能があり、機器の所有者が一度認識設定をすれば通知を停止できる。実装上の制約として、検出は信号強度とメーカー署名に基づき、すべてを保証するわけではない点が説明されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ZuckOffは周囲のカメラ眼鏡（Ray-Ban Meta、Oakley Meta、Snap Spectaclesなど）のBluetooth信号を検知し、検出結果を通知する独立アプリ。検出根拠の表示・履歴ログ・背景通知・ショートカット連携・CSVエクスポートなどの機能があり、機器の所有者が一度認識設定をすれば通知を停止できる。実装上の制約として、検出は信号強度とメーカー署名に基づき、すべてを保証するわけではない点が説明されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>ZuckOff: 部屋にカメラがあるときに気づく ZuckOff Know when a camera is in th…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzttjwmzr26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzttjwmzr26</guid>
+      <pubDate>Mon, 21 Sep 2026 13:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ZuckOff: 部屋にカメラがあるときに気づく<br>ZuckOff Know when a camera is in the room<br><br>🔺 452<br>💬 38<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ZuckOff: 部屋にカメラがあるときに気づく<br>ZuckOff Know when a camera is in the room<br><br>🔺 452<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>targets Debian-based systems, emphasizes offline usage with …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsd3su4i2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsd3su4i2h</guid>
+      <pubDate>Mon, 21 Sep 2026 13:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[targets Debian-based systems, emphasizes offline usage with minimal internet needs, and includes a web UI for configuration and access. (2/2)]]></description>
+      <content:encoded><![CDATA[targets Debian-based systems, emphasizes offline usage with minimal internet needs, and includes a web UI for configuration and access. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Project NOMAD is an offline-first, self-contai…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsd3rfz32a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsd3rfz32a</guid>
+      <pubDate>Mon, 21 Sep 2026 13:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Project NOMAD is an offline-first, self-contained knowledge and education server that centrally manages AI tools, offline libraries, education content, maps, data tools, notes, and more via a Docker-based Command Center, with optional digital assistants and automatic updates. It (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Project NOMAD is an offline-first, self-contained knowledge and education server that centrally manages AI tools, offline libraries, education content, maps, data tools, notes, and more via a Docker-based Command Center, with optional digital assistants and automatic updates. It (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 Crosstalk-Solutions…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsczjnuj26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzsczjnuj26</guid>
+      <pubDate>Mon, 21 Sep 2026 13:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Crosstalk-Solutions / project-nomad<br>⭐ 37,580 (+360)<br>🗒 TypeScript<br><br>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no interne...]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 Crosstalk-Solutions / project-nomad<br>⭐ 37,580 (+360)<br>🗒 TypeScript<br><br>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no interne...]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   AutoClip 是一个基于 AI 的多平台视频切片与合集生成系统，支持从 YouTube/…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzoxnoqdh2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzoxnoqdh2g</guid>
+      <pubDate>Mon, 21 Sep 2026 12:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>AutoClip 是一个基于 AI 的多平台视频切片与合集生成系统，支持从 YouTube/Bilibili 下载、自动切片、智能分析与合集推荐，并提供前后端分离的 Web 界面、任务队列与实时进度更新。系统采用 FastAPI/Celery/Redis 框架，配合 React/TypeScript 前端，支持 Docker 部署与完整的 API 文档。]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>AutoClip 是一个基于 AI 的多平台视频切片与合集生成系统，支持从 YouTube/Bilibili 下载、自动切片、智能分析与合集推荐，并提供前后端分离的 Web 界面、任务队列与实时进度更新。系统采用 FastAPI/Celery/Redis 框架，配合 React/TypeScript 前端，支持 Docker 部署与完整的 API 文档。]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 zhouxiaoka / autocl…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzoxjwtvb2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvzoxjwtvb2j</guid>
+      <pubDate>Mon, 21 Sep 2026 12:17:14 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 zhouxiaoka / autoclip<br>⭐ 7,996 (+395)<br>🗒 Python<br><br>AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 zhouxiaoka / autoclip<br>⭐ 7,996 (+395)<br>🗒 Python<br><br>AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Rust 開発者が Zig で JSONPath の実装を試みた感想を簡潔にまとめると、 z…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzn4yjlc42t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzn4yjlc42t</guid>
+      <pubDate>Mon, 21 Sep 2026 11:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Rust 開発者が Zig で JSONPath の実装を試みた感想を簡潔にまとめると、 zig の IDE サポートが乏しく CLI ベースの開発に慣れる価値を再発見し、Flat なファイル構成が習慣と異なる点、手動メモリ管理とアロケータの扱いが大きな違いとして顕著だった、という内容です。Rust に比べて Zig は読みやすさや安全性の面で課題がありつつも、低レベル寄りの設計と高速性には魅力があると評価しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Rust 開発者が Zig で JSONPath の実装を試みた感想を簡潔にまとめると、 zig の IDE サポートが乏しく CLI ベースの開発に慣れる価値を再発見し、Flat なファイル構成が習慣と異なる点、手動メモリ管理とアロケータの扱いが大きな違いとして顕著だった、という内容です。Rust に比べて Zig は読みやすさや安全性の面で課題がありつつも、低レベル寄りの設計と高速性には魅力があると評価しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Rustから来たときのZigの印象はどうだったか What Zig felt like, coming from Rus…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzn4sruzg2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzn4sruzg2k</guid>
+      <pubDate>Mon, 21 Sep 2026 11:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Rustから来たときのZigの印象はどうだったか<br>What Zig felt like, coming from Rust<br><br>🔺 268<br>💬 29<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Rustから来たときのZigの印象はどうだったか<br>What Zig felt like, coming from Rust<br><br>🔺 268<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 なぜSMS認証は弱いと言われるのか - Qiita  🔖 152 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvzm7wcpsu2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvzm7wcpsu2f</guid>
+      <pubDate>Mon, 21 Sep 2026 11:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 なぜSMS認証は弱いと言われるのか - Qiita<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 なぜSMS認証は弱いと言われるのか - Qiita<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   スペインの知財委員会の第二部門が、Archive.todayのいくつかのドメインを遮断する決…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzggih7g72y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzggih7g72y</guid>
+      <pubDate>Mon, 21 Sep 2026 09:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>スペインの知財委員会の第二部門が、Archive.todayのいくつかのドメインを遮断する決定を下し、国内の多くの利用者が違法サイトへのアクセスを警告する政府ページへリダイレクトされるようになった。表示されるページは「YOU ARE TRYING TO ACCESS AN ILLEGAL WEBSITE」と題し、サイト訪問が知的財産権を侵害するコンテンツへ違法にアクセスを促しているとユーザーを非難する内容である。さらに、違法かつ犯罪的な活動に加担し、データとデバイスの安全を脅かすと警告している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>スペインの知財委員会の第二部門が、Archive.todayのいくつかのドメインを遮断する決定を下し、国内の多くの利用者が違法サイトへのアクセスを警告する政府ページへリダイレクトされるようになった。表示されるページは「YOU ARE TRYING TO ACCESS AN ILLEGAL WEBSITE」と題し、サイト訪問が知的財産権を侵害するコンテンツへ違法にアクセスを促しているとユーザーを非難する内容である。さらに、違法かつ犯罪的な活動に加担し、データとデバイスの安全を脅かすと警告している。]]></content:encoded>
+    </item>
+    <item>
+      <title>スペイン、Archive.todayとそのミラーサイトをブロックするよう命じる。 Spain orders blocks…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzggcmoba2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvzggcmoba2c</guid>
+      <pubDate>Mon, 21 Sep 2026 09:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スペイン、Archive.todayとそのミラーサイトをブロックするよう命じる。<br>Spain orders blocks on Archive.today and its mirrors<br><br>🔺 423<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スペイン、Archive.todayとそのミラーサイトをブロックするよう命じる。<br>Spain orders blocks on Archive.today and its mirrors<br><br>🔺 423<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:    Snowden archive の最終文書は2019年5月29日に公開され、その後どの主要…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvz7pybo7z2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvz7pybo7z2n</guid>
+      <pubDate>Mon, 21 Sep 2026 07:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br> Snowden archive の最終文書は2019年5月29日に公開され、その後どの主要メディアも新たな公開は行われていない。ガーディアン、 Der Spiegel、ニューヨーク・タイムズ/ProPublica、インターセプト、ワシントン・ポストなどがそれぞれ資料を保有・公開停止の経緯を辿り、公開停止の理由は「関心の低下」だけでなく編集方針や協力関係の影響が絡んでいる。ガーディアンは内部の方針と国家機関との関係から公開を停止、インターセプトは2019年にアーカイブを閉鎖、ワシントン・ポストはGellmanの保有する資料を厳重管理のもと保管している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br> Snowden archive の最終文書は2019年5月29日に公開され、その後どの主要メディアも新たな公開は行われていない。ガーディアン、 Der Spiegel、ニューヨーク・タイムズ/ProPublica、インターセプト、ワシントン・ポストなどがそれぞれ資料を保有・公開停止の経緯を辿り、公開停止の理由は「関心の低下」だけでなく編集方針や協力関係の影響が絡んでいる。ガーディアンは内部の方針と国家機関との関係から公開を停止、インターセプトは2019年にアーカイブを閉鎖、ワシントン・ポストはGellmanの保有する資料を厳重管理のもと保管している。]]></content:encoded>
+    </item>
+    <item>
+      <title>スノーデンのアーカイブはどうなったのですか？ What happened to the Snowden archive …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvz7pqv7ol2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvz7pqv7ol2k</guid>
+      <pubDate>Mon, 21 Sep 2026 07:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スノーデンのアーカイブはどうなったのですか？<br>What happened to the Snowden archive<br><br>🔺 370<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スノーデンのアーカイブはどうなったのですか？<br>What happened to the Snowden archive<br><br>🔺 370<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Thank you @fagnersales25 for the clip and the callout</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvz7akg4ly24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvz7akg4ly24</guid>
+      <pubDate>Mon, 21 Sep 2026 07:18:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Thank you @fagnersales25 for the clip and the callout]]></description>
+      <content:encoded><![CDATA[Thank you @fagnersales25 for the clip and the callout]]></content:encoded>
+    </item>
+    <item>
+      <title>Just realized I have a callout for this exact type of attent…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvz7aftb4b2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mvz7aftb4b2g</guid>
+      <pubDate>Mon, 21 Sep 2026 07:18:21 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Just realized I have a callout for this exact type of attention span issue in the video itself 🙃<br><br>QT: https://twitter.com/i/status/2101867848956350582]]></description>
+      <content:encoded><![CDATA[Just realized I have a callout for this exact type of attention span issue in the video itself 🙃<br><br>QT: https://twitter.com/i/status/2101867848956350582]]></content:encoded>
+    </item>
     <item>
       <title>開発者・研究者がエージェントをスケールさせるための使いやすさと生産性を重視しています。 (2/2)</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyze4las2d</link>
@@ -311,159 +464,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / claude-code<br>⭐ 146,940 (+415)<br>🗒 TypeScript<br><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git wo...]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anthropics / claude-code<br>⭐ 146,940 (+415)<br>🗒 TypeScript<br><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git wo...]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 mihail911 / modern-soft…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxlvqnxq726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxlvqnxq726</guid>
-      <pubDate>Sun, 20 Sep 2026 16:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mihail911 / modern-software-dev-assignments<br>⭐ 4,418 (+174)<br>🗒 Python<br><br>Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 mihail911 / modern-software-dev-assignments<br>⭐ 4,418 (+174)<br>🗒 Python<br><br>Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   英語の不定冠詞a/anは、綴字の母音かどうかではなく発音上の母音音で決まる。例外は少なく、3…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxk3accyk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxk3accyk2g</guid>
-      <pubDate>Sun, 20 Sep 2026 15:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>英語の不定冠詞a/anは、綴字の母音かどうかではなく発音上の母音音で決まる。例外は少なく、32,455語中129語のみが例外となることをデータ分析と可視化で検証した。著者はコード作成過程を振り返りつつ、LLMを使えば解析をもっと効率化できた可能性を述べている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>英語の不定冠詞a/anは、綴字の母音かどうかではなく発音上の母音音で決まる。例外は少なく、32,455語中129語のみが例外となることをデータ分析と可視化で検証した。著者はコード作成過程を振り返りつつ、LLMを使えば解析をもっと効率化できた可能性を述べている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AとAnの使い分け English: A vs. An  🔺 312 💬 53 🔗 HN Post | Artic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxk33jgxm2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvxk33jgxm2e</guid>
-      <pubDate>Sun, 20 Sep 2026 15:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AとAnの使い分け<br>English: A vs. An<br><br>🔺 312<br>💬 53<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AとAnの使い分け<br>English: A vs. An<br><br>🔺 312<br>💬 53<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 5分でJev入門（すぐ使う） - Qiita  🔖 175 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvxj6aepgt2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvxj6aepgt2s</guid>
-      <pubDate>Sun, 20 Sep 2026 15:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 5分でJev入門（すぐ使う） - Qiita<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 5分でJev入門（すぐ使う） - Qiita<br><br>🔖 175 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 BuilderIO / agent-native ⭐ 4,978 (+89) 🗒 TypeScript  A f…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxikpooh62f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxikpooh62f</guid>
-      <pubDate>Sun, 20 Sep 2026 15:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 BuilderIO / agent-native<br>⭐ 4,978 (+89)<br>🗒 TypeScript<br><br>A framework for building agentic apps]]></description>
-      <content:encoded><![CDATA[📦 BuilderIO / agent-native<br>⭐ 4,978 (+89)<br>🗒 TypeScript<br><br>A framework for building agentic apps]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  paperless-ngx/paperless-ngx Paperless-ngxは、物理…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxggybo5j2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxggybo5j2m</guid>
-      <pubDate>Sun, 20 Sep 2026 14:39:30 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>paperless-ngx/paperless-ngx<br>Paperless-ngxは、物理的な書類を検索可能なオンラインアーカイブに変換し、ペーパーレス化を実現するためのドキュメント管理システムです。<br>PaperlessおよびPaperless-ngの後継として開発されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>paperless-ngx/paperless-ngx<br>Paperless-ngxは、物理的な書類を検索可能なオンラインアーカイブに変換し、ペーパーレス化を実現するためのドキュメント管理システムです。<br>PaperlessおよびPaperless-ngの後継として開発されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/financial-services 投資銀行や株式リサーチなどの金…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxgg3aurl2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxgg3aurl2c</guid>
-      <pubDate>Sun, 20 Sep 2026 14:38:59 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/financial-services<br>投資銀行や株式リサーチなどの金融サービス向けに、Claudeのエージェントやスキル、データコネクタを提供することを目的としています。<br>分析業務のドラフト作成を支援し、プラグインまたはAPIを通じて展開可能です。<br>出力結果は専門家による確認を前提としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/financial-services<br>投資銀行や株式リサーチなどの金融サービス向けに、Claudeのエージェントやスキル、データコネクタを提供することを目的としています。<br>分析業務のドラフト作成を支援し、プラグインまたはAPIを通じて展開可能です。<br>出力結果は専門家による確認を前提としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cloudflare/security-audit-skill コーディングエージェントを…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxg6nqubj2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxg6nqubj2m</guid>
-      <pubDate>Sun, 20 Sep 2026 14:34:50 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員にするためのスキルを提供するリポジトリです。<br>偵察からレポート作成までの6段階の構造化されたプロセスを用いて、脆弱性の探索、検証、報告を自動的に行います。<br>Cloudflareの脆弱性発見ハーネスの基盤となった実装です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/security-audit-skill<br>コーディングエージェントをセキュリティ監査員にするためのスキルを提供するリポジトリです。<br>偵察からレポート作成までの6段階の構造化されたプロセスを用いて、脆弱性の探索、検証、報告を自動的に行います。<br>Cloudflareの脆弱性発見ハーネスの基盤となった実装です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  BuilderIO/agent-native Agent-Nativeは、自律的な動作を行…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxg5r26hc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxg5r26hc2c</guid>
-      <pubDate>Sun, 20 Sep 2026 14:34:20 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>BuilderIO/agent-native<br>Agent-Nativeは、自律的な動作を行うエージェントと専用UIを統合して構築するためのTypeScriptフレームワークです。<br>アクションを一度定義すれば、エージェントはそれをツールとして使い、UIはコードから呼び出すことができます。<br>これにより、エージェントの作業内容を可視化し、人間による確認や編集、承認を容易にします。<br>定義したアクションはHTTPやCLIなど複数のインターフェースで共有可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>BuilderIO/agent-native<br>Agent-Nativeは、自律的な動作を行うエージェントと専用UIを統合して構築するためのTypeScriptフレームワークです。<br>アクションを一度定義すれば、エージェントはそれをツールとして使い、UIはコードから呼び出すことができます。<br>これにより、エージェントの作業内容を可視化し、人間による確認や編集、承認を容易にします。<br>定義したアクションはHTTPやCLIなど複数のインターフェースで共有可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  affaan-m/ECC ECCは、AIエージェントに体系的なエンジニアリングシステムとツ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxfzi53bu2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mvxfzi53bu2v</guid>
-      <pubDate>Sun, 20 Sep 2026 14:31:56 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>ECCは、AIエージェントに体系的なエンジニアリングシステムとツールボックスを提供するリポジトリです。<br>計画、テスト、実装、レビュー、検証、記憶、改善という一連の開発フローを導入することで、単なるコード生成にとどまらず、品質の検証や成功事例のスキル化、ワークフローの最適化を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>affaan-m/ECC<br>ECCは、AIエージェントに体系的なエンジニアリングシステムとツールボックスを提供するリポジトリです。<br>計画、テスト、実装、レビュー、検証、記憶、改善という一連の開発フローを導入することで、単なるコード生成にとどまらず、品質の検証や成功事例のスキル化、ワークフローの最適化を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞  🔖 153 ブックマーク 💬 コ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvxfssqbg42z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mvxfssqbg42z</guid>
-      <pubDate>Sun, 20 Sep 2026 14:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 paperless-ngx / paperless-ngx ⭐ 45,354 (+32) 🗒 Python  A…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxf7goj6g2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mvxf7goj6g2r</guid>
-      <pubDate>Sun, 20 Sep 2026 14:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 paperless-ngx / paperless-ngx<br>⭐ 45,354 (+32)<br>🗒 Python<br><br>A community-supported supercharged document management system: scan, index and archive all your documents]]></description>
-      <content:encoded><![CDATA[📦 paperless-ngx / paperless-ngx<br>⭐ 45,354 (+32)<br>🗒 Python<br><br>A community-supported supercharged document management system: scan, index and archive all your documents]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ukisai/Swift-Qwen3.8-27b Qwen3.8-27Bをベース…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxejvbnpt2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxejvbnpt2j</guid>
-      <pubDate>Sun, 20 Sep 2026 14:05:20 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ukisai/Swift-Qwen3.8-27b<br>Qwen3.8-27Bをベースとした、推論効率を向上させた派生モデルSwift-Qwen3.8-27Bの開発。<br>思考トークンを約58%削減し、性能を維持したまま処理速度を約1.95倍に高めることを目的としています。<br>過剰な思考を誘発するトークンを抑制するファインチューニングにより、推論過程の短縮とエラーの減少を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ukisai/Swift-Qwen3.8-27b<br>Qwen3.8-27Bをベースとした、推論効率を向上させた派生モデルSwift-Qwen3.8-27Bの開発。<br>思考トークンを約58%削減し、性能を維持したまま処理速度を約1.95倍に高めることを目的としています。<br>過剰な思考を誘発するトークンを抑制するファインチューニングにより、推論過程の短縮とエラーの減少を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxeii3n5q2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxeii3n5q2l</guid>
-      <pubDate>Sun, 20 Sep 2026 14:04:32 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディング、専門業務、研究、および複雑なマルチステップタスクにおいて高い性能を発揮します。<br>Hugging Face TransformersやvLLMなどのフレームワークに対応し、効率的なデプロイが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>画像やビデオを理解できる視覚言語モデルであり、コーディング、専門業務、研究、および複雑なマルチステップタスクにおいて高い性能を発揮します。<br>Hugging Face TransformersやvLLMなどのフレームワークに対応し、効率的なデプロイが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  convaiinnovations/laya Layaは、多言語に対応した非自己…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxefl53ma2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxefl53ma2l</guid>
-      <pubDate>Sun, 20 Sep 2026 14:02:55 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは、多言語に対応した非自己回帰的な意思決定モデルです。<br>テキストやJSONなどの入力に対し、100以上の言語で校正済みの確率を伴う回答を高速に返します。<br>テキストを生成せず型付きの回答を返すため、ハルシネーションが発生せず、パースの手間もありません。<br>主にガードレールやメールの振り分けなどの分類やルーティングを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは、多言語に対応した非自己回帰的な意思決定モデルです。<br>テキストやJSONなどの入力に対し、100以上の言語で校正済みの確率を伴う回答を高速に返します。<br>テキストを生成せず型付きの回答を返すため、ハルシネーションが発生せず、パースの手間もありません。<br>主にガードレールやメールの振り分けなどの分類やルーティングを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4.1-Flash DeepSeek…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxedrg3xg2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxedrg3xg2c</guid>
-      <pubDate>Sun, 20 Sep 2026 14:01:54 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、最大100万トークンのコンテキストに対応したマルチモーダルMoEモデルです。<br>Causal Encoder-DecoderやCSA2、FP4 KVキャッシュなどの技術を用いてKVキャッシュの圧縮を極限まで追求し、大量の入力を扱うワークロードにおけるメモリ使用量の削減とコスト効率の向上を目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、最大100万トークンのコンテキストに対応したマルチモーダルMoEモデルです。<br>Causal Encoder-DecoderやCSA2、FP4 KVキャッシュなどの技術を用いてKVキャッシュの圧縮を極限まで追求し、大量の入力を扱うワークロードにおけるメモリ使用量の削減とコスト効率の向上を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-2-27B-gguf llama…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxe6oguib2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mvxe6oguib2g</guid>
-      <pubDate>Sun, 20 Sep 2026 13:59:03 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>llama.cppで動作するBonsai 2 27Bモデルの提供を目的としています。<br>Qwen3.8-27Bをベースに三値重みを採用し、FP16比でサイズを約9.3分の1に削減しつつ高い知能を維持しています。<br>CUDA、Metal、CPU環境での高速な推論を実現し、低メモリで27Bクラスの推論能力を動作させることを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>llama.cppで動作するBonsai 2 27Bモデルの提供を目的としています。<br>Qwen3.8-27Bをベースに三値重みを採用し、FP16比でサイズを約9.3分の1に削減しつつ高い知能を維持しています。<br>CUDA、Metal、CPU環境での高速な推論を実現し、低メモリで27Bクラスの推論能力を動作させることを目指しています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
