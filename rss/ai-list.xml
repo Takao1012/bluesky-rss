@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 22:52:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:17:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Grok 4.7は、長時間タスクに強化された新ベースモデルと自己検証能力の向上、Groк B…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw2veo2m5z2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw2veo2m5z2g</guid>
+      <pubDate>Mon, 21 Sep 2026 23:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Grok 4.7は、長時間タスクに強化された新ベースモデルと自己検証能力の向上、Groк Botハーネスの理解強化を特徴とする、コーディングと知識作業向けの高性能モデルです。CursorBench 4.0などの複数ベンチマークでコスト対性能が競争力を持ち、文書作成や専門職領域の作業にも優れており、安全性・拒否能力も大幅に強化されています。価格は入力トークン2ドル、出力トークン6ドルからで、CursorとGrok Build、APIなどで利用可能です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Grok 4.7は、長時間タスクに強化された新ベースモデルと自己検証能力の向上、Groк Botハーネスの理解強化を特徴とする、コーディングと知識作業向けの高性能モデルです。CursorBench 4.0などの複数ベンチマークでコスト対性能が競争力を持ち、文書作成や専門職領域の作業にも優れており、安全性・拒否能力も大幅に強化されています。価格は入力トークン2ドル、出力トークン6ドルからで、CursorとGrok Build、APIなどで利用可能です。]]></content:encoded>
+    </item>
+    <item>
+      <title>Grok 4.7 Grok 4.7  🔺 467 💬 61 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw2vegicbu2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw2vegicbu2a</guid>
+      <pubDate>Mon, 21 Sep 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Grok 4.7<br>Grok 4.7<br><br>🔺 467<br>💬 61<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Grok 4.7<br>Grok 4.7<br><br>🔺 467<br>💬 61<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Put together some notes on Jev and the new category of syste…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw2tsop42c2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw2tsop42c2u</guid>
+      <pubDate>Mon, 21 Sep 2026 23:16:40 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...]]></description>
+      <content:encoded><![CDATA[Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...]]></content:encoded>
+    </item>
     <item>
       <title>Every once in a while ,I look at a cursed cable and just sta…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw2sdxpvhw2q</link>
@@ -444,33 +471,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Just realized I have a callout for this exact type of attention span issue in the video itself 🙃<br><br>QT: https://twitter.com/i/status/2101867848956350582]]></description>
       <content:encoded><![CDATA[Just realized I have a callout for this exact type of attention span issue in the video itself 🙃<br><br>QT: https://twitter.com/i/status/2101867848956350582]]></content:encoded>
-    </item>
-    <item>
-      <title>開発者・研究者がエージェントをスケールさせるための使いやすさと生産性を重視しています。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyze4las2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyze4las2d</guid>
-      <pubDate>Mon, 21 Sep 2026 05:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[開発者・研究者がエージェントをスケールさせるための使いやすさと生産性を重視しています。 (2/2)]]></description>
-      <content:encoded><![CDATA[開発者・研究者がエージェントをスケールさせるための使いやすさと生産性を重視しています。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   - AXは、エージェント型の大規模ワークロードを宣言的に管理・実行するプラットフォームで、タ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyzdz2x22d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyzdz2x22d</guid>
-      <pubDate>Mon, 21 Sep 2026 05:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- AXは、エージェント型の大規模ワークロードを宣言的に管理・実行するプラットフォームで、タスクを軽量なアクターとして数十億規模で同時実行し、サンドボックス化・ネットワーク分離・高速の再開を実現します。  <br>- Generative機能を組み込み、英語での指示から環境設定やツールの準備を自動化するワークスペース作成など、研究用途にも適した高密度・低オーバーヘッドのランタイムを提供します。  <br>- Google発の研究成果を基盤とし、エージェントの状態を長時間維持・迅速再開できる設計で、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- AXは、エージェント型の大規模ワークロードを宣言的に管理・実行するプラットフォームで、タスクを軽量なアクターとして数十億規模で同時実行し、サンドボックス化・ネットワーク分離・高速の再開を実現します。  <br>- Generative機能を組み込み、英語での指示から環境設定やツールの準備を自動化するワークスペース作成など、研究用途にも適した高密度・低オーバーヘッドのランタイムを提供します。  <br>- Google発の研究成果を基盤とし、エージェントの状態を長時間維持・迅速再開できる設計で、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>AX – Googleのオープン・エージェント型オーケストレーター AX – Google’s Open Agentic…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyz6wrlx26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mvyyz6wrlx26</guid>
-      <pubDate>Mon, 21 Sep 2026 05:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AX – Googleのオープン・エージェント型オーケストレーター<br>AX – Google’s Open Agentic Orchestrator<br><br>🔺 361<br>💬 44<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AX – Googleのオープン・エージェント型オーケストレーター<br>AX – Google’s Open Agentic Orchestrator<br><br>🔺 361<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
