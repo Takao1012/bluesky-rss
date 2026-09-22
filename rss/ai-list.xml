@@ -5,8 +5,86 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:08:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Transformerは自己注意機構を核とするニューラルネットワークアーキテクチャで、入力全…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw45mhinal26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw45mhinal26</guid>
+      <pubDate>Tue, 22 Sep 2026 11:44:48 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Transformerは自己注意機構を核とするニューラルネットワークアーキテクチャで、入力全体の関係性を捉える能力によりテキスト生成をはじめ音声・画像・タンパク質構造予測など多岐に応用される。GPT-2（small）を例に、Embedding、Transformer Block（自己注意とMLP）、出力ロジットとソフトマックス、温度・top-k/top-pによるサンプリングといった基本構成要素と学習・推論の流れを解説し、Transformer Explainerはブラウザ上でGPT-2の小型モデルを対話的に可視化できるツールである。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Transformerは自己注意機構を核とするニューラルネットワークアーキテクチャで、入力全体の関係性を捉える能力によりテキスト生成をはじめ音声・画像・タンパク質構造予測など多岐に応用される。GPT-2（small）を例に、Embedding、Transformer Block（自己注意とMLP）、出力ロジットとソフトマックス、温度・top-k/top-pによるサンプリングといった基本構成要素と学習・推論の流れを解説し、Transformer Explainerはブラウザ上でGPT-2の小型モデルを対話的に可視化できるツールである。]]></content:encoded>
+    </item>
+    <item>
+      <title>図解でわかるトランスフォーマー Transformers Explained Visually  🔺 446 💬 2…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw45ly3ado2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw45ly3ado2y</guid>
+      <pubDate>Tue, 22 Sep 2026 11:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[図解でわかるトランスフォーマー<br>Transformers Explained Visually<br><br>🔺 446<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[図解でわかるトランスフォーマー<br>Transformers Explained Visually<br><br>🔺 446<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   近年登場した“スパイマーク”（spymark）は、利用者の知らないうちに画像・音声・テキスト…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3wvomt352c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3wvomt352c</guid>
+      <pubDate>Tue, 22 Sep 2026 09:44:42 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>近年登場した“スパイマーク”（spymark）は、利用者の知らないうちに画像・音声・テキストなどに埋め込まれる隠れた追跡信号で、個人情報や識別子を特定・追跡できるようにする新種の“水印”です。GoogleのSynthIDを例に、視覚的には不可感だがデータベースIDなどを埋め込み、後から特定可能になる仕組みが説明され、オープンソースや他社も同様の技術を開発・普及させていると警告しています。水印と異なりスパイマークはユーザーの管理外で残り得るため、プライバシーリスクが重大であるとして、透明性と対策の必要性を訴えています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>近年登場した“スパイマーク”（spymark）は、利用者の知らないうちに画像・音声・テキストなどに埋め込まれる隠れた追跡信号で、個人情報や識別子を特定・追跡できるようにする新種の“水印”です。GoogleのSynthIDを例に、視覚的には不可感だがデータベースIDなどを埋め込み、後から特定可能になる仕組みが説明され、オープンソースや他社も同様の技術を開発・普及させていると警告しています。水印と異なりスパイマークはユーザーの管理外で残り得るため、プライバシーリスクが重大であるとして、透明性と対策の必要性を訴えています。]]></content:encoded>
+    </item>
+    <item>
+      <title>スパイマークス、透かしではない。 Spymarks, Not Watermarks  🔺 434 💬 31 🔗 H…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3wvhy5fv2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3wvhy5fv2c</guid>
+      <pubDate>Tue, 22 Sep 2026 09:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スパイマークス、透かしではない。<br>Spymarks, Not Watermarks<br><br>🔺 434<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スパイマークス、透かしではない。<br>Spymarks, Not Watermarks<br><br>🔺 434<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>I don&apos;t mean to overreact, but I think this might be a reces…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw3t2poqyz2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw3t2poqyz2q</guid>
+      <pubDate>Tue, 22 Sep 2026 08:15:41 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I don't mean to overreact, but I think this might be a recession indicator
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigae3hoehezufx2vmih537cn3delajj44syfcrn7jlz3rrym5t2im" alt="Quote Tweet: https://twitter.com/i/status/2102300643964907776" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I don't mean to overreact, but I think this might be a recession indicator
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigae3hoehezufx2vmih537cn3delajj44syfcrn7jlz3rrym5t2im" alt="Quote Tweet: https://twitter.com/i/status/2102300643964907776" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigae3hoehezufx2vmih537cn3delajj44syfcrn7jlz3rrym5t2im" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I’ve played this song every day for almost a year and I had …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw3rfayf462g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw3rfayf462g</guid>
+      <pubDate>Tue, 22 Sep 2026 07:45:40 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I’ve played this song every day for almost a year and I had NO idea
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapydqai5nqjherkcndkobyoqk7pxe42ri2yuv6jw2t5ed5fgkxqe" alt="Quote Tweet: https://twitter.com/i/status/2102026636296073501" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[I’ve played this song every day for almost a year and I had NO idea
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapydqai5nqjherkcndkobyoqk7pxe42ri2yuv6jw2t5ed5fgkxqe" alt="Quote Tweet: https://twitter.com/i/status/2102026636296073501" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiapydqai5nqjherkcndkobyoqk7pxe42ri2yuv6jw2t5ed5fgkxqe" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ポーランドの開発者パヴェル・シジロフスキによる無料Bluetooth検知アプリ「ZuckOf…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3q7e3lr62n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3q7e3lr62n</guid>
+      <pubDate>Tue, 22 Sep 2026 07:44:50 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ポーランドの開発者パヴェル・シジロフスキによる無料Bluetooth検知アプリ「ZuckOff」は、周囲にスマートグラスがあるかを検知できるが、どの人物が撮影しているかや録画を直接判定することはできない。機能は信号強度から近接を推定するのみで、基本機能は無料、拡張機能は有料のPro版が提供されている。 Metaのスマートグラスに対する監視やプライバシー問題が高まる中、LEDの改ざん対策など競合の対策も進んでいるが、現状のアプリは検知の範囲を限定的にしか提供できない。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ポーランドの開発者パヴェル・シジロフスキによる無料Bluetooth検知アプリ「ZuckOff」は、周囲にスマートグラスがあるかを検知できるが、どの人物が撮影しているかや録画を直接判定することはできない。機能は信号強度から近接を推定するのみで、基本機能は無料、拡張機能は有料のPro版が提供されている。 Metaのスマートグラスに対する監視やプライバシー問題が高まる中、LEDの改ざん対策など競合の対策も進んでいるが、現状のアプリは検知の範囲を限定的にしか提供できない。]]></content:encoded>
+    </item>
+    <item>
+      <title>ZuckOffは、メタのメガネがあなたを見る前に、それらを検知する無料のアプリです。 ZuckOff is a free…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3q73l6m52g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw3q73l6m52g</guid>
+      <pubDate>Tue, 22 Sep 2026 07:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ZuckOffは、メタのメガネがあなたを見る前に、それらを検知する無料のアプリです。<br>ZuckOff is a free app that sees Meta glasses before they see you<br><br>🔺 387<br>💬 59<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ZuckOffは、メタのメガネがあなたを見る前に、それらを検知する無料のアプリです。<br>ZuckOff is a free app that sees Meta glasses before they see you<br><br>🔺 387<br>💬 59<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月2…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw3lwepvch27</link>
@@ -420,78 +498,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 coder / coder<br>⭐ 16,294 (+461)<br>🗒 Go<br><br>Secure environments for developers and their agents]]></description>
       <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 coder / coder<br>⭐ 16,294 (+461)<br>🗒 Go<br><br>Secure environments for developers and their agents]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  cloudflare/quiche IETFが規定するQUICトランスポートプロトコルおよ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw27ar5frh2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw27ar5frh2v</guid>
-      <pubDate>Mon, 21 Sep 2026 17:08:44 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>cloudflare/quiche<br>IETFが規定するQUICトランスポートプロトコルおよびHTTP/3の実装です。<br>QUICパケットの処理や接続状態の管理を行う低レベルAPIを提供し、CloudflareのエッジネットワークやAndroid、curlなどで活用されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cloudflare/quiche<br>IETFが規定するQUICトランスポートプロトコルおよびHTTP/3の実装です。<br>QUICパケットの処理や接続状態の管理を行う低レベルAPIを提供し、CloudflareのエッジネットワークやAndroid、curlなどで活用されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  coder/coder Coderは、クラウド開発環境とAIコーディングエージェントをセル…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26qh5k432o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26qh5k432o</guid>
-      <pubDate>Mon, 21 Sep 2026 16:59:36 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>coder/coder<br>Coderは、クラウド開発環境とAIコーディングエージェントをセルフホストするためのプラットフォームです。<br>Terraformを用いてワークスペースを定義し、Wireguard経由で安全に接続します。<br>未使用時の自動シャットダウン機能や、APIキーをワークスペースに持たせない仕組みのAIエージェント機能を搭載しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>coder/coder<br>Coderは、クラウド開発環境とAIコーディングエージェントをセルフホストするためのプラットフォームです。<br>Terraformを用いてワークスペースを定義し、Wireguard経由で安全に接続します。<br>未使用時の自動シャットダウン機能や、APIキーをワークスペースに持たせない仕組みのAIエージェント機能を搭載しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  akitaonrails/ai-memory AIコーディングエージェント向けの共通長期記…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26n45yfa2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26n45yfa2a</guid>
-      <pubDate>Mon, 21 Sep 2026 16:57:44 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの共通長期記憶を提供し、ツールやデバイス、ユーザー間で開発コンテキストを共有することを目的としています。<br>異なるAIツールを切り替えても、進捗や失敗した手法、未解決の課題をそのまま引き継げます。<br>データはMarkdown形式で管理されるため、ポータビリティと透明性に優れています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの共通長期記憶を提供し、ツールやデバイス、ユーザー間で開発コンテキストを共有することを目的としています。<br>異なるAIツールを切り替えても、進捗や失敗した手法、未解決の課題をそのまま引き継げます。<br>データはMarkdown形式で管理されるため、ポータビリティと透明性に優れています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  Open-Dev-Society/OpenStock OpenStockは、高価な市場プラ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26aomrtb2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw26aomrtb2f</guid>
-      <pubDate>Mon, 21 Sep 2026 16:50:47 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>Open-Dev-Society/OpenStock<br>OpenStockは、高価な市場プラットフォームの代替となるオープンソースのアプリケーションです。<br>リアルタイムの価格追跡、アラート設定、企業情報の閲覧などの機能を、誰でも無料で利用できるようにすることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Open-Dev-Society/OpenStock<br>OpenStockは、高価な市場プラットフォームの代替となるオープンソースのアプリケーションです。<br>リアルタイムの価格追跡、アラート設定、企業情報の閲覧などの機能を、誰でも無料で利用できるようにすることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  trycua/cua CuaはAIエージェントにコンピュータ操作環境を提供することを目的と…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw264vtpcq2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw264vtpcq2d</guid>
-      <pubDate>Mon, 21 Sep 2026 16:48:41 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>trycua/cua<br>CuaはAIエージェントにコンピュータ操作環境を提供することを目的としています。<br>オープンソースのデスクトップ自動化、隔離されたクラウドデスクトップやローカルmacOS VM、意思決定モデル、ベンチマークなどを提供します。<br>AIがコード、API、GUIを組み合わせてタスクを遂行できる環境を構築し、SDKを通じてアプリ操作や画面キャプチャなどの自動化を実現します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>trycua/cua<br>CuaはAIエージェントにコンピュータ操作環境を提供することを目的としています。<br>オープンソースのデスクトップ自動化、隔離されたクラウドデスクトップやローカルmacOS VM、意思決定モデル、ベンチマークなどを提供します。<br>AIがコード、API、GUIを組み合わせてタスクを遂行できる環境を構築し、SDKを通じてアプリ操作や画面キャプチャなどの自動化を実現します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  m-a-p/YuE2-3B YuE2-3Bは、歌詞とスタイルプロンプトからボーカ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24qgrgzo2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24qgrgzo2s</guid>
-      <pubDate>Mon, 21 Sep 2026 16:23:49 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>YuE2-3Bは、歌詞とスタイルプロンプトからボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードを調整でき、Suno v5/v6などの商用モデルに匹敵する高品質な楽曲生成を実現しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>m-a-p/YuE2-3B<br>YuE2-3Bは、歌詞とスタイルプロンプトからボーカルと伴奏を含む楽曲を生成するオープンな音楽生成モデルです。<br>編集可能なスコアを用いてメロディやコードを調整でき、Suno v5/v6などの商用モデルに匹敵する高品質な楽曲生成を実現しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF GSQ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24n2yeu52w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24n2yeu52w</guid>
-      <pubDate>Mon, 21 Sep 2026 16:21:56 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化したQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクタが含まれています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF<br>GSQおよびRCOを用いて非一様量子化したQwen3.8-27BのGGUF形式モデルを提供することを目的としています。<br>マルチモーダル利用のためのビジョンプロジェクタが含まれています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  harshatheg/Qwen-2.5-1B-RLCD Apple Silico…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24fan6l72t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw24fan6l72t</guid>
-      <pubDate>Mon, 21 Sep 2026 16:17:33 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>harshatheg/Qwen-2.5-1B-RLCD<br>Apple Silicon向けにMLXを用いて構築された、構造化情報の抽出や分類のための高スループット推論エンジンです。<br>複数のJSONスキーマ項目を同時に評価する並列制約デコーディングにより、スキーマの妥当性を完全に保証しつつ、従来の逐次的なデコーディングと比較して推論レイテンシを大幅に削減することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>harshatheg/Qwen-2.5-1B-RLCD<br>Apple Silicon向けにMLXを用いて構築された、構造化情報の抽出や分類のための高スループット推論エンジンです。<br>複数のJSONスキーマ項目を同時に評価する並列制約デコーディングにより、スキーマの妥当性を完全に保証しつつ、従来の逐次的なデコーディングと比較して推論レイテンシを大幅に削減することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
