@@ -5,8 +5,215 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:59:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xjnhe2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xjnhe2a</guid>
+      <pubDate>Wed, 23 Sep 2026 17:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2)]]></description>
+      <content:encoded><![CDATA[ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Claude Code 2.1.277–2.1.280のAGENTS.mdサポートは、CLA…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xfhtj2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xfhtj2b</guid>
+      <pubDate>Wed, 23 Sep 2026 17:44:43 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Claude Code 2.1.277–2.1.280のAGENTS.mdサポートは、CLAUDE.mdがない場合にAGENTS.mdを読み込むはずだが、リモートフラグの取得障害で実際には機能せず、テレmetryをオフにしても読み込みが起こらない問題がある。回避策としてCLAUDE.mdに @AGENTS.md を記述する一行インポートや、グローバルなAGENTS.mdの導入案が検討されているが、現状はリモートフラグ依存と環境変数の挙動が不透明で、スキル/設定の共有にも課題が残っている。結局、 (1/2)]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Claude Code 2.1.277–2.1.280のAGENTS.mdサポートは、CLAUDE.mdがない場合にAGENTS.mdを読み込むはずだが、リモートフラグの取得障害で実際には機能せず、テレmetryをオフにしても読み込みが起こらない問題がある。回避策としてCLAUDE.mdに @AGENTS.md を記述する一行インポートや、グローバルなAGENTS.mdの導入案が検討されているが、現状はリモートフラグ依存と環境変数の挙動が不透明で、スキル/設定の共有にも課題が残っている。結局、 (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Code はテレメトリがオンのときのみ AGENTS.md を読み込む（修正済み） Claude Code…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6m7sgn2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6m7sgn2o</guid>
+      <pubDate>Wed, 23 Sep 2026 17:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Claude Code はテレメトリがオンのときのみ AGENTS.md を読み込む（修正済み）<br>Claude Code reads AGENTS.md only when telemetry is on [fixed]<br><br>🔺 368<br>💬 33<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Claude Code はテレメトリがオンのときのみ AGENTS.md を読み込む（修正済み）<br>Claude Code reads AGENTS.md only when telemetry is on [fixed]<br><br>🔺 368<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🎨 Customize your agents window with new background support!…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw75qfpcac2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw75qfpcac2c</guid>
+      <pubDate>Wed, 23 Sep 2026 16:25:00 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🎨 Customize your agents window with new background support!<br>#vscode #vscodetips #customize]]></description>
+      <content:encoded><![CDATA[🎨 Customize your agents window with new background support!<br>#vscode #vscodetips #customize]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  HKUDS/CLI-Anything </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw74n2me2n2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw74n2me2n2e</guid>
+      <pubDate>Wed, 23 Sep 2026 16:05:14 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>HKUDS/CLI-Anything<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>HKUDS/CLI-Anything<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  strands-agents/harness-sdk </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw73zywnk52p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw73zywnk52p</guid>
+      <pubDate>Wed, 23 Sep 2026 15:54:35 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>strands-agents/harness-sdk<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>strands-agents/harness-sdk<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Apple Intelligenceの機能（Siri AI、メッセージ・メールの要約、通知要…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw73ig6ysy2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw73ig6ysy2z</guid>
+      <pubDate>Wed, 23 Sep 2026 15:44:44 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Apple Intelligenceの機能（Siri AI、メッセージ・メールの要約、通知要約、スマート返信、ボイスメールの提案など）をMacでオフにする手順と、スクリーンタイムや子供の設定での制限方法について説明しています。設定場所はシステム環境設定、メッセージ/メール/電話アプリの設定、ジャーナルアプリの設定などの具体的な手順が並んでいます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Apple Intelligenceの機能（Siri AI、メッセージ・メールの要約、通知要約、スマート返信、ボイスメールの提案など）をMacでオフにする手順と、スクリーンタイムや子供の設定での制限方法について説明しています。設定場所はシステム環境設定、メッセージ/メール/電話アプリの設定、ジャーナルアプリの設定などの具体的な手順が並んでいます。]]></content:encoded>
+    </item>
+    <item>
+      <title>Mac で Apple Intelligence 機能をオフにして、アクセスを制限する。 Turn off and re…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw73hyqlic2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw73hyqlic2o</guid>
+      <pubDate>Wed, 23 Sep 2026 15:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Mac で Apple Intelligence 機能をオフにして、アクセスを制限する。<br>Turn off and restrict access to Apple Intelligence features on Mac<br><br>🔺 345<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Mac で Apple Intelligence 機能をオフにして、アクセスを制限する。<br>Turn off and restrict access to Apple Intelligence features on Mac<br><br>🔺 345<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  Open-Dev-Society/OpenStock </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw736pywlf2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw736pywlf2c</guid>
+      <pubDate>Wed, 23 Sep 2026 15:39:19 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>Open-Dev-Society/OpenStock<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Open-Dev-Society/OpenStock<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  obra/superpowers </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw72lac5w52m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw72lac5w52m</guid>
+      <pubDate>Wed, 23 Sep 2026 15:28:25 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  BuilderIO/agent-native Agent-Nativeは、自律的に動作する…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw726ffbdg2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mw726ffbdg2n</guid>
+      <pubDate>Wed, 23 Sep 2026 15:21:14 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>BuilderIO/agent-native<br>Agent-Nativeは、自律的に動作するエージェントと専用UIを組み合わせて開発するためのTypeScriptフレームワークです。<br>機能をアクションとして一度定義することで、エージェントはそれをツールとして利用し、UIはコードから直接呼び出すことができます。<br>これにより、エージェントの作業の可視化や人間による編集、承認などの管理を容易にすることを目的としています。<br>また、HTTPやCLIなどの多様なインターフェースにも対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>BuilderIO/agent-native<br>Agent-Nativeは、自律的に動作するエージェントと専用UIを組み合わせて開発するためのTypeScriptフレームワークです。<br>機能をアクションとして一度定義することで、エージェントはそれをツールとして利用し、UIはコードから直接呼び出すことができます。<br>これにより、エージェントの作業の可視化や人間による編集、承認などの管理を容易にすることを目的としています。<br>また、HTTPやCLIなどの多様なインターフェースにも対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Altworld/Hemmingway-1 人間のような自然な文章を作成すること…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6ymtucbw2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6ymtucbw2k</guid>
+      <pubDate>Wed, 23 Sep 2026 14:53:32 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>人間のような自然な文章を作成することを目的としたAIモデルです。<br>日常的なメッセージやメール、ビジネス連絡などの書き物に特化しており、冗長な説明を省いた直接的な回答を提供します。<br>人間が書いたような自然な表現を実現し、日常的なコミュニケーションにおける利便性を向上させることを目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>人間のような自然な文章を作成することを目的としたAIモデルです。<br>日常的なメッセージやメール、ビジネス連絡などの書き物に特化しており、冗長な説明を省いた直接的な回答を提供します。<br>人間が書いたような自然な表現を実現し、日常的なコミュニケーションにおける利便性を向上させることを目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Comfy-Org/Qwen-Image-2.1 ComfyUIで利用するために…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6ydagydu2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6ydagydu2o</guid>
+      <pubDate>Wed, 23 Sep 2026 14:48:09 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供することを目的としています。<br>画像編集、テキストからの画像生成、背景削除などの機能に加え、プロンプト強化用のモデルも含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供することを目的としています。<br>画像編集、テキストからの画像生成、背景削除などの機能に加え、プロンプト強化用のモデルも含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  abenzerps/Qwen-Image-2.1-Uncensored-GGUF…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6y4pxzns2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6y4pxzns2h</guid>
+      <pubDate>Wed, 23 Sep 2026 14:44:31 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1をローカルで画像生成するために、GGUF形式に量子化したモデルを提供することが目的です。<br>検閲のないモデルが含まれています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1をローカルで画像生成するために、GGUF形式に量子化したモデルを提供することが目的です。<br>検閲のないモデルが含まれています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  XingChen-AGI/Xing4.0-29B-A4B China Telec…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6xvumdtv2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6xvumdtv2w</guid>
+      <pubDate>Wed, 23 Sep 2026 14:40:41 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecom AIが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークに対応しています。<br>29Bの総パラメータ数を持ち、最大512Kのコンテキスト長をサポートしています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecom AIが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供するためのリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークに対応しています。<br>29Bの総パラメータ数を持ち、最大512Kのコンテキスト長をサポートしています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen-Image-2.1 Qwen-Image-2.1は、テキスト…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6xtsalsb2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mw6xtsalsb2o</guid>
+      <pubDate>Wed, 23 Sep 2026 14:39:31 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストから画像への生成と画像編集を統合したモデルです。<br>7Bパラメータの視覚生成コンポーネントにより、生成品質、推論効率、汎用性を両立しています。<br>テキストからの画像生成、画像の編集、透過画像の生成が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストから画像への生成と画像編集を統合したモデルです。<br>7Bパラメータの視覚生成コンポーネントにより、生成品質、推論効率、汎用性を両立しています。<br>テキストからの画像生成、画像の編集、透過画像の生成が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Jevは大規模言語モデルの新しい波かと話題だが、この記事はJevを25行のPythonコード…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw6urjczra2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw6urjczra2a</guid>
+      <pubDate>Wed, 23 Sep 2026 13:44:34 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Jevは大規模言語モデルの新しい波かと話題だが、この記事はJevを25行のPythonコードでローカル実行して、メールの分類タスクの各選択肢に対する確率を出力するデモを紹介している。コードはローカルで動作し、データを外部へ送らない点を強調しつつ、Jevの特徴を実演的に説明している。なお記事はパロディ的なブログ投稿で、オープンソース実装への言及もある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Jevは大規模言語モデルの新しい波かと話題だが、この記事はJevを25行のPythonコードでローカル実行して、メールの分類タスクの各選択肢に対する確率を出力するデモを紹介している。コードはローカルで動作し、データを外部へ送らない点を強調しつつ、Jevの特徴を実演的に説明している。なお記事はパロディ的なブログ投稿で、オープンソース実装への言及もある。]]></content:encoded>
+    </item>
+    <item>
+      <title>Pythonの25行でJev Jev in 25 Lines of Python  🔺 361 💬 38 🔗 HN…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw6urcqhmh2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw6urcqhmh2b</guid>
+      <pubDate>Wed, 23 Sep 2026 13:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Pythonの25行でJev<br>Jev in 25 Lines of Python<br><br>🔺 361<br>💬 38<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Pythonの25行でJev<br>Jev in 25 Lines of Python<br><br>🔺 361<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw6tudf2232v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw6tudf2232v</guid>
+      <pubDate>Wed, 23 Sep 2026 13:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>without external runtimes or APIs. It includes a built-in UI…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6td5l2en25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6td5l2en25</guid>
+      <pubDate>Wed, 23 Sep 2026 13:18:36 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[without external runtimes or APIs. It includes a built-in UI, extensive indexing and query tools, and robust security/validation for releases. (2/2)]]></description>
+      <content:encoded><![CDATA[without external runtimes or APIs. It includes a built-in UI, extensive indexing and query tools, and robust security/validation for releases. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Codebase-memory-mcp is a self-contained, nativ…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6td2pjls2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6td2pjls2o</guid>
+      <pubDate>Wed, 23 Sep 2026 13:18:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Codebase-memory-mcp is a self-contained, native code-intelligence engine that indexes large codebases into a knowledge graph using tree-sitter with Hybrid LSP, offering fast graph queries, semantic search, dead-code detection, and multi-agent MCP integration, all run locally (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Codebase-memory-mcp is a self-contained, native code-intelligence engine that indexes large codebases into a knowledge graph using tree-sitter with Hybrid LSP, offering fast graph queries, semantic search, dead-code detection, and multi-agent MCP integration, all run locally (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 DeusData / codebase…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6tb6z2uj25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw6tb6z2uj25</guid>
+      <pubDate>Wed, 23 Sep 2026 13:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 DeusData / codebase-memory-mcp<br>⭐ 44,303 (+201)<br>🗒 C<br><br>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static bi...]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 DeusData / codebase-memory-mcp<br>⭐ 44,303 (+201)<br>🗒 C<br><br>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static bi...]]></content:encoded>
+    </item>
+    <item>
+      <title>The “max” reasoning effort on most models should be renamed …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw6slu5fqu2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw6slu5fqu2x</guid>
+      <pubDate>Wed, 23 Sep 2026 12:49:44 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The “max” reasoning effort on most models should be renamed to “benchmaxxed” and then you should ignore it entirely]]></description>
+      <content:encoded><![CDATA[The “max” reasoning effort on most models should be renamed to “benchmaxxed” and then you should ignore it entirely]]></content:encoded>
+    </item>
     <item>
       <title>I&apos;m not using Max in Claude Code</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw6qkdfqzc2w</link>
@@ -252,225 +459,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 Claude Opus 5.5登場　Fable 5.1並みの性能をOpus 5より40%安価に<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 Claude Opus 5.5登場　Fable 5.1並みの性能をOpus 5より40%安価に<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw64fahfa724</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw64fahfa724</guid>
-      <pubDate>Wed, 23 Sep 2026 06:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   高名なハッキング集団ShinyHuntersがFBI関連サービスを複数侵害し、同組織の主張に…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5zxbhwyc2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5zxbhwyc2s</guid>
-      <pubDate>Wed, 23 Sep 2026 05:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>高名なハッキング集団ShinyHuntersがFBI関連サービスを複数侵害し、同組織の主張によれば、全FBI職員と応募者のデータ（氏名・自宅住所・電話番号・配偶者情報）を盗んだと発表。流出データは国内外の安全保障や諜報活動にも重大な影響を及ぼす可能性があり、関連犯罪者がターゲットを追跡・脅迫するために悪用する恐れがある。データが外国情報機関に渡れば、FBIの運用理解を深める手掛かりになるリスクも指摘されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>高名なハッキング集団ShinyHuntersがFBI関連サービスを複数侵害し、同組織の主張によれば、全FBI職員と応募者のデータ（氏名・自宅住所・電話番号・配偶者情報）を盗んだと発表。流出データは国内外の安全保障や諜報活動にも重大な影響を及ぼす可能性があり、関連犯罪者がターゲットを追跡・脅迫するために悪用する恐れがある。データが外国情報機関に渡れば、FBIの運用理解を深める手掛かりになるリスクも指摘されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>「FBIをハッキングした」 ハッカーはFBIの全職員のデータを所持していると主張 &apos;We hacked the FBI:…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5zwwuqj42p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5zwwuqj42p</guid>
-      <pubDate>Wed, 23 Sep 2026 05:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[「FBIをハッキングした」 ハッカーはFBIの全職員のデータを所持していると主張<br>'We hacked the FBI:' Hackers say they have data on all FBI employees<br><br>🔺 521<br>💬 62<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[「FBIをハッキングした」 ハッカーはFBIの全職員のデータを所持していると主張<br>'We hacked the FBI:' Hackers say they have data on all FBI employees<br><br>🔺 521<br>💬 62<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「50歳超えだけど今からゲーム開発者になれる？」との人生相談に、“経験者”が大集結。年配組の熱い回答、あの人気ゲー…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5yzygqj52q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5yzygqj52q</guid>
-      <pubDate>Wed, 23 Sep 2026 05:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「50歳超えだけど今からゲーム開発者になれる？」との人生相談に、“経験者”が大集結。年配組の熱い回答、あの人気ゲームのディレクターも名乗り出る - AUTOMATON<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「50歳超えだけど今からゲーム開発者になれる？」との人生相談に、“経験者”が大集結。年配組の熱い回答、あの人気ゲームのディレクターも名乗り出る - AUTOMATON<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>:)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5wxak3cn2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5wxak3cn2r</guid>
-      <pubDate>Wed, 23 Sep 2026 04:19:50 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[:)]]></description>
-      <content:encoded><![CDATA[:)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ウェブサイトが不審なアクセスを検知したため、人間かロボットかを確認するためのチェックを求めら…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5tapax3q2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5tapax3q2s</guid>
-      <pubDate>Wed, 23 Sep 2026 03:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ウェブサイトが不審なアクセスを検知したため、人間かロボットかを確認するためのチェックを求められている。JavaScriptとクッキーの有効化を確認し、サポート窓口へ参照IDを伝える必要がある。参照IDは16839d73-b701-11f1-b7bf-b0dd1a8c81c7。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ウェブサイトが不審なアクセスを検知したため、人間かロボットかを確認するためのチェックを求められている。JavaScriptとクッキーの有効化を確認し、サポート窓口へ参照IDを伝える必要がある。参照IDは16839d73-b701-11f1-b7bf-b0dd1a8c81c7。]]></content:encoded>
-    </item>
-    <item>
-      <title>ペンタゴン、AIへの過度な依存がイランの学校へのミサイル攻撃の要因となったと指摘 Pentagon says overr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5tafcwbx2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5tafcwbx2o</guid>
-      <pubDate>Wed, 23 Sep 2026 03:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ペンタゴン、AIへの過度な依存がイランの学校へのミサイル攻撃の要因となったと指摘<br>Pentagon says overreliance on AI contributed to missile strike on Iran school<br><br>🔺 486<br>💬 67<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ペンタゴン、AIへの過度な依存がイランの学校へのミサイル攻撃の要因となったと指摘<br>Pentagon says overreliance on AI contributed to missile strike on Iran school<br><br>🔺 486<br>💬 67<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ホームページに還ろう  🔖 151 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5oyb5xyh2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5oyb5xyh2z</guid>
-      <pubDate>Wed, 23 Sep 2026 02:28:18 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ホームページに還ろう<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ホームページに還ろう<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Wild thing to tweet as an Anthropic researcher. Mad respect.…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5pg4q3cc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5pg4q3cc26</guid>
-      <pubDate>Wed, 23 Sep 2026 02:03:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Wild thing to tweet as an Anthropic researcher. Mad respect.<br><br>Seems like Ant’s loosened the death grip they had on comms before
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiao642jnqogtnl5n2jtdqdvlg5zy3sap5yyg4fhyjfbzy7dna2ram" alt="Quote Tweet: https://twitter.com/i/status/2102460995381969365" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Wild thing to tweet as an Anthropic researcher. Mad respect.<br><br>Seems like Ant’s loosened the death grip they had on comms before
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiao642jnqogtnl5n2jtdqdvlg5zy3sap5yyg4fhyjfbzy7dna2ram" alt="Quote Tweet: https://twitter.com/i/status/2102460995381969365" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiao642jnqogtnl5n2jtdqdvlg5zy3sap5yyg4fhyjfbzy7dna2ram" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   GPT-6 Astraが、1941年7月10日付のドイツ軍エニグマ MVUEHメッセージの解…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5mkc3gq72k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5mkc3gq72k</guid>
-      <pubDate>Wed, 23 Sep 2026 01:44:41 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>GPT-6 Astraが、1941年7月10日付のドイツ軍エニグマ MVUEHメッセージの解読に成功したと報告。これまで解読不能とされていたこのメッセージの鍵は他の日付の同日メッセージと異なり、左輪の72番転回や転写ミスが絡んだ特異な条件だった。解析は完全にAIが自律で行い、SIPVXとの plaintext類似性やROSENOWのクリブを用いた解読手法を経て正解に至ったとしている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>GPT-6 Astraが、1941年7月10日付のドイツ軍エニグマ MVUEHメッセージの解読に成功したと報告。これまで解読不能とされていたこのメッセージの鍵は他の日付の同日メッセージと異なり、左輪の72番転回や転写ミスが絡んだ特異な条件だった。解析は完全にAIが自律で行い、SIPVXとの plaintext類似性やROSENOWのクリブを用いた解読手法を経て正解に至ったとしている。]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI GPT–6 Astra が、2005年以降解読が難航していたエニグマの暗号文を解読する。 OpenAI G…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5mk2cfrb2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5mk2cfrb2e</guid>
-      <pubDate>Wed, 23 Sep 2026 01:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[OpenAI GPT–6 Astra が、2005年以降解読が難航していたエニグマの暗号文を解読する。<br>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005<br><br>🔺 557<br>💬 51<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[OpenAI GPT–6 Astra が、2005年以降解読が難航していたエニグマの暗号文を解読する。<br>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005<br><br>🔺 557<br>💬 51<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Favorite model release this week?  📊 This post has a poll (…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5l72lwdv2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5l72lwdv2z</guid>
-      <pubDate>Wed, 23 Sep 2026 01:10:27 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Favorite model release this week?<br><br>📊 This post has a poll (Grok 4.7 / Opus 5.5 / GPT-6 Sol / GPT-6 Luna) — vote on X: https://x.com/theo/status/2102566230452572257]]></description>
-      <content:encoded><![CDATA[Favorite model release this week?<br><br>📊 This post has a poll (Grok 4.7 / Opus 5.5 / GPT-6 Sol / GPT-6 Luna) — vote on X: https://x.com/theo/status/2102566230452572257]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”  🔖 156 ブックマー…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5ibkcnhc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mw5ibkcnhc2z</guid>
-      <pubDate>Wed, 23 Sep 2026 00:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Can’t believe the AI media theft company stole my demo</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jlc47ss2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jlc47ss2t</guid>
-      <pubDate>Wed, 23 Sep 2026 00:22:03 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Can’t believe the AI media theft company stole my demo]]></description>
-      <content:encoded><![CDATA[Can’t believe the AI media theft company stole my demo]]></content:encoded>
-    </item>
-    <item>
-      <title>Huh that demo looks familiar 🤔</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jl64uct2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jl64uct2p</guid>
-      <pubDate>Wed, 23 Sep 2026 00:20:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Huh that demo looks familiar 🤔
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiey3m5nahmzqiuprjt5ektiwi37zsbw72ibsqtscespokinp2pbxa" alt="Quote Tweet: https://twitter.com/i/status/2102533401110802552" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Huh that demo looks familiar 🤔
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiey3m5nahmzqiuprjt5ektiwi37zsbw72ibsqtscespokinp2pbxa" alt="Quote Tweet: https://twitter.com/i/status/2102533401110802552" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiey3m5nahmzqiuprjt5ektiwi37zsbw72ibsqtscespokinp2pbxa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Opus 5.5 isn&apos;t going to help me at all with the &quot;fanboy&quot; all…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkmpx2l2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkmpx2l2q</guid>
-      <pubDate>Wed, 23 Sep 2026 00:05:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Opus 5.5 isn't going to help me at all with the "fanboy" allegations, huh? 🙃]]></description>
-      <content:encoded><![CDATA[Opus 5.5 isn't going to help me at all with the "fanboy" allegations, huh? 🙃]]></content:encoded>
-    </item>
-    <item>
-      <title>How are we feeling about Opus 5.5 so far? What&apos;s the coolest…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkhf5qw2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkhf5qw2i</guid>
-      <pubDate>Tue, 22 Sep 2026 23:52:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[How are we feeling about Opus 5.5 so far? What's the coolest thing you've seen someone do with it?]]></description>
-      <content:encoded><![CDATA[How are we feeling about Opus 5.5 so far? What's the coolest thing you've seen someone do with it?]]></content:encoded>
-    </item>
-    <item>
-      <title>Big model release today - I wrote about Claude Opus 5.5, GPT…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw5g6izoms2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw5g6izoms2n</guid>
-      <pubDate>Tue, 22 Sep 2026 23:50:44 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2026/Sep/22/...]]></description>
-      <content:encoded><![CDATA[Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2026/Sep/22/...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   iOS の設定アプリに、Apple のサービスを宣伝する「広告」が表示され、iCloud+ …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5ftlxp3626</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5ftlxp3626</guid>
-      <pubDate>Tue, 22 Sep 2026 23:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>iOS の設定アプリに、Apple のサービスを宣伝する「広告」が表示され、iCloud+ や Apple Music、AppleCare+ などの促販が行われるようになった。多くの広告は dismissed（非表示）ボタンがなく、消えるまで weeks か months かかる場合があり、ユーザーの不満が広がっている。Apple はサービス部門の成長を狙っての施策と説明する一方、バグの可能性も指摘されており、今後の対応が注目されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>iOS の設定アプリに、Apple のサービスを宣伝する「広告」が表示され、iCloud+ や Apple Music、AppleCare+ などの促販が行われるようになった。多くの広告は dismissed（非表示）ボタンがなく、消えるまで weeks か months かかる場合があり、ユーザーの不満が広がっている。Apple はサービス部門の成長を狙っての施策と説明する一方、バグの可能性も指摘されており、今後の対応が注目されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AppleはiOSに常駐する広告を追加しており、ユーザーを苛立たせている。 Apple has added persis…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5ft7enyk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw5ft7enyk2g</guid>
-      <pubDate>Tue, 22 Sep 2026 23:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AppleはiOSに常駐する広告を追加しており、ユーザーを苛立たせている。<br>Apple has added persistent 'ads' to iOS, and it's driving users crazy<br><br>🔺 574<br>💬 83<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AppleはiOSに常駐する広告を追加しており、ユーザーを苛立たせている。<br>Apple has added persistent 'ads' to iOS, and it's driving users crazy<br><br>🔺 574<br>💬 83<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>How are we feeling about GPT-6 Sol and Luna so far?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkbplzf27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jkbplzf27</guid>
-      <pubDate>Tue, 22 Sep 2026 22:59:53 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[How are we feeling about GPT-6 Sol and Luna so far?]]></description>
-      <content:encoded><![CDATA[How are we feeling about GPT-6 Sol and Luna so far?]]></content:encoded>
-    </item>
-    <item>
-      <title>I made my own visualizer for the major models we&apos;re using fo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jk3hu452q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jk3hu452q</guid>
-      <pubDate>Tue, 22 Sep 2026 22:56:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I made my own visualizer for the major models we're using for agents today.<br><br>All the data is from Artificial Analysis. I just cleaned up the visualizer and added linear/log toggles for costs.<br><br>Really shows how cheap Luna is. I feel like the log scale hides that.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggygh7ngp77mlazqo44iqvj3hzk7uap2pnroroqc37mkketzpqii" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I made my own visualizer for the major models we're using for agents today.<br><br>All the data is from Artificial Analysis. I just cleaned up the visualizer and added linear/log toggles for costs.<br><br>Really shows how cheap Luna is. I feel like the log scale hides that.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggygh7ngp77mlazqo44iqvj3hzk7uap2pnroroqc37mkketzpqii" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiggygh7ngp77mlazqo44iqvj3hzk7uap2pnroroqc37mkketzpqii" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>You will never guess what he is talking about here</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jjsug4w2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mw5jjsug4w2i</guid>
-      <pubDate>Tue, 22 Sep 2026 22:40:49 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[You will never guess what he is talking about here
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiclyvspz2mwnqvsbjkh22ialdxls4xtdb4diqxv6p6j2cgmnitu2m" alt="Quote Tweet: https://twitter.com/i/status/2102517547107291350" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[You will never guess what he is talking about here
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiclyvspz2mwnqvsbjkh22ialdxls4xtdb4diqxv6p6j2cgmnitu2m" alt="Quote Tweet: https://twitter.com/i/status/2102517547107291350" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiclyvspz2mwnqvsbjkh22ialdxls4xtdb4diqxv6p6j2cgmnitu2m" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
