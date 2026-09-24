@@ -5,8 +5,116 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:31:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のHuggingFaceトレンド  TaichuAI/ZDTaichu5.0-9B ZDTaichu5.0-9Bは、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbioomskm2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbioomskm2w</guid>
+      <pubDate>Thu, 24 Sep 2026 14:46:13 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>TaichuAI/ZDTaichu5.0-9B<br>ZDTaichu5.0-9Bは、汎用的な視覚理解、空間推論、エージェントのツール利用、エンボディドAI研究を目的としたマルチモーダル基盤モデルです。<br>Qwen3.5-9Bと言語モデルとC-RADIOv4-H視覚エンコーダを組み合わせており、テキスト、任意の解像度の画像、ビデオの入力に対応しています。<br>物体認識や文書解析、空間認識、複数画像や動画にわたる推論を可能にします。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>TaichuAI/ZDTaichu5.0-9B<br>ZDTaichu5.0-9Bは、汎用的な視覚理解、空間推論、エージェントのツール利用、エンボディドAI研究を目的としたマルチモーダル基盤モデルです。<br>Qwen3.5-9Bと言語モデルとC-RADIOv4-H視覚エンコーダを組み合わせており、テキスト、任意の解像度の画像、ビデオの入力に対応しています。<br>物体認識や文書解析、空間認識、複数画像や動画にわたる推論を可能にします。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bのモデルウェイトと設定フ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbimtz3x326</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbimtz3x326</guid>
+      <pubDate>Thu, 24 Sep 2026 14:45:11 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するリポジトリです。<br>画像や動画を理解できるネイティブな視覚言語モデルであり、コーディングや専門業務、研究、長期的なエージェントタスクにおいて高い能力を発揮します。<br>Hugging Face TransformersやvLLMなどのフレームワークと互換性があり、複雑な多段階タスクを信頼性高く遂行することを目的として設計された、展開しやすい高機能なモデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bのモデルウェイトと設定ファイルを提供するリポジトリです。<br>画像や動画を理解できるネイティブな視覚言語モデルであり、コーディングや専門業務、研究、長期的なエージェントタスクにおいて高い能力を発揮します。<br>Hugging Face TransformersやvLLMなどのフレームワークと互換性があり、複雑な多段階タスクを信頼性高く遂行することを目的として設計された、展開しやすい高機能なモデルです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  deepseek-ai/DeepSeek-V4.1-Flash DeepSeek…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbilikkut26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbilikkut26</guid>
+      <pubDate>Thu, 24 Sep 2026 14:44:26 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、最大100万トークンのコンテキストをサポートするマルチモーダルMoEモデルです。<br>Causal Encoder-DecoderやCompressed Sparse Attention 2、FP4 KVキャッシュなどの技術を用いてKVキャッシュを大幅に圧縮し、入力負荷の高いワークロードにおけるコスト効率を向上させることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>deepseek-ai/DeepSeek-V4.1-Flash<br>DeepSeek-V4.1-Flashは、最大100万トークンのコンテキストをサポートするマルチモーダルMoEモデルです。<br>Causal Encoder-DecoderやCompressed Sparse Attention 2、FP4 KVキャッシュなどの技術を用いてKVキャッシュを大幅に圧縮し、入力負荷の高いワークロードにおけるコスト効率を向上させることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  prism-ml/Ternary-Bonsai-2-27B-gguf Qwen3…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbige7mt62t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbige7mt62t</guid>
+      <pubDate>Thu, 24 Sep 2026 14:41:33 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>Qwen3.8-27Bベースの27Bクラス推論モデルBonsai 2 27BのGGUF形式ウェイトを提供します。<br>3値重みの採用により、高い知能を維持したままFP16比で約9.3倍に軽量化しており、llama.cppを通じてCUDA、Metal、CPU環境で効率的に動作させることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>prism-ml/Ternary-Bonsai-2-27B-gguf<br>Qwen3.8-27Bベースの27Bクラス推論モデルBonsai 2 27BのGGUF形式ウェイトを提供します。<br>3値重みの採用により、高い知能を維持したままFP16比で約9.3倍に軽量化しており、llama.cppを通じてCUDA、Metal、CPU環境で効率的に動作させることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  convaiinnovations/laya Layaは、多言語対応の非自己回帰…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbicjpcoy2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwbicjpcoy2w</guid>
+      <pubDate>Thu, 24 Sep 2026 14:39:25 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは、多言語対応の非自己回帰型意思決定モデルです。<br>テキストやJSONなどの入力と型付き質問に対し、100以上の言語で校正済み確率を伴う回答を高速に返します。<br>強化学習（RLCD）による訓練により誠実な確率報告を実現しており、テキストを生成しないためパースが不要でハルシネーションも発生しません。<br>分類、ルーティング、モデレーションなどに利用されます。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは、多言語対応の非自己回帰型意思決定モデルです。<br>テキストやJSONなどの入力と型付き質問に対し、100以上の言語で校正済み確率を伴う回答を高速に返します。<br>強化学習（RLCD）による訓練により誠実な確率報告を実現しており、テキストを生成しないためパースが不要でハルシネーションも発生しません。<br>分類、ルーティング、モデレーションなどに利用されます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Redditのネットワークセキュリティによりブロックされています。続行するにはRedditア…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwbfarc5eq2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwbfarc5eq2f</guid>
+      <pubDate>Thu, 24 Sep 2026 13:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Redditのネットワークセキュリティによりブロックされています。続行するにはRedditアカウントでログインするか、開発者トークンを使用してください。もしブロックが誤りだと思う場合はチケットを提出して対応を依頼してください。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Redditのネットワークセキュリティによりブロックされています。続行するにはRedditアカウントでログインするか、開発者トークンを使用してください。もしブロックが誤りだと思う場合はチケットを提出して対応を依頼してください。]]></content:encoded>
+    </item>
+    <item>
+      <title>メタは、メタAIグラスについて批判的な動画を、メタ社で撮影した後に削除した。 Meta takes down a cri…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwbfajcqq42x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwbfajcqq42x</guid>
+      <pubDate>Thu, 24 Sep 2026 13:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[メタは、メタAIグラスについて批判的な動画を、メタ社で撮影した後に削除した。<br>Meta takes down a critical video about meta AI Glasses after filming at Meta<br><br>🔺 373<br>💬 26<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[メタは、メタAIグラスについて批判的な動画を、メタ社で撮影した後に削除した。<br>Meta takes down a critical video about meta AI Glasses after filming at Meta<br><br>🔺 373<br>💬 26<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>✨ One model. Three ways to edit your code.  The new 3-in-1 I…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwbeknowev2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwbeknowev2x</guid>
+      <pubDate>Thu, 24 Sep 2026 13:32:21 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[✨ One model. Three ways to edit your code.<br><br>The new 3-in-1 Inline Suggestions model brings completions, Next Edit Suggestions, and longer-distance edits together in one model. <br><br>📖 Learn how we built it: code.visualstudio.com/blogs/2026/0... <br><br>Happy coding! 💙]]></description>
+      <content:encoded><![CDATA[✨ One model. Three ways to edit your code.<br><br>The new 3-in-1 Inline Suggestions model brings completions, Next Edit Suggestions, and longer-distance edits together in one model. <br><br>📖 Learn how we built it: code.visualstudio.com/blogs/2026/0... <br><br>Happy coding! 💙]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜  🔖 172 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwbede4ann2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwbede4ann2y</guid>
+      <pubDate>Thu, 24 Sep 2026 13:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜<br><br>🔖 172 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜<br><br>🔖 172 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生  🔖 182 ブック…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwbaybvj7u24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwbaybvj7u24</guid>
+      <pubDate>Thu, 24 Sep 2026 12:28:25 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生<br><br>🔖 182 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生<br><br>🔖 182 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   シアトル市議会は、買い物の価格を個人データで操作する「サーベイランス・プライシング」を禁じる…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6k7nw5d2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6k7nw5d2a</guid>
+      <pubDate>Thu, 24 Sep 2026 11:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>シアトル市議会は、買い物の価格を個人データで操作する「サーベイランス・プライシング」を禁じる「公正価格と透明性法」を可決し、市長の署名を待っている。これにより、閲覧履歴や居場所、推定収入など個人情報に基づく割引操作や価格変動が禁止され、透明性の向上と一部のプロファイリング制限が求められる。Consumer Reportsは技術支援・証言・署名支持の手伝いを行い、同様の対策は他州でも進んでいると説明している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>シアトル市議会は、買い物の価格を個人データで操作する「サーベイランス・プライシング」を禁じる「公正価格と透明性法」を可決し、市長の署名を待っている。これにより、閲覧履歴や居場所、推定収入など個人情報に基づく割引操作や価格変動が禁止され、透明性の向上と一部のプロファイリング制限が求められる。Consumer Reportsは技術支援・証言・署名支持の手伝いを行い、同様の対策は他州でも進んでいると説明している。]]></content:encoded>
+    </item>
+    <item>
+      <title>シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。 Seattle City Council…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6jyul2r2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6jyul2r2a</guid>
+      <pubDate>Thu, 24 Sep 2026 11:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。<br>Seattle City Council votes to ban surveillance pricing in sale of groceries<br><br>🔺 351<br>💬 24<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。<br>Seattle City Council votes to ban surveillance pricing in sale of groceries<br><br>🔺 351<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ  🔖 159 ブックマーク 💬 …</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwb2bgkycq2a</link>
@@ -377,117 +485,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Anthropic has no small models that are worth using right now.<br><br>OpenAI has no large models that are worth using right now.<br><br>Google has no models that are worth using right now.]]></description>
       <content:encoded><![CDATA[Anthropic has no small models that are worth using right now.<br><br>OpenAI has no large models that are worth using right now.<br><br>Google has no models that are worth using right now.]]></content:encoded>
-    </item>
-    <item>
-      <title>Seems to cost less than 1 cent per minute of generated audio…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw7mcuhzuc2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw7mcuhzuc2u</guid>
-      <pubDate>Wed, 23 Sep 2026 20:45:52 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Seems to cost less than 1 cent per minute of generated audio for Flash, and Flash-Lite is even cheaper than that]]></description>
-      <content:encoded><![CDATA[Seems to cost less than 1 cent per minute of generated audio for Flash, and Flash-Lite is even cheaper than that]]></content:encoded>
-    </item>
-    <item>
-      <title>The new Gemini 3.8 TTS models are super-cheap and can genera…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw7magyrwc2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw7magyrwc2i</guid>
-      <pubDate>Wed, 23 Sep 2026 20:44:30 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The new Gemini 3.8 TTS models are super-cheap and can generate conversations between multiple voices (from 2,000+, or you can clone your own) - I built a little playground UI for it, then had Claude knock up a script where two pelicans debate moving to Pacifica Pier simonwillison.net/2026/Sep/23/...]]></description>
-      <content:encoded><![CDATA[The new Gemini 3.8 TTS models are super-cheap and can generate conversations between multiple voices (from 2,000+, or you can clone your own) - I built a little playground UI for it, then had Claude knock up a script where two pelicans debate moving to Pacifica Pier simonwillison.net/2026/Sep/23/...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   カリフォルニアの水路に太陽光パネルを覆覆する「ソーラー・カナル」 Project Nexus…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7iviqbdh2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7iviqbdh2f</guid>
-      <pubDate>Wed, 23 Sep 2026 19:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>カリフォルニアの水路に太陽光パネルを覆覆する「ソーラー・カナル」 Project Nexusは、水の蒸発防止と再生可能エネルギーの同時確保を狙う実験で、涼化・水質改善などの副次効果も期待される。しかし、土地所有や運用主体の調整、都市部のスペース不足、点検・保守の難しさなど導入には多くの課題があり、州は最終報告を待ちつつ検討を続けている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>カリフォルニアの水路に太陽光パネルを覆覆する「ソーラー・カナル」 Project Nexusは、水の蒸発防止と再生可能エネルギーの同時確保を狙う実験で、涼化・水質改善などの副次効果も期待される。しかし、土地所有や運用主体の調整、都市部のスペース不足、点検・保守の難しさなど導入には多くの課題があり、州は最終報告を待ちつつ検討を続けている。]]></content:encoded>
-    </item>
-    <item>
-      <title>カリフォルニア州が灌漑用水路の上に設置されたソーラーパネルから学んでいること What California is le…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7iv4drw72o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7iv4drw72o</guid>
-      <pubDate>Wed, 23 Sep 2026 19:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[カリフォルニア州が灌漑用水路の上に設置されたソーラーパネルから学んでいること<br>What California is learning from solar panels built over irrigation canals<br><br>🔺 338<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[カリフォルニア州が灌漑用水路の上に設置されたソーラーパネルから学んでいること<br>What California is learning from solar panels built over irrigation canals<br><br>🔺 338<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 harry7557558 / spirula-studio ⭐ 630 (+86) 🗒 C++  Cross-v…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw7heopxz42r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mw7heopxz42r</guid>
-      <pubDate>Wed, 23 Sep 2026 19:17:24 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 harry7557558 / spirula-studio<br>⭐ 630 (+86)<br>🗒 C++<br><br>Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.]]></description>
-      <content:encoded><![CDATA[📦 harry7557558 / spirula-studio<br>⭐ 630 (+86)<br>🗒 C++<br><br>Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.]]></content:encoded>
-    </item>
-    <item>
-      <title>🔎 Explore everything that’s new in the full release notes: …</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g4cuywb2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g4cuywb2m</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:49 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🔎 Explore everything that’s new in the full release notes: <br><br>aka.ms/VSCode/139<br><br>Happy coding! 💙]]></description>
-      <content:encoded><![CDATA[🔎 Explore everything that’s new in the full release notes: <br><br>aka.ms/VSCode/139<br><br>Happy coding! 💙]]></content:encoded>
-    </item>
-    <item>
-      <title>⌨️ Keep typing without duplicate closing brackets.  When you…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g4bam4y2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g4bam4y2i</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:48 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[⌨️ Keep typing without duplicate closing brackets.<br><br>When you type an opening bracket, VS Code uses an existing matching closing bracket when available. Otherwise, it inserts one.]]></description>
-      <content:encoded><![CDATA[⌨️ Keep typing without duplicate closing brackets.<br><br>When you type an opening bracket, VS Code uses an existing matching closing bracket when available. Otherwise, it inserts one.]]></content:encoded>
-    </item>
-    <item>
-      <title>📄 Spot wrapped lines at a glance.  Word wrap indicators add…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3vdygk2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3vdygk2e</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:35 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📄 Spot wrapped lines at a glance.<br><br>Word wrap indicators add an arrow at the word wrap column when a line continues on the next visual line.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreig4k2cbe5uthmg37p73jsqujpf2kseae2k6yenhdfo5lnvy5fusai" alt="Screenshot showing word wrap indicators in the editor." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[📄 Spot wrapped lines at a glance.<br><br>Word wrap indicators add an arrow at the word wrap column when a line continues on the next visual line.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreig4k2cbe5uthmg37p73jsqujpf2kseae2k6yenhdfo5lnvy5fusai" alt="Screenshot showing word wrap indicators in the editor." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreig4k2cbe5uthmg37p73jsqujpf2kseae2k6yenhdfo5lnvy5fusai" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📊 Fit more agent sessions on screen without losing sight of…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3tnp522w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3tnp522w</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:33 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📊 Fit more agent sessions on screen without losing sight of active work.<br><br>Enable Compact View in the Agents Window. Rows expand when a session needs input or approval, and collapsed sessions summarize progress from collapsed chats.]]></description>
-      <content:encoded><![CDATA[📊 Fit more agent sessions on screen without losing sight of active work.<br><br>Enable Compact View in the Agents Window. Rows expand when a session needs input or approval, and collapsed sessions summarize progress from collapsed chats.]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 Run agent sessions in your project’s Dev Container from t…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3iegms2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3iegms2w</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:22 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[📦 Run agent sessions in your project’s Dev Container from the Agents Window, locally or on SSH, Tunnel, and WSL hosts.<br><br>Enable ⚙️ chat agentHost devContainer enabled. Then select Use Dev Container for the project. Docker is required on the remote host.]]></description>
-      <content:encoded><![CDATA[📦 Run agent sessions in your project’s Dev Container from the Agents Window, locally or on SSH, Tunnel, and WSL hosts.<br><br>Enable ⚙️ chat agentHost devContainer enabled. Then select Use Dev Container for the project. Docker is required on the remote host.]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 The latest VS Code release makes large agent session list…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3hmgzw24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mw7g3hmgzw24</guid>
-      <pubDate>Wed, 23 Sep 2026 18:54:20 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🚀 The latest VS Code release makes large agent session lists faster and easier to manage and lets you run agent sessions in Dev Containers, both locally and on remote hosts.<br><br>🧵 Here’s what’s new:<br><br>aka.ms/VSCode/139]]></description>
-      <content:encoded><![CDATA[🚀 The latest VS Code release makes large agent session lists faster and easier to manage and lets you run agent sessions in Dev Containers, both locally and on remote hosts.<br><br>🧵 Here’s what’s new:<br><br>aka.ms/VSCode/139]]></content:encoded>
-    </item>
-    <item>
-      <title>ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xjnhe2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mw7c6xjnhe2a</guid>
-      <pubDate>Wed, 23 Sep 2026 17:44:43 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2)]]></description>
-      <content:encoded><![CDATA[ローカルファイルの読み込みをテレmetry依存から分離する改善と、起動時の通知/明示的な挙動が求められている。 (2/2)]]></content:encoded>
     </item>
   </channel>
 </rss>
