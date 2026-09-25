@@ -5,8 +5,155 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:35:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 anthropics / skills ⭐ 1…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwe2uzmf4z2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwe2uzmf4z2c</guid>
+      <pubDate>Fri, 25 Sep 2026 15:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / skills<br>⭐ 178,078 (+155)<br>🗒 Python<br><br>Public repository for Agent Skills]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / skills<br>⭐ 178,078 (+155)<br>🗒 Python<br><br>Public repository for Agent Skills]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Altworld/Hemmingway-1 Hemmingway-1は、人間のよ…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe27pakco2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe27pakco2k</guid>
+      <pubDate>Fri, 25 Sep 2026 15:05:17 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>Hemmingway-1は、人間のように自然な文章を生成することを目的としたAIモデルです。<br>メールやメッセージなどの日常的なコミュニケーションに特化しており、AI特有の冗長な回答を避け、人間が書いたような簡潔で自然なテキストを提供することを目指しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>Hemmingway-1は、人間のように自然な文章を生成することを目的としたAIモデルです。<br>メールやメッセージなどの日常的なコミュニケーションに特化しており、AI特有の冗長な回答を避け、人間が書いたような簡潔で自然なテキストを提供することを目指しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Comfy-Org/Qwen-Image-2.1 ComfyUIで利用するために…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe25zx3bn27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe25zx3bn27</guid>
+      <pubDate>Fri, 25 Sep 2026 15:04:21 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供するリポジトリです。<br>プロンプト強化用モデルを含み、テキストからの画像生成や画像編集、背景削除などの機能を利用可能にします。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供するリポジトリです。<br>プロンプト強化用モデルを含み、テキストからの画像生成や画像編集、背景削除などの機能を利用可能にします。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  XingChen-AGI/Xing4.0-29B-A4B 中国電信人工知能技術有…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe24yy2iv2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe24yy2iv2b</guid>
+      <pubDate>Fri, 25 Sep 2026 15:03:46 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>中国電信人工知能技術有限公司が開発した大規模言語モデルXing4.0-29B-A4Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>合計290億パラメータ（有効40億）を持ち、最大512Kのコンテキスト長をサポートします。<br>Hugging Face Transformers形式により、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>中国電信人工知能技術有限公司が開発した大規模言語モデルXing4.0-29B-A4Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>合計290億パラメータ（有効40億）を持ち、最大512Kのコンテキスト長をサポートします。<br>Hugging Face Transformers形式により、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  abenzerps/Qwen-Image-2.1-Uncensored-GGUF…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzzcc2cm23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzzcc2cm23</guid>
+      <pubDate>Fri, 25 Sep 2026 15:01:42 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1を量子化したGGUF形式のモデルを提供し、ローカル環境で検閲なしの画像生成を行うことを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1を量子化したGGUF形式のモデルを提供し、ローカル環境で検閲なしの画像生成を行うことを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen-Image-2.1 Qwen-Image-2.1は、テキスト…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzuhkp2525</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzuhkp2525</guid>
+      <pubDate>Fri, 25 Sep 2026 14:59:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合して行うモデルです。<br>視覚生成コンポーネントに70億個のパラメータを持ち、生成品質、推論効率、汎用性のバランスを実現しています。<br>主な機能として、テキストからの画像生成、既存画像の編集、透過画像の生成が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合して行うモデルです。<br>視覚生成コンポーネントに70億個のパラメータを持ち、生成品質、推論効率、汎用性のバランスを実現しています。<br>主な機能として、テキストからの画像生成、既存画像の編集、透過画像の生成が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ  🔖 166 ブックマーク 💬 コメント …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdy5whadp26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdy5whadp26</guid>
+      <pubDate>Fri, 25 Sep 2026 14:28:30 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 derv82 / wifit3 ⭐ 688 (…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdxk6zzwz2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdxk6zzwz2c</guid>
+      <pubDate>Fri, 25 Sep 2026 14:17:28 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 derv82 / wifit3<br>⭐ 688 (+168)<br>🗒 Python<br><br>Wifite but USB-only &amp; cross-platform.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 derv82 / wifit3<br>⭐ 688 (+168)<br>🗒 Python<br><br>Wifite but USB-only &amp; cross-platform.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   DAWOは公共の価値と技術を結ぶ取り組みで、5つの主要目標としてデジタル自立性の強化、政府・…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdvpgy3ol2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdvpgy3ol2z</guid>
+      <pubDate>Fri, 25 Sep 2026 13:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DAWOは公共の価値と技術を結ぶ取り組みで、5つの主要目標としてデジタル自立性の強化、政府・社会の協力と知識共有の促進、セキュリティとデータ保護の確保、革新と効率的な働き方の推進、政府ITシステムの検証性向上を掲げる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DAWOは公共の価値と技術を結ぶ取り組みで、5つの主要目標としてデジタル自立性の強化、政府・社会の協力と知識共有の促進、セキュリティとデータ保護の確保、革新と効率的な働き方の推進、政府ITシステムの検証性向上を掲げる。]]></content:encoded>
+    </item>
+    <item>
+      <title>オランダ政府は、NixOSをベースにしたマイクロソフトの代替を構築している。 Dutch governments bui…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdvp42yup2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdvp42yup2u</guid>
+      <pubDate>Fri, 25 Sep 2026 13:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[オランダ政府は、NixOSをベースにしたマイクロソフトの代替を構築している。<br>Dutch governments builds alternative for Microsoft based on NixOS<br><br>🔺 542<br>💬 34<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[オランダ政府は、NixOSをベースにしたマイクロソフトの代替を構築している。<br>Dutch governments builds alternative for Microsoft based on NixOS<br><br>🔺 542<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】  🔖 1…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdusbf53e24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdusbf53e24</guid>
+      <pubDate>Fri, 25 Sep 2026 13:28:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 androoAGI / starnet ⭐ 2…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdu776mrw25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdu776mrw25</guid>
+      <pubDate>Fri, 25 Sep 2026 13:17:24 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 androoAGI / starnet<br>⭐ 292 (+113)<br>🗒 JavaScript<br><br>A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 androoAGI / starnet<br>⭐ 292 (+113)<br>🗒 JavaScript<br><br>A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 kelseyhightower / kuber…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdqwjguot2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwdqwjguot2i</guid>
+      <pubDate>Fri, 25 Sep 2026 12:17:55 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 kelseyhightower / kubernetes-the-hard-way<br>⭐ 50,015 (+105)<br><br>Bootstrap Kubernetes the hard way. No scripts.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 kelseyhightower / kubernetes-the-hard-way<br>⭐ 50,015 (+105)<br><br>Bootstrap Kubernetes the hard way. No scripts.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   トヨタは歴代ベストセラー「カローラ」の電動化モデルを準備中で、次世代カローラはデザイン・内装…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdoz4vprx2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdoz4vprx2s</guid>
+      <pubDate>Fri, 25 Sep 2026 11:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>トヨタは歴代ベストセラー「カローラ」の電動化モデルを準備中で、次世代カローラはデザイン・内装・プラットフォームを大幅刷新し、ガソリン・ハイブリッド・プラグインハイブリッド・EVの複数の電源トレインを用意する見込みです。EVは単一/二モータ構成で航続距離は少なくとも250マイルを想定、2027年登場予定で2028年モデル年となる見込みです。価格はガソリン版が約25,000ドル、ハイブリッド約27,000ドル、EV/PHEVは約30,000ドル前後と予想されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>トヨタは歴代ベストセラー「カローラ」の電動化モデルを準備中で、次世代カローラはデザイン・内装・プラットフォームを大幅刷新し、ガソリン・ハイブリッド・プラグインハイブリッド・EVの複数の電源トレインを用意する見込みです。EVは単一/二モータ構成で航続距離は少なくとも250マイルを想定、2027年登場予定で2028年モデル年となる見込みです。価格はガソリン版が約25,000ドル、ハイブリッド約27,000ドル、EV/PHEVは約30,000ドル前後と予想されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>トヨタはカローラを電動化している。 Toyota is taking the Corolla electric  🔺 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdoyrkbqe2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdoyrkbqe2i</guid>
+      <pubDate>Fri, 25 Sep 2026 11:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[トヨタはカローラを電動化している。<br>Toyota is taking the Corolla electric<br><br>🔺 348<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[トヨタはカローラを電動化している。<br>Toyota is taking the Corolla electric<br><br>🔺 348<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>It took a lot of effort, but I&apos;m finally managing to burn my…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdmtbtpsy2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdmtbtpsy2z</guid>
+      <pubDate>Fri, 25 Sep 2026 10:41:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[It took a lot of effort, but I'm finally managing to burn my usage down a bit :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6cov5gmickctjxxj4bhgkjoezpjwzwn5x4bngyv7q72vo2nvkoy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[It took a lot of effort, but I'm finally managing to burn my usage down a bit :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6cov5gmickctjxxj4bhgkjoezpjwzwn5x4bngyv7q72vo2nvkoy" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif6cov5gmickctjxxj4bhgkjoezpjwzwn5x4bngyv7q72vo2nvkoy" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Rails World 2026 オープニング・キーノート [動画] Rails World 2026 Opening …</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdic2igp62w</link>
@@ -332,165 +479,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[I'm getting increasingly tired of thinking about reasoning effort levels.<br><br>In the near future, models will reason as much or as little as needed, and we'll feel silly for exposing 5+ options in a dropdown.]]></description>
       <content:encoded><![CDATA[I'm getting increasingly tired of thinking about reasoning effort levels.<br><br>In the near future, models will reason as much or as little as needed, and we'll feel silly for exposing 5+ options in a dropdown.]]></content:encoded>
-    </item>
-    <item>
-      <title>@addyosmani Link to writeup: https://claude.dev/blog/getting…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhhpsz32a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhhpsz32a</guid>
-      <pubDate>Fri, 25 Sep 2026 00:35:05 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[@addyosmani Link to writeup: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/]]></description>
-      <content:encoded><![CDATA[@addyosmani Link to writeup: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $s…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwcj7im7va2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwcj7im7va2a</guid>
-      <pubDate>Fri, 25 Sep 2026 00:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 NVIDIA / Model-Optimizer ⭐ 3,886 (+22) 🗒 Python  A unifi…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcilylizd2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcilylizd2p</guid>
-      <pubDate>Fri, 25 Sep 2026 00:17:22 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 NVIDIA / Model-Optimizer<br>⭐ 3,886 (+22)<br>🗒 Python<br><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorR...]]></description>
-      <content:encoded><![CDATA[📦 NVIDIA / Model-Optimizer<br>⭐ 3,886 (+22)<br>🗒 Python<br><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorR...]]></content:encoded>
-    </item>
-    <item>
-      <title>My guide to maximizing success with Opus 5.5 is here :) shou…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisveb6b2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisveb6b2k</guid>
-      <pubDate>Fri, 25 Sep 2026 00:14:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[My guide to maximizing success with Opus 5.5 is here :) shoutout to @addyosmani for the awesome writeup! <br><br>Video: https://twitter.com/theo/status/2103276852618068458]]></description>
-      <content:encoded><![CDATA[My guide to maximizing success with Opus 5.5 is here :) shoutout to @addyosmani for the awesome writeup! <br><br>Video: https://twitter.com/theo/status/2103276852618068458]]></content:encoded>
-    </item>
-    <item>
-      <title>Anybody have a VS Code fork with all of the extra features a…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisoghgb2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisoghgb2w</guid>
-      <pubDate>Fri, 25 Sep 2026 00:10:46 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Anybody have a VS Code fork with all of the extra features and AI stuff removed? <br><br>I want a minimal editor that doesn't spam me with requests to use a mediocre agent when I just want to quickly look at some code changes.]]></description>
-      <content:encoded><![CDATA[Anybody have a VS Code fork with all of the extra features and AI stuff removed? <br><br>I want a minimal editor that doesn't spam me with requests to use a mediocre agent when I just want to quickly look at some code changes.]]></content:encoded>
-    </item>
-    <item>
-      <title>Opus 5.5 scores higher with xhigh than it does with max.  I …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisj4e2r2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisj4e2r2w</guid>
-      <pubDate>Fri, 25 Sep 2026 00:04:30 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Opus 5.5 scores higher with xhigh than it does with max.<br><br>I HIGHLY recommend avoiding "max" reasoning, it will hurt more than it will help with this model.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" alt="Quote Tweet: https://twitter.com/i/status/2103265956479070260" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Opus 5.5 scores higher with xhigh than it does with max.<br><br>I HIGHLY recommend avoiding "max" reasoning, it will hurt more than it will help with this model.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" alt="Quote Tweet: https://twitter.com/i/status/2103265956479070260" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgreixrk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgreixrk2x</guid>
-      <pubDate>Thu, 24 Sep 2026 23:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説明。ローカル環境で動作し、複数フォントの混合は自動的にリガチャを利用して合成され、ライセンスには注意が必要だが追加条件は課さない。商用利用時は元フォントのライセンスを確認することが推奨される。問い合わせ先は hello@mitpit.com。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説明。ローカル環境で動作し、複数フォントの混合は自動的にリガチャを利用して合成され、ライセンスには注意が必要だが追加条件は課さない。商用利用時は元フォントのライセンスを確認することが推奨される。問い合わせ先は hello@mitpit.com。]]></content:encoded>
-    </item>
-    <item>
-      <title>Show HN：Times New Bastard のような呪われたフォントを作る Show HN: Make curs…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgr723yy2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgr723yy2b</guid>
-      <pubDate>Thu, 24 Sep 2026 23:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Show HN：Times New Bastard のような呪われたフォントを作る<br>Show HN: Make cursed fonts like Times New Bastard<br><br>🔺 406<br>💬 40<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Show HN：Times New Bastard のような呪われたフォントを作る<br>Show HN: Make cursed fonts like Times New Bastard<br><br>🔺 406<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>&quot;cost&quot; breakdown (I have subs for all of these)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcis6hmqi2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcis6hmqi2v</guid>
-      <pubDate>Thu, 24 Sep 2026 23:19:02 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA["cost" breakdown (I have subs for all of these)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA["cost" breakdown (I have subs for all of these)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>It&apos;s insane how much better the $200 Claude Code plan is com…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcirvwtcl2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcirvwtcl2r</guid>
-      <pubDate>Thu, 24 Sep 2026 23:00:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[It's insane how much better the $200 Claude Code plan is compared to Codex right now.<br><br>Just a few weeks ago, it was the other way around. Excited to see how OpenAI fights back.]]></description>
-      <content:encoded><![CDATA[It's insane how much better the $200 Claude Code plan is compared to Codex right now.<br><br>Just a few weeks ago, it was the other way around. Excited to see how OpenAI fights back.]]></content:encoded>
-    </item>
-    <item>
-      <title>I stand behind my stance here.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc56bf4a2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc56bf4a2a</guid>
-      <pubDate>Thu, 24 Sep 2026 22:13:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I stand behind my stance here.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib77shp7ieukt5jym4vqx3zoqp7lnjinkcjh727lfso5tf2c6ovgm" alt="Quote Tweet: https://twitter.com/i/status/2103244992806604892" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I stand behind my stance here.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib77shp7ieukt5jym4vqx3zoqp7lnjinkcjh727lfso5tf2c6ovgm" alt="Quote Tweet: https://twitter.com/i/status/2103244992806604892" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib77shp7ieukt5jym4vqx3zoqp7lnjinkcjh727lfso5tf2c6ovgm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The PRs I make with AI are significantly better than the one…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc4rgrk32d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc4rgrk32d</guid>
-      <pubDate>Thu, 24 Sep 2026 22:10:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The PRs I make with AI are significantly better than the ones I used to make by hand. The future is awesome.]]></description>
-      <content:encoded><![CDATA[The PRs I make with AI are significantly better than the ones I used to make by hand. The future is awesome.]]></content:encoded>
-    </item>
-    <item>
-      <title>Opus 5.5 just filed a pull request that changes the streamin…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc4ngrbc22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc4ngrbc22</guid>
-      <pubDate>Thu, 24 Sep 2026 22:10:22 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Opus 5.5 just filed a pull request that changes the streaming behavior in T3 code. <br><br>It's so cool that I can send off a prompt with a vague idea of what I want, and the result is a ready-to-merge pull request with a video demo of the changes directly in the PR.]]></description>
-      <content:encoded><![CDATA[Opus 5.5 just filed a pull request that changes the streaming behavior in T3 code. <br><br>It's so cool that I can send off a prompt with a vague idea of what I want, and the result is a ready-to-merge pull request with a video demo of the changes directly in the PR.]]></content:encoded>
-    </item>
-    <item>
-      <title>Astra put Fable at the bottom 💀</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc42kt3s22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc42kt3s22</guid>
-      <pubDate>Thu, 24 Sep 2026 22:03:52 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Astra put Fable at the bottom 💀
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibqdzlpqk2mn76nen5dgnjz3qdzaplh3yspl5nts6n2wq2cy6gfkq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Astra put Fable at the bottom 💀
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibqdzlpqk2mn76nen5dgnjz3qdzaplh3yspl5nts6n2wq2cy6gfkq" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibqdzlpqk2mn76nen5dgnjz3qdzaplh3yspl5nts6n2wq2cy6gfkq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>These rankings were decided on by a Fable panel.  I have Ast…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc3ustbm2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc3ustbm2v</guid>
-      <pubDate>Thu, 24 Sep 2026 22:00:03 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[These rankings were decided on by a Fable panel.<br><br>I have Astra generating a similar report for the audits, will share momentarily :)]]></description>
-      <content:encoded><![CDATA[These rankings were decided on by a Fable panel.<br><br>I have Astra generating a similar report for the audits, will share momentarily :)]]></content:encoded>
-    </item>
-    <item>
-      <title>Had all the fancy new models do a big audit for me, then set…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc3per2q2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc3per2q2n</guid>
-      <pubDate>Thu, 24 Sep 2026 21:59:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Had all the fancy new models do a big audit for me, then set up a judge panel to rank the quality of their audits.<br><br>Astra slaughtered. Opus and Fable close behind.<br><br>Grok 4.7 and GPT-6 Sol were WAY behind.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia4rpxsdypwtcenjhfa5p63ljv7wx2ng3a5iqasjqkhntclu43h2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Had all the fancy new models do a big audit for me, then set up a judge panel to rank the quality of their audits.<br><br>Astra slaughtered. Opus and Fable close behind.<br><br>Grok 4.7 and GPT-6 Sol were WAY behind.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia4rpxsdypwtcenjhfa5p63ljv7wx2ng3a5iqasjqkhntclu43h2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreia4rpxsdypwtcenjhfa5p63ljv7wx2ng3a5iqasjqkhntclu43h2y" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
