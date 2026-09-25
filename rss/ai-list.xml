@@ -5,8 +5,122 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:56:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>fwiw, Opus is pretty good at using as much or as little as n…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhrqzol2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhrqzol2v</guid>
+      <pubDate>Fri, 25 Sep 2026 00:45:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[fwiw, Opus is pretty good at using as much or as little as needed. Max reasoning effort sucks because it sets a minimum amount, which is not good.<br><br>xhigh seems pretty solid. It won't over-reason if it doesn't have to, but can scale up reasoning when needed]]></description>
+      <content:encoded><![CDATA[fwiw, Opus is pretty good at using as much or as little as needed. Max reasoning effort sucks because it sets a minimum amount, which is not good.<br><br>xhigh seems pretty solid. It won't over-reason if it doesn't have to, but can scale up reasoning when needed]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;m getting increasingly tired of thinking about reasoning e…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhljiyp2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhljiyp2t</guid>
+      <pubDate>Fri, 25 Sep 2026 00:36:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I'm getting increasingly tired of thinking about reasoning effort levels.<br><br>In the near future, models will reason as much or as little as needed, and we'll feel silly for exposing 5+ options in a dropdown.]]></description>
+      <content:encoded><![CDATA[I'm getting increasingly tired of thinking about reasoning effort levels.<br><br>In the near future, models will reason as much or as little as needed, and we'll feel silly for exposing 5+ options in a dropdown.]]></content:encoded>
+    </item>
+    <item>
+      <title>@addyosmani Link to writeup: https://claude.dev/blog/getting…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhhpsz32a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwckhhpsz32a</guid>
+      <pubDate>Fri, 25 Sep 2026 00:35:05 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[@addyosmani Link to writeup: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/]]></description>
+      <content:encoded><![CDATA[@addyosmani Link to writeup: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $s…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwcj7im7va2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwcj7im7va2a</guid>
+      <pubDate>Fri, 25 Sep 2026 00:28:17 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 NVIDIA / Model-Optimizer ⭐ 3,886 (+22) 🗒 Python  A unifi…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcilylizd2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcilylizd2p</guid>
+      <pubDate>Fri, 25 Sep 2026 00:17:22 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 NVIDIA / Model-Optimizer<br>⭐ 3,886 (+22)<br>🗒 Python<br><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorR...]]></description>
+      <content:encoded><![CDATA[📦 NVIDIA / Model-Optimizer<br>⭐ 3,886 (+22)<br>🗒 Python<br><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorR...]]></content:encoded>
+    </item>
+    <item>
+      <title>My guide to maximizing success with Opus 5.5 is here :) shou…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisveb6b2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisveb6b2k</guid>
+      <pubDate>Fri, 25 Sep 2026 00:14:13 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[My guide to maximizing success with Opus 5.5 is here :) shoutout to @addyosmani for the awesome writeup! <br><br>Video: https://twitter.com/theo/status/2103276852618068458]]></description>
+      <content:encoded><![CDATA[My guide to maximizing success with Opus 5.5 is here :) shoutout to @addyosmani for the awesome writeup! <br><br>Video: https://twitter.com/theo/status/2103276852618068458]]></content:encoded>
+    </item>
+    <item>
+      <title>Anybody have a VS Code fork with all of the extra features a…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisoghgb2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisoghgb2w</guid>
+      <pubDate>Fri, 25 Sep 2026 00:10:46 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Anybody have a VS Code fork with all of the extra features and AI stuff removed? <br><br>I want a minimal editor that doesn't spam me with requests to use a mediocre agent when I just want to quickly look at some code changes.]]></description>
+      <content:encoded><![CDATA[Anybody have a VS Code fork with all of the extra features and AI stuff removed? <br><br>I want a minimal editor that doesn't spam me with requests to use a mediocre agent when I just want to quickly look at some code changes.]]></content:encoded>
+    </item>
+    <item>
+      <title>Opus 5.5 scores higher with xhigh than it does with max.  I …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisj4e2r2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcisj4e2r2w</guid>
+      <pubDate>Fri, 25 Sep 2026 00:04:30 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Opus 5.5 scores higher with xhigh than it does with max.<br><br>I HIGHLY recommend avoiding "max" reasoning, it will hurt more than it will help with this model.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" alt="Quote Tweet: https://twitter.com/i/status/2103265956479070260" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Opus 5.5 scores higher with xhigh than it does with max.<br><br>I HIGHLY recommend avoiding "max" reasoning, it will hurt more than it will help with this model.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" alt="Quote Tweet: https://twitter.com/i/status/2103265956479070260" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidqv6sysasffoyh2meilalbgsirs56uzihlsvbdqavftnyd5jewey" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgreixrk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgreixrk2x</guid>
+      <pubDate>Thu, 24 Sep 2026 23:44:35 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説明。ローカル環境で動作し、複数フォントの混合は自動的にリガチャを利用して合成され、ライセンスには注意が必要だが追加条件は課さない。商用利用時は元フォントのライセンスを確認することが推奨される。問い合わせ先は hello@mitpit.com。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>バスタード字体をブラウザ上で混ぜて拡大縮小・位置調整できるツール「Bastardica」の説明。ローカル環境で動作し、複数フォントの混合は自動的にリガチャを利用して合成され、ライセンスには注意が必要だが追加条件は課さない。商用利用時は元フォントのライセンスを確認することが推奨される。問い合わせ先は hello@mitpit.com。]]></content:encoded>
+    </item>
+    <item>
+      <title>Show HN：Times New Bastard のような呪われたフォントを作る Show HN: Make curs…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgr723yy2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcgr723yy2b</guid>
+      <pubDate>Thu, 24 Sep 2026 23:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Show HN：Times New Bastard のような呪われたフォントを作る<br>Show HN: Make cursed fonts like Times New Bastard<br><br>🔺 406<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Show HN：Times New Bastard のような呪われたフォントを作る<br>Show HN: Make cursed fonts like Times New Bastard<br><br>🔺 406<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>&quot;cost&quot; breakdown (I have subs for all of these)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcis6hmqi2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcis6hmqi2v</guid>
+      <pubDate>Thu, 24 Sep 2026 23:19:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA["cost" breakdown (I have subs for all of these)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA["cost" breakdown (I have subs for all of these)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiepedib6hc36k6p2dvt6ddoc4rdze6755myjxjrxqcul6hei5zoue" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>It&apos;s insane how much better the $200 Claude Code plan is com…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcirvwtcl2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcirvwtcl2r</guid>
+      <pubDate>Thu, 24 Sep 2026 23:00:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[It's insane how much better the $200 Claude Code plan is compared to Codex right now.<br><br>Just a few weeks ago, it was the other way around. Excited to see how OpenAI fights back.]]></description>
+      <content:encoded><![CDATA[It's insane how much better the $200 Claude Code plan is compared to Codex right now.<br><br>Just a few weeks ago, it was the other way around. Excited to see how OpenAI fights back.]]></content:encoded>
+    </item>
     <item>
       <title>I stand behind my stance here.</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcc56bf4a2a</link>
@@ -365,117 +479,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>シアトル市議会は、買い物の価格を個人データで操作する「サーベイランス・プライシング」を禁じる「公正価格と透明性法」を可決し、市長の署名を待っている。これにより、閲覧履歴や居場所、推定収入など個人情報に基づく割引操作や価格変動が禁止され、透明性の向上と一部のプロファイリング制限が求められる。Consumer Reportsは技術支援・証言・署名支持の手伝いを行い、同様の対策は他州でも進んでいると説明している。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>シアトル市議会は、買い物の価格を個人データで操作する「サーベイランス・プライシング」を禁じる「公正価格と透明性法」を可決し、市長の署名を待っている。これにより、閲覧履歴や居場所、推定収入など個人情報に基づく割引操作や価格変動が禁止され、透明性の向上と一部のプロファイリング制限が求められる。Consumer Reportsは技術支援・証言・署名支持の手伝いを行い、同様の対策は他州でも進んでいると説明している。]]></content:encoded>
-    </item>
-    <item>
-      <title>シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。 Seattle City Council…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6jyul2r2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwb6jyul2r2a</guid>
-      <pubDate>Thu, 24 Sep 2026 11:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。<br>Seattle City Council votes to ban surveillance pricing in sale of groceries<br><br>🔺 351<br>💬 24<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[シアトル市議会は、食料品の販売における監視型価格設定を禁止することを可決した。<br>Seattle City Council votes to ban surveillance pricing in sale of groceries<br><br>🔺 351<br>💬 24<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ  🔖 159 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwb2bgkycq2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwb2bgkycq2a</guid>
-      <pubDate>Thu, 24 Sep 2026 10:28:16 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   このサイトは、分析や広告用のクッキーなど、私たちと第三者のオンライン追跡技術を通じて個人デー…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwaxtckea42p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwaxtckea42p</guid>
-      <pubDate>Thu, 24 Sep 2026 09:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>このサイトは、分析や広告用のクッキーなど、私たちと第三者のオンライン追跡技術を通じて個人データを処理します。個人データやクッキーの取り扱い方については、サイト下部のプライバシーポリシーおよびクアルコムのクッキーポリシーを確認してください。第三者パートナーへの共有を避けたい場合は「Cookie Settings」から設定を変更するか、サイト下部の「Do Not Sell or Share My Personal Information」リンクでいつでもクッキープレファレンスを更新できます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>このサイトは、分析や広告用のクッキーなど、私たちと第三者のオンライン追跡技術を通じて個人データを処理します。個人データやクッキーの取り扱い方については、サイト下部のプライバシーポリシーおよびクアルコムのクッキーポリシーを確認してください。第三者パートナーへの共有を避けたい場合は「Cookie Settings」から設定を変更するか、サイト下部の「Do Not Sell or Share My Personal Information」リンクでいつでもクッキープレファレンスを更新できます。]]></content:encoded>
-    </item>
-    <item>
-      <title>Snapdragon X2シリーズにLinuxサポートが追加される。 Linux support is coming t…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwaxsxfk4v2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwaxsxfk4v2o</guid>
-      <pubDate>Thu, 24 Sep 2026 09:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Snapdragon X2シリーズにLinuxサポートが追加される。<br>Linux support is coming to Snapdragon X2 Series<br><br>🔺 399<br>💬 44<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Snapdragon X2シリーズにLinuxサポートが追加される。<br>Linux support is coming to Snapdragon X2 Series<br><br>🔺 399<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Metaの新型VRグラスは、軽量で強力な革命的デザインを特徴とし、プレミアムなマグネシウム合…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwar4xl7cp2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwar4xl7cp2p</guid>
-      <pubDate>Thu, 24 Sep 2026 07:44:42 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Metaの新型VRグラスは、軽量で強力な革命的デザインを特徴とし、プレミアムなマグネシウム合金製で重量はわずか100グラム。2027年春発売予定で価格は1299ドル。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Metaの新型VRグラスは、軽量で強力な革命的デザインを特徴とし、プレミアムなマグネシウム合金製で重量はわずか100グラム。2027年春発売予定で価格は1299ドル。]]></content:encoded>
-    </item>
-    <item>
-      <title>メタのVRグラス Meta VR Glasses  🔺 371 💬 81 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwar4oo34e2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwar4oo34e2u</guid>
-      <pubDate>Thu, 24 Sep 2026 07:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[メタのVRグラス<br>Meta VR Glasses<br><br>🔺 371<br>💬 81<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[メタのVRグラス<br>Meta VR Glasses<br><br>🔺 371<br>💬 81<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ネットワークセキュリティによりアクセスがブロックされています。引き続き利用するにはReddi…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwakg6kr6j2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwakg6kr6j2w</guid>
-      <pubDate>Thu, 24 Sep 2026 05:44:35 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ネットワークセキュリティによりアクセスがブロックされています。引き続き利用するにはRedditアカウントでログインするか、開発者トークンを使用してください。誤ってブロックされたと思われる場合はチケットを提出して調査を依頼できます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ネットワークセキュリティによりアクセスがブロックされています。引き続き利用するにはRedditアカウントでログインするか、開発者トークンを使用してください。誤ってブロックされたと思われる場合はチケットを提出して調査を依頼できます。]]></content:encoded>
-    </item>
-    <item>
-      <title>解約しようとすると、Grammarlyはあなたのすべてのユーザーに対して取り乱したメッセージを送信します。 Gramma…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwakfyqryz2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwakfyqryz2w</guid>
-      <pubDate>Thu, 24 Sep 2026 05:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[解約しようとすると、Grammarlyはあなたのすべてのユーザーに対して取り乱したメッセージを送信します。<br>Grammarly will send unhinged messages to all your users if you try to cancel<br><br>🔺 364<br>💬 29<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[解約しようとすると、Grammarlyはあなたのすべてのユーザーに対して取り乱したメッセージを送信します。<br>Grammarly will send unhinged messages to all your users if you try to cancel<br><br>🔺 364<br>💬 29<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic was so mad about people distilling Fable that they…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwalm54rul2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwalm54rul2w</guid>
-      <pubDate>Thu, 24 Sep 2026 05:42:49 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Anthropic was so mad about people distilling Fable that they decided to do it themselves with Opus 5.5]]></description>
-      <content:encoded><![CDATA[Anthropic was so mad about people distilling Fable that they decided to do it themselves with Opus 5.5]]></content:encoded>
-    </item>
-    <item>
-      <title>At least half of all corporations are going to screw themsel…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwajwu2thb2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwajwu2thb2r</guid>
-      <pubDate>Thu, 24 Sep 2026 05:30:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[At least half of all corporations are going to screw themselves by being too strict about token spend.<br><br>Great opportunity to run laps around these companies and steal their customers :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiesb5wp4qxm75nw3zk4ujnxexe2v4bmmipcoprhl6oay3eecihypy" alt="Quote Tweet: https://twitter.com/i/status/2102984358231785883" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[At least half of all corporations are going to screw themselves by being too strict about token spend.<br><br>Great opportunity to run laps around these companies and steal their customers :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiesb5wp4qxm75nw3zk4ujnxexe2v4bmmipcoprhl6oay3eecihypy" alt="Quote Tweet: https://twitter.com/i/status/2102984358231785883" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiesb5wp4qxm75nw3zk4ujnxexe2v4bmmipcoprhl6oay3eecihypy" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   リーダーは「詳しい原因」よりも「何を変えるか」を重要視するべきであり、原因説明よりも再発を防…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwadpn7wwg2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwadpn7wwg2s</guid>
-      <pubDate>Thu, 24 Sep 2026 03:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>リーダーは「詳しい原因」よりも「何を変えるか」を重要視するべきであり、原因説明よりも再発を防ぐ体系的な変更が組織を前進させると述べている。良いポストモーテムは「同じ状況が起きたとき、別の結果を生むには何が必要か」を検討するべきで、人ではなくシステムの改善に焦点を当てるべきだと提案している。信頼を示しつつ、詳細を問わず「私たちは何を変えるのか」を問う姿勢がリーダーの適切な対応である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>リーダーは「詳しい原因」よりも「何を変えるか」を重要視するべきであり、原因説明よりも再発を防ぐ体系的な変更が組織を前進させると述べている。良いポストモーテムは「同じ状況が起きたとき、別の結果を生むには何が必要か」を検討するべきで、人ではなくシステムの改善に焦点を当てるべきだと提案している。信頼を示しつつ、詳細を問わず「私たちは何を変えるのか」を問う姿勢がリーダーの適切な対応である。]]></content:encoded>
-    </item>
-    <item>
-      <title>詳しい情報は不要です。 I don&apos;t want the details  🔺 375 💬 80 🔗 HN Pos…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwadpgzwss2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwadpgzwss2i</guid>
-      <pubDate>Thu, 24 Sep 2026 03:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[詳しい情報は不要です。<br>I don't want the details<br><br>🔺 375<br>💬 80<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[詳しい情報は不要です。<br>I don't want the details<br><br>🔺 375<br>💬 80<br>🔗 HN Post | Article]]></content:encoded>
     </item>
   </channel>
 </rss>
