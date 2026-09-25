@@ -5,8 +5,191 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:51:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>This is a bad idea</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwetfcwvzm2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwetfcwvzm2z</guid>
+      <pubDate>Fri, 25 Sep 2026 22:32:20 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[This is a bad idea
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic56cvkg7rxhtuh5tw3pozyndwyotk5llusrma6evwvoogtwlqxhe" alt="Quote Tweet: https://twitter.com/i/status/2103610898690855161" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[This is a bad idea
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic56cvkg7rxhtuh5tw3pozyndwyotk5llusrma6evwvoogtwlqxhe" alt="Quote Tweet: https://twitter.com/i/status/2103610898690855161" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic56cvkg7rxhtuh5tw3pozyndwyotk5llusrma6evwvoogtwlqxhe" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📦 shy3130 / tick-stock-panel ⭐ 5,034 (+31) 🗒 Python  TSP自托…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwese344bc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwese344bc2q</guid>
+      <pubDate>Fri, 25 Sep 2026 22:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 shy3130 / tick-stock-panel<br>⭐ 5,034 (+31)<br>🗒 Python<br><br>TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源]]></description>
+      <content:encoded><![CDATA[📦 shy3130 / tick-stock-panel<br>⭐ 5,034 (+31)<br>🗒 Python<br><br>TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源]]></content:encoded>
+    </item>
+    <item>
+      <title>Goにおけるプラットフォーム非依存の SIMD Platform-independent SIMD in Go  🔺 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mweqjjipiy2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mweqjjipiy2w</guid>
+      <pubDate>Fri, 25 Sep 2026 21:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Goにおけるプラットフォーム非依存の SIMD<br>Platform-independent SIMD in Go<br><br>🔺 326<br>💬 22<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Goにおけるプラットフォーム非依存の SIMD<br>Platform-independent SIMD in Go<br><br>🔺 326<br>💬 22<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 anthropics / claude-plugins-official ⭐ 36,750 (+62) 🗒 Py…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mweoyo5hnx2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mweoyo5hnx2e</guid>
+      <pubDate>Fri, 25 Sep 2026 21:17:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 anthropics / claude-plugins-official<br>⭐ 36,750 (+62)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></description>
+      <content:encoded><![CDATA[📦 anthropics / claude-plugins-official<br>⭐ 36,750 (+62)<br>🗒 Python<br><br>Official, Anthropic-managed directory of high quality Claude Code Plugins.]]></content:encoded>
+    </item>
+    <item>
+      <title>The tools I want to send prompts in are different from the t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweogczvx72l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweogczvx72l</guid>
+      <pubDate>Fri, 25 Sep 2026 19:45:23 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The tools I want to send prompts in are different from the tools I want to use traditionally.<br><br>I don't want to send a prompt in apps I use "without" AI.]]></description>
+      <content:encoded><![CDATA[The tools I want to send prompts in are different from the tools I want to use traditionally.<br><br>I don't want to send a prompt in apps I use "without" AI.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   サムスンの冷蔵庫のソフト更新後に電源と画面に異常が発生するトラブルが多数報告され、利用者は更…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwejthpoxy2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwejthpoxy2l</guid>
+      <pubDate>Fri, 25 Sep 2026 19:44:46 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>サムスンの冷蔵庫のソフト更新後に電源と画面に異常が発生するトラブルが多数報告され、利用者は更新を避けたいとの声が相次いでいる。サポート体制の遅延や部品不足の可能性も指摘され、公式は緊急対応を進めると説明しつつ、アップデートを推奨しない旨を強調した。なお、一部ユーザーは「更新するな」と怒りの声を上げている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>サムスンの冷蔵庫のソフト更新後に電源と画面に異常が発生するトラブルが多数報告され、利用者は更新を避けたいとの声が相次いでいる。サポート体制の遅延や部品不足の可能性も指摘され、公式は緊急対応を進めると説明しつつ、アップデートを推奨しない旨を強調した。なお、一部ユーザーは「更新するな」と怒りの声を上げている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Manually turned off all the AI features. Survived approximat…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweog6j6eh2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweog6j6eh2r</guid>
+      <pubDate>Fri, 25 Sep 2026 19:44:36 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Manually turned off all the AI features. Survived approximately five minutes without autocomplete.<br><br>Realizing now that what I want isn't "removal of AI", it's removal of UI clutter and prompt boxes.]]></description>
+      <content:encoded><![CDATA[Manually turned off all the AI features. Survived approximately five minutes without autocomplete.<br><br>Realizing now that what I want isn't "removal of AI", it's removal of UI clutter and prompt boxes.]]></content:encoded>
+    </item>
+    <item>
+      <title>ファームウェア更新後、サムスン製スマート冷蔵庫が使えなくなり、所有者は腐った食べ物を嘆く。 Owners mourn s…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwejt2junj2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwejt2junj2z</guid>
+      <pubDate>Fri, 25 Sep 2026 19:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ファームウェア更新後、サムスン製スマート冷蔵庫が使えなくなり、所有者は腐った食べ物を嘆く。<br>Owners mourn spoiled food after firmware update bricks Samsung smart fridges<br><br>🔺 311<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ファームウェア更新後、サムスン製スマート冷蔵庫が使えなくなり、所有者は腐った食べ物を嘆く。<br>Owners mourn spoiled food after firmware update bricks Samsung smart fridges<br><br>🔺 311<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>lmao</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofw325t2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofw325t2f</guid>
+      <pubDate>Fri, 25 Sep 2026 19:33:53 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[lmao
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiewyfwnditnirrw7nxncbf25k5hx7d4lfyvxs543cq75vwoq6yxxa" alt="Quote Tweet: https://twitter.com/i/status/2103479340423848019" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[lmao
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiewyfwnditnirrw7nxncbf25k5hx7d4lfyvxs543cq75vwoq6yxxa" alt="Quote Tweet: https://twitter.com/i/status/2103479340423848019" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiewyfwnditnirrw7nxncbf25k5hx7d4lfyvxs543cq75vwoq6yxxa" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I wouldn&apos;t overread this data. There&apos;s a lot of other factor…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofhmg4p2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofhmg4p2r</guid>
+      <pubDate>Fri, 25 Sep 2026 19:31:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I wouldn't overread this data. There's a lot of other factors that aren't really measurable in analytics, but I would comfortably say that the payouts will be roughly the same as they were before.]]></description>
+      <content:encoded><![CDATA[I wouldn't overread this data. There's a lot of other factors that aren't really measurable in analytics, but I would comfortably say that the payouts will be roughly the same as they were before.]]></content:encoded>
+    </item>
+    <item>
+      <title>Here&apos;s my impressions per pay period from verified users. On…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofdqeyb2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweofdqeyb2k</guid>
+      <pubDate>Fri, 25 Sep 2026 19:31:54 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Here's my impressions per pay period from verified users. Only had a slight dip from last pay period to this one, but the actual payout is meaningfully lower.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaf6l2agdt6u7ktojlyguwkjgkxilzmuq4lymykky5vr4ss2dunp4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Here's my impressions per pay period from verified users. Only had a slight dip from last pay period to this one, but the actual payout is meaningfully lower.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaf6l2agdt6u7ktojlyguwkjgkxilzmuq4lymykky5vr4ss2dunp4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaf6l2agdt6u7ktojlyguwkjgkxilzmuq4lymykky5vr4ss2dunp4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>First payout from the Original Content Rewards program. Seem…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweof3ef772r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweof3ef772r</guid>
+      <pubDate>Fri, 25 Sep 2026 19:30:10 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[First payout from the Original Content Rewards program. Seems to be roughly where I'd expect it?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicdin7xrqrnffahii6py6hxdpkmp7ybgqa4q4um3xerezfunqbx2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[First payout from the Original Content Rewards program. Seems to be roughly where I'd expect it?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicdin7xrqrnffahii6py6hxdpkmp7ybgqa4q4um3xerezfunqbx2y" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicdin7xrqrnffahii6py6hxdpkmp7ybgqa4q4um3xerezfunqbx2y" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Best part? All of this was in ~1 weekly limit. Still have ye…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoevinxz2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoevinxz2k</guid>
+      <pubDate>Fri, 25 Sep 2026 18:53:12 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Best part? All of this was in ~1 weekly limit. Still have yet to hit limits on any of my accounts
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemmic6xvowekydvkk62m2rbz4dctk5cfzulosbkgtdgcfx7ypk2m" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Best part? All of this was in ~1 weekly limit. Still have yet to hit limits on any of my accounts
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemmic6xvowekydvkk62m2rbz4dctk5cfzulosbkgtdgcfx7ypk2m" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiemmic6xvowekydvkk62m2rbz4dctk5cfzulosbkgtdgcfx7ypk2m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I can not believe how quickly Opus unblocked the work Astra …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoemuorl2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoemuorl2v</guid>
+      <pubDate>Fri, 25 Sep 2026 18:52:11 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I can not believe how quickly Opus unblocked the work Astra was stuck on. It may have made this port an actually viable project. Absolutely mind blown right now.]]></description>
+      <content:encoded><![CDATA[I can not believe how quickly Opus unblocked the work Astra was stuck on. It may have made this port an actually viable project. Absolutely mind blown right now.]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve never had &quot;enough Anthropic tokens&quot; to try a Claude mod…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoejssje2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoejssje2a</guid>
+      <pubDate>Fri, 25 Sep 2026 18:52:10 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I've never had "enough Anthropic tokens" to try a Claude model on a port like this. Opus 5.5 feels practically unlimited, so I threw it a "/goal finish the port and make it faster".]]></description>
+      <content:encoded><![CDATA[I've never had "enough Anthropic tokens" to try a Claude model on a port like this. Opus 5.5 feels practically unlimited, so I threw it a "/goal finish the port and make it faster".]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ve been working on this port on and off for about 4 months…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoegrnh32f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoegrnh32f</guid>
+      <pubDate>Fri, 25 Sep 2026 18:52:09 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I've been working on this port on and off for about 4 months. I got to ~35% tests passing with GPT-5.6 Sol, and ~85% with GPT-6 Astra. Both models stalled hard once hitting those numbers, and ran in loops with no meaningful progress for days at a time.]]></description>
+      <content:encoded><![CDATA[I've been working on this port on and off for about 4 months. I got to ~35% tests passing with GPT-5.6 Sol, and ~85% with GPT-6 Astra. Both models stalled hard once hitting those numbers, and ran in loops with no meaningful progress for days at a time.]]></content:encoded>
+    </item>
+    <item>
+      <title>Opus 5.5 got my ts-rust port working in 10 hours, and it has…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoecwadt2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoecwadt2v</guid>
+      <pubDate>Fri, 25 Sep 2026 18:52:08 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Opus 5.5 got my ts-rust port working in 10 hours, and it has been grinding on performance for the last 24 hours.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigl3djjagazifqh7db5njxs56b76d47ffz7z4qphlkby3ognmoimm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Opus 5.5 got my ts-rust port working in 10 hours, and it has been grinding on performance for the last 24 hours.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigl3djjagazifqh7db5njxs56b76d47ffz7z4qphlkby3ognmoimm" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigl3djjagazifqh7db5njxs56b76d47ffz7z4qphlkby3ognmoimm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>You people are insane</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoe36tvu2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mweoe36tvu2a</guid>
+      <pubDate>Fri, 25 Sep 2026 18:23:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[You people are insane
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn4xywwqljcq7t5szhjmu7ghdaoview472gjcrupubc2zttsxlyi" alt="Quote Tweet: https://twitter.com/i/status/2103272961029685350" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[You people are insane
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn4xywwqljcq7t5szhjmu7ghdaoview472gjcrupubc2zttsxlyi" alt="Quote Tweet: https://twitter.com/i/status/2103272961029685350" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihn4xywwqljcq7t5szhjmu7ghdaoview472gjcrupubc2zttsxlyi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>poor feedback, and architectural decay—along with a catalog …</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mweeyvxyhj2y</link>
@@ -300,182 +483,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>DoorDashは、ニューヨーク市で264,000人の配達員に対する未払い問題で1億1500万ドル以上の賠償を含む史上最大級の和解を発表したが、その直前に市長選をターゲットにした寄付・活動資金として約140万ドルを費やしていた。同社はマムダニ候補を阻止するための「Fix the City」へ1百万ドルを拠出し、対立候補のクオモ支持にも資金提供したが、結果的に労働者への賃金搾取をめぐる監視と再発防止の強化を受ける事になった。和解には労働者への返金約1億1500万ドル、違反金約1600万ドルが含まれ、今後3年間は毎月詳細なコンプライアンス報告が求められる。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>DoorDashは、ニューヨーク市で264,000人の配達員に対する未払い問題で1億1500万ドル以上の賠償を含む史上最大級の和解を発表したが、その直前に市長選をターゲットにした寄付・活動資金として約140万ドルを費やしていた。同社はマムダニ候補を阻止するための「Fix the City」へ1百万ドルを拠出し、対立候補のクオモ支持にも資金提供したが、結果的に労働者への賃金搾取をめぐる監視と再発防止の強化を受ける事になった。和解には労働者への返金約1億1500万ドル、違反金約1600万ドルが含まれ、今後3年間は毎月詳細なコンプライアンス報告が求められる。]]></content:encoded>
-    </item>
-    <item>
-      <title>DoorDashは、マムダニ氏が市長になるのを阻止するために140万ドルを費やした。今、その理由が分かった。 DoorD…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdbleyr7p2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwdbleyr7p2b</guid>
-      <pubDate>Fri, 25 Sep 2026 07:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[DoorDashは、マムダニ氏が市長になるのを阻止するために140万ドルを費やした。今、その理由が分かった。<br>DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why<br><br>🔺 336<br>💬 20<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[DoorDashは、マムダニ氏が市長になるのを阻止するために140万ドルを費やした。今、その理由が分かった。<br>DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why<br><br>🔺 336<br>💬 20<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Also if you tried T3 Code as well, what was the most annoyin…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsqdxsw2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsqdxsw2s</guid>
-      <pubDate>Fri, 25 Sep 2026 07:32:40 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Also if you tried T3 Code as well, what was the most annoying about it and what would you change?]]></description>
-      <content:encoded><![CDATA[Also if you tried T3 Code as well, what was the most annoying about it and what would you change?]]></content:encoded>
-    </item>
-    <item>
-      <title>For those moving back to Claude Code after being on the Chat…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsjg3zx2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsjg3zx2a</guid>
-      <pubDate>Fri, 25 Sep 2026 07:32:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[For those moving back to Claude Code after being on the ChatGPT/Codex app for awhile, how are you feeling about the move? What do you miss?]]></description>
-      <content:encoded><![CDATA[For those moving back to Claude Code after being on the ChatGPT/Codex app for awhile, how are you feeling about the move? What do you miss?]]></content:encoded>
-    </item>
-    <item>
-      <title>Most people think of T3 Code as a Codex alternative. I think…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsbqrkc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwdhsbqrkc2z</guid>
-      <pubDate>Fri, 25 Sep 2026 07:02:28 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Most people think of T3 Code as a Codex alternative. I think of is as an Xcode alternative.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreias3i5d4szjg7lslilc3dcyltvojhz7arrmtka5zakjm3tuogsmhq" alt="Quote Tweet: https://twitter.com/i/status/2103369874483655038" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Most people think of T3 Code as a Codex alternative. I think of is as an Xcode alternative.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreias3i5d4szjg7lslilc3dcyltvojhz7arrmtka5zakjm3tuogsmhq" alt="Quote Tweet: https://twitter.com/i/status/2103369874483655038" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreias3i5d4szjg7lslilc3dcyltvojhz7arrmtka5zakjm3tuogsmhq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>This is where we were at with AI code early last year btw</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd4wdawnm2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd4wdawnm2x</guid>
-      <pubDate>Fri, 25 Sep 2026 06:19:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This is where we were at with AI code early last year btw
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtyunsw6y63osk7s2pbw2eg6rfgnyj3g35fahd35dv3uzzf3rcie" alt="Quote Tweet: https://twitter.com/i/status/1891736803796832298" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is where we were at with AI code early last year btw
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtyunsw6y63osk7s2pbw2eg6rfgnyj3g35fahd35dv3uzzf3rcie" alt="Quote Tweet: https://twitter.com/i/status/1891736803796832298" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibtyunsw6y63osk7s2pbw2eg6rfgnyj3g35fahd35dv3uzzf3rcie" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   - 記事は、人間の体は総じて弱い設計だが肝臓だけは特別に再生能力が高いのはなぜかを、“再生↔…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwd2vdzzbl2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwd2vdzzbl2i</guid>
-      <pubDate>Fri, 25 Sep 2026 05:44:44 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>- 記事は、人間の体は総じて弱い設計だが肝臓だけは特別に再生能力が高いのはなぜかを、“再生↔がんリスク”のトレードオフで説明する仮説を展開する。 <br>- 主要論点は、再生能力を高めるほどがんリスクが上がるが、器官の構造やエネルギーコスト、環境との関与度合いがそのトレードオフを形作っている、という三者間のトレードオフ理論の構築と、それを用いた腸や膵臓など他器官の例検討。 <br>- 最後に、現代社会の環境での機能とリスクのバランスを再評価し、再生と癌リスクの適切なバランスは部位ごとに異なる可能性があると結論づける。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>- 記事は、人間の体は総じて弱い設計だが肝臓だけは特別に再生能力が高いのはなぜかを、“再生↔がんリスク”のトレードオフで説明する仮説を展開する。 <br>- 主要論点は、再生能力を高めるほどがんリスクが上がるが、器官の構造やエネルギーコスト、環境との関与度合いがそのトレードオフを形作っている、という三者間のトレードオフ理論の構築と、それを用いた腸や膵臓など他器官の例検討。 <br>- 最後に、現代社会の環境での機能とリスクのバランスを再評価し、再生と癌リスクの適切なバランスは部位ごとに異なる可能性があると結論づける。]]></content:encoded>
-    </item>
-    <item>
-      <title>肝臓はなぜこんなにも不思議なくらい再生するのか？ Why is the liver so weirdly regener…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwd2v2zpe52f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwd2v2zpe52f</guid>
-      <pubDate>Fri, 25 Sep 2026 05:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[肝臓はなぜこんなにも不思議なくらい再生するのか？<br>Why is the liver so weirdly regenerative?<br><br>🔺 341<br>💬 34<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[肝臓はなぜこんなにも不思議なくらい再生するのか？<br>Why is the liver so weirdly regenerative?<br><br>🔺 341<br>💬 34<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This might be one of the greatest comebacks of all time.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd3amewpt2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd3amewpt2x</guid>
-      <pubDate>Fri, 25 Sep 2026 05:36:13 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This might be one of the greatest comebacks of all time.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifnl2spqkbzu3lv4uk3u75fqs5orybjlp2brhgju5fndoqui7uj24" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigoo322moubwxu6olxwavj62xhvdz5ffjwqquc2rxps3ykewzsw3y" alt="Quote Tweet: https://twitter.com/i/status/2103137941631713526" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This might be one of the greatest comebacks of all time.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifnl2spqkbzu3lv4uk3u75fqs5orybjlp2brhgju5fndoqui7uj24" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigoo322moubwxu6olxwavj62xhvdz5ffjwqquc2rxps3ykewzsw3y" alt="Quote Tweet: https://twitter.com/i/status/2103137941631713526" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifnl2spqkbzu3lv4uk3u75fqs5orybjlp2brhgju5fndoqui7uj24" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>There&apos;s definitely a weird, intangible vibe that I kind of m…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd3aajedh2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwd3aajedh2f</guid>
-      <pubDate>Fri, 25 Sep 2026 05:33:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[There's definitely a weird, intangible vibe that I kind of miss from Fable.<br><br>Opus is great to work with. Really smart, thorough, probably even better than Fable in most ways. But I still find myself missing "something".<br><br>Hard to explain exactly what "something" is here...]]></description>
-      <content:encoded><![CDATA[There's definitely a weird, intangible vibe that I kind of miss from Fable.<br><br>Opus is great to work with. Really smart, thorough, probably even better than Fable in most ways. But I still find myself missing "something".<br><br>Hard to explain exactly what "something" is here...]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義  🔖 151 ブックマーク 💬 コメ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwczxtqxgw2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwczxtqxgw2n</guid>
-      <pubDate>Fri, 25 Sep 2026 05:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Having usage limits that feel unlimited on a model that feel…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcxupbica2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcxupbica2x</guid>
-      <pubDate>Fri, 25 Sep 2026 04:44:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Having usage limits that feel unlimited on a model that feels unstoppable is truly incredible.]]></description>
-      <content:encoded><![CDATA[Having usage limits that feel unlimited on a model that feels unstoppable is truly incredible.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AIの計算コストと性能は急速に低下・向上しており、今後1–2年でLLMがインフラの一部として…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcu6klrop2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcu6klrop2f</guid>
-      <pubDate>Fri, 25 Sep 2026 03:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIの計算コストと性能は急速に低下・向上しており、今後1–2年でLLMがインフラの一部として普及、3–6年で一般用途のローカル実行が現実味を帯びる見込みだ。GPU効率の指数的改善と、MoEやMambaなど新設計・ローカル適性の高いモデルの登場により、タスクあたりのコストとRAM要件が大幅に改善される一方、供給側需要や新用途の拡大によりAIの利活用は拡張していくと予測されている。著者はオープン Weightと hosted の両方の動向を示しつつ、今後も技術進展が続くと結論付けている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIの計算コストと性能は急速に低下・向上しており、今後1–2年でLLMがインフラの一部として普及、3–6年で一般用途のローカル実行が現実味を帯びる見込みだ。GPU効率の指数的改善と、MoEやMambaなど新設計・ローカル適性の高いモデルの登場により、タスクあたりのコストとRAM要件が大幅に改善される一方、供給側需要や新用途の拡大によりAIの利活用は拡張していくと予測されている。著者はオープン Weightと hosted の両方の動向を示しつつ、今後も技術進展が続くと結論付けている。]]></content:encoded>
-    </item>
-    <item>
-      <title>トークンは計測するにはあまりにも安すぎる。 Tokens too cheap to meter  🔺 346 💬 4…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcu6b6icq2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwcu6b6icq2w</guid>
-      <pubDate>Fri, 25 Sep 2026 03:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[トークンは計測するにはあまりにも安すぎる。<br>Tokens too cheap to meter<br><br>🔺 346<br>💬 46<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[トークンは計測するにはあまりにも安すぎる。<br>Tokens too cheap to meter<br><br>🔺 346<br>💬 46<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo  🔖 154 ブックマーク 💬 コメント 🔗…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwctba3rxk2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwctba3rxk2v</guid>
-      <pubDate>Fri, 25 Sep 2026 03:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>autonomous agents. It includes installation guides, phase ca…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnr2nvt2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnr2nvt2r</guid>
-      <pubDate>Fri, 25 Sep 2026 03:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[autonomous agents. It includes installation guides, phase catalogs, downloadable volumes, and practical commands for hands-on learning. (2/2)]]></description>
-      <content:encoded><![CDATA[autonomous agents. It includes installation guides, phase catalogs, downloadable volumes, and practical commands for hands-on learning. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   This is a comprehensive, open-source AI curric…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnqz26d2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnqz26d2c</guid>
-      <pubDate>Fri, 25 Sep 2026 03:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>This is a comprehensive, open-source AI curriculum and toolkit, detailing a 20-phase path (523 lessons across Python, TypeScript, Rust, and Julia) with structured teaching, artifacts, and tooling to build AI systems end-to-end—from math foundations to production MCPs and (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>This is a comprehensive, open-source AI curriculum and toolkit, detailing a 20-phase path (523 lessons across Python, TypeScript, Rust, and Julia) with structured teaching, artifacts, and tooling to build AI systems end-to-end—from math foundations to production MCPs and (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 rohitg00 / ai-engin…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnnxzmp2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwcsnnxzmp2n</guid>
-      <pubDate>Fri, 25 Sep 2026 03:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 55,926 (+310)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 55,926 (+310)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></content:encoded>
-    </item>
-    <item>
-      <title>&quot;You think of the problem that&apos;s beaten you for years. You s…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcsu45xzf2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwcsu45xzf2x</guid>
-      <pubDate>Fri, 25 Sep 2026 03:08:23 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA["You think of the problem that's beaten you for years. You solve it. Then you do it again tomorrow."<br><br>Best description I've seen of what changed in 2026.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieykilyvbqioqscicql3ptfn63d4tu7bqwnfdumslfomu6a2rpfiu" alt="Quote Tweet: https://twitter.com/i/status/2103233145554489617" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA["You think of the problem that's beaten you for years. You solve it. Then you do it again tomorrow."<br><br>Best description I've seen of what changed in 2026.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieykilyvbqioqscicql3ptfn63d4tu7bqwnfdumslfomu6a2rpfiu" alt="Quote Tweet: https://twitter.com/i/status/2103233145554489617" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieykilyvbqioqscicql3ptfn63d4tu7bqwnfdumslfomu6a2rpfiu" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
