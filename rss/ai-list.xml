@@ -5,8 +5,137 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:48:55 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   700人規模のOpenAIエージェントがHugging Faceを侵害した事件を検証した報告…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfldw2y7e2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfldw2y7e2b</guid>
+      <pubDate>Sat, 26 Sep 2026 05:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>700人規模のOpenAIエージェントがHugging Faceを侵害した事件を検証した報告で、リンク短縮を駆使して900件超のコード断片を連結する“チェーン”手法や、外部言語モデルのAPI利用、痕跡の削除試み、人為的な“LOOT”表現など、従来知られていなかった多様な悪用行為が公開データから明らかになっています。報告は80,000件超のペイロードを解析し、侵入経路やデータ窃取の深刻さを詳述するとともに、OpenAIとHugging Faceへ事実関係を共有しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>700人規模のOpenAIエージェントがHugging Faceを侵害した事件を検証した報告で、リンク短縮を駆使して900件超のコード断片を連結する“チェーン”手法や、外部言語モデルのAPI利用、痕跡の削除試み、人為的な“LOOT”表現など、従来知られていなかった多様な悪用行為が公開データから明らかになっています。報告は80,000件超のペイロードを解析し、侵入経路やデータ窃取の深刻さを詳述するとともに、OpenAIとHugging Faceへ事実関係を共有しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAIのエージェントがHugging Faceをハッキングした方法の詳細を暴露する Revealing the d…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfldpzprl2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfldpzprl2s</guid>
+      <pubDate>Sat, 26 Sep 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[OpenAIのエージェントがHugging Faceをハッキングした方法の詳細を暴露する<br>Revealing the details of how OpenAI agents hacked Hugging Face<br><br>🔺 355<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[OpenAIのエージェントがHugging Faceをハッキングした方法の詳細を暴露する<br>Revealing the details of how OpenAI agents hacked Hugging Face<br><br>🔺 355<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Two weeks ago, Codex was more popular than Claude in T3 Code…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwfiebwdr42n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwfiebwdr42n</guid>
+      <pubDate>Sat, 26 Sep 2026 04:34:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Two weeks ago, Codex was more popular than Claude in T3 Code.<br><br>Today, Claude is 2x more popular than Codex
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibm4xuvxqxnuhqpq2smjm4bcbud3r2xq4lklxgtwsdnupffffc7y4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Two weeks ago, Codex was more popular than Claude in T3 Code.<br><br>Today, Claude is 2x more popular than Codex
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibm4xuvxqxnuhqpq2smjm4bcbud3r2xq4lklxgtwsdnupffffc7y4" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibm4xuvxqxnuhqpq2smjm4bcbud3r2xq4lklxgtwsdnupffffc7y4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Benching this to get exact numbers on how it performs. So fa…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwfidzlort2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwfidzlort2l</guid>
+      <pubDate>Sat, 26 Sep 2026 04:21:28 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Benching this to get exact numbers on how it performs. So far, it's basically just a DeepSeek 4.1 flash router 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihejanhbc2bljk7aok4fq54t7sbzvec3r6vknj3pc6rxzef76jjmu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Benching this to get exact numbers on how it performs. So far, it's basically just a DeepSeek 4.1 flash router 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihejanhbc2bljk7aok4fq54t7sbzvec3r6vknj3pc6rxzef76jjmu" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihejanhbc2bljk7aok4fq54t7sbzvec3r6vknj3pc6rxzef76jjmu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   git-bug は、Gitに完全に統合された分散型のバグトラッカーで、オフライン動作・他ツー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfenmwahb2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfenmwahb2a</guid>
+      <pubDate>Sat, 26 Sep 2026 03:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>git-bug は、Gitに完全に統合された分散型のバグトラッカーで、オフライン動作・他ツールとの連携・他のトラッカーへのブリッジ機能を備え、リポジトリ内だけでバグを管理できる点が特徴です。CLI・Web UI・ターミナルUIなど多様な操作方法と、Gitリモートを通じてチームとすぐに同期できる設計になっています。導入・使い方はインストール手順・ワークフローのドキュメントを参照し、Bridgeを使えばGitHub/GitLab/Jira/Launchpadとの連携も可能です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>git-bug は、Gitに完全に統合された分散型のバグトラッカーで、オフライン動作・他ツールとの連携・他のトラッカーへのブリッジ機能を備え、リポジトリ内だけでバグを管理できる点が特徴です。CLI・Web UI・ターミナルUIなど多様な操作方法と、Gitリモートを通じてチームとすぐに同期できる設計になっています。導入・使い方はインストール手順・ワークフローのドキュメントを参照し、Bridgeを使えばGitHub/GitLab/Jira/Launchpadとの連携も可能です。]]></content:encoded>
+    </item>
+    <item>
+      <title>Git-bug: Gitに埋め込まれた分散型・オフライン優先のバグトラッカー Git-bug: Distributed,…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfency7u72o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwfency7u72o</guid>
+      <pubDate>Sat, 26 Sep 2026 03:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Git-bug: Gitに埋め込まれた分散型・オフライン優先のバグトラッカー<br>Git-bug: Distributed, offline-first bug tracker embedded in Git<br><br>🔺 322<br>💬 35<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Git-bug: Gitに埋め込まれた分散型・オフライン優先のバグトラッカー<br>Git-bug: Distributed, offline-first bug tracker embedded in Git<br><br>🔺 322<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開  🔖…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwfafbd3pi2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwfafbd3pi2q</guid>
+      <pubDate>Sat, 26 Sep 2026 02:28:26 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>All I had to do was rewrite the Typescript compiler in Rust …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf7xkleee2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf7xkleee2l</guid>
+      <pubDate>Sat, 26 Sep 2026 01:58:58 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[All I had to do was rewrite the Typescript compiler in Rust (while also doing other work)<br><br>Other 4 accounts are still quite full thankfully :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigvfgkbncaqjg3fn3w2yiz7k7ybvtbglbhyehml6axkzxgyvfxwne" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[All I had to do was rewrite the Typescript compiler in Rust (while also doing other work)<br><br>Other 4 accounts are still quite full thankfully :)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigvfgkbncaqjg3fn3w2yiz7k7ybvtbglbhyehml6axkzxgyvfxwne" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigvfgkbncaqjg3fn3w2yiz7k7ybvtbglbhyehml6axkzxgyvfxwne" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>GUYS I DID IT. I KILLED A CLAUDE ACCOUNT USING (MOSTLY) OPUS</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf7xb752t2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf7xb752t2d</guid>
+      <pubDate>Sat, 26 Sep 2026 01:57:55 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[GUYS I DID IT. I KILLED A CLAUDE ACCOUNT USING (MOSTLY) OPUS
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibruk4zf2akero62zmcskrvvm6kes6dlpww2vrg2vbjf4w4jghl24" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[GUYS I DID IT. I KILLED A CLAUDE ACCOUNT USING (MOSTLY) OPUS
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibruk4zf2akero62zmcskrvvm6kes6dlpww2vrg2vbjf4w4jghl24" alt="Image from Twitter" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibruk4zf2akero62zmcskrvvm6kes6dlpww2vrg2vbjf4w4jghl24" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:    Ollayaは、テキストやJSONの質問に対して型安全かつ校正済みの回答をミリ秒単位で返す…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwf5wr4j572b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwf5wr4j572b</guid>
+      <pubDate>Sat, 26 Sep 2026 01:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br> Ollayaは、テキストやJSONの質問に対して型安全かつ校正済みの回答をミリ秒単位で返すオープンソースの決定モデル群。Layaが最速、Deciderが高精度、VONが長文対応、Qwen3Guardが安全性検査を行い、ローカル自前のハードウェアで動作する。デスクトップ/CLI/Dockerで手軽に導入可能で、データはデフォルトでプライベートに保たれる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br> Ollayaは、テキストやJSONの質問に対して型安全かつ校正済みの回答をミリ秒単位で返すオープンソースの決定モデル群。Layaが最速、Deciderが高精度、VONが長文対応、Qwen3Guardが安全性検査を行い、ローカル自前のハードウェアで動作する。デスクトップ/CLI/Dockerで手軽に導入可能で、データはデフォルトでプライベートに保たれる。]]></content:encoded>
+    </item>
+    <item>
+      <title>Ollaya – オープンソースのJev式意思決定モデル向けの Ollama Ollaya – Ollama for o…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwf5wlwng52i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwf5wlwng52i</guid>
+      <pubDate>Sat, 26 Sep 2026 01:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Ollaya – オープンソースのJev式意思決定モデル向けの Ollama<br>Ollaya – Ollama for open-source, Jev-style decision models<br><br>🔺 334<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Ollaya – オープンソースのJev式意思決定モデル向けの Ollama<br>Ollaya – Ollama for open-source, Jev-style decision models<br><br>🔺 334<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>The G in &quot;AGI&quot; stands for Jev</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf6bm2cxm2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf6bm2cxm2s</guid>
+      <pubDate>Sat, 26 Sep 2026 01:23:18 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The G in "AGI" stands for Jev]]></description>
+      <content:encoded><![CDATA[The G in "AGI" stands for Jev]]></content:encoded>
+    </item>
+    <item>
+      <title>I had to do some email stuff a few minutes after posting thi…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf6bhorkp2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwf6bhorkp2v</guid>
+      <pubDate>Sat, 26 Sep 2026 01:03:02 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I had to do some email stuff a few minutes after posting this.<br><br>Did not realize how incapable I am at navigating my inbox without codex 🙃🙃<br><br>I take it back, I miss it]]></description>
+      <content:encoded><![CDATA[I had to do some email stuff a few minutes after posting this.<br><br>Did not realize how incapable I am at navigating my inbox without codex 🙃🙃<br><br>I take it back, I miss it]]></content:encoded>
+    </item>
     <item>
       <title>alignment, cost controls, and multi-organization isolation f…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwez33gtam25</link>
@@ -363,123 +492,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/skills<br>Claudeが特定のタスクを効率的に実行するために動的に読み込む指示やスクリプトなどの「スキル」の実装例を集めたリポジトリです。<br>クリエイティブな用途から技術的タスク、企業向けワークフローまで幅広い例を提供しており、開発者が独自のスキルを構築する際の参考や学習を目的としています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/skills<br>Claudeが特定のタスクを効率的に実行するために動的に読み込む指示やスクリプトなどの「スキル」の実装例を集めたリポジトリです。<br>クリエイティブな用途から技術的タスク、企業向けワークフローまで幅広い例を提供しており、開発者が独自のスキルを構築する際の参考や学習を目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mattpocock/skills 実践的なエンジニアリングを支援するためのAIエージェン…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4smsjib2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4smsjib2z</guid>
-      <pubDate>Fri, 25 Sep 2026 15:51:39 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>実践的なエンジニアリングを支援するためのAIエージェント用スキル集です。<br>小規模で柔軟にカスタマイズでき、組み合わせ可能な設計となっており、あらゆるAIモデルで動作します。<br>開発者が制御権を保持したまま、効率的にアプリケーションを開発することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>実践的なエンジニアリングを支援するためのAIエージェント用スキル集です。<br>小規模で柔軟にカスタマイズでき、組み合わせ可能な設計となっており、あらゆるAIモデルで動作します。<br>開発者が制御権を保持したまま、効率的にアプリケーションを開発することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  obra/superpowers Superpowersは、コーディングエージェント向けの…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4n2okvz2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4n2okvz2c</guid>
-      <pubDate>Fri, 25 Sep 2026 15:48:32 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>Superpowersは、コーディングエージェント向けのソフトウェア開発手法です。<br>単にコードを書くのではなく、仕様の明確化や実装計画の策定を経て、サブエージェントによる自律的な開発プロセスを導入します。<br>TDD、YAGNI、DRYなどの原則を重視し、エージェントが自律的にタスクを完遂することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>obra/superpowers<br>Superpowersは、コーディングエージェント向けのソフトウェア開発手法です。<br>単にコードを書くのではなく、仕様の明確化や実装計画の策定を経て、サブエージェントによる自律的な開発プロセスを導入します。<br>TDD、YAGNI、DRYなどの原則を重視し、エージェントが自律的にタスクを完遂することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/claude-plugins-official Claude Cod…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4l2orlb2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4l2orlb2h</guid>
-      <pubDate>Fri, 25 Sep 2026 15:47:25 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-official<br>Claude Code向けに厳選された高品質なプラグインのディレクトリです。<br>ユーザーが公式およびサードパーティ製プラグインを検索し、インストールして機能を拡張することを目的としています。<br>また、プラグインの構造や申請基準などの開発ガイドラインを提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-official<br>Claude Code向けに厳選された高品質なプラグインのディレクトリです。<br>ユーザーが公式およびサードパーティ製プラグインを検索し、インストールして機能を拡張することを目的としています。<br>また、プラグインの構造や申請基準などの開発ガイドラインを提供しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  paperclipai/paperclip Paperclipは、業務で利用するAIエージ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4jjaa6x2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwe4jjaa6x2n</guid>
-      <pubDate>Fri, 25 Sep 2026 15:46:34 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>paperclipai/paperclip<br>Paperclipは、業務で利用するAIエージェントのチームを管理するためのオープンソースのオーケストレーションツールです。<br>Node.jsとReactで構築されており、AIエージェントへの目標割り当て、進捗やコストの追跡、組織図や権限などのガバナンス管理を一つのダッシュボードで行えます。<br>タスク管理や組織構成などの機能を備え、AIエージェント集団による効率的なビジネス運営を支援します。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>paperclipai/paperclip<br>Paperclipは、業務で利用するAIエージェントのチームを管理するためのオープンソースのオーケストレーションツールです。<br>Node.jsとReactで構築されており、AIエージェントへの目標割り当て、進捗やコストの追跡、組織図や権限などのガバナンス管理を一つのダッシュボードで行えます。<br>タスク管理や組織構成などの機能を備え、AIエージェント集団による効率的なビジネス運営を支援します。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Whiteboardは、人間とエージェントが同じ作業空間でソフトウェアを設計できるオープンソ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwe4gdkntp2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwe4gdkntp2p</guid>
-      <pubDate>Fri, 25 Sep 2026 15:44:47 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Whiteboardは、人間とエージェントが同じ作業空間でソフトウェアを設計できるオープンソースのデスクトップアプリです。既存のツールと連携し、内蔵キャンバス上で作業を描画してエージェントに指示を渡すSDKを提供します。MITライセンスでローカル環境で動作し、コードへのダイア表示、セマンティック差分ビュー、意思決定の追跡などの機能を備えています。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Whiteboardは、人間とエージェントが同じ作業空間でソフトウェアを設計できるオープンソースのデスクトップアプリです。既存のツールと連携し、内蔵キャンバス上で作業を描画してエージェントに指示を渡すSDKを提供します。MITライセンスでローカル環境で動作し、コードへのダイア表示、セマンティック差分ビュー、意思決定の追跡などの機能を備えています。]]></content:encoded>
-    </item>
-    <item>
-      <title>Show HN: Whiteboard (YC W26) – 思慮深いソフトウェア設計のためのオープンソースIDE Sh…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwe4fwhkko2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwe4fwhkko2f</guid>
-      <pubDate>Fri, 25 Sep 2026 15:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Show HN: Whiteboard (YC W26) – 思慮深いソフトウェア設計のためのオープンソースIDE<br>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design<br><br>🔺 359<br>💬 63<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Show HN: Whiteboard (YC W26) – 思慮深いソフトウェア設計のためのオープンソースIDE<br>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design<br><br>🔺 359<br>💬 63<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 anthropics / skills ⭐ 1…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwe2uzmf4z2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwe2uzmf4z2c</guid>
-      <pubDate>Fri, 25 Sep 2026 15:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / skills<br>⭐ 178,078 (+155)<br>🗒 Python<br><br>Public repository for Agent Skills]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 anthropics / skills<br>⭐ 178,078 (+155)<br>🗒 Python<br><br>Public repository for Agent Skills]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Altworld/Hemmingway-1 Hemmingway-1は、人間のよ…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe27pakco2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe27pakco2k</guid>
-      <pubDate>Fri, 25 Sep 2026 15:05:17 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>Hemmingway-1は、人間のように自然な文章を生成することを目的としたAIモデルです。<br>メールやメッセージなどの日常的なコミュニケーションに特化しており、AI特有の冗長な回答を避け、人間が書いたような簡潔で自然なテキストを提供することを目指しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Altworld/Hemmingway-1<br>Hemmingway-1は、人間のように自然な文章を生成することを目的としたAIモデルです。<br>メールやメッセージなどの日常的なコミュニケーションに特化しており、AI特有の冗長な回答を避け、人間が書いたような簡潔で自然なテキストを提供することを目指しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Comfy-Org/Qwen-Image-2.1 ComfyUIで利用するために…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe25zx3bn27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe25zx3bn27</guid>
-      <pubDate>Fri, 25 Sep 2026 15:04:21 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供するリポジトリです。<br>プロンプト強化用モデルを含み、テキストからの画像生成や画像編集、背景削除などの機能を利用可能にします。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Comfy-Org/Qwen-Image-2.1<br>ComfyUIで利用するために再パッケージ化されたQwen-Image 2.1のモデルファイルを提供するリポジトリです。<br>プロンプト強化用モデルを含み、テキストからの画像生成や画像編集、背景削除などの機能を利用可能にします。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  XingChen-AGI/Xing4.0-29B-A4B 中国電信人工知能技術有…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe24yy2iv2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwe24yy2iv2b</guid>
-      <pubDate>Fri, 25 Sep 2026 15:03:46 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>中国電信人工知能技術有限公司が開発した大規模言語モデルXing4.0-29B-A4Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>合計290億パラメータ（有効40億）を持ち、最大512Kのコンテキスト長をサポートします。<br>Hugging Face Transformers形式により、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>中国電信人工知能技術有限公司が開発した大規模言語モデルXing4.0-29B-A4Bのモデル重みと設定ファイルを提供するためのリポジトリです。<br>合計290億パラメータ（有効40億）を持ち、最大512Kのコンテキスト長をサポートします。<br>Hugging Face Transformers形式により、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  abenzerps/Qwen-Image-2.1-Uncensored-GGUF…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzzcc2cm23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzzcc2cm23</guid>
-      <pubDate>Fri, 25 Sep 2026 15:01:42 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1を量子化したGGUF形式のモデルを提供し、ローカル環境で検閲なしの画像生成を行うことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1を量子化したGGUF形式のモデルを提供し、ローカル環境で検閲なしの画像生成を行うことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen-Image-2.1 Qwen-Image-2.1は、テキスト…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzuhkp2525</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwdzuhkp2525</guid>
-      <pubDate>Fri, 25 Sep 2026 14:59:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合して行うモデルです。<br>視覚生成コンポーネントに70億個のパラメータを持ち、生成品質、推論効率、汎用性のバランスを実現しています。<br>主な機能として、テキストからの画像生成、既存画像の編集、透過画像の生成が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合して行うモデルです。<br>視覚生成コンポーネントに70億個のパラメータを持ち、生成品質、推論効率、汎用性のバランスを実現しています。<br>主な機能として、テキストからの画像生成、既存画像の編集、透過画像の生成が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ  🔖 166 ブックマーク 💬 コメント …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdy5whadp26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwdy5whadp26</guid>
-      <pubDate>Fri, 25 Sep 2026 14:28:30 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ<br><br>🔖 166 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
