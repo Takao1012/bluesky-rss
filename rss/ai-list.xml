@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 18:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:40:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   FLIP fluidを使ってフリップドット電気機械ディスプレイに液体シミュレーションを載せる…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwjkqzne6d2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwjkqzne6d2l</guid>
+      <pubDate>Sun, 27 Sep 2026 19:44:37 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>FLIP fluidを使ってフリップドット電気機械ディスプレイに液体シミュレーションを載せる試みを紹介。旧型のフリップドットパネルを安価に連結・駆動するため、Hブリッジやシリーズコンデンサを用いた新駆動回路やPCB設計、KiCadでの配線自動化の課題など、技術的な工夫と検討過程を詳述している。最終的には、低コストで高速更新を目指すも、部品選択・実装上の制約から実現には更なる工夫が必要だとしている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>FLIP fluidを使ってフリップドット電気機械ディスプレイに液体シミュレーションを載せる試みを紹介。旧型のフリップドットパネルを安価に連結・駆動するため、Hブリッジやシリーズコンデンサを用いた新駆動回路やPCB設計、KiCadでの配線自動化の課題など、技術的な工夫と検討過程を詳述している。最終的には、低コストで高速更新を目指すも、部品選択・実装上の制約から実現には更なる工夫が必要だとしている。]]></content:encoded>
+    </item>
+    <item>
+      <title>フリップドット上の流体を反転させる Flip Fluid on Flip Dots  🔺 318 💬 9 🔗 HN…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwjkqsb2gm2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwjkqsb2gm2b</guid>
+      <pubDate>Sun, 27 Sep 2026 19:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[フリップドット上の流体を反転させる<br>Flip Fluid on Flip Dots<br><br>🔺 318<br>💬 9<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[フリップドット上の流体を反転させる<br>Flip Fluid on Flip Dots<br><br>🔺 318<br>💬 9<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU  🔖 151 ブックマーク 💬 コメント 🔗 記…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwjjtsgdlv27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwjjtsgdlv27</guid>
+      <pubDate>Sun, 27 Sep 2026 19:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📦 vercel-labs / scriptc ⭐ 5,246 (+76) 🗒 TypeScript  TypeSc…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwjfv5rdcl25</link>
@@ -451,36 +478,6 @@ https://t.co/xBlXUSuqee" style="max-width:100%;margin-top:8px;">]]></content:enc
       <content:encoded><![CDATA[With much, much effort, I have been able to kill ~3.5 $200 Claude Code accounts in the past 5 days.<br><br>Opus 5.5 is incredible, and the $200 Max sub is an absolute steal.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifx7orrhy7pmylddbyn7452qan67ftupiijw6rgktsgjpwitjfnni" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifx7orrhy7pmylddbyn7452qan67ftupiijw6rgktsgjpwitjfnni" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>📝 個人開発はCloudflareにすべて賭けろ  🔖 154 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwi2vryi5a26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwi2vryi5a26</guid>
-      <pubDate>Sun, 27 Sep 2026 05:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 個人開発はCloudflareにすべて賭けろ<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 個人開発はCloudflareにすべて賭けろ<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>We&apos;re 3 weeks away from the 1 year anniversary of the last H…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwhx5ysnvk2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwhx5ysnvk2r</guid>
-      <pubDate>Sun, 27 Sep 2026 04:21:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[We're 3 weeks away from the 1 year anniversary of the last Haiku release
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic2tyjhq6jkwnj6vns5atjtocjrk2vvkc4rs3mmwy3jy5qxhbrwo4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[We're 3 weeks away from the 1 year anniversary of the last Haiku release
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic2tyjhq6jkwnj6vns5atjtocjrk2vvkc4rs3mmwy3jy5qxhbrwo4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreic2tyjhq6jkwnj6vns5atjtocjrk2vvkc4rs3mmwy3jy5qxhbrwo4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   AIが普及することで、プログラマーとユーザーの境界が崩れ、個人のニーズに合わせた小さなアプリ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwhv46tjng2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwhv46tjng2o</guid>
-      <pubDate>Sun, 27 Sep 2026 03:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AIが普及することで、プログラマーとユーザーの境界が崩れ、個人のニーズに合わせた小さなアプリが普及する世界が来る—従来の大規模パッケージ型ソフトウェアやOSの役割が変化する。著者はFly.ioを離れ新プロジェクトに参加し、AIを活用した「自分で作れるスマホ（プラットフォーム）」を開発する計画を語っている。将来のソフトウェアは多数の小さな部品を組み合わせて個別解決を行う世界になる、という見通しを提示している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AIが普及することで、プログラマーとユーザーの境界が崩れ、個人のニーズに合わせた小さなアプリが普及する世界が来る—従来の大規模パッケージ型ソフトウェアやOSの役割が変化する。著者はFly.ioを離れ新プロジェクトに参加し、AIを活用した「自分で作れるスマホ（プラットフォーム）」を開発する計画を語っている。将来のソフトウェアは多数の小さな部品を組み合わせて個別解決を行う世界になる、という見通しを提示している。]]></content:encoded>
     </item>
   </channel>
 </rss>
