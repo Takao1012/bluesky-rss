@@ -5,8 +5,395 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 13:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:55:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📣 GPT-6.1 Sol is now generally available in @code with GitH…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoiigkcek24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoiigkcek24</guid>
+      <pubDate>Tue, 29 Sep 2026 18:47:20 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📣 GPT-6.1 Sol is now generally available in @code with GitHub Copilot.<br><br>Built for agentic coding and terminal workflows, with strong multistep coding performance and fewer tokens and steps in early testing. ⚡️<br><br>Give it a try today! 🚀<br><br>github.blog/changelog/20...]]></description>
+      <content:encoded><![CDATA[📣 GPT-6.1 Sol is now generally available in @code with GitHub Copilot.<br><br>Built for agentic coding and terminal workflows, with strong multistep coding performance and fewer tokens and steps in early testing. ⚡️<br><br>Give it a try today! 🚀<br><br>github.blog/changelog/20...]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;ll say the quiet part out loud: GPT-6.1 Sol was not meant …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohvbexyf2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohvbexyf2a</guid>
+      <pubDate>Tue, 29 Sep 2026 18:36:37 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I'll say the quiet part out loud: GPT-6.1 Sol was not meant to be this cheap. Clearly they cut the price a ton to fight back.<br><br>Likely also the reason they cut the "dollar amount" for the plan limits, since they cut into their margins so hard with this model]]></description>
+      <content:encoded><![CDATA[I'll say the quiet part out loud: GPT-6.1 Sol was not meant to be this cheap. Clearly they cut the price a ton to fight back.<br><br>Likely also the reason they cut the "dollar amount" for the plan limits, since they cut into their margins so hard with this model]]></content:encoded>
+    </item>
+    <item>
+      <title>Making steady progress on ts-rust 🫡  I feel obligated to sa…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohv2eiaq22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohv2eiaq22</guid>
+      <pubDate>Tue, 29 Sep 2026 18:36:29 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Making steady progress on ts-rust 🫡<br><br>I feel obligated to say that I threw GPT-6.1 Sol at this for a few days and it ran in circles and made no progress 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid7tc6hk64qjifbjleedwnsw6bvwh65xlwjr4rxxkhouxkuhscx4y" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Making steady progress on ts-rust 🫡<br><br>I feel obligated to say that I threw GPT-6.1 Sol at this for a few days and it ran in circles and made no progress 🙃
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid7tc6hk64qjifbjleedwnsw6bvwh65xlwjr4rxxkhouxkuhscx4y" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreid7tc6hk64qjifbjleedwnsw6bvwh65xlwjr4rxxkhouxkuhscx4y" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>I absolutely default to it for code reviews, architecture an…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohuuuid52x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohuuuid52x</guid>
+      <pubDate>Tue, 29 Sep 2026 18:36:21 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I absolutely default to it for code reviews, architecture analysis, computer use, email management, and a ton of my other daily work.]]></description>
+      <content:encoded><![CDATA[I absolutely default to it for code reviews, architecture analysis, computer use, email management, and a ton of my other daily work.]]></content:encoded>
+    </item>
+    <item>
+      <title>To be clear, I still think Opus 5.5 is the current GOAT for …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohurthwa22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohurthwa22</guid>
+      <pubDate>Tue, 29 Sep 2026 18:36:20 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[To be clear, I still think Opus 5.5 is the current GOAT for coding. GPT-6.1 Sol is a great replacement for Astra at a WAY better price, but I don't default to it for code.]]></description>
+      <content:encoded><![CDATA[To be clear, I still think Opus 5.5 is the current GOAT for coding. GPT-6.1 Sol is a great replacement for Astra at a WAY better price, but I don't default to it for code.]]></content:encoded>
+    </item>
+    <item>
+      <title>When I made this video, there were no benchmarks yet, so I h…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohum2xrg2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwohum2xrg2z</guid>
+      <pubDate>Tue, 29 Sep 2026 18:36:14 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[When I made this video, there were no benchmarks yet, so I had to run them myself. Jaw dropped when I saw the Terminal Bench 4 scores. <br><br>Performance better than Opus 5.5 for ~1/30th of the price 🤯
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignpp6pwmoxpz6kowwuah6h72m6qlx2hayya2oizpt3dyh56q7qnu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[When I made this video, there were no benchmarks yet, so I had to run them myself. Jaw dropped when I saw the Terminal Bench 4 scores. <br><br>Performance better than Opus 5.5 for ~1/30th of the price 🤯
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignpp6pwmoxpz6kowwuah6h72m6qlx2hayya2oizpt3dyh56q7qnu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreignpp6pwmoxpz6kowwuah6h72m6qlx2hayya2oizpt3dyh56q7qnu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>- sign in with ChatGPT: use your sub and inference in 3rd pa…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogyztft32t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogyztft32t</guid>
+      <pubDate>Tue, 29 Sep 2026 18:20:45 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[- sign in with ChatGPT: use your sub and inference in 3rd party apps<br>- extensions in ChatGPT can now be full apps<br>- 1 banked reset for all<br><br>I think that’s most of it!]]></description>
+      <content:encoded><![CDATA[- sign in with ChatGPT: use your sub and inference in 3rd party apps<br>- extensions in ChatGPT can now be full apps<br>- 1 banked reset for all<br><br>I think that’s most of it!]]></content:encoded>
+    </item>
+    <item>
+      <title>- Dots: personal assistant (similar to GrokBot, Muse etc) - …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogywsgie2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogywsgie2k</guid>
+      <pubDate>Tue, 29 Sep 2026 18:20:44 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[- Dots: personal assistant (similar to GrokBot, Muse etc)<br>- $500/month plan including Ultrafast<br>- GPT-6.1 Sol: really smart and cheap, way better than 6 was<br>- Decisions API: Jev killer with vision capabilities<br>- ultrafast is real (300tps on Astra). It’s way expensive though.]]></description>
+      <content:encoded><![CDATA[- Dots: personal assistant (similar to GrokBot, Muse etc)<br>- $500/month plan including Ultrafast<br>- GPT-6.1 Sol: really smart and cheap, way better than 6 was<br>- Decisions API: Jev killer with vision capabilities<br>- ultrafast is real (300tps on Astra). It’s way expensive though.]]></content:encoded>
+    </item>
+    <item>
+      <title>Dev Day announcement overview, as short as reasonably possib…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogytr5db2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogytr5db2f</guid>
+      <pubDate>Tue, 29 Sep 2026 18:20:43 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Dev Day announcement overview, as short as reasonably possible.]]></description>
+      <content:encoded><![CDATA[Dev Day announcement overview, as short as reasonably possible.]]></content:encoded>
+    </item>
+    <item>
+      <title>Sol 6.1 is a great model and an incredible value. Is it as g…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogyo2ek22w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwogyo2ek22w</guid>
+      <pubDate>Tue, 29 Sep 2026 18:20:36 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Sol 6.1 is a great model and an incredible value. Is it as good as Opus 5.5?<br><br>Video: https://x.com/theo/status/2104992534749647118]]></description>
+      <content:encoded><![CDATA[Sol 6.1 is a great model and an incredible value. Is it as good as Opus 5.5?<br><br>Video: https://x.com/theo/status/2104992534749647118]]></content:encoded>
+    </item>
+    <item>
+      <title>BREAKING:</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwofebgslv2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwofebgslv2d</guid>
+      <pubDate>Tue, 29 Sep 2026 17:51:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[BREAKING:
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2dh5l3blywrauj55absnqsuuhx5mmgra2drzp2sskazgwi6aoa" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[BREAKING:
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2dh5l3blywrauj55absnqsuuhx5mmgra2drzp2sskazgwi6aoa" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2dh5l3blywrauj55absnqsuuhx5mmgra2drzp2sskazgwi6aoa" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   ロンドンの鉄道駅での生体認証技術（LFR）実験は半年間で総額320,786ポンド以上が費やさ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoey45fxb2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoey45fxb2o</guid>
+      <pubDate>Tue, 29 Sep 2026 17:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>ロンドンの鉄道駅での生体認証技術（LFR）実験は半年間で総額320,786ポンド以上が費やされたにもかかわらず、対象監視リストへの一致は1件のみの誤認識で、実際の逮捕には結びつかなかった。試行は拡大され地下鉄駅へも展開予定で、監視リストの拡大と共に法的・倫理的な適切性・必要性を巡る懸念が高まっている。政府と監督機関の透明性・ガバナンス確保が求められている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>ロンドンの鉄道駅での生体認証技術（LFR）実験は半年間で総額320,786ポンド以上が費やされたにもかかわらず、対象監視リストへの一致は1件のみの誤認識で、実際の逮捕には結びつかなかった。試行は拡大され地下鉄駅へも展開予定で、監視リストの拡大と共に法的・倫理的な適切性・必要性を巡る懸念が高まっている。政府と監督機関の透明性・ガバナンス確保が求められている。]]></content:encoded>
+    </item>
+    <item>
+      <title>英国の駅で実施された50万件の顔認識スキャンでは、逮捕は出ず、偽陽性は1件だった。 500k facial scans …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoexvcrnd2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoexvcrnd2x</guid>
+      <pubDate>Tue, 29 Sep 2026 17:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[英国の駅で実施された50万件の顔認識スキャンでは、逮捕は出ず、偽陽性は1件だった。<br>500k facial scans at UK stations yield no arrests, 1 false positive<br><br>🔺 386<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[英国の駅で実施された50万件の顔認識スキャンでは、逮捕は出ず、偽陽性は1件だった。<br>500k facial scans at UK stations yield no arrests, 1 false positive<br><br>🔺 386<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超  🔖 173 ブッ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwoe2x4z4j2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwoe2x4z4j2v</guid>
+      <pubDate>Tue, 29 Sep 2026 17:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超<br><br>🔖 173 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>interfaces (desktop, web, CLI, SDK) and supports push-to-dep…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhiws4d2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhiws4d2p</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[interfaces (desktop, web, CLI, SDK) and supports push-to-deploy, multi-stack apps, and flexible deployment targets. (2/2)]]></description>
+      <content:encoded><![CDATA[interfaces (desktop, web, CLI, SDK) and supports push-to-deploy, multi-stack apps, and flexible deployment targets. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Openship is an open-source, self-hosted deploy…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhiv5ca2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhiv5ca2r</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Openship is an open-source, self-hosted deployment platform with built-in CI/CD that can run on desktop, self-hosted servers, or via a managed cloud, automating building, deploying, routing, TLS, and monitoring for apps from GitHub repos or local folders. It offers multiple (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Openship is an open-source, self-hosted deployment platform with built-in CI/CD that can run on desktop, self-hosted servers, or via a managed cloud, automating building, deploying, routing, TLS, and monitoring for apps from GitHub repos or local folders. It offers multiple (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 oblien / openship ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhfakrh2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwodhfakrh2r</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:16 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 oblien / openship<br>⭐ 13,568 (+436)<br>🗒 TypeScript<br><br>Self-hosted deployment platform]]></description>
+      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 oblien / openship<br>⭐ 13,568 (+436)<br>🗒 TypeScript<br><br>Self-hosted deployment platform]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  mvschwarz/openrig </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwod6zgoun24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwod6zgoun24</guid>
+      <pubDate>Tue, 29 Sep 2026 17:12:35 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>mvschwarz/openrig<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mvschwarz/openrig<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  t8y2/dbx 25MBの軽量なサイズで100種類以上のデータベースを提供することを目的…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwocpm6l4l2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwocpm6l4l2p</guid>
+      <pubDate>Tue, 29 Sep 2026 17:03:58 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>t8y2/dbx<br>25MBの軽量なサイズで100種類以上のデータベースを提供することを目的としたツールです。<br>デスクトップ、Docker、CLIに対応し、AIアシスタントやMCPサーバー機能を備えています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>t8y2/dbx<br>25MBの軽量なサイズで100種類以上のデータベースを提供することを目的としたツールです。<br>デスクトップ、Docker、CLIに対応し、AIアシスタントやMCPサーバー機能を備えています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  paperclipai/paperclip Paperclipは、複数のAIエージェントを…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwock7xliz24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwock7xliz24</guid>
+      <pubDate>Tue, 29 Sep 2026 17:00:57 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>paperclipai/paperclip<br>Paperclipは、複数のAIエージェントをチームとして管理し、ビジネスを運用するためのオープンソースのオーケストレーションツールです。<br>Node.jsサーバーとReact UIを提供し、目標設定からエージェントの配属、進捗やコストの追跡までをダッシュボードで一元管理できます。<br>タスク管理や組織図、ガバナンス機能などを備え、AIエージェント集団による効率的な業務遂行を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>paperclipai/paperclip<br>Paperclipは、複数のAIエージェントをチームとして管理し、ビジネスを運用するためのオープンソースのオーケストレーションツールです。<br>Node.jsサーバーとReact UIを提供し、目標設定からエージェントの配属、進捗やコストの追跡までをダッシュボードで一元管理できます。<br>タスク管理や組織図、ガバナンス機能などを備え、AIエージェント集団による効率的な業務遂行を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  NVIDIA/OpenShell OpenShellは、自律型AIエージェント向けの安全で…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwoccjq2xy24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwoccjq2xy24</guid>
+      <pubDate>Tue, 29 Sep 2026 16:56:39 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>NVIDIA/OpenShell<br>OpenShellは、自律型AIエージェント向けの安全でプライベートな実行環境です。<br>エージェントにファイル操作やAPI利用などの機能を提供しつつ、ポリシーによってデータやネットワークへのアクセスを制限します。<br>カーネルレベルでの制御と形式検証を用いることで、権限のないアクセスを防ぎ、安全な動作を保証することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>NVIDIA/OpenShell<br>OpenShellは、自律型AIエージェント向けの安全でプライベートな実行環境です。<br>エージェントにファイル操作やAPI利用などの機能を提供しつつ、ポリシーによってデータやネットワークへのアクセスを制限します。<br>カーネルレベルでの制御と形式検証を用いることで、権限のないアクセスを防ぎ、安全な動作を保証することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>I&apos;m at OpenAI&apos;s DevDay event in San Francisco today - as I h…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwoc6wab4s2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwoc6wab4s2d</guid>
+      <pubDate>Tue, 29 Sep 2026 16:54:38 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes simonwillison.net/2026/Sep/29/...]]></description>
+      <content:encoded><![CDATA[I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes simonwillison.net/2026/Sep/29/...]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  debpalash/VoiceStudio 646言語に対応したオープンソースの音声処理ツ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwobxu4xdg2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwobxu4xdg2c</guid>
+      <pubDate>Tue, 29 Sep 2026 16:50:41 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>646言語に対応したオープンソースの音声処理ツールです。<br>音声クローニング、音声設計、ビデオ吹き替え、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にはローカル環境で動作し、API連携やリモートサービスの利用にも対応しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>646言語に対応したオープンソースの音声処理ツールです。<br>音声クローニング、音声設計、ビデオ吹き替え、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にはローカル環境で動作し、API連携やリモートサービスの利用にも対応しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  nvidia/Nemotron-3-Diarization Nemotron 3…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoaksdxos2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoaksdxos2k</guid>
+      <pubDate>Tue, 29 Sep 2026 16:25:29 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Nemotron-3-Diarization<br>Nemotron 3 Diarizationは、音声データから誰がいつ話したかを特定する話者分離モデルです。<br>最大8人の話者に対応し、ストリーミングとオフラインの両方の推論をサポートしています。<br>低遅延での処理が可能で、商用および非商用での利用が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Nemotron-3-Diarization<br>Nemotron 3 Diarizationは、音声データから誰がいつ話したかを特定する話者分離モデルです。<br>最大8人の話者に対応し、ストリーミングとオフラインの両方の推論をサポートしています。<br>低遅延での処理が可能で、商用および非商用での利用が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  XingChen-AGI/Xing4.0-29B-A4B China Telec…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoagkdqff27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoagkdqff27</guid>
+      <pubDate>Tue, 29 Sep 2026 16:23:06 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecomが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecomが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Contrastive-LM/CLM-v0.1-8B Qwen3-8Bをベースに…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoadseuyr2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoadseuyr2t</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:34 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Contrastive-LM/CLM-v0.1-8B<br>Qwen3-8Bをベースにした対照学習モデルCLMを提供することを目的としています。<br>状態と行動を結びつけるSystem Oneモデルとして設計されており、低遅延かつ高速なランキングや分類を実現します。<br>エージェントの軌跡データを用いて学習されており、従来のモデルより高速な動作が可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Contrastive-LM/CLM-v0.1-8B<br>Qwen3-8Bをベースにした対照学習モデルCLMを提供することを目的としています。<br>状態と行動を結びつけるSystem Oneモデルとして設計されており、低遅延かつ高速なランキングや分類を実現します。<br>エージェントの軌跡データを用いて学習されており、従来のモデルより高速な動作が可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>Why did VS Code choose Electron? 🤔  The team wanted a light…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoad53nkk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoad53nkk2x</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:12 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[Why did VS Code choose Electron? 🤔<br><br>The team wanted a lightweight editor with the rich language support and debugging tools developers need, while keeping the same web technologies across platforms.<br><br>🍿 Watch The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></description>
+      <content:encoded><![CDATA[Why did VS Code choose Electron? 🤔<br><br>The team wanted a lightweight editor with the rich language support and debugging tools developers need, while keeping the same web technologies across platforms.<br><br>🍿 Watch The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen-Image-2.1 Qwen-Image-2.1は、テキスト…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoacyxa342b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoacyxa342b</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:08 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合したモデルです。<br>70億パラメータの視覚生成コンポーネントを備え、生成品質、推論効率、汎用性のバランスを最適化しています。<br>主な機能として、テキストによる画像生成、画像の編集、透過画像の生成が提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen-Image-2.1<br>Qwen-Image-2.1は、テキストからの画像生成と画像編集を統合したモデルです。<br>70億パラメータの視覚生成コンポーネントを備え、生成品質、推論効率、汎用性のバランスを最適化しています。<br>主な機能として、テキストによる画像生成、画像の編集、透過画像の生成が提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  abenzerps/Qwen-Image-2.1-Uncensored-GGUF…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoabxaejz2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoabxaejz2t</guid>
+      <pubDate>Tue, 29 Sep 2026 16:20:32 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1の検閲解除版GGUF量子化モデルを提供し、ローカル環境での画像生成を可能にすることを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1の検閲解除版GGUF量子化モデルを提供し、ローカル環境での画像生成を可能にすることを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 rohitg00 / ai-engine…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoa47touy2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoa47touy2p</guid>
+      <pubDate>Tue, 29 Sep 2026 16:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 60,825 (+1,287)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 rohitg00 / ai-engineering-from-scratch<br>⭐ 60,825 (+1,287)<br>🗒 Python<br><br>Learn it. Build it. Ship it for others.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   20世紀半ばには家庭での客人をもてなす文化が盛んだったが、1975年以降大幅に減少し、200…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwo6bqe7lb2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwo6bqe7lb2w</guid>
+      <pubDate>Tue, 29 Sep 2026 15:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>20世紀半ばには家庭での客人をもてなす文化が盛んだったが、1975年以降大幅に減少し、2000年代には家を開く習慣がほぼ崩壊した。最新のデータは、1975年の月次ホスト比が42%だったのに対し、2026年には12%へと70%も落ち込み、友人・家族を自宅で迎える機会が急減している理由として、忙しさの増大と子育て・家事の負担、家にいる時間の増加が影響していると分析されている。結論として、技術の進歩は個人の娯楽を家内完結へと移し、共同の時間を必要とするダイナーや集まりを縮小させている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>20世紀半ばには家庭での客人をもてなす文化が盛んだったが、1975年以降大幅に減少し、2000年代には家を開く習慣がほぼ崩壊した。最新のデータは、1975年の月次ホスト比が42%だったのに対し、2026年には12%へと70%も落ち込み、友人・家族を自宅で迎える機会が急減している理由として、忙しさの増大と子育て・家事の負担、家にいる時間の増加が影響していると分析されている。結論として、技術の進歩は個人の娯楽を家内完結へと移し、共同の時間を必要とするダイナーや集まりを縮小させている。]]></content:encoded>
+    </item>
+    <item>
+      <title>もう夕食には招待されていません。 You Are No Longer Invited to Dinner  🔺 441…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwo6bcxwpq2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwo6bcxwpq2a</guid>
+      <pubDate>Tue, 29 Sep 2026 15:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[もう夕食には招待されていません。<br>You Are No Longer Invited to Dinner<br><br>🔺 441<br>💬 81<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[もう夕食には招待されていません。<br>You Are No Longer Invited to Dinner<br><br>🔺 441<br>💬 81<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwo5er33zh2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwo5er33zh2a</guid>
+      <pubDate>Tue, 29 Sep 2026 15:28:25 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>quickstart, architecture references, SDKs, and community res…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4vjzyz32y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4vjzyz32y</guid>
+      <pubDate>Tue, 29 Sep 2026 15:19:53 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[quickstart, architecture references, SDKs, and community resources. (2/2)]]></description>
+      <content:encoded><![CDATA[quickstart, architecture references, SDKs, and community resources. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   OpenShell is a secure, policy-driven runtime f…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4vgyfoi2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4vgyfoi2p</guid>
+      <pubDate>Tue, 29 Sep 2026 15:19:47 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>OpenShell is a secure, policy-driven runtime for autonomous AI agents that enforces kernel-level access controls and uses formal verification to review policy changes, enabling controlled file, network, and credential access across sandboxes. The page provides an overview, (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>OpenShell is a secure, policy-driven runtime for autonomous AI agents that enforces kernel-level access controls and uses formal verification to review policy changes, enabling controlled file, network, and credential access across sandboxes. The page provides an overview, (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 NVIDIA / OpenShell ⭐…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4spw5e42z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwo4spw5e42z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:17:40 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 NVIDIA / OpenShell<br>⭐ 9,944 (+978)<br>🗒 Rust<br><br>OpenShell is the safe, private runtime for autonomous AI agents.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 NVIDIA / OpenShell<br>⭐ 9,944 (+978)<br>🗒 Rust<br><br>OpenShell is the safe, private runtime for autonomous AI agents.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnzz3y6mn2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnzz3y6mn2h</guid>
+      <pubDate>Tue, 29 Sep 2026 14:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」<br><br>🔖 176 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」<br><br>🔖 176 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>I wrote about why I think they&apos;ve hit product market fit bac…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnyebw25c2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnyebw25c2p</guid>
+      <pubDate>Tue, 29 Sep 2026 13:58:41 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I wrote about why I think they've hit product market fit back in May simonwillison.net/2026/May/27/...]]></description>
+      <content:encoded><![CDATA[I wrote about why I think they've hit product market fit back in May simonwillison.net/2026/May/27/...]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic told investors that their Q2 was profitable, and i…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnybejv2c2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnybejv2c2p</guid>
+      <pubDate>Tue, 29 Sep 2026 13:57:03 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Anthropic told investors that their Q2 was profitable, and it looks like their Q3 is going to be profitable too<br><br>They haven't shared audited financials yet, I expect those will come with their S-1]]></description>
+      <content:encoded><![CDATA[Anthropic told investors that their Q2 was profitable, and it looks like their Q3 is going to be profitable too<br><br>They haven't shared audited financials yet, I expect those will come with their S-1]]></content:encoded>
+    </item>
+    <item>
+      <title>I don&apos;t think we have a Fable-class open weight model yet - …</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnxlqb7ck2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnxlqb7ck2p</guid>
+      <pubDate>Tue, 29 Sep 2026 13:44:57 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[I don't think we have a Fable-class open weight model yet - wouldn't be surprised if we got there by the end of the year though]]></description>
+      <content:encoded><![CDATA[I don't think we have a Fable-class open weight model yet - wouldn't be surprised if we got there by the end of the year though]]></content:encoded>
+    </item>
+    <item>
+      <title>MongoDBのCEOが辞任し、Metaに参加する。 MongoDB CEO resigns to join Meta …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnxkpznd32p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnxkpznd32p</guid>
+      <pubDate>Tue, 29 Sep 2026 13:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[MongoDBのCEOが辞任し、Metaに参加する。<br>MongoDB CEO resigns to join Meta<br><br>🔺 355<br>💬 42<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[MongoDBのCEOが辞任し、Metaに参加する。<br>MongoDB CEO resigns to join Meta<br><br>🔺 355<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法　突然親…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnwo4vmdn2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnwo4vmdn2y</guid>
+      <pubDate>Tue, 29 Sep 2026 13:28:23 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法　突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法　突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📦 rakyll / hey ⭐ 20,380 (+31) 🗒 Go  HTTP load generator, A…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwnw2fhkej25</link>
@@ -81,369 +468,6 @@
       <content:encoded><![CDATA[Are y'all REALLY making me defend Anthropic again?<br><br>They made $4.6 billion in all of 2025. They made $11.5 billion from April to June 2026.<br><br>Their run rate was last reported at $65 billion. That's almost 15x in under a year.
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibwccaws4syv2etgikaap4xyrzhgl75zepwcied35fmxhqtyt4hhe" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibwccaws4syv2etgikaap4xyrzhgl75zepwcied35fmxhqtyt4hhe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I just finished recording for the day. I have been working s…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnleqvcim2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnleqvcim2f</guid>
-      <pubDate>Tue, 29 Sep 2026 10:06:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I just finished recording for the day. I have been working since 11am.<br><br>It is now 3am.<br><br>I should probably sleep, huh.]]></description>
-      <content:encoded><![CDATA[I just finished recording for the day. I have been working since 11am.<br><br>It is now 3am.<br><br>I should probably sleep, huh.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   最近の frontier AI ラボ、特に OpenAI と Anthropic が過激な発…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnk5o344u2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnk5o344u2f</guid>
-      <pubDate>Tue, 29 Sep 2026 09:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>最近の frontier AI ラボ、特に OpenAI と Anthropic が過激な発表・主張を繰り返し、AI の暴走リスクを強調する一方で政府の規制を求める動きを強めている。しかし著者はこうした動きが過度な崇高さや自己正当化につながっており、 congressional による事実調査が必要だと主張している。調査項目として、具体的な問題を生む技術の特定、安全対策の実効性、終末論的イデオロギーの影響の三点を挙げている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>最近の frontier AI ラボ、特に OpenAI と Anthropic が過激な発表・主張を繰り返し、AI の暴走リスクを強調する一方で政府の規制を求める動きを強めている。しかし著者はこうした動きが過度な崇高さや自己正当化につながっており、 congressional による事実調査が必要だと主張している。調査項目として、具体的な問題を生む技術の特定、安全対策の実効性、終末論的イデオロギーの影響の三点を挙げている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIラボを調査する時が来た。 It&apos;s Time to Investigate the AI Labs  🔺 492 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnk5htbx32z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwnk5htbx32z</guid>
-      <pubDate>Tue, 29 Sep 2026 09:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIラボを調査する時が来た。<br>It's Time to Investigate the AI Labs<br><br>🔺 492<br>💬 36<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIラボを調査する時が来た。<br>It's Time to Investigate the AI Labs<br><br>🔺 492<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>@grok is this real</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwngdje3sq2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwngdje3sq2l</guid>
-      <pubDate>Tue, 29 Sep 2026 08:36:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[@grok is this real]]></description>
-      <content:encoded><![CDATA[@grok is this real]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる  🔖 156 ブ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnfvivzlr2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnfvivzlr2a</guid>
-      <pubDate>Tue, 29 Sep 2026 08:28:17 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる<br><br>🔖 156 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>&gt; Compute and infrastructure spending: $7.33B  We&apos;re still s…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfj3rfys2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfj3rfys2t</guid>
-      <pubDate>Tue, 29 Sep 2026 08:21:21 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[> Compute and infrastructure spending: $7.33B<br><br>We're still so early.]]></description>
-      <content:encoded><![CDATA[> Compute and infrastructure spending: $7.33B<br><br>We're still so early.]]></content:encoded>
-    </item>
-    <item>
-      <title>After she scanned each bar and put them in a bag and started…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfiur6bz2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfiur6bz2k</guid>
-      <pubDate>Tue, 29 Sep 2026 08:21:02 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[After she scanned each bar and put them in a bag and started to say the price, he kept interrupting her by yawning really loudly.]]></description>
-      <content:encoded><![CDATA[After she scanned each bar and put them in a bag and started to say the price, he kept interrupting her by yawning really loudly.]]></content:encoded>
-    </item>
-    <item>
-      <title>When she took one of the bars and started scanning it multip…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfirq7422w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfirq7422w</guid>
-      <pubDate>Tue, 29 Sep 2026 08:21:01 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[When she took one of the bars and started scanning it multiple times, he stopped her and told her to scan them each individually “to prevent any cache infetterence,” and then turned around and winked at me. I don’t even think that’s a word.]]></description>
-      <content:encoded><![CDATA[When she took one of the bars and started scanning it multiple times, he stopped her and told her to scan them each individually “to prevent any cache infetterence,” and then turned around and winked at me. I don’t even think that’s a word.]]></content:encoded>
-    </item>
-    <item>
-      <title>The girl at the counter was very nice about it and professio…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfioo2i22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfioo2i22w</guid>
-      <pubDate>Tue, 29 Sep 2026 08:21:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The girl at the counter was very nice about it and professional, and was like “Sir, you need to pay for those first.” At first he kept pretending to be tired and not hear her, but eventually turned back around and brought them to the counter.]]></description>
-      <content:encoded><![CDATA[The girl at the counter was very nice about it and professional, and was like “Sir, you need to pay for those first.” At first he kept pretending to be tired and not hear her, but eventually turned back around and brought them to the counter.]]></content:encoded>
-    </item>
-    <item>
-      <title>When I came to pay for my stuff up front I saw him trying to…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfilmrnm2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfilmrnm2l</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[When I came to pay for my stuff up front I saw him trying to walk out the doors with like fifteen Milky Ways in his hands without paying.]]></description>
-      <content:encoded><![CDATA[When I came to pay for my stuff up front I saw him trying to walk out the doors with like fifteen Milky Ways in his hands without paying.]]></content:encoded>
-    </item>
-    <item>
-      <title>I was taken aback, and all I could say was “Huh?” but he kep…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfiilryk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfiilryk2z</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:58 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I was taken aback, and all I could say was “Huh?” but he kept cutting me off and going “huh? huh? huh?” and closing his hand shut in front of my face. I walked away and continued with my shopping, and I heard him chuckle as I walked off.]]></description>
-      <content:encoded><![CDATA[I was taken aback, and all I could say was “Huh?” but he kept cutting me off and going “huh? huh? huh?” and closing his hand shut in front of my face. I walked away and continued with my shopping, and I heard him chuckle as I walked off.]]></content:encoded>
-    </item>
-    <item>
-      <title>I saw Tibo at a grocery store in San Francisco yesterday. I …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfifknwj2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnfifknwj2k</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I saw Tibo at a grocery store in San Francisco yesterday. I told him how cool it was to meet him in person, but I didn’t want to be a douche and bother him and ask him for resets or anything.<br><br>He said, “Oh, like you’re doing now?”]]></description>
-      <content:encoded><![CDATA[I saw Tibo at a grocery store in San Francisco yesterday. I told him how cool it was to meet him in person, but I didn’t want to be a douche and bother him and ask him for resets or anything.<br><br>He said, “Oh, like you’re doing now?”]]></content:encoded>
-    </item>
-    <item>
-      <title>btw I got a 6th Claude sub</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnenmqiui2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnenmqiui2r</guid>
-      <pubDate>Tue, 29 Sep 2026 08:05:59 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[btw I got a 6th Claude sub]]></description>
-      <content:encoded><![CDATA[btw I got a 6th Claude sub]]></content:encoded>
-    </item>
-    <item>
-      <title>TIL that model nerfs are real and they&apos;re actually my fault?…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnenf3juj2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwnenf3juj2z</guid>
-      <pubDate>Tue, 29 Sep 2026 08:05:51 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[TIL that model nerfs are real and they're actually my fault? Incredible.]]></description>
-      <content:encoded><![CDATA[TIL that model nerfs are real and they're actually my fault? Incredible.]]></content:encoded>
-    </item>
-    <item>
-      <title>更新されたGoogleマップはラファ市の破壊を示している。 Updated Google Maps shows dest…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwndgwgzn62p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwndgwgzn62p</guid>
-      <pubDate>Tue, 29 Sep 2026 07:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[更新されたGoogleマップはラファ市の破壊を示している。<br>Updated Google Maps shows destruction of the city of Rafah<br><br>🔺 472<br>💬 33<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[更新されたGoogleマップはラファ市の破壊を示している。<br>Updated Google Maps shows destruction of the city of Rafah<br><br>🔺 472<br>💬 33<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonnet 5.5 is an incredible model. You probably shouldn&apos;t us…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncyjhgcz2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncyjhgcz2z</guid>
-      <pubDate>Tue, 29 Sep 2026 07:36:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Sonnet 5.5 is an incredible model. You probably shouldn't use it. Here's a video explaining why.]]></description>
-      <content:encoded><![CDATA[Sonnet 5.5 is an incredible model. You probably shouldn't use it. Here's a video explaining why.]]></content:encoded>
-    </item>
-    <item>
-      <title>Hopefully this is the &quot;end of bad news&quot; and Dev Day tomorrow…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncyepfe72t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncyepfe72t</guid>
-      <pubDate>Tue, 29 Sep 2026 07:36:12 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Hopefully this is the "end of bad news" and Dev Day tomorrow is the start of good news 🤞]]></description>
-      <content:encoded><![CDATA[Hopefully this is the "end of bad news" and Dev Day tomorrow is the start of good news 🤞]]></content:encoded>
-    </item>
-    <item>
-      <title>&quot;if you do the math, it will net out at half the dollar in A…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncy4zbte22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncy4zbte22</guid>
-      <pubDate>Tue, 29 Sep 2026 07:36:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA["if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan."<br><br>Ooooof. Mad respect for the transparency here but this hurts a lot]]></description>
-      <content:encoded><![CDATA["if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan."<br><br>Ooooof. Mad respect for the transparency here but this hurts a lot]]></content:encoded>
-    </item>
-    <item>
-      <title>I can confidently say I&apos;m more qualified in these matters th…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxunq4f2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxunq4f2f</guid>
-      <pubDate>Tue, 29 Sep 2026 07:35:55 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I can confidently say I'm more qualified in these matters than the other CEOs who were tagged]]></description>
-      <content:encoded><![CDATA[I can confidently say I'm more qualified in these matters than the other CEOs who were tagged]]></content:encoded>
-    </item>
-    <item>
-      <title>Increasingly thankful for Supabase. Their incredibly insecur…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxnisw52f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxnisw52f</guid>
-      <pubDate>Tue, 29 Sep 2026 07:35:48 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Increasingly thankful for Supabase. Their incredibly insecure defaults make data collection so easy :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidtvn2xux75fgun46hliq4a3bqtsuqu43yj6pszfx7rojyjj4la7q" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Increasingly thankful for Supabase. Their incredibly insecure defaults make data collection so easy :)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidtvn2xux75fgun46hliq4a3bqtsuqu43yj6pszfx7rojyjj4la7q" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidtvn2xux75fgun46hliq4a3bqtsuqu43yj6pszfx7rojyjj4la7q" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>If this was real it would say &quot;corgi&quot; somewhere on it</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxhbnun2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwncxhbnun2f</guid>
-      <pubDate>Tue, 29 Sep 2026 07:35:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[If this was real it would say "corgi" somewhere on it]]></description>
-      <content:encoded><![CDATA[If this was real it would say "corgi" somewhere on it]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由  🔖 153 ブックマーク 💬 コ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnck4lrey27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwnck4lrey27</guid>
-      <pubDate>Tue, 29 Sep 2026 07:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Maybe if they can convince every other lab to slow down too!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnaxuylsk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnaxuylsk2o</guid>
-      <pubDate>Tue, 29 Sep 2026 07:00:08 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Maybe if they can convince every other lab to slow down too!]]></description>
-      <content:encoded><![CDATA[Maybe if they can convince every other lab to slow down too!]]></content:encoded>
-    </item>
-    <item>
-      <title>No idea, I think the fact that the Reuters story only includ…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnawzhfks2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwnawzhfks2o</guid>
-      <pubDate>Tue, 29 Sep 2026 06:59:39 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[No idea, I think the fact that the Reuters story only includes 2025 numbers is really weird]]></description>
-      <content:encoded><![CDATA[No idea, I think the fact that the Reuters story only includes 2025 numbers is really weird]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;d love to know that  We can at least estimate based on how…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn5yorlok2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn5yorlok2z</guid>
-      <pubDate>Tue, 29 Sep 2026 06:06:54 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I'd love to know that<br><br>We can at least estimate based on how much it costs to run similarly capable open weight models - Kiki K3 etc]]></description>
-      <content:encoded><![CDATA[I'd love to know that<br><br>We can at least estimate based on how much it costs to run similarly capable open weight models - Kiki K3 etc]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;m pretty skeptical of those trillion dollar infrastructure…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn5w4fl5c2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn5w4fl5c2z</guid>
-      <pubDate>Tue, 29 Sep 2026 06:05:28 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I'm pretty skeptical of those trillion dollar infrastructure numbers - they sound very bubbly to me<br><br>Billions of dollars I can believe - Anthropic are already renting environmentally nasty data centers from SpaceX for over a billion dollars a month, and that's because they needed the extra capacity]]></description>
-      <content:encoded><![CDATA[I'm pretty skeptical of those trillion dollar infrastructure numbers - they sound very bubbly to me<br><br>Billions of dollars I can believe - Anthropic are already renting environmentally nasty data centers from SpaceX for over a billion dollars a month, and that's because they needed the extra capacity]]></content:encoded>
-    </item>
-    <item>
-      <title>選択肢の表現やプロンプトの工夫が重要、英語・テキスト限定。 (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qspqow2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qspqow2i</guid>
-      <pubDate>Tue, 29 Sep 2026 05:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[選択肢の表現やプロンプトの工夫が重要、英語・テキスト限定。 (2/2)]]></description>
-      <content:encoded><![CDATA[選択肢の表現やプロンプトの工夫が重要、英語・テキスト限定。 (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   小型の零-shot分類モデル Jeff（ Jeff-Qwen3.5-0.8B/2B, Jef…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qslyk22p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qslyk22p</guid>
-      <pubDate>Tue, 29 Sep 2026 05:44:36 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>小型の零-shot分類モデル Jeff（ Jeff-Qwen3.5-0.8B/2B, Jeff-Gemma4-E2B）と Gemma4 を用い、同じ Jev 形式のリクエストで一度の前方計算から各選択肢に確率を返す高速判定モデルを提供。ローカル機械で訓練・動作可能で、0.8–2B パラメータ級ながらベンチマークをJevと競合・時に上回り、0.8Bは特に速度と実用性のバランスが良い。必要に応じて短時間のファインチューンで精度を大幅向上させられ、26択まで対応、ゲームプレイや実務の意思決定支援に適するが、推論過程の多段階推論には弱く、 (1/2)]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>小型の零-shot分類モデル Jeff（ Jeff-Qwen3.5-0.8B/2B, Jeff-Gemma4-E2B）と Gemma4 を用い、同じ Jev 形式のリクエストで一度の前方計算から各選択肢に確率を返す高速判定モデルを提供。ローカル機械で訓練・動作可能で、0.8–2B パラメータ級ながらベンチマークをJevと競合・時に上回り、0.8Bは特に速度と実用性のバランスが良い。必要に応じて短時間のファインチューンで精度を大幅向上させられ、26択まで対応、ゲームプレイや実務の意思決定支援に適するが、推論過程の多段階推論には弱く、 (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>Jeff — Jev互換の0.8Bパラメータの意思決定モデル、自宅で訓練、約30ミリ秒 Jeff – Jev-compa…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qkjb6w2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwn4qkjb6w2b</guid>
-      <pubDate>Tue, 29 Sep 2026 05:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Jeff — Jev互換の0.8Bパラメータの意思決定モデル、自宅で訓練、約30ミリ秒<br>Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms<br><br>🔺 417<br>💬 28<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Jeff — Jev互換の0.8Bパラメータの意思決定モデル、自宅で訓練、約30ミリ秒<br>Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms<br><br>🔺 417<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>They&apos;re rumored to make a healthy margin on inference - so t…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn3y24h3k2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn3y24h3k2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:30:45 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[They're rumored to make a healthy margin on inference - so the more tokens they can sell the better<br><br>Especially since corporate clients can't sign up for the $100 or $200/month subscription plans - companies have to pay the full API prices]]></description>
-      <content:encoded><![CDATA[They're rumored to make a healthy margin on inference - so the more tokens they can sell the better<br><br>Especially since corporate clients can't sign up for the $100 or $200/month subscription plans - companies have to pay the full API prices]]></content:encoded>
-    </item>
-    <item>
-      <title>They&apos;ve caught up a bit in the past couple of months with Co…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2zio4tk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2zio4tk2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:13:40 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[They've caught up a bit in the past couple of months with Codex Desktop and GPT-5.6 and GPT-6 - but enterprise companies like signing longer deals and Anthropic snapped up a whole lot of those in the first half of the year]]></description>
-      <content:encoded><![CDATA[They've caught up a bit in the past couple of months with Codex Desktop and GPT-5.6 and GPT-6 - but enterprise companies like signing longer deals and Anthropic snapped up a whole lot of those in the first half of the year]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI do seem a whole lot more enthusiastic than Anthropic …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2v2feec2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2v2feec2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:11:11 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[OpenAI do seem a whole lot more enthusiastic than Anthropic at shouting about spending a trillion dollars on data centers or whatever - I think they blow a lot more hot air (which is saying a lot)]]></description>
-      <content:encoded><![CDATA[OpenAI do seem a whole lot more enthusiastic than Anthropic at shouting about spending a trillion dollars on data centers or whatever - I think they blow a lot more hot air (which is saying a lot)]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI were blowing untold amounts of money on distractions …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2sa62sk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2sa62sk2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:09:36 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[OpenAI were blowing untold amounts of money on distractions like Sora - then in April they refocused because Anthropic were eating their lunch, and now they're trying to run the same playbook]]></description>
-      <content:encoded><![CDATA[OpenAI were blowing untold amounts of money on distractions like Sora - then in April they refocused because Anthropic were eating their lunch, and now they're trying to run the same playbook]]></content:encoded>
-    </item>
-    <item>
-      <title>It was coding agents. Prior to Claude Code and Codex (and th…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2q4igys2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2q4igys2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:08:25 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[It was coding agents. Prior to Claude Code and Codex (and the Opus 4.5 / GPT 5.1 models that made those actually work) it was hard to spend more than $50/month on AI tokens, there just wasn't enough useful stuff to do with them<br><br>A good coding agent can justify $50/day or more]]></description>
-      <content:encoded><![CDATA[It was coding agents. Prior to Claude Code and Codex (and the Opus 4.5 / GPT 5.1 models that made those actually work) it was hard to spend more than $50/month on AI tokens, there just wasn't enough useful stuff to do with them<br><br>A good coding agent can justify $50/day or more]]></content:encoded>
-    </item>
-    <item>
-      <title>Last year I didn&apos;t think OpenAI or Anthropic were long-term …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2mhueak2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2mhueak2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:06:23 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Last year I didn't think OpenAI or Anthropic were long-term sustainable at all<br><br>I thought their plan was to should "AGI! AGI!" at investors, keep the funding rolling in, and desperately hope to find a business model<br><br>This year they found a business model, and it's not "AGI", it's coding agents]]></description>
-      <content:encoded><![CDATA[Last year I didn't think OpenAI or Anthropic were long-term sustainable at all<br><br>I thought their plan was to should "AGI! AGI!" at investors, keep the funding rolling in, and desperately hope to find a business model<br><br>This year they found a business model, and it's not "AGI", it's coding agents]]></content:encoded>
-    </item>
-    <item>
-      <title>The 2025 ones? Sure, if they kept on losing money at that ra…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2ibdlcs2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwn2ibdlcs2z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:04:02 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The 2025 ones? Sure, if they kept on losing money at that rate in 2026.<br><br>But all indications are that the opposite has happened - in 2026 they found product-market fit for a product that companies are spending thousands of dollars per employee per month on<br><br>They didn't have that last year]]></description>
-      <content:encoded><![CDATA[The 2025 ones? Sure, if they kept on losing money at that rate in 2026.<br><br>But all indications are that the opposite has happened - in 2026 they found product-market fit for a product that companies are spending thousands of dollars per employee per month on<br><br>They didn't have that last year]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic&apos;s only existed for five years, and the stories I&apos;v…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzxh5ulk2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzxh5ulk2z</guid>
-      <pubDate>Tue, 29 Sep 2026 04:54:38 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Anthropic's only existed for five years, and the stories I've seen about them being financially sustainable have only been about 2026]]></description>
-      <content:encoded><![CDATA[Anthropic's only existed for five years, and the stories I've seen about them being financially sustainable have only been about 2026]]></content:encoded>
-    </item>
-    <item>
-      <title>I mean Uber set a cap of $1,500 per employee per AI tool the…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzu4sfhc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzu4sfhc2z</guid>
-      <pubDate>Tue, 29 Sep 2026 04:52:46 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I mean Uber set a cap of $1,500 per employee per AI tool they were using, and if they have ~3,000 engineers on staff that's a cool $4.5m per month from just one customer, AFTER they set those limits]]></description>
-      <content:encoded><![CDATA[I mean Uber set a cap of $1,500 per employee per AI tool they were using, and if they have ~3,000 engineers on staff that's a cool $4.5m per month from just one customer, AFTER they set those limits]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic claimed that two of their quarters this year have …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzq7c5wc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzq7c5wc2z</guid>
-      <pubDate>Tue, 29 Sep 2026 04:50:35 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Anthropic claimed that two of their quarters this year have been profitable - I'm holding out for the actual numbers in the full S-1 because of the many different ways they might be cooking the books, but I think there's a decent chance those claims will hold up]]></description>
-      <content:encoded><![CDATA[Anthropic claimed that two of their quarters this year have been profitable - I'm holding out for the actual numbers in the full S-1 because of the many different ways they might be cooking the books, but I think there's a decent chance those claims will hold up]]></content:encoded>
-    </item>
-    <item>
-      <title>Yes, you&apos;re right - which makes their revenue acceleration i…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzj7nrzc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwmzj7nrzc2z</guid>
-      <pubDate>Tue, 29 Sep 2026 04:46:40 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Yes, you're right - which makes their revenue acceleration in 2026 even more impressive]]></description>
-      <content:encoded><![CDATA[Yes, you're right - which makes their revenue acceleration in 2026 even more impressive]]></content:encoded>
     </item>
   </channel>
 </rss>
