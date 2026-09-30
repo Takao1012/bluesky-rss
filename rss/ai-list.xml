@@ -5,8 +5,47 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:40:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz42uvad2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz42uvad2o</guid>
+      <pubDate>Tue, 29 Sep 2026 23:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境と多数のアプリ連携を使い、あなたの目標達成を24/7サポートします。チャット、Slack、Teamsなどの経路を通じて操作・共有が可能で、専門的な業務を組織内で委任できる“専門家ドット”も提供予定です。現在Pro/Business Premiumなどのプランで段階的に展開中で、初期のドットは追加コストなしで利用開始できます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境と多数のアプリ連携を使い、あなたの目標達成を24/7サポートします。チャット、Slack、Teamsなどの経路を通じて操作・共有が可能で、専門的な業務を組織内で委任できる“専門家ドット”も提供予定です。現在Pro/Business Premiumなどのプランで段階的に展開中で、初期のドットは追加コストなしで利用開始できます。]]></content:encoded>
+    </item>
+    <item>
+      <title>Dots: 常駐エージェント Dots: Always-on agents  🔺 443 💬 119 🔗 HN P…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz3ubcb72s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz3ubcb72s</guid>
+      <pubDate>Tue, 29 Sep 2026 23:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Dots: 常駐エージェント<br>Dots: Always-on agents<br><br>🔺 443<br>💬 119<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Dots: 常駐エージェント<br>Dots: Always-on agents<br><br>🔺 443<br>💬 119<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>The other numbers come from Harbor Hub, which ran each model…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow4aumka2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow4aumka2l</guid>
+      <pubDate>Tue, 29 Sep 2026 22:51:03 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The other numbers come from Harbor Hub, which ran each model using the official harness:<br><br>https://hub.harborframework.com/datasets/terminal-bench/terminal-bench/4?tab=leaderboard&leaderboard=4-0-0<br><br>All models see a bump compared to AA, but 6.1 Sol sees the biggest bump moving from mini-swe to codex]]></description>
+      <content:encoded><![CDATA[The other numbers come from Harbor Hub, which ran each model using the official harness:<br><br>https://hub.harborframework.com/datasets/terminal-bench/terminal-bench/4?tab=leaderboard&leaderboard=4-0-0<br><br>All models see a bump compared to AA, but 6.1 Sol sees the biggest bump moving from mini-swe to codex]]></content:encoded>
+    </item>
+    <item>
+      <title>Updated run just finished. GPT-6.1 Sol still crushes. Turns …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow42u7c72k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow42u7c72k</guid>
+      <pubDate>Tue, 29 Sep 2026 22:50:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Updated run just finished. GPT-6.1 Sol still crushes. Turns out it performs WAY better in Codex than in mini-swe (what Artificial Analysis uses)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Updated run just finished. GPT-6.1 Sol still crushes. Turns out it performs WAY better in Codex than in mini-swe (what Artificial Analysis uses)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>💡 Summary:   DraftKingsは顧客の賭け履歴データをAIで分析し、勝てない可能性の高いギャンブラーを…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwosfcdahl2s</link>
@@ -444,42 +483,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>646言語に対応したオープンソースの音声処理ツールです。<br>音声クローニング、音声設計、ビデオ吹き替え、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にはローカル環境で動作し、API連携やリモートサービスの利用にも対応しています。<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>646言語に対応したオープンソースの音声処理ツールです。<br>音声クローニング、音声設計、ビデオ吹き替え、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にはローカル環境で動作し、API連携やリモートサービスの利用にも対応しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  nvidia/Nemotron-3-Diarization Nemotron 3…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoaksdxos2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoaksdxos2k</guid>
-      <pubDate>Tue, 29 Sep 2026 16:25:29 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Nemotron-3-Diarization<br>Nemotron 3 Diarizationは、音声データから誰がいつ話したかを特定する話者分離モデルです。<br>最大8人の話者に対応し、ストリーミングとオフラインの両方の推論をサポートしています。<br>低遅延での処理が可能で、商用および非商用での利用が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>nvidia/Nemotron-3-Diarization<br>Nemotron 3 Diarizationは、音声データから誰がいつ話したかを特定する話者分離モデルです。<br>最大8人の話者に対応し、ストリーミングとオフラインの両方の推論をサポートしています。<br>低遅延での処理が可能で、商用および非商用での利用が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  XingChen-AGI/Xing4.0-29B-A4B China Telec…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoagkdqff27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoagkdqff27</guid>
-      <pubDate>Tue, 29 Sep 2026 16:23:06 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecomが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/Xing4.0-29B-A4B<br>China Telecomが開発した大規模言語モデルXing4.0-29B-A4Bのモデルウェイトと設定ファイルを提供することを目的としたリポジトリです。<br>Hugging Face Transformers形式で提供されており、vLLMやSGLangなどの主要な推論フレームワークで利用可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Contrastive-LM/CLM-v0.1-8B Qwen3-8Bをベースに…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoadseuyr2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwoadseuyr2t</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:34 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Contrastive-LM/CLM-v0.1-8B<br>Qwen3-8Bをベースにした対照学習モデルCLMを提供することを目的としています。<br>状態と行動を結びつけるSystem Oneモデルとして設計されており、低遅延かつ高速なランキングや分類を実現します。<br>エージェントの軌跡データを用いて学習されており、従来のモデルより高速な動作が可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Contrastive-LM/CLM-v0.1-8B<br>Qwen3-8Bをベースにした対照学習モデルCLMを提供することを目的としています。<br>状態と行動を結びつけるSystem Oneモデルとして設計されており、低遅延かつ高速なランキングや分類を実現します。<br>エージェントの軌跡データを用いて学習されており、従来のモデルより高速な動作が可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Why did VS Code choose Electron? 🤔  The team wanted a light…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoad53nkk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwoad53nkk2x</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:12 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[Why did VS Code choose Electron? 🤔<br><br>The team wanted a lightweight editor with the rich language support and debugging tools developers need, while keeping the same web technologies across platforms.<br><br>🍿 Watch The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></description>
-      <content:encoded><![CDATA[Why did VS Code choose Electron? 🤔<br><br>The team wanted a lightweight editor with the rich language support and debugging tools developers need, while keeping the same web technologies across platforms.<br><br>🍿 Watch The Story of VS Code: www.youtube.com/watch?v=kHL3...<br><br>#vscode #storyofvscode]]></content:encoded>
     </item>
   </channel>
 </rss>
