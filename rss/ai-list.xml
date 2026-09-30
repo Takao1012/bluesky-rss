@@ -5,8 +5,209 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:14:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>I&apos;m genuinely scared that inexperienced devs like Kyle are g…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhg7hfwr2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhg7hfwr2z</guid>
+      <pubDate>Wed, 30 Sep 2026 23:06:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I'm genuinely scared that inexperienced devs like Kyle are going to trick well-meaning juniors into holding back their careers.]]></description>
+      <content:encoded><![CDATA[I'm genuinely scared that inexperienced devs like Kyle are going to trick well-meaning juniors into holding back their careers.]]></content:encoded>
+    </item>
+    <item>
+      <title>Knowledge gaps like this are the norm in real world work. Le…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhg4fyy32n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhg4fyy32n</guid>
+      <pubDate>Wed, 30 Sep 2026 23:06:00 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Knowledge gaps like this are the norm in real world work. Learning to operate with partial understandings of systems is key to long term success as an engineer, regardless of AI usage.]]></description>
+      <content:encoded><![CDATA[Knowledge gaps like this are the norm in real world work. Learning to operate with partial understandings of systems is key to long term success as an engineer, regardless of AI usage.]]></content:encoded>
+    </item>
+    <item>
+      <title>The example he highlights is one where I was unfamiliar with…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfzegd42a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfzegd42a</guid>
+      <pubDate>Wed, 30 Sep 2026 23:05:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The example he highlights is one where I was unfamiliar with details of how tagged skills are attached when we pass prompts to the Claude SDK. Funny enough, I know a lot (probably too much) about how we tag skills and how messages are passed over SDK, but this one intricacy was new to me.]]></description>
+      <content:encoded><![CDATA[The example he highlights is one where I was unfamiliar with details of how tagged skills are attached when we pass prompts to the Claude SDK. Funny enough, I know a lot (probably too much) about how we tag skills and how messages are passed over SDK, but this one intricacy was new to me.]]></content:encoded>
+    </item>
+    <item>
+      <title>Sounds bad until you realize it&apos;s a codebase with over 300 c…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfw2bwq2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfw2bwq2v</guid>
+      <pubDate>Wed, 30 Sep 2026 23:05:58 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Sounds bad until you realize it's a codebase with over 300 contributors and millions of lines of code. Doesn't matter how much AI is used, nobody knows the implementation details of all the code in a real world codebase like this.]]></description>
+      <content:encoded><![CDATA[Sounds bad until you realize it's a codebase with over 300 contributors and millions of lines of code. Doesn't matter how much AI is used, nobody knows the implementation details of all the code in a real world codebase like this.]]></content:encoded>
+    </item>
+    <item>
+      <title>Another day of Unemployed Kyle (aka WDS) dunking on me becau…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfslly72x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwrhfslly72x</guid>
+      <pubDate>Wed, 30 Sep 2026 23:05:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Another day of Unemployed Kyle (aka WDS) dunking on me because he has no real career experience.<br><br>His main complaint here is that I show multiple instances where I didn't know the depth of how part of a codebase worked.]]></description>
+      <content:encoded><![CDATA[Another day of Unemployed Kyle (aka WDS) dunking on me because he has no real career experience.<br><br>His main complaint here is that I show multiple instances where I didn't know the depth of how part of a codebase worked.]]></content:encoded>
+    </item>
+    <item>
+      <title>Just one command can help you stop leaking secrets into your…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mwrhegvlvb2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mwrhegvlvb2r</guid>
+      <pubDate>Wed, 30 Sep 2026 23:05:11 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[Just one command can help you stop leaking secrets into your public code.<br><br>Give your repositories essential security hygiene with gh-secure from the GitHub Security Lab. ✅ <br><br>Install and use it in the Copilot app, Copilot CLI, or GitHub CLI.<br>https://gh.io/gh-secure]]></description>
+      <content:encoded><![CDATA[Just one command can help you stop leaking secrets into your public code.<br><br>Give your repositories essential security hygiene with gh-secure from the GitHub Security Lab. ✅ <br><br>Install and use it in the Copilot app, Copilot CLI, or GitHub CLI.<br>https://gh.io/gh-secure]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 mksglu / context-mode ⭐ 24,297 (+88) 🗒 TypeScript  Conte…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwreoq5vh625</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwreoq5vh625</guid>
+      <pubDate>Wed, 30 Sep 2026 22:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 mksglu / context-mode<br>⭐ 24,297 (+88)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></description>
+      <content:encoded><![CDATA[📦 mksglu / context-mode<br>⭐ 24,297 (+88)<br>🗒 TypeScript<br><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Googleが新 frontierモデル Gemini 4 Argon を発表。高度な推論能…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrcu5oh322f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrcu5oh322f</guid>
+      <pubDate>Wed, 30 Sep 2026 21:44:30 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Googleが新 frontierモデル Gemini 4 Argon を発表。高度な推論能力を活かし、実務のソフトウェア開発・法務・財務などの企業ワークフローやサイバー防衛分野で先端性能を発揮するほか、長期的なタスクにも対応できるよう出力トークン上限を1Mへ拡張。設計には安全性強化を重ね、限定的な信頼済み defender に対して先行提供を開始し、段階的に一般提供へと拡大する予定。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Googleが新 frontierモデル Gemini 4 Argon を発表。高度な推論能力を活かし、実務のソフトウェア開発・法務・財務などの企業ワークフローやサイバー防衛分野で先端性能を発揮するほか、長期的なタスクにも対応できるよう出力トークン上限を1Mへ拡張。設計には安全性強化を重ね、限定的な信頼済み defender に対して先行提供を開始し、段階的に一般提供へと拡大する予定。]]></content:encoded>
+    </item>
+    <item>
+      <title>ジェミニ4 アルゴン Gemini 4 Argon  🔺 607 💬 82 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrctuatpc2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrctuatpc2f</guid>
+      <pubDate>Wed, 30 Sep 2026 21:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ジェミニ4 アルゴン<br>Gemini 4 Argon<br><br>🔺 607<br>💬 82<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ジェミニ4 アルゴン<br>Gemini 4 Argon<br><br>🔺 607<br>💬 82<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 modelcontextprotocol / servers ⭐ 90,707 (+48) 🗒 TypeScri…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwrbddgyta2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwrbddgyta2h</guid>
+      <pubDate>Wed, 30 Sep 2026 21:17:11 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 modelcontextprotocol / servers<br>⭐ 90,707 (+48)<br>🗒 TypeScript<br><br>Model Context Protocol Servers]]></description>
+      <content:encoded><![CDATA[📦 modelcontextprotocol / servers<br>⭐ 90,707 (+48)<br>🗒 TypeScript<br><br>Model Context Protocol Servers]]></content:encoded>
+    </item>
+    <item>
+      <title>Wait what</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwr7uacc7d2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwr7uacc7d2l</guid>
+      <pubDate>Wed, 30 Sep 2026 20:50:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Wait what]]></description>
+      <content:encoded><![CDATA[Wait what]]></content:encoded>
+    </item>
+    <item>
+      <title>Crazy how every single thing OpenAI (allegedly) gets wrong i…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwr7u2u2xy2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwr7u2u2xy2t</guid>
+      <pubDate>Wed, 30 Sep 2026 20:50:45 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Crazy how every single thing OpenAI (allegedly) gets wrong is actually my fault]]></description>
+      <content:encoded><![CDATA[Crazy how every single thing OpenAI (allegedly) gets wrong is actually my fault]]></content:encoded>
+    </item>
+    <item>
+      <title>🔎 Explore everything that&apos;s new in the full release notes: …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s54tk62w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s54tk62w</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:59 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔎 Explore everything that's new in the full release notes: <br><br>aka.ms/VSCode/140<br><br>Happy coding! 💙]]></description>
+      <content:encoded><![CDATA[🔎 Explore everything that's new in the full release notes: <br><br>aka.ms/VSCode/140<br><br>Happy coding! 💙]]></content:encoded>
+    </item>
+    <item>
+      <title>Join our VS Code Live on October 8! 🚀  We’ll share the late…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s4yqw52h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s4yqw52h</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:59 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[Join our VS Code Live on October 8! 🚀<br><br>We’ll share the latest updates, features, and demos from VS Code.<br><br>🔔 Set your reminder: www.youtube.com/watch?v=Fx05...]]></description>
+      <content:encoded><![CDATA[Join our VS Code Live on October 8! 🚀<br><br>We’ll share the latest updates, features, and demos from VS Code.<br><br>🔔 Set your reminder: www.youtube.com/watch?v=Fx05...]]></content:encoded>
+    </item>
+    <item>
+      <title>🗂️ Work across repositories or separate worktrees from one …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s4bmg724</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4s4bmg724</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:58 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🗂️ Work across repositories or separate worktrees from one agent session.<br><br>Each chat can use its own folder or worktree, with its own terminal, changes, tasks, and pull request.<br><br>Enable ⚙️ chat agentHost copilotAgent multiRoot in your user settings.json]]></description>
+      <content:encoded><![CDATA[🗂️ Work across repositories or separate worktrees from one agent session.<br><br>Each chat can use its own folder or worktree, with its own terminal, changes, tasks, and pull request.<br><br>Enable ⚙️ chat agentHost copilotAgent multiRoot in your user settings.json]]></content:encoded>
+    </item>
+    <item>
+      <title>🧠 Let HydraFusion orchestrate multiple models on your codin…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rrc64f27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rrc64f27</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:47 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🧠 Let HydraFusion orchestrate multiple models on your coding task.<br><br>It can choose the model and workflow for the task, then ask another model to critique and revise the result. Research Preview.]]></description>
+      <content:encoded><![CDATA[🧠 Let HydraFusion orchestrate multiple models on your coding task.<br><br>It can choose the model and workflow for the task, then ask another model to critique and revise the result. Research Preview.]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 Continue the same Copilot agent session across the editor…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rflnly2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rflnly2g</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:35 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 Continue the same Copilot agent session across the editor and Agents window.<br><br>Select the Copilot harness in the chat input to keep working with the same session in either one.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigccufjntt6mr3hxqralybxryvmfqisdh4dlrvyfg3iyz5ef5qhuq" alt="Screenshot showing the Copilot harness selected in the harness picker." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[🤖 Continue the same Copilot agent session across the editor and Agents window.<br><br>Select the Copilot harness in the chat input to keep working with the same session in either one.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigccufjntt6mr3hxqralybxryvmfqisdh4dlrvyfg3iyz5ef5qhuq" alt="Screenshot showing the Copilot harness selected in the harness picker." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreigccufjntt6mr3hxqralybxryvmfqisdh4dlrvyfg3iyz5ef5qhuq" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🔁 Skip repeated installs when creating new worktrees.  Reus…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rerl6s2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rerl6s2i</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:34 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔁 Skip repeated installs when creating new worktrees.<br><br>Reuse ignored folders across worktrees to avoid reinstalling dependencies or duplicating large build artifacts.]]></description>
+      <content:encoded><![CDATA[🔁 Skip repeated installs when creating new worktrees.<br><br>Reuse ignored folders across worktrees to avoid reinstalling dependencies or duplicating large build artifacts.]]></content:encoded>
+    </item>
+    <item>
+      <title>🌐 Delegate agent tasks to connected remote hosts from the A…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4renjqa2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4renjqa2g</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:34 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🌐 Delegate agent tasks to connected remote hosts from the Agents window.<br><br>Your agent can automatically place work based on available resources, including OS, memory, CPU, model, and current session load.]]></description>
+      <content:encoded><![CDATA[🌐 Delegate agent tasks to connected remote hosts from the Agents window.<br><br>Your agent can automatically place work based on available resources, including OS, memory, CPU, model, and current session load.]]></content:encoded>
+    </item>
+    <item>
+      <title>🚀 The latest VS Code release makes it easier to work across…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rdw4bs2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwr4rdw4bs2i</guid>
+      <pubDate>Wed, 30 Sep 2026 19:55:32 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🚀 The latest VS Code release makes it easier to work across repositories and worktrees and delegate tasks to remote agent hosts.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_140]]></description>
+      <content:encoded><![CDATA[🚀 The latest VS Code release makes it easier to work across repositories and worktrees and delegate tasks to remote agent hosts.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_140]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   宇宙ビューワー「Space Now」の操作方法が案内されており、ドラッグで回転、ホイールでズ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwr45zrjfh2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwr45zrjfh2o</guid>
+      <pubDate>Wed, 30 Sep 2026 19:44:45 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>宇宙ビューワー「Space Now」の操作方法が案内されており、ドラッグで回転、ホイールでズーム、クリックやダブルクリックで対象へ移動・情報表示、WASDで飛行、矢印・QEZで方向調整、Shiftで速度調整、グループ名クリックでハイライト、👁で軌道表示などの使い方が示されています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>宇宙ビューワー「Space Now」の操作方法が案内されており、ドラッグで回転、ホイールでズーム、クリックやダブルクリックで対象へ移動・情報表示、WASDで飛行、矢印・QEZで方向調整、Shiftで速度調整、グループ名クリックでハイライト、👁で軌道表示などの使い方が示されています。]]></content:encoded>
+    </item>
+    <item>
+      <title>Show HN: リアルタイムの太陽系、526,000個の小惑星と全ての追跡衛星 Show HN: Real-time …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwr45nxavc2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwr45nxavc2f</guid>
+      <pubDate>Wed, 30 Sep 2026 19:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Show HN: リアルタイムの太陽系、526,000個の小惑星と全ての追跡衛星<br>Show HN: Real-time Solar System with 526k asteroids and all tracked satellites<br><br>🔺 367<br>💬 55<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Show HN: リアルタイムの太陽系、526,000個の小惑星と全ての追跡衛星<br>Show HN: Real-time Solar System with 526k asteroids and all tracked satellites<br><br>🔺 367<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 colbymchenry / codegrap…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwr2mral7v2q</link>
@@ -346,207 +547,6 @@ Wait, that gives me 49,081,601,735,92? That doesn't seem right. Let me recount t
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[scalable rendering stack (including AWS Lambda) with extensive documentation and a 21-skill catalog. (2/2)]]></description>
       <content:encoded><![CDATA[scalable rendering stack (including AWS Lambda) with extensive documentation and a 21-skill catalog. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   HyperFrames is an open-source framework that l…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqgnho6qw2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqgnho6qw2o</guid>
-      <pubDate>Wed, 30 Sep 2026 13:19:35 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>HyperFrames is an open-source framework that lets you author HTML/CSS with seekable animations to deterministically render MP4 videos, using a modular CLI, core engine, and on-demand domain and agent skills. It emphasizes HTML-native authoring, agent-friendly workflows, and a (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>HyperFrames is an open-source framework that lets you author HTML/CSS with seekable animations to deterministically render MP4 videos, using a modular CLI, core engine, and on-demand domain and agent skills. It emphasizes HTML-native authoring, agent-friendly workflows, and a (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 heygen-com / hyperf…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqgl2agt42r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqgl2agt42r</guid>
-      <pubDate>Wed, 30 Sep 2026 13:17:42 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 54,410 (+324)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 heygen-com / hyperframes<br>⭐ 54,410 (+324)<br>🗒 TypeScript<br><br>Write HTML. Render video. Built for agents.]]></content:encoded>
-    </item>
-    <item>
-      <title>Finally home. What did I miss today?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwqf2za5o22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwqf2za5o22n</guid>
-      <pubDate>Wed, 30 Sep 2026 12:51:28 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Finally home. What did I miss today?]]></description>
-      <content:encoded><![CDATA[Finally home. What did I miss today?]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;m sorry I just don&apos;t see the similarity here at all</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwqf2tbzys2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwqf2tbzys2a</guid>
-      <pubDate>Wed, 30 Sep 2026 12:51:21 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I'm sorry I just don't see the similarity here at all]]></description>
-      <content:encoded><![CDATA[I'm sorry I just don't see the similarity here at all]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた  🔖 167 ブックマーク 💬…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqdrghqjp2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqdrghqjp2n</guid>
-      <pubDate>Wed, 30 Sep 2026 12:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた<br><br>🔖 167 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>work and improve code quality. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd7khttd2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd7khttd2p</guid>
-      <pubDate>Wed, 30 Sep 2026 12:18:09 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[work and improve code quality. (2/2)]]></description>
-      <content:encoded><![CDATA[work and improve code quality. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   A concise overview of &quot;Skills For Real Enginee…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd7fiupo2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd7fiupo2i</guid>
-      <pubDate>Wed, 30 Sep 2026 12:17:58 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>A concise overview of "Skills For Real Engineers" detailing two installation paths (Claude Code plugin or skills.sh), how to set up and run the skills for engineering tasks, and the core motivation: repeatable, language-consistent practices to align agents with real engineering (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>A concise overview of "Skills For Real Engineers" detailing two installation paths (Claude Code plugin or skills.sh), how to set up and run the skills for engineering tasks, and the core motivation: repeatable, language-consistent practices to align agents with real engineering (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 mattpocock / skills …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd5wdb4s2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqd5wdb4s2z</guid>
-      <pubDate>Wed, 30 Sep 2026 12:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 272,567 (+736)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></description>
-      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 mattpocock / skills<br>⭐ 272,567 (+736)<br>🗒 Shell<br><br>Skills for Real Engineers. Straight from my .agents directory.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   米国の制裁でICCのメールなどにアクセス不能となったことを受け、オランダ政府は米国製软件への…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqbdopblj2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqbdopblj2f</guid>
-      <pubDate>Wed, 30 Sep 2026 11:44:44 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>米国の制裁でICCのメールなどにアクセス不能となったことを受け、オランダ政府は米国製软件への依存を減らすべく、政府機関向けの自主運用環境「DAWO（Digital Autonomous Work Environment for Government）」の導入を進めている。これはOSからオフィスソフト、クラウドサービスまで、外国国の影響を受けにくい新システムへ刷新する計画である。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>米国の制裁でICCのメールなどにアクセス不能となったことを受け、オランダ政府は米国製软件への依存を減らすべく、政府機関向けの自主運用環境「DAWO（Digital Autonomous Work Environment for Government）」の導入を進めている。これはOSからオフィスソフト、クラウドサービスまで、外国国の影響を受けにくい新システムへ刷新する計画である。]]></content:encoded>
-    </item>
-    <item>
-      <title>米国の制裁により、オランダはマイクロソフトから離れ、代替としてNixOSを採用する方向へ向かっている。 US sanct…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqbddb6m72l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqbddb6m72l</guid>
-      <pubDate>Wed, 30 Sep 2026 11:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[米国の制裁により、オランダはマイクロソフトから離れ、代替としてNixOSを採用する方向へ向かっている。<br>US sanctions force The Netherlands off Microsoft and toward alternative NixOS<br><br>🔺 379<br>💬 27<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[米国の制裁により、オランダはマイクロソフトから離れ、代替としてNixOSを採用する方向へ向かっている。<br>US sanctions force The Netherlands off Microsoft and toward alternative NixOS<br><br>🔺 379<br>💬 27<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策  🔖 155 ブックマ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqage4mg32r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqage4mg32r</guid>
-      <pubDate>Wed, 30 Sep 2026 11:28:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ  🔖 152 ブック…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwq52t7uuq27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwq52t7uuq27</guid>
-      <pubDate>Wed, 30 Sep 2026 10:28:11 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>ウェブおよびモバイルの対話型AIエージェントのプライバシー分析 [PDF] A Privacy Analysis of …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwq2mfe3t52a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwq2mfe3t52a</guid>
-      <pubDate>Wed, 30 Sep 2026 09:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ウェブおよびモバイルの対話型AIエージェントのプライバシー分析 [PDF]<br>A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]<br><br>🔺 417<br>💬 50<br>🔗 HN Post | Article.pdf)]]></description>
-      <content:encoded><![CDATA[ウェブおよびモバイルの対話型AIエージェントのプライバシー分析 [PDF]<br>A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]<br><br>🔺 417<br>💬 50<br>🔗 HN Post | Article.pdf)]]></content:encoded>
-    </item>
-    <item>
-      <title>Here are detailed (Astra-generated) notes on what I ran gist…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwpzz5zbdk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwpzz5zbdk2h</guid>
-      <pubDate>Wed, 30 Sep 2026 09:33:34 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Here are detailed (Astra-generated) notes on what I ran gist.github.com/simonw/88baf...]]></description>
-      <content:encoded><![CDATA[Here are detailed (Astra-generated) notes on what I ran gist.github.com/simonw/88baf...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   livenerfは、ローンチ後にモデルが静かに劣化していないかを検出するための、決定論的かつ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwptwee62s2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwptwee62s2f</guid>
-      <pubDate>Wed, 30 Sep 2026 07:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>livenerfは、ローンチ後にモデルが静かに劣化していないかを検出するための、決定論的かつ再現性重視の短期ベンチマークです。Claude Opus 5.5を対象に、日次で同一条件・同一パネルを用いて長期間データを蓄積し、精密な統計でドリフトを検出する設計とプリプロトコルを公開しています。結果は日次データの10日間区間ごとに比較され、劣化・改善の両方向を評価します。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>livenerfは、ローンチ後にモデルが静かに劣化していないかを検出するための、決定論的かつ再現性重視の短期ベンチマークです。Claude Opus 5.5を対象に、日次で同一条件・同一パネルを用いて長期間データを蓄積し、精密な統計でドリフトを検出する設計とプリプロトコルを公開しています。結果は日次データの10日間区間ごとに比較され、劣化・改善の両方向を評価します。]]></content:encoded>
-    </item>
-    <item>
-      <title>Livenerf: Opus 5.5はもうナーフされましたか？ Livenerf: Has Opus 5.5 been …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwptvycerw2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwptvycerw2p</guid>
-      <pubDate>Wed, 30 Sep 2026 07:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Livenerf: Opus 5.5はもうナーフされましたか？<br>Livenerf: Has Opus 5.5 been nerfed yet?<br><br>🔺 533<br>💬 39<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Livenerf: Opus 5.5はもうナーフされましたか？<br>Livenerf: Has Opus 5.5 been nerfed yet?<br><br>🔺 533<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働  🔖 161 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpsyyw5kj2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpsyyw5kj2r</guid>
-      <pubDate>Wed, 30 Sep 2026 07:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延　タイムズカー情報流出直後に  🔖 168 ブックマーク …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwppnwybgm24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwppnwybgm24</guid>
-      <pubDate>Wed, 30 Sep 2026 06:28:20 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延　タイムズカー情報流出直後に<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延　タイムズカー情報流出直後に<br><br>🔖 168 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   アメリカ政府のサイトで、悪質なボットを防ぐためのセキュリティ検証を実施しています。利用者がボ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpn7gqepa2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpn7gqepa2p</guid>
-      <pubDate>Wed, 30 Sep 2026 05:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>アメリカ政府のサイトで、悪質なボットを防ぐためのセキュリティ検証を実施しています。利用者がボットでないことを確認するための表示ページです。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>アメリカ政府のサイトで、悪質なボットを防ぐためのセキュリティ検証を実施しています。利用者がボットでないことを確認するための表示ページです。]]></content:encoded>
-    </item>
-    <item>
-      <title>アメリカ政府公式サイト America.gov  🔺 483 💬 120 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpn7b4u4k2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpn7b4u4k2l</guid>
-      <pubDate>Wed, 30 Sep 2026 05:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[アメリカ政府公式サイト<br>America.gov<br><br>🔺 483<br>💬 120<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[アメリカ政府公式サイト<br>America.gov<br><br>🔺 483<br>💬 120<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 GitHub - mizchi/explainer  🔖 153 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpmcgwkvu2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpmcgwkvu2o</guid>
-      <pubDate>Wed, 30 Sep 2026 05:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 GitHub - mizchi/explainer<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 GitHub - mizchi/explainer<br><br>🔖 153 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I was inspired to try re-running your experiment with a loca…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwpiziwrw22h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwpiziwrw22h</guid>
-      <pubDate>Wed, 30 Sep 2026 04:29:32 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I was inspired to try re-running your experiment with a local, open weight model - Qwen 3.8 27B Q4A_K_M - here's the result
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihzqdtgyr2afwdfnnl6m3eubv2tgexihdbkbwzzjjvrmscryxlk5m" alt="Heatmap titled "Addition in words — Qwen3.8 27B Q4_K_M", subtitle "30 fixed random pairs per ordered digit-length cell (n = 5,070)". The x-axis is labeled "Number of digits in a" (1 to 13) and the y-axis is labeled "Number of digits in b" (1 to 13, bottom to top). A color bar labeled "Accuracy" runs from red at 0.00 through yellow at 0.50 to green at 1.00, with ticks at 0.00, 0.25, 0.50, 0.75 and 1.00. Cell values for a = 1 to 13 in order, by row. b=1: 97%, 100%, 100%, 100%, 80%, 67%, 77%, 80%, 80%, 60%, 43%, 30%, 37%. b=2: 100%, 100%, 93%, 90%, 77%, 77%, 43%, 50%, 63%, 43%, 40%, 13%, 23%. b=3: 100%, 93%, 90%, 80%, 67%, 37%, 17%, 0%, 0%, 3%, 0%, 0%, 0%. b=4: 83%, 93%, 90%, 93%, 53%, 13%, 0%, 0%, 0%, 0%, 0%, 0%, 0%. b=5: 73%, 67%, 87%, 80%, 53%, 40%, 0%, 0%, 3%, 0%, 0%, 0%, 0%. b=6: 60%, 60%, 33%, 10%, 53%, 47%, 7%, 3%, 0%, 0%, 0%, 0%, 0%. b=7: 53%, 23%, 17%, 10%, 3%, 3%, 13%, 3%, 0%, 0%, 0%, 0%, 0%. b=8: 53%, 20%, 0%, 0%, 0%, 0%, 7%, 13%, 0%, 0%, 0%, 0%, 0%. b=9: 77%, 47%, 3%, 0%, 0%, 0%, 0%, 3%, 7%, 0%, 0%, 0%, 0%. b=10: 70%, 27%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 13%, 0%, 0%, 0%. b=11: 47%, 10%, then 0% for a = 3 to 13. b=12: 53%, 20%, then 0% for a = 3 to 13. b=13: 17%, 13%, then 0% for a = 3 to 13. Accuracy is high (green) in the bottom-left, where both numbers are short, and falls to 0% (red) across most of the upper-right." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I was inspired to try re-running your experiment with a local, open weight model - Qwen 3.8 27B Q4A_K_M - here's the result
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihzqdtgyr2afwdfnnl6m3eubv2tgexihdbkbwzzjjvrmscryxlk5m" alt="Heatmap titled "Addition in words — Qwen3.8 27B Q4_K_M", subtitle "30 fixed random pairs per ordered digit-length cell (n = 5,070)". The x-axis is labeled "Number of digits in a" (1 to 13) and the y-axis is labeled "Number of digits in b" (1 to 13, bottom to top). A color bar labeled "Accuracy" runs from red at 0.00 through yellow at 0.50 to green at 1.00, with ticks at 0.00, 0.25, 0.50, 0.75 and 1.00. Cell values for a = 1 to 13 in order, by row. b=1: 97%, 100%, 100%, 100%, 80%, 67%, 77%, 80%, 80%, 60%, 43%, 30%, 37%. b=2: 100%, 100%, 93%, 90%, 77%, 77%, 43%, 50%, 63%, 43%, 40%, 13%, 23%. b=3: 100%, 93%, 90%, 80%, 67%, 37%, 17%, 0%, 0%, 3%, 0%, 0%, 0%. b=4: 83%, 93%, 90%, 93%, 53%, 13%, 0%, 0%, 0%, 0%, 0%, 0%, 0%. b=5: 73%, 67%, 87%, 80%, 53%, 40%, 0%, 0%, 3%, 0%, 0%, 0%, 0%. b=6: 60%, 60%, 33%, 10%, 53%, 47%, 7%, 3%, 0%, 0%, 0%, 0%, 0%. b=7: 53%, 23%, 17%, 10%, 3%, 3%, 13%, 3%, 0%, 0%, 0%, 0%, 0%. b=8: 53%, 20%, 0%, 0%, 0%, 0%, 7%, 13%, 0%, 0%, 0%, 0%, 0%. b=9: 77%, 47%, 3%, 0%, 0%, 0%, 0%, 3%, 7%, 0%, 0%, 0%, 0%. b=10: 70%, 27%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 13%, 0%, 0%, 0%. b=11: 47%, 10%, then 0% for a = 3 to 13. b=12: 53%, 20%, then 0% for a = 3 to 13. b=13: 17%, 13%, then 0% for a = 3 to 13. Accuracy is high (green) in the bottom-left, where both numbers are short, and falls to 0% (red) across most of the upper-right." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihzqdtgyr2afwdfnnl6m3eubv2tgexihdbkbwzzjjvrmscryxlk5m" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
