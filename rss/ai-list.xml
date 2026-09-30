@@ -5,8 +5,179 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 14:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:40:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 colbymchenry / codegrap…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwr2mral7v2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwr2mral7v2q</guid>
+      <pubDate>Wed, 30 Sep 2026 19:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 colbymchenry / codegraph<br>⭐ 72,445 (+116)<br>🗒 C<br><br>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 colbymchenry / codegraph<br>⭐ 72,445 (+116)<br>🗒 C<br><br>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   カリフォルニアのワイン生産者が需要減少の影響で多くのぶどう畑を撤去・休止させ、契約なしの販売…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqvhdwyw22o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqvhdwyw22o</guid>
+      <pubDate>Wed, 30 Sep 2026 17:44:41 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>カリフォルニアのワイン生産者が需要減少の影響で多くのぶどう畑を撤去・休止させ、契約なしの販売や在庫過剰で損失が拡大している。5年間でワイン販売が約23%減少し、農家は収益性の低い収穫を強いられ、地域経済にも打撃が及んでいる。原因は需要の低下、競争激化、健康志向の高まりなど多岐にわたり、ブドウ栽培から他作物への転換を検討する農家も増えている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>カリフォルニアのワイン生産者が需要減少の影響で多くのぶどう畑を撤去・休止させ、契約なしの販売や在庫過剰で損失が拡大している。5年間でワイン販売が約23%減少し、農家は収益性の低い収穫を強いられ、地域経済にも打撃が及んでいる。原因は需要の低下、競争激化、健康志向の高まりなど多岐にわたり、ブドウ栽培から他作物への転換を検討する農家も増えている。]]></content:encoded>
+    </item>
+    <item>
+      <title>カリフォルニア州の農家は、ワインの需要が落ち込む中でブドウの販売に苦戦している。 California farmers …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqvgwlxgk2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqvgwlxgk2z</guid>
+      <pubDate>Wed, 30 Sep 2026 17:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[カリフォルニア州の農家は、ワインの需要が落ち込む中でブドウの販売に苦戦している。<br>California farmers are struggling to sell grapes as demand for wine drops<br><br>🔺 383<br>💬 111<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[カリフォルニア州の農家は、ワインの需要が落ち込む中でブドウの販売に苦戦している。<br>California farmers are struggling to sell grapes as demand for wine drops<br><br>🔺 383<br>💬 111<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🧠 HydraFusion is now available in VS Code as a Research Pre…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwqvaehqmv24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mwqvaehqmv24</guid>
+      <pubDate>Wed, 30 Sep 2026 17:40:47 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🧠 HydraFusion is now available in VS Code as a Research Preview.<br><br>Instead of relying on a single model, HydraFusion orchestrates multiple models and workflows to tackle coding tasks.<br><br>Give it a try today! 🚀<br><br>aka.ms/VSCode/Hydra...]]></description>
+      <content:encoded><![CDATA[🧠 HydraFusion is now available in VS Code as a Research Preview.<br><br>Instead of relying on a single model, HydraFusion orchestrates multiple models and workflows to tackle coding tasks.<br><br>Give it a try today! 🚀<br><br>aka.ms/VSCode/Hydra...]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 firebase / firebase-ios-sdk ⭐ 6,702 (+4) 🗒 C++  Firebase…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqtwl6q752c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqtwl6q752c</guid>
+      <pubDate>Wed, 30 Sep 2026 17:17:17 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 firebase / firebase-ios-sdk<br>⭐ 6,702 (+4)<br>🗒 C++<br><br>Firebase SDK for Apple App Development]]></description>
+      <content:encoded><![CDATA[📦 firebase / firebase-ios-sdk<br>⭐ 6,702 (+4)<br>🗒 C++<br><br>Firebase SDK for Apple App Development]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  ComposioHQ/awesome-claude-skills </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqtggke3x2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqtggke3x2c</guid>
+      <pubDate>Wed, 30 Sep 2026 17:08:23 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>ComposioHQ/awesome-claude-skills<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ComposioHQ/awesome-claude-skills<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  openclaw/openclaw OpenClawは、ユーザー自身のコンピュータで動作す…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsypu5jh2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsypu5jh2n</guid>
+      <pubDate>Wed, 30 Sep 2026 17:00:43 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>openclaw/openclaw<br>OpenClawは、ユーザー自身のコンピュータで動作するオープンソースのAIアシスタントです。<br>DiscordやSlackなどの多様なチャットツールや各種OSのネイティブアプリで利用可能です。<br>データや認証情報をローカルで管理し、AIモデルをプラグインで自由に変更できるため、プライバシーと柔軟性を確保しながら個人やチームでAIアシスタントを運用することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>openclaw/openclaw<br>OpenClawは、ユーザー自身のコンピュータで動作するオープンソースのAIアシスタントです。<br>DiscordやSlackなどの多様なチャットツールや各種OSのネイティブアプリで利用可能です。<br>データや認証情報をローカルで管理し、AIモデルをプラグインで自由に変更できるため、プライバシーと柔軟性を確保しながら個人やチームでAIアシスタントを運用することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  harry0703/MoneyPrinterTurbo </title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsp2gllv2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsp2gllv2s</guid>
+      <pubDate>Wed, 30 Sep 2026 16:55:19 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>harry0703/MoneyPrinterTurbo<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  DietrichGebert/ponytail PonytailはAIエージェントに統合し…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsb74qnb2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqsb74qnb2n</guid>
+      <pubDate>Wed, 30 Sep 2026 16:47:34 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>DietrichGebert/ponytail<br>PonytailはAIエージェントに統合して生成コードを極限まで簡潔にするためのツールです。<br>過剰な実装や不要なライブラリ導入を抑え、コード量、コスト、時間を削減しつつ、安全性を維持した効率的なコード生成を実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>DietrichGebert/ponytail<br>PonytailはAIエージェントに統合して生成コードを極限まで簡潔にするためのツールです。<br>過剰な実装や不要なライブラリ導入を抑え、コード量、コスト、時間を削減しつつ、安全性を維持した効率的なコード生成を実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  mksglu/context-mode MCPツールが大量のデータをコンテキストウィンドウ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqrwco5a42c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mwqrwco5a42c</guid>
+      <pubDate>Wed, 30 Sep 2026 16:41:28 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>mksglu/context-mode<br>MCPツールが大量のデータをコンテキストウィンドウに出力することでメモリが消費され、AIが重要な情報を忘れてしまう問題を解決するためのリポジトリです。<br>コンテキストの消費を最適化し、作業状況やユーザーの要求を適切に保持することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mksglu/context-mode<br>MCPツールが大量のデータをコンテキストウィンドウに出力することでメモリが消費され、AIが重要な情報を忘れてしまう問題を解決するためのリポジトリです。<br>コンテキストの消費を最適化し、作業状況やユーザーの要求を適切に保持することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqrfmfox726</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqrfmfox726</guid>
+      <pubDate>Wed, 30 Sep 2026 16:32:08 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容を追記して再度ご依頼ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容を追記して再度ご依頼ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bというポストトレーニング…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr5x4slk27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr5x4slk27</guid>
+      <pubDate>Wed, 30 Sep 2026 16:27:51 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解可能な視覚言語モデルであり、コーディングや専門業務、研究、エージェントタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを信頼性高く遂行できる、デプロイに適したコンパクトな高密度モデルです。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解可能な視覚言語モデルであり、コーディングや専門業務、研究、エージェントタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを信頼性高く遂行できる、デプロイに適したコンパクトな高密度モデルです。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  XingChen-AGI/TeleOCR TeleOCRは、ドキュメント解析に特…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr4geosn27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr4geosn27</guid>
+      <pubDate>Wed, 30 Sep 2026 16:27:00 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/TeleOCR<br>TeleOCRは、ドキュメント解析に特化した軽量なオープンソースの視覚言語モデルです。<br>デジタル形式とカメラ撮影形式の双方のドキュメントを、単一のフレームワークで統一して解析することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/TeleOCR<br>TeleOCRは、ドキュメント解析に特化した軽量なオープンソースの視覚言語モデルです。<br>デジタル形式とカメラ撮影形式の双方のドキュメントを、単一のフレームワークで統一して解析することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Edge0/Audio8-ASR-Infinite 応答性に優れたネイティブスト…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqrehfmk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqrehfmk2t</guid>
+      <pubDate>Wed, 30 Sep 2026 16:20:49 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Audio8-ASR-Infinite<br>応答性に優れたネイティブストリーミング音声認識モデルです。<br>最適化されたvLLMとRolling KV Cacheにより、時間の経過によるズレなく、24時間365日、無制限の長さの音声を書き起こし続けることができます。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Audio8-ASR-Infinite<br>応答性に優れたネイティブストリーミング音声認識モデルです。<br>最適化されたvLLMとRolling KV Cacheにより、時間の経過によるズレなく、24時間365日、無制限の長さの音声を書き起こし続けることができます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  convaiinnovations/laya Layaは多言語対応の非自己回帰型…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqgtoytb2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqgtoytb2w</guid>
+      <pubDate>Wed, 30 Sep 2026 16:14:56 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは多言語対応の非自己回帰型決定モデルです。<br>テキストやJSONなどの入力と型付きの質問に対し、数学的に校正された確率を伴う回答を高速に出力します。<br>RLCDを用いた強化学習により誠実な確率報告を最適化しており、テキスト生成を行わないためパース不要でハルシネーションも発生しません。<br>分類、ルーティング、スコアリング、モデレーションなどの用途に利用されます。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>convaiinnovations/laya<br>Layaは多言語対応の非自己回帰型決定モデルです。<br>テキストやJSONなどの入力と型付きの質問に対し、数学的に校正された確率を伴う回答を高速に出力します。<br>RLCDを用いた強化学習により誠実な確率報告を最適化しており、テキスト生成を行わないためパース不要でハルシネーションも発生しません。<br>分類、ルーティング、スコアリング、モデレーションなどの用途に利用されます。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Piは過去にはMCPを非対応と公言していたが、現行のPiではMCPがコア機能として統合され、…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqoqoem252w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqoqoem252w</guid>
+      <pubDate>Wed, 30 Sep 2026 15:44:38 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Piは過去にはMCPを非対応と公言していたが、現行のPiではMCPがコア機能として統合され、MCPの進化とツールの解説・発見性改善を通じて、Codemodeと組み合わせた運用が可能になった。Codemodeはツール呼び出しをハーネス側で orchestration するサンドボックスで、JavaScriptを用いた柔軟な連携を実現する。Piは今後もMCPとCodemodeの連携を深化させ、ツールのデータ構造化とディスカバリを重視して改善を続ける。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Piは過去にはMCPを非対応と公言していたが、現行のPiではMCPがコア機能として統合され、MCPの進化とツールの解説・発見性改善を通じて、Codemodeと組み合わせた運用が可能になった。Codemodeはツール呼び出しをハーネス側で orchestration するサンドボックスで、JavaScriptを用いた柔軟な連携を実現する。Piは今後もMCPとCodemodeの連携を深化させ、ツールのデータ構造化とディスカバリを重視して改善を続ける。]]></content:encoded>
+    </item>
+    <item>
+      <title>Pi.dev: あなたは MCP を拒否した Pi.dev: You Said No MCP  🔺 382 💬 63…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqoqcpjlo2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwqoqcpjlo2z</guid>
+      <pubDate>Wed, 30 Sep 2026 15:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Pi.dev: あなたは MCP を拒否した<br>Pi.dev: You Said No MCP<br><br>🔺 382<br>💬 63<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Pi.dev: あなたは MCP を拒否した<br>Pi.dev: You Said No MCP<br><br>🔺 382<br>💬 63<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 タイムズカー情報漏洩 集団訴訟｜参加希望者受付中  🔖 151 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqntay2jx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqntay2jx2r</guid>
+      <pubDate>Wed, 30 Sep 2026 15:28:11 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 タイムズカー情報漏洩 集団訴訟｜参加希望者受付中<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 タイムズカー情報漏洩 集団訴訟｜参加希望者受付中<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なし…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqkhzmhmq2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwqkhzmhmq2k</guid>
+      <pubDate>Wed, 30 Sep 2026 14:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>instructions, benchmarks showing reduced LOC, tokens, cost, …</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwqjuqzncr2o</link>
@@ -376,171 +547,6 @@ Wait, that gives me 49,081,601,735,92? That doesn't seem right. Let me recount t
       <content:encoded><![CDATA[I was inspired to try re-running your experiment with a local, open weight model - Qwen 3.8 27B Q4A_K_M - here's the result
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihzqdtgyr2afwdfnnl6m3eubv2tgexihdbkbwzzjjvrmscryxlk5m" alt="Heatmap titled "Addition in words — Qwen3.8 27B Q4_K_M", subtitle "30 fixed random pairs per ordered digit-length cell (n = 5,070)". The x-axis is labeled "Number of digits in a" (1 to 13) and the y-axis is labeled "Number of digits in b" (1 to 13, bottom to top). A color bar labeled "Accuracy" runs from red at 0.00 through yellow at 0.50 to green at 1.00, with ticks at 0.00, 0.25, 0.50, 0.75 and 1.00. Cell values for a = 1 to 13 in order, by row. b=1: 97%, 100%, 100%, 100%, 80%, 67%, 77%, 80%, 80%, 60%, 43%, 30%, 37%. b=2: 100%, 100%, 93%, 90%, 77%, 77%, 43%, 50%, 63%, 43%, 40%, 13%, 23%. b=3: 100%, 93%, 90%, 80%, 67%, 37%, 17%, 0%, 0%, 3%, 0%, 0%, 0%. b=4: 83%, 93%, 90%, 93%, 53%, 13%, 0%, 0%, 0%, 0%, 0%, 0%, 0%. b=5: 73%, 67%, 87%, 80%, 53%, 40%, 0%, 0%, 3%, 0%, 0%, 0%, 0%. b=6: 60%, 60%, 33%, 10%, 53%, 47%, 7%, 3%, 0%, 0%, 0%, 0%, 0%. b=7: 53%, 23%, 17%, 10%, 3%, 3%, 13%, 3%, 0%, 0%, 0%, 0%, 0%. b=8: 53%, 20%, 0%, 0%, 0%, 0%, 7%, 13%, 0%, 0%, 0%, 0%, 0%. b=9: 77%, 47%, 3%, 0%, 0%, 0%, 0%, 3%, 7%, 0%, 0%, 0%, 0%. b=10: 70%, 27%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 13%, 0%, 0%, 0%. b=11: 47%, 10%, then 0% for a = 3 to 13. b=12: 53%, 20%, then 0% for a = 3 to 13. b=13: 17%, 13%, then 0% for a = 3 to 13. Accuracy is high (green) in the bottom-left, where both numbers are short, and falls to 0% (red) across most of the upper-right." style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreihzqdtgyr2afwdfnnl6m3eubv2tgexihdbkbwzzjjvrmscryxlk5m" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   2008年のSnow Leopardに倣い、AppleはmacOS 27 Golden Ga…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpgj2erxq2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpgj2erxq2w</guid>
-      <pubDate>Wed, 30 Sep 2026 03:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>2008年のSnow Leopardに倣い、AppleはmacOS 27 Golden Gateで新機能より性能・安定性の改善を重視する方針だが、日常使用で多くのバグや不整合が散見され、特にレイアウト崩れ・メニュー／ウィンドウ系の不安定さ、第三者アプリとの互換性問題が目立つ。著者は「完璧さの追求には時間が必要」と評価しつつ、日々の使用で多数の不具合を実体験として挙げ、改善の余地を強調している。最後にはカラーツールの不具合でシステムがフリーズする重大なバグも紹介している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>2008年のSnow Leopardに倣い、AppleはmacOS 27 Golden Gateで新機能より性能・安定性の改善を重視する方針だが、日常使用で多くのバグや不整合が散見され、特にレイアウト崩れ・メニュー／ウィンドウ系の不安定さ、第三者アプリとの互換性問題が目立つ。著者は「完璧さの追求には時間が必要」と評価しつつ、日々の使用で多数の不具合を実体験として挙げ、改善の余地を強調している。最後にはカラーツールの不具合でシステムがフリーズする重大なバグも紹介している。]]></content:encoded>
-    </item>
-    <item>
-      <title>macOS Golden Gate はバグだらけのひどい有様だ。 macOS Golden Gate Is a Bugg…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpgitfe5k2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwpgitfe5k2f</guid>
-      <pubDate>Wed, 30 Sep 2026 03:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[macOS Golden Gate はバグだらけのひどい有様だ。<br>macOS Golden Gate Is a Buggy Mess<br><br>🔺 444<br>💬 120<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[macOS Golden Gate はバグだらけのひどい有様だ。<br>macOS Golden Gate Is a Buggy Mess<br><br>🔺 444<br>💬 120<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はず…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpfltzmj62h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwpfltzmj62h</guid>
-      <pubDate>Wed, 30 Sep 2026 03:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab<br><br>🔖 191 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab<br><br>🔖 191 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   20年前は停電と電力ロスが深刻だったデリー。その原因は老朽化した配電網と汚職・盗電、そして料…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwp7sgx3ta2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwp7sgx3ta2p</guid>
-      <pubDate>Wed, 30 Sep 2026 01:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>20年前は停電と電力ロスが深刻だったデリー。その原因は老朽化した配電網と汚職・盗電、そして料金回収の欠如だったが、政府と民間事業者の改革でSCADA導入・送電網の分離・スマート meters導入などを進め、ロスを50％超から現在の5–6％へ大幅低減、信頼性も99.9％超へ改善した。結果として経済成長と生活の質が向上し、他地域へのモデルケースとなっている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>20年前は停電と電力ロスが深刻だったデリー。その原因は老朽化した配電網と汚職・盗電、そして料金回収の欠如だったが、政府と民間事業者の改革でSCADA導入・送電網の分離・スマート meters導入などを進め、ロスを50％超から現在の5–6％へ大幅低減、信頼性も99.9％超へ改善した。結果として経済成長と生活の質が向上し、他地域へのモデルケースとなっている。]]></content:encoded>
-    </item>
-    <item>
-      <title>デリーが電力ロスを50％から5％に削減した方法 How Delhi cut electricity loss from …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwp7salzr32w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwp7salzr32w</guid>
-      <pubDate>Wed, 30 Sep 2026 01:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[デリーが電力ロスを50％から5％に削減した方法<br>How Delhi cut electricity loss from 50 to 5 percent<br><br>🔺 438<br>💬 30<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[デリーが電力ロスを50％から5％に削減した方法<br>How Delhi cut electricity loss from 50 to 5 percent<br><br>🔺 438<br>💬 30<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz42uvad2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz42uvad2o</guid>
-      <pubDate>Tue, 29 Sep 2026 23:44:38 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境と多数のアプリ連携を使い、あなたの目標達成を24/7サポートします。チャット、Slack、Teamsなどの経路を通じて操作・共有が可能で、専門的な業務を組織内で委任できる“専門家ドット”も提供予定です。現在Pro/Business Premiumなどのプランで段階的に展開中で、初期のドットは追加コストなしで利用開始できます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Dotsは、GPT-6 Astra搭載の常時稼働AIエージェントで、クラウド上の自分専用環境と多数のアプリ連携を使い、あなたの目標達成を24/7サポートします。チャット、Slack、Teamsなどの経路を通じて操作・共有が可能で、専門的な業務を組織内で委任できる“専門家ドット”も提供予定です。現在Pro/Business Premiumなどのプランで段階的に展開中で、初期のドットは追加コストなしで利用開始できます。]]></content:encoded>
-    </item>
-    <item>
-      <title>Dots: 常駐エージェント Dots: Always-on agents  🔺 443 💬 119 🔗 HN P…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz3ubcb72s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwoz3ubcb72s</guid>
-      <pubDate>Tue, 29 Sep 2026 23:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Dots: 常駐エージェント<br>Dots: Always-on agents<br><br>🔺 443<br>💬 119<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Dots: 常駐エージェント<br>Dots: Always-on agents<br><br>🔺 443<br>💬 119<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>The other numbers come from Harbor Hub, which ran each model…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow4aumka2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow4aumka2l</guid>
-      <pubDate>Tue, 29 Sep 2026 22:51:03 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The other numbers come from Harbor Hub, which ran each model using the official harness:<br><br>https://hub.harborframework.com/datasets/terminal-bench/terminal-bench/4?tab=leaderboard&leaderboard=4-0-0<br><br>All models see a bump compared to AA, but 6.1 Sol sees the biggest bump moving from mini-swe to codex]]></description>
-      <content:encoded><![CDATA[The other numbers come from Harbor Hub, which ran each model using the official harness:<br><br>https://hub.harborframework.com/datasets/terminal-bench/terminal-bench/4?tab=leaderboard&leaderboard=4-0-0<br><br>All models see a bump compared to AA, but 6.1 Sol sees the biggest bump moving from mini-swe to codex]]></content:encoded>
-    </item>
-    <item>
-      <title>Updated run just finished. GPT-6.1 Sol still crushes. Turns …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow42u7c72k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwow42u7c72k</guid>
-      <pubDate>Tue, 29 Sep 2026 22:50:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Updated run just finished. GPT-6.1 Sol still crushes. Turns out it performs WAY better in Codex than in mini-swe (what Artificial Analysis uses)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Updated run just finished. GPT-6.1 Sol still crushes. Turns out it performs WAY better in Codex than in mini-swe (what Artificial Analysis uses)
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaxodoc5coqnmitvrfdalmxsk55ywxqdxf43frzjjndv7aaqs5thi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   DraftKingsは顧客の賭け履歴データをAIで分析し、勝てない可能性の高いギャンブラーを…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwosfcdahl2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwosfcdahl2s</guid>
-      <pubDate>Tue, 29 Sep 2026 21:44:32 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>DraftKingsは顧客の賭け履歴データをAIで分析し、勝てない可能性の高いギャンブラーを特定して再訪問を促すターゲティング広告を送っている。これにより、問題ギャンブラーなど脆弱な利用者がさらに敗北的な賭けを誘発されるリスクが高まる一方、AIはデータを大量に集めてモデルを強化し、広告の被害を拡大させている。EFFは第三者データの販売規制だけでは不十分と指摘し、オンライン行動広告そのものの全面禁止を主張している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>DraftKingsは顧客の賭け履歴データをAIで分析し、勝てない可能性の高いギャンブラーを特定して再訪問を促すターゲティング広告を送っている。これにより、問題ギャンブラーなど脆弱な利用者がさらに敗北的な賭けを誘発されるリスクが高まる一方、AIはデータを大量に集めてモデルを強化し、広告の被害を拡大させている。EFFは第三者データの販売規制だけでは不十分と指摘し、オンライン行動広告そのものの全面禁止を主張している。]]></content:encoded>
-    </item>
-    <item>
-      <title>DraftKingsはAIを用いて、慢性的なギャンブラーを行動に基づいて標的にしている。 DraftKings Is U…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwosf45rj62a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwosf45rj62a</guid>
-      <pubDate>Tue, 29 Sep 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[DraftKingsはAIを用いて、慢性的なギャンブラーを行動に基づいて標的にしている。<br>DraftKings Is Using AI to Behaviorally Target Chronic Gamblers<br><br>🔺 495<br>💬 54<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[DraftKingsはAIを用いて、慢性的なギャンブラーを行動に基づいて標的にしている。<br>DraftKings Is Using AI to Behaviorally Target Chronic Gamblers<br><br>🔺 495<br>💬 54<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>multi-organization isolation, and a task-driven, auditable g…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoqujfmtg2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoqujfmtg2a</guid>
-      <pubDate>Tue, 29 Sep 2026 21:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[multi-organization isolation, and a task-driven, auditable governance model. (2/2)]]></description>
-      <content:encoded><![CDATA[multi-organization isolation, and a task-driven, auditable governance model. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Paperclip is an open-source Node.js/React plat…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoquje63g2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoquje63g2e</guid>
-      <pubDate>Tue, 29 Sep 2026 21:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Paperclip is an open-source Node.js/React platform that lets teams orchestrate a company of autonomous AI agents—defining goals, budgets, governance, and workflows—so agents work together, with traceable actions and centralized cost management. It supports bring-your-own agents, (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Paperclip is an open-source Node.js/React platform that lets teams orchestrate a company of autonomous AI agents—defining goals, budgets, governance, and workflows—so agents work together, with traceable actions and centralized cost management. It supports bring-your-own agents, (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 paperclipai / paperc…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoqug7nbw2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mwoqug7nbw2e</guid>
-      <pubDate>Tue, 29 Sep 2026 21:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 94,034 (+2,412)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 paperclipai / paperclip<br>⭐ 94,034 (+2,412)<br>🗒 TypeScript<br><br>The open-source app everyone uses to manage agents at work]]></content:encoded>
-    </item>
-    <item>
-      <title>The fact that it got the answers wrong a bunch of times sugg…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwoq3q6frc2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mwoq3q6frc2l</guid>
-      <pubDate>Tue, 29 Sep 2026 21:03:23 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The fact that it got the answers wrong a bunch of times suggest to me it didn't have a calculator, otherwise it surely would have got them all right]]></description>
-      <content:encoded><![CDATA[The fact that it got the answers wrong a bunch of times suggest to me it didn't have a calculator, otherwise it surely would have got them all right]]></content:encoded>
-    </item>
-    <item>
-      <title>I’m now at Dev Day btw</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfucrjw2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfucrjw2k</guid>
-      <pubDate>Tue, 29 Sep 2026 20:51:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I’m now at Dev Day btw]]></description>
-      <content:encoded><![CDATA[I’m now at Dev Day btw]]></content:encoded>
-    </item>
-    <item>
-      <title>(Opus 5.5 is less dumb than both)</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfns52u2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfns52u2r</guid>
-      <pubDate>Tue, 29 Sep 2026 20:51:03 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[(Opus 5.5 is less dumb than both)]]></description>
-      <content:encoded><![CDATA[(Opus 5.5 is less dumb than both)]]></content:encoded>
-    </item>
-    <item>
-      <title>Feels like a good time to remind y&apos;all of this.  6.1 Sol isn…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfimnqy2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mwopfimnqy2r</guid>
-      <pubDate>Tue, 29 Sep 2026 20:50:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Feels like a good time to remind y'all of this.<br><br>6.1 Sol isn't smarter than Astra, but it's definitely less dumb]]></description>
-      <content:encoded><![CDATA[Feels like a good time to remind y'all of this.<br><br>6.1 Sol isn't smarter than Astra, but it's definitely less dumb]]></content:encoded>
     </item>
   </channel>
 </rss>
