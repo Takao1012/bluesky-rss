@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 02:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:28:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Singapore govt dating app uses Gale-Shapley stable marriage …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwseezt54n2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwseezt54n2w</guid>
+      <pubDate>Thu, 01 Oct 2026 07:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Singapore govt dating app uses Gale-Shapley stable marriage algorithm<br>Singapore govt dating app uses Gale-Shapley stable marriage algorithm<br><br>🔺 345<br>💬 38<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Singapore govt dating app uses Gale-Shapley stable marriage algorithm<br>Singapore govt dating app uses Gale-Shapley stable marriage algorithm<br><br>🔺 345<br>💬 38<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>NASA asked several former SR-71A staffers to help secret res…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mws5oidi3i2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mws5oidi3i2u</guid>
+      <pubDate>Thu, 01 Oct 2026 05:44:31 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[NASA asked several former SR-71A staffers to help secret restart<br>NASA asked several former SR-71A staffers to help secret restart<br><br>🔺 313<br>💬 49<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[NASA asked several former SR-71A staffers to help secret restart<br>NASA asked several former SR-71A staffers to help secret restart<br><br>🔺 313<br>💬 49<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>PS5 Relapse Exploit PS5 Relapse Exploit  🔺 345 💬 17 🔗 HN …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrwy32ud62o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mwrwy32ud62o</guid>
+      <pubDate>Thu, 01 Oct 2026 03:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[PS5 Relapse Exploit<br>PS5 Relapse Exploit<br><br>🔺 345<br>💬 17<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[PS5 Relapse Exploit<br>PS5 Relapse Exploit<br><br>🔺 345<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mwrsphagpw2h</link>
@@ -435,33 +462,6 @@
       <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
       <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容を追記して再度ご依頼ください。<br>]]></description>
       <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、まとめを作成することができません。<br>内容を追記して再度ご依頼ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B Qwen3.8-27Bというポストトレーニング…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr5x4slk27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr5x4slk27</guid>
-      <pubDate>Wed, 30 Sep 2026 16:27:51 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解可能な視覚言語モデルであり、コーディングや専門業務、研究、エージェントタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを信頼性高く遂行できる、デプロイに適したコンパクトな高密度モデルです。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>Qwen3.8-27Bというポストトレーニング済みモデルの重みと設定ファイルを提供するためのリポジトリです。<br>画像や動画を理解可能な視覚言語モデルであり、コーディングや専門業務、研究、エージェントタスクにおける能力向上を実現しています。<br>Hugging Face TransformersやvLLMなどに互換性があり、複雑な多段階タスクを信頼性高く遂行できる、デプロイに適したコンパクトな高密度モデルです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  XingChen-AGI/TeleOCR TeleOCRは、ドキュメント解析に特…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr4geosn27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqr4geosn27</guid>
-      <pubDate>Wed, 30 Sep 2026 16:27:00 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/TeleOCR<br>TeleOCRは、ドキュメント解析に特化した軽量なオープンソースの視覚言語モデルです。<br>デジタル形式とカメラ撮影形式の双方のドキュメントを、単一のフレームワークで統一して解析することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>XingChen-AGI/TeleOCR<br>TeleOCRは、ドキュメント解析に特化した軽量なオープンソースの視覚言語モデルです。<br>デジタル形式とカメラ撮影形式の双方のドキュメントを、単一のフレームワークで統一して解析することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Edge0/Audio8-ASR-Infinite 応答性に優れたネイティブスト…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqrehfmk2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mwqqrehfmk2t</guid>
-      <pubDate>Wed, 30 Sep 2026 16:20:49 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Audio8-ASR-Infinite<br>応答性に優れたネイティブストリーミング音声認識モデルです。<br>最適化されたvLLMとRolling KV Cacheにより、時間の経過によるズレなく、24時間365日、無制限の長さの音声を書き起こし続けることができます。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Edge0/Audio8-ASR-Infinite<br>応答性に優れたネイティブストリーミング音声認識モデルです。<br>最適化されたvLLMとRolling KV Cacheにより、時間の経過によるズレなく、24時間365日、無制限の長さの音声を書き起こし続けることができます。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
