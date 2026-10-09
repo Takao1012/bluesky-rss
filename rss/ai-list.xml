@@ -5,8 +5,161 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:06:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Sorry, I&apos;m in a meeting Sorry, I&apos;m in a meeting  🔺 460 💬 5…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxhjn6f6bv25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxhjn6f6bv25</guid>
+      <pubDate>Fri, 09 Oct 2026 17:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Sorry, I'm in a meeting<br>Sorry, I'm in a meeting<br><br>🔺 460<br>💬 56<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Sorry, I'm in a meeting<br>Sorry, I'm in a meeting<br><br>🔺 460<br>💬 56<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  BerriAI/litellm LiteLLMは、OpenAI、Anthropic、Gem…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhj53kbrd2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhj53kbrd2q</guid>
+      <pubDate>Fri, 09 Oct 2026 17:35:26 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>BerriAI/litellm<br>LiteLLMは、OpenAI、Anthropic、Geminiなど100以上のLLMプロバイダーを、OpenAI形式の統一されたインターフェースで呼び出すためのオープンソースAIゲートウェイです。<br>Python SDKやプロキシサーバーとして利用でき、異なるプロバイダー間でのSDKや認証形式、リクエスト形式の差異を解消し、LLMの管理を簡素化することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>BerriAI/litellm<br>LiteLLMは、OpenAI、Anthropic、Geminiなど100以上のLLMプロバイダーを、OpenAI形式の統一されたインターフェースで呼び出すためのオープンソースAIゲートウェイです。<br>Python SDKやプロキシサーバーとして利用でき、異なるプロバイダー間でのSDKや認証形式、リクエスト形式の差異を解消し、LLMの管理を簡素化することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  alibaba/open-code-review OpenCodeReviewはAIを活用…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhiy42t772g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhiy42t772g</guid>
+      <pubDate>Fri, 09 Oct 2026 17:32:39 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewはAIを活用したコードレビュー用CLIツールです。<br>元々はアリババグループの内部ツールで、現在はオープンソースとして提供されています。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>エージェント機能によりファイル全文の読み取りやコードベースの検索が可能で、差分がないファイル全体のレビューも行えます。<br>汎用的なAIエージェントよりも高い精度と低いトークン消費量を実現しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>alibaba/open-code-review<br>OpenCodeReviewはAIを活用したコードレビュー用CLIツールです。<br>元々はアリババグループの内部ツールで、現在はオープンソースとして提供されています。<br>Gitの差分を読み取り、LLMを用いて行レベルで精緻なレビューコメントを生成します。<br>エージェント機能によりファイル全文の読み取りやコードベースの検索が可能で、差分がないファイル全体のレビューも行えます。<br>汎用的なAIエージェントよりも高い精度と低いトークン消費量を実現しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cathrynlavery/diagram-design Claude CodeなどのAI…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhiwntwy72g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhiwntwy72g</guid>
+      <pubDate>Fri, 09 Oct 2026 17:31:50 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cathrynlavery/diagram-design<br>Claude CodeなどのAI向けに、編集品質のダイアグラムを迅速に作成するためのツールです。<br>HTMLとSVG形式で提供され、アーキテクチャ図やフローチャートなど多様な形式に対応します。<br>Figma等のツールを使わずに、ブランドに合わせた高品質な視覚資料を効率的に作成することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cathrynlavery/diagram-design<br>Claude CodeなどのAI向けに、編集品質のダイアグラムを迅速に作成するためのツールです。<br>HTMLとSVG形式で提供され、アーキテクチャ図やフローチャートなど多様な形式に対応します。<br>Figma等のツールを使わずに、ブランドに合わせた高品質な視覚資料を効率的に作成することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  boykopovar/AnyPS5 実行ファイルをLinuxおよびWindowsに自動移植…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhitjpzp32t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhitjpzp32t</guid>
+      <pubDate>Fri, 09 Oct 2026 17:30:05 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>boykopovar/AnyPS5<br>実行ファイルをLinuxおよびWindowsに自動移植するためのツールです。<br>リリンカーを用いて実行ファイルをターゲットのネイティブ形式に変換し、動的リンク用のシステムprxライブラリを提供します。<br>エミュレーションや個別のランタイムプロセスを介さず、相互運用性や研究、保存、互換性の向上を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>boykopovar/AnyPS5<br>実行ファイルをLinuxおよびWindowsに自動移植するためのツールです。<br>リリンカーを用いて実行ファイルをターゲットのネイティブ形式に変換し、動的リンク用のシステムprxライブラリを提供します。<br>エミュレーションや個別のランタイムプロセスを介さず、相互運用性や研究、保存、互換性の向上を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  morluto/rea バイナリ、アプリケーション、ランタイム動作を横断的にリバースエンジ…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhim7umt62e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxhim7umt62e</guid>
+      <pubDate>Fri, 09 Oct 2026 17:26:00 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>morluto/rea<br>バイナリ、アプリケーション、ランタイム動作を横断的にリバースエンジニアリングするためのMCPです。<br>機能がバイナリレベルでどのように動作しているかを解析し、理解することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>morluto/rea<br>バイナリ、アプリケーション、ランタイム動作を横断的にリバースエンジニアリングするためのMCPです。<br>機能がバイナリレベルでどのように動作しているかを解析し、理解することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Robbyant / lingbot-map …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxhi54aljp2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxhi54aljp2a</guid>
+      <pubDate>Fri, 09 Oct 2026 17:17:20 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Robbyant / lingbot-map<br>⭐ 17,534 (+109)<br>🗒 Python<br><br>[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Robbyant / lingbot-map<br>⭐ 17,534 (+109)<br>🗒 Python<br><br>[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Qwen/Qwen3.8-27B </title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhhmamhvn2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhhmamhvn2q</guid>
+      <pubDate>Fri, 09 Oct 2026 17:08:07 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Qwen/Qwen3.8-27B<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Cloudflare/clef-flash Clef-Flashは、テキスト、J…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhh5otnnl2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhh5otnnl2x</guid>
+      <pubDate>Fri, 09 Oct 2026 16:59:59 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Cloudflare/clef-flash<br>Clef-Flashは、テキスト、JSON、画像、ビデオの状態と質問スキーマから意思決定を行う9B規模のマルチモーダルモデルです。<br>1回のフォワードパスで全質問の選択肢に対する確率を算出し、自由形式のテキスト生成や出力パースを必要としません。<br>JevおよびSystemOneと互換性があり、Qwen/Qwen3.5-9Bをベースに構築されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Cloudflare/clef-flash<br>Clef-Flashは、テキスト、JSON、画像、ビデオの状態と質問スキーマから意思決定を行う9B規模のマルチモーダルモデルです。<br>1回のフォワードパスで全質問の選択肢に対する確率を算出し、自由形式のテキスト生成や出力パースを必要としません。<br>JevおよびSystemOneと互換性があり、Qwen/Qwen3.5-9Bをベースに構築されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Venastine-Research/Xing4.0-29B-A4B-GGUF </title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhh2bvyn32x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhh2bvyn32x</guid>
+      <pubDate>Fri, 09 Oct 2026 16:58:05 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Venastine-Research/Xing4.0-29B-A4B-GGUF<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Venastine-Research/Xing4.0-29B-A4B-GGUF<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  abenzerps/Qwen-Image-2.1-Uncensored-GGUF…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhgpfovfy2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhgpfovfy2y</guid>
+      <pubDate>Fri, 09 Oct 2026 16:51:59 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1のGGUF量子化モデルを提供し、ローカル環境での画像生成を可能にすることを目的としています。<br>検閲のないバージョンが提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>abenzerps/Qwen-Image-2.1-Uncensored-GGUF<br>Qwen-Image-2.1のGGUF量子化モデルを提供し、ローカル環境での画像生成を可能にすることを目的としています。<br>検閲のないバージョンが提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  google/embeddinggemma-2 Google DeepMindが…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhgngrqja2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxhgngrqja2y</guid>
+      <pubDate>Fri, 09 Oct 2026 16:50:54 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/embeddinggemma-2<br>Google DeepMindが開発したマルチモーダル埋め込みモデルです。<br>テキスト、コード、画像、動画、音声を単一の768次元ベクトル空間に変換します。<br>モバイルやノートPCなどの一般向けデバイスでの動作を想定し、検索やRAG、分類、クラスタリングなどのオンデバイス向けアプリケーションに低遅延な意味表現を提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/embeddinggemma-2<br>Google DeepMindが開発したマルチモーダル埋め込みモデルです。<br>テキスト、コード、画像、動画、音声を単一の768次元ベクトル空間に変換します。<br>モバイルやノートPCなどの一般向けデバイスでの動作を想定し、検索やRAG、分類、クラスタリングなどのオンデバイス向けアプリケーションに低遅延な意味表現を提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 BerriAI / litellm ⭐ 60,459 (+95) 🗒 Python  The fastest, …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxherhy4tt2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxherhy4tt2i</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 BerriAI / litellm<br>⭐ 60,459 (+95)<br>🗒 Python<br><br>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]]]></description>
+      <content:encoded><![CDATA[📦 BerriAI / litellm<br>⭐ 60,459 (+95)<br>🗒 Python<br><br>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]]]></content:encoded>
+    </item>
+    <item>
+      <title>Deno Is Joining Cloudflare Deno Is Joining Cloudflare  🔺 48…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxhcwnh7zn2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxhcwnh7zn2w</guid>
+      <pubDate>Fri, 09 Oct 2026 15:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Deno Is Joining Cloudflare<br>Deno Is Joining Cloudflare<br><br>🔺 482<br>💬 74<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Deno Is Joining Cloudflare<br>Deno Is Joining Cloudflare<br><br>🔺 482<br>💬 74<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Li…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxhbzridb42j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxhbzridb42j</guid>
+      <pubDate>Fri, 09 Oct 2026 15:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料<br><br>🔖 165 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slid…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxh6oj7amx2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxh6oj7amx2y</guid>
+      <pubDate>Fri, 09 Oct 2026 14:28:20 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成<br><br>🔖 159 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 twostraws / SwiftUI-Agent-Skill ⭐ 5,223 (+88)  SwiftUI ag…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxh62v2uxh2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxh62v2uxh2w</guid>
+      <pubDate>Fri, 09 Oct 2026 14:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 twostraws / SwiftUI-Agent-Skill<br>⭐ 5,223 (+88)<br><br>SwiftUI agent skill for Claude Code, Codex, and other AI tools.]]></description>
+      <content:encoded><![CDATA[📦 twostraws / SwiftUI-Agent-Skill<br>⭐ 5,223 (+88)<br><br>SwiftUI agent skill for Claude Code, Codex, and other AI tools.]]></content:encoded>
+    </item>
     <item>
       <title>ADHD as a circadian rhythm disorder: evidence and implicatio…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxh4a6tfir2e</link>
@@ -314,159 +467,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[Whistle: Speech to Text in 16.9 MB<br>Whistle: Speech to Text in 16.9 MB<br><br>🔺 370<br>💬 44<br>🔗 HN Post | Article]]></description>
       <content:encoded><![CDATA[Whistle: Speech to Text in 16.9 MB<br>Whistle: Speech to Text in 16.9 MB<br><br>🔺 370<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I love this so much and I totally agree. T3 Code finally hit…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfdmd2bw22l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfdmd2bw22l</guid>
-      <pubDate>Thu, 08 Oct 2026 20:51:15 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I love this so much and I totally agree. T3 Code finally hit the point where I feel zero friction with my ideas.<br><br>Now I’m running out of ideas 💀]]></description>
-      <content:encoded><![CDATA[I love this so much and I totally agree. T3 Code finally hit the point where I feel zero friction with my ideas.<br><br>Now I’m running out of ideas 💀]]></content:encoded>
-    </item>
-    <item>
-      <title>New type of anti ai psychosis just dropped</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfcqsmj572t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfcqsmj572t</guid>
-      <pubDate>Thu, 08 Oct 2026 20:35:52 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[New type of anti ai psychosis just dropped]]></description>
-      <content:encoded><![CDATA[New type of anti ai psychosis just dropped]]></content:encoded>
-    </item>
-    <item>
-      <title>Oh my god</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfabjtg4i2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfabjtg4i2t</guid>
-      <pubDate>Thu, 08 Oct 2026 19:51:32 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Oh my god]]></description>
-      <content:encoded><![CDATA[Oh my god]]></content:encoded>
-    </item>
-    <item>
-      <title>It’s so fun watching people have their “click” moment with T…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfabdn7wr2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfabdn7wr2f</guid>
-      <pubDate>Thu, 08 Oct 2026 19:51:26 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[It’s so fun watching people have their “click” moment with T3 Code :)]]></description>
-      <content:encoded><![CDATA[It’s so fun watching people have their “click” moment with T3 Code :)]]></content:encoded>
-    </item>
-    <item>
-      <title>Any other T3 Code users want to chime in here?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfab3wjry2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxfab3wjry2t</guid>
-      <pubDate>Thu, 08 Oct 2026 19:51:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Any other T3 Code users want to chime in here?]]></description>
-      <content:encoded><![CDATA[Any other T3 Code users want to chime in here?]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI Withdraws 3 Math Papers OpenAI Withdraws 3 Math Paper…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxf7uqkewi25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxf7uqkewi25</guid>
-      <pubDate>Thu, 08 Oct 2026 19:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[OpenAI Withdraws 3 Math Papers<br>OpenAI Withdraws 3 Math Papers<br><br>🔺 337<br>💬 4<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[OpenAI Withdraws 3 Math Papers<br>OpenAI Withdraws 3 Math Papers<br><br>🔺 337<br>💬 4<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>This seems very not good</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxf7frodsk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxf7frodsk2o</guid>
-      <pubDate>Thu, 08 Oct 2026 19:36:01 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This seems very not good]]></description>
-      <content:encoded><![CDATA[This seems very not good]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 liquidslr / system-…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxf2yvnfk422</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxf2yvnfk422</guid>
-      <pubDate>Thu, 08 Oct 2026 18:17:13 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 liquidslr / system-design-notes<br>⭐ 24,199 (+398)<br><br>Notes of the book System Desgin Interview - An Insider's Guide]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 liquidslr / system-design-notes<br>⭐ 24,199 (+398)<br><br>Notes of the book System Desgin Interview - An Insider's Guide]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  liquidslr/system-design-notes READMEの内容が記載されて…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxf24vv3mr2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxf24vv3mr2i</guid>
-      <pubDate>Thu, 08 Oct 2026 18:01:35 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>liquidslr/system-design-notes<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>liquidslr/system-design-notes<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  storytold/artcraft ArtCraftはアーティスト向けのAI画像および動…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezxwovaf2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezxwovaf2n</guid>
-      <pubDate>Thu, 08 Oct 2026 17:58:47 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>storytold/artcraft<br>ArtCraftはアーティスト向けのAI画像および動画制作IDEです。<br>2D構成や3Dシーン配置などの視覚的ツールを提供し、プロンプトだけでなく構図やキャラクター、カメラ位置などを精密に制御することで、再現性の高い制作を実現することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>storytold/artcraft<br>ArtCraftはアーティスト向けのAI画像および動画制作IDEです。<br>2D構成や3Dシーン配置などの視覚的ツールを提供し、プロンプトだけでなく構図やキャラクター、カメラ位置などを精密に制御することで、再現性の高い制作を実現することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/knowledge-work-plugins Claude Cowo…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezod6mgw2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezod6mgw2d</guid>
-      <pubDate>Thu, 08 Oct 2026 17:53:25 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/knowledge-work-plugins<br>Claude CoworkおよびClaude Code向けに、Claudeを特定の役割やチーム、会社に最適化した専門家にするためのプラグイン集です。<br>ツール連携やワークフロー、スラッシュコマンドを定義することで、業務の品質と一貫性を向上させます。<br>生産性向上、営業、サポート、プロダクト管理などの職能別プラグインを提供し、社内プロセスに合わせたカスタマイズが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/knowledge-work-plugins<br>Claude CoworkおよびClaude Code向けに、Claudeを特定の役割やチーム、会社に最適化した専門家にするためのプラグイン集です。<br>ツール連携やワークフロー、スラッシュコマンドを定義することで、業務の品質と一貫性を向上させます。<br>生産性向上、営業、サポート、プロダクト管理などの職能別プラグインを提供し、社内プロセスに合わせたカスタマイズが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  thedotmack/claude-mem Claude Code向けの永続的なメモリ圧縮…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezm55ogz26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxezm55ogz26</guid>
-      <pubDate>Thu, 08 Oct 2026 17:52:12 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>thedotmack/claude-mem<br>Claude Code向けの永続的なメモリ圧縮システムです。<br>ツールの利用状況を自動的に記録し要約することで、セッションをまたいでコンテキストを維持します。<br>これにより、セッション終了後や再接続後でもプロジェクトに関する知識を継続的に保持することが可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>thedotmack/claude-mem<br>Claude Code向けの永続的なメモリ圧縮システムです。<br>ツールの利用状況を自動的に記録し要約することで、セッションをまたいでコンテキストを維持します。<br>これにより、セッション終了後や再接続後でもプロジェクトに関する知識を継続的に保持することが可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mattpocock/skills AIエージェント向けに、実用的なエンジニアリングを実現…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxez7rwhm32d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxez7rwhm32d</guid>
-      <pubDate>Thu, 08 Oct 2026 17:45:17 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェント向けに、実用的なエンジニアリングを実現するためのスキルセットを提供することを目的としています。<br>既存のフレームワークのようにプロセスを固定せず、小規模で適応性が高く、組み合わせ可能な設計となっており、開発者がコントロールを維持したまま効率的にアプリケーション開発を行えるようにします。<br>Claude CodeやGitHub Copilot、Gemini CLIなどの主要なツールで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mattpocock/skills<br>AIエージェント向けに、実用的なエンジニアリングを実現するためのスキルセットを提供することを目的としています。<br>既存のフレームワークのようにプロセスを固定せず、小規模で適応性が高く、組み合わせ可能な設計となっており、開発者がコントロールを維持したまま効率的にアプリケーション開発を行えるようにします。<br>Claude CodeやGitHub Copilot、Gemini CLIなどの主要なツールで利用可能です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>Trump administration is suspending Microsoft from a green ca…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxez6iv2wo2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxez6iv2wo2l</guid>
-      <pubDate>Thu, 08 Oct 2026 17:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Trump administration is suspending Microsoft from a green card program<br>Trump administration is suspending Microsoft from a green card program<br><br>🔺 394<br>💬 56<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Trump administration is suspending Microsoft from a green card program<br>Trump administration is suspending Microsoft from a green card program<br><br>🔺 394<br>💬 56<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 【速報】ローソンに不正アクセス、215万件漏えい  🔖 152 ブックマーク 💬 コメント 🔗 記事リンク</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxeybacl5b2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxeybacl5b2j</guid>
-      <pubDate>Thu, 08 Oct 2026 17:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 【速報】ローソンに不正アクセス、215万件漏えい<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 【速報】ローソンに不正アクセス、215万件漏えい<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 </title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxey2bgsjv2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxey2bgsjv2k</guid>
-      <pubDate>Thu, 08 Oct 2026 17:24:19 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  jialinyyzz/humanizer AIが作成した英語および中国語の下書き…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxexlod7lk25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxexlod7lk25</guid>
-      <pubDate>Thu, 08 Oct 2026 17:16:09 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>jialinyyzz/humanizer<br>AIが作成した英語および中国語の下書きを、人間が書いたような自然な文章に書き換えるためのモデルです。<br>数値、日付、名前、引用などの情報を正確に保持し、内容を追加せずにリライトします。<br>ローカル環境で動作し、専用アプリを通じてオフラインで利用可能です。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>jialinyyzz/humanizer<br>AIが作成した英語および中国語の下書きを、人間が書いたような自然な文章に書き換えるためのモデルです。<br>数値、日付、名前、引用などの情報を正確に保持し、内容を追加せずにリライトします。<br>ローカル環境で動作し、専用アプリを通じてオフラインで利用可能です。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
