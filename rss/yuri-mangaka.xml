@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:53:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>スキヤキ！！！🍲</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mxi6epl7us2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mxi6epl7us2j</guid>
+      <pubDate>Fri, 09 Oct 2026 23:55:31 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[スキヤキ！！！🍲]]></description>
+      <content:encoded><![CDATA[スキヤキ！！！🍲]]></content:encoded>
+    </item>
     <item>
       <title>MacがAFP非対応になってNAS外しちゃったんだけど、新しいの買ってこようかな そんで無駄なクラウドを解約した方がいい…</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3mxhizu5eos27</link>
@@ -533,15 +542,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihii45kqepdsitqcp6brorvxctscn4xh75p5i2jnuiydp7vbbfnlq" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreicnnx3d66epyq55d2h4wmiod72yg6xbhaqortttw544pvsohdl3hq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreig2x3tnpps2vlvf4ihggcllp7sxwibxbipqoolz6l5axpmmugnks4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>海遊びうさ</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mxa465govs22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3mxa465govs22</guid>
-      <pubDate>Tue, 06 Oct 2026 18:54:45 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[海遊びうさ]]></description>
-      <content:encoded><![CDATA[海遊びうさ]]></content:encoded>
     </item>
   </channel>
 </rss>
