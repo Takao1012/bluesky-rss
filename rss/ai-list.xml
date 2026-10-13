@@ -5,8 +5,179 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:30:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   Rustの型システムに、意図的に危険な`Drop`実装を使うと、寿命切れの参照を`&apos;stat…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxreseouso2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxreseouso2f</guid>
+      <pubDate>Tue, 13 Oct 2026 15:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Rustの型システムに、意図的に危険な`Drop`実装を使うと、寿命切れの参照を`'static`として保存でき、コンパイル後にメモリ安全性が破られる不健全性が報告された。問題は少なくともRust 1.85.0と現行Nightlyで再現し、AddressSanitizerではスタック使用後解放として検出される。11年前から存在するため優先度はP-highだが、型システムの不健全性修正はチームの重要課題とされている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Rustの型システムに、意図的に危険な`Drop`実装を使うと、寿命切れの参照を`'static`として保存でき、コンパイル後にメモリ安全性が破られる不健全性が報告された。問題は少なくともRust 1.85.0と現行Nightlyで再現し、AddressSanitizerではスタック使用後解放として検出される。11年前から存在するため優先度はP-highだが、型システムの不健全性修正はチームの重要課題とされている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Rustの借用チェッカーで見つかった、11年間見逃されていた健全性を損なうバグ 11 year old unsoundn…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxres7oze22w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxres7oze22w</guid>
+      <pubDate>Tue, 13 Oct 2026 15:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Rustの借用チェッカーで見つかった、11年間見逃されていた健全性を損なうバグ<br>11 year old unsoundness bugs found in Rust borrow checker<br><br>🔺 459<br>💬 31<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Rustの借用チェッカーで見つかった、11年間見逃されていた健全性を損なうバグ<br>11 year old unsoundness bugs found in Rust borrow checker<br><br>🔺 459<br>💬 31<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>commands for setup, auth, SDK, project creation, building, d…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wrhz7p2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wrhz7p2j</guid>
+      <pubDate>Tue, 13 Oct 2026 14:17:28 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[commands for setup, auth, SDK, project creation, building, device management, and deployment. (2/2)]]></description>
+      <content:encoded><![CDATA[commands for setup, auth, SDK, project creation, building, device management, and deployment. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   xtool is a cross-platform tool (Linux/WSL/macO…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wrg35b2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wrg35b2u</guid>
+      <pubDate>Tue, 13 Oct 2026 14:17:28 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>xtool is a cross-platform tool (Linux/WSL/macOS) that replicates Xcode functionality for building SwiftPM iOS apps, signing/installing apps, and interacting with Apple Developer Services, with a CLI, tutorials, and a SwiftPM library (XKit) for programmatic use. It supports (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>xtool is a cross-platform tool (Linux/WSL/macOS) that replicates Xcode functionality for building SwiftPM iOS apps, signing/installing apps, and interacting with Apple Developer Services, with a CLI, tutorials, and a SwiftPM library (XKit) for programmatic use. It supports (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 xtool-org / xtool ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wovvbx2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr7wovvbx2j</guid>
+      <pubDate>Tue, 13 Oct 2026 14:17:25 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 xtool-org / xtool<br>⭐ 8,599 (+936)<br>🗒 Swift<br><br>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 xtool-org / xtool<br>⭐ 8,599 (+936)<br>🗒 Swift<br><br>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Gemtek W1700K／W1700K2のWi‑Fi 7ルーターを、独自ファームウェアで広…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxr63ly7vb2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxr63ly7vb2e</guid>
+      <pubDate>Tue, 13 Oct 2026 13:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Gemtek W1700K／W1700K2のWi‑Fi 7ルーターを、独自ファームウェアで広帯域ソフトウェア無線受信機に変えるオープンソースプロジェクト。最大320 Mspsの14ビットIQデータを10 GbE経由でLinuxホストへ送り、ブラウザー上でリアルタイムのスペクトラム表示や受信制御を行える。送信機能は無効化されており、ファームウェアや導入手順、復旧方法も公開されている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Gemtek W1700K／W1700K2のWi‑Fi 7ルーターを、独自ファームウェアで広帯域ソフトウェア無線受信機に変えるオープンソースプロジェクト。最大320 Mspsの14ビットIQデータを10 GbE経由でLinuxホストへ送り、ブラウザー上でリアルタイムのスペクトラム表示や受信制御を行える。送信機能は無効化されており、ファームウェアや導入手順、復旧方法も公開されている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Wi-Fi 7ルーターを320 Mspsのソフトウェア無線受信機に変える Turn a WiFi 7 Router in…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxr63hwkog2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxr63hwkog2n</guid>
+      <pubDate>Tue, 13 Oct 2026 13:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Wi-Fi 7ルーターを320 Mspsのソフトウェア無線受信機に変える<br>Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver<br><br>🔺 382<br>💬 21<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Wi-Fi 7ルーターを320 Mspsのソフトウェア無線受信機に変える<br>Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver<br><br>🔺 382<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>hardware workflows with an engine catalog, model management,…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kzir2u25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kzir2u25</guid>
+      <pubDate>Tue, 13 Oct 2026 13:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[hardware workflows with an engine catalog, model management, and an AGPL-3.0 license. (2/2)]]></description>
+      <content:encoded><![CDATA[hardware workflows with an engine catalog, model management, and an AGPL-3.0 license. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   VoiceStudio is an open-source Electron-based p…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kzhdpr2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kzhdpr2j</guid>
+      <pubDate>Tue, 13 Oct 2026 13:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>VoiceStudio is an open-source Electron-based platform for voice cloning, design, dubbing, dictation, transcription, and audiobook creation across 646 languages, offering local and optional remote engines, installation guides, docs, and community resources. It emphasizes offline (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>VoiceStudio is an open-source Electron-based platform for voice cloning, design, dubbing, dictation, transcription, and audiobook creation across 646 languages, offering local and optional remote engines, installation guides, docs, and community resources. It emphasizes offline (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 debpalash / VoiceStu…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kwv4cm25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxr4kwv4cm25</guid>
+      <pubDate>Tue, 13 Oct 2026 13:17:10 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 debpalash / VoiceStudio<br>⭐ 61,470 (+1,691)<br>🗒 Python<br><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 debpalash / VoiceStudio<br>⭐ 61,470 (+1,691)<br>🗒 Python<br><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 vercel-labs / skills ⭐ …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxqz7y5qa32m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxqz7y5qa32m</guid>
+      <pubDate>Tue, 13 Oct 2026 12:17:21 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 vercel-labs / skills<br>⭐ 34,150 (+187)<br>🗒 TypeScript<br><br>The open agent skills tool - npx skills]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 vercel-labs / skills<br>⭐ 34,150 (+187)<br>🗒 TypeScript<br><br>The open agent skills tool - npx skills]]></content:encoded>
+    </item>
+    <item>
+      <title>I really like Muse Wonder Full. Let me explain.  Video: http…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqxqvqndl2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqxqvqndl2o</guid>
+      <pubDate>Tue, 13 Oct 2026 11:51:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I really like Muse Wonder Full. Let me explain.<br><br>Video: https://x.com/theo/status/2109973219793096780]]></description>
+      <content:encoded><![CDATA[I really like Muse Wonder Full. Let me explain.<br><br>Video: https://x.com/theo/status/2109973219793096780]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   The Onionは、アーカイブの欠落を埋めるため、指定した1988～2013年の号を所蔵し…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqxf563st2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqxf563st2h</guid>
+      <pubDate>Tue, 13 Oct 2026 11:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>The Onionは、アーカイブの欠落を埋めるため、指定した1988～2013年の号を所蔵している人に連絡を呼びかけている。該当号の情報をGoogleフォームで送ると、関心がある場合はアーキビストから連絡があり、譲渡された号は返却されない。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>The Onionは、アーカイブの欠落を埋めるため、指定した1988～2013年の号を所蔵している人に連絡を呼びかけている。該当号の情報をGoogleフォームで送ると、関心がある場合はアーキビストから連絡があり、譲渡された号は返却されない。]]></content:encoded>
+    </item>
+    <item>
+      <title>つまり、『ジ・オニオン』の紙版を売りたいということですか？ So, you’d like to sell your pr…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqxezxbsd2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqxezxbsd2l</guid>
+      <pubDate>Tue, 13 Oct 2026 11:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[つまり、『ジ・オニオン』の紙版を売りたいということですか？<br>So, you’d like to sell your print issues of The Onion?<br><br>🔺 373<br>💬 17<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[つまり、『ジ・オニオン』の紙版を売りたいということですか？<br>So, you’d like to sell your print issues of The Onion?<br><br>🔺 373<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働  🔖 184…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxqwicdllw2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxqwicdllw2b</guid>
+      <pubDate>Tue, 13 Oct 2026 11:28:19 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働<br><br>🔖 184 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>A month ago, someone said I was overreacting to Astra being …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqtktwvri2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqtktwvri2n</guid>
+      <pubDate>Tue, 13 Oct 2026 10:36:03 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[A month ago, someone said I was overreacting to Astra being shitty to work with. I made a thread of examples of Astra being shitty to work with.<br><br>I am currently turning this thread into a benchmark.]]></description>
+      <content:encoded><![CDATA[A month ago, someone said I was overreacting to Astra being shitty to work with. I made a thread of examples of Astra being shitty to work with.<br><br>I am currently turning this thread into a benchmark.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxqt4wwrax2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxqt4wwrax2u</guid>
+      <pubDate>Tue, 13 Oct 2026 10:28:16 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   LLMは予測しにくく誤用もされ得るが、人が目的を定め、出力を吟味・修正して使う以上、道具では…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqouf5bf2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqouf5bf2w</guid>
+      <pubDate>Tue, 13 Oct 2026 09:44:36 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>LLMは予測しにくく誤用もされ得るが、人が目的を定め、出力を吟味・修正して使う以上、道具ではないとは言えない。重要なのはAIを一律に「自律する存在」と捉えることではなく、利用者が理解と監督を保ちながら使いこなすことだ。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>LLMは予測しにくく誤用もされ得るが、人が目的を定め、出力を吟味・修正して使う以上、道具ではないとは言えない。重要なのはAIを一律に「自律する存在」と捉えることではなく、利用者が理解と監督を保ちながら使いこなすことだ。]]></content:encoded>
+    </item>
+    <item>
+      <title>AIはツールであり、使いこなすにはスキルが必要です。 AI is a tool and using it well ta…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqoqtl6q2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqoqtl6q2w</guid>
+      <pubDate>Tue, 13 Oct 2026 09:44:33 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AIはツールであり、使いこなすにはスキルが必要です。<br>AI is a tool and using it well takes skill<br><br>🔺 412<br>💬 75<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AIはツールであり、使いこなすにはスキルが必要です。<br>AI is a tool and using it well takes skill<br><br>🔺 412<br>💬 75<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>✨ Both support: - Image, multi-image &amp; video understanding -…</title>
       <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxqlyezgyk27</link>
@@ -304,183 +475,6 @@
       <author>GitHub Trending (@github-trending.bsky.social)</author>
       <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 storytold / artcraft<br>⭐ 20,294 (+4,106)<br>🗒 Rust<br><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers]]></description>
       <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 storytold / artcraft<br>⭐ 20,294 (+4,106)<br>🗒 Rust<br><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers]]></content:encoded>
-    </item>
-    <item>
-      <title>This is a common tactic for people who don’t know what they’…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitied2x2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitied2x2b</guid>
-      <pubDate>Mon, 12 Oct 2026 21:51:20 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This is a common tactic for people who don’t know what they’re talking about. Once you learn to notice it, you’ll realize how painfully common it is.<br><br>If we can’t discuss the facts, there’s no discussion to be had.]]></description>
-      <content:encoded><![CDATA[This is a common tactic for people who don’t know what they’re talking about. Once you learn to notice it, you’ll realize how painfully common it is.<br><br>If we can’t discuss the facts, there’s no discussion to be had.]]></content:encoded>
-    </item>
-    <item>
-      <title>This particular style of communication is really toxic and i…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitfd5dh2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitfd5dh2q</guid>
-      <pubDate>Mon, 12 Oct 2026 21:51:19 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This particular style of communication is really toxic and it holds discourse back.<br><br>If you disagree with me, say why! Making shit up about my “motivations” is so cringe.<br><br>I’m an asshole, but you’ll never see me accuse my haters of being “paid off”, “jealous”, or “social climbers”.]]></description>
-      <content:encoded><![CDATA[This particular style of communication is really toxic and it holds discourse back.<br><br>If you disagree with me, say why! Making shit up about my “motivations” is so cringe.<br><br>I’m an asshole, but you’ll never see me accuse my haters of being “paid off”, “jealous”, or “social climbers”.]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ll take some fault here by sharing all the Fishslop demos.…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitatlpr24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpitatlpr24</guid>
-      <pubDate>Mon, 12 Oct 2026 21:51:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I'll take some fault here by sharing all the Fishslop demos. The 3d stuff is fun and cool as hell, but it's not a good representation of a model's real world code capability.]]></description>
-      <content:encoded><![CDATA[I'll take some fault here by sharing all the Fishslop demos. The 3d stuff is fun and cool as hell, but it's not a good representation of a model's real world code capability.]]></content:encoded>
-    </item>
-    <item>
-      <title>Take a look at the jump in 3d from Fable 5.1 to Opus 5.5. It…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpit5sj4h2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpit5sj4h2j</guid>
-      <pubDate>Mon, 12 Oct 2026 21:51:08 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Take a look at the jump in 3d from Fable 5.1 to Opus 5.5. It's at least 4x better at 3d despite being a 5% better model at best.<br><br>Clearly Meta didn't go hard on 3d for this release. Doesn't mean the model is bad.<br><br>3dmaxxing is a different type of benchmaxxing, don't overthink it.]]></description>
-      <content:encoded><![CDATA[Take a look at the jump in 3d from Fable 5.1 to Opus 5.5. It's at least 4x better at 3d despite being a 5% better model at best.<br><br>Clearly Meta didn't go hard on 3d for this release. Doesn't mean the model is bad.<br><br>3dmaxxing is a different type of benchmaxxing, don't overthink it.]]></content:encoded>
-    </item>
-    <item>
-      <title>The smartest code model in the world would not be good at 3d…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpit2eock2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpit2eock2q</guid>
-      <pubDate>Mon, 12 Oct 2026 21:51:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The smartest code model in the world would not be good at 3d stuff unless it was trained specifically for it.<br><br>A lot of the labs recently got a big pile of 3d training data and an RL environment to improve 3d skills.]]></description>
-      <content:encoded><![CDATA[The smartest code model in the world would not be good at 3d stuff unless it was trained specifically for it.<br><br>A lot of the labs recently got a big pile of 3d training data and an RL environment to improve 3d skills.]]></content:encoded>
-    </item>
-    <item>
-      <title>Having the &quot;Full&quot; version of Muse Wonder restricted to sub-o…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpisrmf432f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpisrmf432f</guid>
-      <pubDate>Mon, 12 Oct 2026 21:50:58 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Having the "Full" version of Muse Wonder restricted to sub-only with no price info available kinda sucks]]></description>
-      <content:encoded><![CDATA[Having the "Full" version of Muse Wonder restricted to sub-only with no price info available kinda sucks]]></content:encoded>
-    </item>
-    <item>
-      <title>More examples. When you stare at claude slop all day, the su…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpisn5z5e2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpisn5z5e2t</guid>
-      <pubDate>Mon, 12 Oct 2026 21:50:53 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[More examples. When you stare at claude slop all day, the subtle differences matter a lot.<br><br>I find it really direct and readable. Honors my agentsmd well. I enjoy it a lot.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei6jggaefoehucaageerjtbgdjvustb2i6pmiyatyymh443u2qny" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[More examples. When you stare at claude slop all day, the subtle differences matter a lot.<br><br>I find it really direct and readable. Honors my agentsmd well. I enjoy it a lot.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei6jggaefoehucaageerjtbgdjvustb2i6pmiyatyymh443u2qny" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiei6jggaefoehucaageerjtbgdjvustb2i6pmiyatyymh443u2qny" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   Metaは、個人・業務向けエージェントの高度なタスクやコーディングに強い新モデル「Muse …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpigxotus2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpigxotus2w</guid>
-      <pubDate>Mon, 12 Oct 2026 21:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Metaは、個人・業務向けエージェントの高度なタスクやコーディングに強い新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。ユーザーに関する情報を会話をまたいで記憶する「Active Memory」と、目標達成まで作業を続ける「Active Focus」を備え、プライバシー保護や不正利用への対策も強化している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Metaは、個人・業務向けエージェントの高度なタスクやコーディングに強い新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。ユーザーに関する情報を会話をまたいで記憶する「Active Memory」と、目標達成まで作業を続ける「Active Focus」を備え、プライバシー保護や不正利用への対策も強化している。]]></content:encoded>
-    </item>
-    <item>
-      <title>ミューズ・ワンダー Muse Wonder  🔺 445 💬 68 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpigtykmt2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpigtykmt2f</guid>
-      <pubDate>Mon, 12 Oct 2026 21:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ミューズ・ワンダー<br>Muse Wonder<br><br>🔺 445<br>💬 68<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ミューズ・ワンダー<br>Muse Wonder<br><br>🔺 445<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita  🔖 150…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxpe72n5ow22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxpe72n5ow22</guid>
-      <pubDate>Mon, 12 Oct 2026 20:28:21 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita<br><br>🔖 150 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  microsoft/BitNet 1ビット量子化技術を用いたBitNetの推論エンジンを実…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpdhh4qeo2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpdhh4qeo2i</guid>
-      <pubDate>Mon, 12 Oct 2026 20:15:09 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>microsoft/BitNet<br>1ビット量子化技術を用いたBitNetの推論エンジンを実装したリポジトリです。<br>CPUでの高速な推論を実現することを主な目的としており、並列カーネルによる最適化やGPU対応、1ビット埋め込みモデルの提供などを通じて、計算リソースを抑えた効率的なモデル実行を可能にします。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>microsoft/BitNet<br>1ビット量子化技術を用いたBitNetの推論エンジンを実装したリポジトリです。<br>CPUでの高速な推論を実現することを主な目的としており、並列カーネルによる最適化やGPU対応、1ビット埋め込みモデルの提供などを通じて、計算リソースを抑えた効率的なモデル実行を可能にします。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  lyogavin/airllm AirLLMは、大規模言語モデルの推論におけるメモリ使用量…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpdfaoawk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpdfaoawk2g</guid>
-      <pubDate>Mon, 12 Oct 2026 20:13:55 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、大規模言語モデルの推論におけるメモリ使用量を大幅に削減するためのライブラリです。<br>量子化や蒸留、プルーニングを用いずに、70B規模のモデルを4GBのGPUで動作させることが可能です。<br>また、小容量のVRAM環境で巨大なモデルを学習させる機能も提供しています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>lyogavin/airllm<br>AirLLMは、大規模言語モデルの推論におけるメモリ使用量を大幅に削減するためのライブラリです。<br>量子化や蒸留、プルーニングを用いずに、70B規模のモデルを4GBのGPUで動作させることが可能です。<br>また、小容量のVRAM環境で巨大なモデルを学習させる機能も提供しています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  open-webui/open-webui Open WebUIは、セルフホスト可能なAI…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpddxgzxv2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpddxgzxv2i</guid>
-      <pubDate>Mon, 12 Oct 2026 20:13:12 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>open-webui/open-webui<br>Open WebUIは、セルフホスト可能なAIプラットフォームです。<br>拡張性が高く、完全なオフライン動作にも対応しています。<br>OllamaやOpenAI互換APIをサポートしており、ローカルおよびクラウド上のモデルをプロバイダーに依存せずに利用できるインターフェースを提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>open-webui/open-webui<br>Open WebUIは、セルフホスト可能なAIプラットフォームです。<br>拡張性が高く、完全なオフライン動作にも対応しています。<br>OllamaやOpenAI互換APIをサポートしており、ローカルおよびクラウド上のモデルをプロバイダーに依存せずに利用できるインターフェースを提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  storytold/artcraft ArtCraftは、AIによる画像およびビデオ制作の…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpd5m3olb2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpd5m3olb2d</guid>
-      <pubDate>Mon, 12 Oct 2026 20:09:39 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>storytold/artcraft<br>ArtCraftは、AIによる画像およびビデオ制作のためのアーティスト向け統合開発環境（IDE）です。<br>プロンプト入力に頼らず、2D・3Dの視覚的ツールを用いて構図やキャラクター、カメラ配置などを精密に制御し、再現性の高い制作を行うことを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>storytold/artcraft<br>ArtCraftは、AIによる画像およびビデオ制作のためのアーティスト向け統合開発環境（IDE）です。<br>プロンプト入力に頼らず、2D・3Dの視覚的ツールを用いて構図やキャラクター、カメラ配置などを精密に制御し、再現性の高い制作を行うことを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  mksglu/context-mode MCPツールがコンテキストウィンドウに大量の生デー…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpd45mtte23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3mxpd45mtte23</guid>
-      <pubDate>Mon, 12 Oct 2026 20:08:50 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>mksglu/context-mode<br>MCPツールがコンテキストウィンドウに大量の生データを書き込むことで、メモリが不足し、エージェントが重要な情報を忘れてしまう問題を解決することを目的としています。<br>コンテキストの消費を抑え、作業の継続性を維持するためのツールです。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>mksglu/context-mode<br>MCPツールがコンテキストウィンドウに大量の生データを書き込むことで、メモリが不足し、エージェントが重要な情報を忘れてしまう問題を解決することを目的としています。<br>コンテキストの消費を抑え、作業の継続性を維持するためのツールです。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>I think my favorite thing about the model is how different i…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwul4kl2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwul4kl2o</guid>
-      <pubDate>Mon, 12 Oct 2026 20:05:53 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I think my favorite thing about the model is how different it feels. Like this prose is an entirely different flavor than I'm used to from LLMs. Not another Claude slop distillation
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzr6pvw6xwmselfyu3rfri4motuonad2yoprpnl4p2uyfsbkuopu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I think my favorite thing about the model is how different it feels. Like this prose is an entirely different flavor than I'm used to from LLMs. Not another Claude slop distillation
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzr6pvw6xwmselfyu3rfri4motuonad2yoprpnl4p2uyfsbkuopu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzr6pvw6xwmselfyu3rfri4motuonad2yoprpnl4p2uyfsbkuopu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I’m not saying that Opus is just as capable. I’m not recomme…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwnahrq2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwnahrq2b</guid>
-      <pubDate>Mon, 12 Oct 2026 20:05:45 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I’m not saying that Opus is just as capable. I’m not recommending replacing Opus with Muse. I’m saying I like them a similar amount.<br><br>I am doing most of my work with a combo of Opus and Wonder currently. I like this model a lot!]]></description>
-      <content:encoded><![CDATA[I’m not saying that Opus is just as capable. I’m not recommending replacing Opus with Muse. I’m saying I like them a similar amount.<br><br>I am doing most of my work with a combo of Opus and Wonder currently. I like this model a lot!]]></content:encoded>
-    </item>
-    <item>
-      <title>As you can probably guess, this model is why I went so hard …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwhhz372l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxpcwhhz372l</guid>
-      <pubDate>Mon, 12 Oct 2026 20:05:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[As you can probably guess, this model is why I went so hard on Muse support for T3 Code last week.<br><br>Works great in Orchestrator V2! I often have Opus ask Wonder for code review, copy work, and architecture review]]></description>
-      <content:encoded><![CDATA[As you can probably guess, this model is why I went so hard on Muse support for T3 Code last week.<br><br>Works great in Orchestrator V2! I often have Opus ask Wonder for code review, copy work, and architecture review]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   IRCv3作業部会は、IRCの中核仕様を補完する拡張機能を策定・検証しており、既存のクライア…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpbqgvkrl2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxpbqgvkrl2a</guid>
-      <pubDate>Mon, 12 Oct 2026 19:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>IRCv3作業部会は、IRCの中核仕様を補完する拡張機能を策定・検証しており、既存のクライアントやサーバーとの後方互換性を重視しています。SASL認証、アカウント情報の共有、メッセージへのメタデータ付与などを提供し、標準化された登録やチャット履歴、セキュア接続、Unicode名、アバター対応にも取り組んでいます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>IRCv3作業部会は、IRCの中核仕様を補完する拡張機能を策定・検証しており、既存のクライアントやサーバーとの後方互換性を重視しています。SASL認証、アカウント情報の共有、メッセージへのメタデータ付与などを提供し、標準化された登録やチャット履歴、セキュア接続、Unicode名、アバター対応にも取り組んでいます。]]></content:encoded>
     </item>
   </channel>
 </rss>
