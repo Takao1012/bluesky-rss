@@ -5,8 +5,128 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 21:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:40:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>holy shit it&apos;s at 45k weekly downloads???</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7yiiaj22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7yiiaj22q</guid>
+      <pubDate>Tue, 13 Oct 2026 23:51:05 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[holy shit it's at 45k weekly downloads???
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidinztdrf5lasufcv7oxcgdffeduzv6wvd6spqjtet7vekscurkke" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[holy shit it's at 45k weekly downloads???
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidinztdrf5lasufcv7oxcgdffeduzv6wvd6spqjtet7vekscurkke" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidinztdrf5lasufcv7oxcgdffeduzv6wvd6spqjtet7vekscurkke" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Worth noting that projects using Effect v4 w/ Effect diagnos…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7ybpwpy2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7ybpwpy2n</guid>
+      <pubDate>Tue, 13 Oct 2026 23:50:58 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Worth noting that projects using Effect v4 w/ Effect diagnostics (i.e. T3 Code) will see a significant performance improvement compared to bun and tsc 7, up to 4.3x faster
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieqwqlptfq6ikznwzkot32332cql3dwiq63esxoa7i6f4ba743ygy" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Worth noting that projects using Effect v4 w/ Effect diagnostics (i.e. T3 Code) will see a significant performance improvement compared to bun and tsc 7, up to 4.3x faster
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieqwqlptfq6ikznwzkot32332cql3dwiq63esxoa7i6f4ba743ygy" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieqwqlptfq6ikznwzkot32332cql3dwiq63esxoa7i6f4ba743ygy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>ts-rust v0.6.0 is out! It&apos;s now 30% faster than before, and …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7y3sbp42l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs7y3sbp42l</guid>
+      <pubDate>Tue, 13 Oct 2026 23:50:52 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[ts-rust v0.6.0 is out! It's now 30% faster than before, and up to 70% faster with the new "--fast" mode (at the expense of RAM)<br><br>This mostly closes the gap in performance against `bun check` while still maintaining 100% compatibility with upstream TypeScript (Bun does not)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbceoapwisdfykjaoxvwzjtgvd43x33o4elp6obhbrwo42tz2gti" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[ts-rust v0.6.0 is out! It's now 30% faster than before, and up to 70% faster with the new "--fast" mode (at the expense of RAM)<br><br>This mostly closes the gap in performance against `bun check` while still maintaining 100% compatibility with upstream TypeScript (Bun does not)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbceoapwisdfykjaoxvwzjtgvd43x33o4elp6obhbrwo42tz2gti" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihbceoapwisdfykjaoxvwzjtgvd43x33o4elp6obhbrwo42tz2gti" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   Anthropicは、AIエージェントによるコード変更が急増し、Gitを中心とした人間規模の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxs7mfrhmt2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxs7mfrhmt2p</guid>
+      <pubDate>Tue, 13 Oct 2026 23:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Anthropicは、AIエージェントによるコード変更が急増し、Gitを中心とした人間規模の開発基盤が限界に達したため、独自の分散型バージョン管理システム「Scion」を開発し、5か月でモノレポを移行した。常時オンラインのクライアントや疎なチェックアウトなどを前提に設計した結果、インフラのCPU・メモリ使用量を従来の200分の1にし、CIや研究ジョブのコード取得を大幅に高速化した。開発ではClaudeが実装や最適化を加速した一方、設計判断や過剰な複雑化を防ぐ役割はエンジニアが担った。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Anthropicは、AIエージェントによるコード変更が急増し、Gitを中心とした人間規模の開発基盤が限界に達したため、独自の分散型バージョン管理システム「Scion」を開発し、5か月でモノレポを移行した。常時オンラインのクライアントや疎なチェックアウトなどを前提に設計した結果、インフラのCPU・メモリ使用量を従来の200分の1にし、CIや研究ジョブのコード取得を大幅に高速化した。開発ではClaudeが実装や最適化を加速した一方、設計判断や過剰な複雑化を防ぐ役割はエンジニアが担った。]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropicにおけるソース管理の再設計 Redesigning source control at Anthrop…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxs7mc6xu62k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxs7mc6xu62k</guid>
+      <pubDate>Tue, 13 Oct 2026 23:44:16 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Anthropicにおけるソース管理の再設計<br>Redesigning source control at Anthropic<br><br>🔺 474<br>💬 115<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Anthropicにおけるソース管理の再設計<br>Redesigning source control at Anthropic<br><br>🔺 474<br>💬 115<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す  🔖 179…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxs6plr5z32v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxs6plr5z32v</guid>
+      <pubDate>Tue, 13 Oct 2026 23:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す<br><br>🔖 179 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>BREAKING: Engineer who bugged OpenAI office identified as GP…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs5hyqv3k24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs5hyqv3k24</guid>
+      <pubDate>Tue, 13 Oct 2026 23:06:04 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[BREAKING: Engineer who bugged OpenAI office identified as GPT-3 pretraining lead Dario Amodei
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibgjl2ozkpy2y7t5udlireo2huyesyyfvv55tn7ncnsbfleeghcfu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[BREAKING: Engineer who bugged OpenAI office identified as GPT-3 pretraining lead Dario Amodei
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibgjl2ozkpy2y7t5udlireo2huyesyyfvv55tn7ncnsbfleeghcfu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibgjl2ozkpy2y7t5udlireo2huyesyyfvv55tn7ncnsbfleeghcfu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The levels of cope I&apos;ve been seeing lately are surreal</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs5hrjapx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxs5hrjapx2c</guid>
+      <pubDate>Tue, 13 Oct 2026 23:05:56 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[The levels of cope I've been seeing lately are surreal]]></description>
+      <content:encoded><![CDATA[The levels of cope I've been seeing lately are surreal]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxs3egwlix2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxs3egwlix2t</guid>
+      <pubDate>Tue, 13 Oct 2026 22:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）<br><br>🔖 158 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Firefox Enterpriseは、オンプレミス導入と一元管理により、ブラウザー上のデー…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxryw3e6zi2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxryw3e6zi2g</guid>
+      <pubDate>Tue, 13 Oct 2026 21:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Firefox Enterpriseは、オンプレミス導入と一元管理により、ブラウザー上のデータ・ポリシー・アクセスを組織自身で制御できる企業向け製品です。DLPやAI利用制御、監査ログ連携などを備え、オープンソースと独自エンジンによって規制対応、ベンダーロックインの回避、システムの耐障害性向上を支援します。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Firefox Enterpriseは、オンプレミス導入と一元管理により、ブラウザー上のデータ・ポリシー・アクセスを組織自身で制御できる企業向け製品です。DLPやAI利用制御、監査ログ連携などを備え、オープンソースと独自エンジンによって規制対応、ベンダーロックインの回避、システムの耐障害性向上を支援します。]]></content:encoded>
+    </item>
+    <item>
+      <title>Firefox エンタープライズ Firefox Enterprise  🔺 555 💬 44 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxryvwx6dd2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxryvwx6dd2n</guid>
+      <pubDate>Tue, 13 Oct 2026 21:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Firefox エンタープライズ<br>Firefox Enterprise<br><br>🔺 555<br>💬 44<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Firefox エンタープライズ<br>Firefox Enterprise<br><br>🔺 555<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Filming the Gemini 4 Argon video in a bit. What questions do…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxrygvxq7m2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxrygvxq7m2t</guid>
+      <pubDate>Tue, 13 Oct 2026 21:35:59 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Filming the Gemini 4 Argon video in a bit. What questions do you have?]]></description>
+      <content:encoded><![CDATA[Filming the Gemini 4 Argon video in a bit. What questions do you have?]]></content:encoded>
+    </item>
     <item>
       <title>Just ran Argon on my &quot;codebase analysis&quot; bench. Not looking …</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxrvwkqsgh2t</link>
@@ -354,127 +474,6 @@
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>LLMは予測しにくく誤用もされ得るが、人が目的を定め、出力を吟味・修正して使う以上、道具ではないとは言えない。重要なのはAIを一律に「自律する存在」と捉えることではなく、利用者が理解と監督を保ちながら使いこなすことだ。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>LLMは予測しにくく誤用もされ得るが、人が目的を定め、出力を吟味・修正して使う以上、道具ではないとは言えない。重要なのはAIを一律に「自律する存在」と捉えることではなく、利用者が理解と監督を保ちながら使いこなすことだ。]]></content:encoded>
-    </item>
-    <item>
-      <title>AIはツールであり、使いこなすにはスキルが必要です。 AI is a tool and using it well ta…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqoqtl6q2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqqoqtl6q2w</guid>
-      <pubDate>Tue, 13 Oct 2026 09:44:33 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AIはツールであり、使いこなすにはスキルが必要です。<br>AI is a tool and using it well takes skill<br><br>🔺 412<br>💬 75<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AIはツールであり、使いこなすにはスキルが必要です。<br>AI is a tool and using it well takes skill<br><br>🔺 412<br>💬 75<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>✨ Both support: - Image, multi-image &amp; video understanding -…</title>
-      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxqlyezgyk27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxqlyezgyk27</guid>
-      <pubDate>Tue, 13 Oct 2026 08:20:17 GMT</pubDate>
-      <author>Adina Yakup (@adinayakup.bsky.social)</author>
-      <description><![CDATA[✨ Both support:<br>- Image, multi-image & video understanding<br>- Efficient 4×/16× visual token compression<br>- iOS, Android & HarmonyOS <br>- Apache 2.0 <br><br>huggingface.co/collections/...]]></description>
-      <content:encoded><![CDATA[✨ Both support:<br>- Image, multi-image & video understanding<br>- Efficient 4×/16× visual token compression<br>- iOS, Android & HarmonyOS <br>- Apache 2.0 <br><br>huggingface.co/collections/...]]></content:encoded>
-    </item>
-    <item>
-      <title>Let&apos;s start the week with MiniCPM V4.7 🔥   ✨ 35B-A3B: On-de…</title>
-      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxqly35pi227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxqly35pi227</guid>
-      <pubDate>Tue, 13 Oct 2026 08:20:17 GMT</pubDate>
-      <author>Adina Yakup (@adinayakup.bsky.social)</author>
-      <description><![CDATA[Let's start the week with MiniCPM V4.7 🔥 <br><br>✨ 35B-A3B: On-device MoE<br><br>- 35B/ 3B active ⚡️<br>- 13+ tok/s on iPhone 17 Pro Max with ~3GB RAM<br>- Outperforms Qwen3.6 35B-A3B in overall score AND inference time<br><br>✨1B: Ultra-lightweight VLM<br><br>- Outperforms Qwen3.5 0.8B in BOTH performance & efficiency
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreibk47tb4gb5bhuwlhuhpi623tk22q6rsgrxz2whac7lsfmqev36tm" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Let's start the week with MiniCPM V4.7 🔥 <br><br>✨ 35B-A3B: On-device MoE<br><br>- 35B/ 3B active ⚡️<br>- 13+ tok/s on iPhone 17 Pro Max with ~3GB RAM<br>- Outperforms Qwen3.6 35B-A3B in overall score AND inference time<br><br>✨1B: Ultra-lightweight VLM<br><br>- Outperforms Qwen3.5 0.8B in BOTH performance & efficiency
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreibk47tb4gb5bhuwlhuhpi623tk22q6rsgrxz2whac7lsfmqev36tm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreibk47tb4gb5bhuwlhuhpi623tk22q6rsgrxz2whac7lsfmqev36tm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I find Muse SO much more readable. Here are the outputs  1st…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxql6t4mne2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxql6t4mne2p</guid>
-      <pubDate>Tue, 13 Oct 2026 08:06:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I find Muse SO much more readable. Here are the outputs<br><br>1st is Muse<br>2nd is Opus<br>3rd is Sol
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihgg2zikohnmo3bc4lwc5bcp7dsbmr5juxksckmlol4nfyfa6bg5q" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifizfsvjq7gqkhubpsyhnvcr2ekldxghhxvnezihs3z5lkuxstriy" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdmdq5sqyih6gs63gkwfui5ixvxofb6g6ntp3ujlbmwyycwt5yyu" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I find Muse SO much more readable. Here are the outputs<br><br>1st is Muse<br>2nd is Opus<br>3rd is Sol
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihgg2zikohnmo3bc4lwc5bcp7dsbmr5juxksckmlol4nfyfa6bg5q" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifizfsvjq7gqkhubpsyhnvcr2ekldxghhxvnezihs3z5lkuxstriy" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigdmdq5sqyih6gs63gkwfui5ixvxofb6g6ntp3ujlbmwyycwt5yyu" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihgg2zikohnmo3bc4lwc5bcp7dsbmr5juxksckmlol4nfyfa6bg5q" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   欧州の複数スーパーで、冷蔵設備を強制解凍させるサイバー攻撃が発生し、商品配送や店頭価格表示に…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqjxzliwu2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqjxzliwu2a</guid>
-      <pubDate>Tue, 13 Oct 2026 07:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>欧州の複数スーパーで、冷蔵設備を強制解凍させるサイバー攻撃が発生し、商品配送や店頭価格表示にも影響しました。QGISはAI・LLM・エージェントを用いたコード貢献を全面禁止する提案を承認し、Alibabaは長時間のエージェント作業向け強化学習フレームワーク「QwenGyre」を公開しました。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>欧州の複数スーパーで、冷蔵設備を強制解凍させるサイバー攻撃が発生し、商品配送や店頭価格表示にも影響しました。QGISはAI・LLM・エージェントを用いたコード貢献を全面禁止する提案を承認し、Alibabaは長時間のエージェント作業向け強化学習フレームワーク「QwenGyre」を公開しました。]]></content:encoded>
-    </item>
-    <item>
-      <title>QGIS、AIによる貢献を一時停止 QGIS enacts moratorium on AI contributions…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqjxut4422f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxqjxut4422f</guid>
-      <pubDate>Tue, 13 Oct 2026 07:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[QGIS、AIによる貢献を一時停止<br>QGIS enacts moratorium on AI contributions<br><br>🔺 373<br>💬 71<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[QGIS、AIによる貢献を一時停止<br>QGIS enacts moratorium on AI contributions<br><br>🔺 373<br>💬 71<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>The $200 Claude Code sub is one of the best values in softwa…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqeiigwfo2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqeiigwfo2g</guid>
-      <pubDate>Tue, 13 Oct 2026 06:06:18 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The $200 Claude Code sub is one of the best values in software right now. Genuinely insane how much work you can get done without hitting limits.]]></description>
-      <content:encoded><![CDATA[The $200 Claude Code sub is one of the best values in software right now. Genuinely insane how much work you can get done without hitting limits.]]></content:encoded>
-    </item>
-    <item>
-      <title>Okay this model is absolutely atrocious at UI. Throwback to …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqeicn25w2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqeicn25w2g</guid>
-      <pubDate>Tue, 13 Oct 2026 06:06:11 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Okay this model is absolutely atrocious at UI. Throwback to 2024 Lovable websites
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicu655uyjjcg6qmqjw6yju5wnzewe7lrw43ib7mr3bsoy5gvcfvii" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Okay this model is absolutely atrocious at UI. Throwback to 2024 Lovable websites
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicu655uyjjcg6qmqjw6yju5wnzewe7lrw43ib7mr3bsoy5gvcfvii" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreicu655uyjjcg6qmqjw6yju5wnzewe7lrw43ib7mr3bsoy5gvcfvii" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Just realized the &quot;paid shill&quot; accusation are kind of a self…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehyxdyw2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehyxdyw2g</guid>
-      <pubDate>Tue, 13 Oct 2026 06:06:01 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Just realized the "paid shill" accusation are kind of a self own. Like I'm sorry you're so broke that you're willing to lie for money. Couldn't be me :)]]></description>
-      <content:encoded><![CDATA[Just realized the "paid shill" accusation are kind of a self own. Like I'm sorry you're so broke that you're willing to lie for money. Couldn't be me :)]]></content:encoded>
-    </item>
-    <item>
-      <title>Just confirmed that GPT-6.1 Sol&apos;s fix would not have even wo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehrabiu2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehrabiu2b</guid>
-      <pubDate>Tue, 13 Oct 2026 06:05:53 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Just confirmed that GPT-6.1 Sol's fix would not have even worked 🙃]]></description>
-      <content:encoded><![CDATA[Just confirmed that GPT-6.1 Sol's fix would not have even worked 🙃]]></content:encoded>
-    </item>
-    <item>
-      <title>Muse Wonder Full found a small PR someone else had filed and…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehnp37j2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehnp37j2e</guid>
-      <pubDate>Tue, 13 Oct 2026 06:05:47 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Muse Wonder Full found a small PR someone else had filed and said "you should probably merge this instead"<br><br>I really like this model.]]></description>
-      <content:encoded><![CDATA[Muse Wonder Full found a small PR someone else had filed and said "you should probably merge this instead"<br><br>I really like this model.]]></content:encoded>
-    </item>
-    <item>
-      <title>Asked Opus 5.5, GPT-6.1 Sol, and Muse Wonder Full to fix a b…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehko4kn2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxqehko4kn2q</guid>
-      <pubDate>Tue, 13 Oct 2026 06:05:46 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Asked Opus 5.5, GPT-6.1 Sol, and Muse Wonder Full to fix a bug<br><br>Opus found the root cause and filed a pr<br><br>GPT-6.1 Sol asked a question, crashed from the async question tool interrupt, found the bug, fixed it, wrote 300 lines of tests, and explained it in impossible to understand terms.]]></description>
-      <content:encoded><![CDATA[Asked Opus 5.5, GPT-6.1 Sol, and Muse Wonder Full to fix a bug<br><br>Opus found the root cause and filed a pr<br><br>GPT-6.1 Sol asked a question, crashed from the async question tool interrupt, found the bug, fixed it, wrote 300 lines of tests, and explained it in impossible to understand terms.]]></content:encoded>
     </item>
   </channel>
 </rss>
