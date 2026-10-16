@@ -5,8 +5,95 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:12:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hy Memory 🧠 New memory model for AI agents from Tencent Hun…</title>
+      <link>https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxycglo7tc23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3mxycglo7tc23</guid>
+      <pubDate>Fri, 16 Oct 2026 09:50:44 GMT</pubDate>
+      <author>Adina Yakup (@adinayakup.bsky.social)</author>
+      <description><![CDATA[Hy Memory 🧠 New memory model for AI agents from Tencent Hunyuan<br> <br>huggingface.co/tencent/Hy-M...<br><br>- 30B MoE / 3B active <br>- Apache 2.0 <br>- Extracts important memories from conversations<br>- Updates outdated memories automatically
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreicd4mgza6dlwoyh3awmlqkcr44uap6sevvj47snjoz2g3xtqrasny" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Hy Memory 🧠 New memory model for AI agents from Tencent Hunyuan<br> <br>huggingface.co/tencent/Hy-M...<br><br>- 30B MoE / 3B active <br>- Apache 2.0 <br>- Extracts important memories from conversations<br>- Updates outdated memories automatically
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreicd4mgza6dlwoyh3awmlqkcr44uap6sevvj47snjoz2g3xtqrasny" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ycmvakcgicie5gd2mp4btjoe/bafkreicd4mgza6dlwoyh3awmlqkcr44uap6sevvj47snjoz2g3xtqrasny" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   トロッコ問題を用いた比較実験では、Jevなどの意思決定モデルは多くの場合に多数の人命を優先し…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxyc3efvbw2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxyc3efvbw2l</guid>
+      <pubDate>Fri, 16 Oct 2026 09:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>トロッコ問題を用いた比較実験では、Jevなどの意思決定モデルは多くの場合に多数の人命を優先した一方、設問の言い回しによって判断が揺れ、自身のサーバーを人命より守るモデルもあった。実験だけでAI安全性全般を断じるべきではないが、重要な判断をモデルに任せる前に実データで評価・調整し、致命的な結果につながり得る決定は人間が担うべきだと筆者は述べている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>トロッコ問題を用いた比較実験では、Jevなどの意思決定モデルは多くの場合に多数の人命を優先した一方、設問の言い回しによって判断が揺れ、自身のサーバーを人命より守るモデルもあった。実験だけでAI安全性全般を断じるべきではないが、重要な判断をモデルに任せる前に実データで評価・調整し、致命的な結果につながり得る決定は人間が担うべきだと筆者は述べている。]]></content:encoded>
+    </item>
+    <item>
+      <title>Jevがトロッコ問題に直面する Jev meets the Trolley Problem  🔺 463 💬 46 …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxyc37bpae25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxyc37bpae25</guid>
+      <pubDate>Fri, 16 Oct 2026 09:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Jevがトロッコ問題に直面する<br>Jev meets the Trolley Problem<br><br>🔺 463<br>💬 46<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Jevがトロッコ問題に直面する<br>Jev meets the Trolley Problem<br><br>🔺 463<br>💬 46<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   筆者は、ストリーミングサービスへの依存や不要な推薦機能を避けるため、Jellyfinをきっか…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxy3eocpcu2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxy3eocpcu2p</guid>
+      <pubDate>Fri, 16 Oct 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>筆者は、ストリーミングサービスへの依存や不要な推薦機能を避けるため、Jellyfinをきっかけに写真、音楽、スマートホーム、バックアップなど多くのサービスを自宅サーバーで運用している。外部公開を避け、複雑な依存関係や高い負荷を嫌って、軽量で単純な構成を選ぶのが方針で、16GBメモリの小型PCでも多数のサービスを無理なく動かせている。利便性や信頼性に見合わないメールや一部の複雑なサービスは自前運用せず、必要に応じてクラウドも使い分けている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>筆者は、ストリーミングサービスへの依存や不要な推薦機能を避けるため、Jellyfinをきっかけに写真、音楽、スマートホーム、バックアップなど多くのサービスを自宅サーバーで運用している。外部公開を避け、複雑な依存関係や高い負荷を嫌って、軽量で単純な構成を選ぶのが方針で、16GBメモリの小型PCでも多数のサービスを無理なく動かせている。利便性や信頼性に見合わないメールや一部の複雑なサービスは自前運用せず、必要に応じてクラウドも使い分けている。]]></content:encoded>
+    </item>
+    <item>
+      <title>私がセルフホストしているもの What I self-host  🔺 435 💬 57 🔗 HN Post | A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxy3ekv74o2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxy3ekv74o2w</guid>
+      <pubDate>Fri, 16 Oct 2026 07:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[私がセルフホストしているもの<br>What I self-host<br><br>🔺 435<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[私がセルフホストしているもの<br>What I self-host<br><br>🔺 435<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Actual garbage package registry holy shit</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxxuzcen6t2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxxuzcen6t2c</guid>
+      <pubDate>Fri, 16 Oct 2026 05:50:40 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Actual garbage package registry holy shit
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihxea3iazpclokanvse2xx65xzpw4a76vlxzu4ybbime5w2fco65u" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[Actual garbage package registry holy shit
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihxea3iazpclokanvse2xx65xzpw4a76vlxzu4ybbime5w2fco65u" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreihxea3iazpclokanvse2xx65xzpw4a76vlxzu4ybbime5w2fco65u" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>💡 Summary:   市民ラボは、イスラエル企業Discover-Techが広告配信基盤を悪用し、広告を表示するだ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxxuoa72rl2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxxuoa72rl2g</guid>
+      <pubDate>Fri, 16 Oct 2026 05:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>市民ラボは、イスラエル企業Discover-Techが広告配信基盤を悪用し、広告を表示するだけで端末を感染させる「AdFection」を実行していたと技術的に確認した。2024～2025年には、同社の広告を通じてCandiru製スパイウェアがアルジャジーラの端末少なくとも45台を標的にしたほか、Discover-Techの仕組みは大規模な追跡や利用者の匿名性を暴く活動にも使われていた。調査を受け、Googleなど複数の広告関連企業は同社との接続を停止し、報告書は広告業界の構造的な欠陥と規制当局の対応の必要性を指摘している。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>市民ラボは、イスラエル企業Discover-Techが広告配信基盤を悪用し、広告を表示するだけで端末を感染させる「AdFection」を実行していたと技術的に確認した。2024～2025年には、同社の広告を通じてCandiru製スパイウェアがアルジャジーラの端末少なくとも45台を標的にしたほか、Discover-Techの仕組みは大規模な追跡や利用者の匿名性を暴く活動にも使われていた。調査を受け、Googleなど複数の広告関連企業は同社との接続を停止し、報告書は広告業界の構造的な欠陥と規制当局の対応の必要性を指摘している。]]></content:encoded>
+    </item>
+    <item>
+      <title>AdFection：標的型広告が、クリック不要の傭兵型スパイウェアを送り込む経路に 񟿿 AdFection: Targ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxxuo2mgxd2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxxuo2mgxd2w</guid>
+      <pubDate>Fri, 16 Oct 2026 05:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[AdFection：標的型広告が、クリック不要の傭兵型スパイウェアを送り込む経路に 񟿿<br>AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware<br><br>🔺 433<br>💬 78<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[AdFection：標的型広告が、クリック不要の傭兵型スパイウェアを送り込む経路に 񟿿<br>AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware<br><br>🔺 433<br>💬 78<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 「UNIXという考え方」再考 | ドクセル  🔖 161 ブックマーク 💬 コメント 🔗 記事リンク</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxxtrcwbj725</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxxtrcwbj725</guid>
+      <pubDate>Fri, 16 Oct 2026 05:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 「UNIXという考え方」再考 | ドクセル<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 「UNIXという考え方」再考 | ドクセル<br><br>🔖 161 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>📝 リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中  �…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxxqfsl6rx2t</link>
@@ -375,102 +462,6 @@
       <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
       <description><![CDATA[今日のGitHubトレンド<br><br>morluto/rea<br>]]></description>
       <content:encoded><![CDATA[今日のGitHubトレンド<br><br>morluto/rea<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>It’s designed to drastically reduce token costs and improve …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7lgxiq25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7lgxiq25</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:17 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[It’s designed to drastically reduce token costs and improve efficiency without sacrificing accuracy. (2/2)]]></description>
-      <content:encoded><![CDATA[It’s designed to drastically reduce token costs and improve efficiency without sacrificing accuracy. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Caveman is a suite of six “rocks” that shrink …</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7ksfgx2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7ksfgx2w</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:16 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Caveman is a suite of six “rocks” that shrink what AI agents read and write, cutting input/output token counts while preserving exact payloads, and offering auto-model selection, code-block persistence, web-page compression, and on-device operation with optional cloud analytics. (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Caveman is a suite of six “rocks” that shrink what AI agents read and write, cutting input/output token counts while preserving exact payloads, and offering auto-model selection, code-block persistence, web-page compression, and on-device operation with optional cloud analytics. (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 JuliusBrussee / cav…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7grsco2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mxwe7grsco2n</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:12 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 JuliusBrussee / caveman<br>⭐ 112,086 (+398)<br>🗒 Go<br><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 JuliusBrussee / caveman<br>⭐ 112,086 (+398)<br>🗒 Go<br><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.]]></content:encoded>
-    </item>
-    <item>
-      <title>Not just Chinese companies - Elon admitted to distillation f…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mxwdixeu5s2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mxwdixeu5s2a</guid>
-      <pubDate>Thu, 15 Oct 2026 15:04:38 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Not just Chinese companies - Elon admitted to distillation for XAI in court back in April www.nytimes.com/live/2026/04...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreif3g5yvrpcq4rbaebii6h3s5ljchj6q2no7vxsz55f4e7whylcuqe" alt="William Savitt, OpenAI’s lead counsel, has veered into another area that seems wonky, but could ultimately be very important for Elon Musk’s case and the rest of the A.I. race.
-
-Savitt asked Musk if his artificial intelligence company, xAI, had ever “distilled” technology from OpenAI. Distillation is way of using one A.I. technology to create another, and it is not allowed by OpenAI’s terms of service.
-
-“Generally A.I. companies distill other A.I. companies,” Musk answered.
-
-“Is that a ‘yes’?” Savitt asked. Musk answered, “Partly.”" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Not just Chinese companies - Elon admitted to distillation for XAI in court back in April www.nytimes.com/live/2026/04...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreif3g5yvrpcq4rbaebii6h3s5ljchj6q2no7vxsz55f4e7whylcuqe" alt="William Savitt, OpenAI’s lead counsel, has veered into another area that seems wonky, but could ultimately be very important for Elon Musk’s case and the rest of the A.I. race.
-
-Savitt asked Musk if his artificial intelligence company, xAI, had ever “distilled” technology from OpenAI. Distillation is way of using one A.I. technology to create another, and it is not allowed by OpenAI’s terms of service.
-
-“Generally A.I. companies distill other A.I. companies,” Musk answered.
-
-“Is that a ‘yes’?” Savitt asked. Musk answered, “Partly.”" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreif3g5yvrpcq4rbaebii6h3s5ljchj6q2no7vxsz55f4e7whylcuqe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  fishaudio/drama-3 Fish Audio Drama 3は、複数…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd6zbrnf2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd6zbrnf2k</guid>
-      <pubDate>Thu, 15 Oct 2026 14:59:04 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>fishaudio/drama-3<br>Fish Audio Drama 3は、複数キャラクターが登場するシーンや長尺コンテンツ向けに設計された次世代のテキスト読み上げモデルです。<br>複数話者の生成、音声クローニング、および自然言語による制御をサポートしています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>fishaudio/drama-3<br>Fish Audio Drama 3は、複数キャラクターが登場するシーンや長尺コンテンツ向けに設計された次世代のテキスト読み上げモデルです。<br>複数話者の生成、音声クローニング、および自然言語による制御をサポートしています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  AtomicChat/Qwen-Image-2.1-Turbo-Uncensor…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd5wsftz2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd5wsftz2w</guid>
-      <pubDate>Thu, 15 Oct 2026 14:58:28 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF<br>Qwen-Image-2.1-Turboのテキストエンコーダーから、拒絶反応を引き起こす方向を排除したモデルを提供することを目的としています。<br>stable-diffusion.cppを用いたローカル環境での画像生成において、テキストエンコーダーによる制限をなくし、自由な生成を可能にします。<br>性能を維持したまま拒絶率を大幅に低下させています。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF<br>Qwen-Image-2.1-Turboのテキストエンコーダーから、拒絶反応を引き起こす方向を排除したモデルを提供することを目的としています。<br>stable-diffusion.cppを用いたローカル環境での画像生成において、テキストエンコーダーによる制限をなくし、自由な生成を可能にします。<br>性能を維持したまま拒絶率を大幅に低下させています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  ConwayResearch/Underdog-Saluki-27B-1.0 </title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd36weuf2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwd36weuf2w</guid>
-      <pubDate>Thu, 15 Oct 2026 14:56:56 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>ConwayResearch/Underdog-Saluki-27B-1.0<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>ConwayResearch/Underdog-Saluki-27B-1.0<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  openbmb/MiniCPM-V-4.7-35B-A3B </title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwcqej7bf25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwcqej7bf25</guid>
-      <pubDate>Thu, 15 Oct 2026 14:50:53 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>openbmb/MiniCPM-V-4.7-35B-A3B<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>openbmb/MiniCPM-V-4.7-35B-A3B<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  google/embeddinggemma-2 </title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwcfiea7e2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3mxwcfiea7e2q</guid>
-      <pubDate>Thu, 15 Oct 2026 14:44:48 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>google/embeddinggemma-2<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>google/embeddinggemma-2<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
