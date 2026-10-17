@@ -5,8 +5,35 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:54:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3nec4fns2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3nec4fns2n</guid>
+      <pubDate>Sat, 17 Oct 2026 17:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画像関連のベンチマークを改善し、実行時間と出力を減らしてコスト効率も高めたマイナーアップデートです。会話やツール呼び出し、画像入力に対応するプロンプトエンコーダーとRust製ツールキットを公開しており、モデルとリポジトリはMITライセンスで提供されます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画像関連のベンチマークを改善し、実行時間と出力を減らしてコスト効率も高めたマイナーアップデートです。会話やツール呼び出し、画像入力に対応するプロンプトエンコーダーとRust製ツールキットを公開しており、モデルとリポジトリはMITライセンスで提供されます。]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepSeek-v4.1-Flash-1017 DeepSeek-v4.1-Flash-1017  🔺 438 💬…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3ne6jxey2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3ne6jxey2u</guid>
+      <pubDate>Sat, 17 Oct 2026 17:44:14 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DeepSeek-v4.1-Flash-1017<br>DeepSeek-v4.1-Flash-1017<br><br>🔺 438<br>💬 68<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DeepSeek-v4.1-Flash-1017<br>DeepSeek-v4.1-Flash-1017<br><br>🔺 438<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>New in GitHub Transparency data: Learn about government take…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3my3kvg32wj2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3my3kvg32wj2n</guid>
+      <pubDate>Sat, 17 Oct 2026 17:00:11 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions affecting open source.<br>https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/]]></description>
+      <content:encoded><![CDATA[New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions affecting open source.<br>https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/]]></content:encoded>
+    </item>
     <item>
       <title>📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュ…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my3j4gm7kl2b</link>
@@ -456,33 +483,6 @@ And it's 2-4x faster than tsgo https://t.co/fMEAmv2VDY" style="max-width:100%;ma
       <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
       <description><![CDATA[💡 Summary: <br><br>米国の職業923種を対象に既存のAIベンチマークの網羅性を調べた結果、十分な課題がある職業は208種にとどまり、米国の労働時間の約90％はベンチマークでほとんど測られていない作業に費やされていると推定された。ベンチマークはAIの影響を受けやすく、賃金総額や重要度の高い仕事に偏っており、中小規模の知識労働や実世界の身体作業には大きな測定上の空白が残る。著者らは、職業・作業ごとの能力評価を改善するため、ベンチマークの拡充と評価手法の開発が必要だと述べている。]]></description>
       <content:encoded><![CDATA[💡 Summary: <br><br>米国の職業923種を対象に既存のAIベンチマークの網羅性を調べた結果、十分な課題がある職業は208種にとどまり、米国の労働時間の約90％はベンチマークでほとんど測られていない作業に費やされていると推定された。ベンチマークはAIの影響を受けやすく、賃金総額や重要度の高い仕事に偏っており、中小規模の知識労働や実世界の身体作業には大きな測定上の空白が残る。著者らは、職業・作業ごとの能力評価を改善するため、ベンチマークの拡充と評価手法の開発が必要だと述べている。]]></content:encoded>
-    </item>
-    <item>
-      <title>米国の労働時間の90％は、AIベンチマークで十分に評価されていない業務に費やされています。 90% of US work…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxzxpo2sy72u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mxzxpo2sy72u</guid>
-      <pubDate>Sat, 17 Oct 2026 01:44:17 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[米国の労働時間の90％は、AIベンチマークで十分に評価されていない業務に費やされています。<br>90% of US working hours are spent on tasks not covered well by AI benchmarks<br><br>🔺 399<br>💬 45<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[米国の労働時間の90％は、AIベンチマークで十分に評価されていない業務に費やされています。<br>90% of US working hours are spent on tasks not covered well by AI benchmarks<br><br>🔺 399<br>💬 45<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け  🔖 154 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxzwsyxuel2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mxzwsyxuel2u</guid>
-      <pubDate>Sat, 17 Oct 2026 01:28:15 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け<br><br>🔖 154 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>Love that she posted this and has been entirely silent for l…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxzuqjjttl2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mxzuqjjttl2n</guid>
-      <pubDate>Sat, 17 Oct 2026 00:51:04 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Love that she posted this and has been entirely silent for like 10 days now]]></description>
-      <content:encoded><![CDATA[Love that she posted this and has been entirely silent for like 10 days now]]></content:encoded>
     </item>
   </channel>
 </rss>
