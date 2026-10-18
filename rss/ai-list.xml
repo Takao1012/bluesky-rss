@@ -5,8 +5,62 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:38:56 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳  🔖 151 ブックマーク 💬 コメン…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my5zl6vm7w2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my5zl6vm7w2u</guid>
+      <pubDate>Sun, 18 Oct 2026 16:28:13 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳<br><br>🔖 151 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   DeepSeekのSearch APIはクエリに応じたウェブ検索結果をJSONで返し、Fet…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5x4scdhl2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5x4scdhl2k</guid>
+      <pubDate>Sun, 18 Oct 2026 15:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>DeepSeekのSearch APIはクエリに応じたウェブ検索結果をJSONで返し、Fetch APIは指定ページの内容をMarkdownで取得する。両APIはDeepSeek APIキーで認証し、成功したリクエストごとに課金されるほか、検索・取得それぞれ毎秒5件の上限がある。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>DeepSeekのSearch APIはクエリに応じたウェブ検索結果をJSONで返し、Fetch APIは指定ページの内容をMarkdownで取得する。両APIはDeepSeek APIキーで認証し、成功したリクエストごとに課金されるほか、検索・取得それぞれ毎秒5件の上限がある。]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepSeekの検索・取得：成功したリクエスト1,000件あたり0.75ドル DeepSeek search and …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5x4pcpok2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5x4pcpok2g</guid>
+      <pubDate>Sun, 18 Oct 2026 15:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[DeepSeekの検索・取得：成功したリクエスト1,000件あたり0.75ドル<br>DeepSeek search and fetch – $0.75 per 1000 successful requests<br><br>🔺 387<br>💬 39<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[DeepSeekの検索・取得：成功したリクエスト1,000件あたり0.75ドル<br>DeepSeek search and fetch – $0.75 per 1000 successful requests<br><br>🔺 387<br>💬 39<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>extensive tests and SKILL.md generation for agent discovery.…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vmbvwqi2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vmbvwqi2d</guid>
+      <pubDate>Sun, 18 Oct 2026 15:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[extensive tests and SKILL.md generation for agent discovery. It emphasizes real software integration, agent-first JSON output, and zero-config installation to enable AI agents to control complex tools via CLI. (2/2)]]></description>
+      <content:encoded><![CDATA[extensive tests and SKILL.md generation for agent discovery. It emphasizes real software integration, agent-first JSON output, and zero-config installation to enable AI agents to control complex tools via CLI. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   CLI-Anything is a project that automates turni…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vmbug2j2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vmbug2j2m</guid>
+      <pubDate>Sun, 18 Oct 2026 15:17:15 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>CLI-Anything is a project that automates turning any software with a codebase into an agent-native CLI, providing a 7-phase harness pipeline, a centralized CLI-Hub for discovering and installing CLIs, and broad multi-platform agent integration demos across 18+ applications with (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>CLI-Anything is a project that automates turning any software with a codebase into an agent-native CLI, providing a 7-phase harness pipeline, a centralized CLI-Hub for discovering and installing CLIs, and broad multi-platform agent integration demos across 18+ applications with (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>🎉 Celebrating！ 🎉 (500+ new stars)  📦 HKUDS / CLI-Anything…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vm6u2qc2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5vm6u2qc2u</guid>
+      <pubDate>Sun, 18 Oct 2026 15:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 HKUDS / CLI-Anything<br>⭐ 54,375 (+582)<br>🗒 Python<br><br>"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/]]></description>
+      <content:encoded><![CDATA[🎉 Celebrating！ 🎉 (500+ new stars)<br><br>📦 HKUDS / CLI-Anything<br>⭐ 54,375 (+582)<br>🗒 Python<br><br>"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/]]></content:encoded>
+    </item>
     <item>
       <title>今日のGitHubトレンド  debpalash/VoiceStudio VoiceStudioは、646言語に対応した…</title>
       <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5t5pnlca2d</link>
@@ -421,60 +475,6 @@ Mobile next. Would be a shame if I had to freeze merges…" style="max-width:100
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針<br><br>🔖 152 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   WNISR 2026によると、2025年は太陽光発電が初めて年間発電量で原子力を上回り、風力…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3u33xn532h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3u33xn532h</guid>
-      <pubDate>Sat, 17 Oct 2026 19:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>WNISR 2026によると、2025年は太陽光発電が初めて年間発電量で原子力を上回り、風力・太陽光の発電量と設備容量が急伸する一方、原子力は伸び悩み、世界の電力に占める割合も低下した。原子力新設は建設の長期化や遅延が目立ち、中国・ロシアに偏っており、小型モジュール炉（SMR）も商用化やコスト面の利点は不透明だと報告書は指摘している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>WNISR 2026によると、2025年は太陽光発電が初めて年間発電量で原子力を上回り、風力・太陽光の発電量と設備容量が急伸する一方、原子力は伸び悩み、世界の電力に占める割合も低下した。原子力新設は建設の長期化や遅延が目立ち、中国・ロシアに偏っており、小型モジュール炉（SMR）も商用化やコスト面の利点は不透明だと報告書は指摘している。]]></content:encoded>
-    </item>
-    <item>
-      <title>世界全体で太陽光発電が初めて原子力発電を上回る Solar surpasses nuclear power global…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3u2xo2qa2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3u2xo2qa2p</guid>
-      <pubDate>Sat, 17 Oct 2026 19:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[世界全体で太陽光発電が初めて原子力発電を上回る<br>Solar surpasses nuclear power globally for first time<br><br>🔺 363<br>💬 35<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[世界全体で太陽光発電が初めて原子力発電を上回る<br>Solar surpasses nuclear power globally for first time<br><br>🔺 363<br>💬 35<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3nec4fns2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3nec4fns2n</guid>
-      <pubDate>Sat, 17 Oct 2026 17:44:18 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画像関連のベンチマークを改善し、実行時間と出力を減らしてコスト効率も高めたマイナーアップデートです。会話やツール呼び出し、画像入力に対応するプロンプトエンコーダーとRust製ツールキットを公開しており、モデルとリポジトリはMITライセンスで提供されます。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>DeepSeek-V4.1-Flash-1017は、推論・コーディング・エージェント処理・画像関連のベンチマークを改善し、実行時間と出力を減らしてコスト効率も高めたマイナーアップデートです。会話やツール呼び出し、画像入力に対応するプロンプトエンコーダーとRust製ツールキットを公開しており、モデルとリポジトリはMITライセンスで提供されます。]]></content:encoded>
-    </item>
-    <item>
-      <title>DeepSeek-v4.1-Flash-1017 DeepSeek-v4.1-Flash-1017  🔺 438 💬…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3ne6jxey2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3ne6jxey2u</guid>
-      <pubDate>Sat, 17 Oct 2026 17:44:14 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[DeepSeek-v4.1-Flash-1017<br>DeepSeek-v4.1-Flash-1017<br><br>🔺 438<br>💬 68<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[DeepSeek-v4.1-Flash-1017<br>DeepSeek-v4.1-Flash-1017<br><br>🔺 438<br>💬 68<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>New in GitHub Transparency data: Learn about government take…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3my3kvg32wj2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3my3kvg32wj2n</guid>
-      <pubDate>Sat, 17 Oct 2026 17:00:11 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions affecting open source.<br>https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/]]></description>
-      <content:encoded><![CDATA[New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions affecting open source.<br>https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my3j4gm7kl2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my3j4gm7kl2b</guid>
-      <pubDate>Sat, 17 Oct 2026 16:28:19 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
     </item>
   </channel>
 </rss>
