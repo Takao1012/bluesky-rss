@@ -5,8 +5,17 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnicpopcy25</link>
     <description>追いかけている百合マンガ作家さんたちの投稿をまとめて確認するためのリストです</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:50:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>朝のヨーグルト食べ忘れたな まあええか</title>
+      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3my6s2ni55c2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3my6s2ni55c2w</guid>
+      <pubDate>Sun, 18 Oct 2026 23:46:22 GMT</pubDate>
+      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
+      <description><![CDATA[朝のヨーグルト食べ忘れたな まあええか]]></description>
+      <content:encoded><![CDATA[朝のヨーグルト食べ忘れたな まあええか]]></content:encoded>
+    </item>
     <item>
       <title>デスク周りの投稿見まくってるのですが、最近はキーボードをいくつも所有して飾ったり、周辺機器の箱を飾ったりするのが流行りな…</title>
       <link>https://bsky.app/profile/did:plc:3y3dkh5spdiol3kidvbnxuvf/post/3my645kqfec2p</link>
@@ -475,18 +484,6 @@
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreic5i2btha3ofe76qtfmm2abxssi7lkx2mdwrczhtxvvmuwcbaqnfi" alt="" style="max-width:100%;margin-top:8px;">
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiashj2znfztdycrravep4o46dgqn6grjomcpoqy67dsaauzxufkia" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreihpdmt64urfjnxycj3z7mqbwyg4q2nkvweryrlkcwd7kmla4vudnm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ティラミスがくりまんじゅう先輩に見えてきた(ちがう www.harbs.co.jp/menu_cake/</title>
-      <link>https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3my2cmsj4fc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2smrksigdfbxyzwrbaa4aoei/post/3my2cmsj4fc2a</guid>
-      <pubDate>Sat, 17 Oct 2026 04:59:32 GMT</pubDate>
-      <author>ちさこ🍣🍶🦀🍺🍟🍷 (@chisako.bsky.social)</author>
-      <description><![CDATA[ティラミスがくりまんじゅう先輩に見えてきた(ちがう<br>www.harbs.co.jp/menu_cake/
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiak3a77zxzicgykbgns3ay74poa4efefprevllifedjymgbflvao4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[ティラミスがくりまんじゅう先輩に見えてきた(ちがう<br>www.harbs.co.jp/menu_cake/
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiak3a77zxzicgykbgns3ay74poa4efefprevllifedjymgbflvao4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2smrksigdfbxyzwrbaa4aoei/bafkreiak3a77zxzicgykbgns3ay74poa4efefprevllifedjymgbflvao4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
