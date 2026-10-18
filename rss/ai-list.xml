@@ -5,8 +5,26 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:40:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   PS5LMは、脱獄済みPS5のGPUでGGUFモデルを動かし、家庭内ネットワーク向けのプライ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my4bi4ffcu2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my4bi4ffcu2p</guid>
+      <pubDate>Sat, 17 Oct 2026 23:44:21 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PS5LMは、脱獄済みPS5のGPUでGGUFモデルを動かし、家庭内ネットワーク向けのプライベートなAIサーバーにするアプリです。OpenAI・Anthropic互換APIや画像入力に対応し、新たに確率付きの判断を返す意思決定モデルも実行できます。利用には対応ファームウェアと脱獄環境が必要です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PS5LMは、脱獄済みPS5のGPUでGGUFモデルを動かし、家庭内ネットワーク向けのプライベートなAIサーバーにするアプリです。OpenAI・Anthropic互換APIや画像入力に対応し、新たに確率付きの判断を返す意思決定モデルも実行できます。利用には対応ファームウェアと脱獄環境が必要です。]]></content:encoded>
+    </item>
+    <item>
+      <title>脱獄したPS5でLlama.cppを実行：あらゆるGGUFモデルを本体でネイティブに動かす Llama.cpp on a…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my4bhz2z7x25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my4bhz2z7x25</guid>
+      <pubDate>Sat, 17 Oct 2026 23:44:17 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[脱獄したPS5でLlama.cppを実行：あらゆるGGUFモデルを本体でネイティブに動かす<br>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console<br><br>🔺 365<br>💬 17<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[脱獄したPS5でLlama.cppを実行：あらゆるGGUFモデルを本体でネイティブに動かす<br>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console<br><br>🔺 365<br>💬 17<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my45opfyvd2f</link>
@@ -450,45 +468,6 @@
       <content:encoded><![CDATA[And before you guys ask - not moving T3 Code over any time soon :)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifn6cdsl2lcmqtrcv2cn5tbbullig423aqa7lj4dbu6gdh5zycbea" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifn6cdsl2lcmqtrcv2cn5tbbullig423aqa7lj4dbu6gdh5zycbea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Cool ship! It&apos;s faster than my port (ts-rust aka tsc-rs) in …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my2n2q3wd32c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my2n2q3wd32c</guid>
-      <pubDate>Sat, 17 Oct 2026 08:06:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Cool ship! It's faster than my port (ts-rust aka tsc-rs) in most things. I heard that they wanted to ship earlier but delayed because my --fast mode beat them 🤣<br><br>That said, it looks like tsrs is the real winner
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreickt4bcox2a6hp4kyzqufwslxc5afb5isrkimio76x4n5qsj4abru" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigo2xwhinyol2tmbnqhew6tfeq6z7fyywdscezl2aua2h4twjqemu" alt="Quoted post by @ctatedev: New from Vercel Labs: tsc-ts
-
-TypeScript was written in TypeScript
-Then rewritten in Go
-
-We ported it back to TypeScript
-Compiled it with scriptc
-
-And it's 2-4x faster than tsgo https://t.co/fMEAmv2VDY" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Cool ship! It's faster than my port (ts-rust aka tsc-rs) in most things. I heard that they wanted to ship earlier but delayed because my --fast mode beat them 🤣<br><br>That said, it looks like tsrs is the real winner
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreickt4bcox2a6hp4kyzqufwslxc5afb5isrkimio76x4n5qsj4abru" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigo2xwhinyol2tmbnqhew6tfeq6z7fyywdscezl2aua2h4twjqemu" alt="Quoted post by @ctatedev: New from Vercel Labs: tsc-ts
-
-TypeScript was written in TypeScript
-Then rewritten in Go
-
-We ported it back to TypeScript
-Compiled it with scriptc
-
-And it's 2-4x faster than tsgo https://t.co/fMEAmv2VDY" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreickt4bcox2a6hp4kyzqufwslxc5afb5isrkimio76x4n5qsj4abru" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Some of the shit I&apos;m cooking with Claude right now is truly …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my2n27sslt2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my2n27sslt2i</guid>
-      <pubDate>Sat, 17 Oct 2026 08:06:00 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Some of the shit I'm cooking with Claude right now is truly insane. None of this should be possible.<br><br>None of it will matter but I'm having the time of my life right now]]></description>
-      <content:encoded><![CDATA[Some of the shit I'm cooking with Claude right now is truly insane. None of this should be possible.<br><br>None of it will matter but I'm having the time of my life right now]]></content:encoded>
     </item>
   </channel>
 </rss>
