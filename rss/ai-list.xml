@@ -5,8 +5,143 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:56:08 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>今日のGitHubトレンド  debpalash/VoiceStudio VoiceStudioは、646言語に対応した…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5t5pnlca2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5t5pnlca2d</guid>
+      <pubDate>Sun, 18 Oct 2026 14:33:19 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>VoiceStudioは、646言語に対応したオープンソースの音声制作ツールです。<br>音声クローニングやデザイン、ビデオ吹き替え、口述筆記、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にローカル環境で動作し、APIやMCPを通じた外部連携も可能です。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>debpalash/VoiceStudio<br>VoiceStudioは、646言語に対応したオープンソースの音声制作ツールです。<br>音声クローニングやデザイン、ビデオ吹き替え、口述筆記、文字起こし、オーディオブック作成などの機能を提供します。<br>基本的にローカル環境で動作し、APIやMCPを通じた外部連携も可能です。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  HKUDS/CLI-Anything CLI-Anythingは、あらゆるソフトウェアをA…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5syoavop26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5syoavop26</guid>
+      <pubDate>Sun, 18 Oct 2026 14:30:30 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>HKUDS/CLI-Anything<br>CLI-Anythingは、あらゆるソフトウェアをAIエージェントが操作可能な状態にすることを目的としたプロジェクトです。<br>AIエージェントにとって親和性の高いCLI（コマンドラインインターフェース）を共通のインターフェースとして提供し、ソフトウェアとAIエージェントの橋渡しを行います。<br>コミュニティによるCLIツールの開発と管理を行うCLI-Hubを通じて、多様なソフトウェアをAIエージェントが利用できる環境を構築します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>HKUDS/CLI-Anything<br>CLI-Anythingは、あらゆるソフトウェアをAIエージェントが操作可能な状態にすることを目的としたプロジェクトです。<br>AIエージェントにとって親和性の高いCLI（コマンドラインインターフェース）を共通のインターフェースとして提供し、ソフトウェアとAIエージェントの橋渡しを行います。<br>コミュニティによるCLIツールの開発と管理を行うCLI-Hubを通じて、多様なソフトウェアをAIエージェントが利用できる環境を構築します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  ruvnet/ruflo Claude CodeやCodexなどのAIエージェント向けに、…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5swlyrw22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5swlyrw22q</guid>
+      <pubDate>Sun, 18 Oct 2026 14:29:20 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>ruvnet/ruflo<br>Claude CodeやCodexなどのAIエージェント向けに、基盤ツール、視覚的コンソール、実行時モディファイアを提供するメタハーネスです。<br>MCPを通じて他のツールとも連携し、エージェントの制御、ルーティング、ポリシー適用、コスト管理などの管理環境を提供することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>ruvnet/ruflo<br>Claude CodeやCodexなどのAIエージェント向けに、基盤ツール、視覚的コンソール、実行時モディファイアを提供するメタハーネスです。<br>MCPを通じて他のツールとも連携し、エージェントの制御、ルーティング、ポリシー適用、コスト管理などの管理環境を提供することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  cursor/plugins 人気のある開発ツールやフレームワーク、SaaS製品向けの公式…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5smkuxr526</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5smkuxr526</guid>
+      <pubDate>Sun, 18 Oct 2026 14:23:43 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気のある開発ツールやフレームワーク、SaaS製品向けの公式Cursorプラグインをまとめたリポジトリです。<br>AIエージェントの機能拡張や開発ワークフローの効率化、学習支援などを目的とした各種プラグインを提供しています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>cursor/plugins<br>人気のある開発ツールやフレームワーク、SaaS製品向けの公式Cursorプラグインをまとめたリポジトリです。<br>AIエージェントの機能拡張や開発ワークフローの効率化、学習支援などを目的とした各種プラグインを提供しています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  anomalyco/opencode オープンソースのAIコーディングエージェントであるO…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5sfrk46f2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my5sfrk46f2d</guid>
+      <pubDate>Sun, 18 Oct 2026 14:19:55 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>anomalyco/opencode<br>オープンソースのAIコーディングエージェントであるOpenCodeを提供することを目的としたリポジトリです。<br>CLIやデスクトップアプリケーションを通じて、AIによるコーディング支援機能を提供します。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anomalyco/opencode<br>オープンソースのAIコーディングエージェントであるOpenCodeを提供することを目的としたリポジトリです。<br>CLIやデスクトップアプリケーションを通じて、AIによるコーディング支援機能を提供します。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 mlabonne / llm-course ⭐ 83,777 (+81)  Course to get into …</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5savzrpu25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5savzrpu25</guid>
+      <pubDate>Sun, 18 Oct 2026 14:17:12 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 mlabonne / llm-course<br>⭐ 83,777 (+81)<br><br>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.]]></description>
+      <content:encoded><![CDATA[📦 mlabonne / llm-course<br>⭐ 83,777 (+81)<br><br>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  black-forest-labs/flux-3-image-klein REA…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qzoguir2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qzoguir2x</guid>
+      <pubDate>Sun, 18 Oct 2026 13:55:16 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>black-forest-labs/flux-3-image-klein<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>black-forest-labs/flux-3-image-klein<br>READMEの内容が記載されていないため、リポジトリの目的をまとめることができません。<br>内容をご提示ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  LiquidAI/LFM2.5-24B-A2B デバイス上で高速かつプライベート…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qylg2xd2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qylg2xd2y</guid>
+      <pubDate>Sun, 18 Oct 2026 13:54:39 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-24B-A2B<br>デバイス上で高速かつプライベートに動作するエージェント向けの推論モデル LFM2.5-24B-A2B を提供することが目的です。<br>総パラメータ数240億（活性パラメータ20億）の汎用テキスト推論モデルであり、エージェント的なワークロード向けに最適化されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>LiquidAI/LFM2.5-24B-A2B<br>デバイス上で高速かつプライベートに動作するエージェント向けの推論モデル LFM2.5-24B-A2B を提供することが目的です。<br>総パラメータ数240億（活性パラメータ20億）の汎用テキスト推論モデルであり、エージェント的なワークロード向けに最適化されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  Lightricks/LTX-2.5 READMEの内容が記載されていないため、…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qutdjur2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qutdjur2s</guid>
+      <pubDate>Sun, 18 Oct 2026 13:52:33 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約を作成することができません。<br>まとめたいREADMEの内容を記載して再度ご依頼ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>Lightricks/LTX-2.5<br>READMEの内容が記載されていないため、要約を作成することができません。<br>まとめたいREADMEの内容を記載して再度ご依頼ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  meta-models/Muse-Spark-Open-816B-A42B RE…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qrlzbwq2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qrlzbwq2w</guid>
+      <pubDate>Sun, 18 Oct 2026 13:50:45 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Spark-Open-816B-A42B<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>meta-models/Muse-Spark-Open-816B-A42B<br>READMEの内容が記載されていないため、要約することができません。<br>内容をご提示ください。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のHuggingFaceトレンド  jialinyyzz/humanizer AIが作成した英文や中文の下書き（メー…</title>
+      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qif2rtr2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my5qif2rtr2s</guid>
+      <pubDate>Sun, 18 Oct 2026 13:45:36 GMT</pubDate>
+      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
+      <description><![CDATA[今日のHuggingFaceトレンド<br><br>jialinyyzz/humanizer<br>AIが作成した英文や中文の下書き（メール、レポート等）を、人間が書いたような自然な文章に書き換えるためのモデルを提供することを目的としています。<br>数値や日付などの情報を保持しつつ変換を行い、ローカル環境で動作させることが可能です。<br>MacおよびWindows向けに専用アプリも提供されています。<br>]]></description>
+      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>jialinyyzz/humanizer<br>AIが作成した英文や中文の下書き（メール、レポート等）を、人間が書いたような自然な文章に書き換えるためのモデルを提供することを目的としています。<br>数値や日付などの情報を保持しつつ変換を行い、ローカル環境で動作させることが可能です。<br>MacおよびWindows向けに専用アプリも提供されています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>ニューヨーク州、ライセンスではなく所有権を求めるゲーム所有法案を発表 NY announces game ownersh…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5qgadyuc2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5qgadyuc2h</guid>
+      <pubDate>Sun, 18 Oct 2026 13:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[ニューヨーク州、ライセンスではなく所有権を求めるゲーム所有法案を発表<br>NY announces game ownership bill requiring ownership rather than licensing<br><br>🔺 350<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[ニューヨーク州、ライセンスではなく所有権を求めるゲーム所有法案を発表<br>NY announces game ownership bill requiring ownership rather than licensing<br><br>🔺 350<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Comfy-Org / ComfyUI ⭐ 1…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5ovjsl4c2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5ovjsl4c2n</guid>
+      <pubDate>Sun, 18 Oct 2026 13:17:09 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Comfy-Org / ComfyUI<br>⭐ 138,165 (+155)<br>🗒 Python<br><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Comfy-Org / ComfyUI<br>⭐ 138,165 (+155)<br>🗒 Python<br><br>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Void を触ってみた。もう全部これでよくね？ | ashunar0  🔖 157 ブックマーク 💬 コメント…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my5m6677xz2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my5m6677xz2j</guid>
+      <pubDate>Sun, 18 Oct 2026 12:28:18 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 Void を触ってみた。もう全部これでよくね？ | ashunar0<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 Void を触ってみた。もう全部これでよくね？ | ashunar0<br><br>🔖 157 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Kruk2 / jasna ⭐ 2,202 (…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5lkjwqjg2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my5lkjwqjg2d</guid>
+      <pubDate>Sun, 18 Oct 2026 12:17:19 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Kruk2 / jasna<br>⭐ 2,202 (+115)<br>🗒 Python<br><br>Video restoration tool]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Kruk2 / jasna<br>⭐ 2,202 (+115)<br>🗒 Python<br><br>Video restoration tool]]></content:encoded>
+    </item>
     <item>
       <title>💡 Summary:   Waymoはトロントで自動運転配車サービスを開始する準備を進めており、今後は有人走行での地図…</title>
       <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my5jpkx4qd2e</link>
@@ -340,141 +475,6 @@ Mobile next. Would be a shame if I had to freeze merges…" style="max-width:100
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>one-command install, engine options, and extensive setupDocu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iixfd3225</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iixfd3225</guid>
-      <pubDate>Sat, 17 Oct 2026 16:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[one-command install, engine options, and extensive setupDocumentation, licenses under AGPL-3.0. (2/2)]]></description>
-      <content:encoded><![CDATA[one-command install, engine options, and extensive setupDocumentation, licenses under AGPL-3.0. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   VoiceStudio is an open-source Electron desktop…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iixdwta22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iixdwta22</guid>
-      <pubDate>Sat, 17 Oct 2026 16:17:25 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>VoiceStudio is an open-source Electron desktop app for voice cloning, design, dubbing, transcription, and audiobook creation across 646 languages, with local hardware workflows and optional remote services, plus a broad feature catalog and multi-language documentation. It provides (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>VoiceStudio is an open-source Electron desktop app for voice cloning, design, dubbing, transcription, and audiobook creation across 646 languages, with local hardware workflows and optional remote services, plus a broad feature catalog and multi-language documentation. It provides (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 debpalash / VoiceStu…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iiuso3v2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3iiuso3v2w</guid>
-      <pubDate>Sat, 17 Oct 2026 16:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 debpalash / VoiceStudio<br>⭐ 72,396 (+2,135)<br>🗒 Python<br><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 debpalash / VoiceStudio<br>⭐ 72,396 (+2,135)<br>🗒 Python<br><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   この記事は、線形層・MLP・自己注意を「キーで検索し、値を呼び出す記憶装置」と捉え、記憶が増…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3gnz6kkp2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3gnz6kkp2p</guid>
-      <pubDate>Sat, 17 Oct 2026 15:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>この記事は、線形層・MLP・自己注意を「キーで検索し、値を呼び出す記憶装置」と捉え、記憶が増えるほど想起時の干渉が大きくなる仕組みを説明する。線形記憶の容量はキー次元程度だが、最適化で約2倍に、MLPでは非線形関数が低類似度の干渉を抑えることでさらに大幅に増やせる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>この記事は、線形層・MLP・自己注意を「キーで検索し、値を呼び出す記憶装置」と捉え、記憶が増えるほど想起時の干渉が大きくなる仕組みを説明する。線形記憶の容量はキー次元程度だが、最適化で約2倍に、MLPでは非線形関数が低類似度の干渉を抑えることでさらに大幅に増やせる。]]></content:encoded>
-    </item>
-    <item>
-      <title>記憶だけを頼りに、トランスフォーマーを発明できたかもしれない。 You could have invented tran…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3gnvz54v2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my3gnvz54v2e</guid>
-      <pubDate>Sat, 17 Oct 2026 15:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[記憶だけを頼りに、トランスフォーマーを発明できたかもしれない。<br>You could have invented transformers from memory<br><br>🔺 390<br>💬 18<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[記憶だけを頼りに、トランスフォーマーを発明できたかもしれない。<br>You could have invented transformers from memory<br><br>🔺 390<br>💬 18<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 akitaonrails / ai-memor…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3f5hpxig2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3f5hpxig2u</guid>
-      <pubDate>Sat, 17 Oct 2026 15:17:19 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 akitaonrails / ai-memory<br>⭐ 9,680 (+159)<br>🗒 Rust<br><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 akitaonrails / ai-memory<br>⭐ 9,680 (+159)<br>🗒 Rust<br><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors]]></content:encoded>
-    </item>
-    <item>
-      <title>options and a desktop beta. (2/2)</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs5hr3x2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs5hr3x2w</guid>
-      <pubDate>Sat, 17 Oct 2026 14:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[options and a desktop beta. (2/2)]]></description>
-      <content:encoded><![CDATA[options and a desktop beta. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   OpenCode is an open-source AI coding assistant…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs5gcgz2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs5gcgz2u</guid>
-      <pubDate>Sat, 17 Oct 2026 14:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>OpenCode is an open-source AI coding assistant with dual desktop/web agents, easy installation across platforms, and bilingual, community-driven documentation and support channels. It offers built-in agents for development and exploration, plus a collectible of distribution (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>OpenCode is an open-source AI coding assistant with dual desktop/web agents, easy installation across platforms, and bilingual, community-driven documentation and support channels. It offers built-in agents for development and exploration, plus a collectible of distribution (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>🚀 Skyrocketing！ 🚀 (200+ new stars)  📦 anomalyco / opencod…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs2rxn62u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3my3bs2rxn62u</guid>
-      <pubDate>Sat, 17 Oct 2026 14:17:15 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anomalyco / opencode<br>⭐ 214,590 (+488)<br>🗒 TypeScript<br><br>The open source coding agent.]]></description>
-      <content:encoded><![CDATA[🚀 Skyrocketing！ 🚀 (200+ new stars)<br><br>📦 anomalyco / opencode<br>⭐ 214,590 (+488)<br>🗒 TypeScript<br><br>The open source coding agent.]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  stablyai/orca Orcaは、複数のAIエージェントを効率的に運用するためのAI…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3bbzcyxk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3bbzcyxk2l</guid>
-      <pubDate>Sat, 17 Oct 2026 14:08:16 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを効率的に運用するためのAIオーケストレーターです。<br>独立したGitワークツリーを用いて複数のエージェントを並行して動作させ、その結果を比較し統合することを可能にします。<br>モバイル連携、高度なターミナル機能、GitHubやLinearとの統合、SSH対応などを備え、AI駆動の開発ワークフローを一元的に管理することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを効率的に運用するためのAIオーケストレーターです。<br>独立したGitワークツリーを用いて複数のエージェントを並行して動作させ、その結果を比較し統合することを可能にします。<br>モバイル連携、高度なターミナル機能、GitHubやLinearとの統合、SSH対応などを備え、AI駆動の開発ワークフローを一元的に管理することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  android/skills Android skillsは、AIエージェントがAndro…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3ba5tlz22y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3ba5tlz22y</guid>
-      <pubDate>Sat, 17 Oct 2026 14:07:14 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>android/skills<br>Android skillsは、AIエージェントがAndroid開発のベストプラクティスを正確に理解し実行するための最適化された指示書リポジトリです。<br>オープン標準のスキル形式を用いて、特にLLMが苦手とするユースケースやワークフローに焦点を当てた専門知識を提供します。<br>CLIやプラグインを通じて導入し、AIによる開発支援の精度を向上させることが目的です。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>android/skills<br>Android skillsは、AIエージェントがAndroid開発のベストプラクティスを正確に理解し実行するための最適化された指示書リポジトリです。<br>オープン標準のスキル形式を用いて、特にLLMが苦手とするユースケースやワークフローに焦点を当てた専門知識を提供します。<br>CLIやプラグインを通じて導入し、AIによる開発支援の精度を向上させることが目的です。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  akitaonrails/ai-memory AIコーディングエージェント向けの長期メモリ…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b6zqqyv2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b6zqqyv2g</guid>
-      <pubDate>Sat, 17 Oct 2026 14:06:36 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの長期メモリを提供するツールです。<br>Claude CodeやCursorなど異なるAIツール間で記憶を共有し、ツールを切り替えても設計や過去の試行錯誤、未解決事項を再説明することなく作業を継続できるようにすることを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>akitaonrails/ai-memory<br>AIコーディングエージェント向けの長期メモリを提供するツールです。<br>Claude CodeやCursorなど異なるAIツール間で記憶を共有し、ツールを切り替えても設計や過去の試行錯誤、未解決事項を再説明することなく作業を継続できるようにすることを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  MadsLorentzen/ai-job-search Claude Codeを活用し、求…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b4h6xij2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b4h6xij2i</guid>
-      <pubDate>Sat, 17 Oct 2026 14:05:10 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude Codeを活用し、求人評価、履歴書の最適化、カバーレター作成、面接準備を効率化するAIベースの就職活動支援フレームワークです。<br>ユーザーのプロフィールに基づき、求人への適合性判断から応募書類の作成、面接対策までのワークフローを自動化し、就職活動を支援することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude Codeを活用し、求人評価、履歴書の最適化、カバーレター作成、面接準備を効率化するAIベースの就職活動支援フレームワークです。<br>ユーザーのプロフィールに基づき、求人への適合性判断から応募書類の作成、面接対策までのワークフローを自動化し、就職活動を支援することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  anthropics/claude-plugins-official Claude Cod…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b2sbfkn2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3my3b2sbfkn2g</guid>
-      <pubDate>Sat, 17 Oct 2026 14:04:14 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-official<br>Claude Code向けの高品質なプラグインをまとめたキュレーションディレクトリです。<br>Anthropic社製および外部パートナー製のプラグインを提供し、ユーザーが簡単にインストールして機能を拡張できる環境を提供することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>anthropics/claude-plugins-official<br>Claude Code向けの高品質なプラグインをまとめたキュレーションディレクトリです。<br>Anthropic社製および外部パートナー製のプラグインを提供し、ユーザーが簡単にインストールして機能を拡張できる環境を提供することを目的としています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のHuggingFaceトレンド  black-forest-labs/flux-3-image-klein-com…</title>
-      <link>https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my3abpef5u2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6ab3edwxu5w4t57el6pcenj/post/3my3abpef5u2w</guid>
-      <pubDate>Sat, 17 Oct 2026 13:50:12 GMT</pubDate>
-      <author>デイリーHuggingFaceトレンド (@huggingfacetrends.bsky.social)</author>
-      <description><![CDATA[今日のHuggingFaceトレンド<br><br>black-forest-labs/flux-3-image-klein-comfy<br>READMEの内容が記載されていません。<br>内容をご提示いただければ、仕様に従ってまとめます。<br>]]></description>
-      <content:encoded><![CDATA[今日のHuggingFaceトレンド<br><br>black-forest-labs/flux-3-image-klein-comfy<br>READMEの内容が記載されていません。<br>内容をご提示いただければ、仕様に従ってまとめます。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
