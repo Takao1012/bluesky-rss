@@ -5,8 +5,44 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:50:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:57:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   µRepRapは、入手しやすい材料で作るオープンソースの微細加工機で、約8mmの範囲で1µm…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my6ynnzma42a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my6ynnzma42a</guid>
+      <pubDate>Mon, 19 Oct 2026 01:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>µRepRapは、入手しやすい材料で作るオープンソースの微細加工機で、約8mmの範囲で1µm程度の再現性を実現し、数µm級の樹脂滴の造形にも成功しています。RepRapの理念をマイクロスケールへ広げ、将来的に電子部品やMEMSなどを安価に製作・操作できる技術基盤を目指すプロジェクトです。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>µRepRapは、入手しやすい材料で作るオープンソースの微細加工機で、約8mmの範囲で1µm程度の再現性を実現し、数µm級の樹脂滴の造形にも成功しています。RepRapの理念をマイクロスケールへ広げ、将来的に電子部品やMEMSなどを安価に製作・操作できる技術基盤を目指すプロジェクトです。]]></content:encoded>
+    </item>
+    <item>
+      <title>RepRapMicron RepRapMicron  🔺 330 💬 16 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my6ynkbdkn2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my6ynkbdkn2g</guid>
+      <pubDate>Mon, 19 Oct 2026 01:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[RepRapMicron<br>RepRapMicron<br><br>🔺 330<br>💬 16<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[RepRapMicron<br>RepRapMicron<br><br>🔺 330<br>💬 16<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 リーダーシップなき越境は組織を壊す｜TakayukiSaruta  🔖 231 ブックマーク 💬 コメント �…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my6ufjs46k2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3my6ufjs46k2u</guid>
+      <pubDate>Mon, 19 Oct 2026 00:28:15 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 リーダーシップなき越境は組織を壊す｜TakayukiSaruta<br><br>🔖 231 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 リーダーシップなき越境は組織を壊す｜TakayukiSaruta<br><br>🔖 231 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>All the T3 Code threads I am clicking on in this demo are on…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my6tysz4k42f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my6tysz4k42f</guid>
+      <pubDate>Mon, 19 Oct 2026 00:21:08 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[All the T3 Code threads I am clicking on in this demo are on other machines (mostly VPSs and local linux boxes)<br><br>The Codex comparison is mostly local, with a few threads on my overspec'd windows box connected directly with a 10gbe link.<br><br>If you haven't moved to T3 Code yet, why?]]></description>
+      <content:encoded><![CDATA[All the T3 Code threads I am clicking on in this demo are on other machines (mostly VPSs and local linux boxes)<br><br>The Codex comparison is mostly local, with a few threads on my overspec'd windows box connected directly with a 10gbe link.<br><br>If you haven't moved to T3 Code yet, why?]]></content:encoded>
+    </item>
     <item>
       <title>Reminder</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my6sckl5w52q</link>
@@ -426,55 +462,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Okay now do this but for growth]]></description>
       <content:encoded><![CDATA[Okay now do this but for growth]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   PeleはMermaid記法をSVGに変換する、依存関係ゼロの軽量・高速な描画ライブラリです…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my54cmjshb2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my54cmjshb2a</guid>
-      <pubDate>Sun, 18 Oct 2026 07:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>PeleはMermaid記法をSVGに変換する、依存関係ゼロの軽量・高速な描画ライブラリです。Mermaid 12.1.0の全図表に対応し、CSS変数でテーマを調整できます。APIから簡単に利用でき、Obsidian向けに開発されたオープンソースプロジェクトです。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>PeleはMermaid記法をSVGに変換する、依存関係ゼロの軽量・高速な描画ライブラリです。Mermaid 12.1.0の全図表に対応し、CSS変数でテーマを調整できます。APIから簡単に利用でき、Obsidian向けに開発されたオープンソースプロジェクトです。]]></content:encoded>
-    </item>
-    <item>
-      <title>Pele — Mermaid図をテーマ設定可能なSVGに翻訳するライブラリ Pele – Mermaid diagram…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my54cjbocy2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3my54cjbocy2p</guid>
-      <pubDate>Sun, 18 Oct 2026 07:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Pele — Mermaid図をテーマ設定可能なSVGに翻訳するライブラリ<br>Pele – Mermaid diagrams as themeable SVG<br><br>🔺 391<br>💬 15<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Pele — Mermaid図をテーマ設定可能なSVGに翻訳するライブラリ<br>Pele – Mermaid diagrams as themeable SVG<br><br>🔺 391<br>💬 15<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>gahtdam</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my4zcx33dr2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my4zcx33dr2e</guid>
-      <pubDate>Sun, 18 Oct 2026 06:50:57 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[gahtdam
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqyqn2bi225jcbrz4nupefdy3uxarlhxn45aj3bkdxol7fsp4ypi" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibqyi7qwqgpazm3pdggq6b3v66vdtytyg7jnzogxdz5tgjvtc6vuu" alt="Quoted post by @jullerino: For the past 30 hours my agent has merged almost 400 PRs focused on web perf:
-• 86% fewer renders when another thread streams
-• up to 35% less JS CPU
-• ~10% smaller heap
-Mobile next. Would be a shame if I had to freeze merges…" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[gahtdam
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqyqn2bi225jcbrz4nupefdy3uxarlhxn45aj3bkdxol7fsp4ypi" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibqyi7qwqgpazm3pdggq6b3v66vdtytyg7jnzogxdz5tgjvtc6vuu" alt="Quoted post by @jullerino: For the past 30 hours my agent has merged almost 400 PRs focused on web perf:
-• 86% fewer renders when another thread streams
-• up to 35% less JS CPU
-• ~10% smaller heap
-Mobile next. Would be a shame if I had to freeze merges…" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaqyqn2bi225jcbrz4nupefdy3uxarlhxn45aj3bkdxol7fsp4ypi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>There is not much I deserve credit for, but I hope you guys …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my4wssh6eh2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3my4wssh6eh2i</guid>
-      <pubDate>Sun, 18 Oct 2026 06:06:07 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[There is not much I deserve credit for, but I hope you guys will let me have the credit I deserve for coining the "google tier" in tier lists]]></description>
-      <content:encoded><![CDATA[There is not much I deserve credit for, but I hope you guys will let me have the credit I deserve for coining the "google tier" in tier lists]]></content:encoded>
     </item>
   </channel>
 </rss>
