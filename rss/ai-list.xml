@@ -5,8 +5,134 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 03:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:55:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>If you&apos;re curious how this is going</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mycaxzbzeu2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mycaxzbzeu2c</guid>
+      <pubDate>Tue, 20 Oct 2026 08:51:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[If you're curious how this is going
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiftrmn7kz74buvnz5rjx3435mfpbu6fduw57gwcesj3rbr6jyrh5y" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[If you're curious how this is going
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiftrmn7kz74buvnz5rjx3435mfpbu6fduw57gwcesj3rbr6jyrh5y" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiftrmn7kz74buvnz5rjx3435mfpbu6fduw57gwcesj3rbr6jyrh5y" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>What other dev tool has a 1-click &quot;update all providers and …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7c3ciyu2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7c3ciyu2q</guid>
+      <pubDate>Tue, 20 Oct 2026 08:21:09 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[What other dev tool has a 1-click "update all providers and instances across all my machines" button?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidatch43mg6a74dsif74gxqrjaqmswd2vbcgcvuedhlgxa4e7ygei" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[What other dev tool has a 1-click "update all providers and instances across all my machines" button?
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidatch43mg6a74dsif74gxqrjaqmswd2vbcgcvuedhlgxa4e7ygei" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidatch43mg6a74dsif74gxqrjaqmswd2vbcgcvuedhlgxa4e7ygei" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>jfc @jullerino   (this is prs merged per day)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7bu2pcv24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7bu2pcv24</guid>
+      <pubDate>Tue, 20 Oct 2026 08:21:01 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[jfc @jullerino <br><br>(this is prs merged per day)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif7m2rbl5cl6fxgwr23dczr423gifcowluzox25hwbfhi5fwz43b4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[jfc @jullerino <br><br>(this is prs merged per day)
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif7m2rbl5cl6fxgwr23dczr423gifcowluzox25hwbfhi5fwz43b4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif7m2rbl5cl6fxgwr23dczr423gifcowluzox25hwbfhi5fwz43b4" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>PR for this merged btw, will be in next nightly release :)</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7bpxusx2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc7bpxusx2e</guid>
+      <pubDate>Tue, 20 Oct 2026 08:20:57 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[PR for this merged btw, will be in next nightly release :)]]></description>
+      <content:encoded><![CDATA[PR for this merged btw, will be in next nightly release :)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   調査により、WhatsAppのヘルプページには画面上では見えないAI向け指示が埋め込まれ、ア…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myc5ajdb632l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myc5ajdb632l</guid>
+      <pubDate>Tue, 20 Oct 2026 07:44:29 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>調査により、WhatsAppのヘルプページには画面上では見えないAI向け指示が埋め込まれ、アカウント削除を求める人に手動削除や規制当局への相談を勧めないよう促していたほか、弁護士や訴訟の話が出るとGDPRなどの法律に触れないよう指示していたことが判明した。これらは公開プライバシーポリシーが示す権利と食い違っており、WhatsAppは後に指示を削除したが、AIが実際に従ったかは確認されていない。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>調査により、WhatsAppのヘルプページには画面上では見えないAI向け指示が埋め込まれ、アカウント削除を求める人に手動削除や規制当局への相談を勧めないよう促していたほか、弁護士や訴訟の話が出るとGDPRなどの法律に触れないよう指示していたことが判明した。これらは公開プライバシーポリシーが示す権利と食い違っており、WhatsAppは後に指示を削除したが、AIが実際に従ったかは確認されていない。]]></content:encoded>
+    </item>
+    <item>
+      <title>WhatsAppのヘルプページに隠されていたLLM向け指示：「規制当局への相談を勧めないこと」 WhatsApp&apos;s h…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myc5afxddy2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myc5afxddy2p</guid>
+      <pubDate>Tue, 20 Oct 2026 07:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[WhatsAppのヘルプページに隠されていたLLM向け指示：「規制当局への相談を勧めないこと」<br>WhatsApp's help pages hid LLM instructions: dont recommend a regulator<br><br>🔺 342<br>💬 25<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[WhatsAppのヘルプページに隠されていたLLM向け指示：「規制当局への相談を勧めないこと」<br>WhatsApp's help pages hid LLM instructions: dont recommend a regulator<br><br>🔺 342<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>What I&apos;m trying to say here is &quot;I get why the labs don&apos;t bot…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc3wb7zfz2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc3wb7zfz2e</guid>
+      <pubDate>Tue, 20 Oct 2026 07:20:51 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[What I'm trying to say here is "I get why the labs don't bother with this, it sucks and is not easy"]]></description>
+      <content:encoded><![CDATA[What I'm trying to say here is "I get why the labs don't bother with this, it sucks and is not easy"]]></content:encoded>
+    </item>
+    <item>
+      <title>T3 Code is remote-env-first experience.  I love this and don…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc3w5i7332q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc3w5i7332q</guid>
+      <pubDate>Tue, 20 Oct 2026 07:20:47 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[T3 Code is remote-env-first experience.<br><br>I love this and don't ever plan to change it. That said, it has a bad habit of turning basic feature additions into complex jigsaw puzzles]]></description>
+      <content:encoded><![CDATA[T3 Code is remote-env-first experience.<br><br>I love this and don't ever plan to change it. That said, it has a bad habit of turning basic feature additions into complex jigsaw puzzles]]></content:encoded>
+    </item>
+    <item>
+      <title>There&apos;s a feature I&apos;ve wanted in T3 Code for months that was…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc2ajvlew2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myc2ajvlew2f</guid>
+      <pubDate>Tue, 20 Oct 2026 06:50:48 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[There's a feature I've wanted in T3 Code for months that was really complex UX wise and I couldn't figure out how to get it right.<br><br>Just had it click. I'm hyped. Will seem really small when it drops, but it will make things much easier for us multi-machine agent wranglers :)]]></description>
+      <content:encoded><![CDATA[There's a feature I've wanted in T3 Code for months that was really complex UX wise and I couldn't figure out how to get it right.<br><br>Just had it click. I'm hyped. Will seem really small when it drops, but it will make things much easier for us multi-machine agent wranglers :)]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   これは、長橋を守りながら虫の群れを迎撃する人族部隊のゲーム画面と、操作方法・部隊構成を示す作…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybwjput332w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybwjput332w</guid>
+      <pubDate>Tue, 20 Oct 2026 05:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>これは、長橋を守りながら虫の群れを迎撃する人族部隊のゲーム画面と、操作方法・部隊構成を示す作戦ブリーフィングです。ゲームを開始できない場合は、縦画面でプレイするよう案内しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>これは、長橋を守りながら虫の群れを迎撃する人族部隊のゲーム画面と、操作方法・部隊構成を示す作戦ブリーフィングです。ゲームを開始できない場合は、縦画面でプレイするよう案内しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>スタークラフト：アッシュフォール Starcraft: Ashfall  🔺 388 💬 47 🔗 HN Post…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybwjml2zz2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybwjml2zz2p</guid>
+      <pubDate>Tue, 20 Oct 2026 05:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[スタークラフト：アッシュフォール<br>Starcraft: Ashfall<br><br>🔺 388<br>💬 47<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[スタークラフト：アッシュフォール<br>Starcraft: Ashfall<br><br>🔺 388<br>💬 47<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   MiniMaxは、エージェント業務・コーディング・PC操作・サイバーセキュリティの性能を強化…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybpta2xk52w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybpta2xk52w</guid>
+      <pubDate>Tue, 20 Oct 2026 03:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>MiniMaxは、エージェント業務・コーディング・PC操作・サイバーセキュリティの性能を強化した次世代モデル「M3.1 Flash」を公開しました。推論速度は最大毎秒200トークン超で、前モデル比の利用コストを70％削減し、APIやMiniMax Codeなどから利用できます。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>MiniMaxは、エージェント業務・コーディング・PC操作・サイバーセキュリティの性能を強化した次世代モデル「M3.1 Flash」を公開しました。推論速度は最大毎秒200トークン超で、前モデル比の利用コストを70％削減し、APIやMiniMax Codeなどから利用できます。]]></content:encoded>
+    </item>
+    <item>
+      <title>MiniMax M3.1 Flash MiniMax M3.1 Flash  🔺 406 💬 28 🔗 HN Po…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybpt3cwqm2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mybpt3cwqm2g</guid>
+      <pubDate>Tue, 20 Oct 2026 03:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[MiniMax M3.1 Flash<br>MiniMax M3.1 Flash<br><br>🔺 406<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[MiniMax M3.1 Flash<br>MiniMax M3.1 Flash<br><br>🔺 406<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Thanks for sticking through with us in the interim. If you w…</title>
       <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myblz5wa5k2q</link>
@@ -351,135 +477,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[“i originally thought this would be slop but it feels like and i can't believe i am saying this. a better version of the codex desktop”<br><br>:’)]]></description>
       <content:encoded><![CDATA[“i originally thought this would be slop but it feels like and i can't believe i am saying this. a better version of the codex desktop”<br><br>:’)]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   著者は、人間の創造性や喜びのためにRubyを書く時代が終わり、RailsやRubyがLLMエ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myb3pjed3q2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myb3pjed3q2e</guid>
-      <pubDate>Mon, 19 Oct 2026 21:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>著者は、人間の創造性や喜びのためにRubyを書く時代が終わり、RailsやRubyがLLMエージェントと企業のための資源として扱われることに失望したとして、自身のRuby gemの開発をやめ、ソースコードをアーカイブすると宣言している。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>著者は、人間の創造性や喜びのためにRubyを書く時代が終わり、RailsやRubyがLLMエージェントと企業のための資源として扱われることに失望したとして、自身のRuby gemの開発をやめ、ソースコードをアーカイブすると宣言している。]]></content:encoded>
-    </item>
-    <item>
-      <title>Ruby gemの開発にはもう興味がないので、すべてのリポジトリをアーカイブしました。 I no longer care…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myb3peyfve2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myb3peyfve2n</guid>
-      <pubDate>Mon, 19 Oct 2026 21:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Ruby gemの開発にはもう興味がないので、すべてのリポジトリをアーカイブしました。<br>I no longer care to work on any Ruby gems so I've archived all my repositories<br><br>🔺 362<br>💬 42<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Ruby gemの開発にはもう興味がないので、すべてのリポジトリをアーカイブしました。<br>I no longer care to work on any Ruby gems so I've archived all my repositories<br><br>🔺 362<br>💬 42<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Bro got double community noted and still never responded to …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myazkyzgcn2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myazkyzgcn2q</guid>
-      <pubDate>Mon, 19 Oct 2026 21:06:06 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Bro got double community noted and still never responded to me.<br><br>Genuinely hate that grifters like this can get so much attention just by lying on X.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieiqrgznvyulv5yk7x3gwag3nldn6ve54gfscfk4hb76dxaqil5nm" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibzlrpck3tfw37rbizxwskreqmixvw3yb3pld2mna2by7jqhk47be" alt="Quoted post by @theo: I did not tell him to hide anything.
-
-I hit him up to ask about why T3 Code scored low. Learned he was on a 3+ month old version. He tried the modern version with our new orchestrator, realized his scores were not good, and adjusted.
-
-He mentioned wanting to make a real benchmark after, so I offered to fund it because there’s no good research like this going on right now. He actually found a few things I’ve been rabbit hole-ing on all weekend.
-
-I have no idea what Cloudroom is. I definitely did not tell him to remove it or anything else.
-
-Only commentary I had on other solutions was that I was curious why a shitty clone of our app scored higher than us initially. Nothing to do with cloudroom." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Bro got double community noted and still never responded to me.<br><br>Genuinely hate that grifters like this can get so much attention just by lying on X.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieiqrgznvyulv5yk7x3gwag3nldn6ve54gfscfk4hb76dxaqil5nm" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreibzlrpck3tfw37rbizxwskreqmixvw3yb3pld2mna2by7jqhk47be" alt="Quoted post by @theo: I did not tell him to hide anything.
-
-I hit him up to ask about why T3 Code scored low. Learned he was on a 3+ month old version. He tried the modern version with our new orchestrator, realized his scores were not good, and adjusted.
-
-He mentioned wanting to make a real benchmark after, so I offered to fund it because there’s no good research like this going on right now. He actually found a few things I’ve been rabbit hole-ing on all weekend.
-
-I have no idea what Cloudroom is. I definitely did not tell him to remove it or anything else.
-
-Only commentary I had on other solutions was that I was curious why a shitty clone of our app scored higher than us initially. Nothing to do with cloudroom." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreieiqrgznvyulv5yk7x3gwag3nldn6ve54gfscfk4hb76dxaqil5nm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   OpenBSD向けWineの新しいポート案が公開され、64ビット版のWindowsソフトやゲ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myauywmyb72h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myauywmyb72h</guid>
-      <pubDate>Mon, 19 Oct 2026 19:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>OpenBSD向けWineの新しいポート案が公開され、64ビット版のWindowsソフトやゲームが多数動作し、ウィッチャー3のリマスターも良好に動くと報告された。一方、WoW64が未対応のため32ビットソフトは動かず、テスト機能にも課題が残る。試す場合は自己責任とし、非特権ユーザーでの利用が推奨されている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>OpenBSD向けWineの新しいポート案が公開され、64ビット版のWindowsソフトやゲームが多数動作し、ウィッチャー3のリマスターも良好に動くと報告された。一方、WoW64が未対応のため32ビットソフトは動かず、テスト機能にも課題が残る。試す場合は自己責任とし、非特権ユーザーでの利用が推奨されている。]]></content:encoded>
-    </item>
-    <item>
-      <title>WineをOpenBSDに移植 Wine ported to OpenBSD  🔺 398 💬 25 🔗 HN P…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myauyttjin2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myauyttjin2w</guid>
-      <pubDate>Mon, 19 Oct 2026 19:44:22 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[WineをOpenBSDに移植<br>Wine ported to OpenBSD<br><br>🔺 398<br>💬 25<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[WineをOpenBSDに移植<br>Wine ported to OpenBSD<br><br>🔺 398<br>💬 25<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Here&apos;s a provocative dancing truck salesman video for anyone…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaon7c74k2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaon7c74k2s</guid>
-      <pubDate>Mon, 19 Oct 2026 17:50:29 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Here's a provocative dancing truck salesman video for anyone who's unfamiliar with the genre www.tiktok.com/@chenglongtr...]]></description>
-      <content:encoded><![CDATA[Here's a provocative dancing truck salesman video for anyone who's unfamiliar with the genre www.tiktok.com/@chenglongtr...]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;ve been getting both of those!</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaoilbd222s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaoilbd222s</guid>
-      <pubDate>Mon, 19 Oct 2026 17:47:54 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I've been getting both of those!]]></description>
-      <content:encoded><![CDATA[I've been getting both of those!]]></content:encoded>
-    </item>
-    <item>
-      <title>I have not seen those and I would like to see them</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaogkqwik2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myaogkqwik2s</guid>
-      <pubDate>Mon, 19 Oct 2026 17:46:46 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I have not seen those and I would like to see them]]></description>
-      <content:encoded><![CDATA[I have not seen those and I would like to see them]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   Mistralは、時系列予測モデル群「Timestral」を公開した。最大2億900万パラメ…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myaocjvpdz2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myaocjvpdz2a</guid>
-      <pubDate>Mon, 19 Oct 2026 17:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>Mistralは、時系列予測モデル群「Timestral」を公開した。最大2億900万パラメータのモデルは主要3ベンチマークで首位となり、確率的な多変量予測や既知の将来情報の活用に対応し、CPUでも効率よく動作する。5M〜209Mの4サイズを揃え、未学習分野でのゼロショット予測に加え、Mistral Forgeによる業界データへの適応も可能だ。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>Mistralは、時系列予測モデル群「Timestral」を公開した。最大2億900万パラメータのモデルは主要3ベンチマークで首位となり、確率的な多変量予測や既知の将来情報の活用に対応し、CPUでも効率よく動作する。5M〜209Mの4サイズを揃え、未学習分野でのゼロショット予測に加え、Mistral Forgeによる業界データへの適応も可能だ。]]></content:encoded>
-    </item>
-    <item>
-      <title>Timestral：Mistralが時系列基盤モデルを公開 Timestral: Mistral release tim…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myaocfmzgg2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myaocfmzgg2k</guid>
-      <pubDate>Mon, 19 Oct 2026 17:44:27 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Timestral：Mistralが時系列基盤モデルを公開<br>Timestral: Mistral release time-series foundation models<br><br>🔺 386<br>💬 21<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Timestral：Mistralが時系列基盤モデルを公開<br>Timestral: Mistral release time-series foundation models<br><br>🔺 386<br>💬 21<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  headroomlabs-ai/headroom AIエージェントがLLMに送信するログや…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myanryfijx2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myanryfijx2i</guid>
-      <pubDate>Mon, 19 Oct 2026 17:35:16 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>headroomlabs-ai/headroom<br>AIエージェントがLLMに送信するログやファイル、会話履歴などのデータを圧縮し、トークン数を削減するツールです。<br>回答の精度を維持したまま、コストの削減と遅延の抑制を実現します。<br>圧縮はローカル環境で行われるため、データが外部に送信されることはなく、プライバシーが確保されています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>headroomlabs-ai/headroom<br>AIエージェントがLLMに送信するログやファイル、会話履歴などのデータを圧縮し、トークン数を削減するツールです。<br>回答の精度を維持したまま、コストの削減と遅延の抑制を実現します。<br>圧縮はローカル環境で行われるため、データが外部に送信されることはなく、プライバシーが確保されています。<br>]]></content:encoded>
-    </item>
-    <item>
-      <title>今日のGitHubトレンド  stablyai/orca Orcaは、複数のAIエージェントを並行して実行・管理するため…</title>
-      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myanjnmzoz2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myanjnmzoz2t</guid>
-      <pubDate>Mon, 19 Oct 2026 17:30:36 GMT</pubDate>
-      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
-      <description><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを並行して実行・管理するためのAIオーケストレーターです。<br>異なるAIを独立したワークツリーで同時に動作させ、結果の比較や統合を効率的に行えます。<br>ターミナル機能やブラウザ連携、GitHub/Linear統合、リモート環境での実行などの機能を備え、開発者の生産性を最大化することを目的としています。<br>]]></description>
-      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIエージェントを並行して実行・管理するためのAIオーケストレーターです。<br>異なるAIを独立したワークツリーで同時に動作させ、結果の比較や統合を効率的に行えます。<br>ターミナル機能やブラウザ連携、GitHub/Linear統合、リモート環境での実行などの機能を備え、開発者の生産性を最大化することを目的としています。<br>]]></content:encoded>
     </item>
   </channel>
 </rss>
