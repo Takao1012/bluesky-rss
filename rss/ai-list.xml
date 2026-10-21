@@ -5,8 +5,130 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:42:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Three.js is more natural for distributing as a web page</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myftiwtaxs2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myftiwtaxs2w</guid>
+      <pubDate>Wed, 21 Oct 2026 19:00:53 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Three.js is more natural for distributing as a web page]]></description>
+      <content:encoded><![CDATA[Three.js is more natural for distributing as a web page]]></content:encoded>
+    </item>
+    <item>
+      <title>This makes me profoundly sad</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfsifyas72m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfsifyas72m</guid>
+      <pubDate>Wed, 21 Oct 2026 18:42:42 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[This makes me profoundly sad]]></description>
+      <content:encoded><![CDATA[This makes me profoundly sad]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-10…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfpa4yyy62u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfpa4yyy62u</guid>
+      <pubDate>Wed, 21 Oct 2026 17:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正したPHP 8.2.35を公開しました。完全な緩和策はないため、PHP 8.2利用者は直ちに更新してください。PHP 8.2は2026年12月31日にサポート終了となるため、対応中のバージョンへの移行も計画してください。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正したPHP 8.2.35を公開しました。完全な緩和策はないため、PHP 8.2利用者は直ちに更新してください。PHP 8.2は2026年12月31日にサポート終了となるため、対応中のバージョンへの移行も計画してください。]]></content:encoded>
+    </item>
+    <item>
+      <title>PHP 8.2.35 PHP 8.2.35  🔺 751 💬 73 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfp7yvizo24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfp7yvizo24</guid>
+      <pubDate>Wed, 21 Oct 2026 17:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[PHP 8.2.35<br>PHP 8.2.35<br><br>🔺 751<br>💬 73<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[PHP 8.2.35<br>PHP 8.2.35<br><br>🔺 751<br>💬 73<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>It&apos;s been less than 24 hours and there&apos;s already a French fo…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myfmdrox3k2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myfmdrox3k2u</guid>
+      <pubDate>Wed, 21 Oct 2026 16:52:44 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[It's been less than 24 hours and there's already a French fork of Battle Drones that reimagines it as Belle Époque steampunk! simonwillison.net/2026/Oct/21/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreichfirlpysobqubzs67akobyq2jgog7ec4327qigcxwq4scslyysy" alt="The new steampunk version, more gold, french architecture, steampunk aesthetic " style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreib6h2722gc3ipwmv7lggpfqddzg7f42ftmqcnxccku3mbeu4xe7vu" alt="On the left is the original blue robot goliath model - in the right the new gold steqmpunk one " style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[It's been less than 24 hours and there's already a French fork of Battle Drones that reimagines it as Belle Époque steampunk! simonwillison.net/2026/Oct/21/...
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreichfirlpysobqubzs67akobyq2jgog7ec4327qigcxwq4scslyysy" alt="The new steampunk version, more gold, french architecture, steampunk aesthetic " style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreib6h2722gc3ipwmv7lggpfqddzg7f42ftmqcnxccku3mbeu4xe7vu" alt="On the left is the original blue robot goliath model - in the right the new gold steqmpunk one " style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreichfirlpysobqubzs67akobyq2jgog7ec4327qigcxwq4scslyysy" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>📝 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myfkyiyptr2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myfkyiyptr2r</guid>
+      <pubDate>Wed, 21 Oct 2026 16:28:32 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か<br><br>🔖 155 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  Comfy-Org/ComfyUI ComfyUIは、コンテンツ制作向けの強力でモジュール…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjrkztdc2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjrkztdc2l</guid>
+      <pubDate>Wed, 21 Oct 2026 16:06:46 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>Comfy-Org/ComfyUI<br>ComfyUIは、コンテンツ制作向けの強力でモジュール化されたAIエンジンです。<br>ノードグラフ形式のインターフェースを通じて、モデルやパラメータ、出力を詳細に制御でき、画像や動画の生成が可能です。<br>ビジュアルプロフェッショナルによる高度なコントロールを実現することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>Comfy-Org/ComfyUI<br>ComfyUIは、コンテンツ制作向けの強力でモジュール化されたAIエンジンです。<br>ノードグラフ形式のインターフェースを通じて、モデルやパラメータ、出力を詳細に制御でき、画像や動画の生成が可能です。<br>ビジュアルプロフェッショナルによる高度なコントロールを実現することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  headroomlabs-ai/headroom Headroomは、AIエージェントがL…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjqsowiu2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjqsowiu2d</guid>
+      <pubDate>Wed, 21 Oct 2026 16:06:20 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>headroomlabs-ai/headroom<br>Headroomは、AIエージェントがLLMに送信するログやファイル、会話履歴などのデータを、LLMに届く前にローカルで圧縮するツールです。<br>回答の質を維持したままトークン数を大幅に削減することを目的としています。<br>処理はローカルで完結するため、データが外部に送信されることはありません。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>headroomlabs-ai/headroom<br>Headroomは、AIエージェントがLLMに送信するログやファイル、会話履歴などのデータを、LLMに届く前にローカルで圧縮するツールです。<br>回答の質を維持したままトークン数を大幅に削減することを目的としています。<br>処理はローカルで完結するため、データが外部に送信されることはありません。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  stablyai/orca Orcaは、複数のAIコーディングエージェントを並行して実行し…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjlpyf6f2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjlpyf6f2n</guid>
+      <pubDate>Wed, 21 Oct 2026 16:03:29 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIコーディングエージェントを並行して実行し、管理するためのAIオーケストレーターです。<br>Gitワークツリーを活用して各エージェントの結果を個別に管理し、比較や統合を効率的に行える仕組みを提供します。<br>モバイル連携や高性能ターミナル、外部ツール統合などの機能を備え、開発者の生産性向上を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>stablyai/orca<br>Orcaは、複数のAIコーディングエージェントを並行して実行し、管理するためのAIオーケストレーターです。<br>Gitワークツリーを活用して各エージェントの結果を個別に管理し、比較や統合を効率的に行える仕組みを提供します。<br>モバイル連携や高性能ターミナル、外部ツール統合などの機能を備え、開発者の生産性向上を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  vllm-project/vllm vLLMは、大規模言語モデル（LLM）の推論とサービン…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjgiehmc25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfjgiehmc25</guid>
+      <pubDate>Wed, 21 Oct 2026 16:00:34 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>vllm-project/vllm<br>vLLMは、大規模言語モデル（LLM）の推論とサービングを高速かつ簡単、そして低コストに実現するためのライブラリです。<br>Hugging Face上の200以上のモデルアーキテクチャを幅広くサポートし、効率的なLLMの運用と提供を目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>vllm-project/vllm<br>vLLMは、大規模言語モデル（LLM）の推論とサービングを高速かつ簡単、そして低コストに実現するためのライブラリです。<br>Hugging Face上の200以上のモデルアーキテクチャを幅広くサポートし、効率的なLLMの運用と提供を目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>今日のGitHubトレンド  MadsLorentzen/ai-job-search Claude Codeをベースとし…</title>
+      <link>https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfiymshnh24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jtnzku3hgnizcgxbckyjschq/post/3myfiymshnh24</guid>
+      <pubDate>Wed, 21 Oct 2026 15:52:49 GMT</pubDate>
+      <author>デイリーGitHubトレンド (@dailygithubtrends.bsky.social)</author>
+      <description><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude CodeをベースとしたAI搭載の求人応募フレームワークです。<br>ユーザーのプロフィールを用いて、求人情報の評価、履歴書の最適化、カバーレターの作成、面接準備などのプロセスを効率化することを目的としています。<br>]]></description>
+      <content:encoded><![CDATA[今日のGitHubトレンド<br><br>MadsLorentzen/ai-job-search<br>Claude CodeをベースとしたAI搭載の求人応募フレームワークです。<br>ユーザーのプロフィールを用いて、求人情報の評価、履歴書の最適化、カバーレターの作成、面接準備などのプロセスを効率化することを目的としています。<br>]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   eMudhraの中間認証局8件で、P-384秘密鍵がわずか1バイトの値になっており、公開証明…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfijmhzke23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfijmhzke23</guid>
+      <pubDate>Wed, 21 Oct 2026 15:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>eMudhraの中間認証局8件で、P-384秘密鍵がわずか1バイトの値になっており、公開証明書から誰でも瞬時に復元できる状態だった。主要ブラウザーは証明書を遮断したものの、失効確認や証明書透明性を使わない多くのアプリ・機器は影響を受け得るため、CA証明書ストアの更新が必要で、更新できない機器には長期的なリスクが残る。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>eMudhraの中間認証局8件で、P-384秘密鍵がわずか1バイトの値になっており、公開証明書から誰でも瞬時に復元できる状態だった。主要ブラウザーは証明書を遮断したものの、失効確認や証明書透明性を使わない多くのアプリ・機器は影響を受け得るため、CA証明書ストアの更新が必要で、更新できない機器には長期的なリスクが残る。]]></content:encoded>
+    </item>
+    <item>
+      <title>信頼の8ビット――eMudhraの認証局（CA）鍵、ミリ秒で解読される Eight Bits of Trust; eMu…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfijh75bp2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfijh75bp2w</guid>
+      <pubDate>Wed, 21 Oct 2026 15:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[信頼の8ビット――eMudhraの認証局（CA）鍵、ミリ秒で解読される<br>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds<br><br>🔺 548<br>💬 48<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[信頼の8ビット――eMudhraの認証局（CA）鍵、ミリ秒で解読される<br>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds<br><br>🔺 548<br>💬 48<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 PHPに「緊急」レベルの脆弱性2件　修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け  🔖 157 ブック…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myfhncgra322</link>
@@ -356,134 +478,6 @@ That said, I disagree with the thrust of your post. At the core, a good fraction
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Least favorite: I caved, LaTeX renders on web and mobile<br><br>Also heads up, we're getting a bit more experimental with how we treat Nightly, so now would be a good time to move back to stable :)]]></description>
       <content:encoded><![CDATA[Least favorite: I caved, LaTeX renders on web and mobile<br><br>Also heads up, we're getting a bit more experimental with how we treat Nightly, so now would be a good time to move back to stable :)]]></content:encoded>
-    </item>
-    <item>
-      <title>It finally feels native - `t3 doctor` can reclaim database s…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cgmgwl2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cgmgwl2q</guid>
-      <pubDate>Wed, 21 Oct 2026 03:26:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[It finally feels native<br>- `t3 doctor` can reclaim database space<br>- `t3 connect` now checks your machine is reachable, and errors say how to fix them<br>- Webhook tasks got filters and dedupe<br>- Skill discovery is much more reliable<br>- Tons of Windows, terminal, and scroll fixes]]></description>
-      <content:encoded><![CDATA[It finally feels native<br>- `t3 doctor` can reclaim database space<br>- `t3 connect` now checks your machine is reachable, and errors say how to fix them<br>- Webhook tasks got filters and dedupe<br>- Skill discovery is much more reliable<br>- Tons of Windows, terminal, and scroll fixes]]></content:encoded>
-    </item>
-    <item>
-      <title>- Massive perf wins on desktop and mobile - Add a project to…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cdldjm2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cdldjm2y</guid>
-      <pubDate>Wed, 21 Oct 2026 03:26:35 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[- Massive perf wins on desktop and mobile<br>- Add a project to another machine from the "Run on" menu<br>- EAS Simulator remote hosts for iOS dev<br>- PR diffs now show code vs tests vs docs at a glance<br>- Idle Claude threads compact early so the cache stays warm (beta)<br>- Mobile got a big native pass.]]></description>
-      <content:encoded><![CDATA[- Massive perf wins on desktop and mobile<br>- Add a project to another machine from the "Run on" menu<br>- EAS Simulator remote hosts for iOS dev<br>- PR diffs now show code vs tests vs docs at a glance<br>- Idle Claude threads compact early so the cache stays warm (beta)<br>- Mobile got a big native pass.]]></content:encoded>
-    </item>
-    <item>
-      <title>We just shipped an updated T3 Code Stable release with over …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cakc3k2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cakc3k2v</guid>
-      <pubDate>Wed, 21 Oct 2026 03:26:34 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[We just shipped an updated T3 Code Stable release with over 1,400 changes 🤯<br><br>Quick highlight reel of my favorites:]]></description>
-      <content:encoded><![CDATA[We just shipped an updated T3 Code Stable release with over 1,400 changes 🤯<br><br>Quick highlight reel of my favorites:]]></content:encoded>
-    </item>
-    <item>
-      <title>📦 wshobson / agents ⭐ 41,274 (+93) 🗒 Python  Multi-harness…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mye3gju2up2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3mye3gju2up2j</guid>
-      <pubDate>Wed, 21 Oct 2026 02:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📦 wshobson / agents<br>⭐ 41,274 (+93)<br>🗒 Python<br><br>Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi]]></description>
-      <content:encoded><![CDATA[📦 wshobson / agents<br>⭐ 41,274 (+93)<br>🗒 Python<br><br>Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi]]></content:encoded>
-    </item>
-    <item>
-      <title>Honestly? Fair</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye33zbmlo2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye33zbmlo2y</guid>
-      <pubDate>Wed, 21 Oct 2026 02:11:30 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Honestly? Fair]]></description>
-      <content:encoded><![CDATA[Honestly? Fair]]></content:encoded>
-    </item>
-    <item>
-      <title>Imagine you make $1 a day.  You have a chance to 10x the amo…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye2bcmhqs2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye2bcmhqs2p</guid>
-      <pubDate>Wed, 21 Oct 2026 01:56:34 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Imagine you make $1 a day.<br><br>You have a chance to 10x the amount every year. You have to pay $8,000 upfront to take that chance.<br><br>If it hits, you went from making $365/year to $3,650/year. If it hits twice, you now make $36,500 a year.<br><br>(Anthropic 16x’d their revenue this year)]]></description>
-      <content:encoded><![CDATA[Imagine you make $1 a day.<br><br>You have a chance to 10x the amount every year. You have to pay $8,000 upfront to take that chance.<br><br>If it hits, you went from making $365/year to $3,650/year. If it hits twice, you now make $36,500 a year.<br><br>(Anthropic 16x’d their revenue this year)]]></content:encoded>
-    </item>
-    <item>
-      <title>In retrospect, I think Astra may have been the most disappoi…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye2b32xau2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye2b32xau2c</guid>
-      <pubDate>Wed, 21 Oct 2026 01:56:26 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[In retrospect, I think Astra may have been the most disappointing release of the year]]></description>
-      <content:encoded><![CDATA[In retrospect, I think Astra may have been the most disappointing release of the year]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   『Permit Pending』は、都市開発の経済効果だけでなく、住民の反対や審議、訴訟、選…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydzlotvlz2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydzlotvlz2r</guid>
-      <pubDate>Wed, 21 Oct 2026 01:44:29 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>『Permit Pending』は、都市開発の経済効果だけでなく、住民の反対や審議、訴訟、選挙も乗り越えて街づくりを進める、ブラウザーで遊べる都市シミュレーションゲームです。政策が新たな利害対立を生むなか、住民の反応や街の変化を見極め、理想の都市を目指しながら市長の座を守ります。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>『Permit Pending』は、都市開発の経済効果だけでなく、住民の反対や審議、訴訟、選挙も乗り越えて街づくりを進める、ブラウザーで遊べる都市シミュレーションゲームです。政策が新たな利害対立を生むなか、住民の反応や街の変化を見極め、理想の都市を目指しながら市長の座を守ります。]]></content:encoded>
-    </item>
-    <item>
-      <title>SimCity、ただし許可申請あり SimCity, but with Permits  🔺 559 💬 50 🔗…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydzllixpv2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydzllixpv2u</guid>
-      <pubDate>Wed, 21 Oct 2026 01:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[SimCity、ただし許可申請あり<br>SimCity, but with Permits<br><br>🔺 559<br>💬 50<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[SimCity、ただし許可申請あり<br>SimCity, but with Permits<br><br>🔺 559<br>💬 50<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>&quot;for logged in users across Codex &amp; Work we keep cache forev…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydym7lzoc2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydym7lzoc2q</guid>
-      <pubDate>Wed, 21 Oct 2026 01:26:52 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA["for logged in users across Codex & Work we keep cache forever"<br><br>wtf. Biggest ship of the 28 days by far.]]></description>
-      <content:encoded><![CDATA["for logged in users across Codex & Work we keep cache forever"<br><br>wtf. Biggest ship of the 28 days by far.]]></content:encoded>
-    </item>
-    <item>
-      <title>So much cool data here. Play with it if you&apos;re interested: h…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydxr4pw3b2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydxr4pw3b2q</guid>
-      <pubDate>Wed, 21 Oct 2026 01:11:43 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[So much cool data here. Play with it if you're interested: https://rkufoapn89co.postplan.dev/
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5vogg4igw733n6pdkxts65uqmbobdb4nbu6gsabnvtu6glgubom" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigpatsexxlbf27dee2meld5qhkdzer6nhrgirncwmhmj554jugcci" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[So much cool data here. Play with it if you're interested: https://rkufoapn89co.postplan.dev/
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5vogg4igw733n6pdkxts65uqmbobdb4nbu6gsabnvtu6glgubom" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigpatsexxlbf27dee2meld5qhkdzer6nhrgirncwmhmj554jugcci" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreif5vogg4igw733n6pdkxts65uqmbobdb4nbu6gsabnvtu6glgubom" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Did some data analysis on &quot;cost to land changes&quot; across real…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydxqvk4ke27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydxqvk4ke27</guid>
-      <pubDate>Wed, 21 Oct 2026 01:11:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Did some data analysis on "cost to land changes" across real threads and PRs I've landed in the last few months.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreier7y6bz77f6n3wxnrxg2u73oseoqlqhqiwaclxypks6tzto43et4" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Did some data analysis on "cost to land changes" across real threads and PRs I've landed in the last few months.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreier7y6bz77f6n3wxnrxg2u73oseoqlqhqiwaclxypks6tzto43et4" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreier7y6bz77f6n3wxnrxg2u73oseoqlqhqiwaclxypks6tzto43et4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Deleted 🫡</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydwvxpowr2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mydwvxpowr2k</guid>
-      <pubDate>Wed, 21 Oct 2026 00:56:32 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Deleted 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifx7v3uuqpdzdwfhbqa2voodjwq7emhmv33b2ns5n4l6fbepj7wee" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[Deleted 🫡
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifx7v3uuqpdzdwfhbqa2voodjwq7emhmv33b2ns5n4l6fbepj7wee" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifx7v3uuqpdzdwfhbqa2voodjwq7emhmv33b2ns5n4l6fbepj7wee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
