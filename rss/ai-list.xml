@@ -5,8 +5,170 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:49:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Stream delayed 🙃</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myg7v3a5ws2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myg7v3a5ws2q</guid>
+      <pubDate>Wed, 21 Oct 2026 22:42:25 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Stream delayed 🙃]]></description>
+      <content:encoded><![CDATA[Stream delayed 🙃]]></content:encoded>
+    </item>
+    <item>
+      <title>Live in an hour. So much to talk about!</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myg5egisyz2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myg5egisyz2u</guid>
+      <pubDate>Wed, 21 Oct 2026 21:57:19 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Live in an hour. So much to talk about!]]></description>
+      <content:encoded><![CDATA[Live in an hour. So much to talk about!]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   PHPの各サポート版で、条件次第で未認証の遠隔コード実行につながる重大な脆弱性2件が修正され…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myg4nknqqo2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myg4nknqqo2b</guid>
+      <pubDate>Wed, 21 Oct 2026 21:44:32 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PHPの各サポート版で、条件次第で未認証の遠隔コード実行につながる重大な脆弱性2件が修正され、利用者に速やかな更新を呼びかけています。問題の発見・修正を通じて、PHPのセキュリティ体制は強化されつつある一方、対応の遅れや人材・資金不足も明らかになり、継続的な支援を企業や公共機関に求めています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PHPの各サポート版で、条件次第で未認証の遠隔コード実行につながる重大な脆弱性2件が修正され、利用者に速やかな更新を呼びかけています。問題の発見・修正を通じて、PHPのセキュリティ体制は強化されつつある一方、対応の遅れや人材・資金不足も明らかになり、継続的な支援を企業や公共機関に求めています。]]></content:encoded>
+    </item>
+    <item>
+      <title>本日公開されたPHPのセキュリティアップデートと、セキュリティ強化に向けた取り組み Today&apos;s PHP securi…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myg4ngvtru27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myg4ngvtru27</guid>
+      <pubDate>Wed, 21 Oct 2026 21:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[本日公開されたPHPのセキュリティアップデートと、セキュリティ強化に向けた取り組み<br>Today's PHP security release, and how we're strengthening security<br><br>🔺 522<br>💬 36<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[本日公開されたPHPのセキュリティアップデートと、セキュリティ強化に向けた取り組み<br>Today's PHP security release, and how we're strengthening security<br><br>🔺 522<br>💬 36<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>As traffic grew exponentially, we moved 99.99999% of GitHub&apos;…</title>
+      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3myfzv44rqw2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3myfzv44rqw2v</guid>
+      <pubDate>Wed, 21 Oct 2026 20:55:04 GMT</pubDate>
+      <author>GitHub (@github.com)</author>
+      <description><![CDATA[As traffic grew exponentially, we moved 99.99999% of GitHub's Git repos to Azure. A new write path moves the last, busiest repos, keeps cross-region round trips from capping throughput, and enables stateless Azure Blob Storage replicas.]]></description>
+      <content:encoded><![CDATA[As traffic grew exponentially, we moved 99.99999% of GitHub's Git repos to Azure. A new write path moves the last, busiest repos, keeps cross-region round trips from capping throughput, and enables stateless Azure Blob Storage replicas.]]></content:encoded>
+    </item>
+    <item>
+      <title>So is Fable 5.5 not happening?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfz72nqft2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfz72nqft2v</guid>
+      <pubDate>Wed, 21 Oct 2026 20:42:44 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[So is Fable 5.5 not happening?]]></description>
+      <content:encoded><![CDATA[So is Fable 5.5 not happening?]]></content:encoded>
+    </item>
+    <item>
+      <title>🔎 Explore everything that&apos;s new in the full release notes: …</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrrb7pz2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrrb7pz2e</guid>
+      <pubDate>Wed, 21 Oct 2026 20:35:18 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/143<br><br>Happy coding! 💙]]></description>
+      <content:encoded><![CDATA[🔎 Explore everything that's new in the full release notes: aka.ms/VSCode/143<br><br>Happy coding! 💙]]></content:encoded>
+    </item>
+    <item>
+      <title>📄 Jump between changed files without scrolling through ever…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrqmybr2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrqmybr2y</guid>
+      <pubDate>Wed, 21 Oct 2026 20:35:18 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[📄 Jump between changed files without scrolling through every diff (Experimental)<br><br>Enable ⚙️ multiDiffEditor experimental fileList, then select a file in the list beside the multi-file diff editor to jump to its changes.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreialmnknn7n6wtonqgw3pfhzskjboij2bxzexaqmbb7o7vjwf7qteu" alt="Screenshot showing the multi-file diff editor file list with status letters for each changed file." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[📄 Jump between changed files without scrolling through every diff (Experimental)<br><br>Enable ⚙️ multiDiffEditor experimental fileList, then select a file in the list beside the multi-file diff editor to jump to its changes.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreialmnknn7n6wtonqgw3pfhzskjboij2bxzexaqmbb7o7vjwf7qteu" alt="Screenshot showing the multi-file diff editor file list with status letters for each changed file." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreialmnknn7n6wtonqgw3pfhzskjboij2bxzexaqmbb7o7vjwf7qteu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🧹 Reclaim disk space from inactive agent worktrees (Experim…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrox2nz2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrox2nz2n</guid>
+      <pubDate>Wed, 21 Oct 2026 20:35:16 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🧹 Reclaim disk space from inactive agent worktrees (Experimental)<br><br>In the Agents window, run Chat: Open Worktree Cleanup to review sizes and remove worktrees you no longer need. <br><br>Cleanup marks the selected sessions as done and deletes their worktrees.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreiayfcezposrktsmfn5xprykzcr4sxceza52igujx343emt6jrja5m" alt="Screenshot showing the worktree cleanup editor with cleanup settings and inactive session worktrees." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[🧹 Reclaim disk space from inactive agent worktrees (Experimental)<br><br>In the Agents window, run Chat: Open Worktree Cleanup to review sizes and remove worktrees you no longer need. <br><br>Cleanup marks the selected sessions as done and deletes their worktrees.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreiayfcezposrktsmfn5xprykzcr4sxceza52igujx343emt6jrja5m" alt="Screenshot showing the worktree cleanup editor with cleanup settings and inactive session worktrees." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreiayfcezposrktsmfn5xprykzcr4sxceza52igujx343emt6jrja5m" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🧠 Compare model results and combine ideas with Synthesize (…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrmy3za2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyrmy3za2p</guid>
+      <pubDate>Wed, 21 Oct 2026 20:35:14 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🧠 Compare model results and combine ideas with Synthesize (Preview)<br><br>In the Agents window, enable ⚙️ sessions chat compareAgents enabled, then select Compare Models in the model picker to run the same task across models.]]></description>
+      <content:encoded><![CDATA[🧠 Compare model results and combine ideas with Synthesize (Preview)<br><br>In the Agents window, enable ⚙️ sessions chat compareAgents enabled, then select Compare Models in the model picker to run the same task across models.]]></content:encoded>
+    </item>
+    <item>
+      <title>🤖 Use the same Copilot session in the editor and Agents win…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqecmkh2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqecmkh2w</guid>
+      <pubDate>Wed, 21 Oct 2026 20:34:31 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🤖 Use the same Copilot session in the editor and Agents window.<br><br>New sessions default to the Copilot harness, built on the Copilot SDK to help align behavior, capabilities, and improvements across Copilot products.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" alt="Screenshot showing Copilot selected in the harness picker with a hover description of its Copilot SDK and Agent Host integration." style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[🤖 Use the same Copilot session in the editor and Agents window.<br><br>New sessions default to the Copilot harness, built on the Copilot SDK to help align behavior, capabilities, and improvements across Copilot products.
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" alt="Screenshot showing Copilot selected in the harness picker with a hover description of its Copilot SDK and Agent Host integration." style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>🚀 The latest VS Code release makes the Copilot SDK-based ha…</title>
+      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqcsboe2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqcsboe2o</guid>
+      <pubDate>Wed, 21 Oct 2026 20:34:28 GMT</pubDate>
+      <author>Visual Studio Code (@vscode.dev)</author>
+      <description><![CDATA[🚀 The latest VS Code release makes the Copilot SDK-based harness the default for new sessions, adds model comparisons, and brings a file list to multi-file diffs.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_143]]></description>
+      <content:encoded><![CDATA[🚀 The latest VS Code release makes the Copilot SDK-based harness the default for new sessions, adds model comparisons, and brings a file list to multi-file diffs.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_143]]></content:encoded>
+    </item>
+    <item>
+      <title>cross-platform desktop and mobile support. It emphasizes cen…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqcl542e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqcl542e</guid>
+      <pubDate>Wed, 21 Oct 2026 20:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[cross-platform desktop and mobile support. It emphasizes centralized management of agent prompts, worktrees, and integrations, plus a strong ecosystem of features and community support. (2/2)]]></description>
+      <content:encoded><![CDATA[cross-platform desktop and mobile support. It emphasizes centralized management of agent prompts, worktrees, and integrations, plus a strong ecosystem of features and community support. (2/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 Summary:   Orca is an open-source AI orchestration deskto…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqb5al2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqb5al2v</guid>
+      <pubDate>Wed, 21 Oct 2026 20:17:23 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📝 Summary: <br><br>Orca is an open-source AI orchestration desktop app that runs multiple CLI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees with features like a mobile companion, terminal splits, design mode, remote SSH worktrees, and in-app GitHub/Linear workflows, with (1/2)]]></description>
+      <content:encoded><![CDATA[📝 Summary: <br><br>Orca is an open-source AI orchestration desktop app that runs multiple CLI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees with features like a mobile companion, terminal splits, design mode, remote SSH worktrees, and in-app GitHub/Linear workflows, with (1/2)]]></content:encoded>
+    </item>
+    <item>
+      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 stablyai / orca ⭐ 10…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrkweer2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrkweer2y</guid>
+      <pubDate>Wed, 21 Oct 2026 20:17:18 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 stablyai / orca<br>⭐ 100,666 (+1,543)<br>🗒 TypeScript<br><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.]]></description>
+      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 stablyai / orca<br>⭐ 100,666 (+1,543)<br>🗒 TypeScript<br><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgri…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvws64uf2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvws64uf2q</guid>
+      <pubDate>Wed, 21 Oct 2026 19:44:26 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgridのような機能を短期間で広く普及させてきた。記事ではInterop 2027候補から、CSS関数、角や枠の形状指定、スクロール連動アニメーション、アクセシビリティに関わる読み上げ順序など、注目する10機能を紹介し、多くは段階的拡張として今から活用できると述べている。AI時代にも、最新のWeb技術を理解し、開発エージェントを適切に導く専門知識が重要だと結んでいる。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgridのような機能を短期間で広く普及させてきた。記事ではInterop 2027候補から、CSS関数、角や枠の形状指定、スクロール連動アニメーション、アクセシビリティに関わる読み上げ順序など、注目する10機能を紹介し、多くは段階的拡張として今から活用できると述べている。AI時代にも、最新のWeb技術を理解し、開発エージェントを適切に導く専門知識が重要だと結んでいる。]]></content:encoded>
+    </item>
+    <item>
+      <title>CSSの未来 The Future of CSS  🔺 572 💬 57 🔗 HN Post | Article</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvwmkzgx2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvwmkzgx2z</guid>
+      <pubDate>Wed, 21 Oct 2026 19:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[CSSの未来<br>The Future of CSS<br><br>🔺 572<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[CSSの未来<br>The Future of CSS<br><br>🔺 572<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>Three.js is more natural for distributing as a web page</title>
       <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myftiwtaxs2w</link>
@@ -308,176 +470,6 @@
       <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
       <description><![CDATA[Not bad for 3ish people who haven't raised money (but probably should)]]></description>
       <content:encoded><![CDATA[Not bad for 3ish people who haven't raised money (but probably should)]]></content:encoded>
-    </item>
-    <item>
-      <title>T3 Code users processed ~36.5 trillion tokens in the same wi…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myf7yirlf22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myf7yirlf22v</guid>
-      <pubDate>Wed, 21 Oct 2026 13:11:41 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[T3 Code users processed ~36.5 trillion tokens in the same window, 1.5x that of all Gemini 4 Argon demand globally 🤷
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2e4zq2eva7ot6rjimchnay7vawq5mci2d7ka4d7enrhvtzt423i" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih3deweqxy6mix4mzrq2ksjmdcnkyrdlxpuogqohpv576uar3ksnq" alt="Quoted post by @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence is incredible and still under appreciated!" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[T3 Code users processed ~36.5 trillion tokens in the same window, 1.5x that of all Gemini 4 Argon demand globally 🤷
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2e4zq2eva7ot6rjimchnay7vawq5mci2d7ka4d7enrhvtzt423i" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreih3deweqxy6mix4mzrq2ksjmdcnkyrdlxpuogqohpv576uar3ksnq" alt="Quoted post by @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence is incredible and still under appreciated!" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig2e4zq2eva7ot6rjimchnay7vawq5mci2d7ka4d7enrhvtzt423i" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 twentyhq / twenty ⭐ 58,…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myf4x5f7ve2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myf4x5f7ve2t</guid>
-      <pubDate>Wed, 21 Oct 2026 12:17:14 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 twentyhq / twenty<br>⭐ 58,802 (+105)<br>🗒 TypeScript<br><br>The open alternative to Salesforce, designed for AI.]]></description>
-      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 twentyhq / twenty<br>⭐ 58,802 (+105)<br>🗒 TypeScript<br><br>The open alternative to Salesforce, designed for AI.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   AGIの進展でプログラミングなどの技能や「働いて稼ぐ力」が揺らぐなか、著者は教育の目的を問い…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myf34hdf5x2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myf34hdf5x2x</guid>
-      <pubDate>Wed, 21 Oct 2026 11:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>AGIの進展でプログラミングなどの技能や「働いて稼ぐ力」が揺らぐなか、著者は教育の目的を問い直す。教育には善き人・市民を育てることや、地球や社会を共に築くことなど多様な目的があり、子どもと対話しながらその目的自体を共に形づくることが大切だと述べる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>AGIの進展でプログラミングなどの技能や「働いて稼ぐ力」が揺らぐなか、著者は教育の目的を問い直す。教育には善き人・市民を育てることや、地球や社会を共に築くことなど多様な目的があり、子どもと対話しながらその目的自体を共に形づくることが大切だと述べる。]]></content:encoded>
-    </item>
-    <item>
-      <title>息子に何を教えたらいいでしょうか？ What shall I teach my son?  🔺 414 💬 141 …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myf34dh5n523</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myf34dh5n523</guid>
-      <pubDate>Wed, 21 Oct 2026 11:44:21 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[息子に何を教えたらいいでしょうか？<br>What shall I teach my son?<br><br>🔺 414<br>💬 141<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[息子に何を教えたらいいでしょうか？<br>What shall I teach my son?<br><br>🔺 414<br>💬 141<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeuftuxkm2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeuftuxkm2u</guid>
-      <pubDate>Wed, 21 Oct 2026 09:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携し、TypeScriptコンパイラの忠実なRust移植版「tsrs」を開発しています。初期ベンチマークではTypeScript 7.0比で最大8倍高速、メモリ使用量約70％減を示し、WebAssembly対応によってブラウザーなど幅広い環境での開発ツール実行も目指します。言語の設計・方向性はTypeScriptチームに委ね、互換性を保ちながら改善を上流にも還元する方針です。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携し、TypeScriptコンパイラの忠実なRust移植版「tsrs」を開発しています。初期ベンチマークではTypeScript 7.0比で最大8倍高速、メモリ使用量約70％減を示し、WebAssembly対応によってブラウザーなど幅広い環境での開発ツール実行も目指します。言語の設計・方向性はTypeScriptチームに委ね、互換性を保ちながら改善を上流にも還元する方針です。]]></content:encoded>
-    </item>
-    <item>
-      <title>Tsrs：TypeScriptからRustへの移植 Tsrs: A Port of TypeScript to Rust…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeufpga3h23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeufpga3h23</guid>
-      <pubDate>Wed, 21 Oct 2026 09:44:19 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Tsrs：TypeScriptからRustへの移植<br>Tsrs: A Port of TypeScript to Rust<br><br>🔺 412<br>💬 40<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Tsrs：TypeScriptからRustへの移植<br>Tsrs: A Port of TypeScript to Rust<br><br>🔺 412<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった  🔖 162 ブックマーク 💬 …</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeq5nsw7q2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeq5nsw7q2r</guid>
-      <pubDate>Wed, 21 Oct 2026 08:28:14 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリース…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpi4rsy2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpi4rsy2x</guid>
-      <pubDate>Wed, 21 Oct 2026 07:44:28 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリースが、2026年10月21日14時（UTC）に予定されています。詳細の公表や悪用の兆候があれば前倒しされる可能性があるため、利用者は事前に準備し、公開後すぐに更新できるようにしてください。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリースが、2026年10月21日14時（UTC）に予定されています。詳細の公表や悪用の兆候があれば前倒しされる可能性があるため、利用者は事前に準備し、公開後すぐに更新できるようにしてください。]]></content:encoded>
-    </item>
-    <item>
-      <title>PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619） Upcoming cr…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpbl6qj2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpbl6qj2q</guid>
-      <pubDate>Wed, 21 Oct 2026 07:44:24 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619）<br>Upcoming critical PHP security release (CVE-2026-109618 / -109619)<br><br>🔺 544<br>💬 43<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619）<br>Upcoming critical PHP security release (CVE-2026-109618 / -109619)<br><br>🔺 544<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Should we give him a T3 Code reset?</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myempkbyi726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myempkbyi726</guid>
-      <pubDate>Wed, 21 Oct 2026 07:26:39 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Should we give him a T3 Code reset?]]></description>
-      <content:encoded><![CDATA[Should we give him a T3 Code reset?]]></content:encoded>
-    </item>
-    <item>
-      <title>Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。 Facebook P…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myegyqdcyq2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myegyqdcyq2a</guid>
-      <pubDate>Wed, 21 Oct 2026 05:44:25 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。<br>Facebook Pages require paid subscription to post more than two links per month<br><br>🔺 429<br>💬 77<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。<br>Facebook Pages require paid subscription to post more than two links per month<br><br>🔺 429<br>💬 77<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeg3q2gcr2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeg3q2gcr2m</guid>
-      <pubDate>Wed, 21 Oct 2026 05:28:12 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>In today&apos;s video, we walk through how to build and deploy an…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myedqdahig2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myedqdahig2q</guid>
-      <pubDate>Wed, 21 Oct 2026 04:46:01 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[In today's video, we walk through how to build and deploy an AI agent without ever leaving #vscode 👉🏽 youtu.be/rfBulzrp5wY
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreico2jw345rx5iovxosuw7q6k5h2sgruf62a7q2a3hwxa5bfs3k7di" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[In today's video, we walk through how to build and deploy an AI agent without ever leaving #vscode 👉🏽 youtu.be/rfBulzrp5wY
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreico2jw345rx5iovxosuw7q6k5h2sgruf62a7q2a3hwxa5bfs3k7di" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreico2jw345rx5iovxosuw7q6k5h2sgruf62a7q2a3hwxa5bfs3k7di" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>This is a wild read.</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myedigzg3u2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myedigzg3u2q</guid>
-      <pubDate>Wed, 21 Oct 2026 04:41:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This is a wild read.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzbk7bv3j2vaofgpn6wqgdnl5vfj5ipnx5jl7loib2xoz7zbhkw4" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig5ajpz2mctsyc7627kq7buuyufdjnmv2ryhcxaoafqndv2fkxs24" alt="Quoted post by @DarioAmodei: Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI companies. I think something would be wrong if companies of the size of Anthropic didn’t get harshly criticized basically every day; strong antibodies against corporate power are a healthy feature of a free society, and especially so when issues of the gravity of the one we’re facing are at play. I also do agree that some of the examples you cite were mistakes by Anthropic.
-
-That said, I disagree with the thrust of your post. At the core, a good fraction of the things you criticize are consequences of Anthropic’s basic theory of change that we have held for many years. Our strategy has always been what I’ve called the “race to the top” — by showing how it’s possible…" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[This is a wild read.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzbk7bv3j2vaofgpn6wqgdnl5vfj5ipnx5jl7loib2xoz7zbhkw4" alt="" style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreig5ajpz2mctsyc7627kq7buuyufdjnmv2ryhcxaoafqndv2fkxs24" alt="Quoted post by @DarioAmodei: Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI companies. I think something would be wrong if companies of the size of Anthropic didn’t get harshly criticized basically every day; strong antibodies against corporate power are a healthy feature of a free society, and especially so when issues of the gravity of the one we’re facing are at play. I also do agree that some of the examples you cite were mistakes by Anthropic.
-
-That said, I disagree with the thrust of your post. At the core, a good fraction of the things you criticize are consequences of Anthropic’s basic theory of change that we have held for many years. Our strategy has always been what I’ve called the “race to the top” — by showing how it’s possible…" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreigzbk7bv3j2vaofgpn6wqgdnl5vfj5ipnx5jl7loib2xoz7zbhkw4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>💡 Summary:   iPadOS 27では、AirPlayでプレゼン中に別のアプリをタップすると、外部画面にiP…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeaccvock2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeaccvock2b</guid>
-      <pubDate>Wed, 21 Oct 2026 03:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>iPadOS 27では、AirPlayでプレゼン中に別のアプリをタップすると、外部画面にiPad全体が映り、授業用のメモや非公開の投票結果まで表示される不具合が起きている。筆者は、プレゼン中のアプリを外部画面に優先表示し続けるようAppleに改善を求め、修正されるまでは授業や発表に使う人に同OSを勧められないとしている。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>iPadOS 27では、AirPlayでプレゼン中に別のアプリをタップすると、外部画面にiPad全体が映り、授業用のメモや非公開の投票結果まで表示される不具合が起きている。筆者は、プレゼン中のアプリを外部画面に優先表示し続けるようAppleに改善を求め、修正されるまでは授業や発表に使う人に同OSを勧められないとしている。]]></content:encoded>
-    </item>
-    <item>
-      <title>AppleがiPadの重要なプレゼンテーション機能を損なった Apple broke an essential pres…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeac7ctk32x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeac7ctk32x</guid>
-      <pubDate>Wed, 21 Oct 2026 03:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[AppleがiPadの重要なプレゼンテーション機能を損なった<br>Apple broke an essential presentation feature of iPads<br><br>🔺 509<br>💬 37<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[AppleがiPadの重要なプレゼンテーション機能を損なった<br>Apple broke an essential presentation feature of iPads<br><br>🔺 509<br>💬 37<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Least favorite: I caved, LaTeX renders on web and mobile  Al…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cjnjhx2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mye7cjnjhx2p</guid>
-      <pubDate>Wed, 21 Oct 2026 03:26:37 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Least favorite: I caved, LaTeX renders on web and mobile<br><br>Also heads up, we're getting a bit more experimental with how we treat Nightly, so now would be a good time to move back to stable :)]]></description>
-      <content:encoded><![CDATA[Least favorite: I caved, LaTeX renders on web and mobile<br><br>Also heads up, we're getting a bit more experimental with how we treat Nightly, so now would be a good time to move back to stable :)]]></content:encoded>
     </item>
   </channel>
 </rss>
