@@ -5,8 +5,80 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:40:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>💡 Summary:   CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeuftuxkm2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeuftuxkm2u</guid>
+      <pubDate>Wed, 21 Oct 2026 09:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携し、TypeScriptコンパイラの忠実なRust移植版「tsrs」を開発しています。初期ベンチマークではTypeScript 7.0比で最大8倍高速、メモリ使用量約70％減を示し、WebAssembly対応によってブラウザーなど幅広い環境での開発ツール実行も目指します。言語の設計・方向性はTypeScriptチームに委ね、互換性を保ちながら改善を上流にも還元する方針です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>CloudflareとVoidZeroはOxcの一環として、TypeScriptチームと連携し、TypeScriptコンパイラの忠実なRust移植版「tsrs」を開発しています。初期ベンチマークではTypeScript 7.0比で最大8倍高速、メモリ使用量約70％減を示し、WebAssembly対応によってブラウザーなど幅広い環境での開発ツール実行も目指します。言語の設計・方向性はTypeScriptチームに委ね、互換性を保ちながら改善を上流にも還元する方針です。]]></content:encoded>
+    </item>
+    <item>
+      <title>Tsrs：TypeScriptからRustへの移植 Tsrs: A Port of TypeScript to Rust…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeufpga3h23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myeufpga3h23</guid>
+      <pubDate>Wed, 21 Oct 2026 09:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Tsrs：TypeScriptからRustへの移植<br>Tsrs: A Port of TypeScript to Rust<br><br>🔺 412<br>💬 40<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Tsrs：TypeScriptからRustへの移植<br>Tsrs: A Port of TypeScript to Rust<br><br>🔺 412<br>💬 40<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった  🔖 162 ブックマーク 💬 …</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeq5nsw7q2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeq5nsw7q2r</guid>
+      <pubDate>Wed, 21 Oct 2026 08:28:14 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリース…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpi4rsy2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpi4rsy2x</guid>
+      <pubDate>Wed, 21 Oct 2026 07:44:28 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリースが、2026年10月21日14時（UTC）に予定されています。詳細の公表や悪用の兆候があれば前倒しされる可能性があるため、利用者は事前に準備し、公開後すぐに更新できるようにしてください。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PHPの重大な脆弱性2件（CVSS v4.0でいずれも9.2）に対処するセキュリティリリースが、2026年10月21日14時（UTC）に予定されています。詳細の公表や悪用の兆候があれば前倒しされる可能性があるため、利用者は事前に準備し、公開後すぐに更新できるようにしてください。]]></content:encoded>
+    </item>
+    <item>
+      <title>PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619） Upcoming cr…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpbl6qj2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myenpbl6qj2q</guid>
+      <pubDate>Wed, 21 Oct 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619）<br>Upcoming critical PHP security release (CVE-2026-109618 / -109619)<br><br>🔺 544<br>💬 43<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[PHPの重大なセキュリティ修正版が近日公開（CVE-2026-109618 / -109619）<br>Upcoming critical PHP security release (CVE-2026-109618 / -109619)<br><br>🔺 544<br>💬 43<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Should we give him a T3 Code reset?</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myempkbyi726</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myempkbyi726</guid>
+      <pubDate>Wed, 21 Oct 2026 07:26:39 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Should we give him a T3 Code reset?]]></description>
+      <content:encoded><![CDATA[Should we give him a T3 Code reset?]]></content:encoded>
+    </item>
+    <item>
+      <title>Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。 Facebook P…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myegyqdcyq2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myegyqdcyq2a</guid>
+      <pubDate>Wed, 21 Oct 2026 05:44:25 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。<br>Facebook Pages require paid subscription to post more than two links per month<br><br>🔺 429<br>💬 77<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Facebookページでは、月に2件を超えるリンクを投稿するには有料サブスクリプションが必要です。<br>Facebook Pages require paid subscription to post more than two links per month<br><br>🔺 429<br>💬 77<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeg3q2gcr2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myeg3q2gcr2m</guid>
+      <pubDate>Wed, 21 Oct 2026 05:28:12 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog<br><br>🔖 198 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
     <item>
       <title>In today&apos;s video, we walk through how to build and deploy an…</title>
       <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myedqdahig2q</link>
@@ -444,83 +516,6 @@ But we're watching Opus 5.5 very closely." style="max-width:100%;margin-top:8px;
       <content:encoded><![CDATA[The happy ending :)
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaklni54f43htgctz3ovom3ue3pkox44wwbzhml3dgcnmt4a5aawi" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
       <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiaklni54f43htgctz3ovom3ue3pkox44wwbzhml3dgcnmt4a5aawi" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The writeup is the post itself simonwillison.net/2026/Oct/20…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydgsvkmcs24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydgsvkmcs24</guid>
-      <pubDate>Tue, 20 Oct 2026 20:08:29 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[The writeup is the post itself simonwillison.net/2026/Oct/20/...]]></description>
-      <content:encoded><![CDATA[The writeup is the post itself simonwillison.net/2026/Oct/20/...]]></content:encoded>
-    </item>
-    <item>
-      <title>No skills used anywhere, just prompts telling it to build wi…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydgs26wtc24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydgs26wtc24</guid>
-      <pubDate>Tue, 20 Oct 2026 20:08:01 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[No skills used anywhere, just prompts telling it to build with Three.js - though it did have initial sprites that it had generated with OpenAI Images]]></description>
-      <content:encoded><![CDATA[No skills used anywhere, just prompts telling it to build with Three.js - though it did have initial sprites that it had generated with OpenAI Images]]></content:encoded>
-    </item>
-    <item>
-      <title>🗝️ How Canvases Bring You and Your Coding Agent Together  E…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mydgnfkcjp25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3mydgnfkcjp25</guid>
-      <pubDate>Tue, 20 Oct 2026 20:05:25 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🗝️ How Canvases Bring You and Your Coding Agent Together<br><br>Explore canvases in #vscode Preview: shared workspaces where you and your coding agent can organize releases, prioritize backlog tasks, and turn cards into plans with context the agent can act on.<br><br>code.visualstudio.com/updates/v1_1...]]></description>
-      <content:encoded><![CDATA[🗝️ How Canvases Bring You and Your Coding Agent Together<br><br>Explore canvases in #vscode Preview: shared workspaces where you and your coding agent can organize releases, prioritize backlog tasks, and turn cards into plans with context the agent can act on.<br><br>code.visualstudio.com/updates/v1_1...]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude generated all of the 3D models (in Three.js) - here&apos;s…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydfsk5x722x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydfsk5x722x</guid>
-      <pubDate>Tue, 20 Oct 2026 19:50:24 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Claude generated all of the 3D models (in Three.js) - here's a model explorer that lists them all plus their animation states. My favorite is the giant "Goliath" stomping mech simonw.github.io/battledrones...]]></description>
-      <content:encoded><![CDATA[Claude generated all of the 3D models (in Three.js) - here's a model explorer that lists them all plus their animation states. My favorite is the giant "Goliath" stomping mech simonw.github.io/battledrones...]]></content:encoded>
-    </item>
-    <item>
-      <title>In addition to human-vs-in-game-AI and human-vs-human it sup…</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydfj7louk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydfj7louk2x</guid>
-      <pubDate>Tue, 20 Oct 2026 19:45:11 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[In addition to human-vs-in-game-AI and human-vs-human it supports two LLMs playing against each other! That works by pausing the game every 5s for them to think about the game state and queue up commands<br><br>Here's a replay link for Haiku 5.5 vs GPT-6 Luna: simonw.github.io/battledrones...]]></description>
-      <content:encoded><![CDATA[In addition to human-vs-in-game-AI and human-vs-human it supports two LLMs playing against each other! That works by pausing the game every 5s for them to think about the game state and queue up commands<br><br>Here's a replay link for Haiku 5.5 vs GPT-6 Luna: simonw.github.io/battledrones...]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   ウクライナ第92独立強襲旅団は、前線で負傷した兵士を大型ドローンで搬送したと発表し、世界初の…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydfi4o5jw2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydfi4o5jw2l</guid>
-      <pubDate>Tue, 20 Oct 2026 19:44:34 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>ウクライナ第92独立強襲旅団は、前線で負傷した兵士を大型ドローンで搬送したと発表し、世界初の事例だとして映像を公開した。敵のドローンや地雷で通常の避難手段が使えない状況で、兵士は治療・リハビリ中という。ウクライナでは軍事利用に加え、医薬品や血液などを運ぶドローンの実験計画も進んでいる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>ウクライナ第92独立強襲旅団は、前線で負傷した兵士を大型ドローンで搬送したと発表し、世界初の事例だとして映像を公開した。敵のドローンや地雷で通常の避難手段が使えない状況で、兵士は治療・リハビリ中という。ウクライナでは軍事利用に加え、医薬品や血液などを運ぶドローンの実験計画も進んでいる。]]></content:encoded>
-    </item>
-    <item>
-      <title>ウクライナ、負傷兵のドローンによる初の搬送を実施と発表 Ukraine claims first drone evacu…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydfhzaxql2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mydfhzaxql2f</guid>
-      <pubDate>Tue, 20 Oct 2026 19:44:30 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[ウクライナ、負傷兵のドローンによる初の搬送を実施と発表<br>Ukraine claims first drone evacuation of wounded soldier<br><br>🔺 398<br>💬 22<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[ウクライナ、負傷兵のドローンによる初の搬送を実施と発表<br>Ukraine claims first drone evacuation of wounded soldier<br><br>🔺 398<br>💬 22<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>I built a Command &amp; Conquer style RTS called Battle Drones, …</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydffvspjs2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mydffvspjs2x</guid>
-      <pubDate>Tue, 20 Oct 2026 19:43:20 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/20/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreibglz2yjm65ixdp3pqei2o2vmx5mm5irxhoziuznwr2kgmvujo2om" alt="Screenshot of a 3D isometric real-time strategy game in progress. HUD at top reads "1:49", "4×", "Ironclad · Industry" (blue dot), "Boom · Industry" (red dot), resource icons and "0:56", with a blue-versus-red balance bar labeled "B" and "R". A banner in the center top reads "DOUBLE KILL" with "Blue" beneath it. The grassy battlefield shows a blue team base in the lower left with a domed command center, a radar dish, two factory buildings and a turret, plus a refinery labeled "+200" where blue supply trucks carrying crates gather around ore deposits, with floating "+45" labels by the trucks. A gravel road runs diagonally from the base to the upper right, where blue tanks fire a laser at a white enemy unit. Near the base, red enemy tanks under fire show a "+45" label, while blue turrets shoot at them. Rocky outcrops sit at the top left and right center, clusters of low-poly trees line the right and bottom edges, and a minimap is in the top right corner. Pause and mute buttons are at the top left, and zoom "+" and "−" buttons and a lightning bolt button are at the bottom left." style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiab6mo7ig5nzlklebglyd2gldanbtbx6zkhcqjawedttanryd32sq" alt="Screenshot of the same strategy game, now on a snowy winter map in replay mode. HUD at top reads "6:27", "1×", "anthropic/claude-haiku-5-5 · industry" (blue dot), "gpt-6-luna · industry" (red dot), resource icons and "0:03", with the balance bar labeled "B" and "R". A note at top left reads "Blue: Pushing turrets at the enemy's south-east edge." A replay panel below the HUD reads "Blue anthropic/claude-haiku-5-5 · industry vs Red gpt-6-luna · industry · frostbite seed 42" with a scrubber at "6:27 / 7:48" and buttons "−30s", "+30s", "All", "Blue's eyes", "Red's eyes" and "Notes". A frozen lake of cracked ice plates fills the left side. In the lower center a group of blue tanks advances past a snow-covered pine forest toward a line of red turrets along the lake shore, one of them burning. A dark rocky ridge crosses the middle, and the red base with a refinery, other buildings, tanks and supply trucks sits in the upper right. Minimap at top right, zoom and lightning buttons at bottom left." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/20/...
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreibglz2yjm65ixdp3pqei2o2vmx5mm5irxhoziuznwr2kgmvujo2om" alt="Screenshot of a 3D isometric real-time strategy game in progress. HUD at top reads "1:49", "4×", "Ironclad · Industry" (blue dot), "Boom · Industry" (red dot), resource icons and "0:56", with a blue-versus-red balance bar labeled "B" and "R". A banner in the center top reads "DOUBLE KILL" with "Blue" beneath it. The grassy battlefield shows a blue team base in the lower left with a domed command center, a radar dish, two factory buildings and a turret, plus a refinery labeled "+200" where blue supply trucks carrying crates gather around ore deposits, with floating "+45" labels by the trucks. A gravel road runs diagonally from the base to the upper right, where blue tanks fire a laser at a white enemy unit. Near the base, red enemy tanks under fire show a "+45" label, while blue turrets shoot at them. Rocky outcrops sit at the top left and right center, clusters of low-poly trees line the right and bottom edges, and a minimap is in the top right corner. Pause and mute buttons are at the top left, and zoom "+" and "−" buttons and a lightning bolt button are at the bottom left." style="max-width:100%;margin-top:8px;">
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiab6mo7ig5nzlklebglyd2gldanbtbx6zkhcqjawedttanryd32sq" alt="Screenshot of the same strategy game, now on a snowy winter map in replay mode. HUD at top reads "6:27", "1×", "anthropic/claude-haiku-5-5 · industry" (blue dot), "gpt-6-luna · industry" (red dot), resource icons and "0:03", with the balance bar labeled "B" and "R". A note at top left reads "Blue: Pushing turrets at the enemy's south-east edge." A replay panel below the HUD reads "Blue anthropic/claude-haiku-5-5 · industry vs Red gpt-6-luna · industry · frostbite seed 42" with a scrubber at "6:27 / 7:48" and buttons "−30s", "+30s", "All", "Blue's eyes", "Red's eyes" and "Notes". A frozen lake of cracked ice plates fills the left side. In the lower center a group of blue tanks advances past a snow-covered pine forest toward a line of red turrets along the lake shore, one of them burning. A dark rocky ridge crosses the middle, and the red base with a refinery, other buildings, tanks and supply trucks sits in the upper right. Minimap at top right, zoom and lightning buttons at bottom left." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreibglz2yjm65ixdp3pqei2o2vmx5mm5irxhoziuznwr2kgmvujo2om" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
