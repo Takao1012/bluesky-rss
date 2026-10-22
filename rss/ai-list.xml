@@ -5,8 +5,130 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:53:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>At T3 Code, we take regressions like this seriously.  I just…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myijnqtjvr22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myijnqtjvr22</guid>
+      <pubDate>Thu, 22 Oct 2026 20:42:37 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[At T3 Code, we take regressions like this seriously.<br><br>I just introduced a "noEmDashCopy" lint rule to prevent this going forward 🫡
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2wpfg6ypqitjrufx523yamjrniqpcjeyb4hipngn35tpvbjhgm" alt="" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiefao2pcq5qhqmmrfpakwr5ljbcuny5opzyvnd7wkifizrz7qnume" alt="Quoted post by @pablonification: @theo @t3dotcodes @jullerino btw, em dash detected. you will hate this and need to fix this @theo https://t.co/c4vAYIjeVk" style="max-width:100%;margin-top:8px;">]]></description>
+      <content:encoded><![CDATA[At T3 Code, we take regressions like this seriously.<br><br>I just introduced a "noEmDashCopy" lint rule to prevent this going forward 🫡
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2wpfg6ypqitjrufx523yamjrniqpcjeyb4hipngn35tpvbjhgm" alt="" style="max-width:100%;margin-top:8px;">
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiefao2pcq5qhqmmrfpakwr5ljbcuny5opzyvnd7wkifizrz7qnume" alt="Quoted post by @pablonification: @theo @t3dotcodes @jullerino btw, em dash detected. you will hate this and need to fix this @theo https://t.co/c4vAYIjeVk" style="max-width:100%;margin-top:8px;">]]></content:encoded>
+      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreiat2wpfg6ypqitjrufx523yamjrniqpcjeyb4hipngn35tpvbjhgm" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Everything got pwn&apos;d. I tried to warn you.</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myijnbul4e2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myijnbul4e2s</guid>
+      <pubDate>Thu, 22 Oct 2026 20:42:21 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Everything got pwn'd. I tried to warn you.]]></description>
+      <content:encoded><![CDATA[Everything got pwn'd. I tried to warn you.]]></content:encoded>
+    </item>
+    <item>
+      <title>Hardly at all - maybe hit the five hour limit once</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myij5lrkis24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myij5lrkis24</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:34 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Hardly at all - maybe hit the five hour limit once]]></description>
+      <content:encoded><![CDATA[Hardly at all - maybe hit the five hour limit once]]></content:encoded>
+    </item>
+    <item>
+      <title>Someone tipped me off! I hadn&apos;t heard of them but they do se…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myij37ukxk22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myij37ukxk22</guid>
+      <pubDate>Thu, 22 Oct 2026 20:32:15 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Someone tipped me off! I hadn't heard of them but they do seem to be very cool]]></description>
+      <content:encoded><![CDATA[Someone tipped me off! I hadn't heard of them but they do seem to be very cool]]></content:encoded>
+    </item>
+    <item>
+      <title>I’ve had many situations where I didn’t realize my internet …</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myih4lpd6l2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myih4lpd6l2r</guid>
+      <pubDate>Thu, 22 Oct 2026 19:57:13 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[I’ve had many situations where I didn’t realize my internet was degraded because T3 Code kept running flawlessly]]></description>
+      <content:encoded><![CDATA[I’ve had many situations where I didn’t realize my internet was degraded because T3 Code kept running flawlessly]]></content:encoded>
+    </item>
+    <item>
+      <title>Spotted a familiar creature at 00:45s in this new music vide…</title>
+      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myigjinnjc22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myigjinnjc22</guid>
+      <pubDate>Thu, 22 Oct 2026 19:46:33 GMT</pubDate>
+      <author>Simon Willison (@simonwillison.net)</author>
+      <description><![CDATA[Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad www.youtube.com/watch?v=hKO4...]]></description>
+      <content:encoded><![CDATA[Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad www.youtube.com/watch?v=hKO4...]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   フランスの裁判所が著作権侵害サイトのDNS遮断をQuad9に命じたことを受け、同団体はプライ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myigfqtjre2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myigfqtjre2s</guid>
+      <pubDate>Thu, 22 Oct 2026 19:44:27 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>フランスの裁判所が著作権侵害サイトのDNS遮断をQuad9に命じたことを受け、同団体はプライバシーやDNSの中立性を損なうとして、2026年11月24日からフランスでのサービス提供を停止します。Quad9は海賊版対策としてDNS遮断は効果に乏しく、利用者の安全やインターネットの自由を損なうと批判し、判決への異議申し立てを続ける方針です。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>フランスの裁判所が著作権侵害サイトのDNS遮断をQuad9に命じたことを受け、同団体はプライバシーやDNSの中立性を損なうとして、2026年11月24日からフランスでのサービス提供を停止します。Quad9は海賊版対策としてDNS遮断は効果に乏しく、利用者の安全やインターネットの自由を損なうと批判し、判決への異議申し立てを続ける方針です。]]></content:encoded>
+    </item>
+    <item>
+      <title>Quad9（DNSリゾルバー）をフランスから撤退へ Quad9 (DNS Resolver) to Exit Franc…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myigfn7no32d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myigfn7no32d</guid>
+      <pubDate>Thu, 22 Oct 2026 19:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[Quad9（DNSリゾルバー）をフランスから撤退へ<br>Quad9 (DNS Resolver) to Exit France<br><br>🔺 596<br>💬 44<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[Quad9（DNSリゾルバー）をフランスから撤退へ<br>Quad9 (DNS Resolver) to Exit France<br><br>🔺 596<br>💬 44<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>📦 fastapi / fastapi ⭐ 103,416 (+96) 🗒 Python  FastAPI fram…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myiev2xmzi2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myiev2xmzi2s</guid>
+      <pubDate>Thu, 22 Oct 2026 19:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[📦 fastapi / fastapi<br>⭐ 103,416 (+96)<br>🗒 Python<br><br>FastAPI framework, high performance, easy to learn, fast to code, ready for production]]></description>
+      <content:encoded><![CDATA[📦 fastapi / fastapi<br>⭐ 103,416 (+96)<br>🗒 Python<br><br>FastAPI framework, high performance, easy to learn, fast to code, ready for production]]></content:encoded>
+    </item>
+    <item>
+      <title>Lmao</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myicwvvufb2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myicwvvufb2w</guid>
+      <pubDate>Thu, 22 Oct 2026 18:42:27 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Lmao]]></description>
+      <content:encoded><![CDATA[Lmao]]></content:encoded>
+    </item>
+    <item>
+      <title>🔥 Hot Repo！ 🔥 (100+ new stars)  📦 Meloong-Git / PCL ⭐ 8,5…</title>
+      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myibjqz3q522</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myibjqz3q522</guid>
+      <pubDate>Thu, 22 Oct 2026 18:17:13 GMT</pubDate>
+      <author>GitHub Trending (@github-trending.bsky.social)</author>
+      <description><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Meloong-Git / PCL<br>⭐ 8,542 (+115)<br>🗒 Visual Basic .NET<br><br>Minecraft 启动器 Plain Craft Launcher（PCL）。]]></description>
+      <content:encoded><![CDATA[🔥 Hot Repo！ 🔥 (100+ new stars)<br><br>📦 Meloong-Git / PCL<br>⭐ 8,542 (+115)<br>🗒 Visual Basic .NET<br><br>Minecraft 启动器 Plain Craft Launcher（PCL）。]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   eMudhraは、収益の約1％にとどまる世界向けSSL/TLS証明書事業から撤退し、企業向け…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myi7p2vk622j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myi7p2vk622j</guid>
+      <pubDate>Thu, 22 Oct 2026 17:44:23 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>eMudhraは、収益の約1％にとどまる世界向けSSL/TLS証明書事業から撤退し、企業向けソリューションやSSL/TLS以外のデジタルトラスト事業に注力します。顧客には移行期間中、証明書の無償交換などで対応し、電子署名やPKI、認証など他の事業は影響を受けず通常どおり運営するとしています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>eMudhraは、収益の約1％にとどまる世界向けSSL/TLS証明書事業から撤退し、企業向けソリューションやSSL/TLS以外のデジタルトラスト事業に注力します。顧客には移行期間中、証明書の無償交換などで対応し、電子署名やPKI、認証など他の事業は影響を受けず通常どおり運営するとしています。]]></content:encoded>
+    </item>
+    <item>
+      <title>eMudhra、世界のSSL/TLS証明書事業から撤退へ eMudhra to exit global SSL/TLS …</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myi7owp6kb2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myi7owp6kb2t</guid>
+      <pubDate>Thu, 22 Oct 2026 17:44:19 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[eMudhra、世界のSSL/TLS証明書事業から撤退へ<br>eMudhra to exit global SSL/TLS certificate business<br><br>🔺 597<br>💬 99<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[eMudhra、世界のSSL/TLS証明書事業から撤退へ<br>eMudhra to exit global SSL/TLS certificate business<br><br>🔺 597<br>💬 99<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>self-assessment, installation tips, and templates for immedi…</title>
       <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myi66swufv2f</link>
@@ -351,135 +473,6 @@
       <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
       <description><![CDATA[📝 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる<br><br>🔖 193 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
       <content:encoded><![CDATA[📝 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる<br><br>🔖 193 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>It’s going to get a lot worse btw</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygut5aey622</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygut5aey622</guid>
-      <pubDate>Thu, 22 Oct 2026 04:57:09 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[It’s going to get a lot worse btw]]></description>
-      <content:encoded><![CDATA[It’s going to get a lot worse btw]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介  🔖 204 ブックマーク…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mygt7forro2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mygt7forro2t</guid>
-      <pubDate>Thu, 22 Oct 2026 04:28:13 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介<br><br>🔖 204 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介<br><br>🔖 204 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>&quot;We’re a few model iterations away from every piece of softw…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygse5724k2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygse5724k2k</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:58 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA["We’re a few model iterations away from every piece of software we rely on being compromised."<br><br>I really wish I wasn't right about this 🙃]]></description>
-      <content:encoded><![CDATA["We’re a few model iterations away from every piece of software we rely on being compromised."<br><br>I really wish I wasn't right about this 🙃]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdz237q2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdz237q2o</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:54 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib2evjx4apvttgyfil25yradeiyuvvdodyvcarb4txxgdgblbyoie" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib2evjx4apvttgyfil25yradeiyuvvdodyvcarb4txxgdgblbyoie" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreib2evjx4apvttgyfil25yradeiyuvvdodyvcarb4txxgdgblbyoie" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>That last .05 hanging on for dear life</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdpza2p2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdpza2p2s</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:44 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[That last .05 hanging on for dear life
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidvgahcswxhns6m5lzrxygsez62vjubjil2uafnjef6u655c6bnaq" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[That last .05 hanging on for dear life
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidvgahcswxhns6m5lzrxygsez62vjubjil2uafnjef6u655c6bnaq" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreidvgahcswxhns6m5lzrxygsez62vjubjil2uafnjef6u655c6bnaq" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The current Railway outage has been going on for 0.2% of the…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdhvhkm2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdhvhkm2w</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:36 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[The current Railway outage has been going on for 0.2% of the year btw]]></description>
-      <content:encoded><![CDATA[The current Railway outage has been going on for 0.2% of the year btw]]></content:encoded>
-    </item>
-    <item>
-      <title>99.99% uptime = down for &lt; 9 minutes a year 99.9% uptime = d…</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdd5u3f2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsdd5u3f2i</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:31 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[99.99% uptime = down for < 9 minutes a year<br>99.9% uptime = down for < 9 hours a year<br><br>A 9 hour outage caps you to 2 nines of reliability for the year.]]></description>
-      <content:encoded><![CDATA[99.99% uptime = down for < 9 minutes a year<br>99.9% uptime = down for < 9 hours a year<br><br>A 9 hour outage caps you to 2 nines of reliability for the year.]]></content:encoded>
-    </item>
-    <item>
-      <title>Spent multiple hours now evaluating Railway alternatives to …</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsd4uybl2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygsd4uybl2v</guid>
-      <pubDate>Thu, 22 Oct 2026 04:12:24 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[Spent multiple hours now evaluating Railway alternatives to move my shit to. Conclusion is that Railway's product is uniquely good and nothing comes close to a drop in replacement 🙃<br><br>Minimum cost to replicate my setup today is 3x higher than I am paying them currently]]></description>
-      <content:encoded><![CDATA[Spent multiple hours now evaluating Railway alternatives to move my shit to. Conclusion is that Railway's product is uniquely good and nothing comes close to a drop in replacement 🙃<br><br>Minimum cost to replicate my setup today is 3x higher than I am paying them currently]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   LiteLLM 1.107.0のPyPI配布物には、Python起動時に実行される認証情報窃…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mygqrawzyg2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mygqrawzyg2d</guid>
-      <pubDate>Thu, 22 Oct 2026 03:44:31 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>LiteLLM 1.107.0のPyPI配布物には、Python起動時に実行される認証情報窃取コードと、外部からコードを取得・実行するバックドアが混入していた。公開ソースには存在しない改変が非公開のリリース工程で入り込んだ可能性が高く、同バージョンはPyPIから削除済み。影響を受けた環境では侵害調査と認証情報の更新が必要となる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>LiteLLM 1.107.0のPyPI配布物には、Python起動時に実行される認証情報窃取コードと、外部からコードを取得・実行するバックドアが混入していた。公開ソースには存在しない改変が非公開のリリース工程で入り込んだ可能性が高く、同バージョンはPyPIから削除済み。影響を受けた環境では侵害調査と認証情報の更新が必要となる。]]></content:encoded>
-    </item>
-    <item>
-      <title>PyPIで配布された侵害済みのLiteLLM 1.107.0、認証情報を盗みバックドアを仕込む Compromised …</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mygqr4ekid2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3mygqr4ekid2s</guid>
-      <pubDate>Thu, 22 Oct 2026 03:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[PyPIで配布された侵害済みのLiteLLM 1.107.0、認証情報を盗みバックドアを仕込む<br>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor<br><br>🔺 455<br>💬 51<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[PyPIで配布された侵害済みのLiteLLM 1.107.0、認証情報を盗みバックドアを仕込む<br>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor<br><br>🔺 455<br>💬 51<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」  🔖 195 ブックマ…</title>
-      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mygpu5vpas2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mygpu5vpas2d</guid>
-      <pubDate>Thu, 22 Oct 2026 03:28:15 GMT</pubDate>
-      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
-      <description><![CDATA[📝 高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」<br><br>🔖 195 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
-      <content:encoded><![CDATA[📝 高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」<br><br>🔖 195 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
-    </item>
-    <item>
-      <title>I&apos;m retiring and moving to the woods</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygoxmejdy27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3mygoxmejdy27</guid>
-      <pubDate>Thu, 22 Oct 2026 03:12:17 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[I'm retiring and moving to the woods
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifsp25tvjaewls3awv3pdusdyo4j3yqtcunz2rniesrh4itr4iobm" alt="" style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[I'm retiring and moving to the woods
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifsp25tvjaewls3awv3pdusdyo4j3yqtcunz2rniesrh4itr4iobm" alt="" style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bvsrpph72nmygfwlrzb5xkfm/bafkreifsp25tvjaewls3awv3pdusdyo4j3yqtcunz2rniesrh4itr4iobm" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>1 week away from #GitHubUniverse and we can&apos;t wait to see yo…</title>
-      <link>https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mygntepmxb2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sydgpvanh46u766n536r33oa/post/3mygntepmxb2k</guid>
-      <pubDate>Thu, 22 Oct 2026 02:52:01 GMT</pubDate>
-      <author>GitHub (@github.com)</author>
-      <description><![CDATA[1 week away from #GitHubUniverse and we can't wait to see you 🌁<br><br>Can't make it in-person? Sign up to join us virtually (it's free) ⬇️<br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=one_week
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifnsv7izfmhek3vb4etfdj3h7n6tzk4f5nq2dy4hvm6z3x4ixidmm" alt="GitHub Universe '26 poster featuring Mona the Octocat and a yellow rubber duck. Text in the corner mentions event dates: October 28-29, 2026, and the web address githubuniverse.com. The background is blue." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[1 week away from #GitHubUniverse and we can't wait to see you 🌁<br><br>Can't make it in-person? Sign up to join us virtually (it's free) ⬇️<br>https://githubuniverse.com/?utm_source=Bluesky&utm_medium=Social&utm_campaign=one_week
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifnsv7izfmhek3vb4etfdj3h7n6tzk4f5nq2dy4hvm6z3x4ixidmm" alt="GitHub Universe '26 poster featuring Mona the Octocat and a yellow rubber duck. Text in the corner mentions event dates: October 28-29, 2026, and the web address githubuniverse.com. The background is blue." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sydgpvanh46u766n536r33oa/bafkreifnsv7izfmhek3vb4etfdj3h7n6tzk4f5nq2dy4hvm6z3x4ixidmm" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
