@@ -5,8 +5,98 @@
     <link>https://bsky.app/profile/txkxoxn.bsky.social/lists/3mpnqngyjsl2e</link>
     <description>ZennとQiitaのトレンドフィードのノイズが気になって停止した代わりに、Bluesky上でAI関連の発信を追うためのリスト</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:42:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:33:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>📝 PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside  🔖 162 ブッ…</title>
+      <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myho2as2bt2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3myho2as2bt2k</guid>
+      <pubDate>Thu, 22 Oct 2026 12:28:31 GMT</pubDate>
+      <author>はてなブックマーク Tech Bot (@hatena-tech.bsky.social)</author>
+      <description><![CDATA[📝 PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></description>
+      <content:encoded><![CDATA[📝 PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside<br><br>🔖 162 ブックマーク<br>💬 コメント<br>🔗 記事リンク]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   Railwayは、環境変数を保存するシステムへの不正アクセスがあり、一部の暗号化された秘密情…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myhllbsz2f2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myhllbsz2f2y</guid>
+      <pubDate>Thu, 22 Oct 2026 11:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>Railwayは、環境変数を保存するシステムへの不正アクセスがあり、一部の暗号化された秘密情報が復号されて取得された可能性を公表しました。影響範囲の調査中で全デプロイを一時停止しており、利用者には環境変数やAPIキー、レジストリ認証情報の即時更新とログ確認を呼びかけています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>Railwayは、環境変数を保存するシステムへの不正アクセスがあり、一部の暗号化された秘密情報が復号されて取得された可能性を公表しました。影響範囲の調査中で全デプロイを一時停止しており、利用者には環境変数やAPIキー、レジストリ認証情報の即時更新とログ確認を呼びかけています。]]></content:encoded>
+    </item>
+    <item>
+      <title>セキュリティ情報の開示 Security Disclosure  🔺 489 💬 55 🔗 HN Post | A…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myhll6dmmo2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myhll6dmmo2r</guid>
+      <pubDate>Thu, 22 Oct 2026 11:44:18 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[セキュリティ情報の開示<br>Security Disclosure<br><br>🔺 489<br>💬 55<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[セキュリティ情報の開示<br>Security Disclosure<br><br>🔺 489<br>💬 55<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Every time someone says &quot;ai can&apos;t write good code&quot;, I know t…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myhi4aoj3w22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myhi4aoj3w22</guid>
+      <pubDate>Thu, 22 Oct 2026 10:42:15 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Every time someone says "ai can't write good code", I know that they can't write good code.]]></description>
+      <content:encoded><![CDATA[Every time someone says "ai can't write good code", I know that they can't write good code.]]></content:encoded>
+    </item>
+    <item>
+      <title>Had the exact opposite of this today. I would never have sur…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myhfluaaga2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myhfluaaga2v</guid>
+      <pubDate>Thu, 22 Oct 2026 09:57:18 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Had the exact opposite of this today. I would never have survived the day without agents.<br><br>They caught so many problems. They triaged all the outages and security issues. They rolled dozens of api keys across various platforms.<br><br>Building with AI is pretty damn cool.]]></description>
+      <content:encoded><![CDATA[Had the exact opposite of this today. I would never have survived the day without agents.<br><br>They caught so many problems. They triaged all the outages and security issues. They rolled dozens of api keys across various platforms.<br><br>Building with AI is pretty damn cool.]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   eMudhraの中間CAとクロス署名ルート証明書、対応する秘密鍵を追加しました。証明書関連の…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myheupnmxa2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myheupnmxa2t</guid>
+      <pubDate>Thu, 22 Oct 2026 09:44:22 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>eMudhraの中間CAとクロス署名ルート証明書、対応する秘密鍵を追加しました。証明書関連の処理をRSA鍵だけでなくEC鍵にも対応させるため、型定義と秘密鍵読み込み関数を拡張しています。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>eMudhraの中間CAとクロス署名ルート証明書、対応する秘密鍵を追加しました。証明書関連の処理をRSA鍵だけでなくEC鍵にも対応させるため、型定義と秘密鍵読み込み関数を拡張しています。]]></content:encoded>
+    </item>
+    <item>
+      <title>mitmproxyに「--emudhra」オプションが追加されました。 mitmproxy adds --emudhra…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myheul2zkx2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myheul2zkx2r</guid>
+      <pubDate>Thu, 22 Oct 2026 09:44:17 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[mitmproxyに「--emudhra」オプションが追加されました。<br>mitmproxy adds --emudhra option<br><br>🔺 472<br>💬 28<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[mitmproxyに「--emudhra」オプションが追加されました。<br>mitmproxy adds --emudhra option<br><br>🔺 472<br>💬 28<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
+    <item>
+      <title>Caring a lot about harnesses rn feels similar to caring abou…</title>
+      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myh6vawpzu26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myh6vawpzu26</guid>
+      <pubDate>Thu, 22 Oct 2026 07:57:17 GMT</pubDate>
+      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
+      <description><![CDATA[Caring a lot about harnesses rn feels similar to caring about tabs vs spaces]]></description>
+      <content:encoded><![CDATA[Caring a lot about harnesses rn feels similar to caring about tabs vs spaces]]></content:encoded>
+    </item>
+    <item>
+      <title>💡 Summary:   PHPに重大な脆弱性はあるものの、出回っている多数の「PoC」は標準的なPHP環境では動作せ…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myh667cda225</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myh667cda225</guid>
+      <pubDate>Thu, 22 Oct 2026 07:44:24 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[💡 Summary: <br><br>PHPに重大な脆弱性はあるものの、出回っている多数の「PoC」は標準的なPHP環境では動作せず、既存の深刻な欠陥を前提にするものも多いため、Log4Shellのように容易に悪用できる状況ではないと筆者は主張する。LLMが動作しない攻撃コードを量産し、脆弱性の深刻さを誤認させていると批判しつつ、実際の危険度にかかわらずサーバーは修正すべきだと呼びかけている。]]></description>
+      <content:encoded><![CDATA[💡 Summary: <br><br>PHPに重大な脆弱性はあるものの、出回っている多数の「PoC」は標準的なPHP環境では動作せず、既存の深刻な欠陥を前提にするものも多いため、Log4Shellのように容易に悪用できる状況ではないと筆者は主張する。LLMが動作しない攻撃コードを量産し、脆弱性の深刻さを誤認させていると批判しつつ、実際の危険度にかかわらずサーバーは修正すべきだと呼びかけている。]]></content:encoded>
+    </item>
+    <item>
+      <title>このPHPの脆弱性を悪用する簡単な方法はありません。 There isn&apos;t an easy exploit for t…</title>
+      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myh663hmhh2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myh663hmhh2j</guid>
+      <pubDate>Thu, 22 Oct 2026 07:44:20 GMT</pubDate>
+      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
+      <description><![CDATA[このPHPの脆弱性を悪用する簡単な方法はありません。<br>There isn't an easy exploit for this PHP vulnerability<br><br>🔺 472<br>💬 57<br>🔗 HN Post | Article]]></description>
+      <content:encoded><![CDATA[このPHPの脆弱性を悪用する簡単な方法はありません。<br>There isn't an easy exploit for this PHP vulnerability<br><br>🔺 472<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
+    </item>
     <item>
       <title>📝 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版…</title>
       <link>https://bsky.app/profile/did:plc:tlhqo7uw5d3rcohosg3io7t5/post/3mygzvzddoi2s</link>
@@ -405,99 +495,6 @@
       <author>Visual Studio Code (@vscode.dev)</author>
       <description><![CDATA[🧠 Compare model results and combine ideas with Synthesize (Preview)<br><br>In the Agents window, enable ⚙️ sessions chat compareAgents enabled, then select Compare Models in the model picker to run the same task across models.]]></description>
       <content:encoded><![CDATA[🧠 Compare model results and combine ideas with Synthesize (Preview)<br><br>In the Agents window, enable ⚙️ sessions chat compareAgents enabled, then select Compare Models in the model picker to run the same task across models.]]></content:encoded>
-    </item>
-    <item>
-      <title>🤖 Use the same Copilot session in the editor and Agents win…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqecmkh2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqecmkh2w</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:31 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🤖 Use the same Copilot session in the editor and Agents window.<br><br>New sessions default to the Copilot harness, built on the Copilot SDK to help align behavior, capabilities, and improvements across Copilot products.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" alt="Screenshot showing Copilot selected in the harness picker with a hover description of its Copilot SDK and Agent Host integration." style="max-width:100%;margin-top:8px;">]]></description>
-      <content:encoded><![CDATA[🤖 Use the same Copilot session in the editor and Agents window.<br><br>New sessions default to the Copilot harness, built on the Copilot SDK to help align behavior, capabilities, and improvements across Copilot products.
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" alt="Screenshot showing Copilot selected in the harness picker with a hover description of its Copilot SDK and Agent Host integration." style="max-width:100%;margin-top:8px;">]]></content:encoded>
-      <enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2xibtqlq4oplg5hkbqw56xgu/bafkreibnkbpt6xeuc4hhn7zzijgivg5aensisvri66xwauxmgz6ajhg6cu" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🚀 The latest VS Code release makes the Copilot SDK-based ha…</title>
-      <link>https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqcsboe2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2xibtqlq4oplg5hkbqw56xgu/post/3myfyqcsboe2o</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:28 GMT</pubDate>
-      <author>Visual Studio Code (@vscode.dev)</author>
-      <description><![CDATA[🚀 The latest VS Code release makes the Copilot SDK-based harness the default for new sessions, adds model comparisons, and brings a file list to multi-file diffs.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_143]]></description>
-      <content:encoded><![CDATA[🚀 The latest VS Code release makes the Copilot SDK-based harness the default for new sessions, adds model comparisons, and brings a file list to multi-file diffs.<br><br>🧵 Here’s what’s new:<br>code.visualstudio.com/updates/v1_143]]></content:encoded>
-    </item>
-    <item>
-      <title>cross-platform desktop and mobile support. It emphasizes cen…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqcl542e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqcl542e</guid>
-      <pubDate>Wed, 21 Oct 2026 20:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[cross-platform desktop and mobile support. It emphasizes centralized management of agent prompts, worktrees, and integrations, plus a strong ecosystem of features and community support. (2/2)]]></description>
-      <content:encoded><![CDATA[cross-platform desktop and mobile support. It emphasizes centralized management of agent prompts, worktrees, and integrations, plus a strong ecosystem of features and community support. (2/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>📝 Summary:   Orca is an open-source AI orchestration deskto…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqb5al2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrqb5al2v</guid>
-      <pubDate>Wed, 21 Oct 2026 20:17:23 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[📝 Summary: <br><br>Orca is an open-source AI orchestration desktop app that runs multiple CLI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees with features like a mobile companion, terminal splits, design mode, remote SSH worktrees, and in-app GitHub/Linear workflows, with (1/2)]]></description>
-      <content:encoded><![CDATA[📝 Summary: <br><br>Orca is an open-source AI orchestration desktop app that runs multiple CLI agents (Claude Code, Codex, Grok, etc.) in parallel worktrees with features like a mobile companion, terminal splits, design mode, remote SSH worktrees, and in-app GitHub/Linear workflows, with (1/2)]]></content:encoded>
-    </item>
-    <item>
-      <title>💎 Hidden Gem！ 💎 (1000+ new stars)  📦 stablyai / orca ⭐ 10…</title>
-      <link>https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrkweer2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eidn2o5kwuaqcss7zo7ivye5/post/3myfxrkweer2y</guid>
-      <pubDate>Wed, 21 Oct 2026 20:17:18 GMT</pubDate>
-      <author>GitHub Trending (@github-trending.bsky.social)</author>
-      <description><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 stablyai / orca<br>⭐ 100,666 (+1,543)<br>🗒 TypeScript<br><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.]]></description>
-      <content:encoded><![CDATA[💎 Hidden Gem！ 💎 (1000+ new stars)<br><br>📦 stablyai / orca<br>⭐ 100,666 (+1,543)<br>🗒 TypeScript<br><br>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgri…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvws64uf2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvws64uf2q</guid>
-      <pubDate>Wed, 21 Oct 2026 19:44:26 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgridのような機能を短期間で広く普及させてきた。記事ではInterop 2027候補から、CSS関数、角や枠の形状指定、スクロール連動アニメーション、アクセシビリティに関わる読み上げ順序など、注目する10機能を紹介し、多くは段階的拡張として今から活用できると述べている。AI時代にも、最新のWeb技術を理解し、開発エージェントを適切に導く専門知識が重要だと結んでいる。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>主要ブラウザ各社が進める「Interop」は、ブラウザ間の互換性を高め、CSS Subgridのような機能を短期間で広く普及させてきた。記事ではInterop 2027候補から、CSS関数、角や枠の形状指定、スクロール連動アニメーション、アクセシビリティに関わる読み上げ順序など、注目する10機能を紹介し、多くは段階的拡張として今から活用できると述べている。AI時代にも、最新のWeb技術を理解し、開発エージェントを適切に導く専門知識が重要だと結んでいる。]]></content:encoded>
-    </item>
-    <item>
-      <title>CSSの未来 The Future of CSS  🔺 572 💬 57 🔗 HN Post | Article</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvwmkzgx2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfvwmkzgx2z</guid>
-      <pubDate>Wed, 21 Oct 2026 19:44:20 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[CSSの未来<br>The Future of CSS<br><br>🔺 572<br>💬 57<br>🔗 HN Post | Article]]></description>
-      <content:encoded><![CDATA[CSSの未来<br>The Future of CSS<br><br>🔺 572<br>💬 57<br>🔗 HN Post | Article]]></content:encoded>
-    </item>
-    <item>
-      <title>Three.js is more natural for distributing as a web page</title>
-      <link>https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myftiwtaxs2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3myftiwtaxs2w</guid>
-      <pubDate>Wed, 21 Oct 2026 19:00:53 GMT</pubDate>
-      <author>Simon Willison (@simonwillison.net)</author>
-      <description><![CDATA[Three.js is more natural for distributing as a web page]]></description>
-      <content:encoded><![CDATA[Three.js is more natural for distributing as a web page]]></content:encoded>
-    </item>
-    <item>
-      <title>This makes me profoundly sad</title>
-      <link>https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfsifyas72m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bvsrpph72nmygfwlrzb5xkfm/post/3myfsifyas72m</guid>
-      <pubDate>Wed, 21 Oct 2026 18:42:42 GMT</pubDate>
-      <author>Theo - t3.gg {bot} (@theo.xmirror.bot)</author>
-      <description><![CDATA[This makes me profoundly sad]]></description>
-      <content:encoded><![CDATA[This makes me profoundly sad]]></content:encoded>
-    </item>
-    <item>
-      <title>💡 Summary:   PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-10…</title>
-      <link>https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfpa4yyy62u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:apeaukvxm3yedgqw5zcf5pwc/post/3myfpa4yyy62u</guid>
-      <pubDate>Wed, 21 Oct 2026 17:44:23 GMT</pubDate>
-      <author>Hacker News JP (@hacker-news-jp.bsky.social)</author>
-      <description><![CDATA[💡 Summary: <br><br>PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正したPHP 8.2.35を公開しました。完全な緩和策はないため、PHP 8.2利用者は直ちに更新してください。PHP 8.2は2026年12月31日にサポート終了となるため、対応中のバージョンへの移行も計画してください。]]></description>
-      <content:encoded><![CDATA[💡 Summary: <br><br>PHP開発チームは、重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正したPHP 8.2.35を公開しました。完全な緩和策はないため、PHP 8.2利用者は直ちに更新してください。PHP 8.2は2026年12月31日にサポート終了となるため、対応中のバージョンへの移行も計画してください。]]></content:encoded>
     </item>
   </channel>
 </rss>
